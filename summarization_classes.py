@@ -6,8 +6,6 @@ Created on Tue May  3 12:14:47 2022
 @author: daniel, arthur
 """
 
-# TODO: lentidão no Gensim (OK), numero de sumários baixo com Opinosis, transformers
-
 from multiprocessing.spawn import prepare
 import threading
 from alive_progress import alive_bar
@@ -319,6 +317,7 @@ class Method:
         from sumy.summarizers.sum_basic import SumBasicSummarizer
         from sumy.summarizers.kl import KLSummarizer
         from sumy.summarizers.reduction import ReductionSummarizer
+        from sumy.summarizers.edmundson import EdmundsonSummarizer
         from sumy.parsers.plaintext import PlaintextParser
         from sumy.nlp.tokenizers import Tokenizer  # For Strings
         from sumy.parsers.html import HtmlParser
@@ -326,13 +325,21 @@ class Method:
 
         self.sumy_thread_count = 5000
         the_method = self.the_method.replace("Sumy", "")
+        print(the_method) ####
+        print(get_stop_words("english")) #####
         the_summarizer = locals()[the_method + "Summarizer"]()
 
         with alive_bar(len(self.texts_df), bar=None, spinner="dots", title="Running " + self.the_method + " Summarizer") as bar:
             summarizer_output_list = []
             for index, row in self.texts_df.iterrows():
                 parser = PlaintextParser.from_string(row["text"], Tokenizer("english"))
-                summarizer_output_list.append(the_summarizer(parser.document, self.sentence_count))
+                if the_method != "EdmundsonSummarizer": #####
+                    summarizer_output_list.append(the_summarizer(parser.document, self.sentence_count))
+                else:
+                    the_summarizer.bonus_words=[]
+                    the_summarizer.stigma_words=[]
+                    the_summarizer.null_words=get_stop_words("english")
+                    summarizer_output_list.append(the_summarizer(parser.document, self.sentence_count))
                 bar()
 
         self.candidate_summaries_list = []

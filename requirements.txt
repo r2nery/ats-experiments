@@ -6,7 +6,7 @@ nltk==3.7
 numpy==1.22.4
 pandas==1.4.3
 py_rouge==1.1
-regex==2022.7.2
+regex
 rouge_metric==1.0.1
 sumy==0.10.0
 transformers==4.21.1
