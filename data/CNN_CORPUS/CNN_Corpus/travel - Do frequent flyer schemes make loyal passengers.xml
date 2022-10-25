@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1768" link="http://edition.cnn.com/2013/06/02/travel/airline-loyalty-frequent-flyer-schemes" date_published="2013-06-03 03:19:30" category="travel" author="Daisy Carrington, for CNN" highlights_mapped="true" mapping_error="false">
+  <title>Do frequent flyer schemes make loyal passengers?</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="4">Recent survey found 40% of passengers never redeem loyalty miles.</sentence>
+      <sentence id="2" ids_article_sentences="16">Many airlines don&amp;apost;t see frequent flyer programs as a business priority.</sentence>
+      <sentence id="3" ids_article_sentences="25">Air France-KLM seen as one of the best, partnering with Delta.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-07-23 09:08:33" annotation_time="46.779503">
+      <sentence id="4" ids_highlights="1">A poll of 1,005 British citizens conducted by Collinson Latitude found that 40% of those signed up to airline loyalty schemes never redeem miles, which, one would imagine, slightly defeats the purpose.</sentence>
+      <sentence id="16" ids_highlights="2">The discrepancy, Sorensen says, simply comes down to the fact that some airlines think making reward seats available is good business practice, while others just don&amp;apost;t see it as a priority.</sentence>
+      <sentence id="25" ids_highlights="3">The best part is that Air France-KLM are partnered with Delta, meaning if a member of Delta&amp;apost;s SkyMiles program can&amp;apost;t find the reward seat they want at the price they want, they could always try using those miles to book with Air France.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Frequent flyer programs are meant to breed passenger loyalty.</content>
+        </sentence>
+        <sentence id="2">
+          <content>The logic goes that if travelers can earn free tickets and preferential treatment by flying one airline or alliance, they will.</content>
+        </sentence>
+        <sentence id="3">
+          <content>A new study shows that this isn&amp;apost;t always the case.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="4">
+          <content>A poll of 1,005 British citizens conducted by Collinson Latitude found that 40% of those signed up to airline loyalty schemes never redeem miles, which, one would imagine, slightly defeats the purpose.</content>
+        </sentence>
+        <sentence id="5">
+          <content>Given the many seeming limitations associated with them -- blackout dates, minimum spends, expiry dates -- it&amp;apost;s not surprising.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;It&amp;apost;s ironic that what is meant to be a key benefit for travelers becomes a key frustration quite quickly,&amp;quot; says James Berry, product director for Collinson Latitude.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>Jay Sorensen, the president of IdeaWorksCompany, which consults airlines on how to build and improve their loyalty schemes, says he doesn&amp;apost;t find the study surprising.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;The UK is a bit of an enigma in the market, as their three largest airlines don&amp;apost;t encourage people to sign up to their programs,&amp;quot; he says.</content>
+        </sentence>
+        <sentence id="9">
+          <content>British Airways&amp;apost; scheme, titled the Executive Club, is almost exclusively geared towards business travelers, he says, while neither Ryan Air nor EasyJet have designated programs.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>Is that seat free?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>Still, if a good loyalty scheme is rated on the ease of acquiring a reward seat, the British carriers aren&amp;apost;t the only ones letting customers down.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>IdeaWorksCompany recently conducted research as part of the Switchfly Reward Seat Availability Survey.</content>
+        </sentence>
+        <sentence id="13">
+          <content>Throughout March, they made 7,560 queries for free seats on 25 leading airlines, and tallied the percentages that were available.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>Air Berlin, GOL and Southwest tied for top spot, each able to accommodate queries 100% of the time.</content>
+        </sentence>
+        <sentence id="15">
+          <content>Delta and US Airways tied for last place, with only 36.5% of requests resulting in a potential booking.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="16">
+          <content>The discrepancy, Sorensen says, simply comes down to the fact that some airlines think making reward seats available is good business practice, while others just don&amp;apost;t see it as a priority.</content>
+        </sentence>
+        <sentence id="17">
+          <content>Arguably, some airlines are more interested in selling reward miles to third parties, such as banks, who can distribute the miles as rewards to their own customers.</content>
+        </sentence>
+        <sentence id="18">
+          <content>The practice is a multi-billion dollar earner for many carriers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;They love cashing the checks from the banks, they just hate to give up those seats,&amp;quot; quips Sorensen.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="20">
+          <content>More bang for your buck.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="21">
+          <content>Another major grievance for those polled by Collinson Latitude was the lack of affordability of reward seats, with 60% complaining it takes too long to earn enough miles to get anything of value.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="22">
+          <content>Gary Leff, the cofounder of frequent flyer community milepoint.com, and a consultant on the Freddie Awards, which recognizes airlines with the best loyalty schemes, notes that some carriers have hidden value that one might not realize from simply skimming their policy page online.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="23">
+          <content>&amp;quot;Air France-KLM are particularly good,&amp;quot; he says (the airline recently won four Freddie&amp;apost;s for their Flying Blue program).</content>
+        </sentence>
+        <sentence id="24">
+          <content>&amp;quot;They have frequent promotions that allow members to redeem international awards at just half the usual miles.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="25">
+          <content>The best part is that Air France-KLM are partnered with Delta, meaning if a member of Delta&amp;apost;s SkyMiles program can&amp;apost;t find the reward seat they want at the price they want, they could always try using those miles to book with Air France.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="26">
+          <content>Does it make you loyal?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="27">
+          <content>As only 60% of those polled seem to make use of their frequent flyer program, it&amp;apost;s understandable to question whether these schemes succeed in building allegiance to a brand.</content>
+        </sentence>
+        <sentence id="28">
+          <content>Sorensen says sadly, it&amp;apost;s a difficult prospect to measure.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="29">
+          <content>&amp;quot;If we had an airline that would turn their program off, we would have empirical evidence one way or another, but no one has done that, because these programs are a weapon no one wants to be without.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

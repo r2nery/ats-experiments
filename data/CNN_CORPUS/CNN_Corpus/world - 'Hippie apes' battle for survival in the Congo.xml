@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2019" link="http://edition.cnn.com/2013/01/03/world/africa/lola-ya-bonobo-congo" date_published="2013-01-03 12:14:47" category="world" author="Errol Barnett and Teo Kermeliotis, CNN" highlights_mapped="true" mapping_error="false">
+  <title>&amp;apost;Hippie apes&amp;apost; battle for survival in the Congo</title>
+  <keywords>lola ya bonobo congo drc</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="6">The endangered bonobo is only found in the Democratic Republic of Congo.</sentence>
+      <sentence id="2" ids_article_sentences="8">War, deforestation and bushmeat trade are all threatening bonobos.</sentence>
+      <sentence id="3" ids_article_sentences="10">Lola Ya Bonobo is the world&amp;apost;s first and only sanctuary for the peaceful apes.</sentence>
+      <sentence id="4" ids_article_sentences="16">It is currently home to more than 60 bonobos.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-09-10 14:54:36" annotation_time="22.841667">
+      <sentence id="6" ids_highlights="1">Found only in the Democratic Republic of Congo, the bonobos inhabit the country&amp;apost;s lowland rainforests along the south bank of the Congo River.</sentence>
+      <sentence id="8" ids_highlights="2">Although the bonobo habitat is located several hundred miles away from the epicenter of the crisis, conservationists say that the country&amp;apost;s instability over the years has made it almost impossible to study bonobos and find out where they are or determine how many are left.</sentence>
+      <sentence id="10" ids_highlights="3">&amp;quot;The decade of war in the late 1990s resulted in extensive population displacement, military/rebel movements and a greater availability of firearms and ammunition, which contributed to increased hunting of wildlife, including bonobos,&amp;quot; says Dominique Morel, of Friends of Bonobos, a group supporting Lola Ya Bonobo, the world&amp;apost;s first and only sanctuary for the endangered species.</sentence>
+      <sentence id="16" ids_highlights="4">The sanctuary, which is located just outside Kinshasa in some 30 hectares of primary forest, is today home to at least 65 bonobos, many of which are young orphans that have been either rescued from the wild or brought in after hunters killed their parents.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>They are known as the hippies of the ape kingdom, a peaceful and affectionate species that is more interested in making love than killing each other.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>One of the world&amp;apost;s rarest apes, bonobos are close cousins of chimpanzees and share 98.7% of human DNA.</content>
+        </sentence>
+        <sentence id="3">
+          <content>But unlike their ape relatives -- and humans -- bonobos shy away from engaging in vicious conflicts.</content>
+        </sentence>
+        <sentence id="4">
+          <content>Instead, they share food, groom each other and use a variety of sexual activities to build relationships, promote social bonding and strengthen alliances.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>It is, then, an ironic twist that the very existence of this affable species has come under threat by decades of war and deforestation in one of Africa&amp;apost;s most troubled parts.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>Found only in the Democratic Republic of Congo, the bonobos inhabit the country&amp;apost;s lowland rainforests along the south bank of the Congo River.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>In recent months, tensions erupted once again in the vast country as rebels launched a major attack in the violence-riddled eastern part of the DRC.</content>
+        </sentence>
+        <sentence id="8">
+          <content>Although the bonobo habitat is located several hundred miles away from the epicenter of the crisis, conservationists say that the country&amp;apost;s instability over the years has made it almost impossible to study bonobos and find out where they are or determine how many are left.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>At the same time, the expansion of the commercial bushmeat trade -- the selling of wild animal meat, such as that of the endangered bonobo -- threatens the survival of the apes even further.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;The decade of war in the late 1990s resulted in extensive population displacement, military/rebel movements and a greater availability of firearms and ammunition, which contributed to increased hunting of wildlife, including bonobos,&amp;quot; says Dominique Morel, of Friends of Bonobos, a group supporting Lola Ya Bonobo, the world&amp;apost;s first and only sanctuary for the endangered species.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>Born of necessity from the increasing threat of the bushmeat trade, Lola Ya Bonobo was founded in the mid-1990s by Claudine Andre, a Belgian-born conservationist who was working at the time as a volunteer in Kinshasa&amp;apost;s zoo.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>It was there that Andre, who moved with her veterinarian father to Congo at the age of three, saw a bonobo for the first time -- an encounter that was destined to change her life forever.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>Andre, a mother of five, fell in love with the bonobos and started to rescue them one by one by taking them home with her.</content>
+        </sentence>
+        <sentence id="14">
+          <content>But soon she found herself needing a bigger space as the number of bonobos she took under her wing started to grow.</content>
+        </sentence>
+        <sentence id="15">
+          <content>The Congolese government eventually stepped in to help set up a more permanent home that would become Lola Ya Bonobo.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>The sanctuary, which is located just outside Kinshasa in some 30 hectares of primary forest, is today home to at least 65 bonobos, many of which are young orphans that have been either rescued from the wild or brought in after hunters killed their parents.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;Bushmeat never stops,&amp;quot; says Andre.</content>
+        </sentence>
+        <sentence id="18">
+          <content>&amp;quot;We have no solution and we receive more and more orphans every year.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="19">
+          <content>An important part of the sanctuary&amp;apost;s work is rehabilitating injured bonobos from the forest and, hopefully, one day returning them to the wild.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="20">
+          <content>&amp;quot;Conservation asks us to make a test for reintroduction in the wild,&amp;quot; says Andre.</content>
+        </sentence>
+        <sentence id="21">
+          <content>&amp;quot;So we make this experience two times already since 2009, a group of bonobos from here, returned to the wild.</content>
+        </sentence>
+        <sentence id="22">
+          <content>And for them it was a success because after two-three months, they are home.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="23">
+          <content>The sanctuary also aims to educate the public about bonobos.</content>
+        </sentence>
+        <sentence id="24">
+          <content>Staff at Lola Ya Bonobo say that some 40,000 people come through its doors each year, including tourists and local schoolchildren, as well as graduate students conducting research on everything from bonobo behaviour to the evolution of the human brain.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="25">
+          <content>Conservationists say stability in the DRC is essential to ensure that bonobo conservation programs are not jeopardized.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="26">
+          <content>&amp;quot;Advocating for wildlife conservation is always a battle in a country as poor as the DRC,&amp;quot; says Morel.</content>
+        </sentence>
+        <sentence id="27">
+          <content>&amp;quot;In times of crisis, when the security and basic needs of civilian populations are often not assured, it becomes even more challenging.</content>
+        </sentence>
+        <sentence id="28">
+          <content>If eco-guards and staff have to be evacuated from certain areas for their own safety, equipment, infrastructure and sometimes animals suffer.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="29">
+          <content>&amp;quot;Only with peace and stability can long-term investments in wildlife conservation -- research, conservation education, community-based habitat protection and eco-tourism -- be successfully implemented.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

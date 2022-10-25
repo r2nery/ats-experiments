@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="374" link="http://www.cnn.com/2013/03/19/health/sugary-drinks-deaths/index.html" date_published="2013-03-19 20:10:31" category="health" author="Leslie Wade, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Sugary drinks linked to 180,000 deaths worldwide</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">About 1 in every 100 deaths is caused by sugary beverages, researchers say.</sentence>
+      <sentence id="2" ids_article_sentences="5">The American Beverage Association says the study is &amp;quot;more about sensationalism&amp;quot;.</sentence>
+      <sentence id="3" ids_article_sentences="15">Researchers analyzed data to link sugary drink consumption to obesity-related deaths.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-04 17:48:02" annotation_time="180.87166" mapping_time_divergence="60.290554">
+      <sentence id="2" ids_highlights="1">&amp;quot;This means about one in every 100 deaths from obesity-related diseases is caused by drinking sugary beverages,&amp;quot; says study author Gitanjali Singh, a postdoctoral research fellow at the Harvard School of Public Health.</sentence>
+      <sentence id="5" ids_highlights="2">However, the American Beverage Association dismissed the research as &amp;quot;more about sensationalism than science.&amp;quot;</sentence>
+      <sentence id="15" ids_highlights="3">When the researchers controlled for these factors, they were able to determine what percentage of deaths from diabetes, heart disease and cancer were linked to sugary drinks.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Sugar-sweetened beverages are linked to more than 180,000 obesity-related deaths worldwide each year, according to new research presented this week at an American Heart Association conference.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>&amp;quot;This means about one in every 100 deaths from obesity-related diseases is caused by drinking sugary beverages,&amp;quot; says study author Gitanjali Singh, a postdoctoral research fellow at the Harvard School of Public Health.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Among the world&amp;apost;s 35 largest countries, Mexico had the highest death rates from sugary drinks, and Bangladesh had the lowest, according to the study.</content>
+        </sentence>
+        <sentence id="4">
+          <content>The United States ranked third.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>However, the American Beverage Association dismissed the research as &amp;quot;more about sensationalism than science.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>When people drink too many beverages containing added sugar, such as soft drinks, fruit drinks, energy or sports beverages, they tend to put on weight.</content>
+        </sentence>
+        <sentence id="7">
+          <content>The study authors say these added pounds increase the risk of developing diabetes, cardiovascular disease and some cancers -- conditions often referred to as obesity-related diseases.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>Researchers at Harvard wanted to find out how often people around the globe drank sugar-sweetened beverages and how that affected their risk of death.</content>
+        </sentence>
+        <sentence id="9">
+          <content>They looked at 114 national dietary surveys covering more than 60% of the world&amp;apost;s population.</content>
+        </sentence>
+        <sentence id="10">
+          <content>They also used evidence from studies published in medical journals that discussed sugary drinks and other dietary habits.</content>
+        </sentence>
+        <sentence id="11">
+          <content>Their data was included in the 2010 Global Burden of Disease Study, which looks at the health and mortality of populations across the world.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>How did the Harvard scientists single out that sweet drinks were linked to weight gain and death?</content>
+        </sentence>
+        <sentence id="13">
+          <content>They spent several years gathering and combing through data.</content>
+        </sentence>
+        <sentence id="14">
+          <content>They looked at all kinds of factors that can affect our weight such as TV watching, changes in physical activity levels, smoking and the consumption of all kinds of food and drink.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="15">
+          <content>When the researchers controlled for these factors, they were able to determine what percentage of deaths from diabetes, heart disease and cancer were linked to sugary drinks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;The investigators examined changes in sugar-sweetened beverage consumption and then its association with change in body fatness or BMI (body mass index), and subsequent deaths from cardiovascular disease, diabetes and cancer,&amp;quot; says Rachel Johnson, professor of nutrition at the University of Vermont in Burlington and chair of the American Heart Assocation&amp;apost;s Nutrition Committee, who was not involved in the study.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="17">
+          <content>Scientists found that more people died from diabetes, heart disease and cancer in parts of the world where consumption of sugary drinks is high.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="18">
+          <content>Of the nine world regions in 2010, Latin America and the Caribbean had the most diabetes deaths linked to sugary drinks with 38,000.</content>
+        </sentence>
+        <sentence id="19">
+          <content>East and Central Eurasia had the most cardiovascular deaths at 11,000.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="20">
+          <content>In the United States, sugary drinks were linked to the deaths of 25,000 people from diabetes and other obesity-related diseases.</content>
+        </sentence>
+        <sentence id="21">
+          <content>As in many other countries, the death rates were highest in young adults under age 45, with one in 10 obesity-related deaths associated with sugary beverages.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;Almost three-quarters of the deaths caused by sugary drinks are in low and middle income countries,&amp;quot; says study author Dr. Dariush Mozaffarian, co-director of the cardiovascular epidemiology program at the Harvard School of Public Health.</content>
+        </sentence>
+        <sentence id="23">
+          <content>&amp;quot;So this is not just a problem in wealthy nations.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="24">
+          <content>The average consumption of sugar-sweetened beverages in Mexico, the country with the highest death rates among larger nations, was 24 ounces per day.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="25">
+          <content>The American Beverage Association released this statement in response to the study:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="26">
+          <content>&amp;quot;This abstract, which is neither peer-reviewed nor published, is more about sensationalism than science.</content>
+        </sentence>
+        <sentence id="27">
+          <content>In no way does it show that consuming sugar-sweetened beverages causes chronic diseases such as diabetes, cardiovascular disease or cancer - the real causes of death among the studied subjects.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="28">
+          <content>&amp;quot;The researchers make a huge leap when they illogically and wrongly take beverage intake calculations from around the globe and allege that those beverages are the cause of deaths which the authors themselves acknowledge are due to chronic disease.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="29">
+          <content>The study authors and other experts disagree.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="30">
+          <content>&amp;quot;We know having an elevated BMI is associated with an increased risk of heart disease, diabetes and some cancers,&amp;quot; says Johnson.</content>
+        </sentence>
+        <sentence id="31">
+          <content>&amp;quot;The body does not seem to detect fullness as well when you drink sugary drinks.</content>
+        </sentence>
+        <sentence id="32">
+          <content>That is one explanation for why sugar-sweetened beverages are associated with obesity.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="33">
+          <content>Recently the American Heart Association came out with a scientific statement about sugar intake and heart health because it says there is new evidence about the relationship between the two.</content>
+        </sentence>
+        <sentence id="34">
+          <content>The statement says some research has found a link between sugar consumption and cardiovascular disease, while other research has not found a direct link.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="35">
+          <content>The AHA says that the best way to maintain a healthy weight and to decrease the risk of heart disease is to eat a healthy diet and to limit added sugar to no more than 100 calories a day for women and 150 for men.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="36">
+          <content>Soft drinks and other sugar-sweetened beverages are the main source of added sugars in the American diet, according to the statement.</content>
+        </sentence>
+        <sentence id="37">
+          <content>One 12-ounce regular soda contains the equivalent of 10 teaspoons of sugar and has about 140 calories.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

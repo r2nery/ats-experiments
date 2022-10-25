@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="80" link="http://www.cnn.com/2013/12/08/business/japan-on-the-road-maglev/index.html?iid=article_sidebar" date_published="2013-12-09 00:56:06" category="business" author="Peter Shadbolt, for CNN" highlights_mapped="true" mapping_error="false">
+  <title>Japan makes a future bet on maglev trains</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="4">The Shinkansen network transports around 930,000 passengers every day.</sentence>
+      <sentence id="2" ids_article_sentences="7">A pioneer of high-speed rail, Japan faces intense rivalry from China and European train giants France and Germany.</sentence>
+      <sentence id="3" ids_article_sentences="15">Train company JR Tokai plans to build a $100 billion, 286-km maglev track to between Tokyo and Nagoya.</sentence>
+      <sentence id="4" ids_article_sentences="30">It also plans to export its technology overseas, pitching an offer to the United States.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-09-06 09:00:10" annotation_time="66.23067">
+      <sentence id="4" ids_highlights="1">The Shinkansen network transports around 930,000 passengers every day.</sentence>
+      <sentence id="7" ids_highlights="2">With the fastest speed of Shinkansen trains at a &amp;quot;mere&amp;quot; 320 km/h (200 mph) -- and some of its technology decades old -- Japan is now facing intense rivalry not only from European train giants France and Germany, but also China, whose 10,000-km (6,200 miles) &amp;quot;gaotie&amp;quot; track currently in operation is the world&amp;apost;s longest high-speed rail network.</sentence>
+      <sentence id="15" ids_highlights="3">Japan expects to spend more than $100 billion on the recently announced proposal to build a maglev rail to run the 286-km distance between Tokyo and Nagoya.</sentence>
+      <sentence id="30" ids_highlights="4">Meanwhile, JR Tokai is also seeking to export maglev technology overseas.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The image of the Shinkansen bullet train streaking past Mount Fuji is a powerful part of the iconography of the resurgent post-war Japan.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Introduced in 1964, just months ahead of the the Tokyo Olympics, the bullet train represented everything that Japan wanted for itself: a sleek, cutting-edge and reliable mode of transportation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The average annual delay of a Shinkansen train is 36 seconds -- even accounting for earthquakes and typhoons.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>The Shinkansen network transports around 930,000 passengers every day.</content>
+        </sentence>
+        <sentence id="5">
+          <content>During rush hour, bullet trains leave urban stations around Japan as often as every six minutes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>But nearly 50 years on, Japan&amp;apost;s hi-tech wonder desperately needs an update.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>With the fastest speed of Shinkansen trains at a &amp;quot;mere&amp;quot; 320 km/h (200 mph) -- and some of its technology decades old -- Japan is now facing intense rivalry not only from European train giants France and Germany, but also China, whose 10,000-km (6,200 miles) &amp;quot;gaotie&amp;quot; track currently in operation is the world&amp;apost;s longest high-speed rail network.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>It has become crucial for Japan to search for a new technology so as not to lose its title as a pioneer and leader of high-speed rail, and to drive billions of dollars in contracts.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>For Japan&amp;apost;s Prime Minister Shinzo Abe, the answer lies in maglev, or magnetic levitation, trains that can reach speeds of 506 km/h (315 mph).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;It is truly a dream technology,&amp;quot; Abe said in a speech at the New York Stock Exchange in September.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="11">
+          <content>Maglevs use powerful electromagnets to float and propel a swiftly moving train above its tracks, eliminating metal friction.</content>
+        </sentence>
+        <sentence id="12">
+          <content>Japan currently holds the world speed record for a manned maglev train, hitting 581 km/h (361 mph) in 2003.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="13">
+          <content>High speeds, high costs.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="14">
+          <content>The costs for these next-generation trains are eye-watering.</content>
+        </sentence>
+        <sentence id="15">
+          <content>Japan expects to spend more than $100 billion on the recently announced proposal to build a maglev rail to run the 286-km distance between Tokyo and Nagoya.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="16">
+          <content>With 246 km, or 86% of the route, running through tunnels in the mountainous region -- a massively expensive undertaking -- there are concerns that the service, which is not due to operate until 2027, could become a high-speed white elephant.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="17">
+          <content>Unlike previous bullet train projects, the private rail operator JR Tokai, which operates the Tokaido Shinkansen line, intends to shoulder the entire 9 trillion yen ($88.1 billion) cost of building the maglev line.</content>
+        </sentence>
+        <sentence id="18">
+          <content>It also has plans to extend the run from Tokyo to Osaka in 2045.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="19">
+          <content>Despite the dream of slashing the 100-minute journey between Tokyo and Nagoya down to 40 minutes and the 145-minute journey from Tokyo to Osaka to 67 minutes, the project is facing considerable skepticism.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="20">
+          <content>According to Japan&amp;apost;s National Institute of Population and Social Security Research, by the time the first Tokyo-Osaka maglev glides down the track in 2045, Japan&amp;apost;s population will have declined to 105 million from the current 127 million.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="21">
+          <content>Critics say there will simply not be enough demand for the high-speed service.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;Basically, JR Tokai is the most profitable train operator in Japan, but looking forward, a lot of their earnings will be used up for the capital expenditure in this project,&amp;quot; says Paul Wan, transport analyst at CLSA in Hong Kong.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="23">
+          <content>&amp;quot;That&amp;apost;s the reason you&amp;apost;re seeing some investors being pushed away by that -- especially by the very long time frame for this project to become operational.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="24">
+          <content>Even apart from the problem of demographics, Wan says that the Japan of 1964 -- when its economy was booming and its population was young and expanding -- was very different from the Japan of today.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="25">
+          <content>&amp;quot;I can see why some people are quite negative on the project,&amp;quot; he says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="26">
+          <content>&amp;quot;If you look at the Japan of the past 20 years, the economy has not really been growing -- it&amp;apost;s been in a deflationary environment.</content>
+        </sentence>
+        <sentence id="27">
+          <content>At the same time the population is declining -- there just aren&amp;apost;t enough babies there.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="28">
+          <content>&amp;quot;Whether they will need such a service as the maglev in 30 years time is a big question mark.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="29">
+          <content>Maglev between New York and Washington D.C.?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="30">
+          <content>Meanwhile, JR Tokai is also seeking to export maglev technology overseas.</content>
+        </sentence>
+        <sentence id="31">
+          <content>Last month, it held a maglev road show for U.S. politicians, taking them on a test ride in central Japan.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="32">
+          <content>With the offer of bankrolling billions of the operating costs for a maglev link between New York and Washington -- cutting the current three-hour journey down to one hour -- the company reasons that if the United States invests in its technology, then others will follow.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="33">
+          <content>For Abe, it might be a hard sell, but one that has received his full backing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="34">
+          <content>&amp;quot;Making use of this technology would connect New York and Washington, D.C., in less than an hour.</content>
+        </sentence>
+        <sentence id="35">
+          <content>It would free people from the congested roads that frazzle their nerves while saving not only 443,000 gallons of gasoline but also 682,000 hours of time that are now wasted annually,&amp;quot; the Japanese leader told the New York Stock Exchange.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="36">
+          <content>&amp;quot;In Japan, preparations are already well under way even now towards opening the Tokyo to Nagoya section.</content>
+        </sentence>
+        <sentence id="37">
+          <content>But before that, let&amp;apost;s first connect Baltimore and Washington, D.C. I have already presented President Obama with a proposal to do exactly that.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="38">
+          <content>Even with the sweetener -- which would involve Japan providing the maglev guideway and propulsion system free for the first portion of the New York to D.C. line, linking the U.S. capital and Baltimore -- doubts remain.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="39">
+          <content>&amp;quot;For the U.S. it&amp;apost;s all about jobs,&amp;quot; says Wan.</content>
+        </sentence>
+        <sentence id="40">
+          <content>&amp;quot;If the project provides enough work then it may invest.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="41">
+          <content>&amp;quot;The real test of whether Japan can export this technology will come (when) they actually have the maglev up and running rather than just talking about it.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

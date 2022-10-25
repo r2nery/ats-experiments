@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2000" link="http://www.cnn.com/2014/07/01/us/tulsa-sexual-assaults/index.html" date_published="2014-07-01 21:13:13" category="us" author="Dana Ford, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Tulsa police hunt for serial sexual assault suspect</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="8">There have been eight connected cases of sexual assault in the last month.</sentence>
+      <sentence id="2" ids_article_sentences="6, 5, 4">Police have no name, no photograph and are working off victims&amp;apost; diverse descriptions.</sentence>
+      <sentence id="3" ids_article_sentences="22">&amp;quot;This guy needs to be caught or he needs to be taken out,&amp;quot; says one resident.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-14 00:31:00" annotation_time="81.96233">
+      <sentence id="4" ids_highlights="2">They have no name.</sentence>
+      <sentence id="5" ids_highlights="2">No photograph.</sentence>
+      <sentence id="6" ids_highlights="2">Victims have provided diverse descriptions of the suspect, ranging from a light skinned black or Hispanic man, to a tan white man.</sentence>
+      <sentence id="8" ids_highlights="1">According to police, there have been eight connected cases of sexual assault in Tulsa in the last month.</sentence>
+      <sentence id="22" ids_highlights="3">This guy needs to be caught or he needs to be taken out,&amp;quot; he said.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>He breaks into homes from the back, either through a window or door.</content>
+        </sentence>
+        <sentence id="2">
+          <content>He tends to be covered, and attacks when it&amp;apost;s dark.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>Police in Tulsa, Oklahoma, know that much about the man they say could be behind a string of recent sexual assaults, but little else.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>They have no name.</content>
+        </sentence>
+        <sentence id="5">
+          <content>No photograph.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>Victims have provided diverse descriptions of the suspect, ranging from a light skinned black or Hispanic man, to a tan white man.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;We&amp;apost;re looking for a needle in a haystack, and it&amp;apost;s a moving needle,&amp;quot; Tulsa Police Chief Chuck Jordan told reporters, CNN affiliate KOKI reported.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>According to police, there have been eight connected cases of sexual assault in Tulsa in the last month.</content>
+        </sentence>
+        <sentence id="9">
+          <content>They are being linked because of specific actions and statements the suspect made during the attacks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>The victims have been between 56-78 years old, except for one, who was 29.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;These home invasions and sexual assaults are obviously horrific,&amp;quot; Jordan said, KOKI reported.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>The police chief vowed to bring the perpetrator -- whoever he is -- to justice.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>&amp;apost;This guy needs to be caught&amp;apost;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>Where facts are short, fear is long.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>Residents are on edge and on the lookout for anything unusual in their neighborhoods.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;My best friend called me this morning when her husband was out of town and she said she slept with a shotgun,&amp;quot; Amy Tidwell, part of an Alert Neighbors program in her Midtown neighborhood, told KOKI.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="17">
+          <content>The program is part of Tulsa&amp;apost;s Crime Prevention Network, which told the affiliate its phones have been busy with requests since the attacks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;It&amp;apost;s made my family less lazy, my neighbors less lazy about securing your house, and sometimes we need a wake-up call like that,&amp;quot; said Tidwell.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="19">
+          <content>KOKI also spoke with Tulsa resident Jake Floyd, who said he is concerned for the safety of his wife and daughters.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="20">
+          <content>&amp;quot;I am turning on the alarm system.</content>
+        </sentence>
+        <sentence id="21">
+          <content>We&amp;apost;ve put up some outdoor lights on the garage, motion sensors.</content>
+        </sentence>
+        <sentence id="22">
+          <content>This guy needs to be caught or he needs to be taken out,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="23">
+          <content>&amp;apost;Lock your doors&amp;apost;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="24">
+          <content>Police are following up on tips and asking for the public to report anything strange.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="25">
+          <content>Chief Jordan also recommended ways that residents could help protect themselves.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="26">
+          <content>&amp;quot;Lock your doors and the chance of you being a victim becomes much, much less,&amp;quot; he said, KOKI reported.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="27">
+          <content>Resident John Bevens, a Tulsa resident, told the affiliate he&amp;apost;s confident police will eventually find the suspect.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="28">
+          <content>&amp;quot;If he&amp;apost;s getting bolder and bolder that means he&amp;apost;s going to get careless because he&amp;apost;s getting confident,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="29">
+          <content>&amp;quot;They&amp;apost;ll catch him.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="636" link="http://www.cnn.com/2013/01/30/justice/illinois-teen-shot/index.html" date_published="2013-01-30 20:50:17" category="justice" author="Catherine E. Shoichet and Ted Rowlands, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Teen who performed at Obama inaugural events shot dead in Chicago</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="17">NEW: Chicago mayor: &amp;quot;We have a responsibility to see a stop to this&amp;quot;.</sentence>
+      <sentence id="2" ids_article_sentences="2">Hadiya Pendleton, 15, was shot dead in Chicago on Tuesday.</sentence>
+      <sentence id="3" ids_article_sentences="1">Last week she performed in events surrounding President Obama&amp;apost;s inauguration.</sentence>
+      <sentence id="4" ids_article_sentences="8">&amp;quot;Just a matter of days after the happiest day of her life, she&amp;apost;s gone,&amp;quot; Sen. Dick Durbin says.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-11 10:18:20" annotation_time="95.14834" mapping_time_divergence="23.787085">
+      <sentence id="1" ids_highlights="3">Chicago A teen who performed at events around President Barack Obama&amp;apost;s inauguration was shot to death in Chicago this week, and now her story has become part of the debate in Washington over gun violence nationwide.</sentence>
+      <sentence id="2" ids_highlights="2">The shooting death of 15-year-old Hadiya Pendleton came up in a U.S. Senate hearing and a White House press briefing Wednesday.</sentence>
+      <sentence id="8" ids_highlights="4">&amp;quot;Just a matter of days after the happiest day of her life, she&amp;apost;s gone.&amp;quot;</sentence>
+      <sentence id="17" ids_highlights="1">&amp;quot;We have a responsibility to see a stop to this,&amp;quot; he said.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Chicago A teen who performed at events around President Barack Obama&amp;apost;s inauguration was shot to death in Chicago this week, and now her story has become part of the debate in Washington over gun violence nationwide.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The shooting death of 15-year-old Hadiya Pendleton came up in a U.S. Senate hearing and a White House press briefing Wednesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;She was an honor student and a majorette,&amp;quot; said Sen. Dick Durbin, D-Illinois.</content>
+        </sentence>
+        <sentence id="4">
+          <content>Performing at inaugural events last week &amp;quot;was the highlight of her young, 15-year-old life,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Speaking at Wednesday&amp;apost;s Senate Judiciary Committee hearing on gun violence, Durbin mentioned Pendleton&amp;apost;s death as he argued that more must be done to stop gun crimes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;Yesterday, in a rainstorm after school, she raced to a shelter.</content>
+        </sentence>
+        <sentence id="7">
+          <content>A gunman came in and shot her dead,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="8">
+          <content>&amp;quot;Just a matter of days after the happiest day of her life, she&amp;apost;s gone.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>The park shelter where she was shot is just a mile from Obama&amp;apost;s home in Chicago.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>White House spokesman Jay Carney described her death as a &amp;quot;terrible tragedy.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;The president has more than once, when he talks about gun violence in America, referred not just to the horror of Newtown or Aurora or Virginia Tech or Oak Creek but to shootings on the corner in Chicago or other parts of the country,&amp;quot; Carney told reporters.</content>
+        </sentence>
+        <sentence id="12">
+          <content>&amp;quot;And this is just another example of the problem we need to deal with.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>2013 has gotten off to a deadly start in Chicago -- Pendleton was the year&amp;apost;s 42nd murder victim.</content>
+        </sentence>
+        <sentence id="14">
+          <content>No arrests have been made in the case, police said Wednesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>In 2012, 506 people were slain in the city.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>Chicago Mayor Rahm Emanuel described Pendleton Wednesday as &amp;quot;what&amp;apost;s best in our city, a child going to school who takes a final exam, who had just been to the inaugural.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;We have a responsibility to see a stop to this,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="18">
+          <content>&amp;quot;And all of us are responsible.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="19">
+          <content>Pendleton was shot just blocks away from her high school on the south side of Chicago, CNN affiliate WGN reported.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="20">
+          <content>Police told CNN affiliates that the teenager had no gang affiliation and likely was not the intended target.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="21">
+          <content>&amp;quot;There has to be an end to it.</content>
+        </sentence>
+        <sentence id="22">
+          <content>It&amp;apost;s just too much.</content>
+        </sentence>
+        <sentence id="23">
+          <content>The children cannot go to school.</content>
+        </sentence>
+        <sentence id="24">
+          <content>They&amp;apost;re in fear,&amp;quot; Bonita O&amp;apost;Bannion, who lives in the area where the shooting occurred, told CNN affiliate WBBM.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="25">
+          <content>Carney said the president and first lady&amp;apost;s thoughts and prayers are with Pendleton&amp;apost;s family.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="26">
+          <content>&amp;quot;And as the president said, we will never be able to eradicate every act of evil in this country,&amp;quot; Carney said, &amp;quot;but if we can save even one child&amp;apost;s life, we have an obligation to try when it comes to the scourge of gun violence.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

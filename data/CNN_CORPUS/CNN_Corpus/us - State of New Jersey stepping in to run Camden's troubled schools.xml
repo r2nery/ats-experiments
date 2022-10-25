@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1989" link="http://www.cnn.com/2013/03/25/us/new-jersey-camden-schools/index.html" date_published="2013-03-25 20:06:08" category="us" author="Laura Ly, CNN" highlights_mapped="true" mapping_error="false">
+  <title>State of New Jersey stepping in to run Camden&amp;apost;s troubled schools</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">Gov. Chris Christie: &amp;quot;We&amp;apost;re taking the lead because ... Camden has failed its children&amp;quot;.</sentence>
+      <sentence id="2" ids_article_sentences="12">The city schools&amp;apost; graduation rate fell to 49.27% in 2012, down from 56.89% the year before.</sentence>
+      <sentence id="3" ids_article_sentences="16">State intervention will include monitoring school progress and financial guidance, Christie says.</sentence>
+      <sentence id="4" ids_article_sentences="21">&amp;quot;I always knew this day was coming,&amp;quot; the school board president says.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-31 23:15:10" annotation_time="33.905003">
+      <sentence id="3" ids_highlights="1">&amp;quot;We&amp;apost;re taking the lead because for too long, the public school system in Camden has failed its children,&amp;quot; he said.</sentence>
+      <sentence id="12" ids_highlights="2">In 2012, the city&amp;apost;s graduation rate fell to 49.27%, down from 56.89% the year before.</sentence>
+      <sentence id="16" ids_highlights="3">Christie said the state intervention will include close monitoring of school progress as well as guidance in financial decisions.</sentence>
+      <sentence id="21" ids_highlights="4">&amp;quot;I always knew this day was coming,&amp;quot; she said.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The state of New Jersey is taking over administration of the troubled public schools in the city of Camden, Gov. Chris Christie announced Monday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>A recent Department of Education investigation found Camden city schools are among the lowest-performing in the state, Christie said at a news conference at Woodrow Wilson High School in the city.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;We&amp;apost;re taking the lead because for too long, the public school system in Camden has failed its children,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="4">
+          <content>&amp;quot;Each day that it gets worse, we&amp;apost;re failing the children of Camden, we&amp;apost;re denying them a future, we&amp;apost;re not allowing them to reach their full potential.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>The poor student performance, a lack of a districtwide curricula, inconsistent and haphazard school staffing, lack of central leadership, and a failure to provide student support services has resulted in &amp;quot;full state intervention,&amp;quot; the governor&amp;apost;s office said in a news release.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>Christie said the decision to partner with Camden school officials was not one made easily or quickly.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;I waited three years because I really felt like I wanted to give the folks in the city of Camden the chance without having to enter into a partnership with the state,&amp;quot; Christie said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>The issues with student achievement and institutional administration do not stem from a lack of financial support.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Camden is receiving more than $279.5 million in state funding, an increase of $3.6 million from last year.</content>
+        </sentence>
+        <sentence id="10">
+          <content>During the 2011-12 school year, Camden spent $23,709 per student, compared with the statewide average of $18,045, the governor&amp;apost;s office said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>Statistics published by the New Jersey Board of Education show that school graduation rates in Camden are among the lowest in the state.</content>
+        </sentence>
+        <sentence id="12">
+          <content>In 2012, the city&amp;apost;s graduation rate fell to 49.27%, down from 56.89% the year before.</content>
+        </sentence>
+        <sentence id="13">
+          <content>This is well below the state average graduation rate of 86.46% in 2012.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>From 2011 to 2012, only 2% of Camden students scored above a 1550 out of a possible 2400 on the Scholastic Aptitude Test (SAT), compared with 43% students nationally.</content>
+        </sentence>
+        <sentence id="15">
+          <content>Only 19% and 30.4% of third- through eighth-grade students tested proficient in language arts and in math, respectively, both numbers well below the state average, the document say.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="16">
+          <content>Christie said the state intervention will include close monitoring of school progress as well as guidance in financial decisions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;We will exert whatever control we need to exert to try and bring success,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="18">
+          <content>The mayor of Camden, Dana Redd, also spoke at the news conference, affirming her readiness to work with officials on both the state and local levels.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;I welcome this new era in full cooperation and partnership because I want to see our children excel in the classroom,&amp;quot; Redd said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="20">
+          <content>The president of the school board, Kathryn Blackshear, said she is in the toughest spot she has ever been in.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="21">
+          <content>&amp;quot;I always knew this day was coming,&amp;quot; she said.</content>
+        </sentence>
+        <sentence id="22">
+          <content>&amp;quot;After I looked at the research and the numbers, and praying over it, I said, &amp;apost;well, Lord, change is here.&amp;apost;&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="23">
+          <content>Camden is not the first city in New Jersey whose school district has been taken over by the state.</content>
+        </sentence>
+        <sentence id="24">
+          <content>Schools in Jersey City, Paterson, and Newark also currently operate under state control, according to Barbara Morgan, a spokeswoman for the New Jersey Department of Education.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="25">
+          <content>It&amp;apost;s unclear how the nearly 14,000 students enrolled in Camden city public schools will feel the impact of new state intervention.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="26">
+          <content>&amp;quot;I can&amp;apost;t be a guarantor of results, none of us can,&amp;quot; Christie said.</content>
+        </sentence>
+        <sentence id="27">
+          <content>&amp;quot;But just because we can&amp;apost;t guarantee a positive result or because there have been some mixed results in the past, should not be used as an excuse for inaction.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

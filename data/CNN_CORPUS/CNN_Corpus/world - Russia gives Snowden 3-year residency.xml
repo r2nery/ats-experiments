@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2711" link="http://edition.cnn.com/2014/08/07/world/europe/russia-snowden-residency/index.html?hpt=hp_t4" date_published="2014-08-07 10:38:21" category="world" author="Joe Sterling, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Russia gives Snowden 3-year residency</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="12">NEW: &amp;quot;No change in our position,&amp;quot; White House says.</sentence>
+      <sentence id="2" ids_article_sentences="7">Snowden&amp;apost;s disclosures in 2013 made him an icon among some.</sentence>
+      <sentence id="3" ids_article_sentences="8">Edward Snowden is a former government information technology contractor.</sentence>
+      <sentence id="4" ids_article_sentences="9">U.S. authorities have charged him with espionage and theft of government property.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-25 09:01:18" annotation_time="34.5325">
+      <sentence id="7" ids_highlights="2">Snowden&amp;apost;s disclosures in 2013 made him an icon among those who praised him for risking his future to expose these secrets and a villain among those who accused him of being a lawbreaker who betrayed the United States.</sentence>
+      <sentence id="8" ids_highlights="3">The former government information technology contractor collected information on spy programs -- in which the NSA mined phone and Internet metadata from thousands of people inside and outside of the United States -- and exposed the programs to the media.</sentence>
+      <sentence id="9" ids_highlights="4">U.S. authorities have charged him with espionage and theft of government property.</sentence>
+      <sentence id="12" ids_highlights="1">&amp;quot;There&amp;apost;s been no change in our position: Mr. Snowden faces felony charges here in the United States,&amp;quot; said Ned Price, a spokesman for the National Security Council.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Edward Snowden, who leaked secret information about U.S. spying programs, has been granted an extension to stay in Russia for three more years, his attorney said in a televised press conference in Moscow Thursday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Snowden recently formally requested that Russia&amp;apost;s government extend his temporary asylum, and Snowden attorney Anatoly Kucherena said the request had been accepted.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;As of August 1, 2014, Snowden has received residency for three years,&amp;quot; Kucherena told reporters Thursday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>Snowden&amp;apost;s temporary asylum in Russia ended on July 31.</content>
+        </sentence>
+        <sentence id="5">
+          <content>He&amp;apost;d been holed up at a Moscow airport for five weeks before the Russian government granted asylum for one year on August 1, 2013.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>Snowden has kept busy working for a Russian website and speaking out on the disclosures about the U.S. government&amp;apost;s spying programs and processes that he helped make public.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>Snowden&amp;apost;s disclosures in 2013 made him an icon among those who praised him for risking his future to expose these secrets and a villain among those who accused him of being a lawbreaker who betrayed the United States.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>The former government information technology contractor collected information on spy programs -- in which the NSA mined phone and Internet metadata from thousands of people inside and outside of the United States -- and exposed the programs to the media.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>U.S. authorities have charged him with espionage and theft of government property.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="10">
+          <content>No change in U.S. stance.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="11">
+          <content>The White House says the extension of Snowden&amp;apost;s asylum in Russia doesn&amp;apost;t change the U.S. government&amp;apost;s desire for his return.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;There&amp;apost;s been no change in our position: Mr. Snowden faces felony charges here in the United States,&amp;quot; said Ned Price, a spokesman for the National Security Council.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="13">
+          <content>&amp;quot;He should return to the U.S. as soon as possible, where he will be accorded full due process and protections.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="14">
+          <content>U.S. intelligence agencies fear Snowden has achieved celebrity as a leaker and could be inspiring others to disclose classified national security information.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="15">
+          <content>Former Secretary of State Hillary Clinton recently commented on Snowden&amp;apost;s case in an interview with the German magazine Der Spiegel.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;I think he is a poor messenger for the message that he&amp;apost;s trying to take credit for,&amp;quot; she told the magazine.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;I think he could have provoked the debate in our country without stealing and distributing material that was government property and was of some consequence,&amp;quot; Clinton said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

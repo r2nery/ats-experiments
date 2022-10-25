@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="486" link="http://www.cnn.com/2014/06/29/justice/abu-khatallah-miranda-rights/index.html" date_published="2014-06-29 08:50:57" category="justice" author="Evan Perez and Holly Yan, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Controversy swirls over handling of Benghazi suspect</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="6">NEW: Official: Abu Khatallah denied involvement but gave info on others.</sentence>
+      <sentence id="2" ids_article_sentences="2">Abu Khatallah gave information before and after he was told his Miranda rights.</sentence>
+      <sentence id="3" ids_article_sentences="9">Sen. Lindsey Graham: Mirandizing Abu Khatallah &amp;quot;would be a mistake for the ages&amp;quot;.</sentence>
+      <sentence id="4" ids_article_sentences="14">He is suspected of being the ringleader of the September 2012 attacks in Benghazi, Libya.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-05 10:07:51" annotation_time="52.31433">
+      <sentence id="2" ids_highlights="2">As it turns out, he was interrogated both before and after authorities told him of his Miranda rights -- which give him the right to remain silent to avoid self-incrimination, a U.S. official told CNN.</sentence>
+      <sentence id="6" ids_highlights="1">A U.S. official told CNN that Abu Khatallah denied participation in the Benghazi attacks during his interviews with interrogators -- but provided information on others he said participated and were behind the attacks.</sentence>
+      <sentence id="9" ids_highlights="3">&amp;quot;If they bring him to the United States, they&amp;apost;re going to Mirandize this guy, and it would be a mistake for the ages to read this guy his Miranda rights,&amp;quot; South Carolina Sen. Lindsey Graham has said.</sentence>
+      <sentence id="14" ids_highlights="4">Prosecutors say he is the ringleader of the 2012 attacks on a U.S. diplomatic mission in Libya, which killed U.S. Ambassador to Libya Chris Stevens and three other Americans.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>During his two weeks aboard a ship to the United States, Ahmed Abu Khatallah was questioned by FBI interrogators over his alleged role in the 2012 Benghazi attacks that left four Americans dead.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>As it turns out, he was interrogated both before and after authorities told him of his Miranda rights -- which give him the right to remain silent to avoid self-incrimination, a U.S. official told CNN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>But Abu Khatallah continued providing information to officials after being advised of those rights, the official said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>The handling of his case has triggered fallout in Washington.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>&amp;quot;I have serious concerns that conducting a rushed interrogation onboard a ship and then turning Abu Khatallah over to our civilian courts risks losing critical intelligence that could lead us to other terrorists or prevent future attacks,&amp;quot; Sen. Kelly Ayotte, R-New Hampshire, said in a statement Saturday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>A U.S. official told CNN that Abu Khatallah denied participation in the Benghazi attacks during his interviews with interrogators -- but provided information on others he said participated and were behind the attacks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>It wasn&amp;apost;t clear if he provided the information before or after he was advised of his Miranda warning.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="8">
+          <content>Shortly after the White House announced the capture earlier this month, Republicans like Florida Sen. Marco Rubio criticized the Obama administration because they believed the alleged terrorist should go through a military tribunal at Guantanamo Bay instead of being tried in a federal court.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="9">
+          <content>&amp;quot;If they bring him to the United States, they&amp;apost;re going to Mirandize this guy, and it would be a mistake for the ages to read this guy his Miranda rights,&amp;quot; South Carolina Sen. Lindsey Graham has said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="10">
+          <content>But the White House has defended its decision, saying that they have successfully tried a number of terrorists domestically and that no new captives have gone to the Guantanamo Bay detention facility in years.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="11">
+          <content>Abu Khatallah arrived on U.S. soil Saturday.</content>
+        </sentence>
+        <sentence id="12">
+          <content>After two weeks aboard the USS New York sailing from the Mediterranean Sea to the East Coast, Abu Khatallah was flown by helicopter to Washington and was driven to a federal courthouse.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="13">
+          <content>There, he pleaded not guilty to one count of providing material support to terrorists.</content>
+        </sentence>
+        <sentence id="14">
+          <content>Prosecutors say he is the ringleader of the 2012 attacks on a U.S. diplomatic mission in Libya, which killed U.S. Ambassador to Libya Chris Stevens and three other Americans.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="15">
+          <content>More charges possible.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="16">
+          <content>The single count is part of a legal strategy by federal prosecutors, who plan to file additional charges later, according to U.S. officials.</content>
+        </sentence>
+        <sentence id="17">
+          <content>The aim is to delay releasing to the public and Abu Khatallah&amp;apost;s lawyer the FBI affidavit detailing the evidence the government has against him.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="18">
+          <content>An earlier criminal complaint in July 2013 said the FBI believed it had evidence to charge him with murder and firing a weapon at the scene of the Benghazi attacks.</content>
+        </sentence>
+        <sentence id="19">
+          <content>Those additional charges, if formally added, could bring the death penalty.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="20">
+          <content>In his court appearance, Abu Khatallah, a Libyan national, requested consular assistance from the Libyan government.</content>
+        </sentence>
+        <sentence id="21">
+          <content>U.S. authorities were working with Libyan embassy officials in Washington to provide him the assistance.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="22">
+          <content>After the hearing, armed guards accompanied Abu Khatallah from the federal courthouse in downtown Washington, a few blocks from the U.S. Capitol and near the White House.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="23">
+          <content>He was then moved to the detention center in Alexandria, Virginia, which is across the Potomac River from the capital.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="24">
+          <content>Details of the attacks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="25">
+          <content>Authorities say Abu Khatallah is among the senior leaders of Ansar al Sharia, whose members were among several militias that participated in the attacks on U.S. government facilities in Benghazi on September 11-12, 2012.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="26">
+          <content>The attacks spawned political controversy in the United States because some Republican lawmakers claim the Obama administration tried to mislead the public about them and should have done more to prevent them.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="27">
+          <content>The GOP critics say they plan to make Benghazi an issue for former Secretary of State Hillary Clinton, under whose watch the attacks occurred, should she decide to run for president.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="28">
+          <content>The criminal investigation led by the FBI has been extraordinarily challenging, authorities say, partly because the lack of Libyan government control in the city prevented investigators from visiting the crime scene for weeks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="29">
+          <content>But U.S. officials say they collected surveillance video, phone recordings and witness statements to bring charges against Abu Khatallah and others involved.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="30">
+          <content>Abu Khatallah became the face of the militant attack and a top target for the U.S. after he cultivated a celebrity profile in the wake of the attacks, meeting with journalists and granting interviews.</content>
+        </sentence>
+        <sentence id="31">
+          <content>He denied to CNN&amp;apost;s Arwa Damon that he participated in the attacks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="32">
+          <content>U.S. military commandos captured Abu Khatallah in a nighttime raid June 15-16.</content>
+        </sentence>
+        <sentence id="33">
+          <content>U.S. intelligence assets concocted a ruse to lure him to a villa where the Americans surprised him.</content>
+        </sentence>
+        <sentence id="34">
+          <content>The commandos, accompanied by several FBI agents, had come ashore by boat and quickly took him back out to sea with them.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="35">
+          <content>Abu Khatallah was appointed a public defender, Michele Peterson.</content>
+        </sentence>
+        <sentence id="36">
+          <content>He was ordered to remain in custody until hearings set for Wednesday and Friday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

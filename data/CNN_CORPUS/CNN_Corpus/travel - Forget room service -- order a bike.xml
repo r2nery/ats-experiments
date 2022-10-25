@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1778" link="http://www.cnn.com/2013/10/17/travel/bikes-as-hotel-amenity/index.html" date_published="2013-10-17 11:58:28" category="travel" author="Jill Becker, Special to CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Forget room service -- order a bike</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="8">Hotels are catering to guests with complimentary bicycle use.</sentence>
+      <sentence id="2" ids_article_sentences="17">Pedal around Portland or coast down the hill from Twin Farms in Vermont.</sentence>
+      <sentence id="3" ids_article_sentences="3">Some properties charge to ride, but these 10 properties offer free bike use.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-11 10:51:03" annotation_time="644.3777" mapping_time_divergence="166.66667">
+      <sentence id="3" ids_highlights="3">While some properties charge for the privilege, many don&amp;apost;t, such as these 10 hotels across the globe that have free loaner bikes so their guests can get out and explore everything the area has to offer.</sentence>
+      <sentence id="8" ids_highlights="1">In addition to a fleet of 18 beach cruisers, city bikes and road bikes for guests to tool around town on, the hotel has a special bike with a built-in beer tap and coffee spout that&amp;apost;s on display when staffers aren&amp;apost;t out cruising around in it.</sentence>
+      <sentence id="17" ids_highlights="2">This quaint but luxurious property in a centuries-old farmhouse that was once the home of Nobel Prize-winning writer Sinclair Lewis, equips interested guests with either a high-end mountain bike or more casual cruiser -- along with chef-prepared box lunches -- for the 10-mile trip down the hill into the village of Woodstock.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Hotels have introduced all sorts of fun amenities over the years, from iPads to pet goldfish.</content>
+        </sentence>
+        <sentence id="2">
+          <content>One of the features that seems to be growing in popularity is bicycles, which are no doubt a great way for guests to discover a new destination.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>While some properties charge for the privilege, many don&amp;apost;t, such as these 10 hotels across the globe that have free loaner bikes so their guests can get out and explore everything the area has to offer.</content>
+        </sentence>
+        <sentence id="4">
+          <content>So strap on your helmet, stretch out your quads and start pedaling.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>Hotel Monaco (Portland, Oregon).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>Back in July, Kimpton announced that all of its hotels would now offer free loaner bikes.</content>
+        </sentence>
+        <sentence id="7">
+          <content>This Kimpton property happens to be in Portland, one of America&amp;apost;s most bike-friendly cities -- boasting miles and miles of well-marked bike paths, including the esplanade along the scenic Willamette River.</content>
+        </sentence>
+        <sentence id="8">
+          <content>In addition to a fleet of 18 beach cruisers, city bikes and road bikes for guests to tool around town on, the hotel has a special bike with a built-in beer tap and coffee spout that&amp;apost;s on display when staffers aren&amp;apost;t out cruising around in it.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="9">
+          <content>Ace Hotel &amp;amp; Swim Club (Palm Springs, California).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>Not only does the retro-funky Ace Hotel sport a hopping pool scene where they host weekly DJ dance parties, a dog park and design touches such as concrete floors and kiva fireplaces, it also features tandem bikes for those guests who prefer to share the pedaling with a pal.</content>
+        </sentence>
+        <sentence id="11">
+          <content>Single-cyclist cruisers are available as well.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>Element Vaughan Southwest (Vaughan, Ontario, Canada).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>This brand new property, the first of Starwood&amp;apost;s extended-stay Element brand to open outside the United States, boasts loaner bicycles as part of its eco-conscious practices (think water-efficient faucets and a chlorine-free pool).</content>
+        </sentence>
+        <sentence id="14">
+          <content>Guests can use its colorful Strada track bikes to go in search of the Canadian Soccer Hall of Fame and Museum, scenic Boyd Conservation Area and other local attractions.</content>
+        </sentence>
+        <sentence id="15">
+          <content>If they&amp;apost;re more ambitious, they can pedal the 19-odd miles to downtown Toronto.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="16">
+          <content>Twin Farms (Barnard, Vermont).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="17">
+          <content>This quaint but luxurious property in a centuries-old farmhouse that was once the home of Nobel Prize-winning writer Sinclair Lewis, equips interested guests with either a high-end mountain bike or more casual cruiser -- along with chef-prepared box lunches -- for the 10-mile trip down the hill into the village of Woodstock.</content>
+        </sentence>
+        <sentence id="18">
+          <content>Better yet, they&amp;apost;ll pick you up once you get there so you don&amp;apost;t have to pedal back up the hill.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="19">
+          <content>Holiday Inn Express Playa del Carmen (Playa del Carmen, Mexico).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="20">
+          <content>Budget-conscious vacationers seeking sun, sand and surf in Mexico&amp;apost;s popular Riviera Maya often opt for this clean, straightforward member of the IHG family.</content>
+        </sentence>
+        <sentence id="21">
+          <content>It&amp;apost;s five blocks from the beach and its myriad activities -- from snorkeling to swimming with the dolphins -- and even closer to the bustling 5th Avenue Corridor.</content>
+        </sentence>
+        <sentence id="22">
+          <content>If you don&amp;apost;t want to take the hotel&amp;apost;s complimentary shuttle to the shoreline or beyond, then grab one of their loaner bikes and get there via pedal power.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="23">
+          <content>Jane Hotel (New York).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="24">
+          <content>This trendy mariner-themed boutique lodging in lower Manhattan has offered bikes to its guests since opening in 2008, but they just recently upgraded the fleet to Brooklyn Cruiser&amp;apost;s cool new three-speed Driggs and Willow models.</content>
+        </sentence>
+        <sentence id="25">
+          <content>&amp;quot;Our bike program has been hugely popular with our guests,&amp;quot; proprietor Sean MacPherson commented at the time of the changeover, which also included the bikes at his and partner Eric Goode&amp;apost;s other NYC properties: the Bowery and Maritime hotels.</content>
+        </sentence>
+        <sentence id="26">
+          <content>&amp;quot;The uniquely New York style of Brooklyn Cruiser is a natural fit for our hotels and guests.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="27">
+          <content>Le Meurice (Paris, France).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="28">
+          <content>What more fitting way to get around the City of Light than on a classic European two-wheeler complete with a wicker basket you can stuff with baguettes, French wine or other Parisian goodies you pick up along your journey?</content>
+        </sentence>
+        <sentence id="29">
+          <content>The landmark Le Meurice hotel makes it possible.</content>
+        </sentence>
+        <sentence id="30">
+          <content>In fact, if you become especially enamored with your sweet ride, they&amp;apost;ll let you buy it and take it home with you.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="31">
+          <content>El Encanto resort (Santa Barbara, California).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="32">
+          <content>The gorgeous El Encanto, which reopened in March after a $134 million makeover, sits on seven lush acres in the hills of Santa Barbara.</content>
+        </sentence>
+        <sentence id="33">
+          <content>Which perhaps helps explain why all of its loaner bikes are electric.</content>
+        </sentence>
+        <sentence id="34">
+          <content>They&amp;apost;ll give you that extra oomph you may need to get up some of the steeper inclines surrounding the resort.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="35">
+          <content>Heywood Hotel (Austin, Texas).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="36">
+          <content>Austin&amp;apost;s hip Heywood Hotel may be small when you count the number of rooms (seven), but it&amp;apost;s big on style, including the spiffy Republic bicycles boasting one green wheel and one white wheel that, according to owner and GM Kathy Setzer, mimic the design of the hotel (&amp;quot;it looks like a bungalow in front and modern courtyard in back&amp;quot;).</content>
+        </sentence>
+        <sentence id="37">
+          <content>The bikes have proven such a popular amenity since the Heywood opened a year and a half ago that Setzer has created a special bicycle scavenger hunt with photographic clues to area sights.</content>
+        </sentence>
+        <sentence id="38">
+          <content>Complete the tour and post photos of your finds and you win a few Heywood T-shirt.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="39">
+          <content>Fairmont Mount Kenya Safari Club (Nanyuki, Kenya).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="40">
+          <content>With a few rare exceptions, Fairmont hotels all feature BMW bikes for their guests&amp;apost; complimentary use.</content>
+        </sentence>
+        <sentence id="41">
+          <content>But it&amp;apost;d be hard to beat the scenery you&amp;apost;ll find on a cruise through the forested reserve surrounding this particular Fairmont, a restored &amp;apost;50s-era hunting lodge located at the base of Africa&amp;apost;s second-highest peak.</content>
+        </sentence>
+        <sentence id="42">
+          <content>Don&amp;apost;t forget to take along a camera.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

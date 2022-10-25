@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="310" link="http://www.cnn.com/2012/07/02/health/mental-health/rainy-brain-sunny-brain/index.html" category="health" author="Elaine Fox, Special to CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Make your &amp;apost;rainy brain&amp;apost; sunnier</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="11">Fear and pleasure captivate our emotional mind.</sentence>
+      <sentence id="2" ids_article_sentences="28">If we change our cognition, we can also reshape our brains, author says.</sentence>
+      <sentence id="3" ids_article_sentences="40">Training our brains to be optimistic or pessimistic also changes the circuits .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-09-08 13:40:59" annotation_time="45.708">
+      <sentence id="11" ids_highlights="1">At the very root of what captivates our emotional mind are two polar opposite constructs: fear and pleasure.</sentence>
+      <sentence id="28" ids_highlights="2">The bottom line is that if we change our cognition, we can also reshape our brains.</sentence>
+      <sentence id="40" ids_highlights="3">In other words, if we train our brains to be optimistic or pessimistic -- to navigate, intentionally or not, the streets and avenues of positive or negative feelings -- we change (just as cab drivers do with their spatial circuits) the emotional circuits in our brains that determine how we respond to the things that happen around us.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Why do some people flourish, seemingly resilient to all that life throws at them, while others are vulnerable and at risk of serious problems like anxiety and depression?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>My approach to unraveling this mystery has been to probe the minds of both the vulnerable and the resilient with the traditional tools of cognitive psychology.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Flashing positive and negative images on a computer screen so fast that they duck beneath the radar of consciousness gives us a momentary glimpse of what captivates the unconscious mind.</content>
+        </sentence>
+        <sentence id="4">
+          <content>And what have we learned?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Techniques like this tell us that the mind of the pessimist is drawn imperceptibly toward the negative while the upbeat and positive is a magnet for the optimist.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>Crucially, these differences -- whether we turn toward the bright side of life or the dark -- can be traced to specific patterns of activity within the brain itself.</content>
+        </sentence>
+        <sentence id="7">
+          <content>Bundles of nerve fibers connecting our &amp;quot;thinking&amp;quot; brain with ancient regions that control our primeval &amp;quot;feeling&amp;quot; brain make up two sides of our emotional mind.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>The &amp;quot;rainy&amp;quot; brain part highlights the negative, while our &amp;quot;sunny&amp;quot; brain draws us toward the positive.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Of course, both elements are essential to a healthy and successful life, and it&amp;apost;s the checks and balances between these two systems that ultimately make you you and me me.</content>
+        </sentence>
+        <sentence id="10">
+          <content>In short, it&amp;apost;s our emotional mind that gives meaning to our lives by tuning us in to what really matters.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>At the very root of what captivates our emotional mind are two polar opposite constructs: fear and pleasure.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>These biological motivators kick-start our rainy and sunny brain circuits, which, in turn, underlie our pessimistic and optimistic mindsets.</content>
+        </sentence>
+        <sentence id="13">
+          <content>These brain systems infuse our mind with meaning, make us aware of what might harm us, alert us to what might go wrong, draw us toward what&amp;apost;s good for us and highlight the sheer joys and pleasures of living.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>Take the following: You are rushing for a meeting and miss your train.</content>
+        </sentence>
+        <sentence id="15">
+          <content>You hurry to the office, finally arriving a few minutes late.</content>
+        </sentence>
+        <sentence id="16">
+          <content>When you enter the room, everybody looks up, and your boss smiles and says, &amp;quot;Glad you could make it.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="17">
+          <content>Question: Is she being sarcastic?</content>
+        </sentence>
+        <sentence id="18">
+          <content>Or is she happy to see you?</content>
+        </sentence>
+        <sentence id="19">
+          <content>The truth is, how you interpret this situation can set the tone for the rest of your day.</content>
+        </sentence>
+        <sentence id="20">
+          <content>Cutting-edge science tells us that these ways of interpreting and analyzing the world around us can become habitual and that it is these habits of mind that make us who we are.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="21">
+          <content>The good news is that the human brain has a startling capacity to change.</content>
+        </sentence>
+        <sentence id="22">
+          <content>For years, neuroscientists believed that from a young age, our brains became inflexible and neurologically set in their ways.</content>
+        </sentence>
+        <sentence id="23">
+          <content>The burgeoning field of neuroplasticity, however, has completely overturned this notion and shown us that our brains are far more flexible than we ever dared to imagine.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="24">
+          <content>And I&amp;apost;m not just talking about superficial changes at the level of &amp;quot;thinking.&amp;quot;</content>
+        </sentence>
+        <sentence id="25">
+          <content>Instead, I&amp;apost;m talking about real concrete change in physical structure.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="26">
+          <content>Our relationship with our neurons is organic: Sure, we respond to our neurons, but our neurons respond to us, to the things we do and even the things we think, resulting in observable changes in our brain.</content>
+        </sentence>
+        <sentence id="27">
+          <content>This exquisite malleability ensures that our unique, personal experiences provide us with a customized brain with its own highly individualized sets of circuits, switches and connections.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="28">
+          <content>The bottom line is that if we change our cognition, we can also reshape our brains.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="29">
+          <content>Example: There are more than 25,000 streets in London, arranged in a complex maze of junctions and byways that have developed through the years.</content>
+        </sentence>
+        <sentence id="30">
+          <content>As any tourist will tell you, there is no easy symmetry as you find in New York, with its easy to navigate horizontal and vertical patterns of streets and avenues.</content>
+        </sentence>
+        <sentence id="31">
+          <content>Yet, jump in a black cab -- London&amp;apost;s iconic taxis -- anywhere in the city, and the driver will get you to where you want to go via the shortest possible route.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="32">
+          <content>Why?</content>
+        </sentence>
+        <sentence id="33">
+          <content>Because every one of them have passed what is called the Knowledge: a test of the ability to memorize and spatially navigate every one of those 25,000 streets.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="34">
+          <content>Now, learning the Knowledge is one thing.</content>
+        </sentence>
+        <sentence id="35">
+          <content>But scientific studies have taken things one step further and shown that as cab drivers hone their skills, their hippocampus -- the part of the brain that deals with spatial memory and navigation -- gradually gets bigger.</content>
+        </sentence>
+        <sentence id="36">
+          <content>That&amp;apost;s right!</content>
+        </sentence>
+        <sentence id="37">
+          <content>The more they learn, the larger this part of their brain becomes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="38">
+          <content>In other words, personal experiences and skills are reflected in the way our brains are organized.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="39">
+          <content>It turns out that what&amp;apost;s true of our knowledge is also true of our mindset.</content>
+        </sentence>
+        <sentence id="40">
+          <content>In other words, if we train our brains to be optimistic or pessimistic -- to navigate, intentionally or not, the streets and avenues of positive or negative feelings -- we change (just as cab drivers do with their spatial circuits) the emotional circuits in our brains that determine how we respond to the things that happen around us.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="41">
+          <content>In my book &amp;quot;Rainy Brain, Sunny Brain,&amp;quot; I discuss how genes and environments work together to influence how emotional circuits develop.</content>
+        </sentence>
+        <sentence id="42">
+          <content>Rather than being hard-wired, our social relationships and how we live play a huge role in shaping and reshaping our brains.</content>
+        </sentence>
+        <sentence id="43">
+          <content>In fact, there are now several techniques based on solid scientific evidence that allow us to begin the journey from pessimism to a more optimistic take on life.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="44">
+          <content>While we need both aspects of our emotional mind -- rainy and sunny -- to live life to the full, there is abundant evidence that an optimistic take on the world, especially when linked with realism, is associated with better health, more success and a deeper sense of well-being.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

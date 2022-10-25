@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="997" link="http://www.cnn.com/2012/10/19/politics/btn-early-voting/index.html" date_published="2012-10-19 20:13:49" category="politics" author="Amy Roberts, CNN Library" highlights_mapped="true" mapping_error="false">
+  <title>By the numbers: early voting</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="8">2: Number of states with all mail-in voting. .</sentence>
+      <sentence id="2" ids_article_sentences="14">3: Days before the election set aside for Ohioans to vote in person.</sentence>
+      <sentence id="3" ids_article_sentences="19">30.3: Percent of voters nationwide who voted early in 2008.</sentence>
+      <sentence id="4" ids_article_sentences="22">8.12 million: The estimated number of people who have already voted as of October 25.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-06 08:03:03" annotation_time="14.99">
+      <sentence id="8" ids_highlights="1">2: States with all mail-in voting.</sentence>
+      <sentence id="14" ids_highlights="2">3: Days before the election set aside for Ohioans to vote in person.</sentence>
+      <sentence id="19" ids_highlights="3">30.3: Percent of voters nationwide who voted early in 2008.</sentence>
+      <sentence id="22" ids_highlights="4">8.12 million: The estimated number of people who have already voted as of October 25, according to Michael McDonald of the United States Election Project at George Mason University.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>What was old is new again - at least that&amp;apost;s the way it is for early voting.</content>
+        </sentence>
+        <sentence id="2">
+          <content>Before the second Tuesday after the first Monday in November was declared Election Day by federal law in 1845, states voted on different days and over different periods of time.</content>
+        </sentence>
+        <sentence id="3">
+          <content>It wasn&amp;apost;t until the last decade that early voting began to pick up steam again.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="4">
+          <content>In 2004, 22% of Americans voted early and that rate rose to more than 30% in 2008, according to Paul Gronke, professor of Political Science who founded and runs the Early Voting Information Center at Reed College in Oregon.</content>
+        </sentence>
+        <sentence id="5">
+          <content>Gronke estimates that as much as 40% of eligible voters will cast an early ballot during the 2012 election.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="6">
+          <content>With the trend changing the way Americans vote and campaigns campaign, we decided to take a look, by the numbers, at early voting in the United States:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>35: States (including the District of Columbia) that allow early voting.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>2: States with all mail-in voting.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Washington and Oregon don&amp;apost;t have traditional polling places.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>28: Percent of Florida voters who said in 2004 they preferred early voting because of the convenience.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>30: Percent who said they didn&amp;apost;t feel like standing in a long line to vote.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>46.5: Percent of Nevada voters who voted early in 2008.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>45: Minimum number of days before the election that absentee ballots must be sent to military service members overseas, according to the Uniformed and Overseas Citizens Absentee Voting Act, which was enacted in 1986.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>3: Days before the election set aside for Ohioans to vote in person.</content>
+        </sentence>
+        <sentence id="15">
+          <content>The Supreme Court rejected an appeal to block early voting.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>15: States which voiced support for the Ohio Secretary of State Jon Husted, who was named in the lawsuit.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>2: Number of months before the election someone in North Carolina can vote.</content>
+        </sentence>
+        <sentence id="18">
+          <content>September 7 was the earliest start date for absentee voting in the United States.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="19">
+          <content>30.3: Percent of voters nationwide who voted early in 2008.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="20">
+          <content>10: Percent increase in early voting from 2006 to 2008.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="21">
+          <content>26 million: Absentee ballots sent out by states in 2008.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="22">
+          <content>8.12 million: The estimated number of people who have already voted as of October 25, according to Michael McDonald of the United States Election Project at George Mason University.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="23">
+          <content>91: Percent of domestic mailed ballots that were returned in 2008.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

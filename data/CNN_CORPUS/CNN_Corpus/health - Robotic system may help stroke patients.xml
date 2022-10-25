@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="350" link="http://www.cnn.com/2012/11/14/health/exoskeleton-stroke-rehab/index.html" date_published="2012-11-14 14:35:58" category="health" author="Elizabeth Landau, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Robotic system may help stroke patients</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="4">Researchers are working on mobility solutions for paralyzed patients.</sentence>
+      <sentence id="2" ids_article_sentences="16">A robotic exoskeleton enables a patient to move a paralyzed arm in a laboratory setting.</sentence>
+      <sentence id="3" ids_article_sentences="18">The ultimate goal of this line of research: A full-body robotic suit.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-01 15:15:28" annotation_time="51.190334" mapping_time_divergence="17.063444">
+      <sentence id="4" ids_highlights="1">Melody Moore Jackson, director of the BrainLab at the Georgia Institute of Technology, is working on solutions for patients who can&amp;apost;t move parts of their body anymore.</sentence>
+      <sentence id="16" ids_highlights="2">Miguel Nicolelis at Duke University Center for Neuroengineering and colleagues showed in 2011 that a monkey could move a virtual arm and feel different textures with it.</sentence>
+      <sentence id="18" ids_highlights="3">The ultimate goal of this line of research is to create a full-body suit that&amp;apost;s totally controlled by the brain of the person who&amp;apost;s wearing it, Nicolelis told CNN in 2011.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>More than 700,000 people in the United States have a stroke every year.</content>
+        </sentence>
+        <sentence id="2">
+          <content>A leading cause of disability, a stroke occurs when blood supply to the brain is disrupted, either by a clot or a burst blood vessel in the brain.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>A common resulting disability from a stroke is paralysis, particularly on the side of the body opposite whichever side of the brain endured stroke-related damage.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Melody Moore Jackson, director of the BrainLab at the Georgia Institute of Technology, is working on solutions for patients who can&amp;apost;t move parts of their body anymore.</content>
+        </sentence>
+        <sentence id="5">
+          <content>Her goal is to create systems that enable people to use artificial limbs just by thinking.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>Her research group is working on developing an exoskeleton, a robotic structure that moves when a person&amp;apost;s brain tells it to move.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>The scientists have so far focused on the arm.</content>
+        </sentence>
+        <sentence id="8">
+          <content>A patient puts his or her arm inside the robotic arm, which responds to the person&amp;apost;s brain signals.</content>
+        </sentence>
+        <sentence id="9">
+          <content>So when the patients thinks about moving it to reach a target, and the arm follows the command.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;With this experiment we also learned that we can make neuroplastic change -- we can change the brain signals that control the arm,&amp;quot; she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>The early results are promising, she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;I am quite confident that we will make some new therapies available to people who are paralyzed,&amp;quot; she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>This same brain-computer interface concept could be used in prosthetic limbs for amputees, particularly wounded veterans, she said.</content>
+        </sentence>
+        <sentence id="14">
+          <content>Her research group is interested in helping this patient population as well.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>Other research groups are looking into restoring feeling in paralyzed body parts.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Miguel Nicolelis at Duke University Center for Neuroengineering and colleagues showed in 2011 that a monkey could move a virtual arm and feel different textures with it.</content>
+        </sentence>
+        <sentence id="17">
+          <content>This involved implanting electrodes into the monkey&amp;apost;s brain.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="18">
+          <content>The ultimate goal of this line of research is to create a full-body suit that&amp;apost;s totally controlled by the brain of the person who&amp;apost;s wearing it, Nicolelis told CNN in 2011.</content>
+        </sentence>
+        <sentence id="19">
+          <content>The ideal robotic suit would also be able to give the wearer tactile feedback -- in other words, feel different textures, temperatures, and other sensations through the robot-enhanced limbs.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="20">
+          <content>Beyond using these brain-computer interface technologies for disabilities, Jackson and colleagues are thinking about more &amp;quot;mainstream&amp;quot; applications for them, such as enhancing athletic performance.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="21">
+          <content>&amp;quot;Any time that you put something in the mainstream, it gets easier for people with disabilities to get as well,&amp;quot; she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

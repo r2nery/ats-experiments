@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="28" link="http://www.cnn.com/2013/03/20/business/china-workers-crossroads/index.html" date_published="2013-03-20 07:02:33" category="business" author="Kevin Voigt, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>China&amp;apost;s workforce at a crossroads</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">China&amp;apost;s climb to the world&amp;apost;s second largest economy was built by Chinese workers.</sentence>
+      <sentence id="2" ids_article_sentences="2">Chinese workers are demanding a greater share of the wealth and better access to social services.</sentence>
+      <sentence id="3" ids_article_sentences="15">Higher production costs in the coastal areas are moving more jobs to rural areas of China.</sentence>
+      <sentence id="4" ids_article_sentences="24, 23">Despite Beijing&amp;apost;s economic rise, about 400 million Chinese still live on less than $2 a day.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-20 17:31:30" annotation_time="146.119" mapping_time_divergence="36.52975">
+      <sentence id="1" ids_highlights="1">China&amp;apost;s extraordinary climb to the world&amp;apost;s second largest economy was built on the back of Chinese workers, many of whom left rural farms to migrate for work in coastal factories.</sentence>
+      <sentence id="2" ids_highlights="2">But as China&amp;apost;s wealth rises, workers are demanding a greater share of the wealth and better access to social services.</sentence>
+      <sentence id="15" ids_highlights="3">But as China&amp;apost;s coastal provinces -- which were first opened for Western-style economic reform in 1979 -- grow more expensive, more companies are moving factories into rural areas, sparking a new wave of development and giving workers more options closer to home.</sentence>
+      <sentence id="23" ids_highlights="4">As China moves from an export-driven, investment-led economy toward domestic consumption growth, the nation depends on the rising buying power of its workforce.</sentence>
+      <sentence id="24" ids_highlights="4">Still, &amp;quot;400 million people in China still live on less than $2 a day,&amp;quot; Schmitz said.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>China&amp;apost;s extraordinary climb to the world&amp;apost;s second largest economy was built on the back of Chinese workers, many of whom left rural farms to migrate for work in coastal factories.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>But as China&amp;apost;s wealth rises, workers are demanding a greater share of the wealth and better access to social services.</content>
+        </sentence>
+        <sentence id="3">
+          <content>And as this month&amp;apost;s edition of &amp;quot;On China&amp;quot; examines, the young generation of worker are tech savvy, aware of their rights and choosier about where they go for work.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>&amp;quot;They&amp;apost;re on the Internet more ... on especially Weibo, China&amp;apost;s social media, Twitter-like thing.</content>
+        </sentence>
+        <sentence id="5">
+          <content>They&amp;apost;re able to connect with others, see what others are doing,&amp;quot; William Nee of China Labor Bulletin, a Hong Kong-based NGO which defends workers&amp;apost; rights, told CNN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;And in cases where there are strikes or things like that, they can put it out there on Weibo and other people can learn about it,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="7">
+          <content>&amp;quot;They can look online for labor rights and labor contract law.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>One of the greatest issues for China&amp;apost;s 250 million migrant workers is the &amp;quot;hukou&amp;quot; system of household registration.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Migrant workers often can&amp;apost;t register in the cities where they work, and subsequently can&amp;apost;t qualify for social services such as public education or social security.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;When I talk to migrant workers about a vast array of problems, I think, this usually rises to number one,&amp;quot; Rob Schmitz, a Marketplace correspondent in Shanghai, told CNN.</content>
+        </sentence>
+        <sentence id="11">
+          <content>&amp;quot;And I think, for them, the biggest reason this is such a big problem is that they are treated like illegal immigrants inside of their own country.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>This hits the children of migrant workers.</content>
+        </sentence>
+        <sentence id="13">
+          <content>&amp;quot;Many children are born in these larger cities where their parents have moved to.</content>
+        </sentence>
+        <sentence id="14">
+          <content>This is their hometown, as far as they know it,&amp;quot; Schmitz said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="15">
+          <content>But as China&amp;apost;s coastal provinces -- which were first opened for Western-style economic reform in 1979 -- grow more expensive, more companies are moving factories into rural areas, sparking a new wave of development and giving workers more options closer to home.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;The companies are looking for cheaper resources, cheaper land, cheaper labor in the home provinces, like in the rural remote provinces in China,&amp;quot; Suki Chung, executive director, Labor Action China, told CNN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;In places like Shenzhen, the Pearl River Delta, these places have become very expensive.</content>
+        </sentence>
+        <sentence id="18">
+          <content>So for migrant workers perhaps in the past, you make a salary and then bring it home, because of the cost of living how it&amp;apost;s risen so quickly, it&amp;apost;s no longer viable,&amp;quot; said Nee.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;Taking a salary that&amp;apost;s a little bit less back near their hometown is a much more attractive option, especially since they can visit their family much more easily.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="20">
+          <content>Meanwhile, the low-skilled factory jobs in Shenzhen are being replaced by higher skilled employment.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="21">
+          <content>&amp;quot;Shenzhen is moving up the value chain,&amp;quot; Schmitz said.</content>
+        </sentence>
+        <sentence id="22">
+          <content>&amp;quot;A lot of the jobs now that are available at places like Huawei (the telecommunications giant) ... you&amp;apost;re seeing a lot of folks who graduated from &amp;apost;dazhuang,&amp;apost; which is the vocational colleges of China, coming to Shenzhen instead of folks who have dropped out of high school perhaps or just come right off the farm.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="23">
+          <content>As China moves from an export-driven, investment-led economy toward domestic consumption growth, the nation depends on the rising buying power of its workforce.</content>
+        </sentence>
+        <sentence id="24">
+          <content>Still, &amp;quot;400 million people in China still live on less than $2 a day,&amp;quot; Schmitz said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="25">
+          <content>&amp;quot;(China) is going to experience slower growth.</content>
+        </sentence>
+        <sentence id="26">
+          <content>Slower growth probably means fewer job,&amp;quot; Schmitz said.</content>
+        </sentence>
+        <sentence id="27">
+          <content>&amp;quot;I think there are a lot of threats that lie ahead.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

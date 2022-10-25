@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1736" link="http://edition.cnn.com/2011/10/13/travel/gao-faa-reporting-system/index.html" date_published="2011-10-14 01:52:08" category="travel" author="Mike M. Ahlers, CNN " highlights_mapped="true" mapping_error="false">
+  <title>Air mishaps soar, government debates why</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="6">FAA&amp;apost;s non-punitive reporting system took effect in July 2009.</sentence>
+      <sentence id="2" ids_article_sentences="8">Since then, reporting of controller errors has risen dramatically .</sentence>
+      <sentence id="3" ids_article_sentences="10">GAO says system may reduce personal accountability, &amp;quot;risk-averse&amp;quot; behavior.</sentence>
+      <sentence id="4" ids_article_sentences="2">FAA, controllers union say the reporting system has made U.S. air travel safer.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-09 14:18:45" annotation_time="36.681">
+      <sentence id="2" ids_highlights="4">Controllers and the FAA, however, say the rule has actually improved safety.</sentence>
+      <sentence id="6" ids_highlights="1">The FAA says the jump coincides with the non-punitive reporting rule, which took effect in July 2009.</sentence>
+      <sentence id="8" ids_highlights="2">The system, which protects controllers who report efforts from legal or disciplinary action, has &amp;quot;produced a wealth of information to help the FAA identify potential risks in the system and make corrections,&amp;quot; FAA spokeswoman Laura Brown said.</sentence>
+      <sentence id="10" ids_highlights="3">But the GAO said FAA officials who are not identified in the report told investigators that the system also may reduce personal accountability and &amp;quot;may make some air traffic controllers less risk averse in certain situations.&amp;quot;</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Washington Air traffic controllers may be taking more risks in handling airliners under a 2-year-old rule allowing them to report errors without fear of punishment, congressional investigators say in a report highlighting a spike in incidents.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Controllers and the FAA, however, say the rule has actually improved safety.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The report by the Government Accountability Office -- which notes a 53 percent increase in controller errors within five miles of airports and a 166 percent jump in errors handling approaching flights up to 40 miles out -- comes at a time of remarkable commercial aviation safety in the United States.</content>
+        </sentence>
+        <sentence id="4">
+          <content>The nation has not seen a fatal airliner crash since 2009, the same year the rule went into effect.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>The increase in errors &amp;quot;began a notable climb in the fourth quarter of fiscal year 2009, peaked in the second quarter of fiscal year 2010, and remained at rates higher than the historical average through the second quarter of 2011,&amp;quot; the GAO said in its report.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>The FAA says the jump coincides with the non-punitive reporting rule, which took effect in July 2009.</content>
+        </sentence>
+        <sentence id="7">
+          <content>That system encourages air traffic controllers to voluntarily report errors so that dangerous patterns can be identified and the system can be made safer, the agency said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>The system, which protects controllers who report efforts from legal or disciplinary action, has &amp;quot;produced a wealth of information to help the FAA identify potential risks in the system and make corrections,&amp;quot; FAA spokeswoman Laura Brown said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>&amp;quot;More information will help us find problems and take action before an accident happens,&amp;quot; she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>But the GAO said FAA officials who are not identified in the report told investigators that the system also may reduce personal accountability and &amp;quot;may make some air traffic controllers less risk averse in certain situations.&amp;quot;</content>
+        </sentence>
+        <sentence id="11">
+          <content>That may have led to more errors, according to the GAO, which also said some FAA officials told them the rule also limits the ability of managers to take action against employees who make a mistake.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>The GAO also said 65% of the errors reported through the non-punitive system, some of which may have involved violations of the standards separating aircraft in flight, were not fed into a separate FAA reporting system for operational errors.</content>
+        </sentence>
+        <sentence id="13">
+          <content>That may have reduced the number of errors directly reported to FAA supervisors, the GAO said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>Rep. Thomas E. Petri, the Aviation Subcommittee chairman and one of six Congress members who requested the GAO study, said the spike in errors raises significant concerns.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="15">
+          <content>&amp;quot;Airlines and FAA controllers alike share credit for the safety record we enjoy today,&amp;quot; Petri, a Wisconsin Republican, said in a written statement.</content>
+        </sentence>
+        <sentence id="16">
+          <content>&amp;quot;However, the recent uptick in near miss events is a precursor to tragedy.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>But Paul Rinaldi, president of the National Air Traffic Controllers Association, said his take on the report is that it shows the FAA has &amp;quot;taken several steps to further improve safety at and around airports.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="18">
+          <content>Bill Voss, president of the Flight Safety Foundation, said he supports the FAA&amp;apost;s non-punitive reporting system, saying it is bringing to light errors that would have gone unreported under the old system.</content>
+        </sentence>
+        <sentence id="19">
+          <content>But he said the new system, by itself, can not explain all of the increases in controller errors.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="20">
+          <content>&amp;quot;A jump is inevitable when you change your reporting system.</content>
+        </sentence>
+        <sentence id="21">
+          <content>You worry if you don&amp;apost;t have a jump because you feel like something hasn&amp;apost;t worked,&amp;quot; Voss said.</content>
+        </sentence>
+        <sentence id="22">
+          <content>&amp;quot;But when you look underneath these numbers, as GAO has done very carefully, you can&amp;apost;t explain everything away by a change of reporting.</content>
+        </sentence>
+        <sentence id="23">
+          <content>It looks like there&amp;apost;s some substance to it too, and that has to be dealt with.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

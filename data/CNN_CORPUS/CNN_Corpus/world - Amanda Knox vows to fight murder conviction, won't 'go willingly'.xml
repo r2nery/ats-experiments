@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2062" link="http://www.cnn.com/2014/01/31/world/europe/italy-amanda-knox-retrial" date_published="2014-01-31 10:22:26" category="world" author="Laura Smith-Spark and Hada Messia, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Amanda Knox vows to fight murder conviction, won&amp;apost;t &amp;apost;go willingly&amp;apost;</title>
+  <keywords>Amanda Knox retrial</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="13">NEW: The U.S. State Department won&amp;apost;t say whether Italy has requested extradition.</sentence>
+      <sentence id="2" ids_article_sentences="1">Amanda Knox says she will fight to the end, &amp;apost;won&amp;apost;t go willingly&amp;apost; to Italy.</sentence>
+      <sentence id="3" ids_article_sentences="12">Knox&amp;apost;s attorney says it is too early to talk about extradition to Italy.</sentence>
+      <sentence id="4" ids_article_sentences="22">Raffaele Sollecito is stopped near the border with Austria and Slovenia, Italian police say.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-11 10:23:39" annotation_time="98.16901" mapping_time_divergence="24.542252">
+      <sentence id="1" ids_highlights="2">Amanda Knox vowed Friday to fight her conviction for the murder of British student Meredith Kercher &amp;quot;until the very end&amp;quot; and said she &amp;quot;will never go willingly&amp;quot; back to Italy.</sentence>
+      <sentence id="12" ids_highlights="3">But Simon said it was too early to talk about extradition since there is still an appeals process to go through, which will probably last another year.</sentence>
+      <sentence id="13" ids_highlights="1">Citing privacy and confidentiality issues, State Department spokeswoman Marie Harf declined to say whether Italy has requested Knox be extradited.</sentence>
+      <sentence id="22" ids_highlights="4">Earlier Friday, Italian authorities stopped Sollecito near the border with Austria and Slovenia, Italian police told CNN.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Amanda Knox vowed Friday to fight her conviction for the murder of British student Meredith Kercher &amp;quot;until the very end&amp;quot; and said she &amp;quot;will never go willingly&amp;quot; back to Italy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Speaking on ABC&amp;apost;s &amp;quot;Good Morning America,&amp;quot; Knox said news of the guilty verdict Thursday &amp;quot;really has hit me like a train.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;I did not expect this to happen.</content>
+        </sentence>
+        <sentence id="4">
+          <content>I really expected so much better from the Italian justice system,&amp;quot; she said.</content>
+        </sentence>
+        <sentence id="5">
+          <content>&amp;quot;They found me innocent before.</content>
+        </sentence>
+        <sentence id="6">
+          <content>How can they say that it&amp;apost;s guilt beyond a reasonable doubt?&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>An appeals court found Knox and her former boyfriend, Raffaele Sollecito, guilty of murder in the Italian city of Florence after a retrial.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>Her attorney, Ted Simon, told CNN&amp;apost;s &amp;quot;New Day&amp;quot; that he had been in touch with Knox and her family all day as they awaited the court&amp;apost;s decision.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>&amp;quot;It was terrible news,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="10">
+          <content>&amp;quot;She understands more than anyone that a wrongful conviction is unjust, not just for the accused but for the victim, their family, as well as society, and she feels this very personally.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>Knox&amp;apost;s conviction has raised questions about her possible extradition to Italy to serve her 28½-year sentence, handed down in absentia, since she has been in the United States throughout the retrial.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>But Simon said it was too early to talk about extradition since there is still an appeals process to go through, which will probably last another year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>Citing privacy and confidentiality issues, State Department spokeswoman Marie Harf declined to say whether Italy has requested Knox be extradited.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>Knox, 26, told ABC she would fight every step of the way.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="15">
+          <content>&amp;quot;I will never go willingly back to the place where I -- I&amp;apost;m gonna fight this until the very end,&amp;quot; she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="16">
+          <content>Asked how she was coping with the situation, her attorney highlighted her strength of character.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;While she accepted that very difficult news, she has rebounded.</content>
+        </sentence>
+        <sentence id="18">
+          <content>She has shown great resilience and fortitude.</content>
+        </sentence>
+        <sentence id="19">
+          <content>And with a great deal of family support, they&amp;apost;re going to go forward and appeal what we would characterize as a completely unjust conviction,&amp;quot; Simon said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="20">
+          <content>The attorney argued there was &amp;quot;no evidence&amp;quot; implicating his client in the murder and never had been, adding that it was &amp;quot;incomprehensible&amp;quot; that the court had found her guilty.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="21">
+          <content>Sollecito stopped near border.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="22">
+          <content>Earlier Friday, Italian authorities stopped Sollecito near the border with Austria and Slovenia, Italian police told CNN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="23">
+          <content>Sollecito, who is not allowed to leave Italy while the legal process continues, was halted in the northern Italian town of Udine, police said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="24">
+          <content>The Slovenian border is less than 20 miles east of Udine, and the border with Austria lies about 55 miles to the north.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="25">
+          <content>Sollecito&amp;apost;s lawyer, Luca Maori, said his client was indeed in Udine with his girlfriend.</content>
+        </sentence>
+        <sentence id="26">
+          <content>They were driving to the town of Treviso, where his girlfriend lives, and because of the snow had to stop, the lawyer said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="27">
+          <content>Maori told CNN it was not Sollecito&amp;apost;s intent to flee the country.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="28">
+          <content>Prosecutors said the couple killed Kercher, a British student, in November 2007.</content>
+        </sentence>
+        <sentence id="29">
+          <content>Sollecito was sentenced to 25 years in prison.</content>
+        </sentence>
+        <sentence id="30">
+          <content>Both denied murder.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="31">
+          <content>Kercher, 21, was found partially nude in a pool of blood in the house she shared with Knox in the picturesque town of Perugia, where both women were exchange students.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="32">
+          <content>But despite years of courtroom battles over her death, many aspects of the crime still remain unexplained.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="33">
+          <content>&amp;apost;Journey to the truth&amp;apost;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="34">
+          <content>On Friday morning, Kercher&amp;apost;s siblings spoke in Florence about their family&amp;apost;s long ordeal.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="35">
+          <content>Her sister, Stephanie Kercher, said the family might never know exactly what happened on the night of her death.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="36">
+          <content>&amp;quot;I think we are still on the journey to the truth,&amp;quot; she said.</content>
+        </sentence>
+        <sentence id="37">
+          <content>&amp;quot;I think it may be the fact that we don&amp;apost;t ever really know what happened that night, which is obviously something we will have to come to terms with.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="38">
+          <content>Lyle Kercher, Meredith&amp;apost;s brother, said the family may have to wait until spring 2015 for a final resolution, since the verdicts reached Thursday can still be appealed at Italy&amp;apost;s Supreme Court.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="39">
+          <content>&amp;quot;Nothing is going to bring Meredith back, nothing will take away the horror of what happened to her,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="40">
+          <content>&amp;quot;The best we can hope for is finally bringing this whole case to a conclusion, having a conviction, and everyone can move on with their lives.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="41">
+          <content>If the Supreme Court upholds the murder conviction, he expects to see Italian authorities make an extradition request to the United States so that Knox serves her sentence in Italy, he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="42">
+          <content>Stephanie Kercher said that she had been told of a letter written by Knox to the Kercher family but that she had not seen it.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="43">
+          <content>She also appeared to rule out meeting with Knox in the future, despite the American&amp;apost;s overtures to the family and whatever the final outcome of the case.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="34">
+      <sentences>
+        <sentence id="44">
+          <content>&amp;quot;We&amp;apost;ve asked to have our wishes respected in that we would like to be together as a family to remember Meredith,&amp;quot; she said.</content>
+        </sentence>
+        <sentence id="45">
+          <content>&amp;quot;A lot has happened over this length of time.</content>
+        </sentence>
+        <sentence id="46">
+          <content>It would be very difficult to meet someone having had all that happen.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="35">
+      <sentences>
+        <sentence id="47">
+          <content>Pair first convicted in 2009.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="36">
+      <sentences>
+        <sentence id="48">
+          <content>Knox and Sollecito were first convicted in 2009, but those charges were overturned on appeal in 2011 and the pair were freed, having spent four years in prison.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="37">
+      <sentences>
+        <sentence id="49">
+          <content>In March of last year, Italy&amp;apost;s Supreme Court overturned the pair&amp;apost;s acquittals, leading to the retrial that resulted Thursday night in their convictions for murder being reinstated by a Florence appeals court.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="38">
+      <sentences>
+        <sentence id="50">
+          <content>Knox, who remained at home in Seattle, Washington, while the retrial was held, said in a written statement Thursday that her conviction would bring no consolation to the Kercher family.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="39">
+      <sentences>
+        <sentence id="51">
+          <content>Presiding Judge Alessandro Nencini has 90 days to write his arguments behind the jury&amp;apost;s ruling.</content>
+        </sentence>
+        <sentence id="52">
+          <content>Once that is out, lawyers have 90 days to appeal.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

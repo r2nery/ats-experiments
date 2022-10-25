@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2439" link="http://edition.cnn.com/2014/08/01/world/europe/ukraine-crisis/index.html?hpt=hp_t3" date_published="2014-08-01 09:10:06" category="world" author="Laura Smith-Spark and Ivan Watson, CNN" highlights_mapped="true" mapping_error="false">
+  <title>MH17: 60 experts arrive at Ukraine crash site</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="21">Brief cease-fire is over, but Ukraine says it will try to avoid fighting around crash site.</sentence>
+      <sentence id="2" ids_article_sentences="2">More than 60 international experts, escorted by European monitors, arrive at the crash site.</sentence>
+      <sentence id="3" ids_article_sentences="3">&amp;quot;Recovery work starts immediately,&amp;quot; OSCE monitoring mission says.</sentence>
+      <sentence id="4" ids_article_sentences="15">As many as 80 bodies could still be lying in the debris field, Australian official says.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-09-25 14:58:32" annotation_time="28.818666">
+      <sentence id="2" ids_highlights="2">More than 60 experts are now at the site, including from the Netherlands and Australia, accompanied by monitors from the Organization for Security and Co-operation in Europe.</sentence>
+      <sentence id="3" ids_highlights="3">&amp;quot;Recovery work starts immediately,&amp;quot; the OSCE said via Twitter, adding that it was the &amp;quot;largest-ever group&amp;quot; to make it to the scene.</sentence>
+      <sentence id="15" ids_highlights="4">But as many as 80 bodies could still be lying in the fields of eastern Ukraine where the passenger jet crashed, Australia&amp;apost;s foreign minister told CNN on Thursday.</sentence>
+      <sentence id="21" ids_highlights="1">The Ukrainian military&amp;apost;s cease-fire ended Friday morning, but Ukrainian Deputy Prime Minister Volodymyr Groysman said it would seek to maintain a halt in hostilities on the route to the crash site.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The largest group yet of international monitors and experts on Friday reached the crash site of Malaysia Airlines Flight 17 in eastern Ukraine, where they will push forward with the grisly task of recovering human remains.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>More than 60 experts are now at the site, including from the Netherlands and Australia, accompanied by monitors from the Organization for Security and Co-operation in Europe.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;Recovery work starts immediately,&amp;quot; the OSCE said via Twitter, adding that it was the &amp;quot;largest-ever group&amp;quot; to make it to the scene.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>Fighting between the military and pro-Russia rebels had made it too dangerous to reach the rural area where Flight 17 went down July 17 with the loss of all 298 people aboard.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>But a team of eight monitors and four experts was able to get there safely after the OSCE negotiated a different route to the site Thursday -- at the same time as the Ukrainian side declared a one-day cease-fire.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>The international contingent used the same route -- which involves crossing and recrossing the Ukrainian and rebel front lines -- Friday, said OSCE spokesman Michael Bociurkiw.</content>
+        </sentence>
+        <sentence id="7">
+          <content>Their convoy numbered 14 vehicles, its strength boosted by the arrival of more personnel and equipment from Kharkiv.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>Their work includes the recovery of the human remains and victims&amp;apost; belongings still scattered across the huge debris field as well as the investigation into what happened.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>Cadaver dogs may be used.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="10">
+          <content>Experts marked locations where they spotted human remains Thursday, Bociurkiw said.</content>
+        </sentence>
+        <sentence id="11">
+          <content>They hope to continue investigating Friday, he said, and may use cadaver dogs and aerial surveillance to search the scene.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;This all goes back to time is of the essence,&amp;quot; he told CNN&amp;apost;s Anderson Cooper late Thursday.</content>
+        </sentence>
+        <sentence id="13">
+          <content>&amp;quot;Everyone realizes that time is no longer on our side, that this investigation has to kick-start into high gear right away.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>Many coffins holding remains -- collected in the first week after the disaster -- already have been flown to the Netherlands, where the Malaysia Airlines flight originated.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>But as many as 80 bodies could still be lying in the fields of eastern Ukraine where the passenger jet crashed, Australia&amp;apost;s foreign minister told CNN on Thursday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;But we won&amp;apost;t know until our investigative teams are on the site and combing the crash site for remains,&amp;quot; Foreign Minister Julie Bishop said.</content>
+        </sentence>
+        <sentence id="17">
+          <content>&amp;quot;And that&amp;apost;s the grisly and sobering task that they must undertake from now on.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="18">
+          <content>Ukraine&amp;apost;s parliament approved agreements Thursday that allow international personnel from countries that had citizens on Flight 17 to work at the crash site.</content>
+        </sentence>
+        <sentence id="19">
+          <content>Up to 700 of them can be armed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="20">
+          <content>Talks on crisis held in Belarus.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="21">
+          <content>The Ukrainian military&amp;apost;s cease-fire ended Friday morning, but Ukrainian Deputy Prime Minister Volodymyr Groysman said it would seek to maintain a halt in hostilities on the route to the crash site.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="22">
+          <content>Overnight, 10 Ukrainian paratroopers were killed near Shakhtarsk, less than 25 kilometers (15 miles) from the crash area, when their convoy came under attack from pro-Russia rebel forces, according to the Facebook page of Ukraine&amp;apost;s Counter-Terrorist Operation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="23">
+          <content>Eight bodies have been evacuated so far, and the troops have been pulled out to a safer area, the Facebook post said.</content>
+        </sentence>
+        <sentence id="24">
+          <content>The militants have prevented recovery of two other bodies by constantly firing at the site, it added.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="25">
+          <content>Ukrainian National Security and Defense Council spokesman Andriy Lysenko said at a briefing Friday that Russia was &amp;quot;actively preparing firing positions for shelling Ukrainian territory&amp;quot; and has positioned 17 Grad rocket systems in its Bryansk region, about three miles from the border with Ukraine, according to Ukraine&amp;apost;s Ukrinform news agency.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="26">
+          <content>Senior representatives of Ukraine, Russia and OSCE, known as the Trilateral Contact Group, held talks on the crisis Thursday in Belarus with representatives of the eastern Ukraine rebel groups.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="27">
+          <content>The participants &amp;quot;committed to securing further safe access to international investigators to the crash site until the investigation activities on the spot are completed,&amp;quot; a statement from the Trilateral Contact Group said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="28">
+          <content>They also discussed the situation of hostages taken during the three-month-long conflict and agreed to the release &amp;quot;of a sizable number of persons deprived of freedom,&amp;quot; it said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="29">
+          <content>Former Ukrainian President Leonid Kuchma told the news agency Interfax-Ukraine on Friday that 20 people would be freed &amp;quot;in the near future.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="30">
+          <content>He was also quoted as saying a promise had been made to transfer the personal belongings of those killed on Flight 17, currently still strewn across the crash area.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="31">
+          <content>The rebels and Trilateral Contact Group agreed to continue the talks -- held at the initiative of Ukrainian President Petro Poroshenko -- next week.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="32">
+          <content>Russian remains defiant.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="33">
+          <content>U.S. and Ukrainian officials have alleged that a Russian-made missile system downed the plane from rebel-held territory; Russia and the rebel fighters deny involvement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="34">
+          <content>Ukrainian and Western leaders also accuse Russia of continuing to arm and support the rebels since the plane&amp;apost;s downing, an allegation Moscow rejects.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="35">
+          <content>In a bid to crank up pressure on Russia to rein in the rebels, Europe and the United States imposed new sanctions this week aimed at disrupting activity in Moscow&amp;apost;s banking, oil and arms industries.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="36">
+          <content>But Russia, while warning that the sanctions will harm relations and damage the European economy as much as its own, has remained defiant.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="37">
+          <content>Russian state news agency Itar-Tass cited Vladimir Chizhov, Russia&amp;apost;s EU ambassador, as saying Friday that his country&amp;apost;s banking sector &amp;quot;will face certain difficulties&amp;quot; but that its economy &amp;quot;has sufficient resources to tackle these problems.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="38">
+          <content>Russian Deputy Prime Minister Dmitry Rogozin posted a composite image on his Twitter page Thursday evening showing Russian President Vladimir Putin holding a leopard, while his U.S. counterpart, President Barack Obama, has a white poodle.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="39">
+          <content>&amp;quot;We have different values and allies,&amp;quot; Rogozin&amp;apost;s taunting caption reads.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

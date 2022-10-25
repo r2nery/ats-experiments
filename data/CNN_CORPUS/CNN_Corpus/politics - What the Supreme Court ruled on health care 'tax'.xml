@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1143" link="http://articles.cnn.com/2012-07-05/politics/politics_scotus-health-care-tax_1_tax-returns-federal-income-taxes-health-care-tax?_s=PM:POLITICS" date_published="2012-07-05 17:21:18" category="politics" author="Josh Levs, CNN" highlights_mapped="true" mapping_error="false">
+  <title>What the Supreme Court ruled on health care &amp;apost;tax&amp;apost;</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="4">The Supreme Court rejected arguments that the individual mandate involves a &amp;quot;penalty&amp;quot;.</sentence>
+      <sentence id="2" ids_article_sentences="11">The mandate &amp;quot;looks like a tax in many respects,&amp;quot; Chief Justice John Roberts wrote .</sentence>
+      <sentence id="3" ids_article_sentences="2">The Obama administration argued that it&amp;apost;s a penalty but also could be viewed as a tax.</sentence>
+      <sentence id="4" ids_article_sentences="16">The court said the Anti-Injunction Act does not apply.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-20 09:58:30" annotation_time="15.888">
+      <sentence id="2" ids_highlights="3">The Obama administration had argued that the fees should be considered a penalty.</sentence>
+      <sentence id="4" ids_highlights="1">The high court rejected the &amp;quot;penalty&amp;quot; argument.</sentence>
+      <sentence id="11" ids_highlights="2">The mandate &amp;quot;looks like a tax in many respects,&amp;quot; Roberts wrote.</sentence>
+      <sentence id="16" ids_highlights="4">The high court said whether something is a tax for the purposes of the Anti-Injunction Act is Congress&amp;apost; decision -- and since Congress designated the mandate as including a penalty rather than a tax, the law did not apply in this case.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>In its ruling last week on the national health care law, the Supreme Court found that penalties the law places on people who don&amp;apost;t buy health insurance count as a tax protected by the Constitution.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The Obama administration had argued that the fees should be considered a penalty.</content>
+        </sentence>
+        <sentence id="3">
+          <content>But the government also argued that the individual mandate can be viewed as constitutional under Congress&amp;apost; powers of taxation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>The high court rejected the &amp;quot;penalty&amp;quot; argument.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>&amp;quot;The payment is not so high that there is really no choice but to buy health insurance; the payment is not limited to willful violations, as penalties for unlawful acts often are; and the payment is collected solely by the (Internal Revenue Service) through the normal means of taxation,&amp;quot; Chief Justice John Roberts wrote in the decision.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>The court noted that the law calls for no other punishments for refusal to buy health insurance.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;Indeed, it is estimated that four million people each year will choose to pay the IRS rather than buy insurance,&amp;quot; the decision said, citing figures from the Congressional Budget Office.</content>
+        </sentence>
+        <sentence id="8">
+          <content>&amp;quot;We would expect Congress to be troubled by that prospect if such conduct were unlawful.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>But on the taxation argument, the court agreed.</content>
+        </sentence>
+        <sentence id="10">
+          <content>The Constitution allows Congress to tax and spend, giving the federal government &amp;quot;considerable influence even in areas where it cannot directly regulate,&amp;quot; the decision said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>The mandate &amp;quot;looks like a tax in many respects,&amp;quot; Roberts wrote.</content>
+        </sentence>
+        <sentence id="12">
+          <content>The money is to be paid by people when they file their tax returns and does not apply to those who pay no federal income taxes; the amount someone owes &amp;quot;is determined by such familiar factors as taxable income, number of dependents, and joint filing status,&amp;quot; and the &amp;quot;requirement to pay is found in the Internal Revenue Code and enforced by the IRS.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>The high court overturned a unanimous decision by the 11th U.S. Circuit Court of Appeals that the mandate did not impose a tax.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>The Supreme Court also ruled that it could proceed with considering the constitutionality of the tax despite the Anti-Injunction Act, which dates back 145 years.</content>
+        </sentence>
+        <sentence id="15">
+          <content>The law said lawsuits can&amp;apost;t be used to prevent taxing, only to get refunded for taxes already paid.</content>
+        </sentence>
+        <sentence id="16">
+          <content>The high court said whether something is a tax for the purposes of the Anti-Injunction Act is Congress&amp;apost; decision -- and since Congress designated the mandate as including a penalty rather than a tax, the law did not apply in this case.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;It is up to Congress whether to apply the Anti-Injunction Act to any particular statute, so it makes sense to be guided by Congress&amp;apost;s choice of label on that question.</content>
+        </sentence>
+        <sentence id="18">
+          <content>That choice does not, however, control whether an exaction is within Congress&amp;apost;s constitutional power to tax.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="19">
+          <content>The court emphasized that it was not weighing in on whether the mandate is a good idea.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="20">
+          <content>&amp;quot;Because the Constitution permits such a tax, it is not our role to forbid it, or to pass upon its wisdom or fairness,&amp;quot; the decision said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="21">
+          <content>How are you affected by the ruling?</content>
+        </sentence>
+        <sentence id="22">
+          <content>Share with us on CNN iReport.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

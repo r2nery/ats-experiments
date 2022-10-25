@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1118" link="http://edition.cnn.com/2011/09/23/politics/state-education-waivers/index.html" date_published="2011-09-23 23:45:07" category="politics" author="George Howell, CNN" highlights_mapped="true" mapping_error="false">
+  <title>States gear up to opt out of No Child Left Behind law</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">President Obama announces state waivers to No Child Left Behind.</sentence>
+      <sentence id="2" ids_article_sentences="7">Georgia is among a number of states seeking a waiver.</sentence>
+      <sentence id="3" ids_article_sentences="15">Georgia lays out its alternative plan to measure achievement.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-25 08:20:24" annotation_time="47.1945">
+      <sentence id="1" ids_highlights="1">Atlanta A number of states, including Georgia, already are putting things in place to opt out of the controversial No Child Left Behind Law, following President Barrack Obama&amp;apost;s announcement Friday that states can now apply for waivers.</sentence>
+      <sentence id="7" ids_highlights="2">Georgia is one of a handful of states, including Kentucky, Delaware, and Wisconsin that have expressed interest in waivers seeking flexibility from No Child Left Behind (NCLB).</sentence>
+      <sentence id="15" ids_highlights="3">Georgia&amp;apost;s proposal focuses on several indicators to measure student performance, including reading, language arts, math, science, and social studies, offering an index that will vary based on grade level.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Atlanta A number of states, including Georgia, already are putting things in place to opt out of the controversial No Child Left Behind Law, following President Barrack Obama&amp;apost;s announcement Friday that states can now apply for waivers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The law, passed in 2001, requires, among other things, that public schools meet targets designed to make all students proficient in math and reading by 2014 or face penalties.</content>
+        </sentence>
+        <sentence id="3">
+          <content>The administration will begin reviewing applications to waive some of the demands the law places on states, Obama said Friday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Top education officials in Georgia said Friday that it should be up to each individual state to decide how best to evaluate student performance in the classroom.</content>
+        </sentence>
+        <sentence id="5">
+          <content>Following the president&amp;apost;s announcement, Georgia State School Superintendent Dr. John Barge described his state&amp;apost;s alternative to closing the achievement gap.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>The College and Career Ready Performance Index, &amp;quot;lets states determine how they approach the guiding principles,&amp;quot; Barge said Friday.</content>
+        </sentence>
+        <sentence id="7">
+          <content>Georgia is one of a handful of states, including Kentucky, Delaware, and Wisconsin that have expressed interest in waivers seeking flexibility from No Child Left Behind (NCLB).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>Barge and U.S. Senator Johnny Isakson (R-Ga.).</content>
+        </sentence>
+        <sentence id="9">
+          <content>personally delivered Georgia&amp;apost;s request for a waiver to U.S. Secretary of Education Arne Duncan Tuesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>Barge said the waiver will give schools more flexibility.</content>
+        </sentence>
+        <sentence id="11">
+          <content>&amp;quot;It will not be a matter of the entire accountability label hinging on a single test,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>Under the administration&amp;apost;s new guidelines, states will be encouraged to devise standards of accountability that do not treat all schools the same.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>&amp;quot;The purpose is not to give states and districts a reprieve from accountability, but rather to unleash energy to improve our schools at the local level,&amp;quot; Obama said in a statement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>In order to gain approval for waivers, states must present the U.S. Department of Education with credible alternative plans to measure performance.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>Georgia&amp;apost;s proposal focuses on several indicators to measure student performance, including reading, language arts, math, science, and social studies, offering an index that will vary based on grade level.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;With NCLB, science and social studies teachers were not measured to determine adequate yearly progress,&amp;quot; Georgia Department of Education Communications Director Matt Cardoza said.</content>
+        </sentence>
+        <sentence id="17">
+          <content>&amp;quot;Many times, those teachers would feel their subjects were not as important.</content>
+        </sentence>
+        <sentence id="18">
+          <content>Now, there are multiple indicators, including science and social studies.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="19">
+          <content>States that do not apply for waivers will still be expected to meet the guidelines set out by No Child Left Behind.</content>
+        </sentence>
+        <sentence id="20">
+          <content>States may submit official applications for waivers by mid-November.</content>
+        </sentence>
+        <sentence id="21">
+          <content>Waivers could be granted in early 2010.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

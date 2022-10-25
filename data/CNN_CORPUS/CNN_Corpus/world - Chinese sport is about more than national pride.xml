@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2128" link="http://edition.cnn.com/2014/08/28/world/asia/on-china-sport-opinion/index.html" date_published="2014-08-28 04:17:35" category="world" author="Sheng Li, special to CNN" highlights_mapped="true" mapping_error="false">
+  <title>Chinese sport is about more than national pride</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="19">The meaning of competitive sports is changing in China.</sentence>
+      <sentence id="2" ids_article_sentences="20">A growing urban population and middle class are seeking a better quality of life and personal well-being through sports.</sentence>
+      <sentence id="3" ids_article_sentences="21">In 2013, more than 750,000 people participated in a running competition or marathon.</sentence>
+      <sentence id="4" ids_article_sentences="24">More kids are embracing sport and the values it teaches.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-27 17:30:19" annotation_time="14.628">
+      <sentence id="19" ids_highlights="1">There is nothing wrong with the obsession towards winning, after all, that&amp;apost;s what elite competitive sports is all about but there are other emerging trends that might change the face of sports in China.</sentence>
+      <sentence id="20" ids_highlights="2">A growing urban population and middle class are seeking a better quality of life and personal well-being.</sentence>
+      <sentence id="21" ids_highlights="3">In 2013, more than 750,000 people participated in a running competition or marathon, up 50 percent on 2012, according to the China Track and Field Association.</sentence>
+      <sentence id="24" ids_highlights="4">However, we also see that more kids (and parents) are embracing sport and the values it teaches.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Since China took part in the Olympic Games in 1984 after a three-decade absence, competitive sports have served one purpose -- to build national pride.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Athletes&amp;apost; victories on the global stage made us proud of the new China.</content>
+        </sentence>
+        <sentence id="3">
+          <content>The new &amp;quot;open&amp;quot; China was full of hopes, dreams and opportunities.</content>
+        </sentence>
+        <sentence id="4">
+          <content>A strong, united nation working together to build a better tomorrow was the higher calling for all of us.</content>
+        </sentence>
+        <sentence id="5">
+          <content>To serve this calling, many kids who were identified as potential elite athletes were enrolled into the government supported &amp;quot;sports schools.&amp;quot;</content>
+        </sentence>
+        <sentence id="6">
+          <content>If they trained hard and were talented enough, they would make it to represent their city, their province and then one day their country.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="7">
+          <content>When there is a demand, there was also a reward.</content>
+        </sentence>
+        <sentence id="8">
+          <content>Chinese Olympic champions were well rewarded through national and local government, both in terms of compensation and social status.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Lang Ping, the star of the 1984 women&amp;apost;s volleyball team that won a gold medal at the 1984 Los Angeles Olympics, was the Michael Jordan of China.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="10">
+          <content>As the son of a sports reporter, I was fortunate enough to know her when I was a kid.</content>
+        </sentence>
+        <sentence id="11">
+          <content>The fact that I knew her made me very popular at school, pretty much like telling everybody at school today that Kobe Bryant is your friend.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="12">
+          <content>In 2008, China won 51 gold medals (100 medals overall) and topped the gold medal tally at the Beijing Olympic Games.</content>
+        </sentence>
+        <sentence id="13">
+          <content>After this astounding success, many started to ask what&amp;apost;s next?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="14">
+          <content>Economic growth means that people have more options in terms of career.</content>
+        </sentence>
+        <sentence id="15">
+          <content>It is more and more difficult to find kids (and parents) who want to join the &amp;quot;sports school&amp;quot; system and aim for that one-in-a-million shot to become an Olympic gold medalist.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Academic performance offers a more certain path to success.</content>
+        </sentence>
+        <sentence id="17">
+          <content>Better grades means better universities, better universities means better jobs.</content>
+        </sentence>
+        <sentence id="18">
+          <content>At least that has been (and will probably still be for a long time) the belief of many parents and teachers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="19">
+          <content>There is nothing wrong with the obsession towards winning, after all, that&amp;apost;s what elite competitive sports is all about but there are other emerging trends that might change the face of sports in China.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="20">
+          <content>A growing urban population and middle class are seeking a better quality of life and personal well-being.</content>
+        </sentence>
+        <sentence id="21">
+          <content>In 2013, more than 750,000 people participated in a running competition or marathon, up 50 percent on 2012, according to the China Track and Field Association.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="22">
+          <content>In 2014, there will be 53 marathons registered at the China Track and Field Association and this number is projected to grow at least at 20 percent annually.</content>
+        </sentence>
+        <sentence id="23">
+          <content>Compared to the 200 marathons held each year in Japan, China still has a long way to go but there is a new enthusiasm for sport at the grassroots level.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="24">
+          <content>However, we also see that more kids (and parents) are embracing sport and the values it teaches.</content>
+        </sentence>
+        <sentence id="25">
+          <content>We operate a sports academy in Shanghai that teaches fencing, squash and Thai boxing.</content>
+        </sentence>
+        <sentence id="26">
+          <content>Through a season of sports training and competition, we help kids to build confidence, work in teams and develop leadership skills.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="27">
+          <content>These are the qualities that will help them to secure that better future over and beyond their academic performance.</content>
+        </sentence>
+        <sentence id="28">
+          <content>The Chinese government and many Chinese educators are starting to see the value of sports in education.</content>
+        </sentence>
+        <sentence id="29">
+          <content>They could do more by making sports an important part of school grades.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="30">
+          <content>Six years after the Beijing Olympic Games, there is another Olympic Games currently taking place in China this month -- the 2nd Youth Olympic Games in Nanjing.</content>
+        </sentence>
+        <sentence id="31">
+          <content>This Games is different.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="32">
+          <content>At the opening ceremony, International Olympic Committee President Thomas Bach urged participants to take selfies to show off their good fortune and stressed the importance of sharing, learning and making friends.</content>
+        </sentence>
+        <sentence id="33">
+          <content>Most people don&amp;apost;t know who won the first gold medal or how many gold medals China has won.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="34">
+          <content>In today&amp;apost;s China, the demand for sports has gone beyond Olympic gold medals and national pride.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

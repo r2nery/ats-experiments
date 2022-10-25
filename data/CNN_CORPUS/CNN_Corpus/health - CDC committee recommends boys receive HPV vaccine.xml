@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="194" link="http://edition.cnn.com/2011/10/25/health/hpv-vaccine/index.html" date_published="2011-10-25 10:55:37" category="health" author="Jennifer Bixler, CNN" highlights_mapped="true" mapping_error="false">
+  <title>CDC committee recommends boys receive HPV vaccine</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="52">CDC: Tests on thousands of people show &amp;quot;no serious safety concerns&amp;quot; .</sentence>
+      <sentence id="2" ids_article_sentences="1">The advisory committee votes to recommend males ages 11 to 21 be vaccinated.</sentence>
+      <sentence id="3" ids_article_sentences="11">HPV is the number one sexually transmitted disease in the nation .</sentence>
+      <sentence id="4" ids_article_sentences="25">The HPV vaccine has been approved for males since 2009.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-08 21:55:39" annotation_time="41.227">
+      <sentence id="1" ids_highlights="2">A federal government advisory committee voted Tuesday to recommend that males ages 11 to 21 be vaccinated against the human papilloma virus, which is blamed for thousands of cases of cancer among women and men.</sentence>
+      <sentence id="11" ids_highlights="3">HPV is the most common sexually transmitted disease in the United States.</sentence>
+      <sentence id="25" ids_highlights="4">Although the vaccine has been approved for males since 2009, it hasn&amp;apost;t been as heavily promoted for them.</sentence>
+      <sentence id="52" ids_highlights="1">These studies showed no serious safety concerns.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>A federal government advisory committee voted Tuesday to recommend that males ages 11 to 21 be vaccinated against the human papilloma virus, which is blamed for thousands of cases of cancer among women and men.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The Centers for Disease Control and Prevention&amp;apost;s Advisory Committee on Immunization Practices said the vaccine series can be started as early as age 9.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Twelve members of the committee voted in favor of a recommendation that 11- and 12-year-old boys be vaccinated; one member abstained.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>In a separate vote involving males age 13 to 21, eight voted in favor; five against, and one abstained.</content>
+        </sentence>
+        <sentence id="5">
+          <content>The same recommendation said men ages 22 through 26 may be vaccinated.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>Much of the debate focused on whether it would be cost-effective to vaccinate boys against HPV.</content>
+        </sentence>
+        <sentence id="7">
+          <content>The vaccine is administered over a six-month period in three doses, each of which costs about $120.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>Dr. S. Michael March, clinical professor of pediatrics at the University of Southern California and a member of the group that devised the recommendations, said the cost to vaccinate 11- and 12-year-old boys would be $38 million.</content>
+        </sentence>
+        <sentence id="9">
+          <content>&amp;quot;We have the money, we just have to set the priorities,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="10">
+          <content>&amp;quot;If we don&amp;apost;t, I don&amp;apost;t know who will.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>HPV is the most common sexually transmitted disease in the United States.</content>
+        </sentence>
+        <sentence id="12">
+          <content>At least half of sexually active people will get it at some point in their lives.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>Why vaccinate middle schoolers?</content>
+        </sentence>
+        <sentence id="14">
+          <content>Experts say that it&amp;apost;s important to immunize people before they become sexually active.</content>
+        </sentence>
+        <sentence id="15">
+          <content>According to the Guttmacher Institute, which studies sexual health, 13% of 15-year-olds have had vaginal sex.</content>
+        </sentence>
+        <sentence id="16">
+          <content>By 19, that figure has risen to 70%.</content>
+        </sentence>
+        <sentence id="17">
+          <content>The vaccine is less effective after a person is sexually active.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="18">
+          <content>The HPV votes took place as part of the advisory committee&amp;apost;s meeting in Atlanta.</content>
+        </sentence>
+        <sentence id="19">
+          <content>The vaccine is 89% effective against genital warts in males and 75% effective against anal cancer in males, according to CDC.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="20">
+          <content>The HPV vaccine is already recommended for females between the ages of 9 and 26 to reduce the risk of cervical cancer.</content>
+        </sentence>
+        <sentence id="21">
+          <content>The CDC recommends girls also get the vaccine at age 11 or 12.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="22">
+          <content>The Food and Drug Administration approved the first HPV vaccine, Gardasil, in 2006.</content>
+        </sentence>
+        <sentence id="23">
+          <content>A second vaccine, Cervarix, was approved in 2009.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="24">
+          <content>Gardasil protects against most genital warts and anal, vaginal and vulvar cancers, all of which are associated with HPV, according to the disease agency.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="25">
+          <content>Although the vaccine has been approved for males since 2009, it hasn&amp;apost;t been as heavily promoted for them.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="26">
+          <content>One reason for the push now is that girls aren&amp;apost;t getting vaccinated in the numbers doctors had expected.</content>
+        </sentence>
+        <sentence id="27">
+          <content>&amp;quot;If the boys are also immunized, it reduces the transmission back and forth,&amp;quot; said Dr. William Schaffner, chairman of the Department of Preventive Medicine at Vanderbilt University, who attended the CDC meeting as an adviser but not a voting member.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="28">
+          <content>In addition, the committee voted to recommend that men who have sex with men up to age 26 be vaccinated against HPV because that would protect them from cancers of the penis and rectum.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="29">
+          <content>There also is growing evidence that HPV is responsible for a recent increase in head and neck cancer.</content>
+        </sentence>
+        <sentence id="30">
+          <content>A study published this month found approximately 70% of all oropharyngeal cancers are caused by HPV.</content>
+        </sentence>
+        <sentence id="31">
+          <content>Oropharyngeal cancers are those that form in the middle of the throat behind the mouth, an area that includes the back third of the tongue, the soft palate, the side and back walls of the throat and the tonsils.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="32">
+          <content>This year, the American Academy of Pediatrics added the HPV vaccine to its list of recommended vaccines for boys.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="33">
+          <content>A new study suggests that HPV may also be linked to cardiovascular disease.</content>
+        </sentence>
+        <sentence id="34">
+          <content>Researchers from the University of Texas Medical Branch at Galveston studied 2,450 women ages 20 to 59 who had participated in a national survey from 2003 to 2006 and found that 1,141 women tested positive for HPV.</content>
+        </sentence>
+        <sentence id="35">
+          <content>Of them, 573 had cancer-associated HPV types.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="36">
+          <content>Those whose who tested positive for HPV were 2.3 times more likely to have said they suffered a stroke or heart attack, the authors found.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="37">
+          <content>That odds ratio went up to 2.86 when women with cancer-associated HPV types were compared with women who had no such infections, according to the study, which was published in the Journal of the American College of Cardiology.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="38">
+          <content>&amp;quot;Nearly 20% of individuals with CVD (cardiovascular disease) do not show any risk factors, indicating that other &amp;apost;nontraditional&amp;apost; causes may be involved in the development of the disease; HPV appears to be one such factor among women,&amp;quot; Dr. Ken Fujise, the lead author of the study and director of the division of cardiology at the University of Texas said in a news release.</content>
+        </sentence>
+        <sentence id="39">
+          <content>&amp;quot;This has important clinical implications.</content>
+        </sentence>
+        <sentence id="40">
+          <content>First, the HPV vaccine may also help prevent heart disease.</content>
+        </sentence>
+        <sentence id="41">
+          <content>Second, physicians should monitor patients with cancer-associated HPV to prevent heart attack and stroke, as well as HPV patients already diagnosed with CVD to avoid future cardiovascular events.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="42">
+          <content>But an accompanying editorial, by Dr. Joseph B. Muhlestein, a cardiologist at Intermountain Medical Center in Murray, Utah, pointed out weaknesses in the study that make it difficult to point to a causal effect.</content>
+        </sentence>
+        <sentence id="43">
+          <content>He noted the small number of infected patients, their relative youth, the fact that it depended on their recall of their history and the fact that no adjustment was made for their socioeconomic status.</content>
+        </sentence>
+        <sentence id="44">
+          <content>He called for further work to be done.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="45">
+          <content>The results &amp;quot;may just apply to a certain subset of people with genetic early atherosclerosis,&amp;quot; said Dr. Joseph Ricotta, director of clinical research at the Division of Vascular Surgery and Endovascular Therapy at Emory University in Atlanta.</content>
+        </sentence>
+        <sentence id="46">
+          <content>&amp;quot;Not every person who has HPV is going to get cancer, it may be that only those kinds that have a link to cancer will have a link to cardiovascular disease,&amp;quot; said Ricotta, who also called for further studies before reaching &amp;quot;hard and fast&amp;quot; conclusions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="47">
+          <content>The HPV vaccine became a political hot potato when Republican presidential contender Michele Bachmann criticized fellow Republican contender and Texas Gov. Rick Perry&amp;apost;s support of the vaccine for girls.</content>
+        </sentence>
+        <sentence id="48">
+          <content>In 2007, he signed an executive order that required Texas schoolgirls to receive vaccinations against HPV.</content>
+        </sentence>
+        <sentence id="49">
+          <content>The order ended up not being implemented.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="50">
+          <content>The CDC notes that the FDA has licensed the vaccines as safe and effective.</content>
+        </sentence>
+        <sentence id="51">
+          <content>&amp;quot;Both vaccines were tested in thousands of people around the world.</content>
+        </sentence>
+        <sentence id="52">
+          <content>These studies showed no serious safety concerns.</content>
+        </sentence>
+        <sentence id="53">
+          <content>Common, mild adverse events reported during these studies include pain where the shot was given, fever, dizziness, and nausea,&amp;quot; according to the CDC website.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

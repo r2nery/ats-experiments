@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1642" link="http://www.cnn.com/2014/01/20/tech/web/lyndsey-scott-model-coder/index.html" date_published="2014-01-20 18:07:54" category="tech" author="Yasmin Khorram, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>She&amp;apost;s a beauty and a geek: Supermodel is a coder</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="4">Lyndsey Scott models for Prada, Victoria&amp;apost;s Secret, Calvin Klein.</sentence>
+      <sentence id="2" ids_article_sentences="8, 4, 18">She studied computer science in college and has built several apps for iOS platforms.</sentence>
+      <sentence id="3" ids_article_sentences="46">Scott: &amp;quot;We have this idea of people in technology being and looking a certain way&amp;quot;.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-01 16:23:07" annotation_time="32.644" mapping_time_divergence="10.881333">
+      <sentence id="4" ids_highlights="1, 2">So what will the world make of Lyndsey Scott, a model for Prada and Victoria&amp;apost;s Secret, who spends her spare time building mobile apps?</sentence>
+      <sentence id="8" ids_highlights="2">Scott has built several apps for iOS platforms.</sentence>
+      <sentence id="18" ids_highlights="2">At Amherst College, Scott learned coding languages Java, C++ and MIPS while majoring in theater and computer science.</sentence>
+      <sentence id="46" ids_highlights="3">&amp;quot;We have this idea of people in technology being and looking a certain way,&amp;quot; she said.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The term &amp;quot;software engineer&amp;quot; conjures images of pasty-faced young men with poor posture and limited social skills.</content>
+        </sentence>
+        <sentence id="2">
+          <content>And people think fashion models are all beauty and no brains.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>At least, those are the stereotypes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>So what will the world make of Lyndsey Scott, a model for Prada and Victoria&amp;apost;s Secret, who spends her spare time building mobile apps?</content>
+        </sentence>
+        <sentence id="5">
+          <content>The 29-year-old has appeared in major magazines like Harper&amp;apost;s Bazaar, W and British Vogue, but seems more proud of getting her iPhone and iPad apps approved by Apple.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;With modeling, you never have control over anything,&amp;quot; Scott told CNN.</content>
+        </sentence>
+        <sentence id="7">
+          <content>&amp;quot;So being able to have complete power with these apps I develop is very fulfilling.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>Scott has built several apps for iOS platforms.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Two are currently sold in the Apple store, and she&amp;apost;s preparing to release a social networking app in coming weeks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>Before the self-taught programmer began modeling for high-end designers like Louis Vuitton, Prada, Gucci, Fendi and Vera Wang, she was an undiscovered New Jersey teen who loved playing calculator games.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>In high school, she taught herself the software documentation and quickly learned how to program on her TI-89 calculator.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;I didn&amp;apost;t realize I was even coding at that point,&amp;quot; Scott said.</content>
+        </sentence>
+        <sentence id="13">
+          <content>&amp;quot;I first got into it just to make fun games and entertain myself.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>Her game-coding skills didn&amp;apost;t score her many points with her classmates, however.</content>
+        </sentence>
+        <sentence id="15">
+          <content>The 5-foot-9-inch model said she was a late bloomer and that growing up &amp;quot;is still hard to talk about&amp;quot; because of the bullying and taunting she endured.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;It got so bad in high school I couldn&amp;apost;t even look people in the face,&amp;quot; Scott said.</content>
+        </sentence>
+        <sentence id="17">
+          <content>&amp;quot;I would hide out in school so I wouldn&amp;apost;t have to eat lunch in the cafeteria or see people in between classes.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="18">
+          <content>At Amherst College, Scott learned coding languages Java, C++ and MIPS while majoring in theater and computer science.</content>
+        </sentence>
+        <sentence id="19">
+          <content>But instead of pursuing a programming career, she plunged into modeling.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="20">
+          <content>She got her big modeling break in 2009 when she became the first African-American to land an exclusive contract with Calvin Klein for New York Fashion Week.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="21">
+          <content>&amp;quot;It happened at a time when there was no interest in me as a model,&amp;quot; she said.</content>
+        </sentence>
+        <sentence id="22">
+          <content>&amp;quot;I always dreamed of it, but I wasn&amp;apost;t expecting it at all.</content>
+        </sentence>
+        <sentence id="23">
+          <content>I was beyond surprised.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="24">
+          <content>That same year Scott was chosen for one of the year&amp;apost;s most coveted fashion shows: Victoria&amp;apost;s Secret.</content>
+        </sentence>
+        <sentence id="25">
+          <content>She said she was &amp;quot;shocked and honored&amp;quot; to join a lineup of supermodels including Heidi Klum, Miranda Kerr and Alessandra Ambrosio.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="26">
+          <content>Meanwhile, she continued challenging expectations by teaching herself how to program Python and Objective-C.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="27">
+          <content>&amp;quot;I think a lot of models thought I was strange having a computer on my lap in the middle of a casting line,&amp;quot; Scott said.</content>
+        </sentence>
+        <sentence id="28">
+          <content>&amp;quot;I never really talked about programming in the modeling business.</content>
+        </sentence>
+        <sentence id="29">
+          <content>I kept the worlds very divided.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="30">
+          <content>Scott&amp;apost;s first iOS app was a charity-based project aimed at helping young scholars in Uganda.</content>
+        </sentence>
+        <sentence id="31">
+          <content>The app, Educate!</content>
+        </sentence>
+        <sentence id="32">
+          <content>, finds sponsors for Ugandan students and guides them toward becoming leaders and entrepreneurs.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="33">
+          <content>&amp;quot;I learned about Educate!</content>
+        </sentence>
+        <sentence id="34">
+          <content>in college.</content>
+        </sentence>
+        <sentence id="35">
+          <content>It was an organization founded by two Amherst students.</content>
+        </sentence>
+        <sentence id="36">
+          <content>When I found out that Uganda has the youngest population in the world and the highest youth poverty rate, I wanted to get involved,&amp;quot; she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="37">
+          <content>&amp;quot;It was rejected (by Apple) a few times.</content>
+        </sentence>
+        <sentence id="38">
+          <content>I had a big battle with Apple, going back and forth, so it was a huge relief when it finally passed.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="39">
+          <content>She has since developed several more applications, including iPort, which helps models and other creative types organize their professional portfolios on an iPad.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="40">
+          <content>&amp;quot;I noticed so many models were using iPads to show casting directors their work, but it looked messy and didn&amp;apost;t have a nice interface,&amp;quot; Scott said.</content>
+        </sentence>
+        <sentence id="41">
+          <content>&amp;quot;So I made iPort as similar functionally as an actual portfolio but much more convenient.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="42">
+          <content>Her brother, Matthew, is one of her biggest fans.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="43">
+          <content>&amp;quot;Lyndsey is a mix of Bill Gates and Giselle (Bundchen),&amp;quot; said Matthew Scott.</content>
+        </sentence>
+        <sentence id="44">
+          <content>&amp;quot;She combines her passion for modeling and passion of coding to help improve our world.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="45">
+          <content>Last month, Scott visited a middle school in New York City&amp;apost;s Harlem neighborhood to speak with students interested in computer programming.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="46">
+          <content>&amp;quot;We have this idea of people in technology being and looking a certain way,&amp;quot; she said.</content>
+        </sentence>
+        <sentence id="47">
+          <content>&amp;quot;That stereotype is destructive, and I think that&amp;apost;s part of the reason why female and minority programmers are so few.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="48">
+          <content>Scott said computer coding has now become a second professional life for her.</content>
+        </sentence>
+        <sentence id="49">
+          <content>She has plans for many more apps, and wants to learn coding for Android as well.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="50">
+          <content>The young dual-career woman would never have called herself a nerd while growing up because she saw it as a hurtful word at the time.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="51">
+          <content>&amp;quot;But now that I&amp;apost;m older, if it means being smart and having interests like computer science, then I have no problem being a nerd,&amp;quot; she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

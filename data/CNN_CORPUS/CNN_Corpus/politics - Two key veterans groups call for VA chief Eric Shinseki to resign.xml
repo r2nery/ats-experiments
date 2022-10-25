@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1134" link="http://www.cnn.com/2014/05/05/politics/veterans-groups-seek-shinseki-resignation" date_published="2014-05-06 00:04:12" category="politics" author="Scott Bronstein, Drew Griffin and Nelli Black, CNN Investigations " highlights_mapped="true" mapping_error="false">
+  <title>Two key veterans groups call for VA chief Eric Shinseki to resign</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">The American Legion and Concerned Veterans for America call for the resignations.</sentence>
+      <sentence id="2" ids_article_sentences="18">Eric K. Shinseki is the secretary of Veterans Affairs .</sentence>
+      <sentence id="3" ids_article_sentences="13">CNN has been reporting on veterans who have died waiting for care at VA hospitals.</sentence>
+      <sentence id="4" ids_article_sentences="6">VA on Shinseki: &amp;quot;Nobody is more committed to completing the work that lies ahead&amp;quot;.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-09-23 09:41:15" annotation_time="54.002666">
+      <sentence id="1" ids_highlights="1">Washington The nation&amp;apost;s largest veteran organization, The American Legion, and one other veterans group, Concerned Veterans for America, on Monday called for the resignation of Veterans Affairs Secretary Eric K. Shinseki.</sentence>
+      <sentence id="6" ids_highlights="4">&amp;quot;Secretary Shinseki has dedicated his life to his fellow veterans, and nobody is more committed to completing the work that lies ahead,&amp;quot; said a VA statement by Drew Brookie, VA spokesman.</sentence>
+      <sentence id="13" ids_highlights="3">In an exclusive report two weeks ago, CNN interviewed a retired VA doctor from Phoenix who charged that more than 40 American veterans have died waiting for care at the VA hospital there.</sentence>
+      <sentence id="18" ids_highlights="2">On Monday, Dillinger of the American Legion said that growing concerns about the problems at numerous VA facilities are what led him to call for the resignation of Shinseki and two other top VA officials: Under Secretary of Health Robert Petzel and Under Secretary of Benefits Allison Hickey.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Washington The nation&amp;apost;s largest veteran organization, The American Legion, and one other veterans group, Concerned Veterans for America, on Monday called for the resignation of Veterans Affairs Secretary Eric K. Shinseki.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The calls for his resignation came after months of CNN exclusive reporting on U.S. veterans who have died while waiting for care at VA hospitals across the country, including in Phoenix.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;It&amp;apost;s not something we do lightly.</content>
+        </sentence>
+        <sentence id="4">
+          <content>But we do so today because it is our responsibility as advocate for the men and women who have worn this nation&amp;apost;s uniform,&amp;quot; said Daniel M. Dellinger, national commander of the American Legion, speaking in Indianapolis.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Responding to the legion&amp;apost;s call for the secretary&amp;apost;s resignation, the VA issued a statement late Monday:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;Secretary Shinseki has dedicated his life to his fellow veterans, and nobody is more committed to completing the work that lies ahead,&amp;quot; said a VA statement by Drew Brookie, VA spokesman.</content>
+        </sentence>
+        <sentence id="7">
+          <content>&amp;quot;As the secretary says, providing veterans the quality care and benefits they have earned through their service is our only mission at VA.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>The White House also responded with a statement: &amp;quot;The President remains confident in Secretary Shinseki&amp;apost;s ability to lead the department.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>CNN&amp;apost;s ongoing look at health care for veterans.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>CNN has been reporting on delays in care and patient deaths at VA hospitals for the past six months, including at hospitals in South Carolina, Georgia and Texas.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>After CNN&amp;apost;s coverage, the VA acknowledged this April that 23 veterans had died as a result of delayed care in recent years.</content>
+        </sentence>
+        <sentence id="12">
+          <content>But sources tell CNN that number could be much higher.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>In an exclusive report two weeks ago, CNN interviewed a retired VA doctor from Phoenix who charged that more than 40 American veterans have died waiting for care at the VA hospital there.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>Many of the veterans, the doctor and other VA sources told CNN, were placed on a secret list created by VA managers to hide the wait times of veterans seeking medical care.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>VA officials in Phoenix denied there was any secret list or that they had given any orders to cover up or hide wait times.</content>
+        </sentence>
+        <sentence id="16">
+          <content>They acknowledged that veterans had died waiting for care but said they did not know whether those deaths were tied to waiting for care.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="17">
+          <content>But following those reports on Friday, Shinseki placed the Phoenix VA Director Sharon Helman and two members of her staff on administrative leave.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="18">
+          <content>On Monday, Dillinger of the American Legion said that growing concerns about the problems at numerous VA facilities are what led him to call for the resignation of Shinseki and two other top VA officials: Under Secretary of Health Robert Petzel and Under Secretary of Benefits Allison Hickey.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;These disturbing reports are part of what appear to be a pattern of scandals that has infected the entire system,&amp;quot; Dillinger said Monday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="20">
+          <content>Another VA facility under the spotlight.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="21">
+          <content>Also Monday, the Fort Collins, Colorado, VA facility came under scrutiny as concerns were raised that officials there might have allegedly instructed workers to change records in an effort to make veterans&amp;apost; wait times appear less severe.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;The House Committee on Veterans&amp;apost; Affairs has learned of appointment scheduling manipulation occurring at the Fort Collins, Colorado, Community Based Outpatient Clinic that is remarkably similar to issues recently referred to you regarding the Phoenix VA Medical Center,&amp;quot; stated a letter to the VA&amp;apost;s Office of Inspector General and signed by Rep. Mike Coffman, R-Colorado.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="23">
+          <content>The director of health care at the U.S. Government Accountability Office, Congress&amp;apost; watchdog organization, told CNN on Monday that even the VA does not truly know how many American veterans are waiting for care across the country.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="24">
+          <content>Director Debra Draper said that&amp;apost;s because they do not keep careful track of how many &amp;quot;consults&amp;quot; or doctor-requested appointments are open at any given time.</content>
+        </sentence>
+        <sentence id="25">
+          <content>Draper said some of the VA numbers and details of wait times are &amp;quot;unreliable.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="26">
+          <content>The VA reported that in just the last year, it basically cleared 1.5 million backlogged orders of patient care or services, which they call consults, but Draper said there is no way of knowing why they were closed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="27">
+          <content>Draper said it is &amp;quot;a little disconcerting that 1.5 million records were closed.</content>
+        </sentence>
+        <sentence id="28">
+          <content>... We can&amp;apost;t determine that they did a review, a clinical review and appropriately closed out the consult.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="29">
+          <content>She added that to find out how many consults have been truly closed, &amp;quot;you&amp;apost;d have to really go back to each individual patient record and see how the consult, why it was closed.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="30">
+          <content>Rebuffed on repeated interview requests.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="31">
+          <content>Throughout the network&amp;apost;s reporting, CNN has submitted numerous requests for an interview with Shinseki.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="32">
+          <content>Yet in the six months that CNN has been reporting on these delays, Shinseki has not publicly spoken about the issue.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="33">
+          <content>CNN is not alone in getting virtually no response from VA officials.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="34">
+          <content>U.S. Rep. Jeff Miller of Florida, chairman of the House Veterans Affairs Committee, issued this statement late Monday:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="35">
+          <content>&amp;quot;For nearly a year, we have been pleading with top department leaders and President Obama to take immediate steps to stop the growing pattern of preventable veteran deaths and hold accountable any and all VA employees who have allowed patients to slip through the cracks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="36">
+          <content>&amp;quot;In response, we&amp;apost;ve received disturbing silence from the White House and one excuse after another from VA.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="37">
+          <content>Brookie&amp;apost;s statement, released by the VA late Monday, read:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="38">
+          <content>&amp;quot;The Department of Veterans Affairs (VA) takes any allegations about patient care or employee misconduct very seriously.</content>
+        </sentence>
+        <sentence id="39">
+          <content>If the VA Office of Inspector General&amp;apost;s investigation substantiates allegations of employee misconduct, swift and appropriate action will be taken.</content>
+        </sentence>
+        <sentence id="40">
+          <content>Veterans deserve to have full faith in their VA care.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="41">
+          <content>&amp;quot;Under the leadership of Secretary Shinseki and his team, VA has made strong progress in recent years to better serve veterans both now and in the future.</content>
+        </sentence>
+        <sentence id="42">
+          <content>The secretary knows there is more work to do.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="34">
+      <sentences>
+        <sentence id="43">
+          <content>&amp;quot;VA&amp;apost;s progress includes enrolling 2 million more veterans in high-quality VA health care, reducing veterans&amp;apost; homelessness by 24 percent, providing post-9/11 GI Bill educational benefits to more than 1 million students, and decreasing the disability claims backlog by nearly 50 percent.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="35">
+      <sentences>
+        <sentence id="44">
+          <content>But veterans groups were not convinced.</content>
+        </sentence>
+        <sentence id="45">
+          <content>Late Monday, another veterans group joined the American Legion in the call for Shinseki to resign.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="36">
+      <sentences>
+        <sentence id="46">
+          <content>Pete Hegseth, CEO of the Concerned Veterans of America, issued the following statement:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="37">
+      <sentences>
+        <sentence id="47">
+          <content>&amp;quot;We&amp;apost;re proud to stand with The American Legion as they take this courageous and historic stand.</content>
+        </sentence>
+        <sentence id="48">
+          <content>As America&amp;apost;s largest veterans organization, their moral authority on this issue is unimpeachable.</content>
+        </sentence>
+        <sentence id="49">
+          <content>We applaud their demands for accountability at the very top of the Department of Veterans Affairs.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

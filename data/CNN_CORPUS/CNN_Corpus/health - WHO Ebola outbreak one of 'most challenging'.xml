@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="427" link="http://www.cnn.com/2014/04/08/health/africa-ebola/index.html" date_published="2014-04-08 16:54:22" category="health" author="CNN Staff" highlights_mapped="false" mapping_error="false">
+  <title>WHO: Ebola outbreak one of &amp;apost;most challenging&amp;apost;</title>
+  <keywords>Ebola outbreak Africa</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="20">Mali says it has three suspected Ebola cases .</sentence>
+      <sentence id="2" ids_article_sentences="6, 4">Ebola has sickened 178 people, killed more than 100, WHO says.</sentence>
+      <sentence id="3" ids_article_sentences="2">More deaths are suspected or confirmed in Sierra Leone, Mali.</sentence>
+    </highlights>
+    <gold_standard annotation_time="32.235">
+      <sentence id="2" ids_highlights="3">Cases have been reported in Sierra Leone, Mali and Ghana, but the WHO says none has been confirmed.</sentence>
+      <sentence id="4" ids_highlights="2">The number of suspected cases in Guinea has grown to 157, with 101 deaths.</sentence>
+      <sentence id="6" ids_highlights="2">In Liberia, 21 cases have been reported, including 10 deaths.</sentence>
+      <sentence id="20" ids_highlights="1">Mali&amp;apost;s government reported on its Facebook page last week that biological samples tied to three suspected Ebola cases within its borders were being sent to the U.S. Centers for Disease Control and Prevention for analysis.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The Ebola outbreak in coastal West Africa is still contained to Guinea and Liberia, the World Health Organization announced Tuesday, despite rumors of the virus spreading to other countries.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Cases have been reported in Sierra Leone, Mali and Ghana, but the WHO says none has been confirmed.</content>
+        </sentence>
+        <sentence id="3">
+          <content>Rumored cases in Mali are still being investigated.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>The number of suspected cases in Guinea has grown to 157, with 101 deaths.</content>
+        </sentence>
+        <sentence id="5">
+          <content>Sixty-seven have been confirmed as Ebola.</content>
+        </sentence>
+        <sentence id="6">
+          <content>In Liberia, 21 cases have been reported, including 10 deaths.</content>
+        </sentence>
+        <sentence id="7">
+          <content>Five of the cases have been confirmed as Ebola.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="8">
+          <content>The outbreak has &amp;quot;rapidly evolved&amp;quot; since originating in the forests of southeastern Guinea.</content>
+        </sentence>
+        <sentence id="9">
+          <content>The city of Guekedou, near the borders with Sierra Leone and Liberia, has seen the majority of the deaths.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="10">
+          <content>Twenty cases are believed to have occurred in Guinea&amp;apost;s capital, Conakry, according to WHO.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;This is one of the most challenging Ebola outbreaks that we have ever faced,&amp;quot; said Dr. Keiji Fukuda, WHO&amp;apost;s assistant director-general for health security.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>It&amp;apost;s the first emergence of Ebola in western Africa, which means doctors and health officials in the region don&amp;apost;t have any experience with the virus.</content>
+        </sentence>
+        <sentence id="13">
+          <content>Outbreaks generate a lot of fear and anxiety, Fukuda said, which can lead to misinformation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="14">
+          <content>The U.N. agency is trying to track people who had encountered the victims and make sure &amp;quot;that all those who have been in contact with infected people are being checked upon,&amp;quot; spokesman Tarik Jasarevic told CNN last week.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="15">
+          <content>There are about 50 staff currently deployed in the area and more are set to go shortly.</content>
+        </sentence>
+        <sentence id="16">
+          <content>They are working to prevent the spread of infection, primarily in health care facilities, and are sending personal protective equipment to surrounding countries.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;What is really important is to inform the population of Guinea and Conakry about this disease, as this is the first time they are facing Ebola,&amp;quot; Jasarevic said.</content>
+        </sentence>
+        <sentence id="18">
+          <content>&amp;quot;They need to know what it is and how they can protect themselves.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="19">
+          <content>The aid organization Doctors Without Borders has called the outbreak unprecedented, because previous cases have been limited to a small area.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="20">
+          <content>Mali&amp;apost;s government reported on its Facebook page last week that biological samples tied to three suspected Ebola cases within its borders were being sent to the U.S. Centers for Disease Control and Prevention for analysis.</content>
+        </sentence>
+        <sentence id="21">
+          <content>WHO said two of the samples have come back negative; they are still waiting on the other.</content>
+        </sentence>
+        <sentence id="22">
+          <content>Nine Ebola cases total are suspected in the country.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="23">
+          <content>Ebola is one of the world&amp;apost;s deadliest viruses, causing a hemorrhagic fever that kills up to 90% of those infected.</content>
+        </sentence>
+        <sentence id="24">
+          <content>It spreads in the blood and shuts down the immune system, causing high fever, headache and muscle pain, often accompanied by bleeding.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="25">
+          <content>Close to 9 in 10 of the patients WHO health professionals are seeing with Ebola are dying, said Dr, Stephane Hugonnet, who returned from southeast Guinea last weekend.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="26">
+          <content>&amp;quot;Ebola is clearly a severe disease,&amp;quot; Fukuda said.</content>
+        </sentence>
+        <sentence id="27">
+          <content>&amp;quot;It is also an infection that can be controlled.</content>
+        </sentence>
+        <sentence id="28">
+          <content>... We know very well how this virus is transmitted.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="29">
+          <content>The virus is named after the Ebola River in the Democratic Republic of Congo (formerly Zaire), where one of the first recorded outbreaks occurred in 1976.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

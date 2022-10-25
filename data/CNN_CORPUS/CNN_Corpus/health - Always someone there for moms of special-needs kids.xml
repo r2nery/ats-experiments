@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="172" link="http://www.cnn.com/2013/05/10/health/mom2mom-hot-line" date_published="2013-05-10 21:30:33" category="health" author="Elizabeth Landau, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Always someone there for moms of special-needs kids</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="8">Mom2Mom provides peer counseling, support and referrals in New Jersey.</sentence>
+      <sentence id="2" ids_article_sentences="11">Peer supporters also have children with special needs.</sentence>
+      <sentence id="3" ids_article_sentences="30">Many mothers of special-needs children don&amp;apost;t want to appear depressed.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-01 14:22:44" annotation_time="30.480667" mapping_time_divergence="20.320444">
+      <sentence id="8" ids_highlights="1">Cherie Castellano, who launched Mom2Mom in 2010, has started a number of initiatives based on the idea of &amp;quot;reciprocal peer support&amp;quot;: that people with similar experiences can help each other.</sentence>
+      <sentence id="11" ids_highlights="2">Mom2Mom now has about 20 mothers on staff, all of whom have children with some sort of special need, including medical illness and mental health problems.</sentence>
+      <sentence id="30" ids_highlights="3">&amp;quot;Moms don&amp;apost;t want to seem like they&amp;apost;re depressed about it or they&amp;apost;re sad about it or they&amp;apost;re afraid of what&amp;apost;s going to happen to their child when they&amp;apost;re gone,&amp;quot; Castellano said.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>When Suzanne Jablonski moved to New Jersey to start a new life, she felt mostly alone in her struggles raising a special-needs child.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Her 18-year-old son, Brandon Timberwolf Munic, has emotional, learning and behavioral difficulties as well as mild cognitive impairment.</content>
+        </sentence>
+        <sentence id="3">
+          <content>A single mother, Jablonski often felt as though she were in crisis mode, until she found a support system last year called Mom2Mom.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Mom2Mom is the only helpline in the United States focused on mothers of special-needs children.</content>
+        </sentence>
+        <sentence id="5">
+          <content>The service, staffed by moms of special-needs kids, operates 24 hours a day, seven days a week, and callers get follow-up support from a dedicated staff who checks up on them.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;I don&amp;apost;t think, &amp;apost;Oh, my God, this is the end of the world,&amp;apost; even though many times before ... I did,&amp;quot; Jablonski said.</content>
+        </sentence>
+        <sentence id="7">
+          <content>&amp;quot;I don&amp;apost;t feel so alone anymore.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>Cherie Castellano, who launched Mom2Mom in 2010, has started a number of initiatives based on the idea of &amp;quot;reciprocal peer support&amp;quot;: that people with similar experiences can help each other.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Having experienced the stress of having a child with developmental delays, she wanted to provide a way for other mothers to have caregiving support.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>Dads are welcome to call the Mom2Mom line too, Castellano said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>Mom2Mom now has about 20 mothers on staff, all of whom have children with some sort of special need, including medical illness and mental health problems.</content>
+        </sentence>
+        <sentence id="12">
+          <content>The program is part of University Behavioral HealthCare, which will be under Rutgers University as of July 1.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>&amp;quot;It&amp;apost;s not just good for the moms they&amp;apost;re helping, it&amp;apost;s also good for them because they get to feel connected and recognize their own strengths,&amp;quot; Castellano said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>Along the same lines, she also founded a law enforcement crisis hot line called Cop2Cop and the veteran support line Vets4Warriors.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>A staffer always picks up the hot line, no matter what time of day.</content>
+        </sentence>
+        <sentence id="16">
+          <content>In the initial call, the peer counselor mother will find out from the caller what she is calling about and then asks, &amp;quot;How are you?&amp;quot;</content>
+        </sentence>
+        <sentence id="17">
+          <content>The conversation then turns from the child&amp;apost;s needs to the mother&amp;apost;s own mental health and impact on the family.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="18">
+          <content>Most of the time, the caller agrees to engage in ongoing peer support, Castellano said.</content>
+        </sentence>
+        <sentence id="19">
+          <content>Mom2Mom then assigns her a support partner with a child who has a similar condition.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="20">
+          <content>The peer counselors check back often with these mothers, talking about what challenges might arise and the state of everyone&amp;apost;s mental and physical health in the family.</content>
+        </sentence>
+        <sentence id="21">
+          <content>They can refer them to a network of service providers.</content>
+        </sentence>
+        <sentence id="22">
+          <content>Mom2Mom also hosts in-person support group meetings.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="23">
+          <content>Because it&amp;apost;s a state-funded program, Mom2Mom&amp;apost;s activities are aimed at New Jersey residents, but no one is turned away; peer support counselors will research resources to try to find connections for the callers in their own states.</content>
+        </sentence>
+        <sentence id="24">
+          <content>The program has gotten calls from more than 20 states where moms struggle to find support as they care for special-needs children.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="25">
+          <content>On Monday, more than 40 callers came to the Mom2Mom headquarters -- a call center -- in Piscataway, New Jersey, to meet their counselors in at an event to allow peer partners to meet each other for the first time, in honor of Mother&amp;apost;s Day.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="26">
+          <content>Castellano met a mother she had been speaking with for two years.</content>
+        </sentence>
+        <sentence id="27">
+          <content>Staff members spoke about how much comfort they&amp;apost;ve gotten from the callers as well.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="28">
+          <content>&amp;quot;For like 20 minutes, there was just hugging, crying and chatter,&amp;quot; she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="29">
+          <content>Many mothers of special needs children want to appear as &amp;quot;supermoms,&amp;quot; being able to balance all of their appointments and challenges and emotions, Castellano said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="30">
+          <content>&amp;quot;Moms don&amp;apost;t want to seem like they&amp;apost;re depressed about it or they&amp;apost;re sad about it or they&amp;apost;re afraid of what&amp;apost;s going to happen to their child when they&amp;apost;re gone,&amp;quot; Castellano said.</content>
+        </sentence>
+        <sentence id="31">
+          <content>&amp;quot;There&amp;apost;s a lot of shame and guilt and suffering that nobody wants to talk about.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="32">
+          <content>Mom2Mom has been a big help to Debra Lee, 52, of Newark, New Jersey.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="33">
+          <content>The youngest two of Lee&amp;apost;s four children are on the autism spectrum: a 27-year-old son and a 20-year-old daughter.</content>
+        </sentence>
+        <sentence id="34">
+          <content>Her son graduated from Rutgers and works part-time.</content>
+        </sentence>
+        <sentence id="35">
+          <content>She worries about both of them, but especially her daughter, who attends a public school with an autism program and doesn&amp;apost;t go anywhere alone.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="36">
+          <content>She was one of the first callers to Mom2Mom and connected with peer counselor Mary Beth Walsh.</content>
+        </sentence>
+        <sentence id="37">
+          <content>Today, she attends in-person support groups as well.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="38">
+          <content>&amp;quot;You meet a lot of people that you can talk to,&amp;quot; she said.</content>
+        </sentence>
+        <sentence id="39">
+          <content>&amp;quot;You do a lot of crying.</content>
+        </sentence>
+        <sentence id="40">
+          <content>At least you can talk to people who can understand what you&amp;apost;re going through.</content>
+        </sentence>
+        <sentence id="41">
+          <content>It makes you feel much better.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="42">
+          <content>Since connecting with Mom2Mom, Lee said, she realizes how hard she had been on herself.</content>
+        </sentence>
+        <sentence id="43">
+          <content>She had put her whole self into her children and had lost sight of taking care of herself.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="44">
+          <content>Before, she would never buy nice clothes for herself; now, she&amp;apost;ll buy suits.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="45">
+          <content>&amp;quot;It just made me see that I could still look nice even though I&amp;apost;m overweight,&amp;quot; she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="46">
+          <content>Walsh, Lee&amp;apost;s peer counselor, has a 14-year-old son with autism.</content>
+        </sentence>
+        <sentence id="47">
+          <content>She has been immersed in the world of autism advocacy since his diagnosis, and admires Lee&amp;apost;s positive attitude toward everyone on the autism spectrum.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="48">
+          <content>&amp;quot;I might say, &amp;apost;Oh, he&amp;apost;s so sensitive to sound,&amp;apost; but Debra will say, &amp;apost;Oh, it&amp;apost;s amazing how he&amp;apost;s always listening to the environment and picking up all these cues.&amp;apost; &amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="49">
+          <content>Both these mothers took part in a Mom2Mom collaborative project expressing their feelings and struggles through artwork; each sculpture consists of two pieces of glass connected to look like a book.</content>
+        </sentence>
+        <sentence id="50">
+          <content>The result is called &amp;quot;Breathless: Mothers of Children with Special Needs.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="51">
+          <content>Lee&amp;apost;s glass panel depicts a tree; she wrote about &amp;quot;having faith.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="52">
+          <content>The Mom2Mom helpline is 1-877-914-MOM2.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

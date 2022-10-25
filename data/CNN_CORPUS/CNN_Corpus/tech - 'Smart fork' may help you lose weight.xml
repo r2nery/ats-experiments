@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1554" link="http://cnn.com/2013/04/19/tech/innovation/hapifork-smart-fork" date_published="2013-04-19 21:15:48" category="tech" author="Heather Kelly, CNN" highlights_mapped="true" mapping_error="false">
+  <title>&amp;apost;Smart fork&amp;apost; may help you lose weight</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="26">The HapiFork tracks how quickly you eat, vibrating if your bites are less than 10 seconds apart.</sentence>
+      <sentence id="2" ids_article_sentences="40">The company behind the smart fork has launched a Kickstarter campaign to raise $100,000.</sentence>
+      <sentence id="3" ids_article_sentences="50">Fork is one of many household objects that will likely get sensors in coming years.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-20 14:16:38" annotation_time="69.243">
+      <sentence id="26" ids_highlights="1">When two bites happened in the same 10 second window, the fork vibrated -- a somewhat unsettling feeling especially if it&amp;apost;s near your teeth.</sentence>
+      <sentence id="40" ids_highlights="2">On Wednesday, the HapiFork team launched a 45-day Kickstarter campaign to raise $100,000 and sign up the first 1,000 users.</sentence>
+      <sentence id="50" ids_highlights="3">In the coming years sensors will pop up in more and more household objects tracking things like air quality, movement, vital signs and other stats.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Anyone who has struggled to be healthy is intimately familiar with the counting game.</content>
+        </sentence>
+        <sentence id="2">
+          <content>They&amp;apost;ve counted calories, carbs, Weight Watchers points, their heart rate, steps and miles.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>Now a new smart eating utensil called the HapiFork will help them count bites during meals, and maybe shame them into eating slower and potentially losing weight.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Technology has made it easier to track the minutiae of everyday life, with smartphones, pedometers and small sensors that can fit in wearable devices such as wrist bands.</content>
+        </sentence>
+        <sentence id="5">
+          <content>The self-tracking hobby has blossomed into the quantified-self movement, which reaches far beyond the health conscious.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>People are tracking their sleep patterns, heart rate, mood, air quality and work habits, often in a bid to analyze enough data to correct problems with their health or lifestyle.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;Whatever we can measure, we can improve,&amp;quot; said Fabrice Boutain, CEO and founder of HapiLabs.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>In the case of the HapiFork, what can be improved is how fast people eat.</content>
+        </sentence>
+        <sentence id="9">
+          <content>It takes 20 minutes for the stomach to tell the brain it is full and that it&amp;apost;s time to stop eating, putting speedy eaters at risk for being overeaters.</content>
+        </sentence>
+        <sentence id="10">
+          <content>The HapiFork team says there are many potential health benefits to eating slower, including decreasing acid reflux, obesity and diabetes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>The $99 fork first gained attention during the Consumer Electronics Show in January and will be on the market by the end of the year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>How it works.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>The fork can be used to passively track eating habits and automatically sync that information, including duration of meals and frequency of forkfuls, with a smartphone.</content>
+        </sentence>
+        <sentence id="14">
+          <content>The HapiFork mobile app will also include a coaching program and tools to connect with friends and family.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>The device can also be set up for behavior modification, vibrating any time the diner is eating too quickly as a gentle reminder to slow down.</content>
+        </sentence>
+        <sentence id="16">
+          <content>By default it is set to allow a bite every 10 seconds, though the exact time is customizable.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="17">
+          <content>When the metal tines of the HapiFork touch the mouth, a circuit is closed and a bite is tallied.</content>
+        </sentence>
+        <sentence id="18">
+          <content>The data is automatically transmitted to a smartphone over Bluetooth or can be uploaded using a micro USB port in the base.</content>
+        </sentence>
+        <sentence id="19">
+          <content>The fork, which can stay charged for 15 days, has a thick plastic handle that houses the electronics.</content>
+        </sentence>
+        <sentence id="20">
+          <content>The core pops out so the fork can be washed by hand or run through a dishwasher.</content>
+        </sentence>
+        <sentence id="21">
+          <content>You must hold down a button to turn it on before each meal, but it powers down automatically after you stop using it.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="22">
+          <content>A hands-on (and mouth-on) test.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="23">
+          <content>I tested the fork out this week on a lunch of seared-tuna salad.</content>
+        </sentence>
+        <sentence id="24">
+          <content>There are only 10 prototypes of the HapiFork, each thoroughly sanitized between the many test eaters (I hope).</content>
+        </sentence>
+        <sentence id="25">
+          <content>It was a pretty tasty salad, and soon slow, responsible bites turned into shoveling.</content>
+        </sentence>
+        <sentence id="26">
+          <content>When two bites happened in the same 10 second window, the fork vibrated -- a somewhat unsettling feeling especially if it&amp;apost;s near your teeth.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="27">
+          <content>I&amp;apost;d slow down for a while, mostly out of embarrassment, but eventually I&amp;apost;d forget and the fork would buzz me again.</content>
+        </sentence>
+        <sentence id="28">
+          <content>It happened about five times during the length of the meal -- a fairly typical count for newbies, according to Boutain.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="29">
+          <content>HapiLabs subscribes to the theory that it takes 21 days to create a habit.</content>
+        </sentence>
+        <sentence id="30">
+          <content>If you use the fork consistently for 21 days, it should retrain you to automatically eat slower at all times.</content>
+        </sentence>
+        <sentence id="31">
+          <content>One meal wasn&amp;apost;t enough time to cure me of my snarfing ways, but I was more aware of how fast I ate for the rest of the day.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="32">
+          <content>Origin of the smart fork.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="33">
+          <content>The fork was invented seven years ago by Jacques Lepine, who compares the retraining to techniques used by habitual nail biters to cut down on their nibbling.</content>
+        </sentence>
+        <sentence id="34">
+          <content>Such as coating nails with bitter-tasting polish, for example.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="35">
+          <content>Last year Lepine connected with 5-year-old health and fitness content company HapiLabs, which is based in Paris and Hong Kong.</content>
+        </sentence>
+        <sentence id="36">
+          <content>The two joined forces just in time to take the first prototypes to CES in Las Vegas, where it was an instant hit.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="37">
+          <content>HapiLabs has 120 employees, only 10 to 15 of whom are currently working on the HapiFork project.</content>
+        </sentence>
+        <sentence id="38">
+          <content>But that ratio could change soon if the fork takes off.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="39">
+          <content>When can you get one?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="40">
+          <content>On Wednesday, the HapiFork team launched a 45-day Kickstarter campaign to raise $100,000 and sign up the first 1,000 users.</content>
+        </sentence>
+        <sentence id="41">
+          <content>Those early adopters will be the company&amp;apost;s first chance to collect a large amount of data and test how effective the fork&amp;apost;s vibration is at changing eaters&amp;apost; behavior.</content>
+        </sentence>
+        <sentence id="42">
+          <content>HapiLabs plans to start shipping the first forks to early Kickstarter donors at the end of the summer, and roll the devices out to everyone by the end of the year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="43">
+          <content>&amp;quot;We want to cater to a community of people who like to eat mindfully,&amp;quot; said Boutain.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="44">
+          <content>Data, data everywhere.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="45">
+          <content>Since it has started collecting data from test users, HapiLabs has found that people take about 70 fork bites per meal.</content>
+        </sentence>
+        <sentence id="46">
+          <content>They start eating fast but slow down after six minutes, and in an interesting bit of carb trivia, they tend to eat rice much faster than pasta (possibly due to the labor-intensive twirling process).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="47">
+          <content>This is just a sliver of the kind of insight the fork could give the company and medical researchers into how people eat.</content>
+        </sentence>
+        <sentence id="48">
+          <content>That potential is what makes the fork more than just a silly and fun novelty gadget.</content>
+        </sentence>
+        <sentence id="49">
+          <content>It represents an evolution in tracking technology.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="50">
+          <content>In the coming years sensors will pop up in more and more household objects tracking things like air quality, movement, vital signs and other stats.</content>
+        </sentence>
+        <sentence id="51">
+          <content>This potential flood of sensors could lead to a mess of data, with each piece of information tracked in its own app.</content>
+        </sentence>
+        <sentence id="52">
+          <content>Fitness trackers like the Nike Fuel Band and the Fitbit are already hugely popular.</content>
+        </sentence>
+        <sentence id="53">
+          <content>A new company, Estonian startup Jomi Interactive, recently announced it is working on tracking devices that fit onto water bottles and monitor how much water you drink.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="54">
+          <content>Ideally all the sensor companies will work together so that different data can be shared across apps and devices, allowing it to be analyzed for even more insightful conclusions.</content>
+        </sentence>
+        <sentence id="55">
+          <content>(Do you eat less on days you get more than 8 hours sleep?</content>
+        </sentence>
+        <sentence id="56">
+          <content>Does the air quality in your home effect your mood?).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

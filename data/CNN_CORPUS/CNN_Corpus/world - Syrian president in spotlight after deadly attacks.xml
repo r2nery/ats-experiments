@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2798" link="http://www.cnn.com/2012/07/18/world/syria-bashar-al-assad-profile/index.html" date_published="2012-07-18 20:43:02" category="world" author="David Ariosto, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Syrian president in spotlight after deadly attacks</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">Al-Assad grew up in the shadow of his father, the late president Hafez al-Assad.</sentence>
+      <sentence id="2" ids_article_sentences="4">His father ruled with iron fist, jailing some dissidents and marginalizing others.</sentence>
+      <sentence id="3" ids_article_sentences="6">His son, Bashar, enjoyed rare privileges and education as he studied abroad.</sentence>
+      <sentence id="4" ids_article_sentences="9">But those in Europe and the U.S. initially seemed heartened by the incoming president.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-26 09:48:50" annotation_time="44.995667">
+      <sentence id="3" ids_highlights="1">Al-Assad grew up in the shadow of his father, President Hafez al-Assad, a Soviet ally who ruled Syria for three decades and helped propel a minority Alawite population to key political, social and military posts.</sentence>
+      <sentence id="4" ids_highlights="2">By most accounts, the elder al-Assad governed with an iron fist, forging a police state that quashed opposition by jailing dissidents and marginalizing other political groups.</sentence>
+      <sentence id="6" ids_highlights="3">His son, Bashar, enjoyed rare privileges and education as he studied abroad, while his older son, Bassel, was the man groomed to succeed him and assume power.</sentence>
+      <sentence id="9" ids_highlights="4">But many observers in Europe and the United States seemed heartened by the incoming president, who presented himself as a fresh, youthful leader who might usher in a more progressive, moderate regime.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>With the deaths of three top Syrian officials, questions arose Wednesday as to whether the Damascus attack marks a turning point in the presidency of Bashar al-Assad.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>As the crisis unfolded, experts looked beyond the day&amp;apost;s events to the roots of Syrian President Bashar al-Assad&amp;apost;s power for insights into the 16-month rebellion that grips the Middle Eastern nation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Al-Assad grew up in the shadow of his father, President Hafez al-Assad, a Soviet ally who ruled Syria for three decades and helped propel a minority Alawite population to key political, social and military posts.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>By most accounts, the elder al-Assad governed with an iron fist, forging a police state that quashed opposition by jailing dissidents and marginalizing other political groups.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>Hafez al-Assad was born into a poor family and graduated from á¸¤omá¹£ Military Academy as an air force pilot, before rising in Baath Party leadership and gaining power in the &amp;quot;Corrective Revolution&amp;quot; of 1970.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>His son, Bashar, enjoyed rare privileges and education as he studied abroad, while his older son, Bassel, was the man groomed to succeed him and assume power.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>But when Bassel died in a car crash in 1994, Bashar was thrust into the national spotlight and switched his university focus from medicine to military science.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;Dr. Bashar,&amp;quot; who had headed the Syrian Computer Society, earned a degree in ophthalmology and enjoyed windsurfing, may have appeared an unlikely choice.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="9">
+          <content>But many observers in Europe and the United States seemed heartened by the incoming president, who presented himself as a fresh, youthful leader who might usher in a more progressive, moderate regime.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="10">
+          <content>Asma Akhras al-Assad, whom he married in 2000, is a former investment banker of Syrian descent who grew up in London.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="11">
+          <content>When al-Assad&amp;apost;s father died in June of that year, it took just hours for the Syrian parliament to amend the constitution and lower the presidential age of eligibility from 40 to 34, a move that allowed Bashar to succeed his father.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="12">
+          <content>Within weeks, he was also made a member of the regional command for the ruling Baath Party, a requirement of succession.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="13">
+          <content>&amp;quot;I shall try my very best to lead our country towards a future that fulfills the hopes and legitimate ambitions of our people,&amp;quot; al-Assad said during his inauguration speech.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="14">
+          <content>But Western hopes for a more moderate Syria sank when the new leader promptly maintained his country&amp;apost;s traditional ties with militant groups, such as Hamas and Hezbollah.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="15">
+          <content>Suspicions later surfaced among the country&amp;apost;s regional neighbors over whether Syria was developing a covert nuclear program.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="16">
+          <content>Meanwhile, al-Assad repeatedly vowed to stamp out corruption while strengthening his own grasp on power.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="17">
+          <content>But in recent months -- and after more than a decade in power -- the Syrian leader has drawn criticism from around the globe as he&amp;apost;s met popular protests and unrest with force.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="18">
+          <content>Thousands have been killed and many more displaced as the conflict has unfolded, with state security forces firing on demonstrators, many of whom have joined opposition groups, including armed rebel brigades.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="19">
+          <content>As pressure has mounted, the inner circle of the Syrian leader has became more of a family affair, said David Lesch, a professor of Middle East history and author of &amp;quot;The New Lion of Damascus: Bashar al-Assad and Modern Syria.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="20">
+          <content>&amp;quot;That&amp;apost;s part of what Bashar has been doing ever since he came to power,&amp;quot; Lesch said.</content>
+        </sentence>
+        <sentence id="21">
+          <content>&amp;quot;He has put members of his extended family ... in various parts of government and military security apparatus.</content>
+        </sentence>
+        <sentence id="22">
+          <content>If the day came -- and it did come -- where there was a threat to the regime, he could count on the loyalty of those closest to him.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="23">
+          <content>The president&amp;apost;s family belongs to the country&amp;apost;s minority Alawite sect, who are largely driven by fears that they could be overwhelmed should al-Assad lose power, according to the president&amp;apost;s uncle Rifaat.</content>
+        </sentence>
+        <sentence id="24">
+          <content>Recent reports, however, suggest discontent even within the minority community over his handling of the crisis.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="25">
+          <content>Al-Assad&amp;apost;s youngest brother, Maher, is thought to be Syria&amp;apost;s second-most powerful man, overseeing two of the army&amp;apost;s strongest units: the Republican Guard, which protects the regime in Damascus, and the elite Fourth Armored Division, which suppressed the early uprisings in southern Syria.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="26">
+          <content>But on Wednesday, a rebel attack killed Defense Minister Dawood Rajiha; Deputy Defense Minister Assef Shawkat -- al-Assad&amp;apost;s brother-in-law; and Hasan Turkmani, al-Assad&amp;apost;s security adviser and assistant vice president, according to state television.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="27">
+          <content>Shawkat was once in charge of the army&amp;apost;s intelligence services and was said to be one of the president&amp;apost;s closest allies.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="28">
+          <content>Interior Minister Ibrahim al-Shaar was among those injured in the blast, state TV said, adding that he &amp;quot;is in good health and that his condition is stable.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="29">
+          <content>Wednesday&amp;apost;s attack occurred during a meeting of ministers and security officials and was coordinated by rebel brigades in Damascus, opposition groups say.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="30">
+          <content>Al-Assad quickly named Gen. Fahd Jassem al-Freij as defense minister, according to the state-run news agency SANA.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="31">
+          <content>State media also reported that authorities have killed or captured a &amp;quot;large number&amp;quot; of terrorist infiltrators in Damascus and inflicted &amp;quot;heavy losses&amp;quot; on terrorists in Homs and Idlib.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="32">
+          <content>But video from a Damascus suburb showed Syrians rejoicing after news spread of the bombing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="33">
+          <content>Meanwhile, reports of deaths across the country occur almost every day, with a London-based opposition group reporting last week that government forces carried out a massacre in Hama province, killing 220 people there.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="34">
+          <content>Al-Assad&amp;apost;s administration has consistently said that its forces are targeting armed terrorists funded by outside agitators.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="35">
+          <content>In early July, al-Assad told a German television station that a months-old peace plan aimed at ending the violence hasn&amp;apost;t failed, but rather has yet to be implemented because foreign countries are supporting &amp;quot;terrorists.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="36">
+          <content>Former United Nations Secretary-General Kofi Annan, named as a special envoy to the region, has spearheaded the peace effort.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="34">
+      <sentences>
+        <sentence id="37">
+          <content>The president&amp;apost;s remarks came on the same day that U.S. Secretary of State Hillary Clinton held that the days for the Syrian regime are numbered.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="35">
+      <sentences>
+        <sentence id="38">
+          <content>Noting recent defections, Clinton said, &amp;quot;The sand is running out of the hourglass.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

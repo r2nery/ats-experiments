@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2446" link="http://cnn.com/2014/04/29/world/asia/missing-plane-recordings/index.html?hpt=bosread" date_published="2014-04-29 07:55:44" category="world" author="Ivan Watson, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>MH370: Plane audio recording played for first time to Chinese families</title>
+  <keywords>Malaysia Airlines missing plane,MH370,Flight 370,Missing plane recordings</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">The last known words of Flight 370 are played to families of Chinese passengers in Beijing.</sentence>
+      <sentence id="2" ids_article_sentences="2">It&amp;apost;s the first time the recording has been played in public by Malaysian officials.</sentence>
+      <sentence id="3" ids_article_sentences="6">They gave a chronology of the plane&amp;apost;s last known contacts with radar stations, satellite.</sentence>
+      <sentence id="4" ids_article_sentences="22">Chinese families have been pushing Malaysian officials to give them more information.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-11 18:19:09" annotation_time="93.08834" mapping_time_divergence="23.272085">
+      <sentence id="2" ids_highlights="1, 2">But the recording that Malaysian officials played for the first time in public in a Beijing conference room on Tuesday is purportedly the last known words of Malaysia Airlines Flight 370 before it disappeared on March 8.</sentence>
+      <sentence id="6" ids_highlights="3">The session on Tuesday also included the release of a chronology of the aircraft&amp;apost;s last known contacts with radar stations as well as a satellite orbiting over the Indian Ocean.</sentence>
+      <sentence id="22" ids_highlights="4">The &amp;quot;families&amp;apost; committee&amp;quot; that has formed during the agonizing month and a half since the plane&amp;apost;s disappearance has spent weeks demanding details on the aircraft&amp;apost;s last known location.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Beijing It sounds like standard radio chatter between an airplane and ground control, mostly repeating the identifying number of the flight.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>But the recording that Malaysian officials played for the first time in public in a Beijing conference room on Tuesday is purportedly the last known words of Malaysia Airlines Flight 370 before it disappeared on March 8.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;Malaysia three-seven-zero contact Ho Chi Minh 120.9, good night,&amp;quot; says a voice identified by Malaysian officials as that of a radar controller in Kuala Lumpur, the Malaysian capital.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>&amp;quot;Good night Malaysian three-seven-zero,&amp;quot; answers a male voice believed to be a crew member on the plane.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>Malaysian officials released the audio recording more than 50 days after the plane disappeared, in a long-awaited briefing before scores of relatives of the flight&amp;apost;s Chinese passengers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>The session on Tuesday also included the release of a chronology of the aircraft&amp;apost;s last known contacts with radar stations as well as a satellite orbiting over the Indian Ocean.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>At 2:03 a.m. local time on March 8, the operational dispatch center of Malaysia Airlines sent a message to the cockpit instructing the pilot to contact ground control in Vietnam, said Sayid Ruzaimi Syed Aris, an official with Malaysia&amp;apost;s aviation authority.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="8">
+          <content>Sayid said flight MH370 did not respond to the message.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="9">
+          <content>Fuel calculations.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="10">
+          <content>Nearly 20 minutes later, at 2:22, the Royal Malaysian Air Force picked up the flight for the last time on its radar system, Sayid said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="11">
+          <content>By that point, Sayid said, the plane was believed to have swerved far off course over the Malaysian coastal area of Penang, in the direction of the Malacca Strait.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="12">
+          <content>According to Malaysian officials in Beijing on Tuesday, there was no direct communication between Malaysia Airlines and MH370 for a five-hour period, until the airline tried unsuccessfully to call the cockpit.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="13">
+          <content>&amp;quot;At 7:13,&amp;quot; Sayid said, Malaysia Airlines tried to &amp;quot;make a voice call to the aircraft, but no pickup.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="14">
+          <content>If all had gone according to plan, MH370 would have landed at the international airport in Beijing at 6:30 a.m. on March 8.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="15">
+          <content>Malaysian officials told Chinese families on Tuesday that, by their calculations, the aircraft would have run out of fuel seven hours and 31 minutes into the flight.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;Based on the fuel calculation ... the aircraft fuel starvation will occur at time 08:12,&amp;quot; said Subas Chandran, a Malaysia Airlines representative.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="17">
+          <content>The Malaysian delegation also published slides showing the last known &amp;quot;handshakes&amp;quot; between the aircraft and an Inmarsat satellite over the Indian Ocean.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="18">
+          <content>The sixth and final handshake took place at 8:11 a.m. Malaysian time.</content>
+        </sentence>
+        <sentence id="19">
+          <content>According to these Inmarsat data points, in relation to the Inmarsat satellite, Flight 370 was far south of where it should have been if it had been on its planned route to Beijing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="20">
+          <content>&amp;apost;Making progress&amp;apost;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="21">
+          <content>The latest briefing marked a sharp change from previous combative meetings between Chinese family members and Malaysian officials.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="22">
+          <content>The &amp;quot;families&amp;apost; committee&amp;quot; that has formed during the agonizing month and a half since the plane&amp;apost;s disappearance has spent weeks demanding details on the aircraft&amp;apost;s last known location.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="23">
+          <content>Last week, more than 100 family members marched at midnight to the Malaysian Embassy in Beijing and staged a 15-hour sit-in demanding a meeting with a high-level technical delegation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="24">
+          <content>&amp;quot;They are making progress,&amp;quot; said Jimmy Wang, a member of the families&amp;apost; technical committee, after Tuesday morning&amp;apost;s briefing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

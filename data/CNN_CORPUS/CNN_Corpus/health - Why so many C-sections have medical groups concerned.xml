@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="428" link="http://www.cnn.com/2014/05/08/health/c-section-report/index.html" date_published="2014-05-08 16:17:41" category="health" author="Jen Christensen, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Why so many C-sections have medical groups concerned</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="9">C-section rates vary wildly among hospitals, Consumer Reports finds.</sentence>
+      <sentence id="2" ids_article_sentences="28">Nearly one out of three women gives birth by C-section, the CDC says.</sentence>
+      <sentence id="3" ids_article_sentences="4">C-sections carry higher health risks and expenses.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-28 08:59:54" annotation_time="13.805">
+      <sentence id="4" ids_highlights="3">A surgical birth, while generally safe, does carry more health risks and more expense.</sentence>
+      <sentence id="9" ids_highlights="1">Looking at hospital billing records the authors found the number of procedures performed vary wildly -- even at hospitals in the same town.</sentence>
+      <sentence id="28" ids_highlights="2">Overall nearly one out of three women now give birth by C-section, according to the CDC.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>If you are pregnant, ask your doctor questions about their delivery habits long before you go into labor.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Several studies now suggest doctors may be performing too many cesarean sections.</content>
+        </sentence>
+        <sentence id="3">
+          <content>Doctors may be performing them based more out of habit, training, expediency or worry about lawsuits than out of medical necessity, according to the studies.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>A surgical birth, while generally safe, does carry more health risks and more expense.</content>
+        </sentence>
+        <sentence id="5">
+          <content>If a woman has a C-section once, it also increases the chances she&amp;apost;ll need another if she gets pregnant again.</content>
+        </sentence>
+        <sentence id="6">
+          <content>Risks go up with each procedure.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>The latest information comes from Consumer Reports.</content>
+        </sentence>
+        <sentence id="8">
+          <content>The nonprofit ranked hospitals based on the number of C-sections performed at each.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Looking at hospital billing records the authors found the number of procedures performed vary wildly -- even at hospitals in the same town.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="10">
+          <content>In Texas, for instance, 15% of births at El Paso&amp;apost;s University Medical Center are C-sections; four miles away, at Sierra Medical Center, the rate is more than double that at 37%.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="11">
+          <content>The Denver Health Medical Center earned Consumer Report&amp;apost;s highest rating for low rate of C-sections.</content>
+        </sentence>
+        <sentence id="12">
+          <content>Doctors delivered 8% of babies by C-section; at Denver&amp;apost;s Presbyterian-St.</content>
+        </sentence>
+        <sentence id="13">
+          <content>Luke&amp;apost;s Medical Center, by comparison, 20% of the low-risk deliveries were C-sections.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="14">
+          <content>The report looked at more than 1,500 hospitals in 22 states.</content>
+        </sentence>
+        <sentence id="15">
+          <content>Not all states make such information available -- something Consumer Reports said it hopes will change.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="16">
+          <content>Overall, 66% of the hospitals in the report earned the organization&amp;apost;s lowest or second-lowest rating for a high rate of C-sections.</content>
+        </sentence>
+        <sentence id="17">
+          <content>Only 12% got either of the organization&amp;apost;s top scores for a low rate.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;The variation is what gets you, that really is the thing,&amp;quot; said Doris Peter, director of Consumer Reports&amp;apost; Health Ratings Center.</content>
+        </sentence>
+        <sentence id="19">
+          <content>&amp;quot;If you compare peer hospitals in urban areas that treat the same kind of patients -- meaning they share similar socioeconomic issues -- to have wildly different rates suggests that there is a problem here.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="20">
+          <content>Sometimes C-sections are medically necessary, meaning either the life of the mother or her fetus would be endangered by a vaginal birth.</content>
+        </sentence>
+        <sentence id="21">
+          <content>But several studies found surgical births are being performed for low-risk pregnancies, too.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="22">
+          <content>C-sections are generally considered safe, compared with vaginal births, but the surgery carries risks, including infection, increased bleeding, reactions to anesthesia and blood clots, according to the Mayo Clinic.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="23">
+          <content>The rates vary regionally as well, according to the Centers for Disease Control and Prevention.</content>
+        </sentence>
+        <sentence id="24">
+          <content>More C-sections are performed in the South compared with the Mountain States, the West Coast and the Upper Midwest, which tend to have the lowest rates.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="25">
+          <content>The South does have higher diabetes and obesity rates.</content>
+        </sentence>
+        <sentence id="26">
+          <content>Both lead to more medically challenged deliveries, as does the mother&amp;apost;s age.</content>
+        </sentence>
+        <sentence id="27">
+          <content>The older she is, the more complications she may have.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="28">
+          <content>Overall nearly one out of three women now give birth by C-section, according to the CDC.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="29">
+          <content>That number has made medical associations uncomfortable.</content>
+        </sentence>
+        <sentence id="30">
+          <content>Making note of other studies that look at regional variations in surgical birth rates, the American Congress of Obstetricians and Gynecologists and Society for Maternal-Fetal Medicine issued guidelines in March.</content>
+        </sentence>
+        <sentence id="31">
+          <content>These are intended to help doctors make more informed decisions about which mothers need C-sections.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="32">
+          <content>The high number of surgical births, plus the fact that fewer women or children die these days during the childbirth process, &amp;quot;raises significant concern that cesarean delivery is overused,&amp;quot; according to the recommendations.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="33">
+          <content>Dr. Aaron Caughey, lead author of the report and recommendations, said he hopes these guidelines will raise awareness about this issue.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="34">
+          <content>&amp;quot;Over the next five years, I would hope we will see a slow decline in the rate,&amp;quot; Caughey said.</content>
+        </sentence>
+        <sentence id="35">
+          <content>But it &amp;quot;will be contingent on more people embracing the message and will have to involve people at the grass-roots level doing things in their practice that changes this trend.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="36">
+          <content>The medical community started to see the number of C-sections going up during the 1970s when there was an increase in the ability to monitor the fetus&amp;apost; heartbeat.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="37">
+          <content>&amp;quot;We didn&amp;apost;t always know precisely how to interpret the data,&amp;quot; Caughey said, adding at the time there was a &amp;quot;general abandonment of more aggressive vaginal deliveries.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="38">
+          <content>The medical community still needs better research on fetal heart rates, he said.</content>
+        </sentence>
+        <sentence id="39">
+          <content>Monitoring the heart rate can tell a doctor if a fetus is in distress.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="40">
+          <content>Doctors also do C-sections if they believe labor is &amp;quot;going on too long,&amp;quot; according to the recommendations.</content>
+        </sentence>
+        <sentence id="41">
+          <content>However, that decision may be based on outdated research, according to Consumer Reports and other studies.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="42">
+          <content>The American Congress of Obstetricians and Gynecologists and Society for Maternal-Fetal Medicine do recommend that &amp;quot;normal&amp;quot; labor should be a longer process than initially thought, and concluded doctors &amp;quot;should be more patient in the first and second phase of labor.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="43">
+          <content>Doctors should not induce labor unless &amp;quot;it&amp;apost;s an absolute medical necessity,&amp;quot; according to the recommendations.</content>
+        </sentence>
+        <sentence id="44">
+          <content>Encouraging a woman to give birth before her body is ready increases the likelihood she&amp;apost;ll need a surgical birth.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="45">
+          <content>Doctors often perform C-sections if there is a possibility the baby will be large.</content>
+        </sentence>
+        <sentence id="46">
+          <content>The new guidelines said that may not always be warranted.</content>
+        </sentence>
+        <sentence id="47">
+          <content>A baby should be more than 11 pounds before inducing labor.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="48">
+          <content>&amp;quot;Everyone can do better,&amp;quot; Caughey said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="49">
+          <content>Consumer Reports&amp;apost; Peter agrees, saying that the women she talks to often don&amp;apost;t know the extra health risks of having a C-section.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="50">
+          <content>&amp;quot;We want to get a dialogue going,&amp;quot; Peter said.</content>
+        </sentence>
+        <sentence id="51">
+          <content>&amp;quot;We want the patient to go to her doctor and say, &amp;apost;I&amp;apost;d like for us to find ways to avoid a C-section if possible.&amp;apost;.</content>
+        </sentence>
+        <sentence id="52">
+          <content>Find a doctor that meets your needs in all practice patterns.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="53">
+          <content>Most doctors likely will not know the number of C-sections they perform, Caughey said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="54">
+          <content>Even if a doctor does know it, the rate of the surgical deliveries they perform still may not give patients the perspective they would need.</content>
+        </sentence>
+        <sentence id="55">
+          <content>A doctor doing general rounds, for instance, could have to finish up a procedure another doctor started.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="56">
+          <content>Or a doctor could be seeing a disproportionately older, heavier and sicker population, which would affect his or her rates of C-sections.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="57">
+          <content>Caughey suggests women ask doctors about their general philosophy on C-sections.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="58">
+          <content>&amp;quot;I think a healthy dialogue is always important for any kind of medical care,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

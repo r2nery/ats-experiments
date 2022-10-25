@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="323" link="http://www.cnn.com/2014/01/31/health/norovirus-facts-info/index.html" date_published="2014-01-31 14:24:06" category="health" author="Jen Christensen and Jacque Wilson, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Norovirus: The most common stomach bug</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="11">Norovirus is the most common cause of acute gastroenteritis in the U.S.</sentence>
+      <sentence id="2" ids_article_sentences="13">There were 9 outbreaks of gastrointestinal illnesses on cruise ships last year.</sentence>
+      <sentence id="3" ids_article_sentences="16">Norovirus causes stomach pain, nausea and diarrhea.</sentence>
+      <sentence id="4" ids_article_sentences="38">There is no medicine or vaccine to treat norovirus, but most people recover fully .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-11 14:54:39" annotation_time="44.617664">
+      <sentence id="11" ids_highlights="1">It&amp;apost;s the most common cause of acute gastroenteritis -- often called a stomach bug -- in the United States, according to the CDC.</sentence>
+      <sentence id="13" ids_highlights="2">There were nine outbreaks of gastrointestinal illnesses on cruise ships last year, 16 in 2012 and 14 in both 2011 and 2010, according to the CDC.</sentence>
+      <sentence id="16" ids_highlights="3">Norovirus causes inflammation in the stomach and intestines, leading to stomach pain, nausea and diarrhea.</sentence>
+      <sentence id="38" ids_highlights="4">There is no medicine or vaccine to specifically treat norovirus, but most people recover fully without treatment.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Princess Cruises&amp;apost; Caribbean Princess docked early Friday in Houston, ending passengers&amp;apost; vacations a day early amid an outbreak of norovirus.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Princess Cruises spokeswoman Julie Benson says the early docking came because of forecasts predicting heavy fog in Houston, not because of the illness.</content>
+        </sentence>
+        <sentence id="3">
+          <content>But, she said a total of 178 people reported the illness during the voyage, and lab tests confirmed that it was norovirus.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>It&amp;apost;s the second outbreak of norovirus on a cruise ship this week.</content>
+        </sentence>
+        <sentence id="5">
+          <content>Royal Caribbean&amp;apost;s Explorer of the Seas docked in New Jersey on Wednesday, two days earlier than expected.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>Nearly 700 crew and passengers fell ill on that ship, the highest number of sick people reported on any cruise ship in two decades, according to the Centers for Disease Control and Prevention.</content>
+        </sentence>
+        <sentence id="7">
+          <content>On Friday, the CDC confirmed that illness was also norovirus.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>What is norovirus?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>Norovirus is a group of related viruses that belong to the Caliciviridae family.</content>
+        </sentence>
+        <sentence id="10">
+          <content>People ingest the infectious virions, which grow in the small intestine before being expelled in feces.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>It&amp;apost;s the most common cause of acute gastroenteritis -- often called a stomach bug -- in the United States, according to the CDC.</content>
+        </sentence>
+        <sentence id="12">
+          <content>It causes 19 million to 21 million illnesses every year, most often in crowded environments such as nursing homes, day care centers and, yes, cruise ships.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>There were nine outbreaks of gastrointestinal illnesses on cruise ships last year, 16 in 2012 and 14 in both 2011 and 2010, according to the CDC.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>Norovirus used to be called Norwalk Virus or the Norwalk-like virus.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>What are the symptoms?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>Norovirus causes inflammation in the stomach and intestines, leading to stomach pain, nausea and diarrhea.</content>
+        </sentence>
+        <sentence id="17">
+          <content>These symptoms typically last one to three days.</content>
+        </sentence>
+        <sentence id="18">
+          <content>Other symptoms include a fever, headache and body aches, according to the CDC.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="19">
+          <content>Frequent diarrhea and vomiting can lead to dehydration, another serious side effect of the virus.</content>
+        </sentence>
+        <sentence id="20">
+          <content>People who are dehydrated may not urinate as much, feel dizzy and have a dry mouth or throat.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="21">
+          <content>How is it different from the flu?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="22">
+          <content>People with these symptoms may believe they have food poisoning or the stomach flu.</content>
+        </sentence>
+        <sentence id="23">
+          <content>You can get norovirus from eating infected food, so that would be considered food poisoning.</content>
+        </sentence>
+        <sentence id="24">
+          <content>In fact, norovirus is the most common cause of food-borne disease outbreaks in the United States, according to the CDC.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="25">
+          <content>But norovirus is not the flu.</content>
+        </sentence>
+        <sentence id="26">
+          <content>The flu is a respiratory illness caused by the influenza virus.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="27">
+          <content>How do you catch it?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="28">
+          <content>Norovirus is highly contagious.</content>
+        </sentence>
+        <sentence id="29">
+          <content>It&amp;apost;s a hardy little bug that can live in the environment for up to four weeks.</content>
+        </sentence>
+        <sentence id="30">
+          <content>The virus can live in an infected person&amp;apost;s stool for two weeks or more.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="31">
+          <content>People who come into contact with a surface a patient has touched or clothes they&amp;apost;ve worn can get sick.</content>
+        </sentence>
+        <sentence id="32">
+          <content>You can also get sick eating any food a person with the virus has touched.</content>
+        </sentence>
+        <sentence id="33">
+          <content>Food commonly involved in outbreaks includes shellfish, leafy greens and fresh fruit.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="34">
+          <content>Any food served raw or handled by an infected person after being cooked can get contaminated.</content>
+        </sentence>
+        <sentence id="35">
+          <content>Food can also be easily contaminated if it has been sitting out for hours, such as on a buffet.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="36">
+          <content>People who have norovirus are most contagious when they are sick but can still transfer the virus even three days after they have recovered from the worst of the symptoms.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="37">
+          <content>How do you treat it?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="38">
+          <content>There is no medicine or vaccine to specifically treat norovirus, but most people recover fully without treatment.</content>
+        </sentence>
+        <sentence id="39">
+          <content>(There is a vaccine in the early testing stages.).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="40">
+          <content>Since this is a virus, antibiotics won&amp;apost;t cut it; they work only on bacterial infections.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="41">
+          <content>Someone with norovirus has only one option, and that&amp;apost;s hydration therapy.</content>
+        </sentence>
+        <sentence id="42">
+          <content>People who vomit frequently or have diarrhea need to replace the liquids they lose.</content>
+        </sentence>
+        <sentence id="43">
+          <content>Sports drinks can help with mild dehydration, but water is best.</content>
+        </sentence>
+        <sentence id="44">
+          <content>You can also buy oral rehydration fluids over the counter at most drug and grocery stores.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="45">
+          <content>Getting too dehydrated is dangerous.</content>
+        </sentence>
+        <sentence id="46">
+          <content>In extreme cases, people who do not get enough fluids may have to be hospitalized.</content>
+        </sentence>
+        <sentence id="47">
+          <content>There, a patient will get fluids intravenously.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="48">
+          <content>Will it kill me?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="49">
+          <content>Most people will recover fully from norovirus, but it can become serious or even fatal in some patients, such as infants or the elderly.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="50">
+          <content>Norovirus can be caught any time, but it&amp;apost;s most common in the winter.</content>
+        </sentence>
+        <sentence id="51">
+          <content>Each year, the virus leads to approximately 1.8 million doctor visits and 400,000 emergency room visits; most of these patients are children.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="52">
+          <content>Young children and the elderly are more likely to be seriously affected by norovirus.</content>
+        </sentence>
+        <sentence id="53">
+          <content>An estimated 570 to 800 deaths are caused by the virus each year, though there are generally more in years when a new strain is going around.</content>
+        </sentence>
+        <sentence id="54">
+          <content>This happened in the winters of 2002-03 and 2006-07, according to the CDC.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="55">
+          <content>How can I protect myself?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="56">
+          <content>Do not share food or utensils with people who are sick.</content>
+        </sentence>
+        <sentence id="57">
+          <content>Wash your hands thoroughly with soap and water, especially before preparing or handling food and after using the toilet.</content>
+        </sentence>
+        <sentence id="58">
+          <content>Alcohol-based hand sanitizer doesn&amp;apost;t kill norovirus and should not be a substitute for old-fashioned soap and water.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="59">
+          <content>If someone around you is sick, be sure to wipe down any surfaces they touch with a diluted bleach solution.</content>
+        </sentence>
+        <sentence id="60">
+          <content>Pay particular attention to cleaning the bathroom area.</content>
+        </sentence>
+        <sentence id="61">
+          <content>Wipe around the toilet, door handles and light switches.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="62">
+          <content>Also make sure to wash an infected person&amp;apost;s clothes thoroughly.</content>
+        </sentence>
+        <sentence id="63">
+          <content>If someone gets sick in bed, change their linens and towels immediately.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

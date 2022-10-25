@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1122" link="http://www.cnn.com/2014/06/09/politics/scotus-underage-visas/index.html" date_published="2014-06-09 17:34:20" category="politics" author="Bill Mears, CNN Supreme Court Producer" highlights_mapped="true" mapping_error="false">
+  <title>Supreme Court setback for underage visa applicants</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Supreme Court ruling will impact nearly all underage immigrants waiting for visas to stay in the U.S.</sentence>
+      <sentence id="2" ids_article_sentences="3">The case involves those seeking permanent status under a certain family provision .</sentence>
+      <sentence id="3" ids_article_sentences="4">In its ruling, the high court majority agreed with the Obama administration .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-01 11:32:02" annotation_time="47.191998">
+      <sentence id="1" ids_highlights="1">Nearly all underage immigrants waiting for visas to stay in the United States will have to start the process all over again when they turn 21, the Supreme Court ruled on Monday.</sentence>
+      <sentence id="3" ids_highlights="2">The case deals with whether those seeking permanent status under a family preference provision, but then &amp;quot;age out&amp;quot; because of the often lengthy visa approval process, have a right to appeal the agency&amp;apost;s order reassigning them to the adults-only category.</sentence>
+      <sentence id="4" ids_highlights="3">The majority agreed with the Obama administration, concluding the Board of Immigration Appeals made a &amp;quot;reasonable&amp;quot; interpretation of what the court called &amp;quot;ambiguous language&amp;quot; in the immigration application rules.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Nearly all underage immigrants waiting for visas to stay in the United States will have to start the process all over again when they turn 21, the Supreme Court ruled on Monday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The 5-4 vote created an unusual bloc of justices with at least five different interpretations of the federal law at issue.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The case deals with whether those seeking permanent status under a family preference provision, but then &amp;quot;age out&amp;quot; because of the often lengthy visa approval process, have a right to appeal the agency&amp;apost;s order reassigning them to the adults-only category.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>The majority agreed with the Obama administration, concluding the Board of Immigration Appeals made a &amp;quot;reasonable&amp;quot; interpretation of what the court called &amp;quot;ambiguous language&amp;quot; in the immigration application rules.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>In the face of such ambiguity, courts typically defer to the agency&amp;apost;s interpretation, as the justices did in this instance.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>The Supreme Court appeal came from a Salvadoran immigrant, Rosalina Cuellar de Osorio, who applied for visas on behalf of her and her 13-year-old son.</content>
+        </sentence>
+        <sentence id="7">
+          <content>The lengthy process stretched past the young man&amp;apost;s 21st birthday, at which time he lost his &amp;quot;automatic conversion and priority date retention.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>That meant he went to the back of the line to begin the application process anew to become a lawful permanent resident, which caused him to wait years longer for the visa.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>The appeal is not related to the recent spike of unaccompanied immigrant children coming over the U.S. border from Mexico.</content>
+        </sentence>
+        <sentence id="10">
+          <content>Federal officials last week had begun transporting about 1,000 such youngsters from Texas to Arizona, as part of a resettlement process for the minors to their native countries.</content>
+        </sentence>
+        <sentence id="11">
+          <content>Most are from Central America.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>Referring to an aged-out applicant, Justice Elena Kagan said, &amp;quot;In the unavoidably zero sum world of allocating a limited number of visas, the board could decide that he belongs behind any alien who has had a lengthier stand-alone entitlement to immigrate.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>&amp;quot;Were we to overturn the board in that circumstance, we would assume as our own the responsible and expert agency&amp;apost;s role,&amp;quot; Kagan added.</content>
+        </sentence>
+        <sentence id="14">
+          <content>&amp;quot;We decline that path.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="15">
+          <content>Under the court&amp;apost;s ruling, only a small group of young visa applicants would be eligible under the Child Status Protection Act.</content>
+        </sentence>
+        <sentence id="16">
+          <content>That allows them to keep their priority underage status -- &amp;quot;Peter Pan-like&amp;quot; as Kagan put it -- throughout the immigration process, even after they turn into adults.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>But under complex immigration rules, which Kagan again said parts of which were &amp;quot;through and through perplexing,&amp;quot; the government says several thousand other visa applicants age out of the process each year.</content>
+        </sentence>
+        <sentence id="18">
+          <content>Some immigration groups had argued that could extend the wait in some cases by nearly a decade.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="19">
+          <content>The federal Immigration and Nationality Act allows U.S. citizens and lawful permanent resident aliens to petition for certain family members to obtain visas to immigrate to the country or to adjust their status to that of a lawful permanent resident alien.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="20">
+          <content>As Kagan observed, &amp;quot;All of this takes time - and often a lot of it ... and as the years tick by, young people grow up, and thereby endanger their immigration status.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="21">
+          <content>Chief Justice John Roberts agreed the board&amp;apost;s conclusions were reasonable, but he and Justice Antonin Scalia had a different idea of what made the law &amp;quot;ambiguous&amp;quot; in the first place.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="22">
+          <content>Justice Sonia Sotomayor was among three other colleagues who disagreed with the majority.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="23">
+          <content>&amp;quot;Because the court and the BIA ignore obvious ways in which [federal law] can operate as a coherent whole and instead construe the statute as a self-contradiction that was broken from the moment Congress wrote it, I respectfully dissent,&amp;quot; she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="24">
+          <content>Justices Samuel Alito, Stephen Breyer and Clarence Thomas also separately dissented.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="25">
+          <content>Several current and former members of Congress had also opposed the administration&amp;apost;s interpretation of the rules.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="26">
+          <content>Democratic Sens. Dianne Feinstein of California and Robert Menendez of New Jersey, along with Republican colleagues John McCain and Orrin Hatch, were among 26 lawmakers who said the 2002 law they promoted would preserve family ties and not unfairly punish children who patiently waited for a visa.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="27">
+          <content>Current efforts at broader immigration reform have stalled in Congress.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="28">
+          <content>The case is Scialabba v. De Osorio (12-930).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

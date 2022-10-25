@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="857" link="http://www.cnn.com/2014/02/12/opinion/sutter-alaska-blame-rapists/index.html" date_published="2014-02-12 13:24:13" category="opinion" author="John D. Sutter, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Opinion: Blame rapists for rape ... obviously</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="14">Alaska has the highest rate of reported rape in the nation.</sentence>
+      <sentence id="2" ids_article_sentences="32">John Sutter: Efforts to prevent rape should focus more on men.</sentence>
+      <sentence id="3" ids_article_sentences="24">&amp;quot;Victims aren&amp;apost;t to blame for rape and domestic violence; offenders are,&amp;quot; he writes.</sentence>
+      <sentence id="4" ids_article_sentences="16">Sutter visited Alaska as part of CNN&amp;apost;s Change the List project.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-24 13:18:58" annotation_time="39.639">
+      <sentence id="14" ids_highlights="1">These girls are changing the world and Alaska, the state FBI crime estimates rank as having the highest rate of reported rape in the country.</sentence>
+      <sentence id="16" ids_highlights="4">I visited Alaska in December because you voted for me to cover rape in the United States as part of CNN&amp;apost;s Change the List project, which focuses on bottom-of-the-list places like Alaska.</sentence>
+      <sentence id="24" ids_highlights="3">But the largely unspoken reality also remains: Victims aren&amp;apost;t to blame for rape and domestic violence; offenders are.</sentence>
+      <sentence id="32" ids_highlights="2">Men should stop raping, and that would solve it.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>I spent a recent Saturday morning at a field house in Juneau, Alaska, where girls with pink hair and stars and rainbows drawn on their cheeks run 27 laps around a gymnasium track.</content>
+        </sentence>
+        <sentence id="2">
+          <content>That may not seem like international news, but it should be.</content>
+        </sentence>
+        <sentence id="3">
+          <content>Their race was part of the international &amp;quot;Girls on the Run&amp;quot; program, which is amazingly effective at empowering young women.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="4">
+          <content>I watched most of the race from the sidelines with Andrew, a grandpa wearing a driver&amp;apost;s cap, and Jennifer, the mother of one of the young runners.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>&amp;quot;Good job!</content>
+        </sentence>
+        <sentence id="6">
+          <content>Keep going!</content>
+        </sentence>
+        <sentence id="7">
+          <content>Love you!</content>
+        </sentence>
+        <sentence id="8">
+          <content>You&amp;apost;re awesome!&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="9">
+          <content>&amp;quot;Remember to breathe!&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="10">
+          <content>Encouragement is the hallmark of the program, which pairs girls with adult mentors who help train them to run a 5K -- and, more importantly, talk to them about what it means to be women in modern America.</content>
+        </sentence>
+        <sentence id="11">
+          <content>&amp;quot;You have to set a goal to become a powerful girl on the run,&amp;quot; Ati Nasiah, the local organizer, with a feather stuck in her hair, told the girls before the race.</content>
+        </sentence>
+        <sentence id="12">
+          <content>&amp;quot;Each of us is unique, and that is what makes us so powerful.</content>
+        </sentence>
+        <sentence id="13">
+          <content>With every heartbeat and every breath, we are changing the world.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="14">
+          <content>These girls are changing the world and Alaska, the state FBI crime estimates rank as having the highest rate of reported rape in the country.</content>
+        </sentence>
+        <sentence id="15">
+          <content>Teaching young women that they can be whoever and whatever they want to be is an important part of preventing rape and abuse.</content>
+        </sentence>
+        <sentence id="16">
+          <content>I visited Alaska in December because you voted for me to cover rape in the United States as part of CNN&amp;apost;s Change the List project, which focuses on bottom-of-the-list places like Alaska.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="17">
+          <content>Jennifer, the mom I watched the race with, and whose last name I&amp;apost;m not using to protect her privacy, was a victim of domestic violence.</content>
+        </sentence>
+        <sentence id="18">
+          <content>Her husband beat her, she told me, and she got together with him when she was 13 and he 22.</content>
+        </sentence>
+        <sentence id="19">
+          <content>One reason Jennifer brought her daughter to Girls on the Run, with the help of a scholarship and free sneakers, is that she doesn&amp;apost;t want her daughter to accept violence against women.</content>
+        </sentence>
+        <sentence id="20">
+          <content>&amp;quot;Instead of me just sitting back and taking it, (my kids) see me standing up,&amp;quot; she said.</content>
+        </sentence>
+        <sentence id="21">
+          <content>&amp;quot;And that&amp;apost;s what they need.</content>
+        </sentence>
+        <sentence id="22">
+          <content>Otherwise, they will grow up and think it&amp;apost;s OK.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="23">
+          <content>That&amp;apost;s hugely important.</content>
+        </sentence>
+        <sentence id="24">
+          <content>But the largely unspoken reality also remains: Victims aren&amp;apost;t to blame for rape and domestic violence; offenders are.</content>
+        </sentence>
+        <sentence id="25">
+          <content>So, while they are essential, programs like Girls on the Run aren&amp;apost;t enough to end what Alaska&amp;apost;s governor has termed its &amp;quot;epidemic&amp;quot; of rape and violence against women.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="26">
+          <content>To stop the violence, men have to stop raping and battering.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="27">
+          <content>That seems like common sense.</content>
+        </sentence>
+        <sentence id="28">
+          <content>But it&amp;apost;s still controversial.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="29">
+          <content>For evidence, look no further than Zerlina Maxwell, an attorney and rape survivor who went on Fox News last year to make that very point.</content>
+        </sentence>
+        <sentence id="30">
+          <content>Other pundits argued that women should carry weapons to protect themselves.</content>
+        </sentence>
+        <sentence id="31">
+          <content>No, Maxwell said.</content>
+        </sentence>
+        <sentence id="32">
+          <content>Men should stop raping, and that would solve it.</content>
+        </sentence>
+        <sentence id="33">
+          <content>For those remarks, she received death threats.</content>
+        </sentence>
+        <sentence id="34">
+          <content>On Twitter, one person wrote, according to a news report, &amp;quot;I hope you get raped and your throat slit.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="35">
+          <content>This same pro-gun sentiment came up in the comments sections of other Change the List stories published earlier this month about rape in Alaska.</content>
+        </sentence>
+        <sentence id="36">
+          <content>&amp;quot;Time to arm and train the women to defend themselves,&amp;quot; one person wrote on my op-ed about a lawless village at the far edge of the state, where troopers fly in by plane.</content>
+        </sentence>
+        <sentence id="37">
+          <content>That&amp;apost;s wrong-headed.</content>
+        </sentence>
+        <sentence id="38">
+          <content>Instead of putting the burden on women to defend themselves, the state should continue to expand its Village Public Safety Officer program.</content>
+        </sentence>
+        <sentence id="39">
+          <content>I hope it soon will include that village.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="40">
+          <content>&amp;quot;What we have been doing for the past 100 years hasn&amp;apost;t been working,&amp;quot; Maxwell told me by phone from New York.</content>
+        </sentence>
+        <sentence id="41">
+          <content>&amp;quot;Focusing on women&amp;apost;s behavior isn&amp;apost;t working.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="42">
+          <content>Andrew, the adoptive grandpa who I spoke with during the race in Juneau, gets it, too.</content>
+        </sentence>
+        <sentence id="43">
+          <content>&amp;quot;They need a program for boys, that&amp;apost;s for sure,&amp;quot; he told me.</content>
+        </sentence>
+        <sentence id="44">
+          <content>&amp;quot;They&amp;apost;ve got this program to rebuild the confidence and self esteem in the girls, and keep them going.</content>
+        </sentence>
+        <sentence id="45">
+          <content>But where is the support structure to stop it in the boys?</content>
+        </sentence>
+        <sentence id="46">
+          <content>You know, break the cycle.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="47">
+          <content>Alaska has more of a jump-start on that than some states.</content>
+        </sentence>
+        <sentence id="48">
+          <content>It was encouraging to see members of a local men&amp;apost;s high school basketball team acting as cheerleaders for the Girls on the Run event.</content>
+        </sentence>
+        <sentence id="49">
+          <content>Those players, from Juneau&amp;apost;s Thunder Mountain High School, are participating in a program called Coaching Boys into Men.</content>
+        </sentence>
+        <sentence id="50">
+          <content>It&amp;apost;s designed to teach young men about safe relationships and respect for women.</content>
+        </sentence>
+        <sentence id="51">
+          <content>Gov. Sean Parnell, a Republican, has requested $12.4 million to fund his &amp;quot;Choose Respect&amp;quot; initiative, which also is aimed at preventing violence and helping survivors.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="52">
+          <content>That&amp;apost;s progress.</content>
+        </sentence>
+        <sentence id="53">
+          <content>But such programs should be expanded.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="54">
+          <content>We have to keep encouraging girls, but always remember offenders are to blame.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="55">
+          <content>Some of that should happen through formal training and programs.</content>
+        </sentence>
+        <sentence id="56">
+          <content>It&amp;apost;s also on all of us to call out inappropriate behavior when we see it.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="57">
+          <content>The family I sat with as we watched the girls sprint by understood this.</content>
+        </sentence>
+        <sentence id="58">
+          <content>When Jennifer&amp;apost;s son reached out to give his sister a whopping high-five, his mom told him that he had to remember to be gentle -- to support her, not hit her.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="59">
+          <content>&amp;quot;Hands are for high-fives and hugs, not hitting,&amp;quot; she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="60">
+          <content>The next time his 9-year-old sister came around, he gave her the softest of bear hugs.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="61">
+          <content>&amp;quot;Good job!&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="62">
+          <content>The young runner seemed grateful for his support.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

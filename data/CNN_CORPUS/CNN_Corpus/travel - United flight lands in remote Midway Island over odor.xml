@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1843" link="http://www.cnn.com/2014/07/12/travel/united-flight-boeing-777-diverted/index.html" date_published="2014-07-12 15:53:10" category="travel" author="Michael Martinez, Chris Welch and Mayra Cuevas, CNN" highlights_mapped="true" mapping_error="false">
+  <title>United flight lands in remote Midway Island over odor</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">A Boeing 777 plane from Honolulu to Guam is diverted to Midway Island.</sentence>
+      <sentence id="2" ids_article_sentences="13">A passenger says many got off plane before takeoff because of smell.</sentence>
+      <sentence id="3" ids_article_sentences="6">&amp;quot;The captain said there was smoke in the cockpit&amp;quot; during flight, she adds.</sentence>
+      <sentence id="4" ids_article_sentences="35">&amp;quot;I started to gag because of the smell of chemicals,&amp;quot; she says.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-07-26 17:10:22" annotation_time="406.133">
+      <sentence id="2" ids_highlights="1">The United Airlines plane, carrying 335 passengers and 13 crew on a Boeing 777, was flying from Honolulu to Guam when it was forced to land and spend seven hours on the Pacific atoll, said United spokeswoman Mary Clark.</sentence>
+      <sentence id="6" ids_highlights="3">&amp;quot;The captain said there was smoke in the cockpit and the radar failed and other electronic systems were failing, so they had to land.</sentence>
+      <sentence id="13" ids_highlights="2">She said an odor emanated even before the plane took off.</sentence>
+      <sentence id="35" ids_highlights="4">Then the smell got worse in the cabin, and I started to gag because of the smell of chemicals.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>A harrowing United Airlines flight Friday over the Pacific Ocean was forced to land on remote Midway Island because of what an FAA official said was an electrical odor on board.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The United Airlines plane, carrying 335 passengers and 13 crew on a Boeing 777, was flying from Honolulu to Guam when it was forced to land and spend seven hours on the Pacific atoll, said United spokeswoman Mary Clark.</content>
+        </sentence>
+        <sentence id="3">
+          <content>A replacement aircraft later carried everyone back to Hawaii on Friday, she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>When explicitly asked Saturday whether the disturbing smell was smoke or something burning, Clark described the incident as an odor in the cabin.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>A passenger, Karen von Merveldt-Guevara of Sedona, Arizona, said the pilot spoke of smoke and failure to the radar and other systems.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;The captain said there was smoke in the cockpit and the radar failed and other electronic systems were failing, so they had to land.</content>
+        </sentence>
+        <sentence id="7">
+          <content>I think they landed old-school.</content>
+        </sentence>
+        <sentence id="8">
+          <content>They did an amazing job to get there safely,&amp;quot; Merveldt-Guevara said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>&amp;quot;At one point there was one drop of about 40 feet.</content>
+        </sentence>
+        <sentence id="10">
+          <content>After that turbulence, it got really silent.</content>
+        </sentence>
+        <sentence id="11">
+          <content>I thought everybody was praying, and we were coming in on the wings of faith.</content>
+        </sentence>
+        <sentence id="12">
+          <content>We were all praying,&amp;quot; Merveldt-Guevara told CNN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="13">
+          <content>She said an odor emanated even before the plane took off.</content>
+        </sentence>
+        <sentence id="14">
+          <content>But the jet took flight any way before being diverted to Midway Island, a U.S. territory known as home to a World War II battle.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="15">
+          <content>United is now investigating the plane, a Boeing 777.</content>
+        </sentence>
+        <sentence id="16">
+          <content>The new jetliner is one of the most sophisticated in aviation, Clark said Saturday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="17">
+          <content>United couldn&amp;apost;t comment on further details, such as the purported radar failure, because its investigation is ongoing, Clark said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="18">
+          <content>Passengers: &amp;apost;They should not have let us go&amp;apost;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="19">
+          <content>Von-Merveldt said that passengers were told before the flight began that there was an odor in the cockpit.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="20">
+          <content>Some people left the plane, but Merveldt-Guevara decided not to because she was with 25 people traveling together to a big family gathering in Guam.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="21">
+          <content>&amp;quot;I&amp;apost;m just digesting it,&amp;quot; she said Sunday in a telephone interview.</content>
+        </sentence>
+        <sentence id="22">
+          <content>&amp;quot;I think they should not have let us go from the plane from Honolulu.</content>
+        </sentence>
+        <sentence id="23">
+          <content>They told us they had a problem with a smell in the cockpit.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="24">
+          <content>&amp;quot;We had 25 family members on board, and that made me think it was OK to stay,&amp;quot; she added.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="25">
+          <content>After all, she thought, her airplane ticket was a last-minute gift given to her a week earlier.</content>
+        </sentence>
+        <sentence id="26">
+          <content>&amp;quot;I thought this was godsend, this was meant to be.</content>
+        </sentence>
+        <sentence id="27">
+          <content>I was thinking this can&amp;apost;t go wrong!&amp;quot;</content>
+        </sentence>
+        <sentence id="28">
+          <content>she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="29">
+          <content>In fact, the flight takeoff was delayed in Honolulu for three hours, during which the plane sat on the tarmac, she said.</content>
+        </sentence>
+        <sentence id="30">
+          <content>&amp;quot;Then they let us go, and I thought it didn&amp;apost;t feel right, but hey,&amp;quot; she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="31">
+          <content>But during the flight while everyone was asleep, Merveldt-Guevara overheard a conversation of a passenger with a flight attendant who said the plane was returning to Honolulu.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="32">
+          <content>&amp;quot;When more people woke up, they made an announcement.</content>
+        </sentence>
+        <sentence id="33">
+          <content>I could understand they didn&amp;apost;t want mutiny.</content>
+        </sentence>
+        <sentence id="34">
+          <content>First we thought it was of a storm hitting Guam.</content>
+        </sentence>
+        <sentence id="35">
+          <content>Then the smell got worse in the cabin, and I started to gag because of the smell of chemicals.</content>
+        </sentence>
+        <sentence id="36">
+          <content>The attendants were busy.</content>
+        </sentence>
+        <sentence id="37">
+          <content>In between they would communicate saying they were busy in the cockpit trying to figure things out,&amp;quot; Merveldt-Guevara said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="38">
+          <content>On Midway Island.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="39">
+          <content>A video shows people fanning themselves with leafs of paper inside the cabin, apparently after the plane landed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="40">
+          <content>In the video, a voice on the intercom tells the passengers: &amp;quot;Midway is not an island that has hotels and things.</content>
+        </sentence>
+        <sentence id="41">
+          <content>It&amp;apost;s just a diversion airport.</content>
+        </sentence>
+        <sentence id="42">
+          <content>What they&amp;apost;re offering is they have gymnasium here that you can all go to if you like and they have chairs and things.</content>
+        </sentence>
+        <sentence id="43">
+          <content>We can put you there until we figure out what exactly is going on.</content>
+        </sentence>
+        <sentence id="44">
+          <content>They will open up their stores so you can get something to eat.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="45">
+          <content>The video then displays passengers getting off the plane and walking the tarmac in the middle of the night.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="46">
+          <content>Inside the gym, passengers sat on chairs or rested on the floor.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="47">
+          <content>At the end of the video, the passengers cheered when addressed by a man in the top bleachers.</content>
+        </sentence>
+        <sentence id="48">
+          <content>Apparently, they were about to get off the island.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="49">
+          <content>A new flight, 2105, flew the passengers to Guam, where they landed Saturday, Clark said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="50">
+          <content>FAA spokesman Allen Kenitzer described the odor aboard the plane as an &amp;quot;electrical smell&amp;quot; in the cabin or cockpit.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="51">
+          <content>On Sunday, Merveldt-Guevara expressed relief that the journey was over.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="52">
+          <content>&amp;quot;I thought let&amp;apost;s just be grateful.</content>
+        </sentence>
+        <sentence id="53">
+          <content>Let&amp;apost;s savor the moment,&amp;quot; she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="54">
+          <content>But she said her luggage still hadn&amp;apost;t arrived in Guam.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2861" link="http://www.cnn.com/2014/02/25/world/europe/turkey-erdogan-phone-tapping" date_published="2014-02-25 10:59:56" category="world" author="CNN Staff" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Turkish PM says incriminating phone recordings are fake</title>
+  <keywords>Turkey Erdogan phone taps,Recep Tayyip Erdogan</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="7">Recordings are &amp;quot;an attack on the Turkish Republic,&amp;quot; Prime Minister says.</sentence>
+      <sentence id="2" ids_article_sentences="18, 17">Opposition party chief plays recordings, tells Erdogan to flee abroad or resign.</sentence>
+      <sentence id="3" ids_article_sentences="5">The recordings were allegedly made amid a wide-reaching corruption investigation.</sentence>
+      <sentence id="4" ids_article_sentences="15">In the conversations, two men discuss in detail how to hide money.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-01 14:58:37" annotation_time="86.70166" mapping_time_divergence="21.675415">
+      <sentence id="5" ids_highlights="3">The recordings were allegedly made the day after a wide-reaching corruption investigation ensnared the sons of three Cabinet members.</sentence>
+      <sentence id="7" ids_highlights="1">&amp;quot;This is not an attack on Recep Tayyip Erdogan, the leader of the AK Party, but an attack on the Turkish Republic,&amp;quot; the Prime Minister thundered Tuesday in a weekly speech to parliament members from his ruling Justice and Development Party, or AKP.</sentence>
+      <sentence id="15" ids_highlights="4">In the phone conversations, the two men discuss in detail how to hide money and whom to give it to.</sentence>
+      <sentence id="17" ids_highlights="2">Kemal Kilicdaroglu, leader of the opposition Republican People&amp;apost;s Party, or CHP, played the recordings at a speech before an assembly of CHP lawmakers.</sentence>
+      <sentence id="18" ids_highlights="2">&amp;quot;Either you take a helicopter and flee abroad or you resign,&amp;quot; Kilicdaroglu said.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Istanbul Turkey&amp;apost;s Prime Minister made a full-throated denial Tuesday, denouncing telephone audio recordings that have exploded across Turkish social media and political circles like a bombshell.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The leader of one of the country&amp;apost;s main opposition parties, meanwhile, leaped onto the controversial recordings, playing them at an appearance before lawmakers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The recordings appear to be wiretaps of a series of conversations allegedly between Prime Minister Recep Tayyip Erdogan and his son, Bilal.</content>
+        </sentence>
+        <sentence id="4">
+          <content>The two men in the recordings discuss in detail how to hide vast amounts of money.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>The recordings were allegedly made the day after a wide-reaching corruption investigation ensnared the sons of three Cabinet members.</content>
+        </sentence>
+        <sentence id="6">
+          <content>Bilal was questioned but never detained in the investigation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;This is not an attack on Recep Tayyip Erdogan, the leader of the AK Party, but an attack on the Turkish Republic,&amp;quot; the Prime Minister thundered Tuesday in a weekly speech to parliament members from his ruling Justice and Development Party, or AKP.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>Erdogan labeled the audio recordings &amp;quot;immoral edited material.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>&amp;quot;They are listening to the government&amp;apost;s encrypted phones; that&amp;apost;s how low they have sunk,&amp;quot; Erdogan continued, denouncing a series of lobby groups that he has long accused of plotting to overthrow his government.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>Erdogan has pledged to investigate corruption within his government.</content>
+        </sentence>
+        <sentence id="11">
+          <content>But the Prime Minister has also denounced implications that his family is involved in the scandal.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>On Tuesday, protesters took to the streets in the wake of the scandal.</content>
+        </sentence>
+        <sentence id="13">
+          <content>Police in Istanbul used tear gas and water cannon to try to push protesters back.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>Money matters discussed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="15">
+          <content>In the phone conversations, the two men discuss in detail how to hide money and whom to give it to.</content>
+        </sentence>
+        <sentence id="16">
+          <content>At one point, one warns the other man to be cautious about talking on the phone.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>Kemal Kilicdaroglu, leader of the opposition Republican People&amp;apost;s Party, or CHP, played the recordings at a speech before an assembly of CHP lawmakers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;Either you take a helicopter and flee abroad or you resign,&amp;quot; Kilicdaroglu said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="19">
+          <content>Most mainstream Turkish television channels interrupted their live broadcast of Kilicdaroglu&amp;apost;s speech when he began playing audio of the alleged conversation between Erdogan and his son.</content>
+        </sentence>
+        <sentence id="20">
+          <content>They then resumed the broadcast after the audio recordings stopped playing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="21">
+          <content>Tensions with police and judiciary.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="22">
+          <content>Embarrassing recordings of private phone conversations have been emerging on the Internet on an almost weekly basis in Turkey, ever since police detained the Cabinet minsters&amp;apost; sons and dozens of other businessmen and officials closely linked to Erdogan&amp;apost;s government on December 17.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="23">
+          <content>The government denounced the investigations, saying they were part of a coup attempt by what Erdogan officials described as a &amp;quot;parallel state&amp;quot; established within the police force and the judiciary.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="24">
+          <content>Thousands of police officers were removed from their posts after the corruption investigation that caught Erdogan&amp;apost;s administration by surprise.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="25">
+          <content>The top prosecutors who led the investigation have also been stripped of their positions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="26">
+          <content>Meanwhile, the government has passed a highly controversial law that gives it direct control over the judiciary.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="27">
+          <content>Erdogan&amp;apost;s administration has also tried to push through another piece of legislation that would give the government the power to shut down Internet sites without first obtaining a court order.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="28">
+          <content>&amp;quot;We passed this new Internet law to get ahead of this blackmailing, these threats,&amp;quot; the Prime Minister said in his speech Tuesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="29">
+          <content>Evidence of a power struggle.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="30">
+          <content>The turmoil that has rocked Turkey for the past two months is widely seen as a power struggle between Erdogan and a Muslim cleric who had long been one of his most powerful allies.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="31">
+          <content>For years, a septuagenarian preacher living in self-imposed exile in the United States was seen as a strong supporter of Erdogan&amp;apost;s.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="32">
+          <content>But Fethullah Gulen and his supporters have been engaged in an open political war with Erdogan&amp;apost;s Justice and Development Party since the corruption investigation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="33">
+          <content>The Prime Minister has lashed out against the Gulen group, likening its members to assassins.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="34">
+          <content>Turks are expected to go to the polls in March in nationwide municipal elections.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

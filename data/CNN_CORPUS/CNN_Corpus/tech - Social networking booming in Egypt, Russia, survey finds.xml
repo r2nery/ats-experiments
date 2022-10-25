@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1646" link="http://edition.cnn.com/2011/12/20/tech/mobile/pew-survey-digital-communication/index.html" date_published="2011-12-20 16:47:13" category="tech" author="Brandon Griggs, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Social networking booming in Egypt, Russia, survey finds</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">Survey: Use of social networks grew dramatically amid recent upheavals in Egypt and Russia.</sentence>
+      <sentence id="2" ids_article_sentences="1">People in poorer countries such as Kenya send texts more often than those in wealthier ones.</sentence>
+      <sentence id="3" ids_article_sentences="4">New Pew Research Center report measured the usage of digital communication in 21 countries.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-24 11:43:54" annotation_time="22.833">
+      <sentence id="1" ids_highlights="2">People in poorer countries send text messages more often than those in wealthier countries.</sentence>
+      <sentence id="3" ids_highlights="1">And use of online social networks grew dramatically in Egypt and Russia over the past year, most likely as part of the recent political upheavals in those countries.</sentence>
+      <sentence id="4" ids_highlights="3">These are among the results of a new report that measured the usage of digital communication in 21 countries.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>People in poorer countries send text messages more often than those in wealthier countries.</content>
+        </sentence>
+        <sentence id="2">
+          <content>Men in Spain and Germany access the Internet on their phones twice as much as women do.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>And use of online social networks grew dramatically in Egypt and Russia over the past year, most likely as part of the recent political upheavals in those countries.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>These are among the results of a new report that measured the usage of digital communication in 21 countries.</content>
+        </sentence>
+        <sentence id="5">
+          <content>The survey by the Pew Research Center&amp;apost;s Global Attitudes Project found that text messaging is now a widespread global phenomenon: In the countries polled, 75% of cell phone owners say they text.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>In almost all the countries surveyed, the use of social networks such as Facebook and Twitter didn&amp;apost;t change much from 2010 to 2011.</content>
+        </sentence>
+        <sentence id="7">
+          <content>Two notable exceptions were Egypt, where 28% of respondents now use social networks -- up from 18% last year -- and Russia, where social-networking use rose from 33% to 43%.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>Facebook and other networking tools played a prominent role in the revolution that toppled Egyptian President Hosni Mubarak in February.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Protesters organized so effectively on social networks that the Egyptian government shut down the Internet for five days in an unsuccessful attempt to quell the uprising.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>Observers say social networks also have helped mobilize protesters in Moscow, where tens of thousands have filled the streets to speak out against Russian parliamentary elections they say were rigged.</content>
+        </sentence>
+        <sentence id="11">
+          <content>The Pew survey found that only 6% of Internet users in Russia were not on social-networking sites.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>Researchers conducted the survey face-to-face and via telephone in the spring of this year.</content>
+        </sentence>
+        <sentence id="13">
+          <content>Sample sizes in each country ranged from 700 in Japan to more than 4,000 in India.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="14">
+          <content>Among the survey&amp;apost;s other findings:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="15">
+          <content>-- Of the countries surveyed, text messaging was most common in Indonesia and Kenya, where 96% and 89% of people said they regularly send texts.</content>
+        </sentence>
+        <sentence id="16">
+          <content>By contrast, 67% of people in the United States were frequent texters.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="17">
+          <content>-- In Spain, 29% of male cell phone owners use their devices to access the Internet, compared to 13% of female phone owners.</content>
+        </sentence>
+        <sentence id="18">
+          <content>This mobile-Web gender gap was also pronounced in Germany (26%/11%) and in Turkey (30%/14%).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="19">
+          <content>-- Social networking is generally more common in wealthier nations, largely driven by the fact that they have higher rates of Internet access.</content>
+        </sentence>
+        <sentence id="20">
+          <content>For example, 53% of respondents in Israel and 50% of respondents in the U.S. said they use social networks, compared with 5% in India and 2% in Pakistan.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

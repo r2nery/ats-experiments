@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="21" link="http://www.cnn.com/2013/05/21/business/japan-women-economy-womenomics/index.html" date_published="2013-05-22 03:22:46" category="business" author=" Diana Magnay, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Can`womenomics&amp;apost; save Japan?</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">Japan is pushing measures to close the gender gap in the nation&amp;apost;s workforce.</sentence>
+      <sentence id="2" ids_article_sentences="1">Prime Minister Shinzo Abe: &amp;quot;Women are Japan&amp;apost;s most underutilized resource&amp;quot; .</sentence>
+      <sentence id="3" ids_article_sentences="18">Japanese women face strong cultural pressure to leave the workforce after having a child.</sentence>
+      <sentence id="4" ids_article_sentences="9">Analyst: Workforce parity &amp;quot;could lift the asset level of Japanese GDP by as much as 14%&amp;quot; .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-28 22:36:08" annotation_time="174.377">
+      <sentence id="1" ids_highlights="2">&amp;quot;Women are Japan&amp;apost;s most underutilized resource.&amp;quot;</sentence>
+      <sentence id="2" ids_highlights="1">So said Japan&amp;apost;s Prime Minister Shinzo Abe in April as he outlined a raft of measures aimed at closing the gender gap in the Japanese workforce.</sentence>
+      <sentence id="9" ids_highlights="4">That influx of female workers &amp;quot;could lift the asset level of Japanese GDP by as much as 14%,&amp;quot; she adds.</sentence>
+      <sentence id="18" ids_highlights="3">According to Goldman Sachs, some 70% of Japanese women choose to leave the workforce after they&amp;apost;ve had children.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>&amp;quot;Women are Japan&amp;apost;s most underutilized resource.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>So said Japan&amp;apost;s Prime Minister Shinzo Abe in April as he outlined a raft of measures aimed at closing the gender gap in the Japanese workforce.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>As a Western journalist new to Japan, it is a shock that it takes an economic argument to move the government to act toward more female participation in the workforce.</content>
+        </sentence>
+        <sentence id="4">
+          <content>But it&amp;apost;s not just a foreign perspective.</content>
+        </sentence>
+        <sentence id="5">
+          <content>The noted economist Noriko Hama writes in the Japan Times this week, &amp;quot;You secure better working conditions for women because they have a rightful claim to such treatment.</content>
+        </sentence>
+        <sentence id="6">
+          <content>No other reasoning or justification is necessary to do something that is decent and just.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>Nevertheless, if you are a prime minister in urgent search of growth, the numbers behind so-called &amp;quot;womenomics&amp;quot; in Japan are compelling.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;apost;If you were to close the employment gap between Japanese men, which is 80%, one of the highest in the OECD, with Japanese women -- which is still around 60% -- we estimate that you&amp;apost;d add about 8.2 million workers into the Japanese workforce,&amp;quot; says Kathy Matsui of Goldman Sachs, who has long championed the cause.</content>
+        </sentence>
+        <sentence id="9">
+          <content>That influx of female workers &amp;quot;could lift the asset level of Japanese GDP by as much as 14%,&amp;quot; she adds.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>Now Prime Minister Abe is trying to force corporations to act.</content>
+        </sentence>
+        <sentence id="11">
+          <content>He has set targets of at least one female executive per company and offered tax incentives to companies that encourage mothers to return to work.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>Despite equal employment opportunities enshrined into law in 1986, real equality within most domestic Japanese companies remains within the realm of fantasy-land.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>Naoko Toyoda had worked for 10 years with an IT company but was demoted to a starting position when she came back after the birth of her first child.</content>
+        </sentence>
+        <sentence id="14">
+          <content>&amp;quot;Women who choose not to have a child would continue up the corporate ladder while those who did would be forced into semi-retirement,&amp;quot; she says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="15">
+          <content>She didn&amp;apost;t expect flexibility from the company&amp;apost;s side though.</content>
+        </sentence>
+        <sentence id="16">
+          <content>&amp;quot;Once one exception is allowed, other mothers would complain they weren&amp;apost;t treated in the same way,&amp;quot; she says.</content>
+        </sentence>
+        <sentence id="17">
+          <content>So she quit.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="18">
+          <content>According to Goldman Sachs, some 70% of Japanese women choose to leave the workforce after they&amp;apost;ve had children.</content>
+        </sentence>
+        <sentence id="19">
+          <content>That&amp;apost;s more than twice the number in the U.S. or Germany.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="20">
+          <content>But unlike the U.S. and Germany -- where childcare is cited as the major factor for why women leave work -- in Japan, uncompromising work environments, which demand face-time and offer little career mobility for women, persuade most mothers to give up corporate life.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="21">
+          <content>A 2011 study by the Center for Work-Life Policy called &amp;quot;Off-Ramps and On-Ramps Japan: Keeping Talented Women on the Road to Success&amp;quot; found that three quarters of Japanese women want to rejoin the workforce after they&amp;apost;ve had children, but only 43% manage to get their careers back on track.</content>
+        </sentence>
+        <sentence id="22">
+          <content>Those who do return to work tend to take salary cuts and often find themselves, like Toyoda, marginalized within the company.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="23">
+          <content>Cosmetics giant Shiseido does better than most.</content>
+        </sentence>
+        <sentence id="24">
+          <content>Since 1990 its childcare support program has been in continual evolution, providing employees with extensive leaves of parental absence, shorter working hours, childcare subsidies and on-site nursery facilities.</content>
+        </sentence>
+        <sentence id="25">
+          <content>It is also working on a gender equality action plan to boost its ratio of female leaders though it admits it will miss its slated target of 30% by end 2013.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="26">
+          <content>Shigeto Ohtsuki, executive director of human resources at Shiseido, describes the management style in the past as &amp;quot;very slow moving.&amp;quot;</content>
+        </sentence>
+        <sentence id="27">
+          <content>Even though Shiseido is an example of corporate best practice in Japan, Ohtsuki admits there is still some way to go along the road towards true daibashitii, the Japanese word for diversity.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="28">
+          <content>&amp;quot;The female leader ratio in Japan Shiseido Group, representing 25,000 employees is still 25.6% whereas female leader ratio overseas where we have 20,000 employees is almost 60%,&amp;quot; Ohtsuki says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="29">
+          <content>Yuki Honda joined Shiseido in 1989.</content>
+        </sentence>
+        <sentence id="30">
+          <content>She met her husband there and they have two children.</content>
+        </sentence>
+        <sentence id="31">
+          <content>She feels grateful to the company for continuing to support and promote her throughout.</content>
+        </sentence>
+        <sentence id="32">
+          <content>&amp;quot;I think I was fortunate with this company because they did not assume we women would quit after childbirth and they educated us so we&amp;apost;d continue to work,&amp;quot; she says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="33">
+          <content>Japan&amp;apost;s bleak demographic outlook is well known.</content>
+        </sentence>
+        <sentence id="34">
+          <content>The birth-rate is shrinking, the population is getting older and there are fewer workers&amp;apost; to pay for the nation&amp;apost;s pensioners.</content>
+        </sentence>
+        <sentence id="35">
+          <content>The IMF forecasts Japan&amp;apost;s population will shrink by around 30% by 2055.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="36">
+          <content>Abe&amp;apost;s push to make the workplace a more hospitable place for women -- quite apart from the argument that it&amp;apost;s just more fair -- is also a matter of economic survival.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="37">
+          <content>Whether Japan&amp;apost;s male corporate bosses are listening remains to be seen.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

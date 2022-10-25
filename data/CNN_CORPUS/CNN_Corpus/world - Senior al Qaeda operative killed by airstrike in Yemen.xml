@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2738" link="http://www.cnn.com/2012/05/06/world/africa/yemen-airstrikes" date_published="2012-05-06 15:32:39" category="world" author="Hakim Almasmari, for CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Senior al Qaeda operative killed by airstrike in Yemen</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">Fahd al Quso was killed while riding in a vehicle, Yemeni officials say.</sentence>
+      <sentence id="2" ids_article_sentences="4">Al Qaeda in the Arabian Peninsula confirmed his death in text messages .</sentence>
+      <sentence id="3" ids_article_sentences="6, 1">He is wanted in the USS Cole bombing in Yemen, which killed 17 U.S. sailors.</sentence>
+      <sentence id="4" ids_article_sentences="15">More than 240 militants have been killed over the last month in Abyan, officials say.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-01 14:56:09" annotation_time="215.24567" mapping_time_divergence="53.811417">
+      <sentence id="1" ids_highlights="3">A senior operative of al Qaeda in the Arabian Peninsula wanted for his role in the USS Cole bombing was killed by an airstrike in Yemen on Sunday, Yemeni officials said.</sentence>
+      <sentence id="2" ids_highlights="1">Fahd al Quso, 37, was killed while riding in a vehicle in the Rafdh district in Shabwa province, according to the officials.</sentence>
+      <sentence id="4" ids_highlights="2">Al Qaeda members confirmed the death in text messages to local media, saying al Quso died along with a companion identified as Fahd Lakdum.</sentence>
+      <sentence id="6" ids_highlights="3">The bombing killed 17 U.S. sailors.</sentence>
+      <sentence id="15" ids_highlights="4">More than 240 militants have been killed over the last month in Abyan alone, the security officials said.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>A senior operative of al Qaeda in the Arabian Peninsula wanted for his role in the USS Cole bombing was killed by an airstrike in Yemen on Sunday, Yemeni officials said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Fahd al Quso, 37, was killed while riding in a vehicle in the Rafdh district in Shabwa province, according to the officials.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>He was killed by a CIA drone strike, U.S. officials told CNN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>Al Qaeda members confirmed the death in text messages to local media, saying al Quso died along with a companion identified as Fahd Lakdum.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>Al Quso was indicted by a federal grand jury in New York in 2003 on 50 counts of terrorism offenses for his role in the October 12, 2000, bombing of the USS Cole in Aden, Yemen.</content>
+        </sentence>
+        <sentence id="6">
+          <content>The bombing killed 17 U.S. sailors.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>The FBI had offered a $5 million reward for any information leading to the capture of Al Quso, who was among the most-wanted terrorists in Yemen.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>He had been at-large since escaping in April 2003 with eight others from a Yemeni prison, where they had been held on suspicion of involvement in the Cole bombing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>Earlier Sunday, two security officials told CNN that four Yemeni airstrikes killed six suspected al Qaeda militants and wounded two others in Lawder district of Abyan province.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="10">
+          <content>The Defense Ministry said that 10 other suspected militants had been killed since Saturday morning in the same province&amp;apost;s Zinjibar district.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="11">
+          <content>The ministry said that the strikes were targeting two locations: a militant hideout and a training site.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="12">
+          <content>Nine troops were wounded in Abyan&amp;apost;s capital of Zinjibar when a mortar exploded, a senior Defense Ministry official told CNN.</content>
+        </sentence>
+        <sentence id="13">
+          <content>Two of the wounded were in critical condition, he said, speaking on condition of anonymity because he is not authorized to speak to the news media.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="14">
+          <content>Local security officials said that the offensive has been the fiercest since last year, when the country began its anti-terrorism efforts.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="15">
+          <content>More than 240 militants have been killed over the last month in Abyan alone, the security officials said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;Al Qaeda has been greatly weakened over the last two months, and we expect them to evacuate strategic positions over the next two weeks,&amp;quot; a senior official in Abyan who is not authorized to speak to the news media told CNN on condition of anonymity.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="17">
+          <content>He said that 24 soldiers were killed during the same period.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="18">
+          <content>Yemeni government military planes roam the skies of Abyan throughout the day, residents said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;We wake up in the morning and see bodies laying on roads or near our farms.</content>
+        </sentence>
+        <sentence id="20">
+          <content>Most of the attacks take place late at night or early morning,&amp;quot; said Yasser al-Numairi, a resident of Abyan.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="21">
+          <content>The violence comes as newly elected President Abdu Rabu Mansour Hadi has vowed to increase the pressure on al Qaeda until they are eradicated from every Yemeni village.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;Our fight against al Qaeda will continue until the displaced citizens can return safely to their homes and terrorist operatives surrender and lay their arms,&amp;quot; Hadi said Saturday night in a speech broadcast on Yemen Television.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="23">
+          <content>The Interior Ministry said on Sunday that 14 suspected al Qaeda militants were arrested in April and that it will continue hunting down terrorists nationwide.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="24">
+          <content>Al Qaeda is seeking to take advantage of the political unrest in Yemen to expand into new areas of southern Yemen.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

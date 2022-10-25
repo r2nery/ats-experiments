@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2205" link="http://edition.cnn.com/2014/01/14/world/europe/france-hollande/index.html?iref=allsearch" date_published="2014-01-14 11:24:12" category="world" author="Laura Smith-Spark and Marie-Louise Gumuchian, CNN" highlights_mapped="true" mapping_error="false">
+  <title>French president Hollande ducks questions over affair allegations</title>
+  <keywords>Francois Hollande,Julie Gayet</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="10">NEW: Francois Hollande says he&amp;apost;ll clarify status of first lady before February trip to U.S.</sentence>
+      <sentence id="2" ids_article_sentences="3">Hollande says personal affairs should be dealt with in private.</sentence>
+      <sentence id="3" ids_article_sentences="2">A French magazine has alleged he is having an affair with actress Julie Gayet.</sentence>
+      <sentence id="4" ids_article_sentences="12">France&amp;apost;s first lady, Valerie Trierweiler, was hospitalized after the report surfaced.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-28 15:51:31" annotation_time="80.251">
+      <sentence id="2" ids_highlights="3">In his first appearance before the media since the allegations surfaced in the French tabloid Closer linking Hollande romantically to actress Julie Gayet, the President was immediately asked about his personal life when he handed the floor to journalists following a nearly 40-minute speech.</sentence>
+      <sentence id="3" ids_highlights="2">Asked whether his partner, Valerie Trierweiler, was still the first lady of France, Hollande said personal affairs should be dealt with in private.</sentence>
+      <sentence id="10" ids_highlights="1">Speaking at the Elysee Palace to outline his new-year plans for the economy, Hollande said he would clarify the situation before the February trip.</sentence>
+      <sentence id="12" ids_highlights="4">Trierweiler was hospitalized shortly after the report appeared.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>French President Francois Hollande said he and France&amp;apost;s first lady were going through &amp;quot;painful moments,&amp;quot; as he faced questions Tuesday over an alleged affair with an actress.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>In his first appearance before the media since the allegations surfaced in the French tabloid Closer linking Hollande romantically to actress Julie Gayet, the President was immediately asked about his personal life when he handed the floor to journalists following a nearly 40-minute speech.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Asked whether his partner, Valerie Trierweiler, was still the first lady of France, Hollande said personal affairs should be dealt with in private.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>&amp;quot;Everybody in their personal lives can go through hardships.</content>
+        </sentence>
+        <sentence id="5">
+          <content>This is the case for us,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;These are painful moments, but I have one principle: Private affairs are dealt with in private.</content>
+        </sentence>
+        <sentence id="7">
+          <content>This is not the place nor the time to do this.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>Hollande and Trierweiler are expected next month on a state visit to the United States at the invitation of President Barack Obama and his wife, Michelle.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Their itinerary includes a February 11 state dinner at the White House.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>Speaking at the Elysee Palace to outline his new-year plans for the economy, Hollande said he would clarify the situation before the February trip.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>The allegations, which emerged Friday, have sparked a media firestorm of a kind not usually seen in France, where privacy is closely guarded.</content>
+        </sentence>
+        <sentence id="12">
+          <content>Trierweiler was hospitalized shortly after the report appeared.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>&amp;quot;Catastrophic scenario&amp;quot;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>According to French national daily Le Monde, Hollande&amp;apost;s news conference -- the first of 2014 and only his third in office -- was supposed to be a chance for the embattled leader, who has seen his popularity slump since his 2012 election, to relaunch his agenda.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="15">
+          <content>Instead, it is a &amp;quot;catastrophic scenario,&amp;quot; the newspaper reported -- with him trying to deal with questions about his private life as briefly as possible and turn the focus back to economic matters.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="16">
+          <content>Jean-Francois Cope, leader of the opposition UMP, told television channel France 5 over the weekend that the allegations were &amp;quot;disastrous for the image of the presidential office,&amp;quot; adding that the story was dominating international media coverage of France.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="17">
+          <content>Former Prime Minister Alain Juppe, also of the UMP, is quoted by CNN affiliate BFMTV as saying that &amp;quot;many people overseas who specialize in &amp;apost;French bashing&amp;apost; are having a field day.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="18">
+          <content>Asked if there should be moves to formalize the position of the first lady -- in contrast to the United States, the partner of the French president has no defined status -- Juppe said that might not be the solution.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;In France, we love status.</content>
+        </sentence>
+        <sentence id="20">
+          <content>We can create a status for the first lady and for the second lady as well, perhaps,&amp;quot; he joked.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="21">
+          <content>Hospitalization.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="22">
+          <content>Patrice Biancone, head of Trierweiler&amp;apost;s Elysee office, told CNN on Sunday the first lady had been hospitalized since Friday.</content>
+        </sentence>
+        <sentence id="23">
+          <content>He said she &amp;quot;needed rest&amp;quot; and he hoped she would leave the hospital early this week.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="24">
+          <content>&amp;quot;We all know why she went in after the story came out,&amp;quot; said Biancone, clearly making the link between the revelations of the magazine and Trierweiler&amp;apost;s hospitalization.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="25">
+          <content>Hollande, 59, left his longtime common-law wife, Segolene Royal -- the mother of his four children -- for Trierweiler, 48, before the 2012 presidential election.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="26">
+          <content>The two are not married but live together, and she makes official state appearances.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="27">
+          <content>They met when Trierweiler was a reporter for Paris Match magazine.</content>
+        </sentence>
+        <sentence id="28">
+          <content>She still works for the publication.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="29">
+          <content>Right to privacy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="30">
+          <content>Hollande did not tackle the claims in the Closer article head-on as he announced ideas to tackle unemployment and measures such as deep public spending cuts to boost economic growth, which he said had to be &amp;quot;as vigorous as possible.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="31">
+          <content>The story has however prompted questions in French media about Hollande&amp;apost;s right to privacy, whether his security may have been jeopardized during his alleged liaisons, and Trierweiler&amp;apost;s future status as first lady.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="32">
+          <content>Closer reported that Hollande had been slipping out of the back door of the Elysee Palace and hopping on a motor scooter driven by a bodyguard to Gayet&amp;apost;s apartment.</content>
+        </sentence>
+        <sentence id="33">
+          <content>The magazine also said the bodyguard brought croissants to the apartment one morning.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="34">
+          <content>Asked whether his security was jeopardized in this case, the President said, &amp;quot;My security is insured everywhere and all times.</content>
+        </sentence>
+        <sentence id="35">
+          <content>Privately I go around with less security.</content>
+        </sentence>
+        <sentence id="36">
+          <content>People should not worry.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="37">
+          <content>Hollande has not confirmed or denied the alleged affair but has threatened legal action.</content>
+        </sentence>
+        <sentence id="38">
+          <content>A statement from his entourage Friday to news agency Agence France-Presse said Hollande &amp;quot;deeply condemns the attacks on the right to privacy which he has a right to like every other citizen.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="39">
+          <content>A survey last month by French polling organization Ifop gave Hollande an approval rating of 22%, a rise of 2 percentage points from the previous month, when he hit a record low.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="40">
+          <content>Hollande, who was elected after campaigning to put growth before austerity and introduce higher taxes on the rich, has been urged by his European partners and international institutions to be bolder with his economic reforms.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="41">
+          <content>France&amp;apost;s faltering economic performance last year, accompanied by stubbornly high unemployment figures, led to fears the second-biggest economy in the eurozone could act as a brake on the region&amp;apost;s fragile recovery.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

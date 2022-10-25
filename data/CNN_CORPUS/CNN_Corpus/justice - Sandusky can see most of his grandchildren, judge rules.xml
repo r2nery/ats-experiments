@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="612" link="http://www.cnn.com/2012/02/13/justice/pennsylvania-sandusky-grandkids/index.html" date_published="2012-02-13 07:33:04" category="justice" author="the CNN Wire Staff" highlights_mapped="true" mapping_error="false">
+  <title>Sandusky can see most of his grandchildren, judge rules</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">NEW: Sandusky&amp;apost;s attorney says the family is happy about the ruling.</sentence>
+      <sentence id="2" ids_article_sentences="8">A judge rules that Jerry Sandusky can see some of his grandchildren.</sentence>
+      <sentence id="3" ids_article_sentences="17">The judge denies prosecutor&amp;apost;s request to require the former coach to stay indoors.</sentence>
+      <sentence id="4" ids_article_sentences="21">Tim Curley&amp;apost;s legal team asks that a perjury charge against him be dropped.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-02 20:14:57" annotation_time="23.732666">
+      <sentence id="3" ids_highlights="1">Joe Amendola, Sandusky&amp;apost;s attorney, said the former assistant coach and his family are happy about the ruling.</sentence>
+      <sentence id="8" ids_highlights="2">State Attorney General Linda Kelly had blasted Sandusky&amp;apost;s request to see his grandchildren, saying in a motion earlier this month that Sandusky was fortunate to be granted house arrest when &amp;quot;he is alleged to have committed 52 sexual offenses.&amp;quot;</sentence>
+      <sentence id="17" ids_highlights="3">On Monday, the judge denied a prosecution request that jurors be selected from outside the county where the former coach is being prosecuted.</sentence>
+      <sentence id="21" ids_highlights="4">On Monday an attorney requested that the perjury charge against Curley be dropped, arguing that Paterno&amp;apost;s death means prosecutors no longer have a required second witness to support the charge.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The former Penn State assistant football coach currently awaiting trial on child sex assault charges can visit with some of his grandchildren, a judge ruled Monday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The decision by Judge John Cleland eases some conditions of Jerry Sandusky&amp;apost;s house arrest, which had forbidden contact with his 11 grandchildren.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Joe Amendola, Sandusky&amp;apost;s attorney, said the former assistant coach and his family are happy about the ruling.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>&amp;quot;Jerry, Dottie, and their entire family are very relieved by and pleased with the court&amp;apost;s decision,&amp;quot; Amendola said in a written statement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>Sandusky will be allowed to visit with eight of his grandchildren under parental supervision, Cleland ruled.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>But another judge in a custody case involving the other three grandchildren should decide whether Sandusky can visit with them, Cleland ruled.</content>
+        </sentence>
+        <sentence id="7">
+          <content>The mother of those children has strongly objected to them having contact with Sandusky.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>State Attorney General Linda Kelly had blasted Sandusky&amp;apost;s request to see his grandchildren, saying in a motion earlier this month that Sandusky was fortunate to be granted house arrest when &amp;quot;he is alleged to have committed 52 sexual offenses.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>Kelly also argued that Sandusky should be required to stay indoors during his house arrest because of fears among neighbors and teachers at a nearby elementary school.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="10">
+          <content>Cleland denied that request Monday, ruling that prosecutors did not present any evidence showing that Sandusky had tried to contact children at the school.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="11">
+          <content>The state &amp;quot;failed to present any evidence whatsoever that (Sandusky) presents a clearly defined threat to any student at the adjoining elementary school simply by being on his deck,&amp;quot; Monday&amp;apost;s the ruling says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="12">
+          <content>Cleland also ruled Monday that Sandusky would be allowed to have visits from adult friends and to leave his home for meetings with attorneys and private investigators aiding in his defense, provided that a probation coordinator approves.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="13">
+          <content>&amp;quot;Jerry is also happy he can now have visitation with long-time friends with the prior approval of the Probation Department and will be able to continue to use the deck to his home to exercise, care for and supervise his dog, Bo, when Bo is in the yard,&amp;quot; Amendola said in his statement issued after Monday&amp;apost;s ruling.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="14">
+          <content>Sandusky has been under house arrest since December, when he was charged with sexually abusing young boys over a 15-year period.</content>
+        </sentence>
+        <sentence id="15">
+          <content>He has pleaded not guilty to the charges.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="16">
+          <content>Cleland has said he is aiming for a May 14 trial for Sandusky.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="17">
+          <content>On Monday, the judge denied a prosecution request that jurors be selected from outside the county where the former coach is being prosecuted.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="18">
+          <content>The allegations against Sandusky led to the firing of Penn State&amp;apost;s heralded head football coach Joe Paterno only months before he died of complications from lung cancer.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="19">
+          <content>Tim Curley, Penn State&amp;apost;s former athletic director, and Gary Schultz, a former university vice president who oversaw campus police, have been charged with perjury and failing to report an alleged 2002 sexual assault of a child.</content>
+        </sentence>
+        <sentence id="20">
+          <content>Both of them have pleaded not guilty.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="21">
+          <content>On Monday an attorney requested that the perjury charge against Curley be dropped, arguing that Paterno&amp;apost;s death means prosecutors no longer have a required second witness to support the charge.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

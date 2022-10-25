@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1654" link="http://www.cnn.com/2011/09/22/tech/innovation/texas-supercomputer/index.html" date_published="2011-09-22 17:14:00" category="tech" author="Joshua Rubin, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Texas university to build powerful supercomputer</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="4">A powerful new supercomputer is coming to the University of Texas at Austin.</sentence>
+      <sentence id="2" ids_article_sentences="4">Called Stampede, it&amp;apost;s being built with a $27 million grant from the National Science Foundation.</sentence>
+      <sentence id="3" ids_article_sentences="12">Once completed, the system will be able to perform 10 quadrillion operations per second.</sentence>
+      <sentence id="4" ids_article_sentences="6">If it were running today, officials say it would be the world&amp;apost;s fastest supercomputer.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-14 13:19:13" annotation_time="76.067665">
+      <sentence id="4" ids_highlights="1, 2">Now, with a $27 million grant from the National Science Foundation, a new supercomputer is set to raise the bar again at the center, located at the University of Texas at Austin.</sentence>
+      <sentence id="6" ids_highlights="4">If it were running today, TACC officials say, it would be the world&amp;apost;s fastest supercomputer.</sentence>
+      <sentence id="12" ids_highlights="3">Once completed, the system will be able to perform 10 quadrillion operations per second, making it one of the fastest computers on the planet.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Austin, Texas Maybe everything really is bigger in Texas.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The Lonestars, a series of blazingly fast supercomputers, put the Texas Advanced Computing Center on the map in 2003.</content>
+        </sentence>
+        <sentence id="3">
+          <content>Then came the Ranger system, which was more than 100 times more powerful than the first Lonestar computers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Now, with a $27 million grant from the National Science Foundation, a new supercomputer is set to raise the bar again at the center, located at the University of Texas at Austin.</content>
+        </sentence>
+        <sentence id="5">
+          <content>Called Stampede, it&amp;apost;s expected to come online in 2013.</content>
+        </sentence>
+        <sentence id="6">
+          <content>If it were running today, TACC officials say, it would be the world&amp;apost;s fastest supercomputer.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;Building these very powerful computing systems enables researchers who are at the forefront of certain fields to ask deeper questions, to run bigger simulations, to test their theories at the boundaries of what we currently know, and that helps push those boundaries back,&amp;quot; says TACC director Jay Boisseau.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>At the heart of Stampede will be two kinds of Intel processors.</content>
+        </sentence>
+        <sentence id="9">
+          <content>More than 12,000 eight-core Xeon E5 processors will combine to produce 2 petaflops -- a measure of a computer&amp;apost;s processing speed.</content>
+        </sentence>
+        <sentence id="10">
+          <content>But the bulk of the raw processing power, an astounding 8 petaflops, will come from Intel¹s newest MIC (many integrated core) chips, which have more than 50 processing cores per unit.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="11">
+          <content>The Stampede supercomputer will be the first major rollout of these new chips, TACC scientists say.</content>
+        </sentence>
+        <sentence id="12">
+          <content>Once completed, the system will be able to perform 10 quadrillion operations per second, making it one of the fastest computers on the planet.</content>
+        </sentence>
+        <sentence id="13">
+          <content>By comparison, IBM&amp;apost;s massive Watson computer, which beat two human rivals on &amp;quot;Jeopardy!&amp;quot;</content>
+        </sentence>
+        <sentence id="14">
+          <content>earlier this year, is much less powerful.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="15">
+          <content>Moore¹s Law predicts the doubling of computer processing speed about every two years, but advances in supercomputing have allowed systems such as Stampede to increase in power at an even faster rate.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="16">
+          <content>Scientists like Omar Ghattas see great potential in the exponentially more powerful Stampede computer.</content>
+        </sentence>
+        <sentence id="17">
+          <content>A professor of geosciences at the University of Texas, Ghattas has used supercomputers to track everything from the global impact of March&amp;apost;s Japan earthquake to how melting ice sheets in Antarctica will increase sea levels.</content>
+        </sentence>
+        <sentence id="18">
+          <content>The more powerful the machine, the more data points can be processed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;It&amp;apost;s like resolution in a camera -- we¹re always trying to increase the pixels in our cameras,&amp;quot; Ghattas told CNN.</content>
+        </sentence>
+        <sentence id="20">
+          <content>&amp;quot;Well, it¹s the same sort of thing that happens with supercomputers when you are using mathematical models that represent complex physical phenomena.</content>
+        </sentence>
+        <sentence id="21">
+          <content>We have equations, differential equations that represent these phenomenon, and we solve them on a grid and we¹re trying to get better and better resolution.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="22">
+          <content>The current holder of the World&amp;apost;s Fastest Computer title is the K computer, which was brought online in June at a computing institute in Kobe, Japan, and has a peak performance of 8.162 petaflops.</content>
+        </sentence>
+        <sentence id="23">
+          <content>At a theoretical top speed of 10 petaflops, the Stampede system would beat that, but because it won&amp;apost;t become operational for several years, newer supercomputers will likely surpass it by then.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="24">
+          <content>Supercomputing is revolutionizing open research within the global scientific community, based on the idea that scientific knowledge -- and access to supercomputers -- should be openly shared and available to all.</content>
+        </sentence>
+        <sentence id="25">
+          <content>TACC scientists estimate that once the Stampede system is completed, it will help process more than 1,000 different research studies every year.</content>
+        </sentence>
+        <sentence id="26">
+          <content>Time on the system will be free, but access will be granted based on a national peer-review board of scientists.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="27">
+          <content>The Stampede supercomputer also is a monster in terms of energy consumption.</content>
+        </sentence>
+        <sentence id="28">
+          <content>Once operational, it is expected to gobble approximately 9 megawatts of power per year -- about the amount used by 9,000 single-family homes.</content>
+        </sentence>
+        <sentence id="29">
+          <content>TACC already has one power substation on the university campus, but to accommodate future growth the center may need another.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="30">
+          <content>This is a large expense, but University of Texas President William Powers is firmly behind the center and its research.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="31">
+          <content>&amp;quot;We¹re very proud of the fact that this is going to be a worldwide asset, but it&amp;apost;s Texas built, kind of homegrown.</content>
+        </sentence>
+        <sentence id="32">
+          <content>That design that we started with Ranger and Lonestar and now Stampede, that design in of itself is a great breakthrough,&amp;quot; he says.</content>
+        </sentence>
+        <sentence id="33">
+          <content>&amp;quot;So we¹re proud of the computer, but we¹re also proud of being on the leading edge of designing how supercomputers work, communicate, and interface with the scientific community.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="4" link="http://www.cnn.com/2013/09/27/business/german-offshore-wind-farms/index.html" date_published="2013-09-27 11:35:19" category="business" author="Oliver Joy, CNN " highlights_mapped="true" mapping_error="false">
+  <title>After Fukushima: Could Germany&amp;apost;s nuclear gamble backfire?</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="9">German Chancellor Angela Merkel pledged to permanently shut down the country&amp;apost;s 17 nuclear reactors by 2022.</sentence>
+      <sentence id="2" ids_article_sentences="7">The government is investing heavily in wind farms and solar technology to reduce carbon emissions.</sentence>
+      <sentence id="3" ids_article_sentences="2">Renewable power to contribute 35% of the country&amp;apost;s electricity consumption by 2020 and 80% by 2050.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-20 16:30:07" annotation_time="43.047">
+      <sentence id="2" ids_highlights="3">Politicians in Europe&amp;apost;s largest economy want renewable power to contribute 35% of the country&amp;apost;s electricity consumption by 2020 and 80% by 2050 as part of its clean energy drive.</sentence>
+      <sentence id="7" ids_highlights="2">The government is investing heavily in onshore and offshore wind farms and solar technology in an effort to reduce 40% of greenhouse gas emissions by 2020.</sentence>
+      <sentence id="9" ids_highlights="1">As part of the energy drive, Merkel also pledged to permanently shut down the country&amp;apost;s 17 nuclear reactors, which fuel 18% of the country&amp;apost;s power needs.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>As Germany&amp;apost;s switchover from nuclear power to renewable energy gathers pace, concerns are mounting over the cost to the country&amp;apost;s prosperity and its already squeezed consumers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Politicians in Europe&amp;apost;s largest economy want renewable power to contribute 35% of the country&amp;apost;s electricity consumption by 2020 and 80% by 2050 as part of its clean energy drive.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The country&amp;apost;s &amp;quot;energiewende&amp;quot; -- translated as energy transformation -- is part of the government&amp;apost;s plan to move away from nuclear power and fossil fuels to renewable energy sources, following Japan&amp;apost;s Fukushima disaster in 2011.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>Michael Limburg, vice-president of the European Institute for Climate and Energy, told CNN that the government&amp;apost;s energy targets are &amp;quot;completely unfeasible.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>&amp;quot;Of course, it&amp;apost;s possible to erect tens of thousands of windmills but only at an extreme cost and waste of natural space,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="6">
+          <content>&amp;quot;And still it would not be able to deliver electricity when it is needed.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>The government is investing heavily in onshore and offshore wind farms and solar technology in an effort to reduce 40% of greenhouse gas emissions by 2020.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>Last year Chancellor Angela Merkel, who this week won her third term as Germany&amp;apost;s leader, proposed to construct offshore wind farms in the North Sea, a plan that would cost 200 billion euros ($270 billion), according to the DIW economic institute in Berlin.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>As part of the energy drive, Merkel also pledged to permanently shut down the country&amp;apost;s 17 nuclear reactors, which fuel 18% of the country&amp;apost;s power needs.</content>
+        </sentence>
+        <sentence id="10">
+          <content>Under Germany&amp;apost;s Atomic Energy Act, the last nuclear power plant will be disconnected by 2022.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>Limburg told CNN the rapid transition to renewables is economically &amp;quot;insane,&amp;quot; arguing that wind farms will cost at least 13 times more than traditional coal plants.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>He added: &amp;quot;Offshore wind is somewhat better in performance, cost and usability but still you have to spend six times as much as what you have to spend for a conventional power plant.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="13">
+          <content>Paying the cost of renewable energy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="14">
+          <content>Germans are already facing some of the highest energy bills in Europe.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="15">
+          <content>According to the Institute for Energy Research, this year German electricity rates will increase by over 10% due to a surcharge for using more renewable energy and a further 30 to 50% price increase is expected in the next ten years.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="16">
+          <content>Blackouts are another problem facing Germany&amp;apost;s energy industry.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="17">
+          <content>With the bulk of wind turbines located in the east of the country, regional electricity grids face the threat of overloading, while the reliability of regular wind and solar power in northern Europe is also a concern.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="18">
+          <content>Claudia Kemfert, professor of energy economics at the German Institute for Economic Research, told CNN Germany&amp;apost;s continued use of coal and fossil fuels to power its industrial hubs is making investors nervous.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="19">
+          <content>She said: &amp;quot;Politicians give the wrong signals.</content>
+        </sentence>
+        <sentence id="20">
+          <content>They say &amp;apost;well, on the one hand, we would like to have the energy transition, on the other hand...&amp;apost; what they do or what they propose is the opposite.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="21">
+          <content>But Kemfert added that Germany is not in danger of an energy crisis and that a boom in renewables will have long term economic advantages.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="22">
+          <content>She said: &amp;quot;North (Sea) wind farms can provide 25% of electricity production.</content>
+        </sentence>
+        <sentence id="23">
+          <content>Onshore wind could produce a higher share.</content>
+        </sentence>
+        <sentence id="24">
+          <content>Offshore wind energy is important for North Germany as already a lot of jobs have been created.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="25">
+          <content>Germany is one of six European countries to invest in wind farms including the UK, Denmark, Sweden, the Netherlands and Belgium.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="26">
+          <content>And Stefan Bourgeois, head of regulatory affairs at the European Wind Energy Association, told CNN the sooner the continent moves away from &amp;quot;dirty fuels,&amp;quot; such as coal, the better.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="27">
+          <content>He said: &amp;quot;The costs of offshore are ahead of us, that is true... but the quicker everyone goes offshore the quicker the economies of scale and the costs come down.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

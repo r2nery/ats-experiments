@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="887" link="http://cnn.com/2014/05/16/opinion/velez-mitchell-extreme-weather-climate-change/index.html?iid=article_sidebar" date_published="2014-05-16 12:30:31" category="opinion" author="Jane Velez-Mitchell" highlights_mapped="false" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Opinion: Let&amp;apost;s tell the truth about extreme weather</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="33">Jane Velez-Mitchell: Every day we hear about floods, fires, tornadoes, but not their cause.</sentence>
+      <sentence id="2" ids_article_sentences="31">She says we need to understand extreme weather is in-your-face result of climate change.</sentence>
+      <sentence id="3" ids_article_sentences="45">Velez-Mitchell: Best time to report about climate change is from a fire or storm, not a study.</sentence>
+      <sentence id="4" ids_article_sentences="55">She says: We need to know our carbon-heavy lifestyle is causing terrible weather events.</sentence>
+    </highlights>
+    <gold_standard annotation_time="178.63399" mapping_time_divergence="178.63399">
+      <sentence id="31" ids_highlights="2">We need in-your-face cause and effect.</sentence>
+      <sentence id="33" ids_highlights="1">Every day, it seems, a new extreme weather catastrophe happens somewhere in America and the media&amp;apost;s all over it, profiling the ordinary folks wiped out by forest fires, droughts, floods, massive sinkholes, tornadoes.</sentence>
+      <sentence id="45" ids_highlights="3">&amp;quot;It&amp;apost;s too soon,&amp;quot; is something I&amp;apost;ve heard as an explanation for why the news media avoids linking human-induced climate change to the breaking news coverage of a storm, a hurricane, a tornado, a flood or a forest fire.</sentence>
+      <sentence id="55" ids_highlights="4">Go ahead, weathercasters and reporters: Tell Americans precisely what we don&amp;apost;t want to hear, namely that our self-indulgent, carbon-heavy, gluttonous and disposable lifestyle is precisely what is churning up the angry response from the skies and seas.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Raging fires forced thousands to flee the San Diego area this week, as mandatory evacuation notices went out to 11,000 homes and businesses.</content>
+        </sentence>
+        <sentence id="2">
+          <content>Even Legoland had to be evacuated as so-called devil winds whipped through the heat.</content>
+        </sentence>
+        <sentence id="3">
+          <content>As the chaos unfolded, the latest data from the U.S. National Drought Monitor shows half of the country is deep in drought.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="4">
+          <content>Half of America is in the throes of a drought, and it&amp;apost;s only May.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>Welcome to another a typical day in America, a day marred by weather-related carnage.</content>
+        </sentence>
+        <sentence id="6">
+          <content>Ponder the new normal.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>On Monday, two days before the San Diego fire, a wind-whipped blaze sent fear and panic across the Texas Panhandle.</content>
+        </sentence>
+        <sentence id="8">
+          <content>One victim said she &amp;quot;just couldn&amp;apost;t breathe.&amp;quot;</content>
+        </sentence>
+        <sentence id="9">
+          <content>Almost 100 homes were swept up in flames as thousands raced from &amp;quot;a tornado of smoke.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="10">
+          <content>Meanwhile, in Nebraska, people staggered around wondering where their houses had gone after a tornado had touched down.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;I guess it just lifted up the house and slammed it back down, because it&amp;apost;s just in a pile of rubble right now,&amp;quot; said one homeowner.</content>
+        </sentence>
+        <sentence id="12">
+          <content>And in Missouri, people in the small town of Orrick stood around in bafflement after twisters damaged 80% of their town, including more than 200 homes.</content>
+        </sentence>
+        <sentence id="13">
+          <content>&amp;quot;It has been tough,&amp;quot; said one woman.</content>
+        </sentence>
+        <sentence id="14">
+          <content>And, ma&amp;apost;am, it will likely get tougher.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="15">
+          <content>Let&amp;apost;s be clear.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Climate change is here.</content>
+        </sentence>
+        <sentence id="17">
+          <content>And it&amp;apost;s only going to get worse.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="18">
+          <content>That&amp;apost;s the headline of the new White House report on the environment released last week.</content>
+        </sentence>
+        <sentence id="19">
+          <content>The study warns of rising temperatures and sea levels, noting &amp;quot;corn producers in Iowa, oyster growers in Washington state and maple syrup producers in Vermont are all observing climate-related changes that are outside of recent experience.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="20">
+          <content>It says many parts of the nation have already seen an increasing number of billion-dollar weather events: droughts, fires, storms, hurricanes, tornadoes and flooding, each with damages of a billion dollars or more.</content>
+        </sentence>
+        <sentence id="21">
+          <content>These events will continue and worsen, damaging roads, railways, bridges and electrical grids.</content>
+        </sentence>
+        <sentence id="22">
+          <content>Unless we do something -- and fast.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="23">
+          <content>Clearly, the National Climate Assessment, compiled by 300 experts over several years, is designed to take global warming out of the cerebral realm of egghead scientists and put it in terms that will resonate with average Americans.</content>
+        </sentence>
+        <sentence id="24">
+          <content>It warns that climate change is &amp;quot;already affecting every region of the country and key sectors of the economy.&amp;quot;</content>
+        </sentence>
+        <sentence id="25">
+          <content>The report calls for &amp;quot;urgent action&amp;quot; to protect our communities.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="26">
+          <content>But something&amp;apost;s missing.</content>
+        </sentence>
+        <sentence id="27">
+          <content>Can an 840-page scholarly dissertation ever give you chills?</content>
+        </sentence>
+        <sentence id="28">
+          <content>Will any wonky report ever pack enough of a punch to make you swear off plastic bottles, switch to an electric car, start composting, go meatless on Mondays and demand our politicians do more to restrict industrial emissions?</content>
+        </sentence>
+        <sentence id="29">
+          <content>A study, by its very nature, is an abstraction.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="30">
+          <content>Here&amp;apost;s what is missing from our national conversation about climate change: an emotional charge that hits you in the gut.</content>
+        </sentence>
+        <sentence id="31">
+          <content>We need in-your-face cause and effect.</content>
+        </sentence>
+        <sentence id="32">
+          <content>And this is where the media needs to step up.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="33">
+          <content>Every day, it seems, a new extreme weather catastrophe happens somewhere in America and the media&amp;apost;s all over it, profiling the ordinary folks wiped out by forest fires, droughts, floods, massive sinkholes, tornadoes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="34">
+          <content>But do reporters covering the who, what, when, where and how, ever talk about the real why?</content>
+        </sentence>
+        <sentence id="35">
+          <content>Do reporters mention climate change when they&amp;apost;re stuck in a torrential downpour or use an out-of-control forest fire as a backdrop?</content>
+        </sentence>
+        <sentence id="36">
+          <content>No.</content>
+        </sentence>
+        <sentence id="37">
+          <content>It&amp;apost;s still considered inappropriate to talk about the big elephant in the field, namely what we have long accepted as an act of God is increasingly becoming an act of man.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="38">
+          <content>The end of April saw a massive storm that inched up the Eastern Seaboard.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="39">
+          <content>Florida experienced horrific flooding.</content>
+        </sentence>
+        <sentence id="40">
+          <content>Pensacola airport saw the largest amount of rain in a single calendar day since the first tracking of rainfall there in 1880, according the National Weather Service.</content>
+        </sentence>
+        <sentence id="41">
+          <content>A senior citizen died after being swept into a drainage ditch.</content>
+        </sentence>
+        <sentence id="42">
+          <content>In Alabama, people were reportedly climbing onto their rooftops to survive.</content>
+        </sentence>
+        <sentence id="43">
+          <content>In Maryland, cars disappeared as a street collapsed.</content>
+        </sentence>
+        <sentence id="44">
+          <content>Where was the discussion of human-induced climate change in the midst of the horror?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="45">
+          <content>&amp;quot;It&amp;apost;s too soon,&amp;quot; is something I&amp;apost;ve heard as an explanation for why the news media avoids linking human-induced climate change to the breaking news coverage of a storm, a hurricane, a tornado, a flood or a forest fire.</content>
+        </sentence>
+        <sentence id="46">
+          <content>It&amp;apost;s a shame, because that&amp;apost;s when the conversation would have the most impact.</content>
+        </sentence>
+        <sentence id="47">
+          <content>It would force people to confront the effects of their own carbon footprint.</content>
+        </sentence>
+        <sentence id="48">
+          <content>If we keep saying, &amp;quot;it&amp;apost;s too soon,&amp;quot; soon it will be too late.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="49">
+          <content>Some would say it&amp;apost;s heartless to lecture people about our collective lifestyle when they&amp;apost;re in the throes of a crisis that could cost them their homes and even their lives.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="50">
+          <content>But isn&amp;apost;t it the responsibility of journalists to tell viewers the truth, no matter how unpleasant?</content>
+        </sentence>
+        <sentence id="51">
+          <content>Wouldn&amp;apost;t it help Americans more, in the long run, if we were forced to accept some responsibility for the environmental wreckage we prefer to assume is totally out of our control?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="52">
+          <content>Just hours after releasing the ominous climate change report, President Barack Obama visited with a group of leading meteorologists, including TV weatherman Al Roker.</content>
+        </sentence>
+        <sentence id="53">
+          <content>&amp;quot;This is a problem that is affecting Americans right now,&amp;quot; the President told Roker, seemingly imploring him to use the power of mass media to get the urgent message out to Americans.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="54">
+          <content>I&amp;apost;ll be even more blunt.</content>
+        </sentence>
+        <sentence id="55">
+          <content>Go ahead, weathercasters and reporters: Tell Americans precisely what we don&amp;apost;t want to hear, namely that our self-indulgent, carbon-heavy, gluttonous and disposable lifestyle is precisely what is churning up the angry response from the skies and seas.</content>
+        </sentence>
+        <sentence id="56">
+          <content>Bottom line: The way we collectively live is just not sustainable.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="57">
+          <content>Some might say it&amp;apost;s irresponsible to connect any particular storm to climate change.</content>
+        </sentence>
+        <sentence id="58">
+          <content>But, with 97% of climate scientists agreeing that human-induced climate change is real, that excuse doesn&amp;apost;t hold floodwater.</content>
+        </sentence>
+        <sentence id="59">
+          <content>The new White House report specifically links the increased frequency, duration and intensity of extreme weather to climate change.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="60">
+          <content>The White House report says it&amp;apost;s still not too late to stop the worst repercussions of climate change.</content>
+        </sentence>
+        <sentence id="61">
+          <content>If we really want people to change their behavior, we need a national intervention on how human behavior, especially in developed nations such as the United States, contributes to climate change.</content>
+        </sentence>
+        <sentence id="62">
+          <content>The time for that intervention is the next breaking news alert, telling us that yet another weather catastrophe has struck.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

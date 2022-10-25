@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1601" link="http://www.cnn.com/2014/06/24/tech/web/google-domains/index.html" date_published="2014-06-24 16:11:23" category="tech" author="Caitlin Schmidt, Special to CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Google wants to sell domain names</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">Google announces the launch of an invite-only, domain-registration service.</sentence>
+      <sentence id="2" ids_article_sentences="16">Google hasn&amp;apost;t said when the service will be available to the public.</sentence>
+      <sentence id="3" ids_article_sentences="10">Service will compete with GoDaddy, the largest domain-management company.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-05 00:35:37" annotation_time="59.747997" mapping_time_divergence="19.915998">
+      <sentence id="3" ids_highlights="1">The Internet giant on Monday announced the launch of an invite-only service, Google Domains, to help small businesses find, register and manage their Web addresses.</sentence>
+      <sentence id="10" ids_highlights="3">Their most notable partner-turned-rival will be GoDaddy, the world&amp;apost;s largest domain-management company, which has faced financial troubles in recent years.</sentence>
+      <sentence id="16" ids_highlights="2">Google hasn&amp;apost;t announced when Domains will be available to the public, although it&amp;apost;s encouraging potential customers to request invite codes to test the service.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Google already is a major player in search, online mapping, social networking and other key functions of the Web.</content>
+        </sentence>
+        <sentence id="2">
+          <content>Now it wants to sell domain names, too.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>The Internet giant on Monday announced the launch of an invite-only service, Google Domains, to help small businesses find, register and manage their Web addresses.</content>
+        </sentence>
+        <sentence id="4">
+          <content>The service is currently in beta testing with a small number of users.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>&amp;quot;Businesses will be able to search, find, purchase and transfer the best domain for their business -- whether it&amp;apost;s .</content>
+        </sentence>
+        <sentence id="6">
+          <content>com, .</content>
+        </sentence>
+        <sentence id="7">
+          <content>biz, .</content>
+        </sentence>
+        <sentence id="8">
+          <content>org, or any of the wide range of new domains that are being released to the Web,&amp;quot; Google said in a blog post about the venture.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="9">
+          <content>With this move, Google will be directly competing with companies they once partnered with.</content>
+        </sentence>
+        <sentence id="10">
+          <content>Their most notable partner-turned-rival will be GoDaddy, the world&amp;apost;s largest domain-management company, which has faced financial troubles in recent years.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="11">
+          <content>GoDaddy has 57 million domains registered to its service, but the company hasn&amp;apost;t generated a profit since 2009 and in the last two years has reported combined losses of $480 million.</content>
+        </sentence>
+        <sentence id="12">
+          <content>Earlier this month, the company filed for a $100 million IPO.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="13">
+          <content>The new Google service will allow users to purchase new domain names as well as transfer existing ones.</content>
+        </sentence>
+        <sentence id="14">
+          <content>It also offers some perks that other companies don&amp;apost;t, such as free private registration, which keeps the site owner&amp;apost;s personal information hidden from the public.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="15">
+          <content>Google isn&amp;apost;t quoting prices yet, although a window on the Google Domains site suggests that registering a domain will cost $12 a year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="16">
+          <content>Google hasn&amp;apost;t announced when Domains will be available to the public, although it&amp;apost;s encouraging potential customers to request invite codes to test the service.</content>
+        </sentence>
+        <sentence id="17">
+          <content>Google said the beta-testing process will investigate ways to streamline Domains for users, improve customer service and determine which extra services, such as mobile-site design, will be offered.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="18">
+          <content>The service will allow Google to take advantage of 1,400 newly created top-level domain endings, such as the already popular .</content>
+        </sentence>
+        <sentence id="19">
+          <content>guru.</content>
+        </sentence>
+        <sentence id="20">
+          <content>Google is already on the International Corporation for Assigned Names and Number&amp;apost;s list of accredited registrars for well-known domains like .</content>
+        </sentence>
+        <sentence id="21">
+          <content>com, .</content>
+        </sentence>
+        <sentence id="22">
+          <content>net, and .</content>
+        </sentence>
+        <sentence id="23">
+          <content>org.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="24">
+          <content>Domain-name registration has increased only slightly in recent years, according to the website Registrar Stats.</content>
+        </sentence>
+        <sentence id="25">
+          <content>Last year 123,000 new domain names were registered worldwide, up from 121,000 in 2010.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="26">
+          <content>On the other hand, removal of domain names has increased at a more rapid rate, from 85,000 to 119,000 in the past three years.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="27">
+          <content>This may make some analysts wonder if Google is late to the domain-name market.</content>
+        </sentence>
+        <sentence id="28">
+          <content>But as a dominant Internet player, Google may be able to leverage this new service in ways smaller rivals cannot.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="29">
+          <content>&amp;quot;The company has a vested interest in getting as many businesses online as possible.</content>
+        </sentence>
+        <sentence id="30">
+          <content>It gets them hooked into its many products including Google Apps, Gmail, Google Pages, etc.,&amp;quot; wrote Andrew Allemann for Domain Name Wire, an industry blog.</content>
+        </sentence>
+        <sentence id="31">
+          <content>Google then could sell them ads, he noted.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

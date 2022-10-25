@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="649" link="http://edition.cnn.com/2012/01/06/justice/rape-definition-revised/index.html" date_published="2012-01-06 15:00:57" category="justice" author="Moni Basu, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>U.S. broadens archaic definition of rape</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="11">The old definition of rape was established in 1927.</sentence>
+      <sentence id="2" ids_article_sentences="9">It defined rape as a man forcibly penetrating a woman through her vagina.</sentence>
+      <sentence id="3" ids_article_sentences="3">It is revised to include anal penetration with any body part or object.</sentence>
+      <sentence id="4" ids_article_sentences="4">Authorities say the change in the law will lead to more comprehensive reporting of rape.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-01 14:35:06" annotation_time="39.56333" mapping_time_divergence="9.890833">
+      <sentence id="3" ids_highlights="3">The crime of rape will be defined as &amp;quot;penetration, no matter how slight, of the vagina or anus with any body part or object, or oral penetration by a sex organ of another person, without the consent of the victim,&amp;quot; a Justice Department statement said.</sentence>
+      <sentence id="4" ids_highlights="4">Attorney General Eric Holder said the new definition will lead to a more comprehensive reporting of rape in the FBI&amp;apost;s annual compilation of crime statistics.</sentence>
+      <sentence id="9" ids_highlights="2">That meant that it was only an act of rape if a man forcibly penetrated a woman through her vagina.</sentence>
+      <sentence id="11" ids_highlights="1">Under the old definition, the case of former Penn State assistant coach Jerry Sandusky -- charged with 40 counts in what authorities allege was the sexual abuse of young boys -- would not be considered as rape.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The Justice Department announced Friday it is revising a decades-old definition of rape to expand the kinds of offenses that constitute the crime and for the first time, include men as victims.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Now, any kind of nonconsensual penetration, no matter the gender of the attacker or victim, will constitute rape -- meaning that attacks on men will be counted.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The crime of rape will be defined as &amp;quot;penetration, no matter how slight, of the vagina or anus with any body part or object, or oral penetration by a sex organ of another person, without the consent of the victim,&amp;quot; a Justice Department statement said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>Attorney General Eric Holder said the new definition will lead to a more comprehensive reporting of rape in the FBI&amp;apost;s annual compilation of crime statistics.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>&amp;quot;These long overdue updates to the definition of rape will help ensure justice for those whose lives have been devastated by sexual violence and reflect the Department of Justice&amp;apost;s commitment to standing with rape victims,&amp;quot; Holder said.</content>
+        </sentence>
+        <sentence id="6">
+          <content>&amp;quot;This new, more inclusive definition will provide us with a more accurate understanding of the scope and volume of these crimes.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>An FBI advisory panel recently recommended the revision to the antiquated definition, established in 1927.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>The law then defined rape as &amp;quot;the carnal knowledge of a female, forcibly and against her will.&amp;quot;</content>
+        </sentence>
+        <sentence id="9">
+          <content>That meant that it was only an act of rape if a man forcibly penetrated a woman through her vagina.</content>
+        </sentence>
+        <sentence id="10">
+          <content>It excluded oral and anal penetration; rape of males; penetration of the vagina and anus with an object or body part other than the penis; rape of females by females; and non-forcible rape.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>Under the old definition, the case of former Penn State assistant coach Jerry Sandusky -- charged with 40 counts in what authorities allege was the sexual abuse of young boys -- would not be considered as rape.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;Needless to say we are very pleased that the FBI has agreed to revise its definition used in data collection so it more accurately reflects what the public understands to be rape and what our current criminal statutes say,&amp;quot; said Carol Tracy, executive director of the Women&amp;apost;s Law Project, which has been pushing for the definition change.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>The revised definition includes any gender of victim or perpetrator.</content>
+        </sentence>
+        <sentence id="14">
+          <content>It also includes instances in which a victim is incapable of giving consent because of mental or physical incapacity, such as intoxication.</content>
+        </sentence>
+        <sentence id="15">
+          <content>Physical resistance is not required to demonstrate lack of consent.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>At issue here is how the old definition of rape affected the FBI&amp;apost;s Uniform Crime Reporting system.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>Tracey and other advocates, as well as law enforcement officials, have said that the old definition led to under-reporting of rape.</content>
+        </sentence>
+        <sentence id="18">
+          <content>That in turn shaped public perceptions of the prevalence of rape and affected federal funding for resources in combating the crime.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="19">
+          <content>Justice and FBI officials said, however, that it could take several years for all 18,000 of the nation&amp;apost;s police agencies to report rape under the new definition.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="20">
+          <content>All reporting to the Uniform Crime Report is voluntary, and state legal codes, resources, and technical capabilities vary widely.</content>
+        </sentence>
+        <sentence id="21">
+          <content>Although top officials expect reported forcible rapes eventually to increase from the 84,767 reported in 2010, they declined to offer any estimate of the statistics to be issued for 2011.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;This change will give law enforcement the ability to report more complete rape offense data, as the new definition reflects the vast majority of state rape statutes,&amp;quot; said David Cuthbertson, assistant director of the FBI&amp;apost;s Criminal Justice Information Services.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="23">
+          <content>&amp;quot;As we implement this change, the FBI is confident that the number of victims of this heinous crime will be more accurately reflected in national crime statistics,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="24">
+          <content>In 2010, the last year for which a final report is available, the FBI reported a forcible rape every 6.2 seconds.</content>
+        </sentence>
+        <sentence id="25">
+          <content>With a broader definition, that statistic will probably be even more grim, said Mai Fernandez, executive director of the National Center for Victims of Crime.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="26">
+          <content>&amp;quot;The problem is much greater than what you have been previously seeing,&amp;quot; she said.</content>
+        </sentence>
+        <sentence id="27">
+          <content>&amp;quot;You don&amp;apost;t really know what the problem is.</content>
+        </sentence>
+        <sentence id="28">
+          <content>Therefore, you can&amp;apost;t really create solutions to fit.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="29">
+          <content>The push for a revision started with the Women&amp;apost;s Law Project over a decade ago.</content>
+        </sentence>
+        <sentence id="30">
+          <content>Tracey had a letter written to FBI Director Robert Mueller that was slated to be mailed on September 11, 2001.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="31">
+          <content>The terrorist attacks that day changed everything.</content>
+        </sentence>
+        <sentence id="32">
+          <content>The FBI&amp;apost;s attention turned to other pressing issues.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="33">
+          <content>Last year, Tracy testified before a congressional committee looking at the failures of police departments to thoroughly investigate rape.</content>
+        </sentence>
+        <sentence id="34">
+          <content>She said then that an antiquated, narrow definition of rape was a harmful disservice to countless victims.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="35">
+          <content>Friday, she thanked Justice and White House officials who listened.</content>
+        </sentence>
+        <sentence id="36">
+          <content>Among them was Vice President Joe Biden, author of the Violence Against Women Act.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="37">
+          <content>&amp;quot;Rape is a devastating crime and we can&amp;apost;t solve it unless we know the full extent of it,&amp;quot; Biden said Friday.</content>
+        </sentence>
+        <sentence id="38">
+          <content>&amp;quot;This long-awaited change to the definition of rape is a victory for women and men across the country whose suffering has gone unaccounted for over 80 years.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="39">
+          <content>Kim Gandy, vice president of the Feminist Majority Foundation, called the revision a &amp;quot;major policy change&amp;quot; that &amp;quot;will dramatically impact the way rape is tracked and reported nationwide.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="40">
+          <content>Tracey, however, noted that the change is about data collection and that America has a long way to go in tackling rape.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="41">
+          <content>&amp;quot;We still need to improve police practices and rid society of the stereotypes about rape victims,&amp;quot; she said.</content>
+        </sentence>
+        <sentence id="42">
+          <content>&amp;quot;This is one important change but not the only change that&amp;apost;s needed.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

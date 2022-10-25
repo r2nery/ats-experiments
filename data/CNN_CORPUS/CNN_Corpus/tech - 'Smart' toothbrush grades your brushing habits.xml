@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1555" link="http://www.cnn.com/2014/01/09/tech/innovation/smart-toothbrush-kolibree" date_published="2014-01-09 22:46:37" category="tech" author="Brandon Griggs, CNN" highlights_mapped="true" mapping_error="false">
+  <title>&amp;apost;Smart&amp;apost; toothbrush grades your brushing habits</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">A French company has introduced what they&amp;apost;re calling the world&amp;apost;s first connected electric toothbrush.</sentence>
+      <sentence id="2" ids_article_sentences="2">The Kolibree can sync wirelessly with your smartphone to track your brushing habits.</sentence>
+      <sentence id="3" ids_article_sentences="8">Users download the mobile app, connect via Bluetooth and every brushing is recorded.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-14 14:19:53" annotation_time="37.959667">
+      <sentence id="2" ids_highlights="1, 2">A French company has introduced what they&amp;apost;re calling the world&amp;apost;s first connected electric toothbrush, which syncs wirelessly with a smartphone to track brushing habits, announce whether you, or your kids, have brushed thoroughly enough and reward you for good oral hygiene.</sentence>
+      <sentence id="8" ids_highlights="3">Users download a mobile app and connect via Bluetooth, and the Kolibree documents every brushing via three sensors that record 1) how long you brush, 2) whether you brush all four quadrants of your mouth, and 3) whether you brush up and down (good) instead of just side to side (bad).</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>If you&amp;apost;re tired of nagging your kids (or another member of your household) to brush their teeth, you have a new ally.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>A French company has introduced what they&amp;apost;re calling the world&amp;apost;s first connected electric toothbrush, which syncs wirelessly with a smartphone to track brushing habits, announce whether you, or your kids, have brushed thoroughly enough and reward you for good oral hygiene.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>For extra motivation, or shaming, the brush can share information with your social network or even your dentist.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>It&amp;apost;s called the Kolibree toothbrush, and it was unveiled this week at the International Consumer Electronics Show in Las Vegas, where some attendees asked if they could test prototypes on their pearly whites right there (for sanitary reasons, the answer was no).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>The device will cost from $99 to $200, depending on the model, and will be available for pre-order this summer through Kickstarter or another crowdfunding site.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;It works just like a regular toothbrush,&amp;quot; said Kolibree spokesperson Renee Blodgett in a phone interview.</content>
+        </sentence>
+        <sentence id="7">
+          <content>&amp;quot;The only difference is that all the data is stored on your phone so you can see how you&amp;apost;re brushing.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>Users download a mobile app and connect via Bluetooth, and the Kolibree documents every brushing via three sensors that record 1) how long you brush, 2) whether you brush all four quadrants of your mouth, and 3) whether you brush up and down (good) instead of just side to side (bad).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>The data automatically syncs to your Android phone or iPhone, telling you whether you brushed long enough and reached all the crucial areas of your teeth and gums.</content>
+        </sentence>
+        <sentence id="10">
+          <content>The Kolibree app charts your progress and scores your brushing technique to encourage you, or your kids, to improve brushing habits.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>In this way, the device turns a mundane daily activity into a game, which its makers hope will engage people -- especially kids -- and encourage them to brush longer and more often.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;You create this incentive around brushing,&amp;quot; Blodgett said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="13">
+          <content>The brushing data also will be available via an API to let third-party game designers develop new apps for the Kolibree system.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="14">
+          <content>The Kolibree toothbrush was invented by Thomas Serval, a French engineer and a leader in that country&amp;apost;s tech industry.</content>
+        </sentence>
+        <sentence id="15">
+          <content>He was inspired to design it after suspecting that his children were lying to him about whether they had brushed their teeth.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="16">
+          <content>It&amp;apost;s not the first &amp;quot;smart&amp;quot; toothbrush on the market, however: The manual, $25 Beam Brush went on sale about a year ago.</content>
+        </sentence>
+        <sentence id="17">
+          <content>The Beam also connects to phones via Bluetooth and records brushing time, although unlike the Kolibree it cannot track the brush&amp;apost;s movements in the mouth.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

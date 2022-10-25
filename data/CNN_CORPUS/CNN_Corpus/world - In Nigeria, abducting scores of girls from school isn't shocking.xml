@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2279" link="http://www.cnn.com/2014/04/21/world/africa/nigeria-abducted-girls" date_published="2014-04-21 09:18:14" category="world" author="Holly Yan and Vladimir Duthiers, CNN " highlights_mapped="true" mapping_error="false">
+  <title>In Nigeria, abducting scores of girls from school isn&amp;apost;t shocking</title>
+  <keywords>Girls abducted in Nigeria,Boko Haram abducted schoolgirls</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="4">NEW: Officials revise total number of girls kidnapped to at least 230 .</sentence>
+      <sentence id="2" ids_article_sentences="13">This poor corner of Nigeria is no stranger to such brazen, violent acts.</sentence>
+      <sentence id="3" ids_article_sentences="20">Boko Haram-related violence killed 1,500 in the first three months of 2014.</sentence>
+      <sentence id="4" ids_article_sentences="46">The latest incident has ratcheted up pressure on the military.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-12 15:21:54" annotation_time="30.8895">
+      <sentence id="4" ids_highlights="1">The number of girls taken from the school has been revised by officials several times, and on Monday, CNN spoke with Principal Asabe Kwambura, who said a new figure of at least 230 was determined after reviewing records and taking reports from parents.</sentence>
+      <sentence id="13" ids_highlights="2">Tucked away near the border with Cameroon, with phone services cut off and travel strongly discouraged, this poor corner of Nigeria is no stranger to such brazen, violent acts.</sentence>
+      <sentence id="20" ids_highlights="3">Boko Haram-related violence killed 1,500 in the first three months of this year alone.</sentence>
+      <sentence id="46" ids_highlights="4">But the latest incident has ratcheted up the pressure on the military.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content> The heavily armed militants stormed the girls dormitory in the middle of the night, herding more than 200 students on to vehicles and burning down nearby buildings as they made their escape.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>That was a week ago Monday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Of the 230 students abducted from the Government Girls Secondary School in the Nigerian town of Chibok, about 190 are still missing, one official said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>The number of girls taken from the school has been revised by officials several times, and on Monday, CNN spoke with Principal Asabe Kwambura, who said a new figure of at least 230 was determined after reviewing records and taking reports from parents.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>Isa Umar Gusau, a spokesman for the Borno provincial governor&amp;apost;s office, put the number at 234 -- 129 science students and 105 art students.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>He said in a written statement that the confusion resulted because the art students didn&amp;apost;t leave campus as expected on the day of the attack.</content>
+        </sentence>
+        <sentence id="7">
+          <content>The head of the dormitory initially didn&amp;apost;t count them among the missing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>No one knows where the missing girls are.</content>
+        </sentence>
+        <sentence id="9">
+          <content>And even more surprising, no one&amp;apost;s particularly shocked.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;All the community are sympathizing with the parents,&amp;quot; Kwambura told CNN earlier.</content>
+        </sentence>
+        <sentence id="11">
+          <content>But, she said, &amp;quot;the people in the villages are not surprised.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>Such is life in the lawless Borno province.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>Tucked away near the border with Cameroon, with phone services cut off and travel strongly discouraged, this poor corner of Nigeria is no stranger to such brazen, violent acts.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>For 11 months, the provinces of Borno, Yobe and Adamawa have been under a state of emergency due to relentless assaults blamed on Boko Haram.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>The Islamist militant group has bombed churches and mosques; kidnapped women and children; and assassinated politicians and religious leaders.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="16">
+          <content>Boko Haram -- whose name means &amp;quot;Western education is sin&amp;quot; in the local Hausa language -- says it wants to impose a stricter enforcement of Sharia law across Africa&amp;apost;s most populous nation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="17">
+          <content>The group has gone about its misguided mission with such depressing regularity that residents have become somewhat numb.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="18">
+          <content>Where&amp;apost;s the president?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="19">
+          <content>Nigerians marvel that U.S. President Barack Obama traveled to Massachusetts after the Boston Marathon bombings that killed three people last year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="20">
+          <content>Boko Haram-related violence killed 1,500 in the first three months of this year alone.</content>
+        </sentence>
+        <sentence id="21">
+          <content>And yet, Nigerian President Goodluck Jonathan has not visited the region recently.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="22">
+          <content>Part of it may have to do with geographic divisions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="23">
+          <content>Jonathan is from the predominantly Christian south.</content>
+        </sentence>
+        <sentence id="24">
+          <content>That&amp;apost;s not just geographically distant but also culturally different from the Muslim-dominated, violence-wracked north.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="25">
+          <content>To put things in perspective, none of Jonathan&amp;apost;s major political rivals from the north attended his inauguration in 2011.</content>
+        </sentence>
+        <sentence id="26">
+          <content>And widespread violence broke out in the north when his presidential win was announced, with some residents claiming the election was rigged.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="27">
+          <content>It&amp;apost;s the opposite of what happened with Jonathan&amp;apost;s predecessor.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="28">
+          <content>The previous president, Umaru Yar&amp;apost;Adua, was from the north.</content>
+        </sentence>
+        <sentence id="29">
+          <content>During his tenure, violence ravaged the country&amp;apost;s oil-rich, southern Niger Delta, with militant groups saying they wanted a fairer distribution of the region&amp;apost;s oil wealth.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="30">
+          <content>Where&amp;apost;s the military?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="31">
+          <content>The Nigerian military has been engaged in a brutal, ever-escalating fight with Boko Haram.</content>
+        </sentence>
+        <sentence id="32">
+          <content>Rights group accuse both sides of ruthlessness -- Boko Haram of indiscriminate attacks, and the military of extrajudicial killings.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="33">
+          <content>But when it comes to the abductions of girls -- and there have been many -- the military has had a difficult time.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="34">
+          <content>Last week, the defense ministry erroneously reported that all but eight of the girls from the latest kidnapping were free.</content>
+        </sentence>
+        <sentence id="35">
+          <content>It retracted a day later.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="36">
+          <content>Lawan Zanna, the father of one of the students, said the government turned from using &amp;quot;blatant propaganda&amp;quot; to making a &amp;quot;blatant lie.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="37">
+          <content>Part of the reason the military is loath to respond mightily may be because the girls who are kidnapped are raped, forced into servitude -- but rarely killed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="38">
+          <content>In February, 29 college students in the northern Yobe province were killed after an attack authorities blamed on Boko Haram.</content>
+        </sentence>
+        <sentence id="39">
+          <content>All of them were males.</content>
+        </sentence>
+        <sentence id="40">
+          <content>The women were spared.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="41">
+          <content>In other instances, kidnapped girls were later rescued while working on farms.</content>
+        </sentence>
+        <sentence id="42">
+          <content>Many were pregnant or had babies -- the result of rape.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="43">
+          <content>The spate of kidnappings began in May 2013 when Boko Haram leader Abubakar Shekau announced in a video that this was part of its latest bloody campaign.</content>
+        </sentence>
+        <sentence id="44">
+          <content>The kidnappings, he said, were retaliation for Nigerian security forces nabbing the wives and children of group members.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="45">
+          <content>Those kidnapped, he said, would begin a new life as a &amp;quot;servant.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="46">
+          <content>But the latest incident has ratcheted up the pressure on the military.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="34">
+      <sentences>
+        <sentence id="47">
+          <content>The military said &amp;quot;ongoing, frantic efforts&amp;quot; of security forces, vigilante groups and hunters are attempting to find and free the students.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="35">
+      <sentences>
+        <sentence id="48">
+          <content>But a week later, the fate of 190 girls remain unknown.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2126" link="http://edition.cnn.com/2014/08/19/world/asia/china-divorce-restriction-xian/index.html" date_published="2014-08-19 07:23:24" category="world" author="Steven Jiang, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Chinese officials: Want a divorce? Come back tomorrow</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">A city district in northwestern China has been limiting divorce filings to 15 a day.</sentence>
+      <sentence id="2" ids_article_sentences="6">Officials say the unconventional limit is aimed at stopping &amp;quot;impulsive divorces&amp;quot;.</sentence>
+      <sentence id="3" ids_article_sentences="4">Their actions have become a hot topic nationwide after a couple complained.</sentence>
+      <sentence id="4" ids_article_sentences="10">Government figures show divorce rates have soared in China in recent years.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-13 14:15:38" annotation_time="81.391">
+      <sentence id="2" ids_highlights="1">Since March 2012, the civil affairs bureau in Chang&amp;apost;an District of Xi&amp;apost;an City -- an urban area with more than 1 million residents -- has limited the number of divorce filings to no more than 15 a day.</sentence>
+      <sentence id="4" ids_highlights="3">This little-known local rule became a hot topic nationwide last week after a divorcing couple failed to obtain a slot and complained to state media.</sentence>
+      <sentence id="6" ids_highlights="2">&amp;quot;It&amp;apost;s aimed at saving families from impulsive divorces,&amp;quot; Lin Wenhui, head of marriage registration at the Chang&amp;apost;an civil affairs bureau, told state media.</sentence>
+      <sentence id="10" ids_highlights="4">Still, government statistics show divorce rates in China have soared in recent years.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Beijing Getting divorced is never an easy thing, but a city district in northwestern China wants to make it just a bit harder.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Since March 2012, the civil affairs bureau in Chang&amp;apost;an District of Xi&amp;apost;an City -- an urban area with more than 1 million residents -- has limited the number of divorce filings to no more than 15 a day.</content>
+        </sentence>
+        <sentence id="3">
+          <content>Couples eager to part ways but arriving too late are told to return together the next day.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>This little-known local rule became a hot topic nationwide last week after a divorcing couple failed to obtain a slot and complained to state media.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Amid a barrage of criticisms of a wrongheaded government agency interfering with civil liberties, officials defended their &amp;quot;well-intentioned&amp;quot; system.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;It&amp;apost;s aimed at saving families from impulsive divorces,&amp;quot; Lin Wenhui, head of marriage registration at the Chang&amp;apost;an civil affairs bureau, told state media.</content>
+        </sentence>
+        <sentence id="7">
+          <content>&amp;quot;Some couples, even after getting a slot, eventually decided not to file for divorce after having some time to calm down and think it through.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>Chang&amp;apost;an isn&amp;apost;t the only local government facing accusations of being overzealous in its effort to save marriages.</content>
+        </sentence>
+        <sentence id="9">
+          <content>In February, civil affairs officials in Xuzhou -- a city of 9 million people in eastern China -- stirred heated debate for deciding not to accept any divorce filings on Valentine&amp;apost;s Day.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>Still, government statistics show divorce rates in China have soared in recent years.</content>
+        </sentence>
+        <sentence id="11">
+          <content>Last year, Xi&amp;apost;an -- where Chang&amp;apost;an District is located -- saw 17,670 couples go their separate ways amicably, while the number of divorces nationwide shot up to 3.5 million.</content>
+        </sentence>
+        <sentence id="12">
+          <content>Both figures represented an increase of more than 10% over 2012.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>Experts seem divided on the root causes.</content>
+        </sentence>
+        <sentence id="14">
+          <content>Some have pointed to a government report that says a quarter of married Chinese women have suffered various forms of domestic violence.</content>
+        </sentence>
+        <sentence id="15">
+          <content>Others have even referred to numerous news articles on couples &amp;quot;fake-divorcing&amp;quot; to skirt restrictions on the number of houses a family can legally buy in major cities.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="16">
+          <content>Since its 15-slots-per-day rule went into effect, Chang&amp;apost;an has bucked the trend and witnessed a decline in the number of divorce filings two years in a row.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="17">
+          <content>While admitting the measure&amp;apost;s limited impact in wider society, officials remain unapologetic for trying to preserve the sanctity of marriage.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;Every family we save counts for something,&amp;quot; Lin, the marriage registration chief in Chang&amp;apost;an, was quoted by state media as saying.</content>
+        </sentence>
+        <sentence id="19">
+          <content>&amp;quot;As the saying goes, one would rather tear down ten temples than destroying one marriage.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="288" link="http://www.cnn.com/2014/02/04/health/how-heroin-kills/index.html" category="health" author="Jen Christensen, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>How heroin kills you, or someone like Philip Seymour Hoffman</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="25">Most people who die from heroin overdoses stop breathing.</sentence>
+      <sentence id="2" ids_article_sentences="31, 37, 33">Heroin use can also cause heart problems and kidney failure.</sentence>
+      <sentence id="3" ids_article_sentences="46, 45, 50">Heroin fatalities are most often long-term users, single men who die at home.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-09-08 13:39:31" annotation_time="131.472">
+      <sentence id="25" ids_highlights="1">Most people die from heroin overdoses when their bodies forget to breathe.</sentence>
+      <sentence id="31" ids_highlights="2">Heroin use can also cause an arrhythmia -- a problem with the rate or rhythm of the heartbeat.</sentence>
+      <sentence id="33" ids_highlights="2">Heroin use can also cause pulmonary edema.</sentence>
+      <sentence id="37" ids_highlights="2">This too can give you a heart attack or lead to kidney failure.</sentence>
+      <sentence id="45" ids_highlights="3">Most fatalities involve men, particularly those who have struggled with other drugs or alcohol (he admitted to this in the past) and other drugs or alcohol are often present.</sentence>
+      <sentence id="46" ids_highlights="3">While many are single (Hoffman had a partner), most users die in their homes and/or in the company of another person.</sentence>
+      <sentence id="50" ids_highlights="3">In fact, long-term users who die from overdoses are likely to have heroin levels no higher than those who survive.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The autopsy results aren&amp;apost;t in yet, but police believe heroin played a role in the death of Academy Award winning actor Philip Seymour Hoffman -- if not the primary role.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Using heroin can kill you, but it may not be in the way you think.</content>
+        </sentence>
+        <sentence id="3">
+          <content>If Hoffman did die from using heroin, his death was atypical in some aspects.</content>
+        </sentence>
+        <sentence id="4">
+          <content>Here&amp;apost;s how heroin kills.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>The numbers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>Drug overdose deaths in the United States have risen steadily since 1970.</content>
+        </sentence>
+        <sentence id="7">
+          <content>Painkillers actually kill more Americans than heroin and cocaine combined, according to the Centers for Disease Control, but heroin is still one of the No. 1 killers of illegal drug users.</content>
+        </sentence>
+        <sentence id="8">
+          <content>Only one in 10 heroin overdoses ends in death.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="9">
+          <content>Overdose deaths from heroin have increased recently, and heroin use is also on the rise.</content>
+        </sentence>
+        <sentence id="10">
+          <content>In 2011, 4.2 million Americans over the age of 11 had tried heroin at least once, according to the National Institute on Drug Abuse.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="11">
+          <content>An estimated 23% of them will become addicts.</content>
+        </sentence>
+        <sentence id="12">
+          <content>And it&amp;apost;s addicts who die more frequently than new users, studies show.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="13">
+          <content>How heroin works?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="14">
+          <content>Heroin is most often mixed with water and injected.</content>
+        </sentence>
+        <sentence id="15">
+          <content>Injecting it minimizes the lag time between when the drug is taken and effects are felt -- with injection, the effects are almost immediate.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="16">
+          <content>It can also be smoked, snorted or eaten, but smoking or eating destroys some of the drug and mutes its effects.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="17">
+          <content>When someone takes heroin there is an immediate rush.</content>
+        </sentence>
+        <sentence id="18">
+          <content>Then the body feels an extreme form of relaxation and a decreased sense of pain.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="19">
+          <content>What&amp;apost;s happening inside the body is the heroin is turning into morphine.</content>
+        </sentence>
+        <sentence id="20">
+          <content>Morphine has a chemical structure similar to endorphins -- the chemicals your brain makes when you feel stressed out or are in pain.</content>
+        </sentence>
+        <sentence id="21">
+          <content>Endorphins inhibit your neurons from firing, so they halt pain and create a good feeling.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="22">
+          <content>Morphine, acting like your endorphins, binds to molecules in your brain called opioid receptors.</content>
+        </sentence>
+        <sentence id="23">
+          <content>When those receptors are blocked, that creates a high.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="24">
+          <content>Why you die?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="25">
+          <content>Most people die from heroin overdoses when their bodies forget to breathe.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="26">
+          <content>&amp;quot;Heroin makes someone calm and a little bit sleepy, but if you take too much then you can fall asleep, and when you are asleep your respiratory drive shuts down,&amp;quot; said Dr. Karen Drexler, director of the addiction psychiatry residency training program and an associate professor in Emory University&amp;apost;s psychiatry and behavioral sciences department.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="27">
+          <content>&amp;quot;Usually when you are sleeping, your body naturally remembers to breathe.</content>
+        </sentence>
+        <sentence id="28">
+          <content>In the case of a heroin overdose, you fall asleep and essentially your body forgets.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="29">
+          <content>A heroin overdose can also cause your blood pressure to dip significantly and cause your heart to fail.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="30">
+          <content>Studies show intravenous heroin users are 300 times more likely to die from infectious endocarditis, an infection of the surface of the heart.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="31">
+          <content>Heroin use can also cause an arrhythmia -- a problem with the rate or rhythm of the heartbeat.</content>
+        </sentence>
+        <sentence id="32">
+          <content>During an arrhythmia, the heart may not be able to pump enough blood to the body, and lack of blood flow affects your brain, heart and other organs.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="33">
+          <content>Heroin use can also cause pulmonary edema.</content>
+        </sentence>
+        <sentence id="34">
+          <content>That&amp;apost;s when the heart can&amp;apost;t pump blood to the body well.</content>
+        </sentence>
+        <sentence id="35">
+          <content>The blood can back up into your veins, taking that blood through your lungs and to the left side of the heart.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="36">
+          <content>As pressure in the blood vessels increases and fluid goes into the alveoli, the air spaces in the lungs, this reduces the normal flow of oxygen through your lungs, making it hard to breathe.</content>
+        </sentence>
+        <sentence id="37">
+          <content>This too can give you a heart attack or lead to kidney failure.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="38">
+          <content>Heroin can also come with other toxic contaminants that can harm a user -- although deaths from such instances, while not unheard of, are thought to be rare.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="39">
+          <content>Studies suggest instantaneous death -- like what may have happened in Hoffman&amp;apost;s case -- is unusual.</content>
+        </sentence>
+        <sentence id="40">
+          <content>The actor was found dead on his bathroom floor with a needle sticking out of his left arm, authorities have said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="41">
+          <content>Such deaths, where a needle and syringe are still in place, would be considered instant by scientists.</content>
+        </sentence>
+        <sentence id="42">
+          <content>One study showed this accounts for only 14% of heroin-related deaths.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="43">
+          <content>Heroin deaths increase when...</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="44">
+          <content>There are some common social characteristics in heroin deaths that would make Hoffman more of a typical case.</content>
+        </sentence>
+        <sentence id="45">
+          <content>Most fatalities involve men, particularly those who have struggled with other drugs or alcohol (he admitted to this in the past) and other drugs or alcohol are often present.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="46">
+          <content>While many are single (Hoffman had a partner), most users die in their homes and/or in the company of another person.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="47">
+          <content>An addict does have a much higher chance of dying if he or she leaves treatment.</content>
+        </sentence>
+        <sentence id="48">
+          <content>The risk of death is higher for newly clean heroin addicts.</content>
+        </sentence>
+        <sentence id="49">
+          <content>A number of fatalities appear to happen after periods of reduced use, one 2000 study showed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="50">
+          <content>In fact, long-term users who die from overdoses are likely to have heroin levels no higher than those who survive.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="51">
+          <content>That may be in part because those who are newly clean don&amp;apost;t know how much of the drug to give themselves any more, Drexler said.</content>
+        </sentence>
+        <sentence id="52">
+          <content>They won&amp;apost;t need the same amount to get high as when they were using more regularly.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="53">
+          <content>There are also some studies that show tolerance to the respiratory depressive effects of opiates increases at a slower rate than tolerance to the euphoric and analgesic effects.</content>
+        </sentence>
+        <sentence id="54">
+          <content>As your tolerance to the drug develops, you typically need more of it to produce the high you are used to getting.</content>
+        </sentence>
+        <sentence id="55">
+          <content>This may be why long-term users are potentially at greater risk of overdose than novices.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="56">
+          <content>Statistics suggest that newer heroin users aren&amp;apost;t the ones most likely to die.</content>
+        </sentence>
+        <sentence id="57">
+          <content>One study showed only 17% of the deaths studied were in new heroin users.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="58">
+          <content>However, Drexler said newer users can overdose because they don&amp;apost;t know how much drug to take, compared to experienced users.</content>
+        </sentence>
+        <sentence id="59">
+          <content>&amp;quot;I think it is misleading to say you would not die if you only use it once or twice,&amp;quot; she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="34">
+      <sentences>
+        <sentence id="60">
+          <content>A person&amp;apost;s chances of dying from heroin use increase dramatically after 20 years of use.</content>
+        </sentence>
+        <sentence id="61">
+          <content>Studies show that after 30 years of use, 16% of heroin users have died, compared with 6.5% of cocaine users and 1.5% of meth users.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

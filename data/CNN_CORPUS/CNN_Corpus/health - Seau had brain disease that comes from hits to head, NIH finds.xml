@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="354" link="http://www.cnn.com/2013/01/10/health/seau-brain-disease" date_published="2013-01-10 18:21:58" category="health" author="Nadia Kounang and Stephanie Smith, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Seau had brain disease that comes from hits to head, NIH finds</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="4">NEW: Seau&amp;apost;s family is &amp;quot;deeply saddened to receive confirmation&amp;quot; of his condition.</sentence>
+      <sentence id="2" ids_article_sentences="7">Seau took his own life in May; his family donated his brain for research.</sentence>
+      <sentence id="3" ids_article_sentences="7">The National Institutes of Health says the brain shows signs of CTE.</sentence>
+      <sentence id="4" ids_article_sentences="25">Seau was one of several high-profile NFL players to take their own lives.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-19 09:45:13" annotation_time="54.339">
+      <sentence id="4" ids_highlights="1">In a statement issued Thursday, Seau&amp;apost;s family said, &amp;quot;While the NIH&amp;apost;s findings have provided a measure of comfort, we remain heartbroken that Junior is no longer with us, and are deeply saddened to receive confirmation that he suffered from such a debilitating condition.</sentence>
+      <sentence id="7" ids_highlights="2, 3">Seau&amp;apost;s family donated his brain to the National Institutes of Health for research, and Thursday the NIH released a statement saying &amp;quot;abnormalities were found that are consistent with a form of (CTE).&amp;quot;</sentence>
+      <sentence id="25" ids_highlights="4">Seau was one of a string of high-profile NFL players -- along with Dave Duerson, Shane Dronett and Shane Easterling -- who took their own lives and were later diagnosed with CTE.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Star NFL linebacker Junior Seau -- just 43 years old when he took his own life last May -- suffered from chronic traumatic encephalopathy, a neurodegenerative brain disease that can follow multiple hits to the head, the National Institutes of Health said Thursday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Questions of CTE came up immediately after Seau&amp;apost;s body was found, with a handgun nearby, in the bedroom of his home in Oceanside, California.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>CTE can result in Alzheimer&amp;apost;s-like symptoms such as dementia, memory loss, aggression and depression, but it can be diagnosed only after death.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>In a statement issued Thursday, Seau&amp;apost;s family said, &amp;quot;While the NIH&amp;apost;s findings have provided a measure of comfort, we remain heartbroken that Junior is no longer with us, and are deeply saddened to receive confirmation that he suffered from such a debilitating condition.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>&amp;quot;Junior was a loving father, teammate and committed member of his community,&amp;quot; the statement continued.</content>
+        </sentence>
+        <sentence id="6">
+          <content>&amp;quot;That is how we will always remember him.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>Seau&amp;apost;s family donated his brain to the National Institutes of Health for research, and Thursday the NIH released a statement saying &amp;quot;abnormalities were found that are consistent with a form of (CTE).&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>According to the pathology report from the NIH, five researchers -- two NIH neuropathologists and three independent experts -- examined slides of Seau&amp;apost;s brain and all confirmed that there were signs consistent with CTE.</content>
+        </sentence>
+        <sentence id="9">
+          <content>None of the researchers was aware of the identity of the brain when initially looking at it.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>In a recent study, researchers found CTE in 34 of 35 deceased NFL players whose brains were donated by family members.</content>
+        </sentence>
+        <sentence id="11">
+          <content>Dr. Ann McKee, the director of neuropathology at VA Boston and a co-author of that study, says the CTE diagnosis in the Seau case was not unexpected.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;From what I&amp;apost;ve read about the symptoms (Seau) was experiencing the last couple of years -- the ones relayed by the family -- it is not surprising to me that he had this disease,&amp;quot; said McKee, who was not involved in the Seau case.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>&amp;quot;It doesn&amp;apost;t sound like it was early CTE, that it was becoming quite widespread in the brain.</content>
+        </sentence>
+        <sentence id="14">
+          <content>And he was young at the time of death.</content>
+        </sentence>
+        <sentence id="15">
+          <content>It is another sad day to see another fairly well-established case of CTE.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>A brain with CTE is riddled with dense clumps of a protein called tau.</content>
+        </sentence>
+        <sentence id="17">
+          <content>Under a microscope, tau appears as brown tangles similar to dementia.</content>
+        </sentence>
+        <sentence id="18">
+          <content>However, the Boston study showed this progressive, tau protein array in football players much too young for a dementia diagnosis, which typically occurs in people in their 70s or 80s.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="19">
+          <content>What may be a surprise to some is that Seau was never diagnosed with a concussion in all the years he played football.</content>
+        </sentence>
+        <sentence id="20">
+          <content>That points to the bigger mysteries of the disease that scientists such as Dr. Julian Bailes, the co-director of the NorthShore Neurological Institute, hope to someday solve.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="21">
+          <content>&amp;quot;It is not unprecedented that he didn&amp;apost;t have a concussion history.</content>
+        </sentence>
+        <sentence id="22">
+          <content>That&amp;apost;s part of the problem in figuring this out,&amp;quot; Bailes said.</content>
+        </sentence>
+        <sentence id="23">
+          <content>&amp;quot;It seemed logical at first that it would be people with multiple concussions that would be at risk of CTE.</content>
+        </sentence>
+        <sentence id="24">
+          <content>As we&amp;apost;ve learned more, it was surprising that some of those at risk for CTE were players who did not have a history of concussion.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="25">
+          <content>Seau was one of a string of high-profile NFL players -- along with Dave Duerson, Shane Dronett and Shane Easterling -- who took their own lives and were later diagnosed with CTE.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="26">
+          <content>Not everyone who is exposed to repeated head trauma would develop the disease, experts say.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="27">
+          <content>&amp;quot;Based on what we know thus far, I think we have to assume that the No.1 risk factor we have is the degree or extent of exposure,&amp;quot; Bailes said.</content>
+        </sentence>
+        <sentence id="28">
+          <content>&amp;quot;And if anyone had high exposure, if there was anyone you&amp;apost;d worry about, it&amp;apost;d be Junior Seau.</content>
+        </sentence>
+        <sentence id="29">
+          <content>He played for 30 years.</content>
+        </sentence>
+        <sentence id="30">
+          <content>He played youth football, college football, for 20 years in the NFL.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="31">
+          <content>The National Football League responded to the announcement of Seau&amp;apost;s diagnosis with a statement saying, &amp;quot;We appreciate the Seau family&amp;apost;s cooperation with the National Institutes of Health.</content>
+        </sentence>
+        <sentence id="32">
+          <content>The finding underscores the recognized need for additional research to accelerate a fuller understanding of CTE.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="33">
+          <content>The NFL Player&amp;apost;s Association issued a statement calling on Congress to review the issues of health and safety in football, mentioning the $100 million it set aside of player funds for medical research during the term of the current collective bargaining agreement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="34">
+          <content>The NFLPA also said it has asked the league for independent sideline concussion experts, the certification and credentialing of professional football medical staff and better worker&amp;apost;s compensation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="35">
+          <content>&amp;quot;The only way we can improve the safety of players, restore the confidence of our fans and secure the future of our game is to insist on the same quality of medical care, informed consent and ethical standards that we expect for ourselves and for our family members,&amp;quot; the statement said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

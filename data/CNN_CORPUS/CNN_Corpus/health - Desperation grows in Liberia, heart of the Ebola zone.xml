@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="219" link="http://www.cnn.com/2014/09/22/health/ebola-disease-liberia/index.html" date_published="2014-09-22 17:22:36" category="health" author="Elizabeth Cohen and Jen Christensen, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Desperation grows in Liberia, heart of the Ebola zone</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="25, 8">At least 1,578 people in Liberia have died from Ebola, according to the World Health Organization.</sentence>
+      <sentence id="2" ids_article_sentences="9">Liberia has seen a 52% of increases in cases in just the past three weeks. .</sentence>
+      <sentence id="3" ids_article_sentences="28">WHO says two of the countries at the heart of the epidemic have made progress .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-17 11:04:09" annotation_time="45.847">
+      <sentence id="8" ids_highlights="1">So far 1,578 people are believed to have died from Ebola in Liberia alone, according to the latest numbers from the World Health Organization.</sentence>
+      <sentence id="9" ids_highlights="2">The country has seen a 52% of increases in cases in just the past three weeks.</sentence>
+      <sentence id="25" ids_highlights="1">She had died from Ebola.</sentence>
+      <sentence id="28" ids_highlights="3">WHO said on Monday the overall death toll in the Ebola outbreak has risen to 2,803 in the five countries at the heart of the epidemic: Sierra Leone, Liberia, Guinea, Nigeria and Senegal.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>A young boy wanders through the high grass, looking lost after attending church services in Kakata, Liberia.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The child, Moses Kallie, wears a black T-shirt that&amp;apost;s too big for him.</content>
+        </sentence>
+        <sentence id="3">
+          <content>It reads &amp;quot;Trouble is my middle name.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Trouble has certainly come into his life.</content>
+        </sentence>
+        <sentence id="5">
+          <content>He&amp;apost;s lost 13 of his relatives recently -- his parents among them.</content>
+        </sentence>
+        <sentence id="6">
+          <content>They were all killed by Ebola.</content>
+        </sentence>
+        <sentence id="7">
+          <content>His village is a hotspot for the virus.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="8">
+          <content>So far 1,578 people are believed to have died from Ebola in Liberia alone, according to the latest numbers from the World Health Organization.</content>
+        </sentence>
+        <sentence id="9">
+          <content>The country has seen a 52% of increases in cases in just the past three weeks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="10">
+          <content>That&amp;apost;s in large part because there is little or no outside medical help for residents who get sick there.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="11">
+          <content>In Monrovia, the country&amp;apost;s crowded capital, doors to hospitals and clinics are shut tight, locked with thick padlocks.</content>
+        </sentence>
+        <sentence id="12">
+          <content>Many health care workers in West Africa have lost their lives due to the way the virus spreads -- through contact with bodily fluids from those who are infected.</content>
+        </sentence>
+        <sentence id="13">
+          <content>On Monday, the World Health Organization urged the affected countries to give health care workers both the adequate security and safety equipment they need, as well as appropriate education and training on infection control.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="14">
+          <content>A new Ebola clinic opened in Monrovia this week, but bodies lay on the ground outside its walls.</content>
+        </sentence>
+        <sentence id="15">
+          <content>Ambulances filled with Ebola patients, some that have traveled seven hours to get there, are not unloaded.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Without help to get them inside, the patients fall in the dirt, mere feet away from treatment.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="17">
+          <content>Without help, family members must care for these Ebola patients.</content>
+        </sentence>
+        <sentence id="18">
+          <content>And without the proper safety equipment, they too fall sick and Ebola continues to spread.</content>
+        </sentence>
+        <sentence id="19">
+          <content>The virus forces the local dead body management teams to work 12 hours a day, six days a week.</content>
+        </sentence>
+        <sentence id="20">
+          <content>All for a paycheck of $300 to $500 a month.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="21">
+          <content>Dressed from head to toe in white protective suits and thick goggles, the burial teams try to stay safe, but nothing can shield them from the unspeakable horrors they&amp;apost;ve seen when they make their regular rounds.</content>
+        </sentence>
+        <sentence id="22">
+          <content>On Friday, Kiyee described what he saw when he entered a home:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="23">
+          <content>&amp;quot;I took the key and opened the door and went in and saw a 6-month-old child licking on the mother&amp;apost;s skin,&amp;quot; said Kiyee.</content>
+        </sentence>
+        <sentence id="24">
+          <content>The mother was lying on her stomach.</content>
+        </sentence>
+        <sentence id="25">
+          <content>She had died from Ebola.</content>
+        </sentence>
+        <sentence id="26">
+          <content>The baby was searching for the mother&amp;apost;s milk.</content>
+        </sentence>
+        <sentence id="27">
+          <content>&amp;quot;Right away I started shedding tears.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="28">
+          <content>WHO said on Monday the overall death toll in the Ebola outbreak has risen to 2,803 in the five countries at the heart of the epidemic: Sierra Leone, Liberia, Guinea, Nigeria and Senegal.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="29">
+          <content>When people go out in public, they are encouraged to take whatever precautions they can.</content>
+        </sentence>
+        <sentence id="30">
+          <content>In Monrovia, people get their temperatures taken wherever they go -- at the grocery store, the office and at church.</content>
+        </sentence>
+        <sentence id="31">
+          <content>A fever is one of the early symptoms of the disease.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="32">
+          <content>At the little boy&amp;apost;s church in Kakata, the pastor is both practical and philosophical about Ebola.</content>
+        </sentence>
+        <sentence id="33">
+          <content>He has spent his career thinking deeply about death and what happens afterward.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="34">
+          <content>When his congregation asked the Rev. Victor King if he&amp;apost;s afraid of death he said &amp;quot;No,&amp;quot; but &amp;quot;I don&amp;apost;t want to die from Ebola.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="35">
+          <content>At his church, he&amp;apost;s called off the part of the service where congregation members shake hands.</content>
+        </sentence>
+        <sentence id="36">
+          <content>He tells them not to hug when they see each other, and no one takes communion wine from the same chalice any more.</content>
+        </sentence>
+        <sentence id="37">
+          <content>Many in his congregation were at first displeased when he ended that practice, he said.</content>
+        </sentence>
+        <sentence id="38">
+          <content>Communion is the high point of the church service and it is central to their tradition of worship.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="39">
+          <content>But he believes the congregation, like many in Liberia, are starting to better understand the disease and how it spreads.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="40">
+          <content>After services, the congregation files out the door and stops at a container the pastor has placed right outside.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="41">
+          <content>The container looks like it should hold a sports drink.</content>
+        </sentence>
+        <sentence id="42">
+          <content>Instead, it contains bleach for them to wash their hands.</content>
+        </sentence>
+        <sentence id="43">
+          <content>To a person the congregation stops and takes their time to wash up thoroughly.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="44">
+          <content>Anthony Kallah, a teacher, is one of them.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="45">
+          <content>&amp;quot;We are all afraid,&amp;quot; Kallah said.</content>
+        </sentence>
+        <sentence id="46">
+          <content>&amp;quot;This is a threatening disease.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

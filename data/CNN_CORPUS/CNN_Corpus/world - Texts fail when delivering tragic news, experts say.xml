@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2821" link="http://www.cnn.com/2014/03/25/world/asia/malaysia-airlines-text/index.html" date_published="2014-03-25 16:22:25" category="world" author="Steve Almasy, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Texts fail when delivering tragic news, experts say</title>
+  <keywords>Malaysia Airlines missing plane,Missing Flight MH370,Malaysia Airlines text message</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="12, 11">Airline says it sent text as part of its efforts to notify families before media reported the news.</sentence>
+      <sentence id="2" ids_article_sentences="24, 23">Communications experts say every person should have been contacted personally.</sentence>
+      <sentence id="3" ids_article_sentences="19, 18">Texts don&amp;apost;t allow for interaction, one expert says; another adds it lacks warmth of human voice.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-01 16:03:46" annotation_time="77.683" mapping_time_divergence="77.683">
+      <sentence id="11" ids_highlights="1">Malaysia Airlines said the text messages were sent after other attempts to reach the victims&amp;apost; relatives.</sentence>
+      <sentence id="12" ids_highlights="1">&amp;quot;Wherever humanly possible, we did so in person with the families or by telephone, using SMS only as an additional means of ensuring fully that the nearly 1,000 family members heard the news from us and not from the media,&amp;quot; Malaysia Airlines CEO Ahmad Jauhari Yahya said, adding that they had little time to deliver the news before it was known to the world.</sentence>
+      <sentence id="18" ids_highlights="3">Texts lack warmth, empathy.</sentence>
+      <sentence id="19" ids_highlights="3">Doing so was &amp;quot;insensitive, inappropriate and very unproductive in attempting to resurrect your image and credibility,&amp;quot; aviation law expert and crisis consultant Robert Alpert Sr. said.</sentence>
+      <sentence id="23" ids_highlights="2">You warn people of an emergency via text message; you don&amp;apost;t tell them their loved ones have died via text.&amp;quot;</sentence>
+      <sentence id="24" ids_highlights="2">Paul Levinson, a professor at Fordham, agreed and added that a text is cold compared with &amp;quot;the warmth of a human voice.&amp;quot;</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>For weeks, families of the passengers aboard Malaysia Airlines Flight 370 endured an agonizing wait -- desperate for word of the fate of their loved ones.</content>
+        </sentence>
+        <sentence id="2">
+          <content>But when the first piece of definitive news finally arrived, for some of them it came not from a personal phone call or meeting, but a text message.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;Malaysia Airlines deeply regrets that we have to assume beyond any reasonable doubt that MH370 has been lost and that none of those on board survived.</content>
+        </sentence>
+        <sentence id="4">
+          <content>As you will hear in the next hour from Malaysia&amp;apost;s Prime Minster we must now accept all evidence suggests the plane went down in the southern Indian Ocean,&amp;quot; it read in English.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>The CEO of the airlines said it was the best way to reach the family members who Malaysia Airlines didn&amp;apost;t reach by phone or talk to in person.</content>
+        </sentence>
+        <sentence id="6">
+          <content>But to many communications experts it was a cold and distant way for someone to find out their relative was dead.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>The partner of missing passenger Philip Wood told reporters by e-mail that she received a text message just minutes before a Monday news conference in which Malaysian Prime Minister Najib Razak delivered the news that the last known position of the plane was in the middle of the ocean with no place to land but the water.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>Sarah Bajc said in her e-mail the announcement didn&amp;apost;t bring closure, because there was no mention of debris confirmed to be from the plane.</content>
+        </sentence>
+        <sentence id="9">
+          <content>She didn&amp;apost;t say in her message whether she was put off by finding out by text; instead she was focused on taking some time to grieve.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>Other methods.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>Malaysia Airlines said the text messages were sent after other attempts to reach the victims&amp;apost; relatives.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;Wherever humanly possible, we did so in person with the families or by telephone, using SMS only as an additional means of ensuring fully that the nearly 1,000 family members heard the news from us and not from the media,&amp;quot; Malaysia Airlines CEO Ahmad Jauhari Yahya said, adding that they had little time to deliver the news before it was known to the world.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>For the past 16 days, the families have been begging officials for more news about what happened to the plane and the 239 people on board.</content>
+        </sentence>
+        <sentence id="14">
+          <content>They&amp;apost;ve been critical of how slowly some of it was disseminated.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>CNN&amp;apost;s Sara Sidner, at a hotel in Kuala Lumpur where many relatives of the victims had gathered Monday, said the grieving families were upset but didn&amp;apost;t care how the message was delivered.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;At this point they don&amp;apost;t really care how the information got to them, they care that they were briefed, they care that they now know something more about what might have happened to their family members,&amp;quot; she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>Still, it appears some family members were notified initially by text, something many public relations experts said was another communications misstep for the airline.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="18">
+          <content>Texts lack warmth, empathy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="19">
+          <content>Doing so was &amp;quot;insensitive, inappropriate and very unproductive in attempting to resurrect your image and credibility,&amp;quot; aviation law expert and crisis consultant Robert Alpert Sr. said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="20">
+          <content>A La Salle University communications professor said it still probably wasn&amp;apost;t the right medium to use.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="21">
+          <content>&amp;quot;Whether a text message should be used at all in this situation is debatable,&amp;quot; said Michael Smith.</content>
+        </sentence>
+        <sentence id="22">
+          <content>&amp;quot;Until all the families are personally notified, it seems an insensitive way to communicate this news.</content>
+        </sentence>
+        <sentence id="23">
+          <content>You warn people of an emergency via text message; you don&amp;apost;t tell them their loved ones have died via text.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="24">
+          <content>Paul Levinson, a professor at Fordham, agreed and added that a text is cold compared with &amp;quot;the warmth of a human voice.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="25">
+          <content>As Judith Glaser, the CEO of Benchmark Communications, put it, Malaysia Airlines is responsible for the people on the plane, and as such it needs to actively help people handle the most difficult situation of their lives.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="26">
+          <content>&amp;quot;People need to have an empathetic ear,&amp;quot; she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="27">
+          <content>Rush to deliver news?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="28">
+          <content>There are several basic things to consider in how to best send a message, said Tammy R. Vigil, an assistant professor of communication at Boston University.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="29">
+          <content>How serious is it?</content>
+        </sentence>
+        <sentence id="30">
+          <content>How important is it?</content>
+        </sentence>
+        <sentence id="31">
+          <content>How timely is it?</content>
+        </sentence>
+        <sentence id="32">
+          <content>The context of the message (will this be the first word someone gets) is another factor in choosing the medium.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="33">
+          <content>She said the medium always affects how the message -- and the messenger -- are viewed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="34">
+          <content>Psychologist Erik Fisher told CNN that he thinks officials didn&amp;apost;t think through the emotional impact of the text, instead being too concerned with getting the news to the families quickly.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="35">
+          <content>&amp;quot;Processing a text that ... confirms that your loved one is lost is painful,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="36">
+          <content>Mark W. Tatge, a professor at DePauw University&amp;apost;s Center for Contemporary Media, wrote in an e-mail that he thinks the text message is symptomatic of a breakdown in the way society communicates.</content>
+        </sentence>
+        <sentence id="37">
+          <content>It is cheap, fast and efficient, but there&amp;apost;s no emotion from either sender or recipient.</content>
+        </sentence>
+        <sentence id="38">
+          <content>Interaction is absent.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="39">
+          <content>&amp;quot;We don&amp;apost;t receive or see pained facial expressions,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="40">
+          <content>&amp;quot;There is no uncomfortable body language that we can process and therefore alter the course of our communication message.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="41">
+          <content>The experts were in consensus that the impersonal and imprecise nature of a short text is best saved for alerting families to attend a meeting or call for more information.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

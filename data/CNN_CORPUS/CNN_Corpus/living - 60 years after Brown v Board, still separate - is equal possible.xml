@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="669" link="http://www.cnn.com/2014/05/16/living/brown-v-board-60th-anniversary-spelman-identity/index.html?iid=article_sidebar" date_published="2014-05-16 22:59:32" category="living" author="Beverly Daniel Tatum, Special to CNN " highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>60 years after Brown v. Board, still separate - is equal possible?</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="12, 1">The 60th anniversary of Brown v. Board of Education is May 17, 2014.</sentence>
+      <sentence id="2" ids_article_sentences="15">The Supreme Court case desegregated public schools.</sentence>
+      <sentence id="3" ids_article_sentences="12">Public schools are again segregating along racial lines.</sentence>
+      <sentence id="4" ids_article_sentences="34">Spelman College president: We fail to address school segregation at &amp;quot;our own peril&amp;quot;.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-09-22 15:29:13" annotation_time="220.47101" mapping_time_divergence="55.117752">
+      <sentence id="1" ids_highlights="1">I was born in Tallahassee, Florida, in 1954, the year of the landmark school desegregation case, Brown v. Board of Education.</sentence>
+      <sentence id="12" ids_highlights="1, 3">But 60 years after racial segregation was outlawed in schools, public education is again segregating along racial lines.</sentence>
+      <sentence id="15" ids_highlights="2">This is the result of continued patterns of residential segregation, and a series of Supreme Court decisions that have quietly undermined the implementation of Brown through a shift away from court-ordered busing and other mandated desegregation strategies.</sentence>
+      <sentence id="34" ids_highlights="4">Yet we fail to do it at our own peril.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>I was born in Tallahassee, Florida, in 1954, the year of the landmark school desegregation case, Brown v. Board of Education.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The struggle for integration has shaped my life from the very beginning.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>When my father, an art professor at Florida A&amp;amp;M University, sought to pursue his doctorate in art education at Florida State University, the state of Florida chose to pay his transportation to Penn State rather than open its doors to an African-American graduate student.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>In 1957, he completed his degree at Penn State, and in 1958 became the first African-American professor at Bridgewater State College, now Bridgewater State University, in Massachusetts, where I grew up.</content>
+        </sentence>
+        <sentence id="5">
+          <content>My parents were part of the great migration, moving to the North to escape segregation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>They achieved their goal.</content>
+        </sentence>
+        <sentence id="7">
+          <content>My three siblings and I attended predominantly white public schools in our small Massachusetts town without protest or high court drama, and graduated well-prepared for the colleges we all attended.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>Forty-four years later, in 2002, my husband and I left Massachusetts and returned to the South -- initiating our family&amp;apost;s reverse migration.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>Eventually our sons, and even my parents, moved to Atlanta, too.</content>
+        </sentence>
+        <sentence id="10">
+          <content>They returned to a region very different than the one they remembered.</content>
+        </sentence>
+        <sentence id="11">
+          <content>Fifty years after the passage of the Civil Rights Act of 1964, their choice of housing and their freedom of movement are unencumbered by race.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>But 60 years after racial segregation was outlawed in schools, public education is again segregating along racial lines.</content>
+        </sentence>
+        <sentence id="13">
+          <content>And not just in the South, but across the United States.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>Schools are more segregated today than in the 1980s, according to a new report released by researchers at UCLA&amp;apost;s Civil Rights Project, &amp;quot;Brown at 60: Great Progress, a Long Retreat and Uncertain Future.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>This is the result of continued patterns of residential segregation, and a series of Supreme Court decisions that have quietly undermined the implementation of Brown through a shift away from court-ordered busing and other mandated desegregation strategies.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>As school districts move back to &amp;quot;neighborhood school&amp;quot; policies, white students will likely have less school contact with people of color than their parents had.</content>
+        </sentence>
+        <sentence id="17">
+          <content>Particularly for young white children, interaction with people of color is likely to be a virtual reality rather than an actual one, with media images (often negative ones) most clearly shaping their attitudes and perceived knowledge of communities of color.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="18">
+          <content>For students of color, the return to segregation means the increased likelihood of attending a school with limited resources.</content>
+        </sentence>
+        <sentence id="19">
+          <content>Most highly segregated black and Latino schools have high percentages of poor children.</content>
+        </sentence>
+        <sentence id="20">
+          <content>At most highly segregated white schools, middle-class students are in the majority.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="21">
+          <content>The negative educational impact of attending high-poverty schools is well-documented.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="22">
+          <content>Whether a student comes from a poor or middle-income family, academic achievement is likely to decline if the student attends a high-poverty school.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="23">
+          <content>Conversely, academic performance is likely to improve if the student attends a middle-class school, even if his or her own family is poor.</content>
+        </sentence>
+        <sentence id="24">
+          <content>The learning conditions which are taken for granted in middle-class suburban schools are too often absent in impoverished classrooms.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="25">
+          <content>It is not surprising that the outcomes associated with high-poverty schools across the country are bleak: lower test scores, higher dropout rates, fewer course offerings and low levels of college attendance.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="26">
+          <content>If we remember that the original impetus for the Brown lawsuit was not simply a symbolic fight for the acknowledgment of the equality of all children, but a struggle for equal access to publicly funded educational resources, we can see that the struggle continues.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="27">
+          <content>So, what must we do?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="28">
+          <content>In particular, white children will need to be in schools that are intentional about helping them understand social justice issues like prejudice, discrimination and racism, empowering them to think critically about the stereotypes to which they are exposed in the culture.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="29">
+          <content>Such tools are needed to help them acquire the social skills necessary to function effectively in a diverse world, and are essential for continued progress in a society still struggling to disentangle the racism woven into the fabric of its founding.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="30">
+          <content>The hopeful news is that there are educators around the country working hard to create anti-racist classrooms and learning environments even when their classrooms are predominantly white.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="31">
+          <content>Children of color in under-resourced, racially isolated schools also need these same tools.</content>
+        </sentence>
+        <sentence id="32">
+          <content>But they will also require powerful advocates to insure that they have committed and well-trained teachers, a challenging curriculum and the educational resources needed to inspire their own striving for excellence.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="33">
+          <content>Providing these resources equitably is a daunting task, one that has never been accomplished in the history of education in the United States.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="34">
+          <content>Yet we fail to do it at our own peril.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="35">
+          <content>In 2014, the question we all must ask is: How do we build strong school communities where every student, regardless of race, is supported to achieve his or her personal best, and teach the skills needed to live in healthy, democratic society?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="36">
+          <content>When we can answer that question, the promise of Brown v. Board of Education will be fulfilled.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

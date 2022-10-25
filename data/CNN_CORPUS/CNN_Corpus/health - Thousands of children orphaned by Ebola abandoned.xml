@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="393" link="http://edition.cnn.com/2014/10/02/health/ebola-outbreak/index.html?iid=article_sidebar" date_published="2014-10-02 09:56:57" category="health" author="Faith Karimi, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Thousands of children orphaned by Ebola abandoned</title>
+  <keywords>Ebola</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">Ebola has orphaned about 3,700 children in Guinea, Liberia and Sierra Leone.</sentence>
+      <sentence id="2" ids_article_sentences="4">&amp;quot;The fear surrounding Ebola is becoming stronger than family ties,&amp;quot; a U.N. official says .</sentence>
+      <sentence id="3" ids_article_sentences="5">As Ebola infections skyrocket, experts fear the number of orphans could double this month .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-25 08:07:00" annotation_time="22.0015">
+      <sentence id="2" ids_highlights="1">About 3,700 children in Guinea, Liberia and Sierra Leone have lost one or both parents to the disease, according to U.N. child agency, UNICEF.</sentence>
+      <sentence id="4" ids_highlights="2">&amp;quot;Orphans are usually taken in by a member of the extended family, but in some communities, the fear surrounding Ebola is becoming stronger than family ties,&amp;quot; said Manuel Fontaine, UNICEF&amp;apost;s regional director.</sentence>
+      <sentence id="5" ids_highlights="3">With Ebola infections skyrocketing in recent weeks, the agency fears the number of orphans could double this month.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Ebola has orphaned thousands of children in West Africa, and relatives are terrified of taking them in for fear of infection, the United Nations said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>About 3,700 children in Guinea, Liberia and Sierra Leone have lost one or both parents to the disease, according to U.N. child agency, UNICEF.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>In addition to mourning the loss of caregivers in the three hardest-hit nations, the children feel abandoned and stigmatized.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>&amp;quot;Orphans are usually taken in by a member of the extended family, but in some communities, the fear surrounding Ebola is becoming stronger than family ties,&amp;quot; said Manuel Fontaine, UNICEF&amp;apost;s regional director.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>With Ebola infections skyrocketing in recent weeks, the agency fears the number of orphans could double this month.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>In the next few months, about 2,500 survivors will get lessons on providing care to children quarantined in treatment centers.</content>
+        </sentence>
+        <sentence id="7">
+          <content>Ebola survivors are considered immune to the disease.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;UNICEF is looking at traditional and new ways to help provide children with the physical and emotional healing they need,&amp;quot; the agency said in a statement this week.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>More mental health workers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="10">
+          <content>In Liberia, the children&amp;apost;s aid agency said it is training additional mental health workers to ensure children affected by the deadly virus get the support they need.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="11">
+          <content>In neighboring Guinea, plans are under way to provide psychological support to 60,000 children and families affected by Ebola.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="12">
+          <content>Comforting a child is a &amp;apost;potential death sentence&amp;apost;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="13">
+          <content>&amp;quot;Ebola is turning a basic human reaction like comforting a sick child into a potential death sentence,&amp;quot; Fontaine said.</content>
+        </sentence>
+        <sentence id="14">
+          <content>&amp;quot;The vast majority of the children affected by Ebola are still left without appropriate care.</content>
+        </sentence>
+        <sentence id="15">
+          <content>We cannot respond to a crisis of this nature and this scale in the usual ways.</content>
+        </sentence>
+        <sentence id="16">
+          <content>We need more courage, more creativity, and far, far more resources.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="17">
+          <content>The U.N. children&amp;apost;s agency said it has received only 25% of the $200 million it needs for emergency assistance for families affected by Ebola in the region.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="18">
+          <content>Affected nations are reporting grim numbers as the deadly virus takes its toll.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;apost;Untold numbers of children are dying&amp;apost;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="20">
+          <content>In Sierra Leone, about 765 new cases were reported last week, which is a rate of five every hour, according to Save the Children.</content>
+        </sentence>
+        <sentence id="21">
+          <content>The aid group said there are only 327 beds available for Ebola patients in the country.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;Untold numbers of children are dying anonymously at home or in the streets,&amp;quot; Save the Children said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="23">
+          <content>Ebola has killed more than 3,000 people in Guinea, Liberia and Sierra Leone, and the United Nations says those numbers are vastly under-reported.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="24">
+          <content>Meanwhile, Sierra Leone&amp;apost;s President Ernest Koroma is missing an Ebola donor conference in London because his British-chartered plane had technical problems, the British Foreign Office said Thursday, an hour before he was due to give a news conference with British Foreign Secretary Philip Hammond.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="25">
+          <content>&amp;quot;We are currently exploring alternative ways for the President to participate in the conference,&amp;quot; the Foreign Office told CNN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

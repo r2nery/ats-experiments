@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="283" link="http://www.cnn.com/2012/12/19/health/ryan-aspergers/index.html" date_published="2012-12-19 20:07:57" category="health" author="Michael Ryan, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>I have Asperger&amp;apost;s; I am just like you</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="8">There is no direct connection between autism and violence, man with Asperger&amp;apost;s says.</sentence>
+      <sentence id="2" ids_article_sentences="28, 27">Kids with autism or Asperger&amp;apost;s are sometimes bullied because of their peculiarities.</sentence>
+      <sentence id="3" ids_article_sentences="35">Those with Asperger&amp;apost;s can have families, be productive members of society.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-25 09:07:18" annotation_time="76.443" mapping_time_divergence="25.481">
+      <sentence id="8" ids_highlights="1">There is no direct connection between violence and autism.</sentence>
+      <sentence id="27" ids_highlights="2">Your child/partner/co-worker with Asperger&amp;apost;s has some similar peculiarities.</sentence>
+      <sentence id="28" ids_highlights="2">That&amp;apost;s why kids with Asperger&amp;apost;s get bullied.</sentence>
+      <sentence id="35" ids_highlights="3">So &amp;quot;Aspies&amp;quot; can grow up to have families and be productive and contributing members of society.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>I am not an expert on Asperger&amp;apost;s syndrome.</content>
+        </sentence>
+        <sentence id="2">
+          <content>But I am an expert on me, and I have Asperger&amp;apost;s.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>And attention deficit hyperactivity disorder.</content>
+        </sentence>
+        <sentence id="4">
+          <content>And a bit of obsessive-compulsive disorder.</content>
+        </sentence>
+        <sentence id="5">
+          <content>Having all three disorders together is not unusual, my doctor says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="6">
+          <content>Like you, I get angry sometimes.</content>
+        </sentence>
+        <sentence id="7">
+          <content>And, like you, I would never think of channeling that emotion into violence.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="8">
+          <content>There is no direct connection between violence and autism.</content>
+        </sentence>
+        <sentence id="9">
+          <content>None.</content>
+        </sentence>
+        <sentence id="10">
+          <content>I don&amp;apost;t break things.</content>
+        </sentence>
+        <sentence id="11">
+          <content>I don&amp;apost;t hit my dogs.</content>
+        </sentence>
+        <sentence id="12">
+          <content>I keep a small Tupperware container in the house to catch insects so I can transport them safely outside before my cats or wife see them.</content>
+        </sentence>
+        <sentence id="13">
+          <content>I don&amp;apost;t disparage hunters, but I could never kill another creature.</content>
+        </sentence>
+        <sentence id="14">
+          <content>I just don&amp;apost;t have it in me.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="15">
+          <content>For the most part, I am just like you, just a bit quirky.</content>
+        </sentence>
+        <sentence id="16">
+          <content>All right, a lot quirky.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="17">
+          <content>I am pedantic.</content>
+        </sentence>
+        <sentence id="18">
+          <content>I usually have no expression on my face or in my speech.</content>
+        </sentence>
+        <sentence id="19">
+          <content>I cannot look you in the eye.</content>
+        </sentence>
+        <sentence id="20">
+          <content>(I&amp;apost;ve learned to look people in the mouth or nose.).</content>
+        </sentence>
+        <sentence id="21">
+          <content>I cannot have a conversation of more than a few words with you, but I can lecture you ad nauseam on U.S. atomic bomb tests, the Cleveland Browns, beagles, Japanese society.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="22">
+          <content>When you speak to me and I look away intently, I am parsing your words and running through scenarios based on your request or statement in an effort to understand you.</content>
+        </sentence>
+        <sentence id="23">
+          <content>Please bear with me.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="24">
+          <content>Because I still have a deathly fear of offending someone or talking about something way off-topic, I often hold my hand over my mouth in meetings to keep from speaking.</content>
+        </sentence>
+        <sentence id="25">
+          <content>Being called on to speak is sheer terror.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="26">
+          <content>And those are just some of my oddities.</content>
+        </sentence>
+        <sentence id="27">
+          <content>Your child/partner/co-worker with Asperger&amp;apost;s has some similar peculiarities.</content>
+        </sentence>
+        <sentence id="28">
+          <content>That&amp;apost;s why kids with Asperger&amp;apost;s get bullied.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="29">
+          <content>I was lucky.</content>
+        </sentence>
+        <sentence id="30">
+          <content>I didn&amp;apost;t get bullied in school because I wasn&amp;apost;t diagnosed and therefore not labeled.</content>
+        </sentence>
+        <sentence id="31">
+          <content>I wasn&amp;apost;t diagnosed until I was 50.</content>
+        </sentence>
+        <sentence id="32">
+          <content>And when the doctors asked what course of action I wanted, I said none.</content>
+        </sentence>
+        <sentence id="33">
+          <content>I had made it that far, so I&amp;apost;d like to continue working it out on my own.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="34">
+          <content>In fact, until today, most of my co-workers and friends didn&amp;apost;t know I had Asperger&amp;apost;s.</content>
+        </sentence>
+        <sentence id="35">
+          <content>So &amp;quot;Aspies&amp;quot; can grow up to have families and be productive and contributing members of society.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="36">
+          <content>I cannot say this will get you through life, and some of my advice may be wrong for you.</content>
+        </sentence>
+        <sentence id="37">
+          <content>But here&amp;apost;s what helped me:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="38">
+          <content>Find a &amp;quot;mentor.&amp;quot;</content>
+        </sentence>
+        <sentence id="39">
+          <content>Targeting someone to pattern my social behavior after changed my life.</content>
+        </sentence>
+        <sentence id="40">
+          <content>He was a co-worker and friend who was outgoing, popular and genuinely nice.</content>
+        </sentence>
+        <sentence id="41">
+          <content>I mimicked him for years to learn how to approach people and how to act appropriately.</content>
+        </sentence>
+        <sentence id="42">
+          <content>I&amp;apost;m not there yet, but I&amp;apost;m not an outcast.</content>
+        </sentence>
+        <sentence id="43">
+          <content>I don&amp;apost;t think he ever knew.</content>
+        </sentence>
+        <sentence id="44">
+          <content>Thanks, Scott.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="45">
+          <content>Become athletic.</content>
+        </sentence>
+        <sentence id="46">
+          <content>Yes, I know you&amp;apost;re uncoordinated, but you can teach yourself coordination.</content>
+        </sentence>
+        <sentence id="47">
+          <content>I spent years throwing a ball against the garage, developing a throwing motion, building the ability to catch a ball and, eventually, hitting that ball.</content>
+        </sentence>
+        <sentence id="48">
+          <content>By the fifth grade, I was playing third base in schoolyard pickup games -- and I was no longer picked last.</content>
+        </sentence>
+        <sentence id="49">
+          <content>My self-esteem skyrocketed, and the tough kids accepted me.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="50">
+          <content>Write.</content>
+        </sentence>
+        <sentence id="51">
+          <content>Take all those thoughts in your head and put them down on paper or a computer screen.</content>
+        </sentence>
+        <sentence id="52">
+          <content>Reread them a day, a week, a year later.</content>
+        </sentence>
+        <sentence id="53">
+          <content>Show them to someone you trust.</content>
+        </sentence>
+        <sentence id="54">
+          <content>I&amp;apost;ll bet he or she thinks a lot of the same things.</content>
+        </sentence>
+        <sentence id="55">
+          <content>Accept your peculiarities and take advantage of those you can: the ability to focus, above-average intelligence.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="56">
+          <content>Live.</content>
+        </sentence>
+        <sentence id="57">
+          <content>Be brave; get out there a bit.</content>
+        </sentence>
+        <sentence id="58">
+          <content>Take your obsessive gardening hobby and use it to socialize by checking out a gardening club or volunteer to help spruce up the neighborhood.</content>
+        </sentence>
+        <sentence id="59">
+          <content>Learn a bit of self-control, but go ahead and make mistakes.</content>
+        </sentence>
+        <sentence id="60">
+          <content>Apologize and have a laugh.</content>
+        </sentence>
+        <sentence id="61">
+          <content>&amp;quot;Neurotypical&amp;quot; people can be quite forgiving, given the chance.</content>
+        </sentence>
+        <sentence id="62">
+          <content>Bullies are more socially flawed than you are.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="63">
+          <content>If you&amp;apost;re a parent of a child with Asperger&amp;apost;s, let your child experiment.</content>
+        </sentence>
+        <sentence id="64">
+          <content>That&amp;apost;s how we all learn.</content>
+        </sentence>
+        <sentence id="65">
+          <content>He or she is likely quite intelligent.</content>
+        </sentence>
+        <sentence id="66">
+          <content>Let your child know you&amp;apost;re pleased when he or she has spoken up to say &amp;quot;Yes, please&amp;quot; or &amp;quot;Thank you&amp;quot; when the situation called for it.</content>
+        </sentence>
+        <sentence id="67">
+          <content>We can be quite trying, so please be patient.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2010" link="http://edition.cnn.com/2013/07/08/us/california-plane-crash-questions/index.html" date_published="2013-07-08 15:40:33" category="us" author="Richard T. Griffiths, CNN " highlights_mapped="true" mapping_error="false">
+  <title>What we know and don&amp;apost;t know about Asiana Flight 214</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="12">Airline: Pilot was making first landing in control of a Boeing 777 at San Francisco airport.</sentence>
+      <sentence id="2" ids_article_sentences="13">Pilot had 10,000 hours of experience but only 43 hours flying time in a 777.</sentence>
+      <sentence id="3" ids_article_sentences="48">An emergency vehicle ran over one of the passengers.</sentence>
+      <sentence id="4" ids_article_sentences="45">Passengers describe the engines spooling up and the nose tilting up before impact.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-09 10:35:55" annotation_time="26.237">
+      <sentence id="12" ids_highlights="1">Asiana said the pilot at the controls was making his first landing of a Boeing 777 at San Francisco International Airport.</sentence>
+      <sentence id="13" ids_highlights="2">While a pilot with more than 10,000 hours of experience, including many hours flying Boeing 747s, he had only 43 hours of flying time in a 777.</sentence>
+      <sentence id="45" ids_highlights="4">Passengers described the cabin interior as heavily damaged, with overhead bins dropping and at least one life raft/escape slide inflating inside the aircraft, trapping a flight attendant, whom passengers helped free.</sentence>
+      <sentence id="48" ids_highlights="3">The coroner says one of the two passengers killed appears to have been run over by an emergency vehicle, though the coroner had not yet determined the cause of death.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Here&amp;apost;s what we know about Saturday&amp;apost;s crash landing of Asiana Airlines Flight 214 and some of the key questions raised by those facts:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>1.</content>
+        </sentence>
+        <sentence id="3">
+          <content>A preliminary readout from the flight data and cockpit voice recorders shows the aircraft was approaching well below the target landing speed of 137 knots (157 mph).</content>
+        </sentence>
+        <sentence id="4">
+          <content>Records from the flight data recorder show that at 500 feet of altitude and 34 seconds before impact, the aircraft had already slowed to 134 knots (154 mph).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>At seven seconds before impact, the pilots attempted to spool up the engines.</content>
+        </sentence>
+        <sentence id="6">
+          <content>At four seconds, the stall warning sounded.</content>
+        </sentence>
+        <sentence id="7">
+          <content>At 1.5 seconds, the pilots tried to abort the landing and go around to attempt another landing.</content>
+        </sentence>
+        <sentence id="8">
+          <content>At impact, the flight data recorder shows the aircraft had a forward speed of a mere 106 knots (121 mph).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="9">
+          <content>What we don&amp;apost;t know: Why was the aircraft approaching so slowly?</content>
+        </sentence>
+        <sentence id="10">
+          <content>Did the pilot not realize he was short?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="11">
+          <content>2.</content>
+        </sentence>
+        <sentence id="12">
+          <content>Asiana said the pilot at the controls was making his first landing of a Boeing 777 at San Francisco International Airport.</content>
+        </sentence>
+        <sentence id="13">
+          <content>While a pilot with more than 10,000 hours of experience, including many hours flying Boeing 747s, he had only 43 hours of flying time in a 777.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="14">
+          <content>What we don&amp;apost;t know: Did pilot inexperience with the aircraft play a role?</content>
+        </sentence>
+        <sentence id="15">
+          <content>Why did the captain not speak up or take control?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="16">
+          <content>3.</content>
+        </sentence>
+        <sentence id="17">
+          <content>The NTSB investigators have found nothing to corroborate online flight tracking records showing that Asiana Flight 214 descended from cruising altitude much more steeply and rapidly than previous Asiana flights on the same route.</content>
+        </sentence>
+        <sentence id="18">
+          <content>The NTSB says it found no &amp;quot;abnormally steep descent data.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="19">
+          <content>4.</content>
+        </sentence>
+        <sentence id="20">
+          <content>Part of the instrument landing system approach on Runway 28L was not working on the day of the crash.</content>
+        </sentence>
+        <sentence id="21">
+          <content>It had been down for some time.</content>
+        </sentence>
+        <sentence id="22">
+          <content>Flights were landing using visual flight rules.</content>
+        </sentence>
+        <sentence id="23">
+          <content>The weather was clear.</content>
+        </sentence>
+        <sentence id="24">
+          <content>The flight data shows the autopilot was disengaged at 1,600 feet and the pilot then took manual control of the plane.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="25">
+          <content>What we don&amp;apost;t know: Did the lack of ILS force the pilot to make a VFR landing in an aircraft with which he was not fully familiar?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="26">
+          <content>5.</content>
+        </sentence>
+        <sentence id="27">
+          <content>The runway&amp;apost;s precision approach path indicator lights, showing correct flight approach altitudes, were working.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="28">
+          <content>What we don&amp;apost;t know: Why didn&amp;apost;t the pilot recognize he was too low for the approach and initiate a go-around earlier?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="29">
+          <content>6.</content>
+        </sentence>
+        <sentence id="30">
+          <content>Based on the debris field and the video obtained by CNN, the aircraft appears to have struck the rock sea wall well before the start of the runway.</content>
+        </sentence>
+        <sentence id="31">
+          <content>There are some marks on the sea wall, consistent with an impact of some part of the plane.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="32">
+          <content>7.</content>
+        </sentence>
+        <sentence id="33">
+          <content>The debris field runs from the water, slightly right of the paved threshold and runway center, all the way to the stopped aircraft fuselage.</content>
+        </sentence>
+        <sentence id="34">
+          <content>The NTSB says pieces of the rear of the aircraft are in the water near the seawall, visible at low tide.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="35">
+          <content>8.</content>
+        </sentence>
+        <sentence id="36">
+          <content>The Boeing 777 lost its tail section, including vertical and horizontal stabilizers, near the end of the paved threshold, just before the start of the runway.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="37">
+          <content>What we don&amp;apost;t know: Is this an indication the tail of the aircraft detached after first impact?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="38">
+          <content>9.</content>
+        </sentence>
+        <sentence id="39">
+          <content>The right engine is detached from the wing and wedged against the right side of the fuselage.</content>
+        </sentence>
+        <sentence id="40">
+          <content>The left engine is a considerable distance forward of the fuselage in a grassy area to the right of Runway 28L.</content>
+        </sentence>
+        <sentence id="41">
+          <content>The NTSB says both engines had high rotational damage, showing that they were powering at impact.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="42">
+          <content>10.</content>
+        </sentence>
+        <sentence id="43">
+          <content>Most of the fire damage to the aircraft occurred after the Boeing 777 came to a stop on its belly.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="44">
+          <content>11.</content>
+        </sentence>
+        <sentence id="45">
+          <content>Passengers described the cabin interior as heavily damaged, with overhead bins dropping and at least one life raft/escape slide inflating inside the aircraft, trapping a flight attendant, whom passengers helped free.</content>
+        </sentence>
+        <sentence id="46">
+          <content>The NTSB says it will investigate the structural safety of the seats.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="47">
+          <content>12.</content>
+        </sentence>
+        <sentence id="48">
+          <content>The coroner says one of the two passengers killed appears to have been run over by an emergency vehicle, though the coroner had not yet determined the cause of death.</content>
+        </sentence>
+        <sentence id="49">
+          <content>Asiana has identified the fatalities as Ye Mengyuan and Wang Linjia of China, both of whom were 16.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="50">
+          <content>13.</content>
+        </sentence>
+        <sentence id="51">
+          <content>Audio recordings of air traffic control conversations show no sign that the pilot declared an emergency before the crash landing.</content>
+        </sentence>
+        <sentence id="52">
+          <content>Emergency vehicles were dispatched afterward.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="53">
+          <content>14.</content>
+        </sentence>
+        <sentence id="54">
+          <content>The aircraft was built in 2006 and was purchased new by Asiana.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="55">
+          <content>15.</content>
+        </sentence>
+        <sentence id="56">
+          <content>The NTSB was planning to interview the four pilots Monday afternoon.</content>
+        </sentence>
+        <sentence id="57">
+          <content>Key information from those interviews will be made public at Tuesday&amp;apost;s briefing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

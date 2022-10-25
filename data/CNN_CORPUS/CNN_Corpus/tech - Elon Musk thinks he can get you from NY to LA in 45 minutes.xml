@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1591" link="http://www.cnn.com/2013/08/12/tech/innovation/elon-musk-tube-hyperloop/index.html" date_published="2013-08-12 04:25:40" category="tech" author="Damon Lavrinc, Wired" highlights_mapped="true" mapping_error="false">
+  <title>Elon Musk thinks he can get you from NY to LA in 45 minutes</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Elon Musk wants to revolutionize transportation with high-speed trains in enormous pneumatic tubes.</sentence>
+      <sentence id="2" ids_article_sentences="3">Such trains could theoretically whisk people from Los Angeles to New York in 45 minutes.</sentence>
+      <sentence id="3" ids_article_sentences="19">A Colorado firm is in the early stages of development of such a system.</sentence>
+      <sentence id="4" ids_article_sentences="28">Musk is the serial entrepreneur behind Tesla, the electric car company, and Space X.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-06 08:18:13" annotation_time="25.153">
+      <sentence id="1" ids_highlights="1">Elon Musk wants to revolutionize transportation.</sentence>
+      <sentence id="3" ids_highlights="2">The serial entrepreneur envisions a future where mag-lev trains in enormous pneumatic tubes whisk us from Los Angeles to New York in 45 minutes.</sentence>
+      <sentence id="19" ids_highlights="3">And one firm unaffiliated with Musk is in the early stages of development.</sentence>
+      <sentence id="28" ids_highlights="4">Sources close to the Tesla co-founder and CEO say he believes ET3 is on the right track, but is missing some key components, and that Musk has his hands full with Tesla and SpaceX, and would rather have some involvement in the development, with another entity taking the helm.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Elon Musk wants to revolutionize transportation.</content>
+        </sentence>
+        <sentence id="2">
+          <content>Again.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>The serial entrepreneur envisions a future where mag-lev trains in enormous pneumatic tubes whisk us from Los Angeles to New York in 45 minutes.</content>
+        </sentence>
+        <sentence id="4">
+          <content>Need to be in Beijing tomorrow?</content>
+        </sentence>
+        <sentence id="5">
+          <content>No problem.</content>
+        </sentence>
+        <sentence id="6">
+          <content>It&amp;apost;s a two-hour ride away.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="7">
+          <content>As crazy as it sounds, Musk is merely updating an idea that&amp;apost;s been around since the early 1900s, and at least one company is working on a functional prototype.</content>
+        </sentence>
+        <sentence id="8">
+          <content>But according to Wired sources, his involvement won&amp;apost;t be nearly as hands-on as Musk&amp;apost;s other endeavors at Tesla Motors and SpaceX.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="9">
+          <content>The engineering behind the Hyperloop is similar to the old-school pneumatic tube systems used by banks to suck your deposit to the teller at the drive-through.</content>
+        </sentence>
+        <sentence id="10">
+          <content>But naturally, it&amp;apost;s more complicated than that.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="11">
+          <content>A massive vacuum tube - mounted either above ground or even under water - would be combined with a magnetic levitation system used on conventional bullet trains.</content>
+        </sentence>
+        <sentence id="12">
+          <content>That means no friction, no wind resistance, no chance of collisions, and insanely high speeds.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="13">
+          <content>Musk described the Hyperloop as &amp;quot;a cross between a Concorde, a railgun and an air hockey table,&amp;quot; at AllThingsD&amp;apost;s D11 conference earlier this year.</content>
+        </sentence>
+        <sentence id="14">
+          <content>And in an interview with PandoDaily, Musk said the Hyperloop could form a fifth tent pole of modern transportation, joining cars, planes, trains, and boats, adding that because of its low energy usage and ability to get juice from solar power, it could generate more power than it would consume.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="15">
+          <content>But up until now, he hasn&amp;apost;t elaborated on his involvement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="16">
+          <content>Musk&amp;apost;s interest in the idea was sparked after researching California&amp;apost;s new high-speed rail project and realizing that it will be the slowest and - at $70 billion - the most expensive system on the planet.</content>
+        </sentence>
+        <sentence id="17">
+          <content>To his mind, there&amp;apost;s a better solution.</content>
+        </sentence>
+        <sentence id="18">
+          <content>The Hyperloop is it.</content>
+        </sentence>
+        <sentence id="19">
+          <content>And one firm unaffiliated with Musk is in the early stages of development.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="20">
+          <content>ET3, a company based in Longmont, Colorado, is working on a Evacuated Tube Transport (ETT) system, which it describes as &amp;quot;space travel on Earth.&amp;quot;</content>
+        </sentence>
+        <sentence id="21">
+          <content>It uses two tubes - one for each direction - with 400-pound, passenger car-sized capsules that could house six people, each accelerated by linear electric motors.</content>
+        </sentence>
+        <sentence id="22">
+          <content>According to ET3, state trips would average speeds of around 370 mph, while international trips would hit that insane 4,000 mph mark.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="23">
+          <content>The company, which calls itself an &amp;quot;open consortium,&amp;quot; claims that it&amp;apost;s working with partners in China and has sold nearly 100 licenses for the technology.</content>
+        </sentence>
+        <sentence id="24">
+          <content>But ET3′s claims pose more questions than answers, particularly when considering you can buy your own license for the bargain basement price of $100.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="25">
+          <content>But the idea for a vacuum-sealed high-speed transit system isn&amp;apost;t anything new.</content>
+        </sentence>
+        <sentence id="26">
+          <content>The &amp;quot;vactrain&amp;quot; concept was floated in the early 1910s and a paper written by physicist R.M. Salter and published by the Rand Corporation in 1972 titled the &amp;quot;Very High Speed Transit System,&amp;quot; or VHST, describes something very similar to what ET3 is developing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="27">
+          <content>But where Musk fits in remains a question.</content>
+        </sentence>
+        <sentence id="28">
+          <content>Sources close to the Tesla co-founder and CEO say he believes ET3 is on the right track, but is missing some key components, and that Musk has his hands full with Tesla and SpaceX, and would rather have some involvement in the development, with another entity taking the helm.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="29">
+          <content>That lines up with a few responses Musk made on Twitter when asked about patenting the technology.</content>
+        </sentence>
+        <sentence id="30">
+          <content>&amp;quot;I really hate patents unless critical to company survival,&amp;quot; Musk tweeted.</content>
+        </sentence>
+        <sentence id="31">
+          <content>&amp;quot;Will publish Hyperloop as open source.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="32">
+          <content>When asked about partners, Musk said he&amp;apost;s &amp;quot;happy to work with the right partners.</content>
+        </sentence>
+        <sentence id="33">
+          <content>Must truly share philosophical goal of breakthrough tech done fast &amp;amp; w/o wasting money on BS.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="34">
+          <content>We&amp;apost;ll have to wait until August 12th to find out more.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

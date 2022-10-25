@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="266" link="http://www.cnn.com/2011/08/31/health/soda-drinking-habits/index.html" date_published="2011-08-31 17:25:46" category="health" author="Madison Park, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Half of Americans sip sugary drinks daily</title>
+  <keywords>obesity,children&amp;apost;s health,diet,soda</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">Half of U.S. population over age 2 consumes sugary drinks daily, CDC says.</sentence>
+      <sentence id="2" ids_article_sentences="6">Report says the drinks have been linked to weight gain, obesity and diabetes.</sentence>
+      <sentence id="3" ids_article_sentences="14">Beverage makers say their products have not fueled obesity and diabetes.</sentence>
+      <sentence id="4" ids_article_sentences="7">Male teens are most frequent consumers of sugary drinks, report says.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-02 11:40:24" annotation_time="20.596">
+      <sentence id="3" ids_highlights="1">In today&amp;apost;s carbonation nation, half of the U.S. population over age 2 consumes sugary drinks daily, according to a report released by National Center for Health Statistics.</sentence>
+      <sentence id="6" ids_highlights="2">The report states that sugary drinks have been linked to &amp;quot;poor diet quality, weight gain, obesity, and in adults, type 2 diabetes.&amp;quot;</sentence>
+      <sentence id="7" ids_highlights="4">Male teens are the most frequent consumers and guzzle about 252 to 273 calories every day from various drinks, the report says.</sentence>
+      <sentence id="14" ids_highlights="3">The American Beverage Association denied that its products fueled obesity: &amp;quot;Contrary to what may be implied ... sugar-sweetened beverages are not driving health issues like obesity and diabetes.&amp;quot;</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>When it was first invented, soda pop was a treat most people had once in a while for special occasions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Now it&amp;apost;s a daily fixture in American life -- in bright containers glowing inside vending machines, chugged from 32-ounce bucket-like containers at self-service stations and served as the default beverage in fast-food meals.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>In today&amp;apost;s carbonation nation, half of the U.S. population over age 2 consumes sugary drinks daily, according to a report released by National Center for Health Statistics.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>The sugary drinks include sodas, sweetened waters, and energy, sports and fruit beverages.</content>
+        </sentence>
+        <sentence id="5">
+          <content>Not included in the total were diet drinks, 100% fruit juices, sweetened teas and flavored milk.</content>
+        </sentence>
+        <sentence id="6">
+          <content>The report states that sugary drinks have been linked to &amp;quot;poor diet quality, weight gain, obesity, and in adults, type 2 diabetes.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>Male teens are the most frequent consumers and guzzle about 252 to 273 calories every day from various drinks, the report says.</content>
+        </sentence>
+        <sentence id="8">
+          <content>Their one-day consumption is more than half the weekly intake suggested by the American Heart Association, which recommends no more than three 12-ounce cans of soda in one week (equivalent to 450 calories).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>The consumption of such sugary drinks has increased over the last 30 years, the report stated.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>A 2003 study published in the Journal of the American Dietetic Association found that soda drinking for youths between the ages of 6 and 17 was at 37% in the 1970s and then 56% in the 1990s.</content>
+        </sentence>
+        <sentence id="11">
+          <content>This latest research from the Centers for Disease Control and Prevention suggests that from 2005 to 2008, consumption increased again.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;If you look at male children, 70% consume on a given day,&amp;quot; said lead author Cynthia Ogden, a CDC epidemiologist who specializes in obesity.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>The analysis was based on 17,000 participants who were asked to recall what they ate in the last 24 hours in the National Health and Nutrition Examination Survey.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>The American Beverage Association denied that its products fueled obesity: &amp;quot;Contrary to what may be implied ... sugar-sweetened beverages are not driving health issues like obesity and diabetes.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="15">
+          <content>It pointed to market data indicating that the calories in beverages decreased by 21% from 1998 to 2008, while obesity rates climbed.</content>
+        </sentence>
+        <sentence id="16">
+          <content>It also stated that sugar-sweetened beverages account for 7% of calories in the average American diet.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;That means Americans get 93 percent of their calories from other foods and beverages,&amp;quot; the group stated.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="18">
+          <content>The latest CDC research released Wednesday also found similar results: Kids and teens get about 6.7% to 8.2% of their daily caloric intake from the beverages, and adults get about 5% to 8%.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="19">
+          <content>But the extra calories from drinks could add several pounds every year, said Marisa Moore, a nutritionist.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="20">
+          <content>&amp;quot;A lot of times, people don&amp;apost;t think of beverages as part of their daily total calories,&amp;quot; she said.</content>
+        </sentence>
+        <sentence id="21">
+          <content>&amp;quot;When I think about soda drinking -- in general, it provides empty calories.</content>
+        </sentence>
+        <sentence id="22">
+          <content>It takes the place of more nutritious options.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="23">
+          <content>She suggested alternatives like water, sparkling water, tea and skim milk.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="24">
+          <content>The CDC&amp;apost;s report found major differences in soda consumption depending on race, sex and income level.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="25">
+          <content>In every age category, males consumed more sugary drinks than females.</content>
+        </sentence>
+        <sentence id="26">
+          <content>This could be because males consume more calories than females, Ogden said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="27">
+          <content>In terms of race, black children got about 8.5% of their total daily calories from sugary drinks, compared with 8.2% for Mexican-American and 7.7% for white children.</content>
+        </sentence>
+        <sentence id="28">
+          <content>Black adults received 8.6% of their daily calories from sugary drinks, and the figure was 8.2% for Mexican-Americans and 5.3% for whites.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="29">
+          <content>There was also a direct association between income level and sugary beverage consumption.</content>
+        </sentence>
+        <sentence id="30">
+          <content>Adults living in a family of four earning approximately $29,000 per year got 8.8% of their daily calories from sugary drinks, compared with 4.4% for those who earned about $77,000.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="31">
+          <content>Last year, New York attempted to end subsidizing the purchase of sodas in the food stamps program, saying the benefits were used to fuel a serious public health problem.</content>
+        </sentence>
+        <sentence id="32">
+          <content>But this month, the U.S. Department of Agriculture rejected the city&amp;apost;s proposal, citing agency concerns that &amp;quot;the scale and scope&amp;quot; of banning soda would be &amp;quot;too large and complex.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="33">
+          <content>The Big Apple has actively campaigned for soda reduction with a stomach-churning ad that likened drinking soda to chugging dollops of fat.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="34">
+          <content>The recent CDC report also found that while half of the population doesn&amp;apost;t drink sugary beverages, about 25% consumes amounts of the drinks that total fewer than 200 calories per day.</content>
+        </sentence>
+        <sentence id="35">
+          <content>About 5% drink about 567 calories on any given day, which amounts to more than four 12-ounce cans of cola.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="36">
+          <content>Sugary drinks became ingrained in American daily life because of effective ad campaigns, fast-food restaurants and increased serving sizes, said Michael Jacobson, executive director of the Center for Science in the Public Interest.</content>
+        </sentence>
+        <sentence id="37">
+          <content>But the tides are turning, he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="38">
+          <content>The group announced a campaign Wednesday called Life&amp;apost;s Sweeter to nationally organize civic associations, minority groups and religious communities to reduce soda consumption.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="39">
+          <content>&amp;quot;There&amp;apost;s pretty much a consensus among health officials that soft drinks are a major cause of obesity,&amp;quot; Jacobson said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="40">
+          <content>Boston&amp;apost;s government buildings have banned soda, several public school systems have kicked them out of their campuses, and the Cleveland Clinic has stopped selling the beverages in its hospitals.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="41">
+          <content>&amp;quot;There&amp;apost;s a real movement in that direction, and the soda industry recognizes this and is diversifying away from traditional carbonated drinks to bottled water and noncarbonated things like energy drinks and sports drinks,&amp;quot; Jacobson said.</content>
+        </sentence>
+        <sentence id="42">
+          <content>&amp;quot;The soft drink industry is very nervous and will diversify to maintain their profits.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="43">
+          <content>While energy drinks and sports drinks may have fewer calories and less sugar, they enjoy health halos that are not warranted, he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="44">
+          <content>Dr. Sandeep Gupta, director of the Pediatric Overweight Education and Research Program at Indiana University Health, said it&amp;apost;s easy to be misled by drink labels.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="45">
+          <content>&amp;quot;Many times, they don&amp;apost;t know,&amp;quot; he said about his pediatric patients who guzzle sugar-sweetened beverages with labels touting vitamins and antioxidants.</content>
+        </sentence>
+        <sentence id="46">
+          <content>&amp;quot;The marketing is so skewed.</content>
+        </sentence>
+        <sentence id="47">
+          <content>&amp;apost;Get your 100% vitamin C, juice.&amp;apost;.</content>
+        </sentence>
+        <sentence id="48">
+          <content>They don&amp;apost;t tell you how much sugar is there.</content>
+        </sentence>
+        <sentence id="49">
+          <content>Look at the back, not the front of the package.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2519" link="http://www.cnn.com/2013/05/15/world/asia/north-korea-jailed-american " date_published="2013-05-15 07:24:13" category="world" author="Jethro Mullen, CNN" highlights_mapped="true" mapping_error="false">
+  <title>North Korea says jailed American is now in &amp;apost;special prison&amp;apost;</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">A court sentenced Kenneth Bae to 15 years of hard labor last month.</sentence>
+      <sentence id="2" ids_article_sentences="3">North Korea accuses him of trying to bring down the state.</sentence>
+      <sentence id="3" ids_article_sentences="4">State media say he has now &amp;quot;started his life at a &amp;apost;special prison&amp;apost;&amp;quot;.</sentence>
+      <sentence id="4" ids_article_sentences="6">The United States has repeatedly called for Bae&amp;apost;s immediate release.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-15 22:09:03" annotation_time="21.067">
+      <sentence id="1" ids_highlights="1">North Korea said Wednesday that the U.S. citizen it sentenced last month to 15 years of hard labor has begun his stay at a &amp;quot;special prison.&amp;quot;</sentence>
+      <sentence id="3" ids_highlights="2">North Korea accuses him of seeking to bring down the regime of Kim Jong Un, but the United States and his family say he was just working as a tour operator.</sentence>
+      <sentence id="4" ids_highlights="3">In a short article Wednesday, the North&amp;apost;s state-run Korean Central News Agency (KCNA) said Bae had &amp;quot;started his life at a &amp;apost;special prison&amp;apost; on Tuesday.&amp;quot;</sentence>
+      <sentence id="6" ids_highlights="4">The United States has repeatedly called on North Korea to grant Bae amnesty and release him immediately, but the requests so far don&amp;apost;t appear to have gained any traction following a period of heightened tensions between the two countries.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>North Korea said Wednesday that the U.S. citizen it sentenced last month to 15 years of hard labor has begun his stay at a &amp;quot;special prison.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Kenneth Bae, who the North Koreans refer to as Pae Jun Ho, was arrested in November in Rason city, a port in the northeastern corner of North Korea.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>North Korea accuses him of seeking to bring down the regime of Kim Jong Un, but the United States and his family say he was just working as a tour operator.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>In a short article Wednesday, the North&amp;apost;s state-run Korean Central News Agency (KCNA) said Bae had &amp;quot;started his life at a &amp;apost;special prison&amp;apost; on Tuesday.&amp;quot;</content>
+        </sentence>
+        <sentence id="5">
+          <content>It didn&amp;apost;t give any details about the prison.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>The United States has repeatedly called on North Korea to grant Bae amnesty and release him immediately, but the requests so far don&amp;apost;t appear to have gained any traction following a period of heightened tensions between the two countries.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>Even a plea last week for Bae&amp;apost;s release from the basketball star Dennis Rodman, who met with Kim Jong Un during a bizarre visit to North Korea in February, has failed to have any apparent effect.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>Accused of &amp;apost;hostile acts&amp;apost;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>Last week, KCNA cited a spokesman for the North Korean Supreme Court as saying that Bae, a Korean-American tour operator, set up anti-North Korean bases in China and distributed anti-regime literature.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;He committed such hostile acts as egging citizens of the DPRK overseas and foreigners on to perpetrate hostile acts to bring down its government while conducting a malignant smear campaign against it,&amp;quot; the court said, using the shortened version of the country&amp;apost;s official name, the Democratic People&amp;apost;s Republic of Korea.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="11">
+          <content>He was accused of preaching at churches and lecturing to groups about the need to escalate confrontation, the court said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="12">
+          <content>NK News, a U.S.-based website that focuses on North Korea, has suggested Bae has served as a missionary trying to convert North Koreans.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="13">
+          <content>&amp;quot;I knew that Jesus wanted me to be a &amp;apost;channel&amp;apost; to the North,&amp;quot; Bae told a Korean congregation at a St. Louis church in 2011, NK News reported last week.</content>
+        </sentence>
+        <sentence id="14">
+          <content>&amp;quot;This year, I&amp;apost;m working at taking several short term missionary teams into North Korea.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="15">
+          <content>Bae&amp;apost;s sister, Terri Chung, said earlier this month that her brother &amp;quot;never had any evil intentions against North Korea.&amp;quot;</content>
+        </sentence>
+        <sentence id="16">
+          <content>She said Bae was in the country for work related to the tour company he owns.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="17">
+          <content>He had traveled to the country previously with no problems and had no reason to suspect that this time would be different, Chung told CNN&amp;apost;s Anderson Cooper.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="18">
+          <content>Not a &amp;apost;bargaining chip&amp;apost;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="19">
+          <content>In the past, North Korea has released Americans in its custody after visits by a U.S. dignitary -- in recent examples, former Presidents Jimmy Carter and Bill Clinton.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="20">
+          <content>But North Korea said earlier this month that Bae is not a &amp;quot;political bargaining chip.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="21">
+          <content>His case &amp;quot;proves that as long as the U.S. hostile policy toward the DPRK remains unchanged, humanitarian generosity will be of no use in ending Americans&amp;apost; illegal acts.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="22">
+          <content>Tensions between Pyongyang and Washington spiked in March and April amid a flurry of fiery North Korean threats against the United States and South Korea.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="23">
+          <content>The angry rhetoric appeared to be fueled by tougher U.N. sanctions against the North after its underground nuclear test in February, as well as by annual military drills in the region by the United States and South Korea.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="24">
+          <content>The intensity of the North&amp;apost;s rhetoric appears to have subsided in recent weeks, and the U.S.-South Korean drills finished at the end of April.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="25">
+          <content>North Korea is considered to have one of the most repressive penal systems in the world.</content>
+        </sentence>
+        <sentence id="26">
+          <content>Human rights groups estimate that as many as 200,000 people are being held in a network of prison camps that the regime is believed to use to crush political dissent.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

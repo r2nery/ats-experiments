@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2416" link="http://edition.cnn.com/2013/07/18/world/africa/mandela-poster-project-birthday" date_published="2013-07-18 10:37:05" category="world" author="Charlotte Lytton, for CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Mandela posters mark 95th birthday</title>
+  <keywords>Nelson Mandela,Madiba,Mandela,ill health,Mandela Day,mandela poster project</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="9, 1">Mandela Poster Project exhibiting 95 posters of the former South African president.</sentence>
+      <sentence id="2" ids_article_sentences="11">Project received more than 700 poster submissions from around the world.</sentence>
+      <sentence id="3" ids_article_sentences="3">Mandela Day has been celebrated worldwide since 2009.</sentence>
+      <sentence id="4" ids_article_sentences="4">The day encourages 67 minutes of good deeds from participants.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-20 18:30:43" annotation_time="26.397667" mapping_time_divergence="6.5994167">
+      <sentence id="1" ids_highlights="1">In South Africa, Nelson Mandela&amp;apost;s 95th birthday is being marked by celebrations, good deeds, and an exhibition of stunning new posters of the country&amp;apost;s former president.</sentence>
+      <sentence id="3" ids_highlights="3">Since 2009, Mandela&amp;apost;s birthday has been designated &amp;quot;Nelson Mandela International Day.&amp;quot;</sentence>
+      <sentence id="4" ids_highlights="4">The celebration encourages people around the globe to partake in 67 minutes of public service: one minute per year of service that the former statesman, also known as Madiba, has given to his country.</sentence>
+      <sentence id="9" ids_highlights="1">Also marking the occasion, at the University of Pretoria the Mandela Poster Project is exhibiting images of Mandela from around the world.</sentence>
+      <sentence id="11" ids_highlights="2">It received more than 700 entries from more than 70 countries, and is now displaying 95 posters that reflect Mandela&amp;apost;s international legacy.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>In South Africa, Nelson Mandela&amp;apost;s 95th birthday is being marked by celebrations, good deeds, and an exhibition of stunning new posters of the country&amp;apost;s former president.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Mandela himself will be spending the day in hospital in Pretoria, where he is said to be in a critical but stable condition, battling a lung infection.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Since 2009, Mandela&amp;apost;s birthday has been designated &amp;quot;Nelson Mandela International Day.&amp;quot;</content>
+        </sentence>
+        <sentence id="4">
+          <content>The celebration encourages people around the globe to partake in 67 minutes of public service: one minute per year of service that the former statesman, also known as Madiba, has given to his country.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>It&amp;apost;s a day that many feared might not come, as Mandela has been receiving urgent medical care since June.</content>
+        </sentence>
+        <sentence id="6">
+          <content>Now breathing with the help of a machine, family and friends have been optimistic about his response to treatment, with former president Thabo Mbeki even suggesting he may soon be discharged.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>Admirers worldwide are hoping for the Nobel Peace laureate&amp;apost;s recovery, with Mandela Day providing the perfect opportunity to celebrate his life and achievements.</content>
+        </sentence>
+        <sentence id="8">
+          <content>A survey released last week found that 89% of South Africans planned to commemorate the day, with thousands of school children across the country singing &amp;quot;happy birthday&amp;quot; this morning.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>Also marking the occasion, at the University of Pretoria the Mandela Poster Project is exhibiting images of Mandela from around the world.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>Launched in May 2013, the project asked designers to submit posters celebrating Mandela&amp;apost;s life.</content>
+        </sentence>
+        <sentence id="11">
+          <content>It received more than 700 entries from more than 70 countries, and is now displaying 95 posters that reflect Mandela&amp;apost;s international legacy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;He (Mandela) carries across this concept of humanity and selflessness,&amp;quot; said Mohammed Jogie, co-founder of the project.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>There are plans for an international traveling exhibition, and the posters will also be made into an online gallery.</content>
+        </sentence>
+        <sentence id="14">
+          <content>The team behind the project says it plans to donate any proceeds to the Nelson Mandela Children&amp;apost;s Hospital Trust, which aims to establish a pediatric hospital in Johannesburg.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>It&amp;apost;s a fitting tribute to the iconic activist on a day that celebrates the sense of community and charity Mandela has dedicated his life to promoting.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1452" link="http://www.cnn.com/2014/02/22/sport/olympics-five-highlights/index.html" date_published="2014-02-22 23:24:41" category="sport" author="Michael Martinez, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Five highlights from Saturday at Sochi Games</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="6, 3">U.S. men&amp;apost;s hockey team loses bronze-medal game to Finland 5-0.</sentence>
+      <sentence id="2" ids_article_sentences="15, 19">Dutch men and women both win gold in team pursuit speed skating.</sentence>
+      <sentence id="3" ids_article_sentences="36">Russia&amp;apost;s Vic Wild wins gold in parallel slalom.</sentence>
+      <sentence id="4" ids_article_sentences="27">Norwegian women sweep podium in the marathon of cross-country skiing.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-02 10:35:05" annotation_time="54.081665" mapping_time_divergence="27.040833">
+      <sentence id="3" ids_highlights="1">In the bronze medal game, the U.S. team suffered an embarrassing defeat to Finland 5-0.</sentence>
+      <sentence id="6" ids_highlights="1">The U.S. men&amp;apost;s hockey team lost any dream of an Olympic medal when Finland shut it out in the consolation game for the bronze medal.</sentence>
+      <sentence id="15" ids_highlights="2">The Netherlands, a powerhouse in speed skating, took the gold in the men&amp;apost;s team pursuit, following by Korea for silver and Poland taking bronze.</sentence>
+      <sentence id="19" ids_highlights="2">And it was the Netherlands again winning the gold in the women&amp;apost;s team pursuit, followed by Poland and Russia.</sentence>
+      <sentence id="27" ids_highlights="4">The Norwegians swept the podium in the marathon of women&amp;apost;s cross-country ski racing.</sentence>
+      <sentence id="36" ids_highlights="3">Russia&amp;apost;s Vic Wild won the gold in the men&amp;apost;s big final, beating Slovenia&amp;apost;s Zan Kosir, who took the silver medal.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>It was the next-to-the-last day of the Sochi Games, so athletes fought hard Saturday for the remaining medals of the Olympics.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Of the day&amp;apost;s five highlights, it was men&amp;apost;s hockey that dominated many sports lovers&amp;apost; minds.</content>
+        </sentence>
+        <sentence id="3">
+          <content>In the bronze medal game, the U.S. team suffered an embarrassing defeat to Finland 5-0.</content>
+        </sentence>
+        <sentence id="4">
+          <content>The Finns took home the bronze, and the Americans nothing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>Men&amp;apost;s hockey.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>The U.S. men&amp;apost;s hockey team lost any dream of an Olympic medal when Finland shut it out in the consolation game for the bronze medal.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>The loss was an American embarrassment in one of the Olympics&amp;apost; marquee events, especially after the Americans earlier beat the Russians.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>Finland broke open the scoreless game in the second period, by scoring two successive goals in the opening minutes.</content>
+        </sentence>
+        <sentence id="9">
+          <content>The Americans seemed uninspired throughout the game.</content>
+        </sentence>
+        <sentence id="10">
+          <content>By the third period, the game was a blowout as the U.S. team was unable to find the goal.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>The Americans appeared to still be reeling from their loss this week to Canada, 1-0, which meant that the Americans would be relegated to playing for the bronze and the Canadians advancing to Sunday&amp;apost;s gold game against Sweden.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>At least the U.S. women fared better.</content>
+        </sentence>
+        <sentence id="13">
+          <content>This week, they took a silver medal after losing to Canada in overtime, 3-2.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>Double Dutch speed skating.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>The Netherlands, a powerhouse in speed skating, took the gold in the men&amp;apost;s team pursuit, following by Korea for silver and Poland taking bronze.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;We sacrificed our individual programs the last four years to do this,&amp;quot; said Jan Blokhuijsen, one of the trio that clinched men&amp;apost;s team pursuit gold.</content>
+        </sentence>
+        <sentence id="17">
+          <content>&amp;quot;It is a great feeling.</content>
+        </sentence>
+        <sentence id="18">
+          <content>It is fantastic to race so fast in the Olympic final.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="19">
+          <content>And it was the Netherlands again winning the gold in the women&amp;apost;s team pursuit, followed by Poland and Russia.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="20">
+          <content>The Dutch women set a new Olympic record.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="21">
+          <content>Men&amp;apost;s slalom.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="22">
+          <content>The Austrians nearly swept the final alpine skiing event of the Sochi Games.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="23">
+          <content>Favorite Marcel Hirscher came in second to countryman Matt Mario, who took gold.</content>
+        </sentence>
+        <sentence id="24">
+          <content>Winning bronze was Norway&amp;apost;s teen sensation, Henrik Kristoffersen.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="25">
+          <content>American giant slalom gold medal winner Ted Ligety couldn&amp;apost;t finish his second run down the course and put himself out of contention.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="26">
+          <content>Women&amp;apost;s cross-country skiing: 30-kilometer.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="27">
+          <content>The Norwegians swept the podium in the marathon of women&amp;apost;s cross-country ski racing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="28">
+          <content>In fact, the three controlled the race from the outset.</content>
+        </sentence>
+        <sentence id="29">
+          <content>It was just a matter who would cross first, second and third at the finish line.</content>
+        </sentence>
+        <sentence id="30">
+          <content>The women were near single file at the home stretch.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="31">
+          <content>Winning gold was Marit Bjoergen.</content>
+        </sentence>
+        <sentence id="32">
+          <content>Silver went to Therese Johaug and Kristin Stoermer won bronze.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="33">
+          <content>Parallel slalom.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="34">
+          <content>The parallel slalom races are skiing&amp;apost;s rare contest where spectators see two racers competing against each on parallel courses -- as opposed to the usual isolated contest where skiers one by one run a course and see who posts the fastest time after everyone has reached downhill.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="35">
+          <content>The side-by-side racing is a treat to watch.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="36">
+          <content>Russia&amp;apost;s Vic Wild won the gold in the men&amp;apost;s big final, beating Slovenia&amp;apost;s Zan Kosir, who took the silver medal.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="37">
+          <content>Winning the small final race was Austria&amp;apost;s Benjamin Karl, who won the bronze medal by beating Italy&amp;apost;s Aaron March.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="38">
+          <content>In the women&amp;apost;s parallel slalom, gold went to Austria&amp;apost;s Julia Dujmovits and silver to Germany&amp;apost;s Anke Karstens.</content>
+        </sentence>
+        <sentence id="39">
+          <content>Germany also won bronze, by Amelie Kober.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

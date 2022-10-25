@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="345" link="http://www.cnn.com/2013/07/15/health/artificial-sweeteners-soda/index.html" date_published="2013-07-15 16:39:41" category="health" author="Jacque Wilson, Elizabeth Landau and Jen Christensen, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Real or fake sugar: Does it matter?</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="6">Science doesn&amp;apost;t have all the answers yet to questions about artificial sweeteners.</sentence>
+      <sentence id="2" ids_article_sentences="29">There is no clear evidence that artificial sweeteners cause cancer in humans.</sentence>
+      <sentence id="3" ids_article_sentences="52">Expert: The healthiest people eat a healthy diet and have limited intake of any type of sweetener.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-02 12:43:29" annotation_time="2221.365">
+      <sentence id="6" ids_highlights="1">Science doesn&amp;apost;t have all the answers yet, but we spoke to researchers who had some clues.</sentence>
+      <sentence id="29" ids_highlights="2">There is no clear evidence that artificial sweeteners cause cancer in humans, according to the National Cancer Institute.</sentence>
+      <sentence id="52" ids_highlights="3">Basically, the healthiest people are those who eat a healthy diet and have limited their intake of any type of sweetener, Popkin said.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Full disclosure: A lot of journalists at CNN drink diet soda.</content>
+        </sentence>
+        <sentence id="2">
+          <content>So when we saw a new study suggesting that artificially sweetened beverages are just as bad for you as sugar-sweetened drinks, we, and our readers, bubbled over with questions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>Are artificial sweeteners used in soft drinks and foods safe?</content>
+        </sentence>
+        <sentence id="4">
+          <content>Will they make us fat?</content>
+        </sentence>
+        <sentence id="5">
+          <content>How much is too much?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="6">
+          <content>Science doesn&amp;apost;t have all the answers yet, but we spoke to researchers who had some clues.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>Of course, you can always avoid the controversy altogether by replacing soda with water or dessert with fresh fruit.</content>
+        </sentence>
+        <sentence id="8">
+          <content>But if you&amp;apost;re going to consume artificial sweeteners, we thought you should know the answers to some key questions:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="9">
+          <content>What are artificial sweeteners made of?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>There are five FDA-approved artificial sweeteners, and each of them has a different chemical makeup.</content>
+        </sentence>
+        <sentence id="11">
+          <content>There&amp;apost;s sucralose (Splenda), acesulfame potassium (Sunett, Sweet One), aspartame (Equal, NutraSweet), neotame, and saccharin (SugarTwin, Sweet&amp;apost;N Low).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>Aspartame, the sweetener most often used in diet sodas, for instance, is composed of two amino acids: aspartic acid and phenylalanine, according to the American Cancer Society.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>Splenda, on the other hand, is created by replacing hydrogen and oxygen in sugar molecules with chlorine atoms.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;It&amp;apost;s a taste issue,&amp;quot; says Barry Popkin, professor of nutrition at the University of North Carolina&amp;apost;s Gillings School of Public Health.</content>
+        </sentence>
+        <sentence id="15">
+          <content>&amp;quot;They each have separate taste effects and different people react differently to each of them.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="16">
+          <content>How are artificial sweeteners different from natural sweeteners?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="17">
+          <content>Although consumers may perceive &amp;quot;natural&amp;quot; sweeteners as safer, products such as fruit juices and nectars, molasses, honey and maple syrup frequently undergo processing and refining, according to the Mayo Clinic.</content>
+        </sentence>
+        <sentence id="18">
+          <content>The vitamin and mineral content of processed table sugar doesn&amp;apost;t differ significantly from these substitutes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="19">
+          <content>Products such as Stevia, also touted as natural, are also processed and refined before being sold to the public.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="20">
+          <content>What is different is how your body processes artificial sweeteners versus natural ones.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="21">
+          <content>Essentially, the receptors your body uses to detect sweetness are &amp;quot;really awful,&amp;quot; according to Eric Walters, author of &amp;quot;The Sweetener Book.&amp;quot;</content>
+        </sentence>
+        <sentence id="22">
+          <content>In other words, the body&amp;apost;s sweet-taste receptor is not very sensitive.</content>
+        </sentence>
+        <sentence id="23">
+          <content>It really only detects sugar in large quantities.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="24">
+          <content>But &amp;quot;artificial sweeteners randomly fit the receptor better and it triggers the receptor with far smaller quantities of the material,&amp;quot; Walters said.</content>
+        </sentence>
+        <sentence id="25">
+          <content>That&amp;apost;s why if you were to taste a packet of sugar and a packet of Sweet&amp;apost;N Low, the Sweet&amp;apost;N Low would taste sweeter.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="26">
+          <content>&amp;quot;In fact, in the Sweet&amp;apost;N Low packet there only needs to be a tiny bit of the actual sweet, Sweet&amp;apost;N Low material.</content>
+        </sentence>
+        <sentence id="27">
+          <content>It&amp;apost;s that sweet -- the rest of it is filler.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="28">
+          <content>Do artificial sweeteners cause cancer?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="29">
+          <content>There is no clear evidence that artificial sweeteners cause cancer in humans, according to the National Cancer Institute.</content>
+        </sentence>
+        <sentence id="30">
+          <content>The public&amp;apost;s concern seems to stem from older studies that tested the association in rats (not humans) and used extremely high doses of artificial sweeteners.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="31">
+          <content>For example, studies done in the 1970s linked saccharin to bladder cancer in rats, prompting scientists to look into the sweetener&amp;apost;s effect on humans.</content>
+        </sentence>
+        <sentence id="32">
+          <content>They found the mechanism that caused the cancer wasn&amp;apost;t even possible in the human body.</content>
+        </sentence>
+        <sentence id="33">
+          <content>Saccharin was removed from the United States&amp;apost; list of carcinogens in 2000.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="34">
+          <content>You may also remember the 1996 study that suggested aspartame was linked to an increase in brain tumors between 1975 and 1992.</content>
+        </sentence>
+        <sentence id="35">
+          <content>But a later NCI analysis concluded the increase in brain cancers overall started several years before the FDA&amp;apost;s approval of aspartame.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="36">
+          <content>A more recent study, done in 2005, found that when rats were fed high doses of aspartame -- the equivalent of drinking as many as 2,000 cans of diet soda every day -- they had a higher risk of developing lymphoma or leukemia.</content>
+        </sentence>
+        <sentence id="37">
+          <content>Would this increased risk still occur in humans with lower doses?</content>
+        </sentence>
+        <sentence id="38">
+          <content>Scientists don&amp;apost;t think so.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="39">
+          <content>Are sweeteners better or worse than sugar?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="40">
+          <content>&amp;quot;That&amp;apost;s where it gets complicated,&amp;quot; Walters said.</content>
+        </sentence>
+        <sentence id="41">
+          <content>&amp;quot;Different sweeteners have different advantages and disadvantages.</content>
+        </sentence>
+        <sentence id="42">
+          <content>If you worry about the calories, then stay away from sugar.</content>
+        </sentence>
+        <sentence id="43">
+          <content>If you are most concerned about taste quality, sugar generally tastes best.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="44">
+          <content>Some artificial sweeteners can have small side effects.</content>
+        </sentence>
+        <sentence id="45">
+          <content>If you eat too much sorbitol, for instance -- a type of sweetener called a &amp;quot;sugar alcohol&amp;quot; -- it can trigger gas and diarrhea.</content>
+        </sentence>
+        <sentence id="46">
+          <content>This is because your body doesn&amp;apost;t digest sorbitol as well, Walters said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="47">
+          <content>Artificial sweeteners contain no calories, so they may aid in weight loss.</content>
+        </sentence>
+        <sentence id="48">
+          <content>Yet the new study suggests the lack of calories could also have a counterintuitive effect on the body.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="49">
+          <content>The Purdue University scientists believe the fake sugar in diet sodas teases your body by pretending to give it real food.</content>
+        </sentence>
+        <sentence id="50">
+          <content>But when your body doesn&amp;apost;t get the things it expects, it becomes confused on how to respond.</content>
+        </sentence>
+        <sentence id="51">
+          <content>On a physiological level, they say, this means when diet soda drinkers consume real sugar, the body doesn&amp;apost;t release the hormone that regulates blood sugar and blood pressure.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="52">
+          <content>Basically, the healthiest people are those who eat a healthy diet and have limited their intake of any type of sweetener, Popkin said.</content>
+        </sentence>
+        <sentence id="53">
+          <content>But if you have a sweet tooth, that may be a hard sell.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="54">
+          <content>So how much is too much?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="55">
+          <content>The FDA recommends ingesting no more than 50 milligrams of aspartame per kilogram of body weight every day.</content>
+        </sentence>
+        <sentence id="56">
+          <content>That amounts to 22 cans of diet soda for a 175-pound man, and 15 cans for a 120-pound woman.</content>
+        </sentence>
+        <sentence id="57">
+          <content>If you&amp;apost;re putting two packets of artificial sugar into coffee, that would be about 116 cups of coffee for the man in this example, and 79 cups for the woman.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="58">
+          <content>&amp;quot;I really think that if you are consuming five or six cans a day, you may have more problems from consuming too much caffeine or acid than from the sweeteners,&amp;quot; Walters said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="59">
+          <content>No large, controlled studies have shown that there is a limit to how much diet soda you can consume without harm if you&amp;apost;re keeping the rest of your diet in check, Popkin said.</content>
+        </sentence>
+        <sentence id="60">
+          <content>So far, at least, human research has not shown that quantity of artificial sweetener matters.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="61">
+          <content>&amp;quot;It&amp;apost;s not whether it&amp;apost;s 2 or 6 or 10,&amp;quot; Popkin said.</content>
+        </sentence>
+        <sentence id="62">
+          <content>&amp;quot;It&amp;apost;s a question of what else they do with their diet that counts.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="63">
+          <content>Bottom line?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="34">
+      <sentences>
+        <sentence id="64">
+          <content>As with most things in life, artificial sweeteners aren&amp;apost;t dangerous in moderation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="35">
+      <sentences>
+        <sentence id="65">
+          <content>Researchers will continue seeking answers to these questions and CNN will continue to report on the latest findings, in pursuit of the soda fountain of youth.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

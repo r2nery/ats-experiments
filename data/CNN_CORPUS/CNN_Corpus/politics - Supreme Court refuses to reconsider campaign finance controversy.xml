@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1121" link="http://edition.cnn.com/2012/06/25/politics/scotus-campaign-finance/index.html" date_published="2012-06-25 14:47:35" category="politics" author="Josh Levs and Bill Mears, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Supreme Court refuses to reconsider campaign finance controversy</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="20">NEW: Nancy Pelosi slams the &amp;quot;terrible&amp;quot; decision .</sentence>
+      <sentence id="2" ids_article_sentences="2">The court refuses to hear arguments on whether states can limit campaign spending .</sentence>
+      <sentence id="3" ids_article_sentences="4">The 2010 Citizens United ruling allowed unlimited spending by corporations .</sentence>
+      <sentence id="4" ids_article_sentences="2">Monday&amp;apost;s ruling means state laws can&amp;apost;t limit such spending.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-27 16:56:11" annotation_time="47.153">
+      <sentence id="2" ids_highlights="2, 4">In a 5-4 ruling, with the more liberal justices dissenting, the high court refused to hear arguments over whether a state can limit campaign spending by corporations.</sentence>
+      <sentence id="4" ids_highlights="3">In a nutshell, the court decided that its 2010 Citizens United decision -- which helped open the floodgates to massive corporate spending in elections and give birth to super PACs -- trumps state laws.</sentence>
+      <sentence id="20" ids_highlights="1">House Minority Leader Nancy Pelosi slammed the Supreme Court&amp;apost;s &amp;quot;terrible decision,&amp;quot; tweeting that it &amp;quot;will keep floodgates open to special interest money.&amp;quot;</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The Supreme Court refused Monday to reconsider one of its most controversial decisions of recent years, which has had a dramatic effect on election campaigns.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>In a 5-4 ruling, with the more liberal justices dissenting, the high court refused to hear arguments over whether a state can limit campaign spending by corporations.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The case focused on Montana, but its implications were widespread.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>In a nutshell, the court decided that its 2010 Citizens United decision -- which helped open the floodgates to massive corporate spending in elections and give birth to super PACs -- trumps state laws.</content>
+        </sentence>
+        <sentence id="5">
+          <content>And it won&amp;apost;t be revisited any time soon.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>That ruling blessed unlimited campaign spending by corporations, saying they have the same free speech rights as wealthy individuals, who have long enjoyed the ability to spend freely on behalf of federal candidates.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>The central question in the Montana case was whether a state can maintain its own laws limiting independent campaign spending.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>Montana&amp;apost;s highest court ruled that the state can keep its own century-old restrictions.</content>
+        </sentence>
+        <sentence id="9">
+          <content>In February, the U.S. Supreme Court blocked enforcement of that state ruling.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>The question before it now was whether to hear arguments from both sides.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>In its ruling Monday, the court said, &amp;quot;The question presented in this case is whether the holding of Citizens United applies to the Montana state law.</content>
+        </sentence>
+        <sentence id="12">
+          <content>There can be no serious doubt that it does.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>Justice Stephen Breyer wrote the dissenting opinion, joined by Justices Ruth Bader Ginsburg, Sonia Sotomayor, and Elena Kagan.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>Breyer wrote that he disagreed with the Citizens United decision.</content>
+        </sentence>
+        <sentence id="15">
+          <content>And, he said, even if he had accepted it, Montana should be allowed to decide &amp;quot;that independent expenditures by corporations did in fact lead to corruption or the appearance of corruption in Montana.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="16">
+          <content>Senate Republican Leader Mitch McConnell of Kentucky praised the court&amp;apost;s decision Monday as &amp;quot;another important victory for freedom of speech.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="17">
+          <content>He added, &amp;quot;Clearly, the much predicted corporate tsunami that critics of Citizens United warned about simply did not occur.&amp;apost;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="18">
+          <content>Records showed that the vast majority of the money that went to eight super PACs supporting Republican candidates earlier this year came from individuals, while only about 14% came from corporations, he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="19">
+          <content>McConnell had filed an amicus brief in the case.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="20">
+          <content>House Minority Leader Nancy Pelosi slammed the Supreme Court&amp;apost;s &amp;quot;terrible decision,&amp;quot; tweeting that it &amp;quot;will keep floodgates open to special interest money.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="21">
+          <content>The reform group Common Cause, meanwhile, issued a statement saying, &amp;quot;By summarily rejecting Montana&amp;apost;s law banning corporate political spending, the Supreme Court has turned a blind eye to political corruption and the tsunami of special interest money flooding into this year&amp;apost;s national elections.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="22">
+          <content>It called the court&amp;apost;s refusal to grant a hearing &amp;quot;arrogant.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

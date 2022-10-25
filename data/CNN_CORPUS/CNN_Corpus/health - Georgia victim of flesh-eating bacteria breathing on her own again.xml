@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="260" link="http://www.cnn.com/2012/05/21/health/georgia-flesh-eating-bacteria" date_published="2012-05-21 07:11:11" category="health" author="the CNN Wire Staff" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Georgia victim of flesh-eating bacteria breathing on her own again</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Aimee Copeland is off a ventilator, her father writes .</sentence>
+      <sentence id="2" ids_article_sentences="1">Copeland has lost both hands, feet and part of her torso due to the infection .</sentence>
+      <sentence id="3" ids_article_sentences="35">She has necrotizing fasciitis, caused by flesh-eating bacteria from a zip-lining accident.</sentence>
+      <sentence id="4" ids_article_sentences="28">&amp;quot;I have never seen such a strong display of courage,&amp;quot; he says of his daughter.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-11 17:10:48" annotation_time="350.537" mapping_time_divergence="87.63425">
+      <sentence id="1" ids_highlights="1, 2">Aimee Copeland, the 24-year-old Georgia woman who lost both hands and feet to a bacterial infection, is now breathing on her own, her father said.</sentence>
+      <sentence id="28" ids_highlights="4">I wasn&amp;apost;t crying because Aimee was going to lose her hands and foot, I was crying because, in all my 53 years of existence, I have never seen such a strong display of courage.</sentence>
+      <sentence id="35" ids_highlights="3">Three days later, still in pain, she went to an emergency room, where doctors determined she had necrotizing fasciitis caused by the flesh-devouring bacteria Aeromonas hydrophila.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Aimee Copeland, the 24-year-old Georgia woman who lost both hands and feet to a bacterial infection, is now breathing on her own, her father said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>&amp;quot;Aimee is being Aimee.</content>
+        </sentence>
+        <sentence id="3">
+          <content>She&amp;apost;s cracking jokes, speaking frankly, displaying her usual early morning grumpiness and she has been off of the ventilator for over 10 hours,&amp;quot; Andy Copeland said in a blog post Sunday night.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Though the University of West Georgia student is still receiving an oxygen &amp;quot;mask,&amp;quot; Andy Copeland wrote, &amp;quot;the important thing is that she is getting zero breath per minute (bpm) assists.</content>
+        </sentence>
+        <sentence id="5">
+          <content>In other words, she is breathing completely on her own!</content>
+        </sentence>
+        <sentence id="6">
+          <content>How cool is that?&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;Bottom line: Aimee is doing great today.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>The progress came after a harrowing week, in which Copeland&amp;apost;s remaining foot and both hands were amputated.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>Prior to the surgery, a website posting by Copeland&amp;apost;s friend and fellow psychology student Ken Lewis explained the reason: &amp;quot;Aimee&amp;apost;s fingers and remaining foot will have to be amputated because of dead blood vessels, not because of necrotizing fasciitis,&amp;quot; he wrote.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>Surgeons had already amputated a leg and cut out soft tissue from her torso.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>On a Facebook page dedicated to his daughter&amp;apost;s recovery, Andy Copeland described speaking with the surgeons before the latest amputations.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;The hands were endangering Aimee&amp;apost;s progress,&amp;quot; he writes.</content>
+        </sentence>
+        <sentence id="13">
+          <content>&amp;quot;As always, my decision was simple.</content>
+        </sentence>
+        <sentence id="14">
+          <content>Do whatever it takes to give us the best chance to save Aimee&amp;apost;s life.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>He then broke the news to his daughter.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;I took Aimee&amp;apost;s hands and held them up to her face.</content>
+        </sentence>
+        <sentence id="17">
+          <content>She didn&amp;apost;t draw back in horror.</content>
+        </sentence>
+        <sentence id="18">
+          <content>She knew the condition she was in,&amp;quot; he writes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="19">
+          <content>She nodded as he explained the diagnosis given by her doctors.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="20">
+          <content>Asked whether she had any questions, his daughter mouthed, &amp;quot;I&amp;apost;m a little confused, but I&amp;apost;ll figure it out,&amp;quot; he writes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="21">
+          <content>The patient then listened as her father, mother Donna and sister Paige explained how she would eventually be fitted with prosthetic limbs.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;She smiled and raised her hands up, carefully examining them.</content>
+        </sentence>
+        <sentence id="23">
+          <content>She then looked at us.</content>
+        </sentence>
+        <sentence id="24">
+          <content>We all understood her next three words,&amp;quot; he writes. &amp;quot;.</content>
+        </sentence>
+        <sentence id="25">
+          <content>&amp;apost;Let&amp;apost;s do this.&amp;apost; &amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="26">
+          <content>Andy Copeland then pays tribute to the strength of his daughter, who has spent days in intensive care at Doctors Hospital in Augusta, Georgia.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="27">
+          <content>&amp;quot;A tear rolled down my face as I walked out of her room.</content>
+        </sentence>
+        <sentence id="28">
+          <content>I wasn&amp;apost;t crying because Aimee was going to lose her hands and foot, I was crying because, in all my 53 years of existence, I have never seen such a strong display of courage.</content>
+        </sentence>
+        <sentence id="29">
+          <content>Aimee shed no tears, she never batted an eyelash.</content>
+        </sentence>
+        <sentence id="30">
+          <content>I was crying because I am a proud father of an incredibly courageous young lady.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="31">
+          <content>Copeland&amp;apost;s struggle has been followed by many Americans, as her family has shared the ups and downs of her battle against the &amp;quot;flesh-eating&amp;quot; bacteria.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="32">
+          <content>She was with friends May 1 near the Little Tallapoosa River, about 50 miles west of Atlanta, when she grabbed onto a zip line.</content>
+        </sentence>
+        <sentence id="33">
+          <content>It snapped, and she fell.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="34">
+          <content>The accident left a gash in her left calf that took 22 staples to close.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="35">
+          <content>Three days later, still in pain, she went to an emergency room, where doctors determined she had necrotizing fasciitis caused by the flesh-devouring bacteria Aeromonas hydrophila.</content>
+        </sentence>
+        <sentence id="36">
+          <content>She was flown to Augusta for the first of what has turned into a series of surgical procedures.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="37">
+          <content>Among them has been a tracheotomy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="38">
+          <content>Her father recounted how her loved ones saw the inevitability of the amputations in the changing color of her hands from day to day.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="39">
+          <content>&amp;quot;Some people may criticize my decision and say we should have prayed over Aimee and asked God to heal her hands.</content>
+        </sentence>
+        <sentence id="40">
+          <content>Trust me, this we have done every day,&amp;quot; he writes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="41">
+          <content>There is uncertainty about how common such infections are, since no clearinghouse compiles statistics on their incidence.</content>
+        </sentence>
+        <sentence id="42">
+          <content>But Dr. William Schaffner, chairman of the Department of Preventive Medicine at the Vanderbilt University Medical Center, estimates there are fewer than 250 cases every year in the United States.</content>
+        </sentence>
+        <sentence id="43">
+          <content>The reporting of such cases is not required by law.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="44">
+          <content>The infection is fatal in about one in four cases, the Centers for Disease Control and Prevention says on its website.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="45">
+          <content>The bacteria are &amp;quot;remarkably common in the water and in the environment,&amp;quot; according to Dr. Buddy Creech, assistant professor of pediatric infectious diseases at Vanderbilt University.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="46">
+          <content>&amp;quot;When it gets into those deeper tissues, it has a remarkable ability to destroy the tissues that surround it in sort of this hunt for nutrition,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="47">
+          <content>&amp;quot;When it does that, those tissues die, and you see the inflammation and the swelling and the destruction that can be very difficult to control.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="48">
+          <content>Meanwhile, a South Carolina woman undergoing treatment for the same condition continues to recover.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="49">
+          <content>After seven surgeries, Lana Kuykendall&amp;apost;s family realizes she &amp;quot;still has a long road ahead.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="50">
+          <content>&amp;quot;We don&amp;apost;t know what the next day is going to bring, so we&amp;apost;re just trusting the Lord,&amp;quot; her brother Brian Swaffer said Sunday.</content>
+        </sentence>
+        <sentence id="51">
+          <content>&amp;quot;We&amp;apost;re taking it one day at a time.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="52">
+          <content>Kuykendall was healthy when she gave birth to twins on May 7 in Atlanta but went to the hospital near her home in South Carolina a few days later after noticing a rapidly expanding bruise on her leg.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="53">
+          <content>The twins are healthy, he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

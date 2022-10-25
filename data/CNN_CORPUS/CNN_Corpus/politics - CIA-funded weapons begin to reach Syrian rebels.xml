@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1015" link="http://www.cnn.com/2013/09/12/politics/syria-arming-rebels/index.html" date_published="2013-09-12 06:54:44" category="politics" author="Barbara Starr, CNN Pentagon Correspondent, and Leslie Bentz, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>CIA-funded weapons begin to reach Syrian rebels</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">NEW: Rebel groups say they have yet to receive weapons.</sentence>
+      <sentence id="2" ids_article_sentences="4">Official: &amp;quot;That is something we are not going to dispute&amp;quot;.</sentence>
+      <sentence id="3" ids_article_sentences="5">The weapons are not American-made but are funded and organized by the CIA .</sentence>
+      <sentence id="4" ids_article_sentences="6">They started to reach rebels about two weeks ago, the official says.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-01 15:29:17" annotation_time="24.593668" mapping_time_divergence="6.148417">
+      <sentence id="2" ids_highlights="1">But opposition groups say they have yet to receive any.</sentence>
+      <sentence id="4" ids_highlights="2">&amp;quot;That is something we are not going to dispute, but we are not going to publicly speak to it,&amp;quot; the official said.</sentence>
+      <sentence id="5" ids_highlights="3">The weapons are not American-made, but are funded and organized by the CIA.</sentence>
+      <sentence id="6" ids_highlights="4">They started to reach rebels about two weeks ago, the official said.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Washington CIA-funded weapons have begun flowing to Syrian rebels, a U.S. official told CNN.</content>
+        </sentence>
+        <sentence id="2">
+          <content>But opposition groups say they have yet to receive any.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>The official confirmed details first reported by the Washington Post but would not speak publicly.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>&amp;quot;That is something we are not going to dispute, but we are not going to publicly speak to it,&amp;quot; the official said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>The weapons are not American-made, but are funded and organized by the CIA.</content>
+        </sentence>
+        <sentence id="6">
+          <content>They started to reach rebels about two weeks ago, the official said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>The artillery was described as light weapons, some anti-tank weapons and ammunition.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>The Syrian National Coalition and the Free Syrian Army deny they have received weapons from the United States.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>&amp;quot;We have some promises from the U.S. administration of shipment of weapons in a short period of time, but until now we have not received any,&amp;quot; said Free Syrian Army Political and Media Coordinator Louay al-Mokdad.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;We have logistical help, but we didn&amp;apost;t get weapons until now.</content>
+        </sentence>
+        <sentence id="11">
+          <content>We hope that in the next short period of time we will start receiving weapons, because we have promises from EU countries and the U.S. that they will help us and support us.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>The supply is in addition to the non-lethal aid that the United States has been providing the rebels since April, when the Obama administration first altered the nature of the aid to include items such as body armor, night vision goggles and other military equipment.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>The official insisted the effort has been in the works for some time, and did not start as an effort to appease those calling for more rebel aid during the new diplomatic initiative with Russia.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>Kerry hints at transfer.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>Secretary of State John Kerry said Tuesday during a Google+ Hangout discussion that &amp;quot;many of the items that people complained were not getting to them are now getting to them.&amp;quot;</content>
+        </sentence>
+        <sentence id="16">
+          <content>He did not elaborate on specifics.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="17">
+          <content>A spokeswoman for the National Security Council declined comment.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;We aren&amp;apost;t able to inventory or provide timelines for every type of assistance we provide to the Syrian opposition,&amp;quot; spokeswoman Bernadette Meehan said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="19">
+          <content>CNN could not reach members of the rebel forces early Thursday morning.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="20">
+          <content>Congress approved supply.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="21">
+          <content>The supply of weapons was approved by Congress after the Obama administration asserted the regime of Syrian President Bashar al-Assad had used chemical weapons on a small scale.</content>
+        </sentence>
+        <sentence id="22">
+          <content>But no progress toward physically supplying the rebels had been reported since then.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="23">
+          <content>&amp;quot;Some things have not been getting to the opposition as rapidly as one would have hoped,&amp;quot; Kerry said Tuesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="24">
+          <content>CNN first reported on the plan to arm Syrian rebels with small arms and ammunition in June, but officials refused to lay out a time line on delivery.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="25">
+          <content>Obama&amp;apost;s national security team and members of Congress have repeatedly urged the president to increase direct aid for the rebels.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="26">
+          <content>They argue such a step would strengthen the hand of moderate members of the Syrian opposition, and make them less reliant on well-armed extremist elements within their ranks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="27">
+          <content>Other developments.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="28">
+          <content>The latest developments come on the eve of new diplomatic negotiations between the United States and Russia, which begin Thursday in Geneva, Switzerland.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="29">
+          <content>Secretary Kerry will meet with Russian Foreign Minister Sergey Lavrov for two days to discuss a Moscow proposal to avert a U.S.-led strike in Syria by having the Syrian government put its chemical weapons stockpile under international control.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="30">
+          <content>But as Russia continues to supply Bashar Al-Assad&amp;apost;s regime with weapons while the U.S. supplies the rebels, and Putin writes a piece in the New York Times questioning the authority of Obama&amp;apost;s call for military strikes, the baggage being brought to the negotiation table continues to pile up before talks have even begun.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

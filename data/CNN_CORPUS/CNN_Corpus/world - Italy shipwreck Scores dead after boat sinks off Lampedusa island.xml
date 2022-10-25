@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2343" link="http://www.cnn.com/2013/10/03/world/europe/italy-migrants-sink" date_published="2013-10-03 09:02:58" category="world" author="Hada Messia. Ben Wedeman and Laura Smith-Spark, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Italy shipwreck: Scores dead after boat sinks off Lampedusa island</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">NEW: 154 people have been rescued after boat capsizes and burns, a doctor says.</sentence>
+      <sentence id="2" ids_article_sentences="39">Pope Francis calls for concerted action to prevent future tragedies like this.</sentence>
+      <sentence id="3" ids_article_sentences="4">Lampedusa is a major destination for refugees seeking to enter the EU from Africa.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-14 00:57:23" annotation_time="82.51433">
+      <sentence id="3" ids_highlights="1">Antonio Candela said that 154 people had been rescued in the ongoing operation.</sentence>
+      <sentence id="4" ids_highlights="3">Lampedusa, not far from Sicily and the closest Italian island to Africa, has become a destination for tens of thousands of refugees seeking to enter European Union countries -- and such deadly shipwrecks are all too common.</sentence>
+      <sentence id="39" ids_highlights="2">And in a statement issued by the Vatican Thursday, Francis called for concerted action to prevent more tragedies like the Lampedusa shipwreck.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Rome A boat carrying as many as 500 people capsized and caught fire off the Italian island of Lampedusa, the nation&amp;apost;s coast guard told CNN on Thursday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>At least 110 people died, a doctor with the local health department said.</content>
+        </sentence>
+        <sentence id="3">
+          <content>Antonio Candela said that 154 people had been rescued in the ongoing operation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Lampedusa, not far from Sicily and the closest Italian island to Africa, has become a destination for tens of thousands of refugees seeking to enter European Union countries -- and such deadly shipwrecks are all too common.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>The latest boat to sink is thought to have been carrying up to 500 people.</content>
+        </sentence>
+        <sentence id="6">
+          <content>Those aboard include Eritreans, Somalis and Ghanaians, the coast guard said, and the boat is believed to have launched from Libya&amp;apost;s coast.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>CNN forecasters said there were some gusting winds and showers Thursday morning in the region but no weather conditions significant enough to be likely to sink a boat.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>According to Italian media reports, the vessel sank near Rabbit Beach, also known as Rabbit Island, which was recently voted one of the best beaches in the world by Trip Advisor.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>The survivors are being taken to Lampedusa&amp;apost;s main port, where authorities have the facilities to help them.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>The bodies of those who didn&amp;apost;t make it are also being moved there.</content>
+        </sentence>
+        <sentence id="11">
+          <content>Images from the scene showed some lined up in body bags on a quayside.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>The head of the U.N. refugee agency, Antonio Guterres, praised the efforts of the Italian coast guard but said he was &amp;quot;dismayed at the rising global phenomenon of migrants and people fleeing conflict or persecution and perishing at sea.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>Another 13 men drowned off Italy&amp;apost;s southern coast Monday when they attempted to swim ashore, the U.N agency said in a statement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>It is working with countries in the region to find &amp;quot;effective alternatives&amp;quot; so people don&amp;apost;t risk their lives trying to make perilous journeys by sea, it said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>Dehydrated, burned.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="16">
+          <content>Last week, the Italian coast guard rescued a ship bound for Lampedusa from Tunisia that had 398 Syrian refugees on board.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="17">
+          <content>There is generally a spike in migrants coming to the island -- which has 6,000 full-time residents -- in the summer because the seas are calmer.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="18">
+          <content>Migrants who spoke to CNN&amp;apost;s Eric Marrapodi last week in Lampedusa said they typically spent a day or two at sea in boats that are barely seaworthy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="19">
+          <content>Those who arrive generally have no papers and seek asylum in Italy.</content>
+        </sentence>
+        <sentence id="20">
+          <content>They spend anywhere from a day to a week on Lampedusa before moving to another city on the mainland.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="21">
+          <content>At the detention center where they first take the migrants, the coast guard said, they had 1,250 migrants in a space designed for 250.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="22">
+          <content>A Navy doctor said that typically those who arrive are treated for dehydration, sun exposure, and gasoline burns, because they&amp;apost;re so packed into the boats the fuel splashes and burns the skin.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="23">
+          <content>A Navy commander said the service has been working with Thuraya, a satellite phone company, to try to make sure that it gets the coordinates of migrants sent out on boats by traffickers before they come to harm.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="24">
+          <content>Overcrowded boats.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="25">
+          <content>Just under 115 kilometers (70 miles) from Tunisia, the island has been the first point of entry to Europe for more than 200,000 refugees and irregular migrants who have passed through the island since 1999.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="26">
+          <content>But boats carrying migrants often are in peril at sea.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="27">
+          <content>In recent years, the Italian Coast Guard says it has been involved in the rescue of more than 30,000 refugees around the island.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="28">
+          <content>Izabella Cooper, a spokeswoman for the European Union&amp;apost;s border control agency, Frontex, told CNN that migrants are often sent to sea in overcrowded vessels without the engine power to make such a long and dangerous journey.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="29">
+          <content>Since the start of the year, Frontex -- which supports the efforts of individual EU member states -- has helped save more than 16,000 lives in search-and-rescue operations, she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="30">
+          <content>While Italy is the current focus of efforts by migrants and asylum-seekers hoping to enter the European Union, Cooper said, that has not always been the case.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="31">
+          <content>&amp;quot;Seven years ago it was the Canary Islands, then the pressure moved to the central Mediterranean, then it moved to Greece -- then with the Arab Spring, it moved back to Italy,&amp;quot; she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="32">
+          <content>&amp;quot;There are definitely too many lives lost and definitely too many tragedies in the Mediterranean.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="33">
+          <content>Rights group Amnesty International called for both Italy and the European Union to do more to safeguard the thousands who risk their lives each year in the hope of protection or a better life.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="34">
+          <content>&amp;quot;It is high time the Italian authorities and the EU increase their search-and-rescue capacity and co-operation in the Mediterranean Sea, rather than concentrating resources on closing off the borders,&amp;quot; said Jezerca Tigani, deputy director of Amnesty International&amp;apost;s Europe and Central Asia Program.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="35">
+          <content>&amp;quot;More must be done to prevent further loss of life in the future.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="36">
+          <content>Pope&amp;apost;s prayers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="37">
+          <content>Pope Francis, who visited the tiny island near Sicily this summer to pray for refugees and migrants lost at sea, echoed that call.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="34">
+      <sentences>
+        <sentence id="38">
+          <content>During his visit to Lampedusa in July, Pope Francis criticized what he called &amp;quot;global indifference&amp;quot; to the island&amp;apost;s refugee crisis.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="35">
+      <sentences>
+        <sentence id="39">
+          <content>And in a statement issued by the Vatican Thursday, Francis called for concerted action to prevent more tragedies like the Lampedusa shipwreck.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="36">
+      <sentences>
+        <sentence id="40">
+          <content>&amp;quot;It is a disgrace!&amp;quot;</content>
+        </sentence>
+        <sentence id="41">
+          <content>he said.</content>
+        </sentence>
+        <sentence id="42">
+          <content>&amp;quot;Let&amp;apost;s pray together with God for those who have lost their lives: men, women, children and for the families of all the refugees.</content>
+        </sentence>
+        <sentence id="43">
+          <content>Let&amp;apost;s bring our forces together so tragedies like these ones don&amp;apost;t happen again.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="37">
+      <sentences>
+        <sentence id="44">
+          <content>A risky journey.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="38">
+      <sentences>
+        <sentence id="45">
+          <content>According to a briefing published by the U.N. refugee agency in July, the peak crossing period for migrants and asylum-seekers runs from May to September.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="39">
+      <sentences>
+        <sentence id="46">
+          <content>The agency estimates that 8,400 migrants and asylum-seekers landed on the coasts of Italy and Malta in the first six months of this year, all but 600 of them in Italy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="40">
+      <sentences>
+        <sentence id="47">
+          <content>Most departed from North Africa, principally Libya, for the perilous journey across the Mediterranean, one of the busiest seaways in the world.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="41">
+      <sentences>
+        <sentence id="48">
+          <content>The migrants and asylum seekers chiefly come from countries in sub-Saharan Africa, particularly Somalia and Eritrea, it said.</content>
+        </sentence>
+        <sentence id="49">
+          <content>Others originate from Syria, Egypt or Pakistan, and smaller numbers from Gambia, Mali and Afghanistan.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="42">
+      <sentences>
+        <sentence id="50">
+          <content>The U.N. refugee agency recorded some 40 deaths in the first six months of 2013, a figure based on interviews with survivors of the crossing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="43">
+      <sentences>
+        <sentence id="51">
+          <content>For 2012 as a whole, some 15,000 migrants and asylum-seekers reached Italy and Malta -- and almost 500 people were reported dead or missing at sea, it said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="44">
+      <sentences>
+        <sentence id="52">
+          <content>The U.N. agency credits the efforts of the Italian coast guard and Maltese armed forces for a reduction in migrant deaths in the first half of 2013 compared with the previous year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2121" link="http://edition.cnn.com/2013/08/29/world/asia/china-space" date_published="2013-08-29 10:04:12" category="world" author="Peter Shadbolt, CNN" highlights_mapped="true" mapping_error="false">
+  <title>China sets course for lunar landing this year</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">China announces plans to land first lunar probe by the end of the year.</sentence>
+      <sentence id="2" ids_article_sentences="5">Chang&amp;apost;e-3 will be launched from the Xichang Satellite Launch Center in southwest China.</sentence>
+      <sentence id="3" ids_article_sentences="7">The mission constitutes the second phase of China&amp;apost;s lunar program.</sentence>
+      <sentence id="4" ids_article_sentences="7">The mission includes orbiting, landing and returning to Earth.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-03 05:04:35" annotation_time="19.606">
+      <sentence id="1" ids_highlights="1">China set a bold new course in its ambitious space program Wednesday, when it announced plans to land its first probe on the moon by the end of the year.</sentence>
+      <sentence id="5" ids_highlights="2">Chang&amp;apost;e-3 will be launched from the Xichang Satellite Launch Center in southwest China, China&amp;apost;s space agency said.</sentence>
+      <sentence id="7" ids_highlights="3, 4">The mission will make up the second phase of China&amp;apost;s lunar program which includes orbiting, landing and returning to Earth.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>China set a bold new course in its ambitious space program Wednesday, when it announced plans to land its first probe on the moon by the end of the year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The country&amp;apost;s State Administration of Science, Technology and Industry for National Defence told state media the Chang&amp;apost;e-3 lunar probe had officially entered its launch stage and by the end of the year, China would land a space probe on a celestial body for the first time.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;The Chang&amp;apost;e-3 mission makes best use of a plethora of innovative technology.</content>
+        </sentence>
+        <sentence id="4">
+          <content>It is an extremely difficult mission, that carries great risk,&amp;quot; Ma Xingrui, the head of China&amp;apost;s space exploration body and chief commander of the lunar program, told the Xinhua news agency.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Chang&amp;apost;e-3 will be launched from the Xichang Satellite Launch Center in southwest China, China&amp;apost;s space agency said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>If successful, Chang&amp;apost;e-3 will be not only China&amp;apost;s first attempt at a soft-landing on the lunar surface but the first time a soft-landing has been carried out since America&amp;apost;s Apollo missions of the 1960s and 70s.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>The mission will make up the second phase of China&amp;apost;s lunar program which includes orbiting, landing and returning to Earth.</content>
+        </sentence>
+        <sentence id="8">
+          <content>Earlier missions included plotting a high-resolution, full-coverage lunar map.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>While some took to Chinese social media to deride the announcement as &amp;quot;wasteful&amp;quot; and an unnecessary provocation -- the U.S. has previously expressed anxiety that China&amp;apost;s space program masks the country&amp;apost;s interest in developing space-launched weapons -- most netizens greeted the project with enthusiasm.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;Remember to bring more national flags and put them up on the moon,&amp;quot; posted one user on popular micro-blogging service, Sina Weibo.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>The decision by the Obama administration in 2010 to abandon NASA&amp;apost;s plans to return to the moon has presented an opportunity for China, which some experts say could allow them to become the second nation to put a man on the moon by 2020.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>With a budget estimated to be around $2bn a year -- almost a tenth of the budget NASA receives - China has stepped up the pace of its space program since first sending astronaut Yang Liwei into orbit in 2003.</content>
+        </sentence>
+        <sentence id="13">
+          <content>In 2012, it conducted 18 space launches, according to the Pentagon.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>While NASA has pledged to land a man on an asteroid by 2025, many experts believe that successive U.S. administrations have lost the will to take on further moon missions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>&amp;quot;NASA is not going to the Moon with a human as a primary project probably in my lifetime.</content>
+        </sentence>
+        <sentence id="16">
+          <content>And the reason is, we can only do so many things,&amp;quot; NASA administrator Charles Bolden told a joint meeting of the Space Studies Board and the Aeronautics and Space Engineering Board in Washington this year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;I don&amp;apost;t know how to say it any more plainly,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="18">
+          <content>&amp;quot;NASA does not have a human lunar mission in its portfolio and we are not planning for one.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="19">
+          <content>Instead, he said the focus would remain on human missions to asteroids and to Mars.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="20">
+          <content>&amp;quot;We intend to do that, and we think it can be done.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="21">
+          <content>But a former chief administrator at NASA, Michael Griffin, giving testimony to the Senate in 2007, heavily criticized Obama&amp;apost;s space plans as an admission that NASA would not be a significant player in human space flight.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="22">
+          <content>Giving testimony to the Senate in 2007, he said it was likely that &amp;quot;China will be able to put people on the moon before we will be able to get back.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

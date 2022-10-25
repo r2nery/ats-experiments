@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="376" link="http://www.cnn.com/2014/01/17/health/surgeon-general-report/index.html" date_published="2014-01-17 17:49:33" category="health" author="Miriam Falco, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Surgeon general links colon cancer, diabetes to smoking</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="15">The new surgeon general&amp;apost;s report links 13 cancers to smoking.</sentence>
+      <sentence id="2" ids_article_sentences="19">Exposure to secondhand smoke causes stroke, the new report says.</sentence>
+      <sentence id="3" ids_article_sentences="24">Some 5.6 million children today will die prematurely if things don&amp;apost;t change, report says.</sentence>
+      <sentence id="4" ids_article_sentences="42">Acting Surgeon General Boris Lushniak says he wants a smoke-free generation.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-27 16:44:05" annotation_time="81.99">
+      <sentence id="15" ids_highlights="1">Thirteen cancers are now linked to smoking and secondhand smoke.</sentence>
+      <sentence id="19" ids_highlights="2">Another finding: &amp;quot;Exposure to secondhand smoke is a cause of stroke,&amp;quot; according to the report.</sentence>
+      <sentence id="24" ids_highlights="3">Some 5.6 million children living today will die early because of smoking if things don&amp;apost;t change, the report warns.</sentence>
+      <sentence id="42" ids_highlights="4">Lushniak says he has a new formula to create a smoke-free generation.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Fifty years ago, smoking was linked to cancer in the first surgeon general&amp;apost;s report on tobacco.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>On Friday, Dr. Boris Lushniak, the acting surgeon general, issued the 32nd report on tobacco, saying &amp;quot;enough is enough.&amp;quot;</content>
+        </sentence>
+        <sentence id="3">
+          <content>His goal: eliminating the use of cigarettes and tobacco.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>In 1964, when Dr. Luther Terry released the first surgeon general&amp;apost;s report, the public learned smoking causes lung cancer.</content>
+        </sentence>
+        <sentence id="5">
+          <content>At the time, 42% of American adults smoked, Lushniak says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>Since then, &amp;quot;Tobacco has killed more than 20 million people prematurely,&amp;quot; says Dr. Thomas Frieden, director of the Centers for Disease Control and Prevention, in the forward to the new report.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>The number of smokers has dropped to 18% in 2012, according to the latest estimates published Thursday by the CDC.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>But &amp;quot;that still translates into 45 million people, including 3 million kids,&amp;quot; Lushniak says.</content>
+        </sentence>
+        <sentence id="9">
+          <content>&amp;quot;One out of three cancers is caused by tobacco (and other smoking products).&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>Even though the number of smokers has gone down, the figures of those dying from disease linked to tobacco products are up.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>While 440,000 people died from smoking-related causes in 2008, that number has risen to 480,000 people dying each year, according to the report.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>And even though the latest data suggests 87% of lung cancer deaths are caused by smoking and secondhand smoke, more smokers age 35 and older die from heart disease than lung cancer.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>Another alarming milestone, according to the report, is that women have caught up to men and for the first time are just as likely as men to die from smoking-related diseases.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>What&amp;apost;s new.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>Thirteen cancers are now linked to smoking and secondhand smoke.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Liver and colorectal cancer are added in this report.</content>
+        </sentence>
+        <sentence id="17">
+          <content>So far, there&amp;apost;s not enough evidence to say smoking causes breast cancer.</content>
+        </sentence>
+        <sentence id="18">
+          <content>Smoking does not cause prostate cancer, according to existing evidence, according to the report.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="19">
+          <content>Another finding: &amp;quot;Exposure to secondhand smoke is a cause of stroke,&amp;quot; according to the report.</content>
+        </sentence>
+        <sentence id="20">
+          <content>People who don&amp;apost;t smoke themselves but are exposed to secondhand smoke have a 20% to 30% increased risk for a stroke.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="21">
+          <content>For the first time, the report found that smoking can cause diabetes, erectile dysfunction, rheumatoid arthritis, macular degeneration, ectopic pregnancies and impaired immune function.</content>
+        </sentence>
+        <sentence id="22">
+          <content>Smokers have a 30% to 40% increased risk of developing Type 2 diabetes compared with nonsmokers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="23">
+          <content>And women who smoke early in their pregnancies put their unborn at risk of having cleft palates or cleft lips, according to the report.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="24">
+          <content>Some 5.6 million children living today will die early because of smoking if things don&amp;apost;t change, the report warns.</content>
+        </sentence>
+        <sentence id="25">
+          <content>That&amp;apost;s one in 13 children, Lushniak says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="26">
+          <content>Lushniak appears passionate about wanting to make smoking a thing of the past.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="27">
+          <content>The tools to do so already exist, he says, including making tobacco products more expensive.</content>
+        </sentence>
+        <sentence id="28">
+          <content>High-impact anti-smoking media campaigns, such as one the CDC conducted last year, as well as full access to smoking cessation programs may help.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="29">
+          <content>Smoke-free laws are needed across the United States, Lushniak says.</content>
+        </sentence>
+        <sentence id="30">
+          <content>&amp;quot;It&amp;apost;s embarrassing in this country only half our population is covered by those laws.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="31">
+          <content>He says he believes using the Food and Drug Administration&amp;apost;s authority to regulate tobacco products effectively and funding comprehensive statewide tobacco control programs at CDC-recommended levels will also help reduce smoking.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="32">
+          <content>&amp;quot;But the current rate of progress in tobacco control is not fast enough.</content>
+        </sentence>
+        <sentence id="33">
+          <content>More needs to be done,&amp;quot; according to the report.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="34">
+          <content>The CDC recommends spending $12 per person from taxes and tobacco settlement money to reduce smoking rates, Lushniak says.</content>
+        </sentence>
+        <sentence id="35">
+          <content>&amp;quot;Right now, only just over a buck-fifty is spent per person.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="36">
+          <content>His message to current smokers: &amp;quot;Tell them it&amp;apost;s never too late to stop.</content>
+        </sentence>
+        <sentence id="37">
+          <content>It&amp;apost;s best to quit smoking completely.</content>
+        </sentence>
+        <sentence id="38">
+          <content>Talk to your doctor, call 1-800-QUIT-NOW.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="39">
+          <content>He also recommends supporting those who want to quit.</content>
+        </sentence>
+        <sentence id="40">
+          <content>&amp;quot;It&amp;apost;s good for their health, your family&amp;apost;s health and the nation&amp;apost;s health.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="41">
+          <content>Goal of a tobacco-free generation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="42">
+          <content>Lushniak says he has a new formula to create a smoke-free generation.</content>
+        </sentence>
+        <sentence id="43">
+          <content>It can&amp;apost;t just be a federal government attack on tobacco, he says; the battle needs to be fought on the local level, too, with nongovernmental agencies, academia, faith-based organizations, health care professionals and businesses.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="44">
+          <content>Lushniak has his work cut out for him.</content>
+        </sentence>
+        <sentence id="45">
+          <content>He has to devise a plan to prevent teens from wanting to smoke -- most adult smokers begin smoking as teenagers, according to the Mayo Clinic.</content>
+        </sentence>
+        <sentence id="46">
+          <content>The new report backs that up, stating that 87% of smokers had their first puff on a cigarette under the age of 18.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="47">
+          <content>And now kids have a new enticement: e-cigarettes.</content>
+        </sentence>
+        <sentence id="48">
+          <content>Last year, a CDC report found the percentage of middle and high school students trying electronic cigarettes doubled from 3.3% to 6.8%.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="49">
+          <content>While the safety of e-cigarettes is still being hashed out, some health officials fear these electronic devices may be a gateway to tobacco cigarettes and other tobacco products.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="50">
+          <content>Young people today don&amp;apost;t write letters anymore because they prefer to text, Lushniak says.</content>
+        </sentence>
+        <sentence id="51">
+          <content>He wants the younger generation to think of smoking like writing a letter -- that it&amp;apost;s no longer in vogue.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="52">
+          <content>As surgeon general, Lushniak oversees more than 6,500 public health professionals making up the U.S. Public Health Service Commissioned Corps.</content>
+        </sentence>
+        <sentence id="53">
+          <content>It&amp;apost;s the first uniformed service to go entirely smoke free, he says; the others include the Navy, Marines, Air Force, Coast Guard and the National Oceanic and Atmospheric Administration.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="54">
+          <content>&amp;quot;It is my sincere hope that 50 years from now we won&amp;apost;t need another (surgeon general&amp;apost;s) report on smoking and health, because tobacco-related disease and death will be a thing of the past,&amp;quot; Lushniak writes in the report.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

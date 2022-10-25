@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1607" link="http://edition.cnn.com/2012/09/21/tech/mobile/smartphone-dating/index.html" date_published="2012-09-21 21:33:51" category="tech" author="Heather Kelly, CNN" highlights_mapped="true" mapping_error="false">
+  <title>How smartphones are the new wingman</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="14">Single people use smartphones&amp;apost; connectivity and location services to meet potential dates.</sentence>
+      <sentence id="2" ids_article_sentences="7">Phones help singles to find someone who&amp;apost;s available, and nearby, at a moment&amp;apost;s notice.</sentence>
+      <sentence id="3" ids_article_sentences="26">Divulging sensitive information like a GPS location can raise serious security concerns.</sentence>
+      <sentence id="4" ids_article_sentences="42">New apps appeal to people who think of dating as an active, spur-of-the-moment pursuit .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-24 11:40:10" annotation_time="88.48233">
+      <sentence id="7" ids_highlights="2">Phones now give singles the ability to find someone who&amp;apost;s available, and nearby, at a moment&amp;apost;s notice, bringing a bit of serendipity back to the Internet dating scene.</sentence>
+      <sentence id="14" ids_highlights="1">Grindr taps into the smartphone&amp;apost;s location information to show to-the-point profiles of men in a certain radius who are available to meet.</sentence>
+      <sentence id="26" ids_highlights="3">For all these apps, divulging sensitive information like a GPS location raises serious security concerns, such as the potential for stalking or worse.</sentence>
+      <sentence id="42" ids_highlights="4">But the new generation of dating tools appeals to people who think of dating as an active, spur-of-the-moment pursuit that takes place in the fluid world of bars, parties and other social settings.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Malia checks Blendr, the location-based networking app, on her phone six or seven times a day, sorting through messages from strangers who know she&amp;apost;s in their vicinity and responding only to the ones who don&amp;apost;t seem creepy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Though she is surrounded by people in Los Angeles, the 23-year-old waitress finds that her smartphone is still helpful for meeting new friends or potential romances.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;I catch happy hours with people, meet friends, maybe go on dates here and there,&amp;quot; explained the woman, who asked that her last name not be used.</content>
+        </sentence>
+        <sentence id="4">
+          <content>&amp;quot;You meet a lot of people who are very spontaneous.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Online dating used to be largely a deskbound activity.</content>
+        </sentence>
+        <sentence id="6">
+          <content>But in recent years, mobile apps like Blendr have employed constant Internet access and location-based services to turn the smartphone into a wingman of sorts.</content>
+        </sentence>
+        <sentence id="7">
+          <content>Phones now give singles the ability to find someone who&amp;apost;s available, and nearby, at a moment&amp;apost;s notice, bringing a bit of serendipity back to the Internet dating scene.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>Profile-based dating sites such as Match.com and eHarmony suffer from a courtship delay.</content>
+        </sentence>
+        <sentence id="9">
+          <content>After you open an account, much of your time is spent browsing and filtering -- tentatively messaging strangers, screening them on the phone and over e-mail and instant message before finally setting up coffee dates with the few deemed worthy.</content>
+        </sentence>
+        <sentence id="10">
+          <content>This extra caution is probably smart, but it discourages spontaneity and leaves almost too much time to rule people out based on picky details.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="11">
+          <content>But today&amp;apost;s mobile location apps, which work with a phone&amp;apost;s built-in GPS, connect lovelorn singles who have something more urgent in common: proximity.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>The gay community was first to recognize the potential for location-based networking.</content>
+        </sentence>
+        <sentence id="13">
+          <content>The popular gay-meet-up app Grindr was released in 2009.</content>
+        </sentence>
+        <sentence id="14">
+          <content>Grindr taps into the smartphone&amp;apost;s location information to show to-the-point profiles of men in a certain radius who are available to meet.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="15">
+          <content>&amp;quot;Grindr solves a very big problem in the lives of gay men,&amp;quot; explained Grindr chief executive Joel Simkhai.</content>
+        </sentence>
+        <sentence id="16">
+          <content>&amp;quot;How do I find other gay men?&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="17">
+          <content>The app has been a global success, with 1.1 million daily active users in 192 countries (that means just four countries don&amp;apost;t have at least one person on Grindr).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="18">
+          <content>With a few tweaks -- beefed-up privacy settings, expanded profiles -- Grindr then rolled out Blendr for straight singles.</content>
+        </sentence>
+        <sentence id="19">
+          <content>The straight app hasn&amp;apost;t been as huge of a hit just yet (though it&amp;apost;s doing especially well in Australia).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="20">
+          <content>OkCupid, one of the hipper, younger-oriented dating services, also made its own location-aware app last year called OkCupid Local.</content>
+        </sentence>
+        <sentence id="21">
+          <content>Users can find people nearby who are on the service, and the app recommends potential dates by using data users provide when filling out extensive profiles.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="22">
+          <content>Match.com and eHarmony have also gone mobile, but their apps are still more like window shopping -- flipping through profiles and judging the ratio of wit to sincerity, seeing what the algorithm has to say about your chances of hitting it off -- than finding a potential romance in the coffeeshop down the street.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="23">
+          <content>Other startups have recognized that the desire to meet new people isn&amp;apost;t limited to dating.</content>
+        </sentence>
+        <sentence id="24">
+          <content>Highlight shows mini-profiles of people, including friends and strangers, around you on a map.</content>
+        </sentence>
+        <sentence id="25">
+          <content>Ban.jo pinpoints nearby people who are in your existing social networks, including Twitter, Facebook and Foursquare.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="26">
+          <content>For all these apps, divulging sensitive information like a GPS location raises serious security concerns, such as the potential for stalking or worse.</content>
+        </sentence>
+        <sentence id="27">
+          <content>In July, social-networking app Skout had to ban minors after three men were accused of sexually assaulting children they met through the service.</content>
+        </sentence>
+        <sentence id="28">
+          <content>The Skout service for 13- to 17-year-olds was suspended.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="29">
+          <content>There are privacy concerns as well.</content>
+        </sentence>
+        <sentence id="30">
+          <content>People are frequently unaware of just how much identifying information they post on the Internet by checking into social networks and sharing photos whose metadata reveal where they were taken.</content>
+        </sentence>
+        <sentence id="31">
+          <content>As with going to a bar and talking to the first stranger you find with decent hair, people should use caution.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="32">
+          <content>While location-based dating apps have a reputation of being just for people who want to hook up, users say they&amp;apost;re increasingly using them for more G-rated purposes: to make friends.</content>
+        </sentence>
+        <sentence id="33">
+          <content>According to Grindr&amp;apost;s internal research, members make one to five new platonic friends though the app.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="34">
+          <content>Simkhai fires up Grindr when he&amp;apost;s in a new country to get restaurant recommendations and other tips from locals.</content>
+        </sentence>
+        <sentence id="35">
+          <content>Malia met one of her closest friends on Blendr and will sign on during trips to Vegas just to network, she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="36">
+          <content>Location data isn&amp;apost;t required to make the smartphone useful for meeting people.</content>
+        </sentence>
+        <sentence id="37">
+          <content>Phones also facilitate a longstanding challenge of courtship: the exchange of numbers.</content>
+        </sentence>
+        <sentence id="38">
+          <content>Instead of scribbling digits on a soggy cocktail napkin, smartphone owners can use Bump, a mobile app that lets you exchange contact information easily by bumping two phones together.</content>
+        </sentence>
+        <sentence id="39">
+          <content>Bump was an early hit in the iPhone app store and has been downloaded more than 100 million times.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="40">
+          <content>&amp;quot;It fits very well with that moment where you&amp;apost;re nervous and want to meet someone new but don&amp;apost;t know how how to approach them and ask for a number,&amp;quot; said Bump CEO Dave Lieb, who believes his app turns the act of bumping phones into a flirty, fun act.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="41">
+          <content>The Internet gave birth to some great helpers for shy people looking for love -- chatrooms, dating sites, instant messaging, missed connections posts on Craigslist.</content>
+        </sentence>
+        <sentence id="42">
+          <content>But the new generation of dating tools appeals to people who think of dating as an active, spur-of-the-moment pursuit that takes place in the fluid world of bars, parties and other social settings.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

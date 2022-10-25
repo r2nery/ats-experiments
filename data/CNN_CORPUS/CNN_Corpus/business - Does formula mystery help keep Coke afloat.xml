@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="39" link="http://edition.cnn.com/2014/02/18/business/coca-cola-secret-formula/index.html?iid=article_sidebar" date_published="2014-02-18 19:20:27" category="business" author="Ivana Kottasova, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Does formula mystery help keep Coke afloat?</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Coca-Cola -- the world&amp;apost;s ubiquitous brown fizzy drink -- is staying afloat as the soda market shrinks.</sentence>
+      <sentence id="2" ids_article_sentences="1">Many point to a marketing strategy around the so-called &amp;quot;secret recipe&amp;quot; as key to its resilience.</sentence>
+      <sentence id="3" ids_article_sentences="27, 26">It&amp;apost;s never been patented, to keep the formula secret, but many say they have discovered the recipe.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-11 17:04:11" annotation_time="440.647" mapping_time_divergence="146.88234">
+      <sentence id="1" ids_highlights="1, 2">Coca-Cola -- the world&amp;apost;s ubiquitous brown fizzy drink -- is staying afloat as the soda market shrinks, and many point to a marketing strategy around the so-called &amp;quot;secret recipe&amp;quot; as key to its resilience in a struggling industry.</sentence>
+      <sentence id="26" ids_highlights="3">&amp;quot;They kept the formulas secret, partly in order to increase sales with a sense of special mystery and to prevent competition, but also to keep people from knowing how cheap the ingredients were and how large the profits,&amp;quot; he says.</sentence>
+      <sentence id="27" ids_highlights="3">The company has never patented the formula, saying to do so would require its disclosure.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Coca-Cola -- the world&amp;apost;s ubiquitous brown fizzy drink -- is staying afloat as the soda market shrinks, and many point to a marketing strategy around the so-called &amp;quot;secret recipe&amp;quot; as key to its resilience in a struggling industry.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The Coca-Cola Company, which published its full year result Tuesday, recorded a 5% drop in net income to $8.6 billion last year, down from $9 billion in 2012, as it faced &amp;quot;ongoing global macroeconomic challenges,&amp;quot; according to its chief executive Muhtar Kent.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Volume grew 2% for the year, which it said was &amp;quot;below our expectations and long-term growth target,&amp;quot; with sparkling beverages recording a slight increase of 1% -- led by Coca-Cola.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>Globally, soda drink sales have been shrinking as consumers turn to water, fruit drinks and healthier alternatives.</content>
+        </sentence>
+        <sentence id="5">
+          <content>The trend has hit Coke and other market players such as PepsiCo and Dr. Pepper.</content>
+        </sentence>
+        <sentence id="6">
+          <content>And while its primary competitor, PepsiCo, depends on its snack business to buoy the declining soda sales, Coke announced further investment into its marketing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>In a tough market, one strategy that brand experts credit Coke&amp;apost;s relative strength with is the mystery around the much-hyped &amp;quot;secret recipe.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;The very idea of mystery attracts attention, and is often seen as an element of quality,&amp;quot; says social psychologist and marketing expert Ben Voyer, lecturer at London School of Economics and ESCP Europe Business School.</content>
+        </sentence>
+        <sentence id="9">
+          <content>&amp;quot;A typical consumer would think that it must be a valuable product if they are doing all these things to protect the recipe.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>Coca-Cola&amp;apost;s &amp;quot;secret recipe&amp;quot; story -- on which it has centered advertising campaigns and built into its corporate museum --- reaches back nearly a century.</content>
+        </sentence>
+        <sentence id="11">
+          <content>According to the multi-national&amp;apost;s website, the original recipe was only written down in 1919, more than half a century after a reported morphine addict and pharmacist John Pemberton invented the drink in 1886.</content>
+        </sentence>
+        <sentence id="12">
+          <content>Until then, it was passed down by word of mouth.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>The formula was finally committed to paper when a group of investors led by Ernest Woodruff took out a loan to purchase the company in 1919.</content>
+        </sentence>
+        <sentence id="14">
+          <content>&amp;quot;As collateral, he provided a written record of the Coca Cola secret formula,&amp;quot; Coke said in a statement on its site.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="15">
+          <content>Since the 1920s, the document sat locked in a bank in Atlanta, until Coca-Cola decided to emphasize the secret in its marketing strategy.</content>
+        </sentence>
+        <sentence id="16">
+          <content>86 years later, Coca-Cola moved the recipe into a purpose-built vault within the World of Coca-Cola, the company&amp;apost;s museum in Atlanta.</content>
+        </sentence>
+        <sentence id="17">
+          <content>The ambiance is made complete by red lighting and fake smoke.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="18">
+          <content>Coca-Cola has always claimed only two senior executives know the formula at any given time, although they have never revealed names or positions.</content>
+        </sentence>
+        <sentence id="19">
+          <content>But according to an advertising campaign based around the recipe, they can&amp;apost;t travel on the same plane.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="20">
+          <content>The vault, like one straight from a film, has a palm scanner, a numerical code pad and massive steel door.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="21">
+          <content>Inside its walls, there&amp;apost;s another safe box with more security features.</content>
+        </sentence>
+        <sentence id="22">
+          <content>And inside that, a metal case containing what its owners call &amp;quot;the most guarded trade secret in the world.&amp;quot;</content>
+        </sentence>
+        <sentence id="23">
+          <content>A piece of paper with, according to Coca-Cola, a recipe inside.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="24">
+          <content>But Mark Pendergrast, author of &amp;quot;For God, Country &amp;amp; Coca-Cola,&amp;quot; is skeptical.</content>
+        </sentence>
+        <sentence id="25">
+          <content>&amp;quot;John Pemberton invented Coca-Cola in 1886, at the height of the patent medicine era, and one of the ironies of that name is that no one actually patented such creations,&amp;quot; he says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="26">
+          <content>&amp;quot;They kept the formulas secret, partly in order to increase sales with a sense of special mystery and to prevent competition, but also to keep people from knowing how cheap the ingredients were and how large the profits,&amp;quot; he says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="27">
+          <content>The company has never patented the formula, saying to do so would require its disclosure.</content>
+        </sentence>
+        <sentence id="28">
+          <content>And once the patent expired, anyone would be able to use that recipe to produce a generic version of the world famous drink.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="29">
+          <content>&amp;quot;[The secrecy] creates a natural curiosity about the product itself.</content>
+        </sentence>
+        <sentence id="30">
+          <content>Consumers are more likely to try to find out the recipe,&amp;quot; Voyer says, adding it creates a legend around Coca Cola&amp;apost;s flagship drink.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="31">
+          <content>Scores of recipes have emerged through the decades.</content>
+        </sentence>
+        <sentence id="32">
+          <content>Their authors usually claim to have cracked the original recipe by getting hold of antique documents.</content>
+        </sentence>
+        <sentence id="33">
+          <content>So far, Coke has rejected all of them as fantasy, saying there is only one &amp;quot;&amp;apost;real thing&amp;apost;.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="34">
+          <content>Mark Pendergrast&amp;apost;s book includes two versions of the original formula.</content>
+        </sentence>
+        <sentence id="35">
+          <content>&amp;quot;One is a facsimile in the handwriting of Frank Robinson, the &amp;apost;unsung hero&amp;apost; of Coca-Cola who named the drink, wrote the famous script logo, manufactured the drink in its early days, and advertised it,&amp;quot; he says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="36">
+          <content>Does he think the recipe is genuine?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="37">
+          <content>&amp;quot;Yes.</content>
+        </sentence>
+        <sentence id="38">
+          <content>I think that both of the Coca-Cola formulas in my book are the &amp;apost;real thing,&amp;apost; versions of the original formula for Coca-Cola,&amp;quot; he says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="39">
+          <content>&amp;quot;In the end, the exact formula isn&amp;apost;t really the issue,&amp;quot; he says.</content>
+        </sentence>
+        <sentence id="40">
+          <content>Pendergrast reiterates a tale told in his book, in which he speaks to a Coca-Cola spokesperson who points out that even if its competitors got hold of the formula, they wouldn&amp;apost;t be able to compete.</content>
+        </sentence>
+        <sentence id="41">
+          <content>&amp;quot;Why would anyone go out of their way to buy Yum-Yum, which is really just like Coca-Cola but costs more, when they can buy the Real Thing anywhere in the world?</content>
+        </sentence>
+        <sentence id="42">
+          <content>,&amp;quot; he was told.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="43">
+          <content>Read more: Coca-Cola Super Bowl ad ignites online debate Read more: Coca-Cola weighs in on obesity fight.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2884" link="http://www.cnn.com/2014/06/20/world/europe/ukraine-crisis/index.html" date_published="2014-06-20 10:29:13" category="world" author="Laura Smith-Spark and Victoria Butenko, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Ukraine implements cease-fire in restive east</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="6">NEW: Ukraine denies firing artillery or mortar at Russian border unit.</sentence>
+      <sentence id="2" ids_article_sentences="15, 2">Disarm by June 27 or &amp;quot;be destroyed,&amp;quot; statement quotes Ukraine President as warning.</sentence>
+      <sentence id="3" ids_article_sentences="30">Securing the border is one element of a cease-fire plan proposed by President Poroshenko.</sentence>
+      <sentence id="4" ids_article_sentences="12">Petro Poroshenko has discussed his peace plan with Russia&amp;apost;s Vladimir Putin.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-20 17:28:26" annotation_time="52.654003" mapping_time_divergence="26.327002">
+      <sentence id="2" ids_highlights="2">He said military units will respond only if they&amp;apost;re attacked, and warned militant fighters to abandon their weapons before the cease-fire expires on June 27.</sentence>
+      <sentence id="6" ids_highlights="1">Ukraine denied it fired artillery or mortar at the Russian unit.</sentence>
+      <sentence id="12" ids_highlights="4">Putin, according to the statement, backs an effort to de-escalate tensions in eastern regions and a process to forge a ceasefire and a peace plan.</sentence>
+      <sentence id="15" ids_highlights="2">The U.S. government also believes that additional Russian tanks have been deployed as potential reinforcements for separatists in Ukraine, a senior administration official said Friday.</sentence>
+      <sentence id="30" ids_highlights="3">The United States is calling on the Russian government to cease its activities in eastern Ukraine as Poroshenko implements his cease-fire plan, a senior administration official said Friday.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Kiev Ukrainian President Petro Poroshenko declared the start Friday of his anticipated cease-fire in the fight against separatists in the country&amp;apost;s pro-Russian east.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>He said military units will respond only if they&amp;apost;re attacked, and warned militant fighters to abandon their weapons before the cease-fire expires on June 27.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;Those who will not lay down their weapons will be destroyed,&amp;quot; Poroshenko said, according to a statement issued by the Interior Ministry.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>Despite Poroshenko&amp;apost;s declaration, the Russian Foreign Ministry said one of its border units in Novoshahtinsk was shelled Friday, injuring one customs officer.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>&amp;quot;It is a direct provocation, which aims to prevent the implementation of the Geneva Agreement and immediate de-escalation of Ukrainian domestic conflict,&amp;quot; the ministry said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>Ukraine denied it fired artillery or mortar at the Russian unit.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>The Ukrainian Defense Ministry said in a statement that during the anti-terrorist operation, its forces approached Dolzhansky and militants, who recently occupied this border unit, responded with fire towards Ukrainian forces.</content>
+        </sentence>
+        <sentence id="8">
+          <content>A mortar mine exploded near the border line, according to the Ministry.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>Poroshenko had announced Wednesday plans for the cease-fire.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="10">
+          <content>He and Russian President Vladimir Putin spoke by phone Thursday, according to Poroshenko&amp;apost;s office.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="11">
+          <content>It was not immediately clear what impact the cease-fire was having.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="12">
+          <content>Putin, according to the statement, backs an effort to de-escalate tensions in eastern regions and a process to forge a ceasefire and a peace plan.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="13">
+          <content>Still, NATO chief Anders Fogh Rasmussen said Thursday that the military alliance had seen a &amp;quot;new Russian military buildup&amp;quot; near the border with Ukraine.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="14">
+          <content>This, Rasmussen said, involved &amp;quot;at least a few thousand more Russian troops deployed to the Ukrainian border, and we see troop maneuvers in the neighborhood of Ukraine.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="15">
+          <content>The U.S. government also believes that additional Russian tanks have been deployed as potential reinforcements for separatists in Ukraine, a senior administration official said Friday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="16">
+          <content>President: Free hostages.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="17">
+          <content>Poroshenko&amp;apost;s cease-fire includes the closure of the Ukraine-Russia border and changes to the constitution to decentralize power.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="18">
+          <content>It also offers amnesty to those who didn&amp;apost;t commit serious crimes, the President said.</content>
+        </sentence>
+        <sentence id="19">
+          <content>An escape corridor will be offered for those who disarm to leave Ukraine.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="20">
+          <content>&amp;quot;We expect that hostages and seized premises will be liberated.</content>
+        </sentence>
+        <sentence id="21">
+          <content>We expect that a large number of civilians will use the security guarantees for the citizens of Donbas,&amp;quot; Poroshenko said, referring to Ukraine&amp;apost;s eastern region.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="22">
+          <content>In his conversation with Putin, Poroshenko stressed the need for the release of Ukrainian hostages and to establish effective security controls on the border with Russia.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="23">
+          <content>Poroshenko also met Thursday with representatives of the &amp;quot;legitimate authorities&amp;quot; in Donetsk and Luhansk regions, his office said.</content>
+        </sentence>
+        <sentence id="24">
+          <content>They discussed ways to decentralize power and revive the region&amp;apost;s economy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="25">
+          <content>Calls to reduce tensions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="26">
+          <content>Russia and Ukraine have been engaged in a tense standoff since March, when Russia annexed Crimea and massed troops along its border with Ukraine.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="27">
+          <content>Before the cease-fire took effect, the speaker of Ukraine&amp;apost;s parliament told lawmakers on Friday that Ukrainian forces had completed an operation to close off the country&amp;apost;s eastern border with Russia.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="28">
+          <content>Troops and separatist fights clashed in Artemovsk and Luhansk on Thursday night before the ceasefire went into effect, a government spokesman said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="29">
+          <content>Ukraine&amp;apost;s government in Kiev has accused Russia of allowing weapons and military equipment to cross the border illegally into the hands of pro-Russia separatists, who have led uprisings in Ukraine&amp;apost;s eastern Donetsk and Luhansk regions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="30">
+          <content>The United States is calling on the Russian government to cease its activities in eastern Ukraine as Poroshenko implements his cease-fire plan, a senior administration official said Friday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="31">
+          <content>The official warned the Russian government of potential for more sanctions if these activities continue.</content>
+        </sentence>
+        <sentence id="32">
+          <content>The Treasury Department on Friday released new sanctions for seven Ukrainians who are separatist leaders.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

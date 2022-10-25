@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2778" link="http://www.cnn.com/2014/03/11/world/asia/afghanistan-journalist-killed/index.html" date_published="2014-03-11 13:40:57" category="world" author="Masoud Popalzai and Sophie Brown, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Swedish reporter shot dead in Kabul</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="13">NEW: Colleague describes killed journalist Nils Horner as &amp;quot;a legend&amp;quot; .</sentence>
+      <sentence id="2" ids_article_sentences="1">Gunmen kill the Swedish radio correspondent in the Afghan capital.</sentence>
+      <sentence id="3" ids_article_sentences="3">Horner was shot near a Lebanese restaurant in Kabul.</sentence>
+      <sentence id="4" ids_article_sentences="6">Police say the journalist had arrived in the city two days before.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-06 21:06:12" annotation_time="48.289997">
+      <sentence id="1" ids_highlights="2">Kabul, Afghanistan Gunmen shot dead a Swedish journalist in broad daylight in the Afghan capital Tuesday, underscoring a growing insecurity threatening the country&amp;apost;s elections next month.</sentence>
+      <sentence id="3" ids_highlights="3">Swedish Radio said Horner was shot on a street near a Lebanese restaurant in Kabul, the same site where a bomb went off in January.</sentence>
+      <sentence id="6" ids_highlights="4">An Afghan police statement said the journalist, who had been traveling in a car with his interpreter and driver, had arrived in the city just days before.</sentence>
+      <sentence id="13" ids_highlights="1">&amp;quot;Among Swedish journalists, Nils was a legend.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Kabul, Afghanistan Gunmen shot dead a Swedish journalist in broad daylight in the Afghan capital Tuesday, underscoring a growing insecurity threatening the country&amp;apost;s elections next month.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The Swedish embassy identified the victim as radio correspondent Nils Horner.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Swedish Radio said Horner was shot on a street near a Lebanese restaurant in Kabul, the same site where a bomb went off in January.</content>
+        </sentence>
+        <sentence id="4">
+          <content>He was doing interviews at the time ahead of elections scheduled for next month.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>He was shot in the back of the head, and pronounced dead at a Kabul hospital.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>An Afghan police statement said the journalist, who had been traveling in a car with his interpreter and driver, had arrived in the city just days before.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>It said police were questioning his driver and interpreter.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;Nils was one of our absolute best and most experienced correspondents and what has happened to him today is terrible.</content>
+        </sentence>
+        <sentence id="9">
+          <content>We are now trying to get as many details as we can,&amp;quot; Swedish Radio&amp;apost;s Director-General Cilla Benkö said in a statement, describing this as one of the worst days in the corporation&amp;apost;s history.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;We know there are high-risk areas.</content>
+        </sentence>
+        <sentence id="11">
+          <content>Kabul isn&amp;apost;t an area Swedish Radio should not cover.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>Horner, 51, had traveled across Asia for his work, covering the 2001 fall of the Taliban in Afghanistan, the 2004 tsunami in Asia and the Iraq war.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>&amp;quot;Among Swedish journalists, Nils was a legend.</content>
+        </sentence>
+        <sentence id="14">
+          <content>He was famous for always being on the road, going from country to country, from hotel to hotel.</content>
+        </sentence>
+        <sentence id="15">
+          <content>For many years he didn&amp;apost;t even have an apartment,&amp;quot; said Johan Nylander, a Swedish journalist based in Hong Kong.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;For him, interviewing people from the Indian slum was as interesting and important as visiting the Japanese parliament.</content>
+        </sentence>
+        <sentence id="17">
+          <content>He gave a voice to the people that didn&amp;apost;t have one, and brought life to the forgotten corners of Asia,&amp;quot; Nylander said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;In a way, he died as he lived - in the middle of a news story.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;Everyone in Sweden will remember him as the voice coming out of Asia,&amp;quot; said fellow journalist Per Liljas, who was with Horner just before he departed for Kabul.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="20">
+          <content>He was known for always being in the right place at the right time, he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="21">
+          <content>&amp;quot;Sometimes it felt like he was there before things happened,&amp;quot; Liljas said.</content>
+        </sentence>
+        <sentence id="22">
+          <content>He described his friend as humble, kind and considerate, saying he was &amp;quot;a huge role model&amp;quot; for younger journalists.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="23">
+          <content>The attack comes as Afghanistan prepares for the withdrawal of NATO forces and landmark presidential elections scheduled for April 5.</content>
+        </sentence>
+        <sentence id="24">
+          <content>The Taliban have threatened to attack anyone who takes part.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="25">
+          <content>Afghan troops, supported by NATO, are helping secure the elections.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

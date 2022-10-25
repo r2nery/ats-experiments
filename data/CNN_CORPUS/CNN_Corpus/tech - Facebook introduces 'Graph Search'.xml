@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1593" link="http://www.cnn.com/2013/01/15/tech/social-media/facebook-graph-search" date_published="2013-01-15 20:26:02" category="tech" author="Brandon Griggs and Heather Kelly, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Facebook introduces &amp;apost;Graph Search&amp;apost;</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="4">Facebook introduces upgraded search tool called Graph Search.</sentence>
+      <sentence id="2" ids_article_sentences="16">Graph Search will let users search in more detail for people, photos, places and interests.</sentence>
+      <sentence id="3" ids_article_sentences="9">For example, it could show you photos of Berlin from 1989.</sentence>
+      <sentence id="4" ids_article_sentences="11">Mark Zuckerberg: &amp;quot;This is one of the coolest things we&amp;apost;ve done in a while&amp;quot;.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-12 14:18:04" annotation_time="83.1095">
+      <sentence id="4" ids_highlights="1">On Tuesday, Facebook introduced an upgraded search tool, called Graph Search, that will scour the massive social network to answer more sophisticated questions.</sentence>
+      <sentence id="9" ids_highlights="3">How about photos of Berlin from 1989?</sentence>
+      <sentence id="11" ids_highlights="4">&amp;quot;This is one of the coolest things we&amp;apost;ve done in a while,&amp;quot; Facebook co-founder and CEO Mark Zuckerberg said at a press event at the company&amp;apost;s headquarters.</sentence>
+      <sentence id="16" ids_highlights="2">It focuses on four main areas: people, photos, places and interests.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Menlo Park, California The search feature on Facebook has traditionally been pretty limited.</content>
+        </sentence>
+        <sentence id="2">
+          <content>You type in a name of a person or a business, and it pulls up their Facebook page.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>But that&amp;apost;s about to change.</content>
+        </sentence>
+        <sentence id="4">
+          <content>On Tuesday, Facebook introduced an upgraded search tool, called Graph Search, that will scour the massive social network to answer more sophisticated questions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>Want to find buddies of your pal Chris who went to Stanford and live in Chicago?</content>
+        </sentence>
+        <sentence id="6">
+          <content>No problem.</content>
+        </sentence>
+        <sentence id="7">
+          <content>People who like tennis and live nearby?</content>
+        </sentence>
+        <sentence id="8">
+          <content>Here you go.</content>
+        </sentence>
+        <sentence id="9">
+          <content>How about photos of Berlin from 1989?</content>
+        </sentence>
+        <sentence id="10">
+          <content>Done.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;This is one of the coolest things we&amp;apost;ve done in a while,&amp;quot; Facebook co-founder and CEO Mark Zuckerberg said at a press event at the company&amp;apost;s headquarters.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="12">
+          <content>Since it became a public company last year, Facebook has been under pressure to launch exciting new products, especially for mobile, that will help boost its floundering stock price.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="13">
+          <content>Facebook said Graph Search is launching immediately in beta, although users will need to get on a waitlist to gain access.</content>
+        </sentence>
+        <sentence id="14">
+          <content>The company will continue tweaking the product based on feedback from beta users, but Zuckerberg said there&amp;apost;s no concrete estimate for how long the rollout will take.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="15">
+          <content>For now, Graph Search&amp;apost;s functions will be limited.</content>
+        </sentence>
+        <sentence id="16">
+          <content>It focuses on four main areas: people, photos, places and interests.</content>
+        </sentence>
+        <sentence id="17">
+          <content>More features will be added as they are developed, Zuckerberg said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;This is a beta product.</content>
+        </sentence>
+        <sentence id="19">
+          <content>We focused on a few use cases that we think are good,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="20">
+          <content>&amp;quot;Even as an early product, Graph Search is a completely new way for people to get information on Facebook.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="21">
+          <content>Graph Search delves the wealth of data already inside Facebook, pulled from 1 billion profiles, 24 billion photos and 1 trillion connections.</content>
+        </sentence>
+        <sentence id="22">
+          <content>The tool indexes all of this content and works through the main search bar you&amp;apost;re already familiar with at the top of your Facebook profile.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="23">
+          <content>For now there is no mobile version, it doesn&amp;apost;t loop in Instagram, there&amp;apost;s no API (which would allow outside developers to build related apps), and it&amp;apost;s only in English.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="24">
+          <content>The searches are natural language, which means you type the question just like you&amp;apost;d say it: &amp;quot;Friends who like cats and &amp;apost;Alias&amp;apost; &amp;quot; or &amp;quot;Podiatrists in San Francisco my friends like.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="25">
+          <content>You can use Graph Search to track down people you just met (&amp;quot;people named Rebecca who work at Chipotle and are friends with Peter&amp;quot;), to look for job candidates (&amp;quot;friends of co-workers who have been programmers), and to play yenta for your single friends (&amp;quot;Friends of friends who are single men and live in Los Angeles&amp;quot;).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="26">
+          <content>Other searches could be useful for business recommendations.</content>
+        </sentence>
+        <sentence id="27">
+          <content>You can find doctors, or restaurants, based on friends&amp;apost; endorsements.</content>
+        </sentence>
+        <sentence id="28">
+          <content>For example, if you wanted good Indian food in San Francisco, you might search for &amp;quot;Indian restaurants in San Francisco liked by my friends from India.&amp;quot;</content>
+        </sentence>
+        <sentence id="29">
+          <content>The results pull in practical information as well, such as reviews and prices.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="30">
+          <content>The first concern people tend to have after any Facebook announcement is, how will this impact my privacy?</content>
+        </sentence>
+        <sentence id="31">
+          <content>Facebook says Graph Search will return only content that has been shared with you.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="32">
+          <content>&amp;quot;We take this really seriously,&amp;quot; Zuckerberg said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="33">
+          <content>If you search for something outside Graph Search&amp;apost;s purview, it will return search results from Microsoft&amp;apost;s Bing search engine.</content>
+        </sentence>
+        <sentence id="34">
+          <content>The two companies have worked together before on integrating social search into Bing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="35">
+          <content>But Graph Search probably won&amp;apost;t pose a threat to Google anytime soon.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="36">
+          <content>&amp;quot;I don&amp;apost;t necessarily think that people are going to start coming to Facebook to do Web searches with this,&amp;quot; Zuckerberg said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="37">
+          <content>For now, the company will not be working with Google on search functions, Zuckerberg said, adding that Google is not able to process Facebook updates as quickly as Facebook users might like.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="38">
+          <content>For example, if you unfriend someone, you might assume they would be blocked right away from seeing your personal data.</content>
+        </sentence>
+        <sentence id="39">
+          <content>But that might take more time with a Google-powered search, he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="40">
+          <content>While the timing was the big issue during negotiations with Google, &amp;quot;it may have been a symptom of a bigger strategic rift&amp;quot; between the companies, Zuckerberg said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

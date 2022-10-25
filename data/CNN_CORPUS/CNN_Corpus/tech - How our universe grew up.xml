@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1604" link="http://edition.cnn.com/2014/05/08/tech/innovation/universe-simulation/index.html?iid=article_sidebar" date_published="2014-05-08 21:52:51" category="tech" author="Elizabeth Landau, CNN" highlights_mapped="true" mapping_error="false">
+  <title>How our universe grew up</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">Scientists have released a new model of how the universe might have evolved.</sentence>
+      <sentence id="2" ids_article_sentences="7">The simulation begins 12 million years after the Big Bang.</sentence>
+      <sentence id="3" ids_article_sentences="12">It represents more than 41,000 galaxies.</sentence>
+      <sentence id="4" ids_article_sentences="19">Dark matter is the &amp;apost;backbone of the cosmic web&amp;apost;.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-11 15:25:59" annotation_time="16.653666">
+      <sentence id="2" ids_highlights="1">But scientists have used a code to create a model of how the universe as we know it today might have evolved.</sentence>
+      <sentence id="7" ids_highlights="2">This simulation begins 12 million years after the Big Bang, which is still pretty early considering that the universe is about 13.8 billion years old.</sentence>
+      <sentence id="12" ids_highlights="3">A total of 41,416 galaxies are represented in the simulation.</sentence>
+      <sentence id="19" ids_highlights="4">&amp;quot;It&amp;apost;s the backbone of the cosmic web.&amp;quot;</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>It&amp;apost;s hard to describe billions of years of cosmic history.</content>
+        </sentence>
+        <sentence id="2">
+          <content>But scientists have used a code to create a model of how the universe as we know it today might have evolved.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>A new study in the journal Nature describes a simulation of the universe that is unique because of &amp;quot;how realistically it recreates the galaxies and the universe that we see, which is kind of a first for a simulation like this,&amp;quot; said Dylan Nelson, study co-author at the Harvard-Smithsonian Center for Astrophysics.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Nelson and collaborators released several videos this week showcasing highlights of what their numerical simulation, called Illustris, can do.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Running this model &amp;quot;took approximately 16 million CPU (central processing unit) hours,&amp;quot; Michael Boylan-Kolchin, astronomer at the University of Maryland, College Park, wrote in an accompanying article in Nature.</content>
+        </sentence>
+        <sentence id="6">
+          <content>&amp;quot;The end result, however, is a simulated Universe that looks an awful lot like the real one.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>This simulation begins 12 million years after the Big Bang, which is still pretty early considering that the universe is about 13.8 billion years old.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;What it allows -- a statistically robust comparison against observations across all of cosmic time -- is a critical aspect in the development of better and more realistic models, which directly translates into more physical insight which we can extract from such simulations,&amp;quot; Nelson said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>A range of galaxy types emerges in this simulation, such as blue spiral and red elliptical galaxies.</content>
+        </sentence>
+        <sentence id="10">
+          <content>The content of hydrogen and elements heavier than hydrogen and helium seems consistent with observational data, study authors wrote.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;These observations capture a large variety of galaxy luminosities, sizes, colours, morphologies and evolutionary stages, providing remarkable benchmarks for galaxy formation theories,&amp;quot; study authors wrote.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>A total of 41,416 galaxies are represented in the simulation.</content>
+        </sentence>
+        <sentence id="13">
+          <content>It includes a population of elliptical galaxies that don&amp;apost;t form stars, disk galaxies that do form stars, and irregular galaxies.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>Our own Milky Way galaxy is a disk galaxy, and simulating how such a galaxy would be formed has been problematic in the past.</content>
+        </sentence>
+        <sentence id="15">
+          <content>But the scientists&amp;apost; calculations have overcome this, the study said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>The simulation takes into account that there are phenomena in our universe that we have never detected but that have had huge influence on cosmic evolution.</content>
+        </sentence>
+        <sentence id="17">
+          <content>Dark matter accounts for about 24% of the universe, while normal matter -- everything that we can see -- is only 4.6%.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="18">
+          <content>Dark matter &amp;quot;dominates the gravitational pull of everything, especially on large scales,&amp;quot; Nelson said.</content>
+        </sentence>
+        <sentence id="19">
+          <content>&amp;quot;It&amp;apost;s the backbone of the cosmic web.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="20">
+          <content>Over the course of the universe&amp;apost;s history, galaxies have formed where dark matter was most concentrated.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="21">
+          <content>But most of the universe is made of dark energy, responsible for the accelerating expansion of the universe.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="22">
+          <content>Obviously, you can&amp;apost;t model the entire universe at once, but this simulation does represent a substantial chunk of it: 350 million light years in each dimension, Nelson said.</content>
+        </sentence>
+        <sentence id="23">
+          <content>It allows scientists to zoom in to see the structure of individual galaxies, such as spiral arms.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="24">
+          <content>Still, there are shortcomings to the simulation: For instance, the mass of stars in low-mass galaxies gets built up earlier than what has been observed, meaning that populations of stars are shown as two to three times older than in reality.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="25">
+          <content>Joel Primack, professor of physics and director of the High-Performance Astro Computing Center in Santa Cruz, California, takes issue with the idea that this new simulation is better than its predecessors.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="26">
+          <content>&amp;quot;Other groups are doing a much better job of understanding what&amp;apost;s going on inside galaxies, including my own group,&amp;quot; said Primack, whose team also works on modeling the cosmos.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="27">
+          <content>But the simulation does have strengths on a larger scale -- for instance, in showing how galaxies affect their surrounding environments, and how environments impact galaxies, he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="28">
+          <content>The code used in the simulation, Arepo, is not publicly available -- another of Primack&amp;apost;s criticisms.</content>
+        </sentence>
+        <sentence id="29">
+          <content>But Nelson said that a complete description of its methods has been published, and that anyone with expertise who is motivated could use it to develop a similar code.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

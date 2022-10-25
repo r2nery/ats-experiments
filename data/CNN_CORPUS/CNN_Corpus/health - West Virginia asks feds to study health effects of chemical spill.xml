@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="414" link="http://www.cnn.com/2014/02/19/health/west-virginia-water" date_published="2014-02-19 13:49:40" category="health" author="Elizabeth Cohen and Tom Watkins, CNN" highlights_mapped="true" mapping_error="false">
+  <title>West Virginia asks feds to study health effects of chemical spill</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="20">&amp;quot;Perhaps there is something going on here,&amp;quot; says county health officer .</sentence>
+      <sentence id="2" ids_article_sentences="12">&amp;quot;We stand willing to continue to assist,&amp;quot; says CDC spokeswoman.</sentence>
+      <sentence id="3" ids_article_sentences="5">A chemical spill last month led to continuing concerns about the safety of water .</sentence>
+      <sentence id="4" ids_article_sentences="3">&amp;quot;It is critical this study is funded and that work begins immediately,&amp;quot; Gov. Tomblin says.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-02 12:58:56" annotation_time="501.85635">
+      <sentence id="3" ids_highlights="4">&amp;quot;It is critical this study is funded and that work begins immediately,&amp;quot; wrote Gov. Earl Ray Tomblin in a letter Tuesday to Dr. Tom Frieden, director of the Centers for Disease Control and Prevention.</sentence>
+      <sentence id="5" ids_highlights="3">Its licorice smell alerted residents to the contamination and led to a do-not-use order for 300,000 West Virginians, some of whom could not drink or bathe in their water for more than a week.</sentence>
+      <sentence id="12" ids_highlights="2">&amp;quot;We stand willing to continue to assist and will be discussing with officials there what additional toxicology and epidemiology studies may be needed,&amp;quot; said Laura Bellinger, a CDC spokeswoman.</sentence>
+      <sentence id="20" ids_highlights="1">&amp;quot;Perhaps there is something going on here.&amp;quot;</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Is it really safe?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>West Virginia&amp;apost;s governor is asking federal authorities to do further study on the possible health effects caused by last month&amp;apost;s chemical spill near Charleston.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;It is critical this study is funded and that work begins immediately,&amp;quot; wrote Gov. Earl Ray Tomblin in a letter Tuesday to Dr. Tom Frieden, director of the Centers for Disease Control and Prevention.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>On January 9, the chemical -- 4-methylcyclohexane methanol, or MCHM -- was discovered leaking from a storage tank into the Elk River and from there into Charleston&amp;apost;s water supply.</content>
+        </sentence>
+        <sentence id="5">
+          <content>Its licorice smell alerted residents to the contamination and led to a do-not-use order for 300,000 West Virginians, some of whom could not drink or bathe in their water for more than a week.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>It also underscored that little is known about the health effects of the chemical, which is used to wash coal prior to market in order to reduce ash.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>The spill was originally estimated at about 7,500 gallons, but Freedom Industries said late last month that about 10,000 gallons of chemical had escaped.</content>
+        </sentence>
+        <sentence id="8">
+          <content>The company also told regulators that a second chemical -- a mix of polyglycol ethers, known as PPH -- was part of the leak.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>&amp;quot;I am committed to the health and well-being of West Virginians and believe there is a pressing need to further study the potential health effects resulting from exposure to water contaminated with crude MCHM and PPH,&amp;quot; Tomblin said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>An independent water test conducted early this month at CNN&amp;apost;s request found trace levels of MCHM, both in untreated river water and in tap water from two homes in Charleston.</content>
+        </sentence>
+        <sentence id="11">
+          <content>The amounts ranged from less than 0.5 parts per billion to 1.6 parts per billion -- well below the 1 part per million that the CDC has said it considers unlikely to be associated with any adverse health effects.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;We stand willing to continue to assist and will be discussing with officials there what additional toxicology and epidemiology studies may be needed,&amp;quot; said Laura Bellinger, a CDC spokeswoman.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>Dr. Rahul Gupta, the health officer and executive director of the Kanawha-Charleston and Putnam County health departments, has called for a long-term study to be carried out &amp;quot;in a manner able to capture any long-term impact.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>In the wake of the spill, two waves of patients sought treatment from private doctors and 10 emergency rooms in a nine-county area for non-specific symptoms such as rash, nausea, vomiting and cough, Gupta told CNN on Wednesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>The first peak -- about 250 patients -- occurred in the first three days after the spill was reported on January 9, he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="16">
+          <content>A lull ensued during the several days of the do-not-use advisory, followed by a second peak -- about the same number -- during the first few days after the advisory was lifted on January 13, he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="17">
+          <content>There is widespread distrust of the water, with only about 1% of the 200 people who attended town hall meetings in late January about the matter saying they were drinking it, he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="18">
+          <content>Gupta, who has a masters degree in public health, acknowledged that his findings were &amp;quot;non-scientific&amp;quot; and that he did not know what the baseline incidence would be of patients appearing at an ER with such symptoms, but said the anecdotes point to the need for further studies.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;Those two peaks are undeniable,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="20">
+          <content>&amp;quot;Perhaps there is something going on here.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="21">
+          <content>Gupta said the water in his own house continues to smell of licorice, and that he avoids drinking tap water, though he would not be opposed to doing so.</content>
+        </sentence>
+        <sentence id="22">
+          <content>&amp;quot;The question becomes, is a pregnant mom going to drink it?</content>
+        </sentence>
+        <sentence id="23">
+          <content>Should developing brains of children be drinking it?&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="24">
+          <content>The CDC has expressed similar concerns.</content>
+        </sentence>
+        <sentence id="25">
+          <content>&amp;quot;Due to limited availability of data, and out of an abundance of caution, pregnant women may wish to consider an alternative drinking water source until the chemical is at non-detectable levels in the water distribution system,&amp;quot; it said in a paper dated February 5.</content>
+        </sentence>
+        <sentence id="26">
+          <content>&amp;quot;For mothers with babies, there is no research that suggests consuming water with these low levels of MCHM poses any health risk to their baby.</content>
+        </sentence>
+        <sentence id="27">
+          <content>However, if you have any concerns, please consult your doctor.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="28">
+          <content>But the West Virginia Poison Center said in a posting on February 10 that some symptoms, such as nausea and headaches, may not indicate that the chemicals were harmful.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="29">
+          <content>&amp;quot;These symptoms are not due to toxic effects but are a body&amp;apost;s physical and real response to unusual smells/tastes,&amp;quot; it said, adding that the poison center received calls from more than 1,900 patients reporting chemical exposures related to the drinking water in the days after the spill was reported.</content>
+        </sentence>
+        <sentence id="30">
+          <content>&amp;quot;Most reported symptoms included mild rashes and reddened skin from dermal exposure, or GI distress (nausea, vomiting and/or diarrhea) from ingesting contaminated water.</content>
+        </sentence>
+        <sentence id="31">
+          <content>The symptoms tended to be mild and self-limiting.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="32">
+          <content>It urged that anyone with continuing symptoms be evaluated for other medical conditions, and noted that viral gastroenteritis, influenza, the common cold and other infections are all common at this time of year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="33">
+          <content>A spokeswoman for West Virginia American Water Co. said the company was continuing to flush the system to get rid of pockets of licorice smell that remain.</content>
+        </sentence>
+        <sentence id="34">
+          <content>&amp;quot;For us, it&amp;apost;s not over until we resolve the odor issue,&amp;quot; said Maureen Duffy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="35">
+          <content>Dr. Tanja Popovic, the director of the CDC&amp;apost;s National Center for Environmental Health, told reporters on February 5 that repeated testing had shown the water to be acceptable for all uses.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="36">
+          <content>&amp;quot;What I can say is that with all the scientific evidence that we have, with everything that numerous people have worked on so far, I can say that you can use your water however you like,&amp;quot; Popovic said.</content>
+        </sentence>
+        <sentence id="37">
+          <content>&amp;quot;You can drink it, you can bathe in it, you can use it how you like.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="38">
+          <content>Tomblin said then that tests had shown levels of less than 10 parts per billion or too low to detect, and that he and his staff had been drinking the water &amp;quot;for the last couple of weeks.&amp;quot;</content>
+        </sentence>
+        <sentence id="39">
+          <content>But when asked whether he could declare it &amp;quot;100% safe,&amp;quot; he said, &amp;quot;No.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="40">
+          <content>&amp;quot;The only thing that we can rely upon is what the experts tell us, and, you know, for all the tests done that&amp;apost;s who we&amp;apost;ve got to depend upon,&amp;quot; Tomblin said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="41">
+          <content>A federal grand jury is probing the spill at Freedom Industries, sources familiar with the grand jury&amp;apost;s activities have told CNN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

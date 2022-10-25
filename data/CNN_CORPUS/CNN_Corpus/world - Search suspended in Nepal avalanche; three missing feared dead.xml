@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2734" link="http://edition.cnn.com/2012/09/24/world/asia/nepal-avalanche/index.html?hpt=hp_t3" date_published="2012-09-24 04:06:17" category="world" author="Manesh Shrestha, for CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Search suspended in Nepal avalanche; three missing feared dead</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">NEW: Rescue coordinators believe three missing climbers are dead, suspend operations.</sentence>
+      <sentence id="2" ids_article_sentences="2">NEW: &amp;quot;The mission is over for now,&amp;quot; rescue coordinator says.</sentence>
+      <sentence id="3" ids_article_sentences="7, 5">Eight people are confirmed dead in the Sunday avalanche on Manaslu.</sentence>
+      <sentence id="4" ids_article_sentences="10">A French survivor says he found himself &amp;quot;neck deep in snow&amp;quot;.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-28 14:03:23" annotation_time="77.566" mapping_time_divergence="19.3915">
+      <sentence id="2" ids_highlights="2">&amp;quot;The mission is over for now,&amp;quot; rescue coordinator Mingma Sherpa said Monday.</sentence>
+      <sentence id="3" ids_highlights="1">Rescuers think the climbers might be dead.</sentence>
+      <sentence id="5" ids_highlights="3">For now, officials have confirmed eight deaths: four French citizens, one German, one Italian, one Nepali and one Spanish.</sentence>
+      <sentence id="7" ids_highlights="3">The avalanche, which struck around 5 a.m. Sunday, was most likely caused by a piece of ice the size of six or seven football fields that fell from a glacier above the camp, said Christian Trommsdorff, vice president of the National Syndicate of High Mountain Guides in Chamonix, France.</sentence>
+      <sentence id="10" ids_highlights="4">&amp;quot;When I stopped rolling, I was neck deep in snow,&amp;quot; said Manel, a 42-year-old surgeon.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Searchers on Monday suspended efforts to find three mountaineers still missing in Nepal after an avalanche swept down Manaslu mountain, sending climbers -- some still in their tents -- tumbling hundreds of feet down the world&amp;apost;s eighth-highest peak.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>&amp;quot;The mission is over for now,&amp;quot; rescue coordinator Mingma Sherpa said Monday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Rescuers think the climbers might be dead.</content>
+        </sentence>
+        <sentence id="4">
+          <content>If true, the death toll from the Sunday incident would be 11.</content>
+        </sentence>
+        <sentence id="5">
+          <content>For now, officials have confirmed eight deaths: four French citizens, one German, one Italian, one Nepali and one Spanish.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>Twelve climbers were injured, said Binod Singh, a Nepali police spokesman.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>The avalanche, which struck around 5 a.m. Sunday, was most likely caused by a piece of ice the size of six or seven football fields that fell from a glacier above the camp, said Christian Trommsdorff, vice president of the National Syndicate of High Mountain Guides in Chamonix, France.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>One of the survivors, Frenchman Arnaud Manel, said Monday that he was in a tent with two other people when large amounts of snow began to fall on it.</content>
+        </sentence>
+        <sentence id="9">
+          <content>He said he managed to break the icy tent open and get out, and then rolled for what he thought was about 200 meters (655 feet) in the snow.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;When I stopped rolling, I was neck deep in snow,&amp;quot; said Manel, a 42-year-old surgeon.</content>
+        </sentence>
+        <sentence id="11">
+          <content>&amp;quot;I was only wearing a T-shirt.</content>
+        </sentence>
+        <sentence id="12">
+          <content>I couldn&amp;apost;t breathe.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>He said enough of the snow around him melted to allow him to clamber out.</content>
+        </sentence>
+        <sentence id="14">
+          <content>He said that he managed to save one friend, but that another, buried deeper in the snow, died.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="15">
+          <content>Another survivor, American Glen Plake, was inside his tent reading Bible verses when the avalanche swept 300 meters (985 feet) down the mountain, according to Trey Cook, the editor in chief of EpicTV.com.</content>
+        </sentence>
+        <sentence id="16">
+          <content>He spoke with Cook by satellite phone.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="17">
+          <content>EpicTV.com makes films about skiing, climbing and other adventure sports.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="18">
+          <content>Plake said that when he stopped moving, he was still in his sleeping bag, in his tent and was still wearing the headlamp he&amp;apost;d been using to read.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="19">
+          <content>Plake lost a few front teeth and suffered an eye injury, Cook said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="20">
+          <content>Plake had planned to descend from the summit on skis without the aid of oxygen, according to Cook.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="21">
+          <content>The avalanche struck two camping areas for mountaineers, one at 6,600 meters (21,650 feet), and another about 500 meters (1,640 feet) below, according to Yograj Kadel of Simrik Air, which participated in the rescue efforts.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="22">
+          <content>The mountain is 8,163 meters (26,780 feet) high.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="23">
+          <content>Cook said Plake told him that the avalanche destroyed all 25 tents at one of the camping zones and bashed and moved 12 tents in the other.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="24">
+          <content>Two French expeditions were on the mountain when the avalanche struck, a French Foreign Ministry spokeswoman said.</content>
+        </sentence>
+        <sentence id="25">
+          <content>Two French climbers were among the missing, she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="26">
+          <content>Among those confirmed dead was Marti Gasull of Spain, described by the nonprofit Pro-Language Platform in Barcelona as one of the leading Catalan language activists in the country.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="27">
+          <content>&amp;quot;He had a passion for the mountains.</content>
+        </sentence>
+        <sentence id="28">
+          <content>He was committed to the Catalan culture and language and admired for his human side and his commitment to our country,&amp;quot; the group said in a posting on its website.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="29">
+          <content>Kenton Cool, a mountain climber from England who reached the summit of Manaslu in 2010, told CNN that the weather during the post-monsoon season can be unsettled.</content>
+        </sentence>
+        <sentence id="30">
+          <content>His friends on the mountain told him that in the past 10 days or so, there had been &amp;quot;quite high levels of snow on the mountain,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="31">
+          <content>Teams normally wait for new snow to settle before leaving camp.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="32">
+          <content>Cool, who said Manaslu had a &amp;quot;fearsome reputation,&amp;quot; predicted that searchers will have a hard time finding some of the people still on the mountain.</content>
+        </sentence>
+        <sentence id="33">
+          <content>The area where the avalanche happened is the site of large crevasses.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="34">
+          <content>&amp;quot;It will be hard to know exactly where everyone was,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="35">
+          <content>&amp;quot;It will be hard to find the bodies, let alone retrieve them.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="36">
+          <content>According to Nepal tourism officials, 231 foreign mountaineers from 25 teams were attempting to climb the mountain in the autumn season that ends in November.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

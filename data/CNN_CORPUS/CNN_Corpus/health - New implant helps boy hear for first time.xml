@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="316" link="http://edition.cnn.com/2013/06/20/health/boy-hears-first-time" date_published="2013-06-20 18:04:25" category="health" author="Caitlin Hagan and Jacque Wilson, CNN" highlights_mapped="true" mapping_error="false">
+  <title>New implant helps boy hear for first time</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="4">Grayson Clamp, 3, was born without a cochlear nerve.</sentence>
+      <sentence id="2" ids_article_sentences="6">Grayson became the first child in U.S. with an auditory brain stem implant.</sentence>
+      <sentence id="3" ids_article_sentences="15">&amp;quot;He&amp;apost;s sound aware, but we don&amp;apost;t know what exactly he hears,&amp;quot; surgeon says.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-07-23 09:45:06" annotation_time="38.12">
+      <sentence id="4" ids_highlights="1">He was born without a cochlear nerve, which connects the brain stem to audio waves in the outside world.</sentence>
+      <sentence id="6" ids_highlights="2">Last month, Grayson became the first child in the United States to receive an auditory brain stem implant.</sentence>
+      <sentence id="15" ids_highlights="3">&amp;quot;He&amp;apost;s sound aware, but we don&amp;apost;t know what exactly he hears,&amp;quot; Buchman said.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The surprise on 3-year-old Grayson Clamp&amp;apost;s face in the video is priceless.</content>
+        </sentence>
+        <sentence id="2">
+          <content>His mouth opens wide as he points to the person in front of him speaking.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>It was the first time Grayson had heard sound.</content>
+        </sentence>
+        <sentence id="4">
+          <content>He was born without a cochlear nerve, which connects the brain stem to audio waves in the outside world.</content>
+        </sentence>
+        <sentence id="5">
+          <content>His parents had him fitted for a cochlear implant at a young age, but the device didn&amp;apost;t help.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="6">
+          <content>Last month, Grayson became the first child in the United States to receive an auditory brain stem implant.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>Len and Nicole Clamp were Grayson&amp;apost;s foster parents when he was a newborn.</content>
+        </sentence>
+        <sentence id="8">
+          <content>They adopted him as soon as they could, believing God had called them to care for the medically challenged boy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="9">
+          <content>Auditory brain stem implants already have been available for adults.</content>
+        </sentence>
+        <sentence id="10">
+          <content>When the Clamps heard about a Food and Drug Administration-approved trial for children at the UNC Hospitals in Chapel Hill, North Carolina, they jumped at the chance to participate.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="11">
+          <content>Grayson now has an external speech processor containing a microphone.</content>
+        </sentence>
+        <sentence id="12">
+          <content>The processor breaks up sounds into their frequency components and sends that information across Grayson&amp;apost;s skin to an implanted device, said his surgeon, Dr. Craig Buchman.</content>
+        </sentence>
+        <sentence id="13">
+          <content>The device then stimulates electrodes on his brain&amp;apost;s cochlear nucleus.</content>
+        </sentence>
+        <sentence id="14">
+          <content>The electrodes are placed where his cochlear nerve would be, if he had one.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="15">
+          <content>&amp;quot;He&amp;apost;s sound aware, but we don&amp;apost;t know what exactly he hears,&amp;quot; Buchman said.</content>
+        </sentence>
+        <sentence id="16">
+          <content>&amp;quot;We&amp;apost;re relying on the plasticity of brain to start to sort this out.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="17">
+          <content>The implant is powered by a battery that&amp;apost;s outside Grayson&amp;apost;s body.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="18">
+          <content>The procedure has been done mostly in Europe up to this point.</content>
+        </sentence>
+        <sentence id="19">
+          <content>The FDA approved the implant in the United States for only 10 children -- five who, like Grayson, were born without nerves and five who suffered traumatic damage.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="20">
+          <content>These cases will be used to determine whether a bigger trial that includes more children is safe and whether the device may one day be available across the country.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="21">
+          <content>The biggest risk occurs during surgery, Buchman said; the brain can be bruised when doctors place the device.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="22">
+          <content>Len Clamp said Grayson is discovering all kinds of new things about his world now.</content>
+        </sentence>
+        <sentence id="23">
+          <content>He&amp;apost;s drawn to music, Clamp said, often running over to turn on the radio.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="24">
+          <content>Clamp said he hopes other children with hearing loss get the same opportunity as Grayson.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="25">
+          <content>&amp;quot;It was the most amazing thing I&amp;apost;ve ever seen,&amp;quot; he said. &amp;quot;.</content>
+        </sentence>
+        <sentence id="26">
+          <content>(There are) no words to describe how excited we were, how validated we were, for all of the challenges.</content>
+        </sentence>
+        <sentence id="27">
+          <content>... He&amp;apost;s got a long way to go, but he&amp;apost;s going to get there.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

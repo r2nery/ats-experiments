@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="230" link="http://www.cnn.com/2012/10/31/health/autism-therapy-brain/index.html" date_published="2012-10-31 16:20:28" category="health" author="Miriam Falco, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Early therapy can change brains of kids with autism</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">A type of behavioral therapy can actually normalize brain activity in kids with autism.</sentence>
+      <sentence id="2" ids_article_sentences="2">The Early Start Denver Model is a type of play therapy.</sentence>
+      <sentence id="3" ids_article_sentences="35">Measuring brain activity could be a biomarker for autism, experts say.</sentence>
+      <sentence id="4" ids_article_sentences="5">About 1 in 88 children are diagnosed with autism, according to the CDC.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-13 15:47:27" annotation_time="261.206">
+      <sentence id="2" ids_highlights="1, 2">Now researchers have been able to show that a particular type of behavioral therapy called the Early Start Denver Model (ESDM) not only improves autism symptoms, but actually normalizes brain activity and improves social behavior.</sentence>
+      <sentence id="5" ids_highlights="4">According to the latest statistics from the U.S. Centers for Disease Control and Prevention, one in 88 children currently is diagnosed with autism, including one in 54 boys.</sentence>
+      <sentence id="35" ids_highlights="3">Based on the new findings, perhaps using EEGs to measure this type of brain activity could be a biomarker for autism, he says.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>As the number of children with autism has risen dramatically over the past couple of decades, experts have learned that the earlier a child gets diagnosed, the earlier specialized therapy can be initiated, which can significantly improve outcomes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Now researchers have been able to show that a particular type of behavioral therapy called the Early Start Denver Model (ESDM) not only improves autism symptoms, but actually normalizes brain activity and improves social behavior.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Autism is a neurodevelopmental disorder that starts to become very apparent around age 3.</content>
+        </sentence>
+        <sentence id="4">
+          <content>The main signs and symptoms of autism involve communication, social interactions and repetitive behaviors.</content>
+        </sentence>
+        <sentence id="5">
+          <content>According to the latest statistics from the U.S. Centers for Disease Control and Prevention, one in 88 children currently is diagnosed with autism, including one in 54 boys.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;Early intervention alters the trajectory of the brain and social development in children with autism,&amp;quot; says Geraldine Dawson, the lead study author who developed the ESDM therapy along with study co-author Sally Rogers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>Dawson was a researcher at the University of Washington when she helped devise ESDM; she&amp;apost;s now the chief science officer for the advocacy and research group Autism Speaks and a professor at the University of North Carolina.</content>
+        </sentence>
+        <sentence id="8">
+          <content>Rogers is a professor and researcher at the University of California Davis MIND Institute.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>ESDM therapy uses teaching methods from ABA ,or applied behavioral analysis, the traditional one-on-one interaction between a child and the therapist.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>But rather than sitting at a desk next to the child -- where a teacher or therapist breaks down complex tasks into small components and gives tangible reinforcements -- children receiving ESDM are sitting on the floor, playing with their therapist or parents.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>It can be done just about anywhere, and Dawson says the play-based method of engaging a child helps him or her develop a social relationship.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>The study began with 48 children in Seattle and Sacramento, California, who were between who were between 1 1/2 and 2 1/2 years old.</content>
+        </sentence>
+        <sentence id="13">
+          <content>Half of the children received a total of 20 hours of ESDM therapy over five days a week.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>But since parents can be taught the methods in just a few hours, they could engage their children using the ESDM method as well.</content>
+        </sentence>
+        <sentence id="15">
+          <content>The other half of the toddlers received community-based interventions, which included in some individual therapist sessions and some day care-based sessions.</content>
+        </sentence>
+        <sentence id="16">
+          <content>The number of hours spent with therapists was the same in both groups.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="17">
+          <content>Three years ago, Rogers and Dawson published their first findings from this study and found that children receiving ESDM therapy increased their IQ and language skills three times more than children in the community-intervention group.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="18">
+          <content>That in itself was &amp;quot;very significant,&amp;quot; says Dr. Thomas Insel, director of the National Institute of Mental Health, because it proved that early detection and intervention leads to improved outcomes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="19">
+          <content>In their latest study, published Friday in the Journal of the American Academy of Child &amp;amp; Adolescent Psychiatry, Rogers and Dawson show what parts of a child&amp;apost;s brain are active after two years of therapy, compared to typically developing children, using an EEG (electroencephalogram).</content>
+        </sentence>
+        <sentence id="20">
+          <content>In an EEG, electrical activity in different parts of the brain is measured using electrodes that attached to the child&amp;apost;s head.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="21">
+          <content>&amp;quot;If the child wiggles too much, the data is not interpretable,&amp;quot; says Dawson.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="22">
+          <content>In the end, researchers could only get 60% of the children to sit still enough to get usable EEG results, she says, but that was true in both the group of children with autism and those without.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="23">
+          <content>Fifteen children in the EDSM group, 14 in the community intervention group and 17 typically developing children underwent EEGs while looking at pictures of faces (social stimuli) vs. pictures of toys (nonsocial stimuli).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="24">
+          <content>Technicians measuring the brain activity had no idea which children had autism and which did not.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="25">
+          <content>&amp;quot;Children who received ESDM now showed a normal (brain) response, identical to typical 4-year-olds,&amp;quot; Dawson tells CNN.</content>
+        </sentence>
+        <sentence id="26">
+          <content>That wasn&amp;apost;t the case with most children who didn&amp;apost;t have ESDM therapy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="27">
+          <content>Babies are naturally drawn to people and faces, and their brains show greater responses when they look at a face, compared to an object or a toy, Dawson says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="28">
+          <content>But in young and even older children with autism, the opposite happens.</content>
+        </sentence>
+        <sentence id="29">
+          <content>The part of the brain that should be responding to a face or social activity doesn&amp;apost;t light up, but the part of the brain that responds to objects is more active.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="30">
+          <content>Insel says this study shows that the ESDM form of therapy &amp;quot;not only changes behavior, it changes the brain.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="31">
+          <content>The exact cause, or more precisely causes, of autism are unknown and there is no cure.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="32">
+          <content>Parents and pediatricians are urged to look for early signs of autism including: little or no eye contact, lack of or delay of spoken language, repetitive use of language and behaviors and persistent fixation on parts of objects.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="33">
+          <content>Since 2007, the American Academy of Pediatrics recommends that pediatricians screen 18- and 24-month-old toddlers for signs of autism.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="34">
+          <content>When something is wrong in the brain -- not just in autism, but also in diseases like Alzheimer&amp;apost;s and Parkinson&amp;apost;s -- what&amp;apost;s causing the disease is occurring much earlier than when symptoms appear, Insel explains.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="35">
+          <content>Based on the new findings, perhaps using EEGs to measure this type of brain activity could be a biomarker for autism, he says.</content>
+        </sentence>
+        <sentence id="36">
+          <content>A biomarker is a distinct characteristic that indicates a particular condition.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="37">
+          <content>Measuring a baby&amp;apost;s brain activity as early as 3 and 6 months could identify changes in the brain before changes in behavior are noticed, he says, and therapy could begin even earlier.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="38">
+          <content>The ESDM model could be applied as early as 12 months, say Dawson and Rogers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="39">
+          <content>More research will probably have to be done to confirm the biomarker.</content>
+        </sentence>
+        <sentence id="40">
+          <content>So until there is a definitive test for diagnosing autism, Dawson says this it&amp;apost;s even more important that pediatricians screen children for autism as early as possible.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="41">
+          <content>&amp;quot;The average age of diagnosis is still 4 and 5 and even older in minority groups,&amp;quot; she says.</content>
+        </sentence>
+        <sentence id="42">
+          <content>&amp;quot;We really need to close the gap.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="43">
+          <content>Autism Speaks has many tools on its website to help parents see what a child with autism looks like compared to a typically developing child.</content>
+        </sentence>
+        <sentence id="44">
+          <content>There are also many tool kits to help families of children with autism.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

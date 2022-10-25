@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="202" link="http://www.cnn.com/2012/11/09/health/reinventing-brain-chopra" date_published="2012-11-09 16:02:25" category="health" author="Deepak Chopra, Special to CNN" highlights_mapped="true" mapping_error="false">
+  <title>Chopra: Reinventing the brain is closer than you think</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="8">Brain research can help us reinvent how we use our brains.</sentence>
+      <sentence id="2" ids_article_sentences="19">Our brains are reshaped daily by our thoughts and experiences.</sentence>
+      <sentence id="3" ids_article_sentences="48">Our habits can also lead to brain changes.</sentence>
+      <sentence id="4" ids_article_sentences="51">A brain that is processing positive input will grow and evolve differently .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-12 12:15:01" annotation_time="17.515333">
+      <sentence id="8" ids_highlights="1">But the highest goal would be to reinvent how we use our brains.</sentence>
+      <sentence id="19" ids_highlights="2">It is reshaped by thoughts, memories, desire and experience.</sentence>
+      <sentence id="48" ids_highlights="3">The mind-body connection is powerful because our habits lead to brain changes.</sentence>
+      <sentence id="51" ids_highlights="4">A brain that is processing positive input will grow and evolve much differently from a brain that processes negative input.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>We&amp;apost;re living in a golden age for brain research, which could revolutionize how we think, feel and behave.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Thanks to brain scans like the fMRI, brain activity can be localized and even the most precise activity pinpointed.</content>
+        </sentence>
+        <sentence id="3">
+          <content>For example, researchers can spot the minuscule area in the visual cortex that, when damaged, prevents a person from recognizing faces, including his own.</content>
+        </sentence>
+        <sentence id="4">
+          <content>The slant in neuroscience has been to map the brain down to the tiniest detail.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>But what will we use the map for?</content>
+        </sentence>
+        <sentence id="6">
+          <content>One obvious area is medicine.</content>
+        </sentence>
+        <sentence id="7">
+          <content>The more we know about what goes wrong in Parkinson&amp;apost;s disease and Alzheimer&amp;apost;s disease, the closer we get to a cure.</content>
+        </sentence>
+        <sentence id="8">
+          <content>But the highest goal would be to reinvent how we use our brains.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="9">
+          <content>&amp;quot;Reinvent&amp;quot; isn&amp;apost;t an exaggeration.</content>
+        </sentence>
+        <sentence id="10">
+          <content>Ten thousand years ago, Homo sapiens had evolved the same genetic array that modern people inherit.</content>
+        </sentence>
+        <sentence id="11">
+          <content>But in those 10,000 years arose reading, writing, advanced art and music, government, mathematics and science.</content>
+        </sentence>
+        <sentence id="12">
+          <content>Their foundation was a new relationship between mind and body.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="13">
+          <content>If genes and a fixed structure of brain cells told the whole story, it would remain a total mystery why a cave dweller after the last Ice Age should have just the right complement of neurons to discover gravity or write a symphony.</content>
+        </sentence>
+        <sentence id="14">
+          <content>Now we realize that the human brain is far from fixed, at any level.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="15">
+          <content>New brain cells are being formed throughout life; trillions of connections between neurons are developed; and the genetic activity inside each neuron is dynamic, responding to every experience and every stimulus from the outside world.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="16">
+          <content>Human beings reinvent the brain as we go along, day by day.</content>
+        </sentence>
+        <sentence id="17">
+          <content>It&amp;apost;s not a matter of eons.</content>
+        </sentence>
+        <sentence id="18">
+          <content>In short, the brain is a verb, not a noun.</content>
+        </sentence>
+        <sentence id="19">
+          <content>It is reshaped by thoughts, memories, desire and experience.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="20">
+          <content>Because it is dynamic, fluid and ever-renewing, the brain is much more malleable than anyone ever imagined.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="21">
+          <content>Consider a controversial British medical journal article from 1980 entitled &amp;quot;Is the brain really necessary?&amp;quot;</content>
+        </sentence>
+        <sentence id="22">
+          <content>It was based on the work of British neurologist John Lorber, who had been working with victims of a brain disorder known as hydrocephalus (&amp;quot;water on the brain&amp;quot;), in which excessive fluid builds up.</content>
+        </sentence>
+        <sentence id="23">
+          <content>The pressure that results squeezes the life out of brain cells.</content>
+        </sentence>
+        <sentence id="24">
+          <content>Hydrocephalus leads to retardation as well as other severe damage and even death.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="25">
+          <content>Lorber had previously written about two infants born with no cerebral cortex.</content>
+        </sentence>
+        <sentence id="26">
+          <content>Yet despite this rare and fatal defect, they seemed to be developing normally, with no external signs of damage.</content>
+        </sentence>
+        <sentence id="27">
+          <content>One child survived for three months, the other for a year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="28">
+          <content>If this were not remarkable enough, a colleague at Sheffield University sent Lorber a young man who had an enlarged head.</content>
+        </sentence>
+        <sentence id="29">
+          <content>He had graduated from college with a first-class honors degree in mathematics and had an IQ of 126.</content>
+        </sentence>
+        <sentence id="30">
+          <content>There were no symptoms of hydrocephalus; the young man was leading a normal life.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="31">
+          <content>Yet a CAT scan revealed, in Lorber&amp;apost;s words, that he had &amp;quot;virtually no brain.&amp;quot;</content>
+        </sentence>
+        <sentence id="32">
+          <content>The skull was lined with a thin layer of brain cells about a millimeter thick (less than 1/10 of an inch), while the rest of the space in the skull was filled with cerebral fluid.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="33">
+          <content>This is an appalling disorder to contemplate, but Lorber pushed on, recording more than 600 cases.</content>
+        </sentence>
+        <sentence id="34">
+          <content>He divided his subjects into four categories depending on how much fluid was in the brain.</content>
+        </sentence>
+        <sentence id="35">
+          <content>The most severe category, which accounted for only 10% of the sample, consisted of people whose brain cavity was 95% filled with fluid.</content>
+        </sentence>
+        <sentence id="36">
+          <content>Of these, half were severely retarded; the other half, however, had IQs over 100.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="37">
+          <content>These findings were not seriously challenged as being false or distorted.</content>
+        </sentence>
+        <sentence id="38">
+          <content>The controversy arose over how to explain them.</content>
+        </sentence>
+        <sentence id="39">
+          <content>Even now, when the old view of a fixed brain has been replaced, such radical adaptability is mystifying.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="40">
+          <content>But it seems undeniable that reinventing the brain is viable.</content>
+        </sentence>
+        <sentence id="41">
+          <content>Stroke victims are rehabilitated on that basis, training undamaged areas of the brain to take up functions lost from the stroke.</content>
+        </sentence>
+        <sentence id="42">
+          <content>Efforts in autism and schizophrenia are also proceeding on the possibility that brain dysfunction is setting in months or years before the appearance of symptoms.</content>
+        </sentence>
+        <sentence id="43">
+          <content>If these pre-symptomatic changes can be addressed soon enough, the full-blown disease could be averted or greatly lessened.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="44">
+          <content>A similar approach to Alzheimer&amp;apost;s that examines brain changes in young adults who may be genetically susceptible to the disease could reverse that susceptibility through drug therapy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="45">
+          <content>Once medical science accepts that the brain can be reinvented, there is no limit.</content>
+        </sentence>
+        <sentence id="46">
+          <content>Together with Dr. Rudolph E. Tanzi, professor of neurology at Harvard Medical School and a leading researcher on Alzheimer&amp;apost;s, my efforts have been directed at how each person can relate to the brain in a new way.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="47">
+          <content>As we argue in our book &amp;quot;Super Brain,&amp;quot; the most direct way to improve brain function is through the mind.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="48">
+          <content>The mind-body connection is powerful because our habits lead to brain changes.</content>
+        </sentence>
+        <sentence id="49">
+          <content>What you pay attention to, what your passion is, your approach to diet, exercise, stress and even basic emotions like anger and fear -- all of these things register in your brain and drastically shape its structure.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="50">
+          <content>In the simplest terms, every experience is either positive or negative when seen as input for the brain.</content>
+        </sentence>
+        <sentence id="51">
+          <content>A brain that is processing positive input will grow and evolve much differently from a brain that processes negative input.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="52">
+          <content>This has always seemed intuitively right; we all know that children who are well-loved, for example, almost always turn out better than children who are abused.</content>
+        </sentence>
+        <sentence id="53">
+          <content>Now, we have validation from neuroscience.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="54">
+          <content>The most important conclusion is that no one needs to submit to old conditioning.</content>
+        </sentence>
+        <sentence id="55">
+          <content>The past can be changed by changing the brain, just as the future can be shaped by how your brain is trained today.</content>
+        </sentence>
+        <sentence id="56">
+          <content>Reinventing the brain is much closer than you think.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

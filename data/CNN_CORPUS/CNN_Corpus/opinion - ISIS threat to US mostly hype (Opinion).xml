@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="831" link="http://edition.cnn.com/2014/09/05/opinion/bergen-sterman-isis-threat-hype/index.html?hpt=imi_r1" date_published="2014-09-05 15:02:41" category="opinion" author="Peter Bergen and David Sterman" highlights_mapped="true" mapping_error="false">
+  <title>ISIS threat to U.S. mostly hype (Opinion)</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">Two-thirds of Americans say ISIS &amp;quot;major threat&amp;quot; to U.S.</sentence>
+      <sentence id="2" ids_article_sentences="5">U.S. officials have inflated numbers of Americans fighting for ISIS, says Peter Bergen.</sentence>
+      <sentence id="3" ids_article_sentences="6">Claims that over 100 U.S. citizens fighting with ISIS are probably overestimate.</sentence>
+      <sentence id="4" ids_article_sentences="31">Somalia example suggests those fighting in Syria won&amp;apost;t pose U.S. threat, Bergen says.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-11 08:03:21" annotation_time="94.0535">
+      <sentence id="2" ids_highlights="1">Two-thirds of those surveyed in a recent Pew Research poll said they consider the Islamic State in Iraq and Syria to be a &amp;quot;major threat&amp;quot; to this country.</sentence>
+      <sentence id="5" ids_highlights="2">For a start, U.S. officials have been inflating the numbers of Americans fighting for ISIS, which has muddied the issue for the public.</sentence>
+      <sentence id="6" ids_highlights="3">U.S. Secretary of Defense Chuck Hagel, for example, told CNN&amp;apost;s Jim Sciutto earlier this month, &amp;quot;We are aware of over 100 U.S. citizens who have U.S. passports who are fighting in the Middle East with ISIL forces.&amp;quot;</sentence>
+      <sentence id="31" ids_highlights="4">But as the case of U.S. citizens in Somalia suggests, Syria could very well end up being a graveyard for Americans fighting there rather than a launch pad for attacks on the United States.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>ISIS has Americans worried.</content>
+        </sentence>
+        <sentence id="2">
+          <content>Two-thirds of those surveyed in a recent Pew Research poll said they consider the Islamic State in Iraq and Syria to be a &amp;quot;major threat&amp;quot; to this country.</content>
+        </sentence>
+        <sentence id="3">
+          <content>But are such fears really justified?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="4">
+          <content>Despite the impression you may have had from listening to U.S. officials in recent weeks, the answer is probably not really.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>For a start, U.S. officials have been inflating the numbers of Americans fighting for ISIS, which has muddied the issue for the public.</content>
+        </sentence>
+        <sentence id="6">
+          <content>U.S. Secretary of Defense Chuck Hagel, for example, told CNN&amp;apost;s Jim Sciutto earlier this month, &amp;quot;We are aware of over 100 U.S. citizens who have U.S. passports who are fighting in the Middle East with ISIL forces.&amp;quot;</content>
+        </sentence>
+        <sentence id="7">
+          <content>(ISIS is sometimes referred to as ISIL and now calls itself the Islamic State).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="8">
+          <content>But the Pentagon soon corrected Hagel&amp;apost;s comment, saying the 100 count is the total number of Americans fighting for any of the various groups fighting in Syria, some of which are more militant than others -- and some of which are even allied with the U.S. Indeed, Matthew Olsen, the director of the National Counterterrorism Center -- the government office tasked with assessing terrorist threats -- also confirmed that 100 is the total count of the various Americans fighting in Syria and not a count of those fighting for ISIS.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="9">
+          <content>Hagel&amp;apost;s comment is only the latest inflated claim regarding the number of Americans fighting with ISIS.</content>
+        </sentence>
+        <sentence id="10">
+          <content>Last week, the Washington Times cited anonymous official sources who said there are 300 Americans fighting with ISIS, despite the Pentagon estimating the figure to be more like a dozen.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="11">
+          <content>True, a dozen is still too many.</content>
+        </sentence>
+        <sentence id="12">
+          <content>But it is important to remember that just because these Americans are fighting with ISIS, it doesn&amp;apost;t necessarily translate into a significant threat to the American homeland.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="13">
+          <content>One need only look at the example of Somalia to see why.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="14">
+          <content>The last sizeable group of Americans who went overseas to fight with an al Qaeda-aligned group are the 29 Americans known to have traveled to fight with the Somali terrorist group Al-Shabaab after the 2006 invasion of Somalia by the Ethiopian army.</content>
+        </sentence>
+        <sentence id="15">
+          <content>However, none of those 29 subsequently planned or conducted a terrorist attack inside the United States, according to a survey of more than 240 jihadist terrorism cases since September 11 conducted by the New America Foundation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="16">
+          <content>Indeed, for more than a third of the American militants who fought with Al-Shabaab, going to Somalia was a one-way ticket.</content>
+        </sentence>
+        <sentence id="17">
+          <content>In 2008, a missile strike in Somalia killed Ruben Shumpert, a resident of Seattle.</content>
+        </sentence>
+        <sentence id="18">
+          <content>A year later, Burhan Hassan, a 17-year-old from Minneapolis, was killed in the Somali capital, Mogadishu.</content>
+        </sentence>
+        <sentence id="19">
+          <content>Abdirizak Bihi, Hassan&amp;apost;s uncle, reportedly said at the time, &amp;quot;We believe he was killed because he would have been a key person in the investigation into the recruitment (of young Somali men) here in Minneapolis.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="20">
+          <content>Al-Shabaab militants also are said to have killed Alabama native Omar Hammami, who joined the group in 2006 and took a high-profile position in its media operations before his death last year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="21">
+          <content>At least two Americans fighting for Al-Shabaab died while conducting suicide attacks in Somalia.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="22">
+          <content>Shirwa Ahmed, a 26-year-old from Minnesota, became the first known American to conduct a suicide bombing for an al Qaeda-associated group when he drove a car packed with bombs into a government compound on October 28, 2008.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="23">
+          <content>In 2011, meanwhile, the FBI confirmed that Farah Mohamed Beledi, a 27-year-old Minnesota man who was born in Somalia and moved to the United States at age 12, was killed while attempting to detonate a suicide bomb in Somalia.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="24">
+          <content>In addition to the American militants who died in Somalia, six were arrested, four when they returned to the West and two in East Africa.</content>
+        </sentence>
+        <sentence id="25">
+          <content>Kamal Said Hassan, a 28-year-old Minneapolis man who traveled to Somalia and attended an Al-Shabaab training camp before returning to the United States, was arrested and in 2009 pleaded guilty to supporting Al-Shabaab.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="26">
+          <content>In another case, Mahamud Said Omar, an American resident who helped organize Al-Shabaab&amp;apost;s recruitment pipeline and visited a training camp, was arrested in the Netherlands in 2009.</content>
+        </sentence>
+        <sentence id="27">
+          <content>Omar was extradited to the United States and in 2012 was convicted on terrorism charges.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="28">
+          <content>Of course, the fact that 13 of the 29 American militants who fought in Somalia remain at large is a reminder that the CIA and FBI also need to pay attention to the potential threat posed by American foreign fighters in Syria.</content>
+        </sentence>
+        <sentence id="29">
+          <content>But this is no reason for U.S. officials to overhype the threat posed by ISIS to the United States.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="30">
+          <content>Yes, Americans should always be mindful of the threats posed by extremists.</content>
+        </sentence>
+        <sentence id="31">
+          <content>But as the case of U.S. citizens in Somalia suggests, Syria could very well end up being a graveyard for Americans fighting there rather than a launch pad for attacks on the United States.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

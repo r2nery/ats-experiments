@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2786" link="http://cnn.com/2013/09/18/world/meast/syria-civil-war/index.html" date_published="2013-09-18 08:11:56" category="world" author="Tom Watkins and Holly Yan, CNN " highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Syria&amp;apost;s al-Assad says he welcomes return of U.N. inspectors</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="9, 8">NEW: Bashar al-Assad: &amp;quot;Syria never obeyed any threat&amp;quot; from the United States.</sentence>
+      <sentence id="2" ids_article_sentences="1">U.N. inspectors will follow up on more allegations of chemical weapons use in Syria.</sentence>
+      <sentence id="3" ids_article_sentences="13">Russia slams a U.N. report on chemical weapons use, calling it &amp;quot;distorted&amp;quot;.</sentence>
+      <sentence id="4" ids_article_sentences="29">Jane&amp;apost;s editor in chief sees no &amp;quot;compelling evidence&amp;quot; indicating who used sarin.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-25 10:03:57" annotation_time="78.360664" mapping_time_divergence="58.7705">
+      <sentence id="1" ids_highlights="2">Syria&amp;apost;s president says he&amp;apost;ll welcome the return of U.N. investigators to follow up on more allegations of chemical weapons use in his country.</sentence>
+      <sentence id="8" ids_highlights="1">&amp;quot;Syria never obeyed any threat.</sentence>
+      <sentence id="9" ids_highlights="1">We actually responded to the Russian initiative,&amp;quot; he told Fox.</sentence>
+      <sentence id="13" ids_highlights="3">Soon after Western countries said the U.N. findings implicated the Syrian regime in using sarin gas, Russia fired back, calling the report &amp;quot;distorted.&amp;quot;</sentence>
+      <sentence id="29" ids_highlights="4">But Nick Brown, editor in chief of IHS Jane&amp;apost;s Defence Equipment and Technology Centre, said that though the U.N. report appears to prove that high-quality, weaponized sarin was used in significant quantities in Syria, &amp;quot;I have not personally seen any compelling data that proves beyond doubt who the weapons were used by.&amp;quot;</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Syria&amp;apost;s president says he&amp;apost;ll welcome the return of U.N. investigators to follow up on more allegations of chemical weapons use in his country.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>&amp;quot;We&amp;apost;ve been asking them to come back to Syria to continue their investigations,&amp;quot; President Bashar al-Assad told Fox News in an interview broadcast Wednesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Al-Assad said he hadn&amp;apost;t had time yet to analyze the U.N. investigators&amp;apost; findings so far, but stressed they have more work to do.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>&amp;quot;They haven&amp;apost;t finished it yet,&amp;quot; he said, adding that it&amp;apost;s clear that rebels were behind chemical weapons attacks, not his government.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>Ake Sellstrom, the head of the inspection team that visited after an August 21 attack outside Damascus, told CNN that the next visit could take place as early as next week.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>In the meantime, Al-Assad vowed that his government would comply with the deal to hand over and destroy its chemical weapons, but noted that the timeframe is uncertain and the costs will be great -- up to $1 billion by some estimates.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>And he said that his government&amp;apost;s decision to sign on had nothing to do with a threat of military action by the United States.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;Syria never obeyed any threat.</content>
+        </sentence>
+        <sentence id="9">
+          <content>We actually responded to the Russian initiative,&amp;quot; he told Fox.</content>
+        </sentence>
+        <sentence id="10">
+          <content>&amp;quot;We obey because we want to obey.</content>
+        </sentence>
+        <sentence id="11">
+          <content>We have completely different incentives.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>Russia denounces U.N. report.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>Soon after Western countries said the U.N. findings implicated the Syrian regime in using sarin gas, Russia fired back, calling the report &amp;quot;distorted.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>Deputy Foreign Minister Sergey Ryabkov also told Russia Today that the report was built on insufficient information.</content>
+        </sentence>
+        <sentence id="15">
+          <content>He said Russia has its own evidence from the site of the August 21 attack that, according to U.S. estimates, killed more than 1,400 people.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;This analysis is not finished, so the point here is not about accusing parties,&amp;quot; Ryabkov told Russia Today.</content>
+        </sentence>
+        <sentence id="17">
+          <content>&amp;quot;But the point is ... that those inspectors of the U.N. should come back to Syria to complete their investigation.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="18">
+          <content>In the same interview, he said Syria has given Russia evidence that implicates rebels in the August 21 attack, which occurred outside Damascus.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;This confirmation and this evidence has been transmitted to the Russian side ... and we are in the process of studying those,&amp;quot; he said without citing what the evidence was.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="20">
+          <content>Russia will present evidence to the Security Council, Russian Foreign Minister Sergey Lavrov told reporters in Valdai, Russia, on Wednesday.</content>
+        </sentence>
+        <sentence id="21">
+          <content>He did not say when the presentation would take place and added that he himself had not seen it.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="22">
+          <content>Russia has been a strong ally of Syrian President Bashar al-Assad&amp;apost;s regime, and Russian defense contracts with Syria have probably exceeded $4 billion.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="23">
+          <content>The United Nations official in charge of weapons inspectors said that the report alleging chemical weapons use in Syria &amp;quot;stands for itself,&amp;quot; shooting back Russian allegations that the report was &amp;quot;biased&amp;quot; and &amp;quot;distorted.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="24">
+          <content>&amp;quot;It is a very sound, scientific report,&amp;quot; Angela Kane, the U.N. high representative for disarmament affairs, told CNN&amp;apost;s Christiane Amanpour on Wednesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="25">
+          <content>Moscow&amp;apost;s reaction to the U.N. report has differed sharply from those of the United States and France.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="26">
+          <content>&amp;quot;Based on our preliminary review of information contained in the report, several crucial details confirm the Assad regime&amp;apost;s guilt in carrying out this attack,&amp;quot; U.S. State Department spokeswoman Jen Psaki told reporters Tuesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="27">
+          <content>She said one of the munitions identified in the report, a 120 mm improvised rocket, has been linked to previous attacks by al-Assad&amp;apost;s regime, and &amp;quot;we have no indications that the opposition has manufactured or used this style rocket.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="28">
+          <content>French Foreign Minister Laurent Fabius said his country also believes the report proves the Syrian regime used chemical warfare in opposition strongholds near Damascus.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="29">
+          <content>But Nick Brown, editor in chief of IHS Jane&amp;apost;s Defence Equipment and Technology Centre, said that though the U.N. report appears to prove that high-quality, weaponized sarin was used in significant quantities in Syria, &amp;quot;I have not personally seen any compelling data that proves beyond doubt who the weapons were used by.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="30">
+          <content>He added: &amp;quot;There is a degree of circumstantial evidence that appears to point to the attack originating with the Assad forces, but the exact forensic detail of who prepared and then triggered the weapons remains unclear and was beyond the scope of the U.N. investigation.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="31">
+          <content>Syrian government claims a win.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="32">
+          <content>United Nations Security Council members met Wednesday to try to hammer out a resolution to get Syria to give up its chemical weapons.</content>
+        </sentence>
+        <sentence id="33">
+          <content>It wasn&amp;apost;t clear Wednesday night how much progress they&amp;apost;d made.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="34">
+          <content>Reaching a deal will be tough.</content>
+        </sentence>
+        <sentence id="35">
+          <content>U.S. and French officials want to include the threat of military action in the event Syria doesn&amp;apost;t comply, but Russian officials don&amp;apost;t want any wording that could countenance the use of force.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="36">
+          <content>The disagreement came days after Russia and the United States reached a rare agreement on Syria -- a plan for eliminating the country&amp;apost;s chemical weapons stockpile.</content>
+        </sentence>
+        <sentence id="37">
+          <content>Even Syria agreed to the plan, and U.S. President Barack Obama has held back on possible military action while diplomatic options play out.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="38">
+          <content>But even before seeing a Security Council resolution, the Syrian regime claimed an international win.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="39">
+          <content>Prime Minister Wael al-Halqi told the Syrian Cabinet about &amp;quot;brilliant victories of the Syrian diplomacy realized ... in terms of preventing the U.S. from launching a military aggression against Syria,&amp;quot; the Syrian Arab News Agency reported Wednesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="40">
+          <content>But the diplomacy hasn&amp;apost;t stopped bloodshed.</content>
+        </sentence>
+        <sentence id="41">
+          <content>The opposition Local Coordination Committees of Syria reported Wednesday that regime forces killed 24 people in the village of Kafr Zeiba in Idlib province.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="42">
+          <content>The Syrian opposition has blamed al-Assad&amp;apost;s government for the violence and called for his ouster.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="43">
+          <content>Al-Assad told Fox News that his government can&amp;apost;t back down on what he called a fight against terrorism, arguing that 80%-90% of rebels have ties to al Qaeda or other extremist groups.</content>
+        </sentence>
+        <sentence id="44">
+          <content>Civilian casualties in the Syrian conflict, he argued, have come from rebel attacks and from his government&amp;apost;s attempts to root out terrorists from residential areas.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="34">
+      <sentences>
+        <sentence id="45">
+          <content>&amp;quot;The army has to go there and get rid of terrorists.</content>
+        </sentence>
+        <sentence id="46">
+          <content>The army should defend citizens.</content>
+        </sentence>
+        <sentence id="47">
+          <content>You cannot leave them free, killing people, beheading people, eating their hearts,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="48">
+          <content>&amp;quot;In every way, you have casualties.</content>
+        </sentence>
+        <sentence id="49">
+          <content>This is war.</content>
+        </sentence>
+        <sentence id="50">
+          <content>(There is) no clean war, no soft war, no good war.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

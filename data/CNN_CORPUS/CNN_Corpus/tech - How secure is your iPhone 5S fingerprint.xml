@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1605" link="http://www.cnn.com/2013/09/12/tech/mobile/iphone-fingerprint-privacy/index.html" date_published="2013-09-12 21:08:50" category="tech" author="Brandon Griggs, CNN" highlights_mapped="true" mapping_error="false">
+  <title>How secure is your iPhone 5S fingerprint?</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">The idea of handing over fingerprints to Apple via new iPhone 5S has some nervous.</sentence>
+      <sentence id="2" ids_article_sentences="2">The phone will feature a fingerprint sensor in its Home button for added security.</sentence>
+      <sentence id="3" ids_article_sentences="14">Apple: Fingerprint info will be encrypted and stored in your phone, not on our servers.</sentence>
+      <sentence id="4" ids_article_sentences="34">Security expert: &amp;quot;Hackers will be certainly intrigued to see how they might circumvent&amp;quot; system.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-07-25 21:10:52" annotation_time="33.902332">
+      <sentence id="1" ids_highlights="1">Given the privacy concerns swirling around much of our digital activity these days, the idea of handing over one&amp;apost;s fingerprints to Apple via its new iPhone 5S has some people nervous.</sentence>
+      <sentence id="2" ids_highlights="2">The phone, which goes on sale September 20, will feature a fingerprint sensor in its Home button for added security.</sentence>
+      <sentence id="14" ids_highlights="3">But Apple has said users&amp;apost; fingerprint information will be encrypted and stored securely inside the phone&amp;apost;s new A7 processor chip instead of on Apple&amp;apost;s servers or backed up to iCloud, the company&amp;apost;s Web-based storage service.</sentence>
+      <sentence id="34" ids_highlights="4">With the launch of the iPhone 5S, more people will be using fingerprint sensors as part of their daily security than ever before -- and the hackers will be certainly intrigued to see how they might circumvent it,&amp;quot; Cluley adds.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Given the privacy concerns swirling around much of our digital activity these days, the idea of handing over one&amp;apost;s fingerprints to Apple via its new iPhone 5S has some people nervous.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The phone, which goes on sale September 20, will feature a fingerprint sensor in its Home button for added security.</content>
+        </sentence>
+        <sentence id="3">
+          <content>Users must &amp;quot;register&amp;quot; their print with the device, after which they can unlock the phone by placing a finger or thumb on the button.</content>
+        </sentence>
+        <sentence id="4">
+          <content>The idea is that fingerprints, being unique to each person, augment users&amp;apost; passcodes to offer an additional safeguard against hackers or thieves.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>But can we trust Apple or its partners with our fingerprints?</content>
+        </sentence>
+        <sentence id="6">
+          <content>And couldn&amp;apost;t hackers, those resourceful and relentless probers of digital firewalls, find new ways to trick the phone&amp;apost;s sensor?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>The answers, experts say, appear to be: 1) Probably, at least for now, and 2) Yes, although that&amp;apost;s unlikely.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;There should always be some concern with new technologies or functionality that has such a large base of users,&amp;quot; says Joe Schumacher, a consultant for security firm Neohapsis, in an e-mail to CNN.</content>
+        </sentence>
+        <sentence id="9">
+          <content>&amp;quot;The fingerprint reader is more of a sales tactic than a strong security enhancement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;What still needs to be researched is how this digital fingerprint can be used once it is leaked, hacked or opened up to iCloud.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>Prints in the cloud?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>Some observers have wondered aloud on Twitter and elsewhere whether Apple, armed with a potential database of millions of thumbprints, might turn over some customers&amp;apost; prints to the National Security Agency (NSA) if ordered to by the government.</content>
+        </sentence>
+        <sentence id="13">
+          <content>After all, Apple was reported to have been a partner in the NSA&amp;apost;s PRISM surveillance program and has acknowledged it hands over user data when mandated by the government.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>But Apple has said users&amp;apost; fingerprint information will be encrypted and stored securely inside the phone&amp;apost;s new A7 processor chip instead of on Apple&amp;apost;s servers or backed up to iCloud, the company&amp;apost;s Web-based storage service.</content>
+        </sentence>
+        <sentence id="15">
+          <content>Apple also has said it&amp;apost;s not allowing third-party applications to access the scanner -- at least not yet.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="16">
+          <content>That&amp;apost;s good news for users&amp;apost; privacy, experts say -- even amid news reports that the NSA can spy on smartphones.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;Your iPhone knows who you call.</content>
+        </sentence>
+        <sentence id="18">
+          <content>It knows where you are.</content>
+        </sentence>
+        <sentence id="19">
+          <content>And in the newest versions, it will know your thumbprint.</content>
+        </sentence>
+        <sentence id="20">
+          <content>Given revelations about how the NSA can access Apple devices, should you be worried about it having that biometric data?</content>
+        </sentence>
+        <sentence id="21">
+          <content>No.</content>
+        </sentence>
+        <sentence id="22">
+          <content>No no no no no no.</content>
+        </sentence>
+        <sentence id="23">
+          <content>Come on.</content>
+        </sentence>
+        <sentence id="24">
+          <content>No,&amp;quot; writes Philip Bump in The Atlantic.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="25">
+          <content>&amp;quot;Your fingerprint ... isn&amp;apost;t traveling anywhere.</content>
+        </sentence>
+        <sentence id="26">
+          <content>Is it possible that the NSA could ask Apple to upload a user&amp;apost;s fingerprint from the phone so that it can be transmitted to the agency?</content>
+        </sentence>
+        <sentence id="27">
+          <content>Sure.</content>
+        </sentence>
+        <sentence id="28">
+          <content>But that likely wouldn&amp;apost;t be a request that comes through PRISM; it would probably require a separate warrant.</content>
+        </sentence>
+        <sentence id="29">
+          <content>Not impossible, but, given the burden of demonstrating need for a warrant, not as easy as a few keystrokes.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="30">
+          <content>Fingerprint hacks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="31">
+          <content>Then there&amp;apost;s the question of hackers replicating fingerprints to break into phones.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="32">
+          <content>&amp;quot;Fingerprints are not private, you leave them lying around everywhere, and if someone has enough incentive -- and the resources available to them -- they may try to defeat any security system that you trust your fingerprint to unlock,&amp;quot; writes noted security researcher Graham Cluley on his blog.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="33">
+          <content>&amp;quot;One thing is for sure.</content>
+        </sentence>
+        <sentence id="34">
+          <content>With the launch of the iPhone 5S, more people will be using fingerprint sensors as part of their daily security than ever before -- and the hackers will be certainly intrigued to see how they might circumvent it,&amp;quot; Cluley adds.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="35">
+          <content>Dino Dai Zovi, co-author of &amp;quot;The iOS Hacker&amp;apost;s Handbook,&amp;quot; told CNNMoney that if he were trying to hack an iPhone 5S, he would first try to lift prints from elsewhere on the device &amp;quot;and figure out how to replay those to the sensor to log in to the person&amp;apost;s phone.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="36">
+          <content>This is not as hard as it might sound.</content>
+        </sentence>
+        <sentence id="37">
+          <content>A decade ago, a Japanese cryptographer demonstrated how to fool fingerprint-recognition systems by transferring latent prints to a &amp;quot;finger&amp;quot; made from gelatin, the ingredient found in Jell-O and other sweets.</content>
+        </sentence>
+        <sentence id="38">
+          <content>It was informally known as the &amp;quot;Gummi bear hack.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="39">
+          <content>But Apple&amp;apost;s new Touch ID technology is presumably more sophisticated than those old systems.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="40">
+          <content>In addition, latent prints may not provide enough of an overlapping match to unlock a phone, says digital-security expert Robert Graham.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="41">
+          <content>&amp;quot;You use a different part of your finger to touch the iPhone sensor than what you use to touch other things,&amp;quot; writes Graham on the Errata Security blog.</content>
+        </sentence>
+        <sentence id="42">
+          <content>&amp;quot;That means while hackers may be able to lift your thumbprint from you holding other objects, or from other parts of the phone itself, they probably can&amp;apost;t get the tip print needed to do bad things on your iPhone.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="43">
+          <content>&amp;quot;This means the fingerprint databases held by the NSA, FBI, and border security are largely useless at unlocking your phone: they don&amp;apost;t cover the same parts of your fingers,&amp;quot; Graham adds.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="44">
+          <content>But there is another potential vulnerability in the iPhone 5S&amp;apost;s fingerprint scans.</content>
+        </sentence>
+        <sentence id="45">
+          <content>The Touch ID system also can be used as a secure way to approve purchases from iTunes or the App Store, which makes some security experts uncomfortable.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="46">
+          <content>&amp;quot;If Apple is right that fingerprints never leave the device, that means the new iPhones will be sending some sort of authentication token to Apple servers to verify that the end user has produced a valid print,&amp;quot; writes Dan Goodin in Ars Technica, a CNN.com content partner.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="47">
+          <content>&amp;quot;If attackers figure out a way to capture and replay users&amp;apost; valid tokens, it could lead to new ways for criminals to hijack user accounts.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

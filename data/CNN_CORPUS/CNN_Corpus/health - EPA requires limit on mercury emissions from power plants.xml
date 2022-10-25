@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="240" link="http://edition.cnn.com/2011/12/21/health/epa-mercury-rule/index.html" date_published="2011-12-21 19:36:32" category="health" author="Alex Mooney, CNN" highlights_mapped="true" mapping_error="false">
+  <title>EPA requires limit on mercury emissions from power plants</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="31">This is &amp;quot;a clean air rule that has been 20 years in the making,&amp;quot; EPA chief Jackson says.</sentence>
+      <sentence id="2" ids_article_sentences="12">The rules set numerical emission limits for all existing and future coal plants .</sentence>
+      <sentence id="3" ids_article_sentences="22">Some Republicans say the rules will kill jobs.</sentence>
+      <sentence id="4" ids_article_sentences="14">The EPA says an analysis shows more jobs will be created than lost.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-17 11:05:42" annotation_time="92.054">
+      <sentence id="12" ids_highlights="2">Specifically, the EPA will impose numerical emission limits for all existing and future coal plants and propose a range of &amp;quot;widely available, technical and economically reasonable practices, technologies, and compliance strategies,&amp;quot; to meet the new demands.</sentence>
+      <sentence id="14" ids_highlights="4">The EPA also predicts more jobs will be created than lost as power plants invest million of dollars in upgrades.</sentence>
+      <sentence id="22" ids_highlights="3">The new rules have also made their way to the Republican presidential campaign trail, with Jon Huntsman recently predicting increased brownouts during the summer and Rick Perry declaring the EPA is a &amp;quot;job-killing&amp;quot; agency.</sentence>
+      <sentence id="31" ids_highlights="1">&amp;quot;This is a big public health victory, 20 years in the making.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The Environmental Protection Agency finalized new federal standards on toxic pollutants and mercury emissions from coal power plants Wednesday, a move being praised by environmentalists but criticized by others, who predict lost jobs and a strain on the nation&amp;apost;s power grid.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>EPA Administrator Lisa Jackson, at an event at the Children&amp;apost;s National Medical Center in Washington, announced that for the first time U.S. coal and oil-fired power plant operators must limit their emissions of mercury and other hazardous air pollutants.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;I am glad to be here to mark the finalization of a clean air rule that has been 20 years in the making, and is now ready to start improving our health, protecting our children, and cleaning up our air,&amp;quot; Jackson said.</content>
+        </sentence>
+        <sentence id="4">
+          <content>&amp;quot;Under the Clean Air Act these standards will require American power plants to put in place proven and widely available pollution control technologies to cut harmful emissions of mercury, arsenic, chromium, nickel and acid gases.</content>
+        </sentence>
+        <sentence id="5">
+          <content>In and of itself, this is a great victory for public health, especially for the health of our children.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>EPA rules in place since the 1990s target acid rain and smog-forming chemicals emitting from power plants, but not mercury, a neurotoxin known to damage developing fetuses and children.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>Despite federal limits on emissions of mercury from other sources, such as waste incinerators, there have been no limits on coal-fired power plants, which the EPA says constitute the single largest source of mercury emissions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;These standards rank among the three or four most significant environmental achievements in the EPA&amp;apost;s history,&amp;quot; said John Walke, clean air director of the National Resources Defense Council.</content>
+        </sentence>
+        <sentence id="9">
+          <content>&amp;quot;This rule making represents a generational achievement.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>The new regulations are among the most wide-reaching to come from the EPA during Barack Obama&amp;apost;s administration.</content>
+        </sentence>
+        <sentence id="11">
+          <content>They include separate limits for mercury emissions, acid gasses, and other pollutants from several metals.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>Specifically, the EPA will impose numerical emission limits for all existing and future coal plants and propose a range of &amp;quot;widely available, technical and economically reasonable practices, technologies, and compliance strategies,&amp;quot; to meet the new demands.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>According to an EPA analysis, the larger economic benefits of the reduced pollution will more than pay for the short-term clean-up costs.</content>
+        </sentence>
+        <sentence id="14">
+          <content>The EPA also predicts more jobs will be created than lost as power plants invest million of dollars in upgrades.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>It also estimates the new regulations, by reducing people&amp;apost;s exposure to these toxins, will prevent 11,000 premature deaths each year and trim health costs.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;EPA estimates that for every dollar spent to reduce pollution from power plants, the American public will see up to $9 in health benefits.</content>
+        </sentence>
+        <sentence id="17">
+          <content>The total health and economic benefits of this standard are estimated to be as much as $90 billion annually,&amp;quot; the agency said in a news release.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="18">
+          <content>But the EPA also acknowledges the regulations will result in increased power grid strain: by its estimate, 14.7 gigawatts of power supply will be eliminated from the U.S. power grid when the rules take effect by 2015.</content>
+        </sentence>
+        <sentence id="19">
+          <content>That figure -- enough to power well over 10 million U.S. households -- is overly optimistic, according to other industry analyses.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="20">
+          <content>Several industry groups and some Republicans also disagree about the economic impact the new regulations will have.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="21">
+          <content>Reps. Darrell Issa and Jim Jordan, chairmen of the House Oversight Committee and subcommittee on Regulatory affairs, respectively, sent a letter to the White House earlier this week claiming the &amp;quot;EPA has failed to perform a proper analysis of the rule&amp;apost;s impact on job creation&amp;quot; and &amp;quot;consider the rule&amp;apost;s impact on grid reliability.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="22">
+          <content>The new rules have also made their way to the Republican presidential campaign trail, with Jon Huntsman recently predicting increased brownouts during the summer and Rick Perry declaring the EPA is a &amp;quot;job-killing&amp;quot; agency.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="23">
+          <content>And the U.S. Chamber of Commerce, a group traditionally sympathetic to Republicans, has aired ads urging listeners not to &amp;quot;let the EPA turn out the lights on the American economy.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="24">
+          <content>But the Obama administration has found an ally in New York City Mayor Michael Bloomberg, who argued in a recent op-ed for the Huffington Post that the new standards are gravely needed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="25">
+          <content>&amp;quot;We can stop this,&amp;quot; Bloomberg wrote of mercury poisoning.</content>
+        </sentence>
+        <sentence id="26">
+          <content>&amp;quot;We can spare children this tragic injustice and the pain it brings their families.</content>
+        </sentence>
+        <sentence id="27">
+          <content>We can spare adults from losing years off their lives.</content>
+        </sentence>
+        <sentence id="28">
+          <content>And we can spare taxpayers the enormous health care costs that come with mercury-related-illnesses.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="29">
+          <content>Environmentalists, who earlier his fall were outraged with Obama over his refusal to push for ozone emission standards the EPA supported, are also strongly on board.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="30">
+          <content>&amp;quot;This bold new announcement means less contaminated fish -- and more protections for kids who are at risk of developing learning disabilities and other problems that have been linked to mercury poisoning,&amp;quot; the Sierra Club said in an e-mail to CNN.</content>
+        </sentence>
+        <sentence id="31">
+          <content>&amp;quot;This is a big public health victory, 20 years in the making.</content>
+        </sentence>
+        <sentence id="32">
+          <content>It&amp;apost;s one of the most important anti-pollution measures in recent memory.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="33">
+          <content>Mary Anne Hitt, director of the Beyond Coal Campaign, said, &amp;quot;As a mom, I&amp;apost;m especially excited to know that millions of mothers and babies will now be protected from mercury poisoning.</content>
+        </sentence>
+        <sentence id="34">
+          <content>We all teach our kids the simple rule that if you make a mess you should clean it up -- and now polluters will have to follow that same rule.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="35">
+          <content>The new rule requires that the vast majority of mercury contained in coal be captured and prevented from releasing into the air when burned for energy, and would require operators to shut down or upgrade the least efficient power plants.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="36">
+          <content>Power plant operators have three years to comply with the new standards, but plant operators may be granted additional time to install the necessary emissions improvement technologies if they are able to demonstrated a valid need.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="37">
+          <content>Once airborne, mercury enters bodies of water through precipitation, becomes methylmercury, and accumulates in the food chain.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="38">
+          <content>The EPA and the Food and Drug Administration jointly recommend that pregnant women and young children limit their consumption of fish and shellfish to two meals a week because of the methylmercury contamination.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

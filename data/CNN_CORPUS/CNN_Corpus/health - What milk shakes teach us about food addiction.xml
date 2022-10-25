@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="419" link="http://www.cnn.com/2013/06/28/health/time-food-addiction" date_published="2013-06-28 13:31:56" category="health" author="Alexandra Sifferlin, TIME.com" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>What milk shakes teach us about food addiction</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="4">A study shows certain foods may trigger addictive behavior.</sentence>
+      <sentence id="2" ids_article_sentences="11">The concept of food addiction, however, remains provocative.</sentence>
+      <sentence id="3" ids_article_sentences="44">The study shows milk shakes activate a part of the brain also activated by drugs.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-20 16:49:44" annotation_time="58.299" mapping_time_divergence="19.433">
+      <sentence id="4" ids_highlights="1">A new study provides the strongest evidence yet that certain foods trigger addictive behavior just as drugs can.</sentence>
+      <sentence id="11" ids_highlights="2">&amp;quot;The concept of food addiction is very provocative and rightly so,&amp;quot;says Dr. David Ludwig, the director of the New Balance Foundation Obesity Center at Boston Children&amp;apost;s Hospital.</sentence>
+      <sentence id="44" ids_highlights="3">Ludwig says that more research is needed to better understand the complex way that the brain sees food; even if food isn&amp;apost;t addictive in exactly the same way that drugs of abuse are, exposing the connections between eating and satisfaction could lead to more effective ways of managing, or even avoiding, the lure of our favorite foods.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Have you ever craved a piece of chocolate?</content>
+        </sentence>
+        <sentence id="2">
+          <content>Or felt the lure of a hot slice of pizza?</content>
+        </sentence>
+        <sentence id="3">
+          <content>And been convinced that the force responsible wasn&amp;apost;t your stomach hoping to quell hunger but your brain, desperately seeking to satisfy something more like an addiction?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="4">
+          <content>A new study provides the strongest evidence yet that certain foods trigger addictive behavior just as drugs can.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>Nicotine is addictive.</content>
+        </sentence>
+        <sentence id="6">
+          <content>So are drugs like cocaine and heroin.</content>
+        </sentence>
+        <sentence id="7">
+          <content>All can rewire the brain to crave the progressively elusive &amp;quot;high&amp;quot; or satisfaction that these agents produce.</content>
+        </sentence>
+        <sentence id="8">
+          <content>The desire is so strong that it overtakes all reason and need to satisfy it becomes an all-consuming mission, at the expense of your physical, emotional and social health.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="9">
+          <content>Some would argue that certain foods hold the same power over people, monkeying with the brain&amp;apost;s normal appetite system and resetting the satisfaction threshold so it&amp;apost;s always just out of reach, meaning you can never eat enough.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="10">
+          <content>Others point to the fact that food is essential for survival so it can&amp;apost;t be addictive since satisfying hunger is part of, and isn&amp;apost;t supposed to interfere with, physical and mental health.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;The concept of food addiction is very provocative and rightly so,&amp;quot;says Dr. David Ludwig, the director of the New Balance Foundation Obesity Center at Boston Children&amp;apost;s Hospital.</content>
+        </sentence>
+        <sentence id="12">
+          <content>&amp;quot;Unlike drugs of abuse, food is necessary for survival.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="13">
+          <content>But with obesity rates still at worrisome levels, Ludwig and his colleagues decided to take an objective look at what effect food has on the brain, to see if certain foods do indeed trigger cravings as some abused substances do.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="14">
+          <content>Specifically, they focused on the dietary glycemic index, a measure of a food&amp;apost;s ability to raise blood sugar levels, on brain regions associated with cravings in a group of obese men.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="15">
+          <content>&amp;quot;Prior research has shown the tasty high calorie foods can trigger the pleasure center of the brain.</content>
+        </sentence>
+        <sentence id="16">
+          <content>That supports the idea of food addiction, but the significance of those studies has been challenged because they typically compare grossly different foods like cheesecake versus boiled vegetables,&amp;quot; says Ludwig.</content>
+        </sentence>
+        <sentence id="17">
+          <content>&amp;quot;Yes, certain foods are tasty and enjoyable, but is that so different from a audiophile listening to beautiful music?&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="18">
+          <content>Ludwig took MRI scans of the brains of 12 obese men after they consumed two milk shakes.</content>
+        </sentence>
+        <sentence id="19">
+          <content>Both had the same amount of calories, protein, fat and carbohydrates and tasted equally sweet.</content>
+        </sentence>
+        <sentence id="20">
+          <content>However, one milk shake had a much higher glycemic index from the carbohydrates compared to the other.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="21">
+          <content>After the men consumed the milk shake with the higher glycemic index, their blood sugar levels surged as expected, then crashed a few hours later, leaving them feeling hungry.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="22">
+          <content>But with the brain scans, Ludwig was able to show that these shakes activated the nucleus accumbens, which is also triggered by addictive drugs and behaviors like gambling.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="23">
+          <content>Previous work also hinted at a connection between food and dependence; a 2012 study found that obese people lose their sensitivity to leptin, a hormone that is released by fat cells in the body and regulates feelings of hunger and fullness.</content>
+        </sentence>
+        <sentence id="24">
+          <content>Leptin may also play a role in substance addictions by modifying the body&amp;apost;s reward responses to things like alcohol or cocaine.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="25">
+          <content>&amp;quot;These results suggest that highly processed carbohydrates trigger food cravings for many hours after consumption independent of calories or tastiness, and that limiting these foods could help people avoid over-eating,&amp;quot; says Ludwig.</content>
+        </sentence>
+        <sentence id="26">
+          <content>When the glycemic index drops, the nucleus accumbens may signal for more, in order to produce another surge, similar to the way that addictive drugs prompt cravings, he says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="27">
+          <content>But does that mean that food is addictive?</content>
+        </sentence>
+        <sentence id="28">
+          <content>One key difference between food and drug addictions involves the body&amp;apost;s ability to signal that it is &amp;quot;full,&amp;quot; or had enough.</content>
+        </sentence>
+        <sentence id="29">
+          <content>With drugs, there is less of a biological threshold.</content>
+        </sentence>
+        <sentence id="30">
+          <content>But the common brain patterns activated by food and addictive drugs suggests that each may inform the other.</content>
+        </sentence>
+        <sentence id="31">
+          <content>As TIME&amp;apost;s Maia Szalavitz reported:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="32">
+          <content>&amp;quot;Basically, regulation of food intake is more complex than drug use.</content>
+        </sentence>
+        <sentence id="33">
+          <content>That may help explain why there have been so many failures of anti-obesity drugs.</content>
+        </sentence>
+        <sentence id="34">
+          <content>But the similarities between hunger for food and for drugs suggest that if we do develop a drug that fights obesity, it may also help treat other addictions -- and vice versa.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="35">
+          <content>&amp;quot;While the is-food-addictive debate shows no signs of ending, the label itself may not be that important.</content>
+        </sentence>
+        <sentence id="36">
+          <content>What matters most is finding ways to adapt our brains and behavior to the modern environment, one that contains intensely attractive food and drugs -- along with highly politicized arguments about how to regulate them.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="37">
+          <content>Understanding how some elements of eating may be driven by the same processes behind addictive behaviors could help to explain overeating, for one.</content>
+        </sentence>
+        <sentence id="38">
+          <content>&amp;quot;By definition, overweight and obese people habitually overeat.</content>
+        </sentence>
+        <sentence id="39">
+          <content>They are eating more calories than they need,&amp;quot; explains Ludwig.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="40">
+          <content>&amp;quot;That raises this fundamental question, why do overweight people continue to overeat when they know intellectually that reducing calorie intake would be healthier and they&amp;apost;ve tried, often many times, to do so?</content>
+        </sentence>
+        <sentence id="41">
+          <content>Is it simply lack of willpower or could there be aspects of food that are driving overeating at a biological level?&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="42">
+          <content>If there are biological factors at work, there may be ways to intervene to make dieting, and weight loss, easier.</content>
+        </sentence>
+        <sentence id="43">
+          <content>Eating fewer foods with high glycemic loads like white bread, for example, may keep surges of blood sugar to a minimum, which in turn could modulate the activity of the brain&amp;apost;s reward system and lessen cravings.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="44">
+          <content>Ludwig says that more research is needed to better understand the complex way that the brain sees food; even if food isn&amp;apost;t addictive in exactly the same way that drugs of abuse are, exposing the connections between eating and satisfaction could lead to more effective ways of managing, or even avoiding, the lure of our favorite foods.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="45">
+          <content>The study is published in The American Journal of Clinical Nutrition.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="46">
+          <content>This article was initially published on TIME.com.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

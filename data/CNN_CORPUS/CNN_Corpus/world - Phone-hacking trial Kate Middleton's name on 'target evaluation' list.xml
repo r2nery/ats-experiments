@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2601" link="http://www.cnn.com/2013/11/13/world/europe/uk-phone-hacking-list" date_published="2013-11-13 11:07:51" category="world" author="CNN Staff" highlights_mapped="true" mapping_error="false">
+  <title>Phone-hacking trial: Kate Middleton&amp;apost;s name on &amp;apost;target evaluation&amp;apost; list</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">UK prosecutors on the phone hacking trial release a &amp;quot;target evaluation&amp;quot; list.</sentence>
+      <sentence id="2" ids_article_sentences="6">They say it was written by accused private investigator Glenn Mulcaire.</sentence>
+      <sentence id="3" ids_article_sentences="7">The list includes Kate Middleton and other well-known figures.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-03 07:14:18" annotation_time="44.76">
+      <sentence id="1" ids_highlights="1">London Kate Middleton&amp;apost;s name is on a &amp;quot;target evaluation&amp;quot; list prosecutors say was written by a private investigator who is one of the accused in Britain&amp;apost;s phone hacking trial.</sentence>
+      <sentence id="6" ids_highlights="2">The list, which the CPS said came from private investigator Glenn Mulcaire&amp;apost;s notes, is headed &amp;quot;target evaluation.&amp;quot;</sentence>
+      <sentence id="7" ids_highlights="3">The 18 names include Kate Middleton -- now Duchess of Cambridge -- royal aide Jamie Lowther Pinkteron, celebrity public relations representative Max Clifford, and actress Angelina Jolie&amp;apost;s former stunt double, Eunice Huthart.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>London Kate Middleton&amp;apost;s name is on a &amp;quot;target evaluation&amp;quot; list prosecutors say was written by a private investigator who is one of the accused in Britain&amp;apost;s phone hacking trial.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The Crown Prosecution Service (CPS) released a scanned copy of the handwritten document, which it said was referred to as evidence during the trial at London&amp;apost;s Old Bailey court Tuesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Former editors at the now-defunct UK tabloid News of the World, Rebekah Brooks and Andy Coulson, are accused of conspiring between October 2000 and August 2006 &amp;quot;to intercept communications in the course of their transmission, without lawful authority.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>Former employees Stuart Kuttner, Greg Miskiw, Ian Edmondson, Neville Thurlbeck and James Weatherup are accused with them.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>Specifically, the charge asserts that they listened to &amp;quot;voice mail messages of well-known people.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>The list, which the CPS said came from private investigator Glenn Mulcaire&amp;apost;s notes, is headed &amp;quot;target evaluation.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>The 18 names include Kate Middleton -- now Duchess of Cambridge -- royal aide Jamie Lowther Pinkteron, celebrity public relations representative Max Clifford, and actress Angelina Jolie&amp;apost;s former stunt double, Eunice Huthart.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="8">
+          <content>Six of the names on the list are redacted.</content>
+        </sentence>
+        <sentence id="9">
+          <content>The CPS said this was due to privacy issues.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;Given the specific nature of this case, we must also consider the potential for repeat victimization of not only those involved in this case, but other possible victims, who may have also been the targets of phone-hacking,&amp;quot; it said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="11">
+          <content>As well as being accused of conspiring to intercept communications, Brooks, Coulson, Kuttner, Miskiw, Thurlbeck and Mulcaire face an additional charge of intercepting the voice mail messages of British schoolgirl Milly Dowler, who went missing and was later found dead in 2002.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="12">
+          <content>Brooks, her husband, Charlie Brooks, and a former personal assistant also face a separate set of charges of conspiring to obstruct the police investigation into phone hacking.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="13">
+          <content>They were charged in May 2012, along with Brooks&amp;apost; former driver, a security guard and members of security staff from News International -- the then parent company of News of the World -- with attempting to pervert the course of justice.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="14">
+          <content>The hacking scandal prompted British Prime Minister David Cameron to set up an independent inquiry, led by Lord Justice Leveson, to make recommendations on journalistic ethics and examine the relationship of the press with the public, police and politicians.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="15">
+          <content>The trial continues.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

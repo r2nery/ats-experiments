@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2751" link="http://www.cnn.com/2013/05/02/world/africa/somalia-famine/index.html" date_published="2013-05-02 07:52:12" category="world" author="Laura Smith-Spark and Nima Elbagir, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Somalia famine killed close to 260,000 people, report says</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="31">NEW: &amp;quot;These deaths could and should have been prevented,&amp;quot; says Oxfam.</sentence>
+      <sentence id="2" ids_article_sentences="9, 2">Nearly 260,000 people died between October 2010 and April 2012, a new study says.</sentence>
+      <sentence id="3" ids_article_sentences="2">Half of the famine victims were children aged under 5, the report says.</sentence>
+      <sentence id="4" ids_article_sentences="7">&amp;quot;The suffering played out like a drama without witnesses,&amp;quot; says Philippe Lazzarini.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-25 10:01:11" annotation_time="28.167" mapping_time_divergence="7.04175">
+      <sentence id="2" ids_highlights="2, 3">Half of the 258,000 Somalis who died in the famine were children younger than 5, Philippe Lazzarini said in a statement.</sentence>
+      <sentence id="7" ids_highlights="4">&amp;quot;The suffering played out like a drama without witnesses.&amp;quot;</sentence>
+      <sentence id="9" ids_highlights="2">The study, which covered the period from October 2010 to April 2012, suggests that an estimated 4.6% of the total population and 10% of children younger than 5 died in southern and central Somalia.</sentence>
+      <sentence id="31" ids_highlights="1">These deaths could and should have been prevented, and such a shocking death toll must never be allowed to happen again.&amp;quot;</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Between 2010 and 2012, more than a quarter of a million people died in the famine in Somalia -- in part because the world was too slow to react, the U.N. humanitarian coordinator for Somalia said Thursday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Half of the 258,000 Somalis who died in the famine were children younger than 5, Philippe Lazzarini said in a statement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The report, jointly commissioned by the United Nations Food and Agriculture Organization and the USAID-funded Famine Early Warning Systems Network, is the first scientific study on deaths in the crisis.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>It &amp;quot;confirms that we should have done more before famine was declared on 20 July 2011,&amp;quot; Lazzarini said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>The world did not do enough after warnings in 2010 that starvation loomed following severe drought.</content>
+        </sentence>
+        <sentence id="6">
+          <content>And the people who needed help the most were extremely inaccessible, he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;The suffering played out like a drama without witnesses.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>A massive mobilization of the humanitarian community followed the official U.N. declaration of famine, said Lazzarini, which &amp;quot;helped mitigate the worst effects of the crisis.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>The study, which covered the period from October 2010 to April 2012, suggests that an estimated 4.6% of the total population and 10% of children younger than 5 died in southern and central Somalia.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="10">
+          <content>In the worst-affected area, Lower Shabelle, close to one in five children younger than 5 died.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="11">
+          <content>At the peak of the crisis, between May and August 2011, famine and severe food insecurity claimed some 30,000 lives a month, the report said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="12">
+          <content>The United Nations has been working with its humanitarian partners to change the way they operate, Lazzarini said.</content>
+        </sentence>
+        <sentence id="13">
+          <content>Some 2.7 million people in Somalia are still in need of life-saving assistance.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;Our aim is to ensure that Somalia never goes through another famine again,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="15">
+          <content>&amp;apost;Catastrophic shocks&amp;apost;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="16">
+          <content>Several factors led to the crisis, according to the report.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="17">
+          <content>First, the year from July 2010 to June 2011 was the driest in the eastern Horn of Africa in 60 years.</content>
+        </sentence>
+        <sentence id="18">
+          <content>This resulted in the death of livestock, small harvests and a big drop in demand for labor, cutting into household incomes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="19">
+          <content>Southern Somalia also received less humanitarian assistance in 2010 and much of 2011 than it had in previous years, particularly 2008 to 2009, the report said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="20">
+          <content>In many areas, conflict and security concerns -- prompted by the activities of al Qaeda-linked Islamist group al-Shabaab -- hindered humanitarian aid and access.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="21">
+          <content>And with reduced supplies available, the price of food staples soared, putting more pressure on poor households.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;For millions of Somalis, already weakened by chronic food insecurity and persistently high levels of acute malnutrition, the shocks were catastrophic,&amp;quot; said the report.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="23">
+          <content>The result was what the researchers say was one of the worst famines in the past 25 years.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="24">
+          <content>Their estimate of the number of people who died from the famine -- on top of those who died as a result of conflict or other causes -- was calculated using a range of information, including mortality surveys and data on food prices and wages.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="25">
+          <content>&amp;quot;We now have a picture of the true enormity of this human tragedy,&amp;apost;&amp;apost; said Mark Smulders, a senior economist for the FAO.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="26">
+          <content>&amp;quot;Lessons drawn from this experience will help the international community, together with the people of the region, build a stronger and more resilient future.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="27">
+          <content>&amp;apost;Political failures&amp;apost;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="28">
+          <content>International humanitarian organization Oxfam said Thursday that the mistakes made in Somalia in 2011 must never be repeated.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="29">
+          <content>&amp;quot;Famines are not natural phenomena, they are catastrophic political failures,&amp;quot; it said in a statement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="30">
+          <content>&amp;quot;The world was too slow to respond to stark warnings of drought, exacerbated by conflict in Somalia, and people paid with their lives.</content>
+        </sentence>
+        <sentence id="31">
+          <content>These deaths could and should have been prevented, and such a shocking death toll must never be allowed to happen again.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="32">
+          <content>World leaders meeting in London next week to discuss the situation in Somalia &amp;quot;must take steps to ensure that this was Somalia&amp;apost;s last famine,&amp;quot; Oxfam said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="33">
+          <content>This means investing in long-term development, creating jobs, supporting farmers and pastoralists, and ensuring properly trained security forces to help achieve the &amp;quot;just and sustainable peace&amp;quot; the country so badly needs, it said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="34">
+          <content>Somalia has lacked an effective central government since 1991, with portions of the Horn of Africa nation left lawless.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="35">
+          <content>Its shaky transitional government, backed by African Union peacekeepers, has been battling Islamist guerrillas for years.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

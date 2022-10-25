@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1948" link="http://edition.cnn.com/2014/08/18/us/michael-brown-family-autopsy/index.html?hpt=us_mid" date_published="2014-08-18 05:50:52" category="us" author="Holly Yan and Mayra Cuevas, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Michael Brown death: Autopsy won&amp;apost;t offer clarity</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="16">NEW: Investigators tell mother Michael Brown did not suffer, attorney says.</sentence>
+      <sentence id="2" ids_article_sentences="2">All the bullet wounds were to the front of Brown&amp;apost;s body.</sentence>
+      <sentence id="3" ids_article_sentences="5">&amp;quot;People believe it plays into whatever theory they have,&amp;quot; Stelter says.</sentence>
+      <sentence id="4" ids_article_sentences="17">Accounts of what happened vary widely.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-14 10:34:10" annotation_time="14.319">
+      <sentence id="2" ids_highlights="2">Brown was shot at least six times, all to the front of his body, according to the preliminary results.</sentence>
+      <sentence id="5" ids_highlights="3">&amp;quot;Already based on this limited information, people believe it plays into whatever theory they have about what happened,&amp;quot; CNN senior media correspondent Brian Stelter said.</sentence>
+      <sentence id="16" ids_highlights="1">She was told that &amp;quot;he did not suffer,&amp;quot; Crump said at Monday&amp;apost;s news conference.</sentence>
+      <sentence id="17" ids_highlights="4">Accounts of exactly what happened when Officer Darren Wilson stopped Brown vary widely.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The preliminary results of an autopsy that Michael Brown&amp;apost;s family requested are unlikely to settle the dueling narratives that have defined the case from the beginning.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Brown was shot at least six times, all to the front of his body, according to the preliminary results.</content>
+        </sentence>
+        <sentence id="3">
+          <content>Four bullets went into his right arm, and he was shot twice in the head.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Daryl Parks, an attorney representing Michael Brown&amp;apost;s family, said at a news conference in Ferguson, Missouri, on Monday that there is &amp;quot;ample&amp;quot; evidence from an independent autopsy conducted on the teen&amp;apost;s body to support the arrest of the police officer who shot Brown.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>&amp;quot;Already based on this limited information, people believe it plays into whatever theory they have about what happened,&amp;quot; CNN senior media correspondent Brian Stelter said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;Because these shots were all in the front apparently, that might lend credence to people&amp;apost;s theories that Michael Brown was going after the police officer.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;On the other hand,&amp;quot; Stelter added, &amp;quot;the shots were on the arms (and head) on the front.</content>
+        </sentence>
+        <sentence id="8">
+          <content>Does that mean his arms were up?&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>It&amp;apost;s a case, he said, where more information is not necessarily better information.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>Therein lies some of the risk.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;This is bound to escalate tensions,&amp;quot; the Rev. Jesse Jackson said.</content>
+        </sentence>
+        <sentence id="12">
+          <content>&amp;quot;This is a very provocative report.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>Accounts unclear.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>Brown, an unarmed black teenager, was shot dead nine days ago by a white police officer.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>His mother asked independent investigators who conducted the autopsy on her son&amp;apost;s body whether he felt any pain at the time of his death, according to Brown family attorney Benjamin Crump.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="16">
+          <content>She was told that &amp;quot;he did not suffer,&amp;quot; Crump said at Monday&amp;apost;s news conference.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="17">
+          <content>Accounts of exactly what happened when Officer Darren Wilson stopped Brown vary widely.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="18">
+          <content>Witnesses said they saw a scuffle between the officer and Brown at the police car before the young man was shot.</content>
+        </sentence>
+        <sentence id="19">
+          <content>Police said Brown struggled with the officer and reached for his weapon.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="20">
+          <content>Several witnesses said Brown raised his hands and was not attacking the officer.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="21">
+          <content>Last week, the St. Louis County Police Department said an original autopsy found that Brown, 18, died of gunshot wounds.</content>
+        </sentence>
+        <sentence id="22">
+          <content>But the department wouldn&amp;apost;t say how many times he was shot or any other details.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="23">
+          <content>&amp;quot;We are not specifying how many gunshot wounds at this point,&amp;quot; the department said.</content>
+        </sentence>
+        <sentence id="24">
+          <content>&amp;quot;The investigation into his death is still ongoing, and the full autopsy is not likely to be released for many weeks because multiple law enforcement agencies are now involved in the investigation.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="25">
+          <content>The lack of information prompted Brown&amp;apost;s family to request an independent autopsy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="26">
+          <content>A high-profile pathologist.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="27">
+          <content>Enter high-profile forensic pathologist Michael Baden.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="28">
+          <content>He has brought his expertise to the stand in a number of closely watched cases.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="29">
+          <content>Baden testified in the O.J. Simpson, Phil Spector and Drew Peterson murder trials.</content>
+        </sentence>
+        <sentence id="30">
+          <content>He was chairman of the committee of pathologists that investigated the assassinations of President John F. Kennedy and the Rev. Martin Luther King Jr.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="31">
+          <content>&amp;quot;Bringing him in is a very big development,&amp;quot; CNN legal analyst Joey Jackson said.</content>
+        </sentence>
+        <sentence id="32">
+          <content>&amp;quot;The family wants to know what happened.</content>
+        </sentence>
+        <sentence id="33">
+          <content>And why should they just rely upon on what the authorities to tell them?&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="34">
+          <content>Not shot at close range.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="35">
+          <content>According to Baden&amp;apost;s autopsy, the bullets that struck Brown were not fired from close range, as indicated by the absence of gunpowder residue on his body.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="36">
+          <content>Some of the bullets left several wounds.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="37">
+          <content>One of the bullets shattered his right eye, traveled through his face, exited his jaw and re-entered at his collarbone, according to the autopsy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="38">
+          <content>The last two shots were probably the ones to his head, family attorney Anthony Gray said.</content>
+        </sentence>
+        <sentence id="39">
+          <content>One entered the top of his Brown&amp;apost;s skull, suggesting that his head was bent forward when he was struck.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="40">
+          <content>More work to be done.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="41">
+          <content>Baden intends to do much more than just the autopsy.</content>
+        </sentence>
+        <sentence id="42">
+          <content>He may ask questions about the officer&amp;apost;s gun as well.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="43">
+          <content>&amp;quot;Is there only the police officer&amp;apost;s DNA on that gun.</content>
+        </sentence>
+        <sentence id="44">
+          <content>Or if there was, in fact, a struggle, is Michael Brown&amp;apost;s DNA on that gun as well?</content>
+        </sentence>
+        <sentence id="45">
+          <content>That would certainly say a lot about whether a struggle for the gun took place.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="46">
+          <content>Meanwhile, U.S. Attorney General Eric Holder has approved another autopsy on Brown&amp;apost;s body, the Justice Department said.</content>
+        </sentence>
+        <sentence id="47">
+          <content>The autopsy will be conducted by a federal medical examiner.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

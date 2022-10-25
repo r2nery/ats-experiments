@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="284" link="http://www.cnn.com/2013/08/31/health/hispanic-teen-drug-use/index.html" category="health" author="Cindy Y. Rodriguez, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Hispanic teens more likely to use drugs, study says</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">Hispanic teens are more likely than African-Americans, Caucasians to use illicit drugs.</sentence>
+      <sentence id="2" ids_article_sentences="4">Report: 54% of Hispanic teens reported having used an illicit drug .</sentence>
+      <sentence id="3" ids_article_sentences="5, 4">African-American teens came second at 45% and Caucasians at 43%. .</sentence>
+      <sentence id="4" ids_article_sentences="9">21% of Hispanic parents said they were OK with teen smoking marijuana.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-17 11:06:38" annotation_time="43.099">
+      <sentence id="2" ids_highlights="1">Hispanic teens are more likely to use illicit drugs such as marijuana, ecstasy and cocaine, compared with their African-American and Caucasian counterparts, according to a new study.</sentence>
+      <sentence id="4" ids_highlights="2, 3">It says that 54% of Hispanic teens reported having used an illicit drug, followed by African-American teens at 45%.</sentence>
+      <sentence id="5" ids_highlights="3">Caucasians came third at 43%.</sentence>
+      <sentence id="9" ids_highlights="4">When it came to Hispanic parents, 21% said they were OK if their teen &amp;quot;smoked marijuana sometimes,&amp;quot; compared with 11% of African-American parents and 6% of Caucasian parents.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Read this article in Spanish on CNN en Español.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Hispanic teens are more likely to use illicit drugs such as marijuana, ecstasy and cocaine, compared with their African-American and Caucasian counterparts, according to a new study.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The study was released this month by the Partnership at Drug Free organization.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>It says that 54% of Hispanic teens reported having used an illicit drug, followed by African-American teens at 45%.</content>
+        </sentence>
+        <sentence id="5">
+          <content>Caucasians came third at 43%.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>Why?</content>
+        </sentence>
+        <sentence id="7">
+          <content>There is no definitive answer, but there are contributing factors involved, according to William Raikes, assistant director of consumer research at The Partnership at Drugfree.org.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>A larger percentage -- 62% of Hispanic teens -- have been offered drugs such as ecstasy, crack/cocaine, heroin and methamphetamine at least once, compared with 53% of Caucasian teens and 46% of African-Americans.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>When it came to Hispanic parents, 21% said they were OK if their teen &amp;quot;smoked marijuana sometimes,&amp;quot; compared with 11% of African-American parents and 6% of Caucasian parents.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;Parental permissiveness is another factor we document as being linked to teen substance abuse.</content>
+        </sentence>
+        <sentence id="11">
+          <content>Hispanic parents appear to have some misconceptions regarding prescription drug misuse and abuse,&amp;quot; Raikes said.</content>
+        </sentence>
+        <sentence id="12">
+          <content>&amp;quot;Both of these factors could have an influence on a child&amp;apost;s substance abuse.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>Some of these factors are well-documented predictors of substance abuse, such as a teen&amp;apost;s perceived risks and social disapproval, according to the study.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;Perceived risks&amp;quot; weigh how risky a certain behavior -- such as substance abuse -- appears to a teen.</content>
+        </sentence>
+        <sentence id="15">
+          <content>&amp;quot;Social disapproval&amp;quot; measures a teen&amp;apost;s approval of his or her peers&amp;apost; substance abuse.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Both of these measures have been shown to precipitate actual substance abuse.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="17">
+          <content>Hispanic parents reported the highest rates of problems establishing rules that prohibit drug use.</content>
+        </sentence>
+        <sentence id="18">
+          <content>However, Hispanics adolescents received less punishment for their drug use, the report states.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="19">
+          <content>Hispanic parents are just as likely as others to have conversations with their children about the risks of addiction.</content>
+        </sentence>
+        <sentence id="20">
+          <content>The disparity between drug use and warnings are because the talks are focused on trying to prevent the abuse of these substances by their children and not on prevention, according to the study.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="21">
+          <content>Hispanic teens are more likely to encounter substance abuse in their daily lives.</content>
+        </sentence>
+        <sentence id="22">
+          <content>Specifically, having access to substances, to have friends who abuse substances, and to have been offered substances.</content>
+        </sentence>
+        <sentence id="23">
+          <content>This could influence a teen to perceive substance abuse as a normal behavior, increasing their chances to engage in the dangerous activity.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="24">
+          <content>This trend is occurring throughout the country, not one geographic area that is more susceptible to substance abuse than others.</content>
+        </sentence>
+        <sentence id="25">
+          <content>Although certain drugs have a tendency to be more prevalent in certain areas -- for instance marijuana is more prevalent on the West coast than in the Midwest.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="26">
+          <content>&amp;quot;Hispanic teen substance abuse however, is a national trend and Hispanic parents throughout the country should heed the call and talk to their kids,&amp;quot; Raikes said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

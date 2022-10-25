@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1419" link="http://us.cnn.com/2013/12/31/sport/football/anelka-french-anti-semitism-row/index.html" date_published="2013-12-31 18:43:53" category="sport" author="John Sinnott and Sarah Holt, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Anti-Semitism row shines light on fractured French society</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">French footballer Nicolas Anelka has caused a storm by using the &amp;quot;quenelle&amp;quot; gesture as a goal celebration.</sentence>
+      <sentence id="2" ids_article_sentences="4">The gesture was created by controversial French comedian Dieudonne M&amp;apost;Bala M&amp;apost;Bala.</sentence>
+      <sentence id="3" ids_article_sentences="5">The quenelle has been linked to rising anti-Semitism in France.</sentence>
+      <sentence id="4" ids_article_sentences="18">Figures from 2012 show a 59% rise in anti-Semitic attacks.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-09 09:55:05" annotation_time="47.471">
+      <sentence id="2" ids_highlights="1">A gesture of support for a friend, a gesture that is &amp;quot;anti-system,&amp;quot; says French footballer Nicolas Anelka, who chose to celebrate his goal-scoring performance in an English Premier League game last weekend with a movement that has sparked controversy not just in the sporting world but also the political.</sentence>
+      <sentence id="4" ids_highlights="2">Anelka explained that Saturday&amp;apost;s celebration was nothing more than a nod to his friend, controversial French comedian Dieudonne M&amp;apost;Bala M&amp;apost;Bala, who has popularized the gesture in France.</sentence>
+      <sentence id="5" ids_highlights="3">But others believe the gesture is a Nazi salute in reverse, and it has been linked to rising anti-Semitism in France -- a charge over which Dieudonne faces an investigation by the Paris prosecutor&amp;apost;s office.</sentence>
+      <sentence id="18" ids_highlights="4">Daniel Makonnen, spokesman for LICRA -- International League Against Racism and Anti-Semitism -- which is fighting fighting racial discrimination, told CNN that there was a 59% rise in anti-Semitic attacks in 2012.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>What&amp;apost;s in a gesture?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>A gesture of support for a friend, a gesture that is &amp;quot;anti-system,&amp;quot; says French footballer Nicolas Anelka, who chose to celebrate his goal-scoring performance in an English Premier League game last weekend with a movement that has sparked controversy not just in the sporting world but also the political.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Known as the &amp;quot;quenelle,&amp;quot; it involves pointing the right arm straight down and touching that arm with the left hand.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>Anelka explained that Saturday&amp;apost;s celebration was nothing more than a nod to his friend, controversial French comedian Dieudonne M&amp;apost;Bala M&amp;apost;Bala, who has popularized the gesture in France.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>But others believe the gesture is a Nazi salute in reverse, and it has been linked to rising anti-Semitism in France -- a charge over which Dieudonne faces an investigation by the Paris prosecutor&amp;apost;s office.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>During a performance, Dieudonne said of a prominent Jewish journalist: &amp;quot;Me, you see, when I hear Patrick Cohen speak, I think to myself: &amp;apost;Gas chambers ... too bad (they no longer exist).&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>Whatever you think the &amp;quot;quenelle&amp;quot; is, Anelka and Dieudonne are provoking huge controversy on both sides of the English channel.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="8">
+          <content>There have been demands that English football&amp;apost;s governing body severely punishes the former France international forward.</content>
+        </sentence>
+        <sentence id="9">
+          <content>In France, Dieudonne&amp;apost;s right to perform his controversial show has become a touchstone for &amp;quot;freedom of speech&amp;quot; advocates.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="10">
+          <content>Fractured society.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;This gesture was just a special dedication to my comedian friend Dieudonne,&amp;quot; Anelka explained on his Twitter page as accusations of anti-Semitism seethed around him following the match between his club West Bromwich Albion and West Ham.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;(The) meaning (of) quenelle: anti-system.</content>
+        </sentence>
+        <sentence id="13">
+          <content>I do not know what the word religion has to do with this story!</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;Of course, I am neither racist nor anti-Semitic.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="15">
+          <content>Anelka is not the only sports star to be embroiled in controversy as photographs emerged of other French athletes -- basketball superstar Tony Parker plus footballers Samir Nasri and Mamadou Sakho, who like Anelka play in England -- making the &amp;quot;quenelle.&amp;quot;</content>
+        </sentence>
+        <sentence id="16">
+          <content>All three have apologized for any offense caused.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="17">
+          <content>But the furore has shone a light on signs of an increasingly fractious French society.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="18">
+          <content>Daniel Makonnen, spokesman for LICRA -- International League Against Racism and Anti-Semitism -- which is fighting fighting racial discrimination, told CNN that there was a 59% rise in anti-Semitic attacks in 2012.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="19">
+          <content>According to the French Interior Ministry, there were 1,539 racist and anti-Semitic attacks in 2012, a rise of 22%.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="20">
+          <content>He also explained that Anelka&amp;apost;s use of the &amp;quot;quenelle&amp;quot; blurred the lines between what is anti-establishmentarianism and anti-Semitism.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="21">
+          <content>&amp;quot;It is a way of Anelka boosting his image as a controversial person,&amp;quot; Makonnen said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;In France people are taking sides.</content>
+        </sentence>
+        <sentence id="23">
+          <content>Are you for or against establishment?</content>
+        </sentence>
+        <sentence id="24">
+          <content>The fact that Anelka is doing the quenelle...</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="25">
+          <content>&amp;quot;Originally it was used by Dieudonne in his first shows.</content>
+        </sentence>
+        <sentence id="26">
+          <content>But the &amp;apost;quenelle&amp;apost; has been used in front of Auschwitz and in front of the (Jewish) school in Toulouse,&amp;quot; added Makonnen, referring to the Ohr Torah school where three children and a teacher were murdered last year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="27">
+          <content>&amp;quot;If you look closer these people say they are willing to fight the system, but it&amp;apost;s a system they say is controlled by Jewish people.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="28">
+          <content>Powder keg.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="29">
+          <content>Philippe Auclair, the England correspondent of France Football magazine, said that Anelka and Nasri&amp;apost;s support for anti-establishment views were very much in vogue in France.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="30">
+          <content>&amp;quot;The idea that you are against the system invariably means that you are against anyone who disagrees with your point of view,&amp;quot; he told CNN.</content>
+        </sentence>
+        <sentence id="31">
+          <content>&amp;quot;It has little to do with social or ethnic origin.</content>
+        </sentence>
+        <sentence id="32">
+          <content>You have young, white middle-class men and women saying the same thing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="33">
+          <content>&amp;quot;When I go back to France it is like there are two parallel universes; a government that is widely perceived as incompetent, with a social situation that is like a powder keg.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="34">
+          <content>&amp;quot;Ultra-nationalism is on the rise and it has become completely acceptable to be openly anti-Semitic and to say that there is a global Zionist conspiracy.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="35">
+          <content>Anelka also received short shrift from another French sports writer Erik Bielderman.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="36">
+          <content>&amp;quot;Anelka portrays himself as an anti-establishment hero but this is an anti-establishment hero who is pictured emerging from his Rolls-Royce at the entrance to London Heliport and has appeared in an advert in France for the hamburger restaurant chain Quick,&amp;quot; wrote Bielderman in Britain&amp;apost;s Daily Mail newspaper.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="37">
+          <content>Dieudonne congratulated Anelka on Twitter for using the &amp;quot;quenelle&amp;quot; to celebrate his goal against West Ham, which has a zero-tolerance policy on anti-Semitic chants at its stadium -- prompted by racist abuse the club&amp;apost;s fans aimed at the supporters of London rival Tottenham in 2012.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="38">
+          <content>The 46-year-old Dieudonne, who ran in the European elections as an anti-Zionist, has been fined several times in France for anti-Semitic commentary.</content>
+        </sentence>
+        <sentence id="39">
+          <content>The French government said this month it wants to ban his live performances.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="40">
+          <content>&amp;quot;Dieudonne uses anti-Semitic discourse in his shows in the sense of fighting Zionism,&amp;quot; Makonnen explained.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="41">
+          <content>&amp;quot;He says he has Jewish friends.</content>
+        </sentence>
+        <sentence id="42">
+          <content>He is against Zionists who he says have power.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="43">
+          <content>&amp;quot;He releases videos on YouTube and gets millions of views in 24 hours.</content>
+        </sentence>
+        <sentence id="44">
+          <content>YouTube is subject to American law.</content>
+        </sentence>
+        <sentence id="45">
+          <content>If those videos were published under French law those videos would be deleted.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="34">
+      <sentences>
+        <sentence id="46">
+          <content>&amp;quot;Dieudonne is very popular.</content>
+        </sentence>
+        <sentence id="47">
+          <content>He is very smart.</content>
+        </sentence>
+        <sentence id="48">
+          <content>People say it is hard to speak your mind in France because political power is too strong.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="35">
+      <sentences>
+        <sentence id="49">
+          <content>Meanwhile Anelka must wait to hear what the English Football Association decides to do.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="36">
+      <sentences>
+        <sentence id="50">
+          <content>&amp;quot;The club fully acknowledges that Nicolas&amp;apost; goal celebration has caused offense in some quarters and has asked Nicolas not to perform the gesture again.</content>
+        </sentence>
+        <sentence id="51">
+          <content>Nicolas immediately agreed to adhere to this request,&amp;quot; his employer West Bromwich Albion said on Monday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="37">
+      <sentences>
+        <sentence id="52">
+          <content>What&amp;apost;s in a gesture?</content>
+        </sentence>
+        <sentence id="53">
+          <content>Anelka could yet find out to his cost.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

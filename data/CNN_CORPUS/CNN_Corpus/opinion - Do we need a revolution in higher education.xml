@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="800" link="http://www.cnn.com/2012/06/13/opinion/bennett-higher-education/index.html" date_published="2012-06-13 15:23:29" category="opinion" author="William J. Bennett, CNN Contributor" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Do we need a revolution in higher education?</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">William Bennett: Despite costly tuition, most students still desire to go to college.</sentence>
+      <sentence id="2" ids_article_sentences="8">Bennett: In purely financial terms, they might be better off investing in stocks.</sentence>
+      <sentence id="3" ids_article_sentences="14">He says a college degree does not hold the status and significance it once did.</sentence>
+      <sentence id="4" ids_article_sentences="21, 20">Bennett: Technology challenges traditional models of colleges, could change everything .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-25 09:13:52" annotation_time="46.074" mapping_time_divergence="11.5185">
+      <sentence id="1" ids_highlights="1">In spite of ever rising tuition and ballooning student loan debts, a large majority of students still desire to attend college.</sentence>
+      <sentence id="8" ids_highlights="2">In pure financial terms, students might be better off investing their tuition money in stocks rather than four years with one of our nation&amp;apost;s many colleges.</sentence>
+      <sentence id="14" ids_highlights="3">A college degree does not hold the status and significance it once did.</sentence>
+      <sentence id="20" ids_highlights="4">Many students are ill prepared for the labor market, whether by fault of their own or by colleges and universities that are out of sync with the needs of a skilled work force.</sentence>
+      <sentence id="21" ids_highlights="4">However, technology may just transform everything.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>In spite of ever rising tuition and ballooning student loan debts, a large majority of students still desire to attend college.</content>
+        </sentence>
+        <sentence id="2">
+          <content>Traditional notions are deeply engrained in the public&amp;apost;s mind.</content>
+        </sentence>
+        <sentence id="3">
+          <content>College is considered the path to a better, higher paying job, the best way to make connections and propel a career, and a status symbol, especially for those who go to elite universities.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="4">
+          <content>However, given the dismal reality facing college graduates, perhaps the future of higher education will have to change.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>In some cases, a college diploma may no longer guarantee the high potential lifetime earnings it once did.</content>
+        </sentence>
+        <sentence id="6">
+          <content>An online salary ranking system called PayScale.com calculates a student&amp;apost;s 30-year return on investment at the top 1,300 colleges nationwide based on average alumni salary and tuition costs.</content>
+        </sentence>
+        <sentence id="7">
+          <content>Their recently issued 2012 report suggests that out of the 4,500 colleges and universities in the nation only the top 800 to 850 give you an annual return on investment greater than 4%.</content>
+        </sentence>
+        <sentence id="8">
+          <content>In pure financial terms, students might be better off investing their tuition money in stocks rather than four years with one of our nation&amp;apost;s many colleges.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="9">
+          <content>But this does not stop an overwhelming number of students from paying an exorbitant amount of money or taking on huge amounts of debt in order to attend college.</content>
+        </sentence>
+        <sentence id="10">
+          <content>It seems like such conventional wisdom.</content>
+        </sentence>
+        <sentence id="11">
+          <content>&amp;quot;A diploma wasn&amp;apost;t a piece of paper.</content>
+        </sentence>
+        <sentence id="12">
+          <content>It was an amulet,&amp;quot; as columnist Frank Bruni wrote in the New York Times.</content>
+        </sentence>
+        <sentence id="13">
+          <content>That may no longer be the case.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="14">
+          <content>A college degree does not hold the status and significance it once did.</content>
+        </sentence>
+        <sentence id="15">
+          <content>Recent data from the Census Bureau and Department of Labor found that almost 54% of recent graduates were unemployed or underemployed.</content>
+        </sentence>
+        <sentence id="16">
+          <content>As our world becomes more globally integrated and competitive, economic status now turns on many other things, like intellectual capital and skills training, things which colleges are supposed to instill, but many don&amp;apost;t.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="17">
+          <content>According to a recent world economic study, about 10 million manufacturing jobs worldwide are going begging because of a lack of skilled workers.</content>
+        </sentence>
+        <sentence id="18">
+          <content>In the United States alone, at least 600,000 manufacturing jobs cannot be filled.</content>
+        </sentence>
+        <sentence id="19">
+          <content>Meanwhile, legions of arts and humanities majors occupy the unemployment rolls.</content>
+        </sentence>
+        <sentence id="20">
+          <content>Many students are ill prepared for the labor market, whether by fault of their own or by colleges and universities that are out of sync with the needs of a skilled work force.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="21">
+          <content>However, technology may just transform everything.</content>
+        </sentence>
+        <sentence id="22">
+          <content>Better, smarter, more adaptable and cheaper education will soon be available to all.</content>
+        </sentence>
+        <sentence id="23">
+          <content>Initiatives like the ED-X partnership between Harvard and MIT promise to give non-traditional students elements of a world-class education online, and for free.</content>
+        </sentence>
+        <sentence id="24">
+          <content>Coursera, recently founded by Stanford professor Andrew Ng, will offer not only free online courses, but also a great deal of individualized instruction in the form of grading, testing, student-to-student help and certificates of completion.</content>
+        </sentence>
+        <sentence id="25">
+          <content>What Salman Khan and his Khan Academy did for elementary and secondary education, offering world-class instruction online for free, will soon be replicated throughout academia.</content>
+        </sentence>
+        <sentence id="26">
+          <content>These new ventures will no doubt challenge the traditional four-year residential, physical university model.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="27">
+          <content>In the future, access to college may be nearly universal, with little or no tuition costs.</content>
+        </sentence>
+        <sentence id="28">
+          <content>We may be on the cusp of a higher education revolution.</content>
+        </sentence>
+        <sentence id="29">
+          <content>College may look very different 20, 10, or even five years from now.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="30">
+          <content>In the meantime, the national and kitchen table conversation over higher education should no longer be looked at in the isolation of student loans.</content>
+        </sentence>
+        <sentence id="31">
+          <content>It&amp;apost;s time for parents and students to look at the entire enterprise of higher education and ask -- how, when, where, for whom, in what studies and at what cost is a college education appropriate?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="32">
+          <content>Follow us on Twitter @CNNOpinion.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="33">
+          <content>Join us on Facebook/CNNOpinion.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

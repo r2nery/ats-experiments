@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="938" link="http://edition.cnn.com/2012/09/14/opinion/oms-jackson-smartphones/index.html?iid=article_sidebar" date_published="2012-09-14 11:26:45" category="opinion" author="Maggie Jackson, Special to CNN " highlights_mapped="true" mapping_error="false">
+  <title>Smartphones let work win out</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="9">Maggie Jackson: We blend home and work because we all use smartphones.</sentence>
+      <sentence id="2" ids_article_sentences="14">Jackson: We are empowered, yet disturbed by this free-for-all.</sentence>
+      <sentence id="3" ids_article_sentences="23">She says that in a mobile world, work tends to win out over other parts of life.</sentence>
+      <sentence id="4" ids_article_sentences="40">Jackson: As much as we try to believe otherwise, it matters what we do, where we are .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-13 17:43:27" annotation_time="55.197002">
+      <sentence id="9" ids_highlights="1">In the digital age, we blend home and work, not because we are tied to a store or farm or job, but because the fetters of time and space seem shattered.</sentence>
+      <sentence id="14" ids_highlights="2">We are empowered, yet disturbed by this free-for-all.</sentence>
+      <sentence id="23" ids_highlights="3">In a blended world, work does tend to win out over other parts of life.</sentence>
+      <sentence id="40" ids_highlights="4">As much as we try to believe otherwise, it matters where we are.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Tonight, as my husband stands in our bedroom, fingers whirling across his smartphone and eyes glued to its tiny screen, I have no idea &amp;quot;where&amp;quot; he is.</content>
+        </sentence>
+        <sentence id="2">
+          <content>Is he checking the score of his beloved home team, or dealing with a rant from an indefatigable boss overseas?</content>
+        </sentence>
+        <sentence id="3">
+          <content>Is he working or home-ing, or both?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="4">
+          <content>This melding of work and home, of course, is an old story.</content>
+        </sentence>
+        <sentence id="5">
+          <content>In 1999, I wrote an article about three generations of a Baltimore family and their work-life balance.</content>
+        </sentence>
+        <sentence id="6">
+          <content>Shattering my romantic views on what it was like to live a few easy steps from work -- literally over the store -- the family&amp;apost;s elderly patriarch told me that his parents couldn&amp;apost;t wait to move to the suburbs and put some distance between family and work.</content>
+        </sentence>
+        <sentence id="7">
+          <content>Their hardware business had shadowed their evenings and weekends, stealing peace.</content>
+        </sentence>
+        <sentence id="8">
+          <content>Decades later, the patriarch&amp;apost;s restless, cell phone-toting, entrepreneurial son blamed the portability of work for his recent divorce.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="9">
+          <content>In the digital age, we blend home and work, not because we are tied to a store or farm or job, but because the fetters of time and space seem shattered.</content>
+        </sentence>
+        <sentence id="10">
+          <content>We can physically circuit the globe in hours, and our thoughts can move across the planet in seconds.</content>
+        </sentence>
+        <sentence id="11">
+          <content>Time seems putty in our hands.</content>
+        </sentence>
+        <sentence id="12">
+          <content>Our lives are increasingly shorn of context.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="13">
+          <content>Does it matter much whether it&amp;apost;s night or day, spring or fall, home or the office?</content>
+        </sentence>
+        <sentence id="14">
+          <content>We are empowered, yet disturbed by this free-for-all.</content>
+        </sentence>
+        <sentence id="15">
+          <content>Two recent reports underscore the tensions within these shifts.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="16">
+          <content>While more companies are allowing employees to work when and where they want to, they increasingly are limiting people&amp;apost;s ability to take a leave or work part-time, the Families and Work Institute found in its 2012 National Study of Employers.</content>
+        </sentence>
+        <sentence id="17">
+          <content>Flex-time is up, but career breaks have fallen steeply.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="18">
+          <content>More than half of executives get business information at all hours, according to a survey released earlier this year by Forbes Insights and an advertising firm.</content>
+        </sentence>
+        <sentence id="19">
+          <content>As many executives reported feeling enabled as irritated by an &amp;quot;@Work State of Mind.&amp;quot;</content>
+        </sentence>
+        <sentence id="20">
+          <content>Nearly a third of those executives who feel &amp;quot;in control&amp;quot; of their always-on lives also describe themselves as resigned to the situation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="21">
+          <content>Is overwork the trouble?</content>
+        </sentence>
+        <sentence id="22">
+          <content>Yes and no.</content>
+        </sentence>
+        <sentence id="23">
+          <content>In a blended world, work does tend to win out over other parts of life.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="24">
+          <content>Studies over the past decade show that people who work at home or outside the office tend to work longer hours, contrary to employers&amp;apost; initial fears.</content>
+        </sentence>
+        <sentence id="25">
+          <content>According to a recent survey, 54% of American smartphone owners check their phones in bed -- sometimes in the middle of the night.</content>
+        </sentence>
+        <sentence id="26">
+          <content>And at a Chicago marketers&amp;apost; networking luncheon where I recently spoke on a panel, a majority of the crowd of 150 reported, in a show of hands, that they sleep with a smartphone within reach.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="27">
+          <content>Even if work is our passion, as it is mine, we&amp;apost;re pitching ourselves headlong and unthinkingly into a world without boundaries -- a world without rest.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="28">
+          <content>But overwork is perhaps the least of the challenges when we blend work and home.</content>
+        </sentence>
+        <sentence id="29">
+          <content>The blending itself changes how we work, as well as how long we work.</content>
+        </sentence>
+        <sentence id="30">
+          <content>In frantically integrating work and home, we stray perilously close to diluting both.</content>
+        </sentence>
+        <sentence id="31">
+          <content>This is a matter of attention, intention, and depth.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="32">
+          <content>In courting the always-on livelihood, we&amp;apost;re turning our backs on rich moments of full focus and absorption, in favor of darting restlessly back and forth between two or more complex streams of life.</content>
+        </sentence>
+        <sentence id="33">
+          <content>The integrity of a moment is lost when we unthinkingly blend different parts of our life.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="34">
+          <content>I&amp;apost;m writing this on a Sunday.</content>
+        </sentence>
+        <sentence id="35">
+          <content>My teen is sleeping in and my husband is away.</content>
+        </sentence>
+        <sentence id="36">
+          <content>The silence of the morning provides a perfect context for writing.</content>
+        </sentence>
+        <sentence id="37">
+          <content>But when my groggy teen wakes up, I&amp;apost;ll put aside my work, and we&amp;apost;ll share toast and tea and a plan of the day.</content>
+        </sentence>
+        <sentence id="38">
+          <content>Because if I tried to skate through breakfast with one eye on my daughter and one eye on the clock or smartphone, a fleeting moment of togetherness would be diluted.</content>
+        </sentence>
+        <sentence id="39">
+          <content>The silken threads of mutual presence would be thinned to the point of fraying.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="40">
+          <content>As much as we try to believe otherwise, it matters where we are.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="41">
+          <content>Follow us on Twitter @CNNOpinion.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="42">
+          <content>Join us on Facebook/CNNOpinion.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

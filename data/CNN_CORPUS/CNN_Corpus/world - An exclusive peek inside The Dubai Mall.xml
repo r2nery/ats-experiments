@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2064" link="http://edition.cnn.com/2014/03/05/world/meast/an-exclusive-peek-inside-largest-mall/index.html" date_published="2014-03-06 02:03:31" category="world" author="" highlights_mapped="true" mapping_error="false">
+  <title>An exclusive peek inside The Dubai Mall</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">The Dubai Mall gets more visitors than the Eiffel Tower, Niagara Falls and Disney World combined.</sentence>
+      <sentence id="2" ids_article_sentences="4">The shopping complex is the world&amp;apost;s largest, spanning the length of more than 50 football pitches.</sentence>
+      <sentence id="3" ids_article_sentences="9, 6">It cost $20b to build, and employs a staff of 20,000.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-27 17:29:08" annotation_time="15.805">
+      <sentence id="2" ids_highlights="1">Attracting 75 million visitors a year, The Dubai Mall gets more foot traffic than the Eiffel Tower, Niagara Falls and Disney World combined.</sentence>
+      <sentence id="4" ids_highlights="2">Billed as the world&amp;apost;s largest (in terms of total floor space) by the Guinness World Records when it first opened in 2008, the mall is larger than 50 football pitches.</sentence>
+      <sentence id="6" ids_highlights="3">It was no small investment; the entire complex cost $20 billion to build.</sentence>
+      <sentence id="9" ids_highlights="3">With 20,000 employees, the mall&amp;apost;s staff is equivalent to the size of a small army.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>It may seem stunning that one of the most visited tourist attractions on the planet is a mall.</content>
+        </sentence>
+        <sentence id="2">
+          <content>Attracting 75 million visitors a year, The Dubai Mall gets more foot traffic than the Eiffel Tower, Niagara Falls and Disney World combined.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>Of course, The Dubai Mall is no ordinary shopping center.</content>
+        </sentence>
+        <sentence id="4">
+          <content>Billed as the world&amp;apost;s largest (in terms of total floor space) by the Guinness World Records when it first opened in 2008, the mall is larger than 50 football pitches.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>It houses 1,200 stores, an Olympic-sized ice skating rink, an aquarium, the world&amp;apost;s largest shoe store, 14,000 parking spaces, and a Boeing 737 flight simulator.</content>
+        </sentence>
+        <sentence id="6">
+          <content>It was no small investment; the entire complex cost $20 billion to build.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;It&amp;apost;s a city within a city,&amp;quot; admits Mohamed Alabbar, chairman of Emaar, the development company responsible for building the mall.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>As one can imagine, running such an enterprise is challenging, and it takes a lot of man power.</content>
+        </sentence>
+        <sentence id="9">
+          <content>With 20,000 employees, the mall&amp;apost;s staff is equivalent to the size of a small army.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;To make it work, you need to have a tremendous amount of people that are on the job 24 hours a day,&amp;quot; says David Macadam, CEO of the Middle East Council of Shopping Centers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>Though the mall closes at 10pm (midnight on the weekends), in some ways it is busiest after hours, when a cleaning crew of 100 sweep, vacuum and polish over 1.5m square feet of space every night.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;It&amp;apost;s a huge mall,&amp;quot; notes Ahmen Hussein, the night shift supervisor for cleaning.</content>
+        </sentence>
+        <sentence id="13">
+          <content>&amp;quot;We have to finish before the opening hour.</content>
+        </sentence>
+        <sentence id="14">
+          <content>Sometimes we only have five or six hours to do it.</content>
+        </sentence>
+        <sentence id="15">
+          <content>It&amp;apost;s hard, but we like the challenge.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="16">
+          <content>An even more arduous cleaning task sits just outside the malls doorstep.</content>
+        </sentence>
+        <sentence id="17">
+          <content>The Burj Khalifa Lake -- an 150m liter artificial body of water that also houses The Dubai Fountain -- requires daily maintenance, partly because the desert climate itches to contaminate it with sand.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;The job is to target the areas where we have the highest sand accumulation, and clean it in a systematic way,&amp;quot; says Jean Hanna, director of operations for The Dubai Fountain.</content>
+        </sentence>
+        <sentence id="19">
+          <content>In addition to the human staff, there are underwater robotic vacuums employed to undertake the task.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="20">
+          <content>Despite the manpower that goes in to running the mall, Alabbar concedes that even more can be done to ensure it lives up to its full potential:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="21">
+          <content>&amp;quot;We&amp;apost;ve tried really hard to make sure it&amp;apost;s prestigious, respected, looks after people, customers, companies, shareholders -- the whole thing.</content>
+        </sentence>
+        <sentence id="22">
+          <content>I think we&amp;apost;re getting there.</content>
+        </sentence>
+        <sentence id="23">
+          <content>We still have to work a little bit, but we&amp;apost;re getting there.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="549" link="http://www.cnn.com/2014/05/05/justice/texas-rape-sentence/index.html?hpt=hp_t1" date_published="2014-05-05 11:10:51" category="justice" author="Nick Valencia, CNN " highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Judge under fire for rape sentence, implying victim was promiscuous</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="14">NEW: Rape crisis center director says facility is for survivors, not rapists.</sentence>
+      <sentence id="2" ids_article_sentences="18">Defense attorney says client admitted &amp;quot;he proceeded over her objections&amp;quot;.</sentence>
+      <sentence id="3" ids_article_sentences="3">She said medical records show the teen victim had already had 3 sex partners .</sentence>
+      <sentence id="4" ids_article_sentences="10">Defendant is also ordered to do community service at a rape crisis center.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-11 17:16:38" annotation_time="155.63867" mapping_time_divergence="38.909668">
+      <sentence id="3" ids_highlights="3">Judge Jeanine Howard told The Dallas Morning News that she based the sentence, in part, on medical records indicating that the girl had had three sexual partners and had given birth.</sentence>
+      <sentence id="10" ids_highlights="4">Young, who was a schoolmate of the victim&amp;apost;s when the rape occurred in 2011, was ordered to serve 250 hours of community service at a rape crisis center.</sentence>
+      <sentence id="14" ids_highlights="1">It would be inappropriate to have a convicted rapist at a center that focuses on survivors, she said.</sentence>
+      <sentence id="18" ids_highlights="2">Allen further claimed that the victim had agreed to have sex with Young, just not on campus, and &amp;quot;upon making this bad judgment, he admitted that he proceeded over her objections to stop, and he admitted that to the police.&amp;quot;</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>She could have sentenced him to 20 years in prison after he admitted to raping a 14-year-old girl in her high school.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Instead, a Texas judge gave the defendant a 45-day sentence and five years of probation after implying that the victim was promiscuous.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Judge Jeanine Howard told The Dallas Morning News that she based the sentence, in part, on medical records indicating that the girl had had three sexual partners and had given birth.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>She told the newspaper that the victim &amp;quot;wasn&amp;apost;t the victim she claimed to be&amp;quot; and said the defendant, 20-year-old Sir Young, &amp;quot;is not your typical sex offender.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>Critics fear the decision could discourage other victims from reporting rapes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;We&amp;apost;re certainly concerned about the message that&amp;apost;s being sent to victims of sexual assault,&amp;quot; said Andrea Moseley, chief prosecutor for the Dallas County District Attorney&amp;apost;s Office.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;We expect that our victims will be protected and that their reputations will be protected and that they will feel safe in coming forward and reporting these crimes.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="8">
+          <content>Young was convicted of sexual assault of a child, a second-degree felony.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="9">
+          <content>But it wasn&amp;apost;t just the sentence that drew criticism; it was the type of community service Young was also sentenced to.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="10">
+          <content>Young, who was a schoolmate of the victim&amp;apost;s when the rape occurred in 2011, was ordered to serve 250 hours of community service at a rape crisis center.</content>
+        </sentence>
+        <sentence id="11">
+          <content>The center later said he was not welcome there.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;I don&amp;apost;t believe (Judge Howard) understands what we do.</content>
+        </sentence>
+        <sentence id="13">
+          <content>If she would have called us prior to issuing the conditions of probation, we would have told her and explained what we do at the center and how that&amp;apost;s not possible,&amp;quot; Bobbie Villareal, director of the Dallas Rape Crisis Center, told CNN&amp;apost;s &amp;quot;Anderson Cooper 360.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="14">
+          <content>It would be inappropriate to have a convicted rapist at a center that focuses on survivors, she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="15">
+          <content>&amp;quot;It&amp;apost;s against our policies,&amp;quot; she told CNN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="16">
+          <content>Young&amp;apost;s defense attorney, Scottie Allen, told CNN&amp;apost;s &amp;quot;New Day&amp;quot; on Monday that he felt the sentence was &amp;quot;fair and appropriate&amp;quot; given the circumstances, and he agreed with Howard that his client wasn&amp;apost;t a normal sex offender.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;What we have here is an 18-year-old high school student who was very talented, very gifted,&amp;quot; Allen said, adding that Young had scholarship offers from a &amp;quot;couple of universities.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="18">
+          <content>Allen further claimed that the victim had agreed to have sex with Young, just not on campus, and &amp;quot;upon making this bad judgment, he admitted that he proceeded over her objections to stop, and he admitted that to the police.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;We don&amp;apost;t think that he qualifies as your typical sex offender.</content>
+        </sentence>
+        <sentence id="20">
+          <content>This is not somebody who has preyed on some young kids or unsuspecting people.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="21">
+          <content>Howard also sentenced Young to serve 24 hours in jail each year on October 4, the date of the rape, during his probation.</content>
+        </sentence>
+        <sentence id="22">
+          <content>And he will have register as a sex offender when he is released from his 45-day jail sentence.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="23">
+          <content>According to WFAA, the judge initially included standard language of probation for sex offenders, only to remove those conditions on Wednesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="24">
+          <content>HLN reached out to the judge for comment, but she recused herself from the case on Friday without public comment.</content>
+        </sentence>
+        <sentence id="25">
+          <content>CNN&amp;apost;s Anderson Cooper reached out to Howard to ask if she would come on CNN but didn&amp;apost;t hear back.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="26">
+          <content>A new judge will oversee the case moving forward, including a motion filed by prosecutors to add more restrictive requirements to Young&amp;apost;s probation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="27">
+          <content>The victim told WFAA she was devastated by the sentencing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="28">
+          <content>&amp;quot;I was shocked that a judge, someone that I trusted with this case, would go behind my back, would go and find records and make these allegations that she knows nothing about,&amp;quot; she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="29">
+          <content>Meanwhile, Young is serving his 45-day jail sentence.</content>
+        </sentence>
+        <sentence id="30">
+          <content>If he complies with the terms of his five-year probation, he won&amp;apost;t have a conviction on his record.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

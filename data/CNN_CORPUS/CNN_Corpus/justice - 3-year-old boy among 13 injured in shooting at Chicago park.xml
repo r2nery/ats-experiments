@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="446" link="http://www.cnn.com/2013/09/20/justice/chicago-shooting/index.html" date_published="2013-09-20 04:20:37" category="justice" author="Mariano Castillo and David Simpson, CNN " highlights_mapped="true" mapping_error="false">
+  <title>3-year-old boy among 13 injured in shooting at Chicago park</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="20">Police superintendent calls for ban on assault weapons.</sentence>
+      <sentence id="2" ids_article_sentences="9, 4">The 3-year-old boy was shot in the ear, and 12 other people also were injured.</sentence>
+      <sentence id="3" ids_article_sentences="24">Chicago Mayor Rahm Emanuel cancels a trip to Washington after the shooting.</sentence>
+      <sentence id="4" ids_article_sentences="16">Police call the shooting gang-related; no suspects were in custody.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-11 17:12:05" annotation_time="34.558666">
+      <sentence id="4" ids_highlights="2">In all, 13 people were.</sentence>
+      <sentence id="9" ids_highlights="2">It was only then that she learned that her grandson had been shot in the ear and that the bullet exited through his mouth.</sentence>
+      <sentence id="16" ids_highlights="4">No suspects were in custody as of Friday, and police were focused on interviewing witnesses and victims and gathering any video that may be available.</sentence>
+      <sentence id="20" ids_highlights="1">The nation needs a ban on assault weapons and high-capacity magazines, he said.</sentence>
+      <sentence id="24" ids_highlights="3">The shooting prompted Mayor Rahm Emanuel to cancel a trip to Washington.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>A Chicago grandmother pleads for a respite as television cameras roll: &amp;quot;Y&amp;apost;all out here killing these innocent people, kids, parents, grandparents, mothers, fathers: It&amp;apost;s got to stop.</content>
+        </sentence>
+        <sentence id="2">
+          <content>You need to stop.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>Semehca Nunn&amp;apost;s grandson, Deonta Howard, was in a hospital after being shot in the head Thursday night.</content>
+        </sentence>
+        <sentence id="4">
+          <content>In all, 13 people were.</content>
+        </sentence>
+        <sentence id="5">
+          <content>None of the victims suffered life-threatening injuries, but that fact offered little relief.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="6">
+          <content>Once again, Chicago is in the spotlight over gun violence; a reminder that it is the city with the highest number of homicides in the country.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>An assault-style rifle with a high-capacity magazine was used in the shooting, which appears to be gang-related, Chicago Police Superintendent Garry F. McCarthy said Friday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>The violence &amp;quot;needs to stop,&amp;quot; a tearful Nunn said after she came home to find police and television cameras all around.</content>
+        </sentence>
+        <sentence id="9">
+          <content>It was only then that she learned that her grandson had been shot in the ear and that the bullet exited through his mouth.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>Deonta&amp;apost;s condition has stabilized, and he is heavily sedated and will have plastic surgery on his face, Nunn said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;They said he is going to be OK,&amp;quot; she said.</content>
+        </sentence>
+        <sentence id="12">
+          <content>&amp;quot;That&amp;apost;s what Grandma gave him, strong man, 3 years old, strong survivor.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>The other victims include two 15-year-olds who were listed in stable condition, said Officer Ron Gaines of the Chicago Police Department.</content>
+        </sentence>
+        <sentence id="14">
+          <content>The rest were adults ages 21 to 41.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="15">
+          <content>Video from CNN affiliate WLS-TV showed police had taped off an outdoor basketball court at Cornell Square Park.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="16">
+          <content>No suspects were in custody as of Friday, and police were focused on interviewing witnesses and victims and gathering any video that may be available.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;We need to keep illegal guns and military-type weapons out of our communities,&amp;quot; McCarthy said.</content>
+        </sentence>
+        <sentence id="18">
+          <content>&amp;quot;Illegal guns drive violence.</content>
+        </sentence>
+        <sentence id="19">
+          <content>Military-type weapons, like the one we believe to have been used in this shooting, belong on a battlefield, not on a street or in a corner or in a park.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="20">
+          <content>The nation needs a ban on assault weapons and high-capacity magazines, he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="21">
+          <content>&amp;quot;It&amp;apost;s a miracle in this instance there have been no fatalities based on the lethality&amp;quot; of the weapon used Thursday, McCarthy said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="22">
+          <content>There was a basketball game being played when the shooting happened, the police superintendent said.</content>
+        </sentence>
+        <sentence id="23">
+          <content>People were enjoying the park as they do on any other day.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="24">
+          <content>The shooting prompted Mayor Rahm Emanuel to cancel a trip to Washington.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="25">
+          <content>&amp;quot;Senseless and brazen acts of violence have no place in Chicago and betray all that we stand for,&amp;quot; the mayor&amp;apost;s office said in a statement.</content>
+        </sentence>
+        <sentence id="26">
+          <content>&amp;quot;The perpetrators of this crime will be brought to justice and prosecuted to the full extent of the law.</content>
+        </sentence>
+        <sentence id="27">
+          <content>I encourage everyone in the community to step forward with any information and everyone in Chicago to continue their individual efforts to build stronger communities where violence has no place.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="28">
+          <content>&amp;quot;It&amp;apost;s pretty frustrating, it&amp;apost;s very disappointing this is happening in our neighborhood once again,&amp;quot; said the Rev. Corey Brooks, a spokesman for the 3-year-old&amp;apost;s family.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="29">
+          <content>On any given day, any child in the park or walking to school can be shot, until the community does something about it, he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="30">
+          <content>&amp;quot;The truth is that in Chicago, we are facing murders every single day on the south side and west side,&amp;quot; Brooks said.</content>
+        </sentence>
+        <sentence id="31">
+          <content>&amp;quot;Blacks and Latinos are facing extreme violence.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="32">
+          <content>Illinois Gov. Pat Quinn said he was saddened by what he called &amp;quot;horrific violence.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="33">
+          <content>&amp;quot;We pray for the swift recovery of all the shooting victims, and our hearts go out to their families,&amp;quot; he said in a statement.</content>
+        </sentence>
+        <sentence id="34">
+          <content>&amp;quot;This senseless violence must be stopped.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="35">
+          <content>The January shooting death of another child, 15-year-old Hadiya Pendleton, brought national attention to Chicago because the band majorette had performed in Washington at events surrounding President Barack Obama&amp;apost;s inauguration in January.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="36">
+          <content>The president invited Pendleton&amp;apost;s parents to his State of the Union address in February.</content>
+        </sentence>
+        <sentence id="37">
+          <content>Obama mentioned her in that speech and a few days later when he returned to Chicago, his hometown, for another speech in which he pressed for stricter gun laws.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="38">
+          <content>Police charged two men in Pendleton&amp;apost;s death.</content>
+        </sentence>
+        <sentence id="39">
+          <content>They said the two were gang members seeking revenge and mistook Pendleton for someone else.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="40">
+          <content>The FBI&amp;apost;s annual crime report this week showed Chicago had 500 homicides in 2012, up from 431 in 2011 and more than any other American city.</content>
+        </sentence>
+        <sentence id="41">
+          <content>Chicago officials have said homicides this year are below the 2012 pace.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="42">
+          <content>Still, Chicago does not have the highest homicide rate in the United States.</content>
+        </sentence>
+        <sentence id="43">
+          <content>That unwanted distinction belongs to Flint, Michigan, with one homicide for every 1,613 residents, according to the FBI data.</content>
+        </sentence>
+        <sentence id="44">
+          <content>Detroit is close behind, with one killing for every 1,832 residents.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="45">
+          <content>In 2012, the number of violent crimes increased by 0.7%, compared with the previous year, according to the FBI figures.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="46">
+          <content>Chicago bans some semiautomatic weapons and high-capacity magazines, and restricts handguns.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

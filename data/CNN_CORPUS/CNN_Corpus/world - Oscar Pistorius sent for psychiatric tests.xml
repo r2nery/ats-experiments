@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2563" link="http://cnn.com/2014/05/14/world/africa/oscar-pistorius-trial/ " date_published="2014-05-14 07:16:35" category="world" author="Robyn Curnow, Richard Allen Greene and Emily Smith, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Oscar Pistorius sent for psychiatric tests</title>
+  <keywords>Oscar Pistorius trial,Reeva Steenkamp</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="6">Judge Thokozile Masipa does not want Pistorius stuck in a hospital during tests.</sentence>
+      <sentence id="2" ids_article_sentences="15">Experts will submit a report to the court once testing is done.</sentence>
+      <sentence id="3" ids_article_sentences="17">Pistorius could end up committed against his will .</sentence>
+      <sentence id="4" ids_article_sentences="25">Pistorius killed Reeva Steenkamp but says he mistook his girlfriend for an intruder.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-09-10 15:17:24" annotation_time="62.748997">
+      <sentence id="6" ids_highlights="1">&amp;quot;A doubt has been created&amp;quot; that Pistorius may have a psychiatric issue that would affect the court&amp;apost;s verdict, so she must order the testing, Judge Thokozile Masipa said Wednesday.</sentence>
+      <sentence id="15" ids_highlights="2">The testing will be done by a panel of experts who will then submit a mental health report to the court, CNN legal analyst Kelly Phelps said.</sentence>
+      <sentence id="17" ids_highlights="3">But it would also mean Pistorius needs to be committed to a mental health institution against his will until he is found not to be a danger, she said.</sentence>
+      <sentence id="25" ids_highlights="4">Pistorius admits shooting Steenkamp but says he thought there was an intruder in his house.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Pretoria, South Africa Oscar Pistorius, the onetime Olympic athlete turned murder suspect, must undergo a month of psychiatric testing before his trial can continue, the judge in the case ruled Wednesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The move puts his trial on ice indefinitely.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>It was triggered by the testimony of a psychiatrist who testified that the sprinter has suffered from generalized anxiety disorder since he was an infant, stemming partly from the amputation of both of his lower legs because of a genetic defect.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>Pistorius is accused of murdering his girlfriend, the model Reeva Steenkamp, in his home last year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>Pistorius, 27, does not claim he was insane or mentally incapacitated when he shot her, but when the defense put the psychiatrist on the stand, it raised the question of the athlete&amp;apost;s mental health, the judge said Wednesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;A doubt has been created&amp;quot; that Pistorius may have a psychiatric issue that would affect the court&amp;apost;s verdict, so she must order the testing, Judge Thokozile Masipa said Wednesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;The accused may not have raised the issue that he was not criminally responsible at the time of the incident in so many words, but evidence raised on his behalf cannot be ignored,&amp;quot; she said of testimony by Dr. Merryll Vorster.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="8">
+          <content>She acknowledged that her order would mean a long delay in the trial, but said that was not the most important consideration.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="9">
+          <content>&amp;quot;This is not about anyone&amp;apost;s convenience, but about whether justice has been served,&amp;quot; she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;The aim of the referral is not to punish the accused twice,&amp;quot; Masipa said, saying that Pistorius should be examined as an outpatient rather than committed to an institution if possible.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="11">
+          <content>Expert report.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="12">
+          <content>Court will reconvene on Tuesday for her to issue her order formally, she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="13">
+          <content>At that point, Pistorius will learn when and where he will be tested.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="14">
+          <content>The prosecutor had argued in favor of psychological evaluation, while the defense argued against it.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="15">
+          <content>The testing will be done by a panel of experts who will then submit a mental health report to the court, CNN legal analyst Kelly Phelps said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="16">
+          <content>At one extreme, they could find that Pistorius was mentally incapacitated at the time he killed Steenkamp, which would end the trial immediately in a verdict of not guilty by reason of mental illness, she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="17">
+          <content>But it would also mean Pistorius needs to be committed to a mental health institution against his will until he is found not to be a danger, she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="18">
+          <content>Another option is that they could find he had &amp;quot;diminished responsibility&amp;quot; at the time he killed Steenkamp.</content>
+        </sentence>
+        <sentence id="19">
+          <content>In that case, the trial would continue and his mental health would be taken into consideration during sentencing if he is found guilty, said Phelps, a criminologist and law lecturer at the University of Cape Town.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="20">
+          <content>The third possibility is that the experts could disagree with the defense psychiatrist and say that Pistorius&amp;apost; mental health is not an issue at all.</content>
+        </sentence>
+        <sentence id="21">
+          <content>If that happens, Vorster&amp;apost;s testimony will be disregarded, Phelps said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="22">
+          <content>The experts might not all agree with each other, and lawyers on either side could disagree with the experts&amp;apost; report, leading to any number of possible outcomes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="23">
+          <content>If there is any dispute, the final decision about what to do with the experts&amp;apost; report lies with Judge Masipa.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="24">
+          <content>Mistake or murder?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="25">
+          <content>Pistorius admits shooting Steenkamp but says he thought there was an intruder in his house.</content>
+        </sentence>
+        <sentence id="26">
+          <content>He has pleaded not guilty.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="27">
+          <content>The athlete&amp;apost;s defense team is trying to show that Pistorius made a genuine mistake and responded reasonably on the night he shot Steenkamp, 29, a model and law school graduate.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="28">
+          <content>If the trial continues after the psychiatric evaluation, Judge Masipa must decide whether Pistorius genuinely made a mistake or whether he murdered Steenkamp intentionally.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="29">
+          <content>If she does not believe the athlete thought there was an intruder, she will find him guilty of murder and sentence him to at least 15 years in prison, and possibly life.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="30">
+          <content>South Africa does not have the death penalty.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="31">
+          <content>If Masipa accepts that Pistorius did not know Steenkamp was the person he was shooting at, she could find him guilty of culpable homicide, a lesser charge than murder, or acquit him, according to CNN legal analyst Kelly Phelps.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="32">
+          <content>A verdict of culpable homicide would leave the sentence at Masipa&amp;apost;s discretion.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="33">
+          <content>The prosecution rejects the sprinter&amp;apost;s defense that he mistakenly thought he was defending himself and his girlfriend from an intruder.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="34">
+          <content>The state contends that Pistorius argued with Steenkamp before killing her.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="35">
+          <content>The defense team is seeking to cast doubt on the state&amp;apost;s case and needs to show only that there is a reasonable doubt that Pistorius meant to kill Steenkamp.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="36">
+          <content>There is no dispute that Pistorius fired four bullets through a door at Steenkamp in his home early on the morning of Valentine&amp;apost;s Day 2013.</content>
+        </sentence>
+        <sentence id="37">
+          <content>Three hit her, causing devastating wounds.</content>
+        </sentence>
+        <sentence id="38">
+          <content>The final shot struck her head and probably killed her almost instantly, a pathologist testified in March.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="34">
+      <sentences>
+        <sentence id="39">
+          <content>The trial has seen Pistorius break down repeatedly, crying, wailing and sometimes throwing up as the court sees and hears evidence about Steenkamp&amp;apost;s death.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="35">
+      <sentences>
+        <sentence id="40">
+          <content>Vorster said the athlete&amp;apost;s physical distress was real.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

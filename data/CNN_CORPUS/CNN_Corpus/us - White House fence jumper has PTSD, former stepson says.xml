@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2013" link="http://www.cnn.com/2014/09/21/us/white-house-security-incident/index.html" date_published="2014-09-21 18:55:00" category="us" author="Cassie Spodak, Mary Grace Lucas and Ashley Fantz, CNN" highlights_mapped="true" mapping_error="false">
+  <title>White House fence jumper has PTSD, former stepson says</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="30">NEW: The Secret Service will beef up its presence and enhance surveillance Monday.</sentence>
+      <sentence id="2" ids_article_sentences="1">White House fence jumper&amp;apost;s ex-stepson tells CNN jumper has PTSD.</sentence>
+      <sentence id="3" ids_article_sentences="10">The ex-stepson says Omar Gonzalez was being treated at Fort Hood in Texas.</sentence>
+      <sentence id="4" ids_article_sentences="12">Gonzalez did three tours in Iraq, his mental state worsened after each, ex-stepson said.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-14 10:34:29" annotation_time="12.7595005">
+      <sentence id="1" ids_highlights="2">Washington An Iraq war veteran who was arrested after jumping a White House fence suffers from PTSD, his former stepson told CNN Sunday.</sentence>
+      <sentence id="10" ids_highlights="3">Murphy said he last spoke to Gonzalez around the time of the split but knows that Gonzalez was seeing a therapist on base at Fort Hood in Texas.</sentence>
+      <sentence id="12" ids_highlights="4">Gonzalez did three tours in Iraq and is a &amp;quot;great, great guy,&amp;quot; his ex-stepson said.</sentence>
+      <sentence id="30" ids_highlights="1">The Secret Service is planning to beef up its presence and enhance its surveillance measures around the White House on Monday following Friday&amp;apost;s security breach, a federal law enforcement official said.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Washington An Iraq war veteran who was arrested after jumping a White House fence suffers from PTSD, his former stepson told CNN Sunday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Omar Gonzalez hopped the north fence Friday and sprinted just past the north portico White House doors when he was stopped, Secret Service spokesman Brian Leary said.</content>
+        </sentence>
+        <sentence id="3">
+          <content>The veteran carried in his pants pocket a Spyderco VG-10 folding knife with a 3-and-a-half inch serrated blade, according to an affidavit.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>A Secret Service officer said he yelled at the intruder to stop.</content>
+        </sentence>
+        <sentence id="5">
+          <content>Gonzalez told a Secret Service agent &amp;quot;that he was concerned that the atmosphere was collapsing and needed to get the information to the President of the United States so that he could get the word out to the people,&amp;quot; according to the affidavit.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>Gonzalez is accused of unlawfully entering a restricted building or grounds while carrying a deadly or dangerous weapon, officials said.</content>
+        </sentence>
+        <sentence id="7">
+          <content>As of Saturday, Gonzalez was in custody and set to appear in court Monday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>President Barack Obama and his family were not at home at the time.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>On Sunday, Gonzalez&amp;apost;s former stepson Jerry S. Murphy told CNN that Gonzalez&amp;apost;s eight-year marriage to his mother ended two years ago -- information that marriage records supports.</content>
+        </sentence>
+        <sentence id="10">
+          <content>Murphy said he last spoke to Gonzalez around the time of the split but knows that Gonzalez was seeing a therapist on base at Fort Hood in Texas.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>Gonzalez was diagnosed with PTSD and paranoia, and his base psychiatrist had prescribed the veteran medication for both conditions, Murphy said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>Gonzalez did three tours in Iraq and is a &amp;quot;great, great guy,&amp;quot; his ex-stepson said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>Murphy views Gonzalez as a &amp;quot;hero&amp;quot; who took great pride in serving his country.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>But after each deployment, Gonzalez&amp;apost;s mental state seemed to deteriorate, Murphy said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="15">
+          <content>The veteran acted constantly &amp;quot;alert.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="16">
+          <content>Murphy feels that Gonzalez should have been given more help and doesn&amp;apost;t think Gonzalez had intentions of hurting anyone at the White House.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="17">
+          <content>The knife that was found in Gonzalez&amp;apost;s pocket was a weapon the veteran routinely carried, Murphy said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="18">
+          <content>Criticism of White House security.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="19">
+          <content>The fence jumping incident was not the only security breach at the White House over the weekend.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="20">
+          <content>In a second incident Saturday, Kevin Carr of Shamong, New Jersey, was arrested after driving up to a security barrier and trying to enter the White House by walking to it.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="21">
+          <content>Carr was arrested and charged with unlawful entry, Leary told CNN.</content>
+        </sentence>
+        <sentence id="22">
+          <content>Records show Carr was born in 1995, making him around 19.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="23">
+          <content>According to Leary, the incident happened at the entrance at 15th and E streets, where the driver did not stop when the Secret Service ordered him to do so.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="24">
+          <content>The man&amp;apost;s car did not hit the barriers at the entrance, and he then got out of his vehicle.</content>
+        </sentence>
+        <sentence id="25">
+          <content>Carr was arrested after he refused to leave, Leary said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="26">
+          <content>The Obamas were not at home at the time of the second incident either.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="27">
+          <content>Minutes before Gonzalez jumped the fence, the President and his daughters left the South Lawn by helicopter.</content>
+        </sentence>
+        <sentence id="28">
+          <content>It is not clear where first lady Michelle Obama was, but officials tell CNN that the family was staying at Camp David, Maryland, for the weekend.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="29">
+          <content>The Secret Service said Gonzalez should have been stopped faster and are investigating personnel and reviewing security policies and procedures.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="30">
+          <content>The Secret Service is planning to beef up its presence and enhance its surveillance measures around the White House on Monday following Friday&amp;apost;s security breach, a federal law enforcement official said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="31">
+          <content>Rep. Mike Rogers, a Michigan Republican and chairman of the House Intelligence Committee, suggested that the Secret Service has lapsed in the testing and audits that would have kept security up to standard.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="32">
+          <content>&amp;quot;We see this a lot.</content>
+        </sentence>
+        <sentence id="33">
+          <content>It happens frequently in other places where there are static security forces, and it&amp;apost;s just a matter of the Secret Service upping their game to make sure that they can maintain that every detail matters.</content>
+        </sentence>
+        <sentence id="34">
+          <content>A door locked, a quick reaction when somebody hits the fence and over the gate,&amp;quot; Rogers said on CBS on Sunday morning.</content>
+        </sentence>
+        <sentence id="35">
+          <content>&amp;quot;I think they are going to have to reinstate some of these ongoing checks about what activities they participate in.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="36">
+          <content>Rep. Peter King, R-New York, demanded a full investigation and called for a congressional hearing to ensure that changes are made.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="37">
+          <content>&amp;quot;There can be a lot of conspiracies against a president.</content>
+        </sentence>
+        <sentence id="38">
+          <content>A lot of very complex assassination plots,&amp;quot; King said on Fox News.</content>
+        </sentence>
+        <sentence id="39">
+          <content>&amp;quot;This is the most basic, the most simple type of procedure and how anyone, especially in these days of ISIS, and we&amp;apost;re concerned about terrorist attacks, someone could actually get into the White House without being stopped is inexcusable.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="40">
+          <content>In a statement from White House on Saturday night, spokesperson Frank Benenati said the President expressed his support for the Secret Service.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="41">
+          <content>&amp;quot;The President has full confidence in the Secret Service and is grateful to the men and women who day in and day out protect himself, his family and the White House,&amp;quot; the statement read.</content>
+        </sentence>
+        <sentence id="42">
+          <content>&amp;quot;The Secret Service is in the process of conducting a thorough review of the event on Friday evening, and we are certain it will be done with the same professionalism and commitment to duty that we and the American people expect from the USSS.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

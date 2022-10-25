@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2137" link="http://www.cnn.com/2014/02/17/world/europe/ethiopian-airlines-hijacking" date_published="2014-02-17 06:42:50" category="world" author="Larry Register, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Co-pilot hijacks Ethiopian Airlines, flies to Geneva for asylum</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="22">NEW: The hijacker says he feels threatened in his country.</sentence>
+      <sentence id="2" ids_article_sentences="9">He took control when the pilot was in the restroom.</sentence>
+      <sentence id="3" ids_article_sentences="20">He escaped from the cockpit using a rope and surrendered.</sentence>
+      <sentence id="4" ids_article_sentences="3">The passengers and crew were unharmed.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-09-25 13:56:24" annotation_time="48.956333">
+      <sentence id="3" ids_highlights="4">The 202 passengers and crew aboard the Boeing 767-300 were not harmed.</sentence>
+      <sentence id="9" ids_highlights="2">The co-pilot took control of the plane when the pilot went to the restroom, said Swiss police spokesman Jean-Philippe Brandt.</sentence>
+      <sentence id="20" ids_highlights="3">He then escaped through the cockpit window using a rope, and surrendered to police, Brandt said.</sentence>
+      <sentence id="22" ids_highlights="1">&amp;quot;His act has been motivated by the fact that he feels threatened in his county and wants to make an asylum claim in Switzerland,&amp;quot; Swiss police spokesman Philippe Grangean said.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>A co-pilot on an Ethiopian Airlines flight bound for Rome hijacked the airliner early Monday morning and flew it to Geneva, Switzerland, looking for asylum.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The man, an Ethiopian in his early 30s, was arrested when the plane landed at Geneva International Airport, police said.</content>
+        </sentence>
+        <sentence id="3">
+          <content>The 202 passengers and crew aboard the Boeing 767-300 were not harmed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>It was a welcome outcome from the last time an Ethiopian Airlines was hijacked.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>In 1996, 125 people died after a hijacked Ethiopian Airlines crashed in the Indian Ocean after running out of fuel.</content>
+        </sentence>
+        <sentence id="6">
+          <content>In that case, the hijackers were seeking asylum in Australia.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>Taking control.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>In Monday&amp;apost;s incident, Flight 702 had taken off from the Ethiopian capital of Addis Ababa and was headed to Rome, the airline said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>The co-pilot took control of the plane when the pilot went to the restroom, said Swiss police spokesman Jean-Philippe Brandt.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>The co-pilot, who was not named, closed the fortified door, police said.</content>
+        </sentence>
+        <sentence id="11">
+          <content>Instead of Rome, he then steered the plane toward Geneva.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>At one point, as the plane hovered over Geneva&amp;apost;s airspace several times, he asked the control tower:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>&amp;quot;And you have to give us lastly permission on board for asylum.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;Yes I know,&amp;quot; the tower responded.</content>
+        </sentence>
+        <sentence id="15">
+          <content>&amp;quot;Sorry, but we are still waiting for the response.</content>
+        </sentence>
+        <sentence id="16">
+          <content>We are trying our best to get you the response, sir.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>The surrender.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="18">
+          <content>Eventually, the plane landed at Geneva International Airport.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;I will be coming out via the window,&amp;quot; the co-pilot told the control tower.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="20">
+          <content>He then escaped through the cockpit window using a rope, and surrendered to police, Brandt said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="21">
+          <content>He was unarmed, authorities said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;His act has been motivated by the fact that he feels threatened in his county and wants to make an asylum claim in Switzerland,&amp;quot; Swiss police spokesman Philippe Grangean said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="23">
+          <content>The passengers were not threatened or put in danger, police said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="24">
+          <content>Ethiopian Airlines, in a statement, would only say the plane was &amp;quot;forced to proceed&amp;quot; to the airport.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="25">
+          <content>During the incident, Geneva International Airport was shut down.</content>
+        </sentence>
+        <sentence id="26">
+          <content>It reopened later Monday morning.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="27">
+          <content>While rare, a pilot hijacking an airline is not unheard of.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="28">
+          <content>In 1998, an Air China captain, reportedly disgruntled with life in China, hijacked his passenger jet to Taiwan.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2191" link="http://www.cnn.com/2013/03/08/world/early-marriage-report/index.html" date_published="2013-03-08 15:34:12" category="world" author="Hazel Pfeifer, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Fear, instability driving early marriage around the world, report says</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="10">Report: More than 13.5 million girls under 18 marry each year across the world.</sentence>
+      <sentence id="2" ids_article_sentences="12">Expert: Poverty, gender inequality and social norms are big factors in early marriage.</sentence>
+      <sentence id="3" ids_article_sentences="17">Laws against early marriage exist in most countries but are often unenforced.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-20 15:58:31" annotation_time="35.103">
+      <sentence id="10" ids_highlights="1">More than 13.5 million girls under 18 are married each year across the world -- and the figure is rising according to Erica Hall, Child Rights Policy Director at World Vision.</sentence>
+      <sentence id="12" ids_highlights="2">Poverty, gender inequality and social norms are big factors,&amp;quot; Hall told CNN, adding that crises like war and displacement also have a big impact.</sentence>
+      <sentence id="17" ids_highlights="3">In times of insecurity, the comfort of tradition outweighs legislation -- and while many countries have laws in place to prevent child marriage, Hall says enforcement is weak or non-existent.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Humaiya Akhter is 16 years old and already six of her friends are married.</content>
+        </sentence>
+        <sentence id="2">
+          <content>Some have children.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>She is from the village of Tajpur in the Joypurat district of Bangladesh, a country where 66% of girls are married before 18 years of age, according to children&amp;apost;s charity World Vision.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Her grandmother was married at the age of nine and her mother at the age of 16, and Humaiya is determined to break the cycle.</content>
+        </sentence>
+        <sentence id="5">
+          <content>She now campaigns locally against child marriage and has helped girls in her community to avoid early marriage.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;In our country, the girls are not allowed to give their opinion.</content>
+        </sentence>
+        <sentence id="7">
+          <content>When their marriage is fixed, their fathers don&amp;apost;t let them know what will happen, they may be married after two or three days,&amp;quot; she told CNN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;Parents think that the girls are a burden and they can&amp;apost;t contribute to the family income so they don&amp;apost;t have right to say anything or give any opinion to the family.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>The issue is not limited to Bangladesh.</content>
+        </sentence>
+        <sentence id="10">
+          <content>More than 13.5 million girls under 18 are married each year across the world -- and the figure is rising according to Erica Hall, Child Rights Policy Director at World Vision.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;There are a lot of different factors that impact early marriage.</content>
+        </sentence>
+        <sentence id="12">
+          <content>Poverty, gender inequality and social norms are big factors,&amp;quot; Hall told CNN, adding that crises like war and displacement also have a big impact.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>According to &amp;quot;Untying the Knot,&amp;quot; a new report from World Vision, child marriage increases in times of conflict and disaster, when fear pushes parents to marry their daughters early in order to ensure their safety and security.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>But this can actually have devastating effects on young girls&amp;apost; lives -- limiting their access to education and increasing their chances of poverty and health problems, including complications during child-birth.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>Countries like Niger, Somalia and Bangladesh -- destabilized by drought and food shortages -- have some of the highest rates of child marriage in the world, according to the report, and Halls says climate change will only make matters worse.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>Child marriage rates are also higher in refugee and IDP (Internally Displaced People) camps, where girls are encouraged to marry early to safeguard their virginity.</content>
+        </sentence>
+        <sentence id="17">
+          <content>In times of insecurity, the comfort of tradition outweighs legislation -- and while many countries have laws in place to prevent child marriage, Hall says enforcement is weak or non-existent.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;In Bangladesh, the legal age for marriage is 18 for girls and 21 for boys, so there&amp;apost;s nothing wrong with the law, it&amp;apost;s in the implementation,&amp;quot; says Hall.</content>
+        </sentence>
+        <sentence id="19">
+          <content>&amp;quot;That&amp;apost;s something that we are advocating for, to make sure that legislation is in place and that it is enforced.</content>
+        </sentence>
+        <sentence id="20">
+          <content>There is no reason that a girl that&amp;apost;s born today should be forced to marry before the age of 18.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="21">
+          <content>Hall says access to education and law enforcement, in addition to greater community cooperation, are key to changing attitudes to child marriage.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;You can&amp;apost;t just convince individuals that it is better for girls to be in school and not be married.</content>
+        </sentence>
+        <sentence id="23">
+          <content>You have to have a whole community response that says &amp;apost;we will not marry our girls&amp;apost; so that no one feels that they are at risk of defying cultural norms.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="24">
+          <content>As part of World Vision&amp;apost;s Child Forum, this is what Humaiya aims to do in her community.</content>
+        </sentence>
+        <sentence id="25">
+          <content>&amp;quot;I don&amp;apost;t know when I will get married but I think after eight years maybe, after completing my education and being established in the society,&amp;quot; she says.</content>
+        </sentence>
+        <sentence id="26">
+          <content>Unlike generations of women before her, she has a choice.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

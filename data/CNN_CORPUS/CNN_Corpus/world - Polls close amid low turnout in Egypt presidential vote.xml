@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2610" link="http://www.cnn.com/2014/05/28/world/africa/egypt-presidential-election/index.html" date_published="2014-05-28 07:04:48" category="world" author="Salma Abdelaziz. Reza Sayah and Dina Amer, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Polls close amid low turnout in Egypt presidential vote</title>
+  <keywords>Egypt presidential election</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">NEW: Polls closed in presidential election amid low turnout.</sentence>
+      <sentence id="2" ids_article_sentences="2">NEW: Even an extra day of voting did not boost turnout.</sentence>
+      <sentence id="3" ids_article_sentences="14">Human Rights Watch says past crackdowns undermined elections.</sentence>
+      <sentence id="4" ids_article_sentences="6">Both candidates&amp;apost; campaigns objected to another day of voting.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-09-02 10:04:07" annotation_time="39.891335">
+      <sentence id="1" ids_highlights="1">Polls finally closed in Egypt&amp;apost;s presidential election Wednesday, and workers have started to count the ballots, according to Egyptian state media.</sentence>
+      <sentence id="2" ids_highlights="2">An extra day of voting was added to boost turnout, but it may have done little, according to CNN crews who witnessed no lines at polling places throughout Cairo.</sentence>
+      <sentence id="6" ids_highlights="4">Both Candidates had criticized the extra day of voting and had filed complaints.</sentence>
+      <sentence id="14" ids_highlights="3">Human Rights Watch said Egypt&amp;apost;s 10-month-long crackdown on the opposition undermined the fairness of the presidential elections.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Polls finally closed in Egypt&amp;apost;s presidential election Wednesday, and workers have started to count the ballots, according to Egyptian state media.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>An extra day of voting was added to boost turnout, but it may have done little, according to CNN crews who witnessed no lines at polling places throughout Cairo.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The election, initially scheduled for Monday and Tuesday, pit former army chief Abdel Fattah al-Sisi against Hamdeen Sabahy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>The election commission extended the voting saying people living far from where they are registered need to return to vote, the state-run Middle East News Agency reported.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>No numbers have been released, but the move came after TV hosts had openly criticized voters for not participating.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>Both Candidates had criticized the extra day of voting and had filed complaints.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;We strongly denounce the (election commission&amp;apost;s) decision to extend voting another day.</content>
+        </sentence>
+        <sentence id="8">
+          <content>Extending the voting period for no real plausible reason will open the door to possible vote violations and rigging,&amp;quot; said Hussein Abdel Ghany, a top adviser to Sabahy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>Sabahy&amp;apost;s campaign announced Wednesday that it&amp;apost;s withdrawing its delegates who observe the polls because they have been arrested or assaulted:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;In the past 48 hours we were subjected to a wide range of abuses, assaults and violations.</content>
+        </sentence>
+        <sentence id="11">
+          <content>These include preventing campaign delegates from entering the polling stations, and assaulting and arresting them,&amp;quot; it said in a statement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>Egyptian Prime Minister Ibrahim Mehleb had even declared Tuesday a public holiday &amp;quot;in compliance to citizens&amp;apost; wishes,&amp;quot; state TV reported.</content>
+        </sentence>
+        <sentence id="13">
+          <content>The decision was thought to be a move to increase turnout.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>Human Rights Watch said Egypt&amp;apost;s 10-month-long crackdown on the opposition undermined the fairness of the presidential elections.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>&amp;quot;The mass arrests of thousands of political dissidents, whether Islamist or secular, has all but shut down the political arena and stripped these elections of real meaning,&amp;quot; the group&amp;apost;s Middle East director, Sarah Leah Whitson, said in a statement Wednesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="16">
+          <content>The election was called because President Mohamed Morsy was removed from power in July in a popular military coup.</content>
+        </sentence>
+        <sentence id="17">
+          <content>Al-Sisi, who was army chief at the time, stepped down from his military post this year to run for president.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1268" link="http://www.cnn.com/2013/06/26/showbiz/paula-deen/index.html" date_published="2013-06-26 12:43:15" category="showbiz" author="Josh Levs, CNN" highlights_mapped="true" mapping_error="false">
+  <title>In tearful interview, Paula Deen slams &amp;apost;horrible lies&amp;apost;</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="28">NEW: Caesars Entertainment Corp. says it will be ending its relationship with Paula Deen.</sentence>
+      <sentence id="2" ids_article_sentences="3">Deen: &amp;quot;I believe that everyone ought to be treated equal&amp;quot;.</sentence>
+      <sentence id="3" ids_article_sentences="25">Someone &amp;quot;evil&amp;quot; is trying to take what she&amp;apost;s worked for, she says.</sentence>
+      <sentence id="4" ids_article_sentences="20">She testified she may have used N-word in repeating talk between black people.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-06 08:08:49" annotation_time="49.926">
+      <sentence id="3" ids_highlights="2">... I believe that everyone ought to be treated equal.&amp;quot;</sentence>
+      <sentence id="20" ids_highlights="4">She added that she may have uttered the word in repeating a conversation that took place between black people.</sentence>
+      <sentence id="25" ids_highlights="3">In her deposition, Deen said she was speaking of an experience she had had in which the wait staff was composed of black men in white jackets and bow ties, and that she had said she would love for Hier to &amp;quot;experience a very Southern style wedding&amp;quot; such as that.</sentence>
+      <sentence id="28" ids_highlights="1">And in another blow, Caesars Entertainment Corp. said Wednesday that it will be ending its relationship with her.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Celebrity chef Paula Deen, facing allegations of racism that have caused parts of her empire to crumble, slammed what she called &amp;quot;horrible, horrible lies&amp;quot; about her in an emotional, nationally televised interview Wednesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>&amp;quot;I believe that every creature on this Earth, every one of God&amp;apost;s creatures, was created equal,&amp;quot; she told NBC&amp;apost;s &amp;quot;Today&amp;quot; show. &amp;quot;.</content>
+        </sentence>
+        <sentence id="3">
+          <content>... I believe that everyone ought to be treated equal.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Deen was raised to never be unkind to anyone, she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>&amp;quot;I&amp;apost;ve had to hold friends in my arms while they&amp;apost;ve sobbed,&amp;quot; Deen said, crying.</content>
+        </sentence>
+        <sentence id="6">
+          <content>&amp;quot;Because they know what&amp;apost;s being said about me -- it&amp;apost;s not true.</content>
+        </sentence>
+        <sentence id="7">
+          <content>And I&amp;apost;m having to comfort them, and tell them it&amp;apost;s going to be all right.</content>
+        </sentence>
+        <sentence id="8">
+          <content>If God got us to it, he&amp;apost;ll get us through it.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="9">
+          <content>The accusations against Deen stem from a lawsuit filed by a former manager of Deen&amp;apost;s restaurants in Savannah, Georgia.</content>
+        </sentence>
+        <sentence id="10">
+          <content>Lisa T. Jackson&amp;apost;s lawsuit alleges that Deen and her brother, Bubba Hier, committed numerous acts of violence, discrimination and racism that resulted in the end of Jackson&amp;apost;s five-year tenure at Deen&amp;apost;s Lady &amp;amp; Sons and Uncle Bubba&amp;apost;s Oyster House eateries in Savannah.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="11">
+          <content>Deen rejects the allegations.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;There&amp;apost;s someone evil out there that saw what I had worked for and they wanted it,&amp;quot; Deen told NBC on Wednesday, without naming anyone.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>In a deposition for the lawsuit, Deen was asked whether she had ever used the &amp;quot;N-word.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>Deen answered that she had probably used the racial slur when talking to her husband about &amp;quot;when a black man burst into the bank that I was working at and put a gun to my head&amp;quot; -- an incident that took place 30 years ago.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>In the &amp;quot;Today&amp;quot; interview, she gave more details about that incident.</content>
+        </sentence>
+        <sentence id="16">
+          <content>The man holding the gun was someone she knew, she said.</content>
+        </sentence>
+        <sentence id="17">
+          <content>&amp;quot;I had gone out on a limb for him and gotten him a loan and he was frightened that I was going to recognize him.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="18">
+          <content>In the deposition, Deen was asked whether she had used the word at any other times since.</content>
+        </sentence>
+        <sentence id="19">
+          <content>She responded, &amp;quot;I&amp;apost;m sure I have, but it&amp;apost;s been a very long time.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="20">
+          <content>She added that she may have uttered the word in repeating a conversation that took place between black people.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="21">
+          <content>In fact, she told NBC, &amp;quot;It&amp;apost;s very distressing for me to go into my kitchens and I hear what these young people are calling each other.</content>
+        </sentence>
+        <sentence id="22">
+          <content>... Because I think for this problem to be worked on, that these young people are going to have to take control and start showing respect for each other and not throwing that word at each other.</content>
+        </sentence>
+        <sentence id="23">
+          <content>It makes my skin crawl.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="24">
+          <content>Jackson&amp;apost;s lawsuit also claims Deen wanted to plan a party in the style of a Southern plantation, staffed with black waiters dressed to resemble slaves.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="25">
+          <content>In her deposition, Deen said she was speaking of an experience she had had in which the wait staff was composed of black men in white jackets and bow ties, and that she had said she would love for Hier to &amp;quot;experience a very Southern style wedding&amp;quot; such as that.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="26">
+          <content>&amp;quot;I did not mean anything derogatory by saying I loved their look and their professionalism,&amp;quot; she added.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="27">
+          <content>Amid the firestorm, The Food Network dropped Deen, as did Smithfield Foods, one of her key sponsors.</content>
+        </sentence>
+        <sentence id="28">
+          <content>And in another blow, Caesars Entertainment Corp. said Wednesday that it will be ending its relationship with her.</content>
+        </sentence>
+        <sentence id="29">
+          <content>There are questions now over whether other businesses, including QVC and Walmart, may cut ties with the star of Southern cooking.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="30">
+          <content>Caesars operates Deen-themed restaurants at four of its casinos: Horseshoe Southern Indiana, Harrah&amp;apost;s Tunica in Mississippi, Harrah&amp;apost;s Joliet in Illinois and Harrah&amp;apost;s Cherokee in North Carolina.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="31">
+          <content>Deen said she&amp;apost;s thankful that other sponsors have stood by her.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="32">
+          <content>Many fans have flocked to her restaurants in support of Deen.</content>
+        </sentence>
+        <sentence id="33">
+          <content>And advance orders for her new cookbook have surged.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="34">
+          <content>Deen said she&amp;apost;s &amp;quot;distressed&amp;quot; that people whom she&amp;apost;s never heard of are appearing in the media as &amp;quot;experts on who I am.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="35">
+          <content>Asked whether she regrets telling the truth in the deposition, Deen answered, &amp;quot;No.</content>
+        </sentence>
+        <sentence id="36">
+          <content>Because there&amp;apost;s a couple of kinds of people that I don&amp;apost;t like, that I am prejudiced against: ... thieves and liars.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="37">
+          <content>&amp;quot;If there&amp;apost;s anyone out there that has never said something that they wish they could take back, if you&amp;apost;re out there, please pick up that stone and throw it so hard at my head that it kills me,&amp;quot; she said tearfully.</content>
+        </sentence>
+        <sentence id="38">
+          <content>&amp;quot;Please -- I want to meet you.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

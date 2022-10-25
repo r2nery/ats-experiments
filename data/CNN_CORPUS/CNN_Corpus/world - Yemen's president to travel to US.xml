@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2994" link="http://edition.cnn.com/2011/12/24/world/meast/yemen-president/index.html" date_published="2011-12-24 19:21:45" category="world" author="Mohammed Jamjoom, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Yemen&amp;apost;s president to travel to U.S.</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Yemeni President Ali Abdullah Saleh is planning a trip to the United States.</sentence>
+      <sentence id="2" ids_article_sentences="2">He is not seeking treatment for injuries sustained in a June attack, a spokesman says.</sentence>
+      <sentence id="3" ids_article_sentences="5">Last month, Saleh said he would come to New York for medical treatment .</sentence>
+      <sentence id="4" ids_article_sentences="5">He recently signed an agreement to end his 33-year rule.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-13 15:07:44" annotation_time="28.9775">
+      <sentence id="1" ids_highlights="1">Yemen&amp;apost;s embattled president is planning a trip to the United States, a party spokesman said Saturday, even as his country is embroiled in a factional conflict amid protesters&amp;apost; calls for democracy that continue to draw a heavy-handed government response and persistent bloodshed.</sentence>
+      <sentence id="2" ids_highlights="2">President Ali Abdullah Saleh, who has agreed to step down from power after months of national unrest, is not making the trip to seek treatment for injuries sustained from an assault against his presidential palace, the spokesman said.</sentence>
+      <sentence id="5" ids_highlights="3, 4">Last month, U.N. Secretary-General Ban Ki-moon said Saleh had told him he would come to New York for medical treatment after signing an agreement to end his 33-year rule.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Yemen&amp;apost;s embattled president is planning a trip to the United States, a party spokesman said Saturday, even as his country is embroiled in a factional conflict amid protesters&amp;apost; calls for democracy that continue to draw a heavy-handed government response and persistent bloodshed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>President Ali Abdullah Saleh, who has agreed to step down from power after months of national unrest, is not making the trip to seek treatment for injuries sustained from an assault against his presidential palace, the spokesman said.</content>
+        </sentence>
+        <sentence id="3">
+          <content>He was wounded in June in a bomb attack, forcing him to seek treatment in neighboring Saudi Arabia.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>The president wants to &amp;quot;get away from attention, cameras, and allow the unity government to prepare properly for elections,&amp;quot; the spokesman added.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Last month, U.N. Secretary-General Ban Ki-moon said Saleh had told him he would come to New York for medical treatment after signing an agreement to end his 33-year rule.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>A senior state department official also said the president is seeking medical treatment, though no visa has yet been issued.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>It is unclear when Saleh plans to leave for the United States.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>Meanwhile, at least 10 people were killed Saturday when security forces in Yemen&amp;apost;s capital assaulted thousands of demonstrators with gunfire, water cannons, and tear gas, according to eyewitnesses and activists.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>&amp;quot;Everyone here is screaming, blood and tear gas (are) everywhere,&amp;quot; said protester Murad Merali at the scene.</content>
+        </sentence>
+        <sentence id="10">
+          <content>&amp;quot;Saleh&amp;apost;s forces are shooting with snipers.</content>
+        </sentence>
+        <sentence id="11">
+          <content>They are blocking streets and attacking women, tearing their hijabs.</content>
+        </sentence>
+        <sentence id="12">
+          <content>It&amp;apost;s a war zone out here, smoke is everywhere.</content>
+        </sentence>
+        <sentence id="13">
+          <content>Soldiers also have batons.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>CNN cannot independently confirm Merali&amp;apost;s account.</content>
+        </sentence>
+        <sentence id="15">
+          <content>A senior official in the vice president&amp;apost;s office told CNN that security forces were told to evacuate the area of the protests and not harm the marchers in any way.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="16">
+          <content>A government investigation into the apparent clashes has been ordered.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="17">
+          <content>The country has been wracked with protests throughout the year, with demonstrators and rival factions demanding the departure of Saleh and calling for elections.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="18">
+          <content>Opposition to Saleh&amp;apost;s rule has since led to a presidential power-transfer agreement.</content>
+        </sentence>
+        <sentence id="19">
+          <content>Under the November deal, brokered by the six-nation Gulf Cooperation Council, the president agreed to transfer power into the hands of a coalition government.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="20">
+          <content>Saleh, while unpopular with many Yemenis, has been an ally of the United States in the war against terrorists, particularly al Qaeda in the Arabian Peninsula.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

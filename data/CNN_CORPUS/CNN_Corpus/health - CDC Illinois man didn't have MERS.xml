@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="195" link="http://www.cnn.com/2014/05/28/health/mers-illinois/index.html" date_published="2014-05-28 18:15:31" category="health" author="Elizabeth Landau and William Hudson, CNN" highlights_mapped="true" mapping_error="false">
+  <title>CDC: Illinois man didn&amp;apost;t have MERS</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Tests conclude Illinois businessman did not have MERS after all, CDC says.</sentence>
+      <sentence id="2" ids_article_sentences="5">He had met with first confirmed MERS patient in the United States.</sentence>
+      <sentence id="3" ids_article_sentences="3">Two confirmed cases of MERS have been imported into the U.S.</sentence>
+      <sentence id="4" ids_article_sentences="13">MERS is a coronavirus, the same group of viruses as the common cold.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-20 13:35:58" annotation_time="33.98367">
+      <sentence id="1" ids_highlights="1">An Illinois businessman believed to have had Middle East Respiratory Syndrome, or MERS, was not infected with the virus, Centers for Disease Control and Prevention officials said Wednesday.</sentence>
+      <sentence id="3" ids_highlights="3">Two confirmed cases of MERS have been imported into the country.</sentence>
+      <sentence id="5" ids_highlights="2">He had met with the first confirmed MERS patient in the United States, an American resident who had traveled from Saudi Arabia to Indiana.</sentence>
+      <sentence id="13" ids_highlights="4">MERS is a coronavirus, the same group of viruses as the common cold.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>An Illinois businessman believed to have had Middle East Respiratory Syndrome, or MERS, was not infected with the virus, Centers for Disease Control and Prevention officials said Wednesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The finding means there has been no confirmed transmission of the virus within the United States.</content>
+        </sentence>
+        <sentence id="3">
+          <content>Two confirmed cases of MERS have been imported into the country.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>On May 17, local, state and federal health officials reported preliminary tests showed that the businessman appeared to have tested positive for MERS.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>He had met with the first confirmed MERS patient in the United States, an American resident who had traveled from Saudi Arabia to Indiana.</content>
+        </sentence>
+        <sentence id="6">
+          <content>The face-to-face meeting included a handshake with the infected patient.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>Public health officials said they became concerned about the potential for a more contagious virus when preliminary testing indicated MERS may have been transmitted during that meeting.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>However, after more extensive blood tests, the &amp;quot;CDC has concluded that the Illinois resident was not previously infected with MERS-CoV,&amp;quot; according to the agency.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>As of Wednesday, the World Health Organization has received reports of 636 laboratory-confirmed cases of infection with MERS.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>The first instance of MERS in the United States occurred in the patient who was working as a health care provider in Saudi Arabia and then traveled to Indiana.</content>
+        </sentence>
+        <sentence id="11">
+          <content>In the second case, a health care provider who lives and works in Saudi Arabia received a MERS diagnosis in Florida.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>The Florida and Indiana cases are not linked, said Dr. Anne Schuchat, director of the CDC&amp;apost;s National Center for Immunization and Respiratory Diseases.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>MERS is a coronavirus, the same group of viruses as the common cold.</content>
+        </sentence>
+        <sentence id="14">
+          <content>It attacks the respiratory system, according to the CDC.</content>
+        </sentence>
+        <sentence id="15">
+          <content>Symptoms can lead to pneumonia or kidney failure.</content>
+        </sentence>
+        <sentence id="16">
+          <content>It was first found in the Arabian Peninsula in 2012.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="17">
+          <content>Experts believe the MERS coronavirus requires close and sustained contact, such as between family members or health care workers, to spread between humans.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;While we never want to cause undue concern among those who have had contact with a MERS patient, it is our job to move quickly when there is a potential public health threat,&amp;quot; the CDC&amp;apost;s Dr. David Swerdlow said in a statement.</content>
+        </sentence>
+        <sentence id="19">
+          <content>&amp;quot;Because there is still much we don&amp;apost;t know about this virus, we will continue to err on the side of caution when responding to and investigating cases of MERS in this country.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

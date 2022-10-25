@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="208" link="http://www.cnn.com/2012/07/26/health/colorado-hospitals-insurance/index.html" date_published="2012-07-26 16:28:54" category="health" author="Elizabeth Landau, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Colorado hospitals chip in for shooting victims&amp;apost; care</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="10">1.5 million people in Colorado are uninsured or underinsured.</sentence>
+      <sentence id="2" ids_article_sentences="16">In the state, 28% of adults ages 19 to 34 are uninsured.</sentence>
+      <sentence id="3" ids_article_sentences="21">Legally, hospitals cannot turn away patients who can&amp;apost;t pay in emergencies.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-08 06:47:53" annotation_time="660.34">
+      <sentence id="10" ids_highlights="1">There are more than 1.5 million people in Colorado who were uninsured or underinsured as of November, according to the Colorado Health Access Survey.</sentence>
+      <sentence id="16" ids_highlights="2">Those between 19 and 34 years old are the population group most likely to be uninsured in the state, with 28% of them lacking insurance, according to the survey.</sentence>
+      <sentence id="21" ids_highlights="3">Legally, hospitals cannot turn uninsured patients away in emergency situations, so it&amp;apost;s not surprising that this would apply for Colorado shooting victims, Calonge said.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>With many patients still being cared for after last week&amp;apost;s Colorado movie theater shootings, one burden is being lifted by some of the hospitals: medical expenses.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Children&amp;apost;s Hospital Colorado said it will use its charity care program and donations to cover medical expenses for victims of the shooting who do not have insurance.</content>
+        </sentence>
+        <sentence id="3">
+          <content>Victims who do have insurance will have their co-pays and deductible-related expenses waived.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>&amp;quot;We are committed to supporting these families as they heal,&amp;quot; Elizabeth Whitehead, spokeswoman for Children&amp;apost;s Hospital Colorado, said in a statement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>HealthONE, the health-care system that includes the Medical Center of Aurora and Swedish Medical Center, which both are treating patients from the theater shooting, is also taking measures to alleviate victims&amp;apost; costs.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>The health system will &amp;quot;eliminate personal financial responsibility for hospital charges as appropriate to each patient and the circumstances these individuals find themselves in&amp;quot; with regard to the shooting victims, according to a statement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>Denver Health issued a statement saying that the hospital discounts bills for all patients unable to pay for co-pays and deductibles by 70%, following Colorado state law.</content>
+        </sentence>
+        <sentence id="8">
+          <content>Each case is evaluated individually.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Almost half of all of the hospital&amp;apost;s patients are uninsured.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>There are more than 1.5 million people in Colorado who were uninsured or underinsured as of November, according to the Colorado Health Access Survey.</content>
+        </sentence>
+        <sentence id="11">
+          <content>This represents nearly 30% of people who live in the state.</content>
+        </sentence>
+        <sentence id="12">
+          <content>Underinsured means people have significant out-of-pocket medical costs despite carrying insurance.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>The most-often reported reason for not having health insurance is high cost, the survey found.</content>
+        </sentence>
+        <sentence id="14">
+          <content>Not having access to insurance sponsored by employers, and the loss or transition of jobs, were also frequently mentioned.</content>
+        </sentence>
+        <sentence id="15">
+          <content>Fewer employers are now providing health insurance, given that the percentage of Coloradans who got insurance through work was 58%, down from 64% in 2008-09.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="16">
+          <content>Those between 19 and 34 years old are the population group most likely to be uninsured in the state, with 28% of them lacking insurance, according to the survey.</content>
+        </sentence>
+        <sentence id="17">
+          <content>Many victims of the Colorado theater shooting are in this age range.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="18">
+          <content>Some find themselves uninsured because they don&amp;apost;t have coverage through work, but others make the conscious decision to not buy insurance because they don&amp;apost;t have any major illnesses or medical needs, said Dr. Ned Calonge, president and CEO of the Colorado Trust, which administers the health survey every other year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;There is a bit of a gamble in saying, &amp;apost;I&amp;apost;m young and healthy,&amp;apost; &amp;quot; Calonge said.</content>
+        </sentence>
+        <sentence id="20">
+          <content>&amp;quot;The reality is, you&amp;apost;re just one bad day away from a major hospitalization.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="21">
+          <content>Legally, hospitals cannot turn uninsured patients away in emergency situations, so it&amp;apost;s not surprising that this would apply for Colorado shooting victims, Calonge said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="22">
+          <content>But extending additional resources for victims, including those who do have insurance, is philanthropic.</content>
+        </sentence>
+        <sentence id="23">
+          <content>It will be more of a challenge for hospitals financially if they decide to cover follow-up care for shooting victims, since they&amp;apost;re not bound by law to do so and there&amp;apost;s no obvious source of money for it, he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="24">
+          <content>&amp;quot;I&amp;apost;m proud of the medical community.</content>
+        </sentence>
+        <sentence id="25">
+          <content>I&amp;apost;m proud of our larger community with our response, how quickly we stepped up to the plate, in view of this senseless tragedy,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="26">
+          <content>He praised hospitals for making sure patients could be treated &amp;quot;without worrying about who&amp;apost;s going to pay for it.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

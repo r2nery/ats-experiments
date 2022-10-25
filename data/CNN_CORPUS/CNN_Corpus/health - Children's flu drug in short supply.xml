@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="200" link="http://www.cnn.com/2013/01/11/health/childrens-tamiflu-shortage/index.html?iid=article_sidebar" date_published="2013-01-11 18:38:12" category="health" author="Jen Christensen, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Children&amp;apost;s flu drug in short supply</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">There are temporary delays in new shipments of Tamiflu, the drug maker says.</sentence>
+      <sentence id="2" ids_article_sentences="6">This is the only flu drug approved for infants.</sentence>
+      <sentence id="3" ids_article_sentences="15">Pharmacists can make a compound with the capsule version, which is in good supply.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-12 12:14:45" annotation_time="76.51034">
+      <sentence id="2" ids_highlights="1">Genentech, which makes the antiviral known as Tamiflu Oral Suppression (Tamiflu OS), the liquid version of the drug, says there have been temporary delays in new shipments.</sentence>
+      <sentence id="6" ids_highlights="2">It is the only flu drug for infants approved by the Food and Drug Administration.</sentence>
+      <sentence id="15" ids_highlights="3">A pharmacist, for instance, would be able to take the capsule version of the drug and suspend it in Ora-Sweet to make a liquid version of the drug.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Parents of young children who get the flu may have a hard time finding an antiviral drug to help treat them.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Genentech, which makes the antiviral known as Tamiflu Oral Suppression (Tamiflu OS), the liquid version of the drug, says there have been temporary delays in new shipments.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;We experienced an increase in demand due to a higher prevalence of influenza Type B in the season,&amp;quot; Genentech spokeswoman Tara Iannuccillo said in an e-mail.</content>
+        </sentence>
+        <sentence id="4">
+          <content>&amp;quot;We are working to expedite new shipments of Tamiflu OS to distributors as new supplies become available.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Tamilflu OS is typically prescribed for children younger than 13 or for people who have trouble swallowing pills.</content>
+        </sentence>
+        <sentence id="6">
+          <content>It is the only flu drug for infants approved by the Food and Drug Administration.</content>
+        </sentence>
+        <sentence id="7">
+          <content>The FDA granted that approval for infant use in December.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>Some 30 million children worldwide -- 6.9 million in the United States -- have received a prescription for it since Tamiflu was first approved in the United States over 13 years ago, according to Genentech.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Given within the first couple of days of infection, it can ease flu symptoms and shorten the duration of the illness.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>There have been some shortages of the drug at pharmacies, said Mike DeAngelis, a spokesman for CVS Caremark Corp.</content>
+        </sentence>
+        <sentence id="11">
+          <content>However, there is an alternative for children, he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;Patients can speak to their pharmacist about the option of having the pharmacy compound Tamiflu capsules into a liquid,&amp;quot; DeAngelis said in an e-mail.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>Walgreens spokesman Jim Cohn said it, too, has experienced some shortages.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>But pharmacists can &amp;quot;compound as needed to continue filling prescriptions for the liquid Tamiflu to meet the needs of patients during this flu season,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>A pharmacist, for instance, would be able to take the capsule version of the drug and suspend it in Ora-Sweet to make a liquid version of the drug.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Ora-Sweet is a sweet and thick syrup that is the base of many liquid versions of children&amp;apost;s medicine.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="17">
+          <content>There is an adequate supply of the capsule form of Tamiflu, according to the manufacturer.</content>
+        </sentence>
+        <sentence id="18">
+          <content>There have been shortages of the capsule in the past, particularly during the H1N1 pandemic in 2009, and another shortage in 2011.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;The FDA is continuing to monitor this closely and will post information on our website.</content>
+        </sentence>
+        <sentence id="20">
+          <content>We are also working with the company to increase supplies,&amp;quot; said Sarah Clark-Lynn, a spokewoman from the FDA Office of Public Affairs.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="21">
+          <content>If you have the flu, how are you treating it?</content>
+        </sentence>
+        <sentence id="22">
+          <content>Send photos of your flu survival kits.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

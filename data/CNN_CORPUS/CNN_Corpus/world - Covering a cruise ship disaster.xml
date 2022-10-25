@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2144" link="http://edition.cnn.com/2012/07/04/world/covering-costa-concordia/index.html?iid=article_sidebar" date_published="2012-07-04 11:21:59" category="world" author="Dan Rivers, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Covering a cruise ship disaster</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="6">Writer on seeing Concordia: It looked like an apartment block lying in the sea.</sentence>
+      <sentence id="2" ids_article_sentences="14">CNN documentary digs into why the ship capsized January 13 and the chaos on board the cruise ship.</sentence>
+      <sentence id="3" ids_article_sentences="17">The documentary examines questions about the cruise industry as a whole.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-26 18:53:24" annotation_time="46.215668">
+      <sentence id="6" ids_highlights="1">It was like looking at an apartment block lying in the sea: a ship, yes, but everything about its orientation was wrong.</sentence>
+      <sentence id="14" ids_highlights="2">Since the night the Concordia capsized January 13, CNN has continued to dig to figure out what happened aboard the ship and why.</sentence>
+      <sentence id="17" ids_highlights="3">From a broad perspective, CNN examined the cruise industry as a whole.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>I first saw the Costa Concordia glinting in the winter sun from 20,000 feet as my flight from London made a slow descent on its way to Rome&amp;apost;s Fiumicino airport.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>It seemed a distant blade of light lying next to a speck of an island.</content>
+        </sentence>
+        <sentence id="3">
+          <content>A surge of gasps and chatter reverberated around the cabin as Italian passengers craned their necks to see it.</content>
+        </sentence>
+        <sentence id="4">
+          <content>As I later approached the island on a ferry, the ship again came into view almost as soon as the ferry left the mainland.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>As we closed in, the vast scale of the cruise ship became clear.</content>
+        </sentence>
+        <sentence id="6">
+          <content>It was like looking at an apartment block lying in the sea: a ship, yes, but everything about its orientation was wrong.</content>
+        </sentence>
+        <sentence id="7">
+          <content>She lay on her side, the hull obscenely exposed to our widening eyes.</content>
+        </sentence>
+        <sentence id="8">
+          <content>The ferry passed within a couple hundred feet as we entered the main port of Giglio Island and the huge chunk of rock, the size of a car, could clearly be seen embedded in her hull.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="9">
+          <content>Over the next two weeks, I spent a large part of every day staring at the wreck -- and yet still it surprised me.</content>
+        </sentence>
+        <sentence id="10">
+          <content>Each morning my crew and I would descend the vertiginous road from our hotel, round a sharp bend and there was this colossal ship on her side.</content>
+        </sentence>
+        <sentence id="11">
+          <content>From the top of the island, the Costa Concordia looked exactly like a bath-time toy, carelessly capsized by a child&amp;apost;s hand.</content>
+        </sentence>
+        <sentence id="12">
+          <content>But this surreal tableau was etched in epic proportions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="13">
+          <content>Now that the frantic first reports of what happened are behind us, CNN has built up a much more comprehensive view of what went wrong, thanks to documents, congressional testimony and interviews with dozens of experts, crew members, witnesses and passengers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="14">
+          <content>Since the night the Concordia capsized January 13, CNN has continued to dig to figure out what happened aboard the ship and why.</content>
+        </sentence>
+        <sentence id="15">
+          <content>We spoke to officials with Costa Cruise Lines as well as Italian investigators examining the incident.</content>
+        </sentence>
+        <sentence id="16">
+          <content>We&amp;apost;ve also spoken with officials with the International Maritime Organization, the body that oversees cruise safety.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="17">
+          <content>From a broad perspective, CNN examined the cruise industry as a whole.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="18">
+          <content>What we found will be unsettling for anyone who has taken or is thinking of taking a cruise: allegations of inadequate safety briefings and chaos in the minutes after the collision; a captain who failed to sound a general alarm for almost an hour, meaning vital, lifesaving assemblies at lifeboat stations did not take place; and a crew that felt unable to act without clear orders from their captain.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="19">
+          <content>In some cases, lifeboats were not able to be launched because by the time the general alarm finally sounded at 10:48 p.m., the ship was leaning over too far to allow the lifeboats to launch.</content>
+        </sentence>
+        <sentence id="20">
+          <content>Thirty-two people died in the Concordia disaster.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="21">
+          <content>We learned that 6,000 tons of water entered the Concordia in just 20 minutes.</content>
+        </sentence>
+        <sentence id="22">
+          <content>For a ship three times the weight of the Titanic, it was fatal.</content>
+        </sentence>
+        <sentence id="23">
+          <content>Almost immediately, key equipment in the engine room was knocked out.</content>
+        </sentence>
+        <sentence id="24">
+          <content>The ship&amp;apost;s backup generators were flooded.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="25">
+          <content>Computers that monitor the ship&amp;apost;s stability were also compromised.</content>
+        </sentence>
+        <sentence id="26">
+          <content>CNN&amp;apost;s documentary team obtained remarkable footage from the ship&amp;apost;s bridge that revealed Captain Francesco Schettino grappling with a situation that was already out of control.</content>
+        </sentence>
+        <sentence id="27">
+          <content>His ship had a hole below the waterline the width of a football field.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="28">
+          <content>We also found compelling evidence that Schettino&amp;apost;s decision to &amp;quot;salute&amp;quot; the island of Giglio by sailing perilously close caused the accident, but also that this wasn&amp;apost;t the first time the Costa Concordia had sailed within a few hundred yards of the rocks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="29">
+          <content>Schettino is still awaiting trial on multiple charges of manslaughter, causing a shipwreck and abandoning ship.</content>
+        </sentence>
+        <sentence id="30">
+          <content>Schettino escaped the ship on a lifeboat while the ship was capsizing.</content>
+        </sentence>
+        <sentence id="31">
+          <content>A transcript of his tense exchange with Port Authority officials can be read here, including their order to him to &amp;quot;Get on board, damn it!&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="32">
+          <content>Perhaps the most chilling account of the night in CNN&amp;apost;s documentary comes from a family on board - Californians Dean and Georgia Ananias and their daughters Valerie and Cindy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="33">
+          <content>Their story, together with previously unseen footage of that night, gives a real sense of the terror of those trying to escape.</content>
+        </sentence>
+        <sentence id="34">
+          <content>The Ananiases were among the last to get off the Concordia alive.</content>
+        </sentence>
+        <sentence id="35">
+          <content>They are cruise veterans, having been on more than 60 voyages, but now they say they won&amp;apost;t step foot on another ship until the industry changes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="36">
+          <content>Some lessons have already being learned.</content>
+        </sentence>
+        <sentence id="37">
+          <content>Costa is introducing new rules about safety briefings, mandatory additional life jackets and, crucially, new equipment is being introduced to accurately track all of Costa&amp;apost;s ships and notify headquarters if the captain decides to take a detour.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="38">
+          <content>I&amp;apost;ve never been on a cruise; I love the sea and I&amp;apost;m a keen sailor.</content>
+        </sentence>
+        <sentence id="39">
+          <content>But knowing all the concerns and questions about safety aboard cruise ships, I&amp;apost;d want answers before I took a cruise.</content>
+        </sentence>
+        <sentence id="40">
+          <content>I would feel more comfortable when the reforms that the International Maritime Organization are recommending are made mandatory.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

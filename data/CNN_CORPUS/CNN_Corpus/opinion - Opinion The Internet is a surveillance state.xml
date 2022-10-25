@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="916" link="http://www.cnn.com/2013/03/16/opinion/schneier-internet-surveillance" date_published="2013-03-16 15:39:41" category="opinion" author="Bruce Schneier, Special to CNN" highlights_mapped="true" mapping_error="false">
+  <title>Opinion: The Internet is a surveillance state</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="10">Bruce Schneier: Whether we like it or not, we&amp;apost;re being tracked all the time on the Internet .</sentence>
+      <sentence id="2" ids_article_sentences="23">Schneier: Our surveillance state is efficient beyond the wildest dreams of George Orwell .</sentence>
+      <sentence id="3" ids_article_sentences="41">He says governments and corporations are working together to keep things that way.</sentence>
+      <sentence id="4" ids_article_sentences="46">Schneier: Slap-on-the-wrist fines notwithstanding, no one is agitating for better privacy laws .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-07-25 20:28:12" annotation_time="52.873997">
+      <sentence id="10" ids_highlights="1">Whether we admit it to ourselves or not, and whether we like it or not, we&amp;apost;re being tracked all the time.</sentence>
+      <sentence id="23" ids_highlights="2">This is what a surveillance state looks like, and it&amp;apost;s efficient beyond the wildest dreams of George Orwell.</sentence>
+      <sentence id="41" ids_highlights="3">In today&amp;apost;s world, governments and corporations are working together to keep things that way.</sentence>
+      <sentence id="46" ids_highlights="4">Slap-on-the-wrist fines notwithstanding, no one is agitating for better privacy laws.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>I&amp;apost;m going to start with three data points.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>One: Some of the Chinese military hackers who were implicated in a broad set of attacks against the U.S. government and corporations were identified because they accessed Facebook from the same network infrastructure they used to carry out their attacks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Two: Hector Monsegur, one of the leaders of the LulzSac hacker movement, was identified and arrested last year by the FBI.</content>
+        </sentence>
+        <sentence id="4">
+          <content>Although he practiced good computer security and used an anonymous relay service to protect his identity, he slipped up.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>And three: Paula Broadwell,who had an affair with CIA director David Petraeus, similarly took extensive precautions to hide her identity.</content>
+        </sentence>
+        <sentence id="6">
+          <content>She never logged in to her anonymous e-mail service from her home network.</content>
+        </sentence>
+        <sentence id="7">
+          <content>Instead, she used hotel and other public networks when she e-mailed him.</content>
+        </sentence>
+        <sentence id="8">
+          <content>The FBI correlated hotel registration data from several different hotels -- and hers was the common name.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="9">
+          <content>The Internet is a surveillance state.</content>
+        </sentence>
+        <sentence id="10">
+          <content>Whether we admit it to ourselves or not, and whether we like it or not, we&amp;apost;re being tracked all the time.</content>
+        </sentence>
+        <sentence id="11">
+          <content>Google tracks us, both on its pages and on other pages it has access to.</content>
+        </sentence>
+        <sentence id="12">
+          <content>Facebook does the same; it even tracks non-Facebook users.</content>
+        </sentence>
+        <sentence id="13">
+          <content>Apple tracks us on our iPhones and iPads.</content>
+        </sentence>
+        <sentence id="14">
+          <content>One reporter used a tool called Collusion to track who was tracking him; 105 companies tracked his Internet use during one 36-hour period.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="15">
+          <content>Increasingly, what we do on the Internet is being combined with other data about us.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Unmasking Broadwell&amp;apost;s identity involved correlating her Internet activity with her hotel stays.</content>
+        </sentence>
+        <sentence id="17">
+          <content>Everything we do now involves computers, and computers produce data as a natural by-product.</content>
+        </sentence>
+        <sentence id="18">
+          <content>Everything is now being saved and correlated, and many big-data companies make money by building up intimate profiles of our lives from a variety of sources.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="19">
+          <content>Facebook, for example, correlates your online behavior with your purchasing habits offline.</content>
+        </sentence>
+        <sentence id="20">
+          <content>And there&amp;apost;s more.</content>
+        </sentence>
+        <sentence id="21">
+          <content>There&amp;apost;s location data from your cell phone, there&amp;apost;s a record of your movements from closed-circuit TVs.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="22">
+          <content>This is ubiquitous surveillance: All of us being watched, all the time, and that data being stored forever.</content>
+        </sentence>
+        <sentence id="23">
+          <content>This is what a surveillance state looks like, and it&amp;apost;s efficient beyond the wildest dreams of George Orwell.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="24">
+          <content>Sure, we can take measures to prevent this.</content>
+        </sentence>
+        <sentence id="25">
+          <content>We can limit what we search on Google from our iPhones, and instead use computer web browsers that allow us to delete cookies.</content>
+        </sentence>
+        <sentence id="26">
+          <content>We can use an alias on Facebook.</content>
+        </sentence>
+        <sentence id="27">
+          <content>We can turn our cell phones off and spend cash.</content>
+        </sentence>
+        <sentence id="28">
+          <content>But increasingly, none of it matters.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="29">
+          <content>There are simply too many ways to be tracked.</content>
+        </sentence>
+        <sentence id="30">
+          <content>The Internet, e-mail, cell phones, web browsers, social networking sites, search engines: these have become necessities, and it&amp;apost;s fanciful to expect people to simply refuse to use them just because they don&amp;apost;t like the spying, especially since the full extent of such spying is deliberately hidden from us and there are few alternatives being marketed by companies that don&amp;apost;t spy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="31">
+          <content>This isn&amp;apost;t something the free market can fix.</content>
+        </sentence>
+        <sentence id="32">
+          <content>We consumers have no choice in the matter.</content>
+        </sentence>
+        <sentence id="33">
+          <content>All the major companies that provide us with Internet services are interested in tracking us.</content>
+        </sentence>
+        <sentence id="34">
+          <content>Visit a website and it will almost certainly know who you are; there are lots of ways to be tracked without cookies.</content>
+        </sentence>
+        <sentence id="35">
+          <content>Cellphone companies routinely undo the web&amp;apost;s privacy protection.</content>
+        </sentence>
+        <sentence id="36">
+          <content>One experiment at Carnegie Mellon took real-time videos of students on campus and was able to identify one-third of them by comparing their photos with publicly available tagged Facebook photos.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="37">
+          <content>Maintaining privacy on the Internet is nearly impossible.</content>
+        </sentence>
+        <sentence id="38">
+          <content>If you forget even once to enable your protections, or click on the wrong link, or type the wrong thing, and you&amp;apost;ve permanently attached your name to whatever anonymous service you&amp;apost;re using.</content>
+        </sentence>
+        <sentence id="39">
+          <content>Monsegur slipped up once, and the FBI got him.</content>
+        </sentence>
+        <sentence id="40">
+          <content>If the director of the CIA can&amp;apost;t maintain his privacy on the Internet, we&amp;apost;ve got no hope.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="41">
+          <content>In today&amp;apost;s world, governments and corporations are working together to keep things that way.</content>
+        </sentence>
+        <sentence id="42">
+          <content>Governments are happy to use the data corporations collect -- occasionally demanding that they collect more and save it longer -- to spy on us.</content>
+        </sentence>
+        <sentence id="43">
+          <content>And corporations are happy to buy data from governments.</content>
+        </sentence>
+        <sentence id="44">
+          <content>Together the powerful spy on the powerless, and they&amp;apost;re not going to give up their positions of power, despite what the people want.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="45">
+          <content>Fixing this requires strong government will, but they&amp;apost;re just as punch-drunk on data as the corporations.</content>
+        </sentence>
+        <sentence id="46">
+          <content>Slap-on-the-wrist fines notwithstanding, no one is agitating for better privacy laws.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="47">
+          <content>So, we&amp;apost;re done.</content>
+        </sentence>
+        <sentence id="48">
+          <content>Welcome to a world where Google knows exactly what sort of porn you all like, and more about your interests than your spouse does.</content>
+        </sentence>
+        <sentence id="49">
+          <content>Welcome to a world where your cell phone company knows exactly where you are all the time.</content>
+        </sentence>
+        <sentence id="50">
+          <content>Welcome to the end of private conversations, because increasingly your conversations are conducted by e-mail, text, or social networking sites.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="51">
+          <content>And welcome to a world where all of this, and everything else that you do or is done on a computer, is saved, correlated, studied, passed around from company to company without your knowledge or consent; and where the government accesses it at will without a warrant.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="52">
+          <content>Welcome to an Internet without privacy, and we&amp;apost;ve ended up here with hardly a fight.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="53">
+          <content>Follow @CNNOpinion on Twitter.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="54">
+          <content>Join us at Facebook/CNNOpinion.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

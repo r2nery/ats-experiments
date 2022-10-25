@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="253" link="http://www.cnn.com/2012/05/17/health/flesh-eating-bacteria-explainer/index.html" date_published="2012-05-17 04:07:04" category="health" author="Melissa Gray, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Flesh-eating condition caused by common bacteria</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">In necrotizing fasciitis, the bug attacks healthy tissue and destroys it.</sentence>
+      <sentence id="2" ids_article_sentences="9">The immune system is usually able to fight off infection.</sentence>
+      <sentence id="3" ids_article_sentences="12">Occasionally the bacteria find their way into the bloodstream.</sentence>
+      <sentence id="4" ids_article_sentences="22">Fewer than 250 cases occur every year, but it&amp;apost;s impossible to say for sure.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-12 12:17:22" annotation_time="31.523336">
+      <sentence id="3" ids_highlights="1">Many different types of bacteria cause the condition known as necrotizing fasciitis, in which the bug attacks healthy tissue and destroys it.</sentence>
+      <sentence id="9" ids_highlights="2">The bacteria that can cause the condition exist normally in the environment and are even found in the body, but a person&amp;apost;s immune system is usually able to fight off infection.</sentence>
+      <sentence id="12" ids_highlights="3">Occasionally, however, the bacteria find their way into the bloodstream.</sentence>
+      <sentence id="22" ids_highlights="4">Schaffner estimates fewer than 250 cases occur every year, though it is impossible to say for sure because by law the reporting of such cases is not required.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Flesh-eating bacteria are common in the environment, but they rarely infect humans.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>When they do cause an infection, they attack the body quickly, and doctors must act immediately to prevent their spread.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Many different types of bacteria cause the condition known as necrotizing fasciitis, in which the bug attacks healthy tissue and destroys it.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>One of the bacteria is Aeromonas hydrophila, which caused the infection in Georgia student Aimee Copeland.</content>
+        </sentence>
+        <sentence id="5">
+          <content>The bacteria entered her body through a gash in her leg, which she suffered in a May 1 zip line accident.</content>
+        </sentence>
+        <sentence id="6">
+          <content>Doctors have already removed part of her abdomen, amputated a leg, and expect to remove her fingers to try to halt its spread.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>Another is Group A Strep, the same bacteria that cause strep throat.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>Many other bacteria -- especially those that thrive in oxygen-deprived environments, like inside the human body -- can also cause necrotizing fasciitis, said Dr. William Schaffner, chairman of the Department of Preventive Medicine at the Vanderbilt University Medical Center.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>The bacteria that can cause the condition exist normally in the environment and are even found in the body, but a person&amp;apost;s immune system is usually able to fight off infection.</content>
+        </sentence>
+        <sentence id="10">
+          <content>Group A Strep, for instance, is often in the throat but exists in a small enough number not to cause problems.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>Even if swallowed, the worst a person may experience is vomiting or diarrhea.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>Occasionally, however, the bacteria find their way into the bloodstream.</content>
+        </sentence>
+        <sentence id="13">
+          <content>That can happen through a cut or abrasion, as was the case with Copeland.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>But sometimes blunt trauma can lead to infection.</content>
+        </sentence>
+        <sentence id="15">
+          <content>If the trauma causes a bit of internal bleeding, even just a black-and-blue mark, the bacteria inside the body sees the blood and decides to attack it.</content>
+        </sentence>
+        <sentence id="16">
+          <content>They lodge in the damaged tissue and quickly spread, Schaffner says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="17">
+          <content>Such was the case with South Carolina woman Lana Kuykendall.</content>
+        </sentence>
+        <sentence id="18">
+          <content>After delivering twins May 7 and returning home, she noticed a bruise on the back of her leg that grew in size as she watched, her husband said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="19">
+          <content>Doctors have cut out skin and tissue from both of Kuykendall&amp;apost;s legs and put her on antibiotics.</content>
+        </sentence>
+        <sentence id="20">
+          <content>She is in critical condition and on a ventilator, but her husband said she will likely be OK.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="21">
+          <content>Cases of necrotizing fasciitis are rare.</content>
+        </sentence>
+        <sentence id="22">
+          <content>Schaffner estimates fewer than 250 cases occur every year, though it is impossible to say for sure because by law the reporting of such cases is not required.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="23">
+          <content>Researchers only recently began trying to collect numbers, the FDA says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="24">
+          <content>In addition, medical professionals are so good at treating wounds that often, even if the body is infected with flesh-eating bacteria, the wound is cleaned up and rid of the bug before it does any damage, Schaffner says.</content>
+        </sentence>
+        <sentence id="25">
+          <content>Necrotizing fasciitis is never diagnosed in such cases.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="26">
+          <content>When doctors do diagnose the condition, they must act quickly.</content>
+        </sentence>
+        <sentence id="27">
+          <content>Surgeons must cut out more tissue than they would otherwise -- cutting even healthy tissue to go beyond the visible infection.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="28">
+          <content>And after surgery, surgeons must repeatedly check the area to see whether the infection has spread.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="29">
+          <content>Schaffner says people who suffer cuts should pay attention to any pain coming from a closed wound, as well as redness or drainage, and report such symptoms to a doctor right away.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

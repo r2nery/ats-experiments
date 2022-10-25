@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="851" link="http://cnn.com/2013/06/19/opinion/ghitis-turkey-protests/index.html" date_published="2013-06-19 21:50:00" category="opinion" author="Frida Ghitis, Special to CNN" highlights_mapped="true" mapping_error="false">
+  <title>Opinion: A new age of protests</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="19, 1, 17">Frida Ghitis: A massive protest can start any time -- just look at Turkey and Brazil .</sentence>
+      <sentence id="2" ids_article_sentences="31, 26">Ghitis: In this era of connectivity, a little complaint can ignite raging fire of discontent .</sentence>
+      <sentence id="3" ids_article_sentences="39">She says these recent protests started over smaller issues, not over tyranny .</sentence>
+      <sentence id="4" ids_article_sentences="53">Ghitis: Technology has made it harder for governments to shape what people believe in.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-19 21:39:09" annotation_time="66.612">
+      <sentence id="1" ids_highlights="1">Presidents, prime ministers and assorted rulers, consider that you have been warned: A massive protest can start at any time, seemingly over any issue, and can grow to a size and intensity no one expected.</sentence>
+      <sentence id="17" ids_highlights="1">A similar image emerged from Brazil.</sentence>
+      <sentence id="19" ids_highlights="1">Just like Turkey, no one could have predicted the turn of events in Brazil.</sentence>
+      <sentence id="26" ids_highlights="2">In this era of connectivity, a small complaint can explode.</sentence>
+      <sentence id="31" ids_highlights="2">It&amp;apost;s impossible to predict which issue will find flammable material hiding in shared resentments and ignite raging fires of discontent.</sentence>
+      <sentence id="39" ids_highlights="3">These new protests start over smaller issues -- not over tyranny or basic democratic rights.</sentence>
+      <sentence id="53" ids_highlights="4">New technology may make it easier for governments to learn what the people are thinking, but it makes it harder for them to shape what the people believe.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Presidents, prime ministers and assorted rulers, consider that you have been warned: A massive protest can start at any time, seemingly over any issue, and can grow to a size and intensity no one expected.</content>
+        </sentence>
+        <sentence id="2">
+          <content>Your country&amp;apost;s image, your own prestige, could risk unraveling as you face the wrath of the people.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>The newest iconic images from Turkey and from Brazil -- two countries that have promoted themselves as models to emulate -- include shocking scenes of police brutality, of government clampdown against peaceful protesters.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>We have entered a new age of protests.</content>
+        </sentence>
+        <sentence id="5">
+          <content>While politics remain intensely local, individuals are more interconnected.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>In Turkey, a small protest over plans to destroy one of Istanbul&amp;apost;s last remaining parks exploded in size and intensity after a harsh police crackdown shocked the nation.</content>
+        </sentence>
+        <sentence id="7">
+          <content>The sight of police spraying giant clouds of tear gas and beating peaceful protesters touched a nerve, inflaming simmering concerns about an increasingly authoritarian regime.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>In a matter of days, waves of demonstrations, the biggest in decades, spread across the country.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Prime Minister Recep Tayip Erdogan, who has not lacked for self-confidence over his 10 years in power, came under sharp criticism over his response to the protests.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>Has he grown arrogant with power?</content>
+        </sentence>
+        <sentence id="11">
+          <content>Having led his party to consecutive victories at the polls, sucking the air out of the powerful military, and overseeing Turkey&amp;apost;s rise to new heights of prosperity and international assertiveness, all of a sudden he looked less awe-inspiring.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>Erdogan may have faced down world leaders, but when he faced his own people he tarnished his image.</content>
+        </sentence>
+        <sentence id="13">
+          <content>He is now accused by many at home and abroad of lacking in democratic instincts.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="14">
+          <content>The country has new national icons.</content>
+        </sentence>
+        <sentence id="15">
+          <content>The newest is the &amp;quot;Standing Man,&amp;quot; a protester who steadfastly held his ground amid the chaos, standing for hours gazing at a picture of Mustafa Kemal Ataturk.</content>
+        </sentence>
+        <sentence id="16">
+          <content>There&amp;apost;s the &amp;quot;woman in red,&amp;quot; a modernly dressed woman -- symbolizing the secular, world of personal freedom many of the demonstrators seek to defend.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="17">
+          <content>A similar image emerged from Brazil.</content>
+        </sentence>
+        <sentence id="18">
+          <content>A young woman who appears utterly harmless was sprayed in the face by a policeman dressed in full riot gear.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="19">
+          <content>Just like Turkey, no one could have predicted the turn of events in Brazil.</content>
+        </sentence>
+        <sentence id="20">
+          <content>A country that has symbolized Latin America&amp;apost;s dramatic rise from poverty, where left-leaning governments have combined social programs and market-friendly policies, nearly eradicating extreme poverty, suddenly erupted in a wave of popular fury.</content>
+        </sentence>
+        <sentence id="21">
+          <content>The government of President Dilma Rousseff faced the largest protests in 20 years.</content>
+        </sentence>
+        <sentence id="22">
+          <content>And it all started over an increase in bus fares.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="23">
+          <content>The protests over bus fares touched on worries about a slowdown in the economy, about persistent inequality, corruption and costly projects in preparation for hosting the upcoming World Cup and Olympic Games.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="24">
+          <content>Rousseff, a former revolutionary herself, has been taking a much more conciliatory approach than the pugnacious Erdogan.</content>
+        </sentence>
+        <sentence id="25">
+          <content>On Wednesday, government officials in San Paulo and Rio de Janeiro announced that they would revoke the hike in bus fares in their cities.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="26">
+          <content>In this era of connectivity, a small complaint can explode.</content>
+        </sentence>
+        <sentence id="27">
+          <content>Politicians may outmaneuver rival parties during election campaigns.</content>
+        </sentence>
+        <sentence id="28">
+          <content>They can claim a majority at the polls -- as Erdogan doesn&amp;apost;t tire of remarking he has -- and they can ply their trade on the global stage.</content>
+        </sentence>
+        <sentence id="29">
+          <content>But they now have to deal with their citizens&amp;apost; demands in a much more public way.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="30">
+          <content>Popular claims have new strength in our age of social media.</content>
+        </sentence>
+        <sentence id="31">
+          <content>It&amp;apost;s impossible to predict which issue will find flammable material hiding in shared resentments and ignite raging fires of discontent.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="32">
+          <content>The water cannons and the tear gas may disperse the first wave of protesters, but a click of a smartphone can produce a photo or video that instantly catches people&amp;apost;s attention, potentially attracting even larger protests.</content>
+        </sentence>
+        <sentence id="33">
+          <content>The crowd may grow if its concerns are ignored, especially if police repression is violent.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="34">
+          <content>One of the challenges for democratic governments is to balance what may be legitimate requirements of public order with a reasonable hearing for reasonable demands.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="35">
+          <content>That is the response that separates the tyrants from the democrats.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="36">
+          <content>Public space occupations and demonstrations have occurred in nations without democracy.</content>
+        </sentence>
+        <sentence id="37">
+          <content>We saw how regimes responded to protests in places like Egypt and Syria.</content>
+        </sentence>
+        <sentence id="38">
+          <content>We have seen crackdowns in Russia last year and in Iran after the 2009 elections.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="39">
+          <content>These new protests start over smaller issues -- not over tyranny or basic democratic rights.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="40">
+          <content>Local issues have a new power to surge with little warning, electrifying the crowds, jolting people out of complacency.</content>
+        </sentence>
+        <sentence id="41">
+          <content>Governments can be caught by surprise by what seem like trivial matters -- a small rise in bus fare or saving trees in a park.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="42">
+          <content>It wasn&amp;apost;t very long ago when every meeting of the powerful nations, of the International Monetary Fund and the World Bank, brought out angry anti-globalization crowds.</content>
+        </sentence>
+        <sentence id="43">
+          <content>Now, the concerns are more immediate, more personal.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="44">
+          <content>When President Obama arrived in Northern Ireland on Monday for the meeting of the G8 nations, there were more police officers than protesters.</content>
+        </sentence>
+        <sentence id="45">
+          <content>The nature of protest has changed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="46">
+          <content>Governments may have the power to spy on citizens, to read their e-mails and listen to their conversations.</content>
+        </sentence>
+        <sentence id="47">
+          <content>But they have largely lost their ability to control the information that is out there.</content>
+        </sentence>
+        <sentence id="48">
+          <content>Governments have lost the power to change the subject, to divert attention, to blame a multinational institution or another country for the woes at home.</content>
+        </sentence>
+        <sentence id="49">
+          <content>Stories now refuse to die.</content>
+        </sentence>
+        <sentence id="50">
+          <content>Protesters, if angered by the government&amp;apost;s response, are more likely to persevere.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="51">
+          <content>Heads of government cannot control their public image the way they once could.</content>
+        </sentence>
+        <sentence id="52">
+          <content>The demigods are dying.</content>
+        </sentence>
+        <sentence id="53">
+          <content>New technology may make it easier for governments to learn what the people are thinking, but it makes it harder for them to shape what the people believe.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="54">
+          <content>It&amp;apost;s a new age.</content>
+        </sentence>
+        <sentence id="55">
+          <content>They should consider themselves warned.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="56">
+          <content>Follow us on Twitter @CNNOpinion.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="57">
+          <content>Join us on Facebook/CNNOpinion.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

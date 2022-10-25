@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="663" link="http://www.cnn.com/2012/03/30/living/escape-camp-14-book-story/index.html" date_published="2012-03-30 15:44:10" category="living" author="Christian DuChateau, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>&amp;apost;Escape from Camp 14&amp;apost; a true North Korea survival story</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="54, 2">&amp;quot;Escape from Camp 14&amp;quot; tells the true story of a North Korean prison camp survivor.</sentence>
+      <sentence id="2" ids_article_sentences="1">Shin Dong-hyuk was the only known person born in a camp that survived escape.</sentence>
+      <sentence id="3" ids_article_sentences="6">Book offers glimpse into one of the world&amp;apost;s repressive regimes .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-04 18:02:45" annotation_time="97.157005" mapping_time_divergence="32.38567">
+      <sentence id="1" ids_highlights="2">Shin Dong-hyuk is the only known person born in a North Korean prison camp that escaped and survived to tell the tale.</sentence>
+      <sentence id="2" ids_highlights="1">Journalist Blaine Harden first uncovered Shin&amp;apost;s story in 2008 and has now turned it into the riveting new biography &amp;quot;Escape from Camp 14: One Man&amp;apost;s Remarkable Odyssey from North Korea to Freedom in the West.&amp;quot;</sentence>
+      <sentence id="6" ids_highlights="3">In the book, Harden offers an unnerving glimpse into one of the world&amp;apost;s most repressive regimes.</sentence>
+      <sentence id="54" ids_highlights="1">Shin did not like it, but he put up with it because he wants everyone to know what went on in Camp 14 -- what still goes on.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Shin Dong-hyuk is the only known person born in a North Korean prison camp that escaped and survived to tell the tale.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Journalist Blaine Harden first uncovered Shin&amp;apost;s story in 2008 and has now turned it into the riveting new biography &amp;quot;Escape from Camp 14: One Man&amp;apost;s Remarkable Odyssey from North Korea to Freedom in the West.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>North Korea has been splashed across world headlines in recent weeks over its threat to launch a long-range rocket, its suspected nuclear program and for its continued defiance of the West.</content>
+        </sentence>
+        <sentence id="4">
+          <content>If you want a singular perspective on what goes on inside the rogue regime, then you must read his story.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>It&amp;apost;s a harrowing tale of endurance and courage, at times grim but ultimately life-affirming.</content>
+        </sentence>
+        <sentence id="6">
+          <content>In the book, Harden offers an unnerving glimpse into one of the world&amp;apost;s most repressive regimes.</content>
+        </sentence>
+        <sentence id="7">
+          <content>Until now, little was known about North Korea&amp;apost;s labor camps, even though they&amp;apost;ve existed for decades.</content>
+        </sentence>
+        <sentence id="8">
+          <content>They&amp;apost;re believed to hold between 150,000 and 200,000 prisoners and while they&amp;apost;re plainly visible in satellite photos, the North Korean government claims they don&amp;apost;t exist.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="9">
+          <content>Shin knows otherwise.</content>
+        </sentence>
+        <sentence id="10">
+          <content>He was born in one of these &amp;quot;hidden gulags.&amp;quot;</content>
+        </sentence>
+        <sentence id="11">
+          <content>He grew up in squalid conditions with unending, back-breaking work, and knew nothing of the outside world.</content>
+        </sentence>
+        <sentence id="12">
+          <content>He was starved, beaten and tortured.</content>
+        </sentence>
+        <sentence id="13">
+          <content>One of his earliest memories: Being forced to watch the execution of his mother and brother.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="14">
+          <content>It wasn&amp;apost;t until Shin was 23 years old he was able to climb through a high-voltage fence and escape.</content>
+        </sentence>
+        <sentence id="15">
+          <content>Somehow, Shin found his way to China, South Korea, and eventually the United States.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Today, Shin lives in Seoul, but is still dealing with the psychological trauma of his former life in the camp.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="17">
+          <content>Harden, a reporter for PBS Frontline and a contributor to The Economist, brings Shin&amp;apost;s amazing story to life.</content>
+        </sentence>
+        <sentence id="18">
+          <content>CNN recently spoke to him about the book and his relationship with Shin.</content>
+        </sentence>
+        <sentence id="19">
+          <content>The following is an edited transcript:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="20">
+          <content>CNN: This is an amazing story, how did you learn about Shin and when did you first meet him?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="21">
+          <content>Harden: I heard about Shin from a human rights activist in Tokyo, where I was living and working as a correspondent for The Washington Post.</content>
+        </sentence>
+        <sentence id="22">
+          <content>At the time, I was desperately searching for a way to write about life inside North Korea.</content>
+        </sentence>
+        <sentence id="23">
+          <content>I quickly flew to Seoul and met Shin there for lunch in December, 2008.</content>
+        </sentence>
+        <sentence id="24">
+          <content>That meeting is detailed in the book.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="25">
+          <content>CNN: What did you think of Shin and how difficult was it to confirm the details of his story?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="26">
+          <content>Harden: Talking to Shin in person, his story sounds believable.</content>
+        </sentence>
+        <sentence id="27">
+          <content>It&amp;apost;s because of the intensity and precision of his memory.</content>
+        </sentence>
+        <sentence id="28">
+          <content>His body, too, is a map of what he endured, with burns on his back and legs, and his partially-severed finger.</content>
+        </sentence>
+        <sentence id="29">
+          <content>His arms are bowed from childhood labor.</content>
+        </sentence>
+        <sentence id="30">
+          <content>Confirming the details of his story is impossible, if you mean going to Camp 14 and asking questions of his captors and torturers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="31">
+          <content>North Korea denies the existence of Camp 14 and all the other labor camps.</content>
+        </sentence>
+        <sentence id="32">
+          <content>Outsiders, including the (International Committee of the Red Cross), have never been allowed to visit them.</content>
+        </sentence>
+        <sentence id="33">
+          <content>The only way for North Korea to &amp;quot;refute, contradict or invalidate&amp;quot; the testimony of Shin and other camp survivors would be to permit outsiders to visit the camps.</content>
+        </sentence>
+        <sentence id="34">
+          <content>Otherwise, their testimony stands.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="35">
+          <content>CNN: What did you find most shocking or disturbing about Shin&amp;apost;s ordeal?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="36">
+          <content>Harden: His anger at his mother -- and his statement that he was glad to see her die: These were the things that shocked me most upon meeting Shin.</content>
+        </sentence>
+        <sentence id="37">
+          <content>But as we continued to talk -- over the course of day-long conversations that extended for weeks in Seoul and later in Southern California -- I came to understand that guards had raised him to be suspicious of everyone.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="38">
+          <content>He saw anyone who stood between him and his next meal as a potential enemy.</content>
+        </sentence>
+        <sentence id="39">
+          <content>He was raised to see personal redemption in acts that ratted out his own family.</content>
+        </sentence>
+        <sentence id="40">
+          <content>He believed that his mother, by discussing an escape plan with Shin&amp;apost;s brother, had been irresponsible and reckless.</content>
+        </sentence>
+        <sentence id="41">
+          <content>Since he was a toddler, he had been forced to memorize camp rules that prescribe death for anyone who tries to escape or knows about an escape plan but does not report it immediately.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="42">
+          <content>The moment Shin heard that his mother was considering an escape, his camp-bred instincts kicked in.</content>
+        </sentence>
+        <sentence id="43">
+          <content>He had to betray her: He knew that if he did not, it would mean his torture or death.</content>
+        </sentence>
+        <sentence id="44">
+          <content>He did turn her in.</content>
+        </sentence>
+        <sentence id="45">
+          <content>But he was tortured anyway.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="46">
+          <content>CNN: How is Shin doing now?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="47">
+          <content>Harden: He is now living in Seoul, after spending the better part of two years in Torrance, California; Seattle; Columbus, Ohio, and Washington D.C.</content>
+        </sentence>
+        <sentence id="48">
+          <content>He has begun working with a partner on a webcast aimed at telling the Korean-speaking world more about North Korea and the camps.</content>
+        </sentence>
+        <sentence id="49">
+          <content>His life&amp;apost;s goal is to raise awareness of the camps.</content>
+        </sentence>
+        <sentence id="50">
+          <content>He wants them closed as soon as possible.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="51">
+          <content>Everything else in his life is secondary to that goal.</content>
+        </sentence>
+        <sentence id="52">
+          <content>That is why he was willing to go though the misery of long interviews with me.</content>
+        </sentence>
+        <sentence id="53">
+          <content>In the book, in trying to explain how painful those interviews often were, I used the image of a dentist drilling without anesthetics -- for more than two years.</content>
+        </sentence>
+        <sentence id="54">
+          <content>Shin did not like it, but he put up with it because he wants everyone to know what went on in Camp 14 -- what still goes on.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="55">
+          <content>CNN: Shin must have left a lasting impression on you, what kind of impact did his story have on you personally?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="56">
+          <content>Harden: His story has obviously touched me profoundly.</content>
+        </sentence>
+        <sentence id="57">
+          <content>And like him, I want everyone in the world to know about the camps and to understand -- through an emotionally wrenching immersion in Shin&amp;apost;s life inside Camp 14 -- that North Korea&amp;apost;s dictatorship is sustained by child slavery, starvation, and unimaginable cruelty.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

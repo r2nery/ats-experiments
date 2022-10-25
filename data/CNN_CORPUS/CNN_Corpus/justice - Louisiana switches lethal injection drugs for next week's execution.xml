@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="561" link="http://www.cnn.com/2014/01/28/justice/louisiana-execution-drugs/index.html" date_published="2014-01-28 05:40:28" category="justice" author="Ed Payne and Dave Alsup, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Louisiana switches lethal injection drugs for next week&amp;apost;s execution</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="6">Christopher Sepulvado&amp;apost;s execution is scheduled for February 5.</sentence>
+      <sentence id="2" ids_article_sentences="1">The two-drug combination has only been used in one other execution.</sentence>
+      <sentence id="3" ids_article_sentences="9">An Ohio inmate appeared to gasp and convulse for about 10 minutes before he died.</sentence>
+      <sentence id="4" ids_article_sentences="8">European-based manufacturers have banned U.S. prisons from using their drugs in executions.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-06 20:17:26" annotation_time="23.626001">
+      <sentence id="1" ids_highlights="2">Ahead of next week&amp;apost;s scheduled execution of convicted killer Christopher Sepulvado, the Louisiana Department of Corrections has switched to the same controversial two-drug combination that was used in Ohio this month, the Louisiana department said.</sentence>
+      <sentence id="6" ids_highlights="1">Sepulvado&amp;apost;s execution is scheduled for February 5.</sentence>
+      <sentence id="8" ids_highlights="4">Like Ohio, Louisiana has been forced to find new drug protocols after European-based manufacturers banned U.S. prisons from using their drugs in executions -- among them, Danish-based Lundbeck, which manufactures pentobarbital.</sentence>
+      <sentence id="9" ids_highlights="3">Ohio inmate Dennis McGuire appeared to gasp and convulse for about 10 minutes before he died January 16 by lethal injection using the new combination of drugs -- midazolam, a sedative; and the painkiller hydromorphone -- according to reporters who witnessed the execution.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Ahead of next week&amp;apost;s scheduled execution of convicted killer Christopher Sepulvado, the Louisiana Department of Corrections has switched to the same controversial two-drug combination that was used in Ohio this month, the Louisiana department said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>&amp;quot;The reason for the change is that DOC has been unable to procure the drug, pentobarbital, specified in the one-drug protocol,&amp;quot; DOC spokeswoman Pam Laborde said in a statement.</content>
+        </sentence>
+        <sentence id="3">
+          <content>&amp;quot;The Department will continue to attempt to obtain the drug or drugs necessary for either of the two protocols.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Gary Clements, part of Sepulvado&amp;apost;s legal team, said an appeal will be filed Tuesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>&amp;quot;We&amp;apost;re not challenging capital punishment in his case ... just how it&amp;apost;s going to be done,&amp;quot; Clements said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>Sepulvado&amp;apost;s execution is scheduled for February 5.</content>
+        </sentence>
+        <sentence id="7">
+          <content>He was sentenced to death for killing his 6-year-old stepson in 1992.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>Like Ohio, Louisiana has been forced to find new drug protocols after European-based manufacturers banned U.S. prisons from using their drugs in executions -- among them, Danish-based Lundbeck, which manufactures pentobarbital.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>Ohio inmate Dennis McGuire appeared to gasp and convulse for about 10 minutes before he died January 16 by lethal injection using the new combination of drugs -- midazolam, a sedative; and the painkiller hydromorphone -- according to reporters who witnessed the execution.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>McGuire&amp;apost;s family said the execution was &amp;quot;torture.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>CNN legal analyst Sunny Hostin said McGuire&amp;apost;s execution will likely spark debate over whether the use of the drugs constitutes cruel and unusual punishment prohibited by the U.S. Constitution.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;Whenever there&amp;apost;s a change in the lethal injection process, clearly it&amp;apost;s subject to legal proceedings, and perhaps we will see those,&amp;quot; Hostin said this month.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="13">
+          <content>The change in execution drugs was not a surprise, Clements said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;We predicted they would have trouble finding pentobarbital, and they would have their backs against the wall and they would be forced to do something drastic,&amp;quot; Clements said. &amp;quot;.</content>
+        </sentence>
+        <sentence id="15">
+          <content>(The) announcement has proven us correct.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

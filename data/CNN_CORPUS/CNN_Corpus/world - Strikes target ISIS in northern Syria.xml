@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2770" link="http://edition.cnn.com/2014/09/27/world/meast/isis-syria-iraq/index.html?hpt=imi_c2" date_published="2014-09-27 15:10:37" category="world" author="Michael Pearson, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Strikes target ISIS in northern Syria</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="10">NEW: U.S. military releases video of airstrike in Syria, says it hit an ISIS compound.</sentence>
+      <sentence id="2" ids_article_sentences="1">Airstrikes hit near Ayn al-Arab, the site of fighting between ISIS and Syrian Kurdish forces.</sentence>
+      <sentence id="3" ids_article_sentences="8">London-based monitoring group says other airstrikes kill six civilians near al-Hasakah.</sentence>
+      <sentence id="4" ids_article_sentences="12">Al-Qaeda group in Syria denounces Muslim countries participating in airstrikes.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2015-01-30 14:52:02" annotation_time="50.253498">
+      <sentence id="1" ids_highlights="2">U.S. and allied warplanes hit sites near the northern Syrian city of Ayn al-Arab, the scene of fighting between ISIS and Kurdish forces in recent days, U.S. Central Command confirmed Saturday.</sentence>
+      <sentence id="8" ids_highlights="3">A London-based monitoring group also claimed Saturday that other airstrikes may have also resulted in the deaths of six civilians near the Syrian city of al-Hasakah.</sentence>
+      <sentence id="10" ids_highlights="1">U.S. Central Command did say Saturday that airstrikes hit an ISIS vehicle and several buildings that were part of an ISIS garrison near al-Hasakah.</sentence>
+      <sentence id="12" ids_highlights="4">A man identified as Abu Firas al-Souri, spokesman for the group, denounced the participation of Muslim countries in the coalition.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>U.S. and allied warplanes hit sites near the northern Syrian city of Ayn al-Arab, the scene of fighting between ISIS and Kurdish forces in recent days, U.S. Central Command confirmed Saturday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>A video released by the U.S. military shows a missile hitting a building.</content>
+        </sentence>
+        <sentence id="3">
+          <content>U.S. Central Command said it was taken from an F-15E fighter jet that struck an ISIS compound near Kobani, the Kurdish name for Ayn al-Arab.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>In other airstrikes near Ayn al-Arab, coalition forces hit two armed vehicles at a border crossing with Turkey, the military said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Syrian Kurdish fighters in Alishar, a village a few kilometers from Ayn al-Arab, said the airstrike hit an unofficial border crossing near the village.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>The strikes are believed to be the first known coalition attacks near the border with Turkey.</content>
+        </sentence>
+        <sentence id="7">
+          <content>That country is not participating in the airstrikes and has repeatedly pressed for an international buffer zone separating the combat in Syria from the Turkish border.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>A London-based monitoring group also claimed Saturday that other airstrikes may have also resulted in the deaths of six civilians near the Syrian city of al-Hasakah.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>CNN could not independently confirm the report from the London-based Syrian Observatory for Human Rights.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>U.S. Central Command did say Saturday that airstrikes hit an ISIS vehicle and several buildings that were part of an ISIS garrison near al-Hasakah.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>A purported video statement posted online Saturday by Al-Nusra Front, the al Qaeda franchise in Syria, condemns the U.S.-led coalition airstrikes.</content>
+        </sentence>
+        <sentence id="12">
+          <content>A man identified as Abu Firas al-Souri, spokesman for the group, denounced the participation of Muslim countries in the coalition.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>In addition to U.S. Air Force and Navy aircraft, warplanes from Saudi Arabia, Jordan and the UAE participated in strikes in Syria, which also targeted ISIS forces in several other locations, Central Command said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>A Kurdish fighter in the region and the Syrian Observatory for Human Rights had earlier reported airstrikes in the vicinity of the village of Alishar, west of Ayn al-Arab.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>Coalition airstrikes also destroyed ISIS vehicles and a fighting position near Erbil, Iraq, Central Command said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="16">
+          <content>Kurdish forces have been battling ISIS for days to prevent the fall of Ayn al-Arab.</content>
+        </sentence>
+        <sentence id="17">
+          <content>It is the last Kurdish-held city in that region of northwest Syria following a swift ISIS assault that sent some 200,000 people running for their lives to Turkey.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="18">
+          <content>At least four mortar rounds believed fired by ISIS forces have landed in Kobani, according to to Alan Minbic, a Syrian Kurdish soldier who was fighting in an area between Ayn al-Arab and Aidek.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="19">
+          <content>A CNN crew witnessed the Kurdish fighters using artillery and heavy machine-gun fire to drive the ISIS fighters back from the ridge line they were occupying.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="20">
+          <content>The developments come as the U.S.-led coalition against ISIS continues to grow.</content>
+        </sentence>
+        <sentence id="21">
+          <content>On Saturday, U.K. defense officials announced British fighter jets began flying reconnaissance flights over Iraq less than 24 hours after Parliament voted to approve the country&amp;apost;s involvement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="22">
+          <content>Denmark and Belgium also signed up on Friday, adding to a list of more than 50 European, Asian and Arab countries that have joined the fight, according to U.S. officials.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="23">
+          <content>U.S. forces continue to hunt targets in Iraq and Syria, with aircraft taking off from the USS George H.W. Bush as often as every 55 seconds, according to CNN&amp;apost;s Becky Anderson, who is aboard the aircraft carrier in the Persian Gulf.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="24">
+          <content>The United States launched airstrikes against ISIS in August in an effort to stem the group&amp;apost;s breathtaking advance across Iraq.</content>
+        </sentence>
+        <sentence id="25">
+          <content>The group, which calls itself the Islamic State, routed Iraqi forces and took over vast swaths of the country.</content>
+        </sentence>
+        <sentence id="26">
+          <content>Some analysts warned Baghdad was at risk of falling to the well-armed, organized and funded extremist group without Western involvement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="27">
+          <content>While the most dramatic advances have been halted, Western leaders have warned of a long fight against ISIS, saying it could take years before the group is fully dislodged.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

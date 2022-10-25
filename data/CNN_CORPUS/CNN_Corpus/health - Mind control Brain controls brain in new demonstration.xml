@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="304" link="http://www.cnn.com/2013/08/28/health/brain-interface" date_published="2013-08-28 20:54:48" category="health" author="Elizabeth Landau, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Mind control? Brain controls brain in new demonstration</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="31">Researcher moves another researcher&amp;apost;s finger with his mind.</sentence>
+      <sentence id="2" ids_article_sentences="23">The scientists say this is a human-to-human brain interface.</sentence>
+      <sentence id="3" ids_article_sentences="55">They have yet to try it out on a larger group of people.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-07-27 09:24:36" annotation_time="337.78964">
+      <sentence id="23" ids_highlights="2">But wait -- this isn&amp;apost;t published in a peer-reviewed journal, which is the gold standard for scientific results, says Dr. Miguel Nicolelis, professor of neuroscience at Duke University, who has pioneered brain-computer and brain-brain interface techniques.</sentence>
+      <sentence id="31" ids_highlights="1">Harvard University researchers have also shown that a human could move a rat&amp;apost;s tail with their minds, translating the person&amp;apost;s neural signals to excite the motor area of a rat that had a motor sensor on it.</sentence>
+      <sentence id="55" ids_highlights="3">They will try the technique on more people if that is successful, and if approved by the ethics board.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Every so often, you see something that makes you think: The future is here.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Researchers at the University of Washington have demonstrated what they say is the first example of a noninvasive human-to-human brain interface.</content>
+        </sentence>
+        <sentence id="3">
+          <content>In a video posted online, they show how a scientist could control another scientist&amp;apost;s hand motions just by using brain signals sent over the Internet.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>The two participants in this demonstration were the scientists themselves, Rajesh Rao and Andrea Stocco.</content>
+        </sentence>
+        <sentence id="5">
+          <content>They were situated on different parts of the University of Washington&amp;apost;s campus when Stocco&amp;apost;s finger moved on a keyboard, controlled by Rao&amp;apost;s brain signal.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>An ethical review board gave the two of them specifically -- and no one else -- permission to try it out, Stocco said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;So far, we are the only human beings whose brains are being connected,&amp;quot; said Stocco, a research assistant professor at the university&amp;apost;s Institute for Learning and Brain Sciences.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>They have now done several trials of this brain communication in their unpublished pilot study and hope to expand it.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>How they did it.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>Rao wore a cap with electrodes that were connected to an electroencephalography machine, a contraption that reads electrical activity from the brain.</content>
+        </sentence>
+        <sentence id="11">
+          <content>Rao played a video game without using his hands, just using his mind.</content>
+        </sentence>
+        <sentence id="12">
+          <content>By imagining moving his right hand, he could move a cursor on the computer screen to click &amp;quot;fire,&amp;quot; in order to fire a cannon at a target.</content>
+        </sentence>
+        <sentence id="13">
+          <content>The goal of the game is to hit rockets fired by pirate ships and avoid hitting supply planes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>Meanwhile, in Stocco&amp;apost;s lab across campus, Stocco wore a purple swim cap.</content>
+        </sentence>
+        <sentence id="15">
+          <content>A transcranial magnetic stimulation coil was placed over his left motor cortex, the part of the brain that controls hand movement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="16">
+          <content>The electrical activity of Rao&amp;apost;s brain was read by the electroencephalography machine, which then sent signals over the Internet to Stocco&amp;apost;s brain by way of the transcranial magnetic stimulation coil.</content>
+        </sentence>
+        <sentence id="17">
+          <content>The signal activated the neurons that prompted Stocco&amp;apost;s right hand to move.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="18">
+          <content>Because of this connection, Rao&amp;apost;s thinking about moving the cursor almost simultaneously caused Stocco to press the space bar of his own keyboard with his right index finger.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="19">
+          <content>The first time, says Stocco, &amp;quot;I didn&amp;apost;t know precisely if my hand moved because actually I got the signal from the machine or if I was twitching.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="20">
+          <content>&amp;quot;I never twitch, so I was pretty sure that it was the signal, so I felt happy.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="21">
+          <content>Caveats.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="22">
+          <content>This all sounds futuristic and spacey.</content>
+        </sentence>
+        <sentence id="23">
+          <content>But wait -- this isn&amp;apost;t published in a peer-reviewed journal, which is the gold standard for scientific results, says Dr. Miguel Nicolelis, professor of neuroscience at Duke University, who has pioneered brain-computer and brain-brain interface techniques.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="24">
+          <content>Stocco said he and Rao plan on submitting their results to journals, but wanted to get the word out quickly after they had evidence of their success.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="25">
+          <content>What&amp;apost;s more, Nicolelis says, Stocco was not consciously interpreting the signal from Rao.</content>
+        </sentence>
+        <sentence id="26">
+          <content>Instead, the brain signal caused Stocco&amp;apost;s finger to move involuntarily.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="27">
+          <content>The absence of choice in this situation makes it less impressive from a scientific standpoint, Nicolelis said.</content>
+        </sentence>
+        <sentence id="28">
+          <content>The same effect could have been achieved by a cell phone or a computer triggering the involuntarily movement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="29">
+          <content>&amp;quot;It&amp;apost;s like a technical trick, but it doesn&amp;apost;t cross the threshold of brain-to-brain communication,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="30">
+          <content>What came before.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="31">
+          <content>Harvard University researchers have also shown that a human could move a rat&amp;apost;s tail with their minds, translating the person&amp;apost;s neural signals to excite the motor area of a rat that had a motor sensor on it.</content>
+        </sentence>
+        <sentence id="32">
+          <content>This study was published in the journal PLOS One earlier this year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="33">
+          <content>A true brain-to-brain interface would involve the ability for choice, and for feedback, Nicolelis said.</content>
+        </sentence>
+        <sentence id="34">
+          <content>In other words, the receiver would have the ability to send signals back to the sender.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="35">
+          <content>Nicolelis&amp;apost; own research has shown this more complicated technique is possible, at least in rodents.</content>
+        </sentence>
+        <sentence id="36">
+          <content>In an experiment described in a study in the journal Scientific Reports, two rats were placed in separate chambers with several levers.</content>
+        </sentence>
+        <sentence id="37">
+          <content>The brains of these rats were connected through arrays of tiny electrodes.</content>
+        </sentence>
+        <sentence id="38">
+          <content>One rat got a visual cue about which lever would lead to a reward of a drink of water.</content>
+        </sentence>
+        <sentence id="39">
+          <content>When this rat pressed the correct lever, the second rat received brain activity from the first rat corresponding to that decision.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="40">
+          <content>The researchers believe that the receiving rats were actively using and interpreting this information, not just pressing a lever involuntarily, because the receiving rat pressed the correct lever about 70% of the time.</content>
+        </sentence>
+        <sentence id="41">
+          <content>That is still fairly high, but not 100%.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="42">
+          <content>Here&amp;apost;s the more impressive part: The rats appeared to demonstrate two-way collaboration in their brain network -- the rat sending the signal changed its brain function and behavior when the receiving rat did not press the correct lever.</content>
+        </sentence>
+        <sentence id="43">
+          <content>The researchers incentivized this by not giving a full reward to the sending rat if the receiving rat messed up.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="44">
+          <content>This kind of two-way brain communication between humans has yet to be demonstrated.</content>
+        </sentence>
+        <sentence id="45">
+          <content>But that doesn&amp;apost;t mean it isn&amp;apost;t possible.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="46">
+          <content>Future research.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="47">
+          <content>For now, the University of Washington scientists can show off their technique using simple brain signals, but their technology doesn&amp;apost;t allow people to read each other&amp;apost;s thoughts.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="48">
+          <content>And don&amp;apost;t worry -- it was done in a laboratory setting in accordance with a strict human-testing protocol, so it would not be used to control people&amp;apost;s behavior without their consent, they say.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="49">
+          <content>The technology is still in its early stages, but Stocco imagines many practical applications: For instance, a senior surgeon could control the hands of another surgeon in training during an operation.</content>
+        </sentence>
+        <sentence id="50">
+          <content>Stocco also told the University of Washington&amp;apost;s news office that a person with disabilities could signal that he or she would like food or water, or a pilot who becomes incapacitated could be assisted from the ground.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="51">
+          <content>&amp;quot;It was both exciting and eerie to watch an imagined action from my brain get translated into actual action by another brain,&amp;quot; Rao told the University of Washington&amp;apost;s news office.</content>
+        </sentence>
+        <sentence id="52">
+          <content>&amp;quot;This was basically a one-way flow of information from my brain to his.</content>
+        </sentence>
+        <sentence id="53">
+          <content>The next step is having a more equitable two-way conversation directly between the two brains.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="54">
+          <content>The researchers said they intend to conduct another experiment involving more complex information from one brain to another.</content>
+        </sentence>
+        <sentence id="55">
+          <content>They will try the technique on more people if that is successful, and if approved by the ethics board.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="56">
+          <content>If they can pump up the technology to do what Nicolelis has demonstrated in rats, this would be, quite literally, a meeting of minds.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="34">
+      <sentences>
+        <sentence id="57">
+          <content>Follow Elizabeth Landau on Twitter and Google+.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

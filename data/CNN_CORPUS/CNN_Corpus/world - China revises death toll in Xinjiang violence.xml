@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2119" link="http://edition.cnn.com/2014/09/25/world/asia/china-violence/index.html" date_published="2014-09-26 02:49:28" category="world" author="Steve Almasy and David McKenzie, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>China revises death toll in Xinjiang violence</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Chinese authorities dramatically revise death toll in Xinjiang violence.</sentence>
+      <sentence id="2" ids_article_sentences="9, 2">State media said 50 people were killed, up from two previously. .</sentence>
+      <sentence id="3" ids_article_sentences="16, 8">Police said there was a string of terrorist bombings that led to some deaths.</sentence>
+      <sentence id="4" ids_article_sentences="14">The region has seen several attacks due to ethnic strife.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-02 10:54:57" annotation_time="60.827667" mapping_time_divergence="30.413834">
+      <sentence id="1" ids_highlights="1">Beijing Chinese authorities late Thursday dramatically revised upward the death toll of a violent incident they say occurred earlier in the week in Xinjiang, an ethnically divided region in China&amp;apost;s far west.</sentence>
+      <sentence id="2" ids_highlights="2">According to state-run regional media portal Tianshan, 50 people, including 40 &amp;quot;rioters,&amp;quot; were shot dead by police or killed by a series of explosions.</sentence>
+      <sentence id="8" ids_highlights="3">The primary suspect behind the bombings was shot dead, police said.</sentence>
+      <sentence id="9" ids_highlights="2">On Monday, state media claimed that just two people were killed in the explosions.</sentence>
+      <sentence id="14" ids_highlights="4">Chinese authorities have stepped up security measures in Xinjiang following several recent attacks in the region, which has been the scene of ethnic strife between the indigenous Uyghurs, a mainly Turkic-speaking Muslim population, and Han Chinese.</sentence>
+      <sentence id="16" ids_highlights="3">Waves of Han Chinese have flocked to the resource-rich region, fueling tensions with the Uyghurs, who regard themselves as culturally and ethnically closer the people of nations bordering western China, such as Kazakhstan, Mongolia, Pakistan and Afghanistan.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Beijing Chinese authorities late Thursday dramatically revised upward the death toll of a violent incident they say occurred earlier in the week in Xinjiang, an ethnically divided region in China&amp;apost;s far west.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>According to state-run regional media portal Tianshan, 50 people, including 40 &amp;quot;rioters,&amp;quot; were shot dead by police or killed by a series of explosions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;Police forces reacted decisively,&amp;quot; said the report.</content>
+        </sentence>
+        <sentence id="4">
+          <content>The report didn&amp;apost;t specify how many were killed by police.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>More than 50 civilians were injured during the blasts on Sunday evening, which police called a terrorist attack, according to Tianshan.</content>
+        </sentence>
+        <sentence id="6">
+          <content>The bombs hit two police stations, a shop and an open market frequented by ethnic minority Uyghurs.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>The dead included six civilians, two police officers and two auxiliaries, Tianshan said.</content>
+        </sentence>
+        <sentence id="8">
+          <content>The primary suspect behind the bombings was shot dead, police said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>On Monday, state media claimed that just two people were killed in the explosions.</content>
+        </sentence>
+        <sentence id="10">
+          <content>It is unclear why more details were only released several days later.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>Local police refused to comment to CNN, saying the information surrounding the incident is &amp;quot;confidential.&amp;quot;</content>
+        </sentence>
+        <sentence id="12">
+          <content>The provincial government refused to provide more details.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>The violence occurred just two days before prominent Uyghur professor Ilham Tohti was found guilty of &amp;apost;&amp;quot;separatism&amp;quot; by a Chinese court and sentenced to life in prison.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>Chinese authorities have stepped up security measures in Xinjiang following several recent attacks in the region, which has been the scene of ethnic strife between the indigenous Uyghurs, a mainly Turkic-speaking Muslim population, and Han Chinese.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>The Chinese government has blamed recent violent incidents in Xinjiang on Uyghur separatists seeking to establish an independent state.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>Waves of Han Chinese have flocked to the resource-rich region, fueling tensions with the Uyghurs, who regard themselves as culturally and ethnically closer the people of nations bordering western China, such as Kazakhstan, Mongolia, Pakistan and Afghanistan.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>Xinjiang is now home to more than eight million Han Chinese, up from 220,000 in 1949, and 10 million Uyghurs.</content>
+        </sentence>
+        <sentence id="18">
+          <content>Unemployment among Uyghurs is high, and they complain of discrimination and harsh treatment by security forces.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

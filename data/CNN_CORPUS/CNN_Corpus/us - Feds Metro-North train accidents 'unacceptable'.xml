@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1919" link="http://www.cnn.com/2013/12/03/us/metro-north-train-accidents/index.html" date_published="2013-12-04 01:45:00" category="us" author="CNN Staff" highlights_mapped="true" mapping_error="false">
+  <title>Feds: Metro-North train accidents &amp;apost;unacceptable&amp;apost;</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="10">NEW: New York&amp;apost;s MTA says it&amp;apost;s cooperating with investigators.</sentence>
+      <sentence id="2" ids_article_sentences="1">The country&amp;apost;s top rail official says he has &amp;quot;serious concerns&amp;quot; about Metro-North safety.</sentence>
+      <sentence id="3" ids_article_sentences="3">&amp;quot;Four serious accidents in less than seven months is simply unacceptable,&amp;quot; he says.</sentence>
+      <sentence id="4" ids_article_sentences="5">He calls on the MTA to do more immediately to improve safety.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-12 06:38:51" annotation_time="47.882336">
+      <sentence id="1" ids_highlights="2">Days after a deadly Metro-North train derailment in New York, a top federal transportation official said Tuesday that he has &amp;quot;serious concerns&amp;quot; about safety on the railroad.</sentence>
+      <sentence id="3" ids_highlights="3">&amp;quot;The specific causes of each of these accidents may vary, but regardless of the reasons, four serious accidents in less than seven months is simply unacceptable,&amp;quot; he wrote in a letter to the head of New York&amp;apost;s transit authority.</sentence>
+      <sentence id="5" ids_highlights="4">More needs to be done immediately to improve safety, Szabo said.</sentence>
+      <sentence id="10" ids_highlights="1">The MTA said it is fully cooperating with the investigation and is conducting a comprehensive look at the safety culture of the authority.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Days after a deadly Metro-North train derailment in New York, a top federal transportation official said Tuesday that he has &amp;quot;serious concerns&amp;quot; about safety on the railroad.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>In addition to Sunday&amp;apost;s derailment in the Bronx, which killed four people and injured dozens more, Federal Railroad Administration chief Joseph Szabo listed three other recent accidents involving Metro-North trains.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;The specific causes of each of these accidents may vary, but regardless of the reasons, four serious accidents in less than seven months is simply unacceptable,&amp;quot; he wrote in a letter to the head of New York&amp;apost;s transit authority.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>The letter also describes a May 17 train derailment and collision in Bridgeport, Connecticut; the death of a Metro-North employee on May 28 in West Haven, Connecticut; and a CSX freight train derailment in the Bronx on July 18.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>More needs to be done immediately to improve safety, Szabo said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>He directed New York&amp;apost;s Metropolitan Transportation Authority to immediately implement a so-called C3RS program, which allows railroad employees to report close calls &amp;quot;to identify significant precursors to significant safety issues.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;A C3RS is in place on other rail lines across the country ... and has proven effective in identifying safety issues and lowering injury and accident exposure,&amp;quot; he wrote.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="8">
+          <content>And that&amp;apost;s not all, he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="9">
+          <content>&amp;quot;We have significant concerns about the current situation at Metro-North, and are actively considering other ways that FRA can use its federal oversight authority to provide additional safety enhancement of MTA operations,&amp;quot; he wrote.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="10">
+          <content>The MTA said it is fully cooperating with the investigation and is conducting a comprehensive look at the safety culture of the authority.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;The safety of the MTA&amp;apost;s customers and employees has always been, and will always continue to be, our top priority.</content>
+        </sentence>
+        <sentence id="12">
+          <content>We look forward to working with the Federal Railroad Administration and the U.S. Department of Transportation to improve safety,&amp;quot; MTA spokeswoman Marjorie Anders said.</content>
+        </sentence>
+        <sentence id="13">
+          <content>&amp;quot;We have been moving forward on a confidential close call reporting system, and we look forward to working with the FRA to implement it.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="14">
+          <content>Combined, the four accidents &amp;quot;resulted in 5 deaths and approximately 129 injuries to Metro-North employees and customers,&amp;quot; Szabo said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="15">
+          <content>The July freight train derailment, which damaged tracks and tipped over containers carrying tons of trash, occurred near the area in the Bronx where seven passenger cars derailed on Sunday, CNN affiliate WABC reported.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="16">
+          <content>The May collision between two Metro-North passenger trains in Bridgeport sent dozens of people to the hospital after a train heading from New Haven to New York City derailed during rush hour and smashed into a train heading in the opposite direction.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="17">
+          <content>Less than 10 days later, a train hit and killed a Metro-North employee who was doing maintenance work on tracks in the vicinity of the construction of a new station in West Haven, CNN affiliate WFSB reported.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1619" link="http://www.cnn.com/2014/03/26/tech/social-media/wedding-social-media-concierge/index.html" date_published="2014-03-26 14:09:58" category="tech" author="Heather Kelly, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Lovely wedding, but did it trend on Twitter?</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="9">For $3,000, couples getting married at W hotels can hire a &amp;quot;social media concierge&amp;quot;.</sentence>
+      <sentence id="2" ids_article_sentences="12">The concierge will live-tweet the entire affair and make sure guests use the same hashtag.</sentence>
+      <sentence id="3" ids_article_sentences="16">Hotel staffer: &amp;quot;We&amp;apost;ve even had people ask us how they can get their wedding to &amp;apost;trend&amp;apost; &amp;quot;.</sentence>
+      <sentence id="4" ids_article_sentences="9">The service is available at four W hotels in New York.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-20 14:25:22" annotation_time="118.927">
+      <sentence id="9" ids_highlights="1, 4">For a mere $3,000, couples getting hitched at any of the four W hotels in New York can hire their very own &amp;quot;social media wedding concierge&amp;quot; to make sure every moment of their special day is properly immortalized in tweets, Instagrams and Facebook posts.</sentence>
+      <sentence id="12" ids_highlights="2">On the wedding day, the concierge will live-tweet and Instagram the entire affair.</sentence>
+      <sentence id="16" ids_highlights="3">&amp;quot;If you want to build a social media footprint of your big day (and this is something people aim to do; we&amp;apost;ve even had people ask us how they can get their wedding to &amp;apost;trend&amp;apost;!).</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Sure, the wedding was stunning.</content>
+        </sentence>
+        <sentence id="2">
+          <content>The doves were released on cue, you didn&amp;apost;t stumble on your vows, and your aunt Caroline stayed sober until after the toasts.</content>
+        </sentence>
+        <sentence id="3">
+          <content>But something was off: Your special day didn&amp;apost;t play as well on social media as you were hoping.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="4">
+          <content>Where were all the RTs for that hilarious bouquet-catching Vine?</content>
+        </sentence>
+        <sentence id="5">
+          <content>Why didn&amp;apost;t anyone Instagram the handmade Mason-jar floral arrangements in the restrooms?</content>
+        </sentence>
+        <sentence id="6">
+          <content>And only 10 likes for the first blurry picture of the new couple?</content>
+        </sentence>
+        <sentence id="7">
+          <content>Please.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="8">
+          <content>The W hotel chain is here to help.</content>
+        </sentence>
+        <sentence id="9">
+          <content>For a mere $3,000, couples getting hitched at any of the four W hotels in New York can hire their very own &amp;quot;social media wedding concierge&amp;quot; to make sure every moment of their special day is properly immortalized in tweets, Instagrams and Facebook posts.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="10">
+          <content>This concierge will be involved with the wedding from the very beginning, acting as an amateur Instagram-ographer, documenting bits of the planning process such as cake tasting and dress shopping.</content>
+        </sentence>
+        <sentence id="11">
+          <content>He or she will even help create inspirational Pinterest boards.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="12">
+          <content>On the wedding day, the concierge will live-tweet and Instagram the entire affair.</content>
+        </sentence>
+        <sentence id="13">
+          <content>They&amp;apost;ll make sure your guests all use the same hashtag while posting from their phones during the ceremony and reception.</content>
+        </sentence>
+        <sentence id="14">
+          <content>(Is there anything more embarrassing than sloppy cousins using #ashleyandbrock instead of #ashleyandbrockforever?).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="15">
+          <content>When it&amp;apost;s over, the hotel will compile the best posts into a book.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;If you want to build a social media footprint of your big day (and this is something people aim to do; we&amp;apost;ve even had people ask us how they can get their wedding to &amp;apost;trend&amp;apost;!).</content>
+        </sentence>
+        <sentence id="17">
+          <content>, That&amp;apost;s where we come in,&amp;quot; said Alyssa Kiefer, W&amp;apost;s head of global social media.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="18">
+          <content>Kiefer says the W is responding to increasing interest among guests who want to integrate social media into their weddings.</content>
+        </sentence>
+        <sentence id="19">
+          <content>The hotel has even seen couples updating their Facebook statuses at the altar.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="20">
+          <content>The idea of paying a &amp;quot;concierge&amp;quot; $3,000 to live-tweet your wedding was widely mocked Wednesday on Twitter.</content>
+        </sentence>
+        <sentence id="21">
+          <content>But like every other major life event, including new jobs, new babies and envy-inducing vacations, weddings are increasingly playing out on social media.</content>
+        </sentence>
+        <sentence id="22">
+          <content>If it wasn&amp;apost;t shared publicly, did it really happen?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="23">
+          <content>In fairness, there are some practical reasons couples might want to share every detail of a wedding online.</content>
+        </sentence>
+        <sentence id="24">
+          <content>Perhaps an aging grandmother or far-away relatives can&amp;apost;t make the trip but would like to follow along.</content>
+        </sentence>
+        <sentence id="25">
+          <content>(And if your aging grandmother is on Twitter, more power to her.).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="26">
+          <content>On the other hand, some brides and grooms may see their wedding less as an opportunity to make a lifelong commitment in front of loved ones and more as a savvy way to grab attention.</content>
+        </sentence>
+        <sentence id="27">
+          <content>If you can afford it, a lavish wedding is a great way to fit in a bit of shameless self-promotion.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="28">
+          <content>A social &amp;quot;concierge&amp;quot; is the opposite of another recent trend sweeping weddings: asking guests to unplug completely.</content>
+        </sentence>
+        <sentence id="29">
+          <content>Some wedding photographers, irked by having to jostle with snapshot-seeking guests, have pushed for phone-free ceremonies.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="30">
+          <content>&amp;quot;In theory, one would hope it would be a service that seamlessly could fit into a wedding, but I worry it could very easily become a distraction and hindrance to all involved,&amp;quot; wedding photographer Corey Ann said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="31">
+          <content>Ann has seen a lot of younger wedding guests embracing dedicated hashtags.</content>
+        </sentence>
+        <sentence id="32">
+          <content>But she fears that could leave out older family members and guests who aren&amp;apost;t updating social media accounts.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="33">
+          <content>The W hotel will also help couples hoping to unplug on their wedding day, if that&amp;apost;s their preference.</content>
+        </sentence>
+        <sentence id="34">
+          <content>The planners can collect phones from guests as they arrive.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="35">
+          <content>&amp;quot;To some, this may seem a bit over the top, and we&amp;apost;re OK with that,&amp;quot; Kiefer said.</content>
+        </sentence>
+        <sentence id="36">
+          <content>&amp;quot;We&amp;apost;re sure couples balked at the idea of traditional wedding planners years ago, and now you wouldn&amp;apost;t think of planning a wedding without one.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

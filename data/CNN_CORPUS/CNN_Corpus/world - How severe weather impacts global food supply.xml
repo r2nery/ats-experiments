@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2262" link="http://cnn.com/2012/12/04/world/asia/food-price-impact/index.html" date_published="2012-12-05 01:51:34" category="world" author="Dave Gilbert, CNN" highlights_mapped="true" mapping_error="false">
+  <title>How severe weather impacts global food supply</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="7">This year&amp;apost;s severe weather events have led to low yields in grain exporting nations.</sentence>
+      <sentence id="2" ids_article_sentences="19">Kansas prairie farmer Donn Teske says extreme weather events are becoming much more extreme.</sentence>
+      <sentence id="3" ids_article_sentences="26">Aid group Oxfam believes there may be another spike in food prices in early 2013 and longer term volatility.</sentence>
+      <sentence id="4" ids_article_sentences="33">Some countries like Nigeria are looking for alternative staple crops such as cassava.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-13 14:28:55" annotation_time="50.0135">
+      <sentence id="7" ids_highlights="1">But 2012&amp;apost;s severe weather events around the world have led to low yields in nations such as the U.S. that export grain.</sentence>
+      <sentence id="19" ids_highlights="2">In the U.S. state of Kansas, Donn Teske, who runs a prairie farm, said it was not unusual to have dry years but added: &amp;quot;What we are finding though is that the extreme weather events are becoming much more extreme.</sentence>
+      <sentence id="26" ids_highlights="3">Oxfam says commodities futures markets are indicating there may be another spike in prices in early 2013, but expects high and volatile food prices in the medium to long term.</sentence>
+      <sentence id="33" ids_highlights="4">Some countries are also taking a longer term approach to reducing their reliance on food imports by looking for alternative staple crops.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>London Sometimes Jaria Faraj Ali is so hungry that she ties a scarf tight around her waist to make her feel more comfortable.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The Yemeni mother of six told the international aid group Oxfam that she has now resorted to begging because food prices are so high and she doesn&amp;apost;t have an income.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>And in Pakistan, 28-year-old Asif Masih says he has to work at two jobs to buy enough food.</content>
+        </sentence>
+        <sentence id="4">
+          <content>&amp;quot;I drive a taxi part time as well as work in an office because otherwise me and my family won&amp;apost;t be able to eat,&amp;quot; he told CNN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Their stories of hardship are echoed across the globe from Tajikistan to Peru where a recent spike in world food prices has hit the most vulnerable, and particularly in countries that rely on imported food.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>Rising food prices have been blamed on a number of factors -- for example, rising energy costs, changing land use for biofuel production, local conflicts, and an increasing demand for meat and dairy products.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>But 2012&amp;apost;s severe weather events around the world have led to low yields in nations such as the U.S. that export grain.</content>
+        </sentence>
+        <sentence id="8">
+          <content>Oxfam fears climate change is responsible and that impoverished people could be facing a future of high food prices driven by extreme weather trends.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>Oxfam spokesperson Colin Roach said: &amp;quot;High and volatile food prices spell misery for millions of people like Jaria who face a daily struggle to put food on the table.</content>
+        </sentence>
+        <sentence id="10">
+          <content>This is man-made misery in a world which produces enough for everyone to eat.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>A recent study commissioned by Oxfam into global warming and food prices, said: &amp;quot;Against a backdrop of rising populations and changing diets which will see global food production struggle to keep pace with increasing demand, the food security outlook in a future of unchecked climate change is bleak.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>It has certainly been a tough year for farmers.</content>
+        </sentence>
+        <sentence id="13">
+          <content>While much of North America baked in the hottest July on record and the Mid-West suffered its worst drought in 56 years, the UK endured its wettest summer in a century.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>Back in September, CNN reported: &amp;quot;From Ukraine to Yellowstone, in Pakistan and Kazakhstan, the skies have stayed clear, and the earth has been parched.</content>
+        </sentence>
+        <sentence id="15">
+          <content>And on the world&amp;apost;s commodity exchanges, the prices of corn, soybeans, wheat and tea are surging.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>UK cereal farmer Jeff Powell says it was the poorest harvest he had seen in 30 years of farming with low yields and poor quality grain -- and he warns that the full effects are yet to filter into the system.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;Your loaf is going to cost more money this winter without a doubt -- when we get to Christmas bread prices will be up a lot,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;It&amp;apost;s an absolute nightmare for anyone in the livestock industry -- especially pigs and dairy -- with feed prices going up they can only stand that for so long.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="19">
+          <content>In the U.S. state of Kansas, Donn Teske, who runs a prairie farm, said it was not unusual to have dry years but added: &amp;quot;What we are finding though is that the extreme weather events are becoming much more extreme.</content>
+        </sentence>
+        <sentence id="20">
+          <content>Historically we haven&amp;apost;t had these kind of conditions since the 1950s and before that the 1930s.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="21">
+          <content>The implications could be serious.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="22">
+          <content>Michael Roberts, an associate professor of economics at the University of Hawaii, wrote in August that lower U.S. crop yields would impact the world&amp;apost;s poorest and could lead to social unrest.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="23">
+          <content>&amp;quot;For these people, a huge rise in grain prices is more than noticeable -- it can break their budget.</content>
+        </sentence>
+        <sentence id="24">
+          <content>In 2008 and 2011, when corn prices went up to levels nearly as high as today&amp;apost;s, the world saw a sharp rise in food riots.</content>
+        </sentence>
+        <sentence id="25">
+          <content>Many pointed to wheat prices as a catalyst for revolutions in the Middle East, including Egypt, Tunisia and Libya.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="26">
+          <content>Oxfam says commodities futures markets are indicating there may be another spike in prices in early 2013, but expects high and volatile food prices in the medium to long term.</content>
+        </sentence>
+        <sentence id="27">
+          <content>It says governments should do more to prevent famine.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="28">
+          <content>&amp;quot;Putting a stop to food price crisis requires a radical new approach to the way we grow, share and manage food,&amp;quot; said Oxfam&amp;apost;s Colin Roach.</content>
+        </sentence>
+        <sentence id="29">
+          <content>&amp;quot;Governments must kick start the process by investing in small scale producers who feed billions across the developing world, regulating commodity markets; putting an end to biofuels policies which divert food crops into fuel; tackling greenhouse gas emissions which drive extreme and erratic weather and helping poor producers adapt to a changing climate.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="30">
+          <content>There was better news for consumers this week when the United Nations Food and Agriculture Organization (FAO) reported that global rice production for 2012 was expected to outpace consumption, saying improved weather patterns in Africa and Asia had contributed to the rebound in rice inventories.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="31">
+          <content>And farmers are trying to adapt.</content>
+        </sentence>
+        <sentence id="32">
+          <content>Donn Teske says he will be stocking fewer cattle next year and trying to plant crops with less tillage to preserve the moisture.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="33">
+          <content>Some countries are also taking a longer term approach to reducing their reliance on food imports by looking for alternative staple crops.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="34">
+          <content>Nigeria has a population of 170 million and according to Debisi Araba, the special adviser to Nigeria&amp;apost;s agriculture minister, the country spends 635 billion naira ($4 billion) annually on wheat and an astonishing one billion naira ($6.3 million) each day on rice imports.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="35">
+          <content>But Nigeria has a plan to combat this huge cost.</content>
+        </sentence>
+        <sentence id="36">
+          <content>Araba said Nigeria produces 34 million tons of the starchy root crop cassava every year and this can be mixed with wheat flour.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="37">
+          <content>He said Nigeria was planning to replace 40% of wheat flour with cassava and was ramping up production of rice.</content>
+        </sentence>
+        <sentence id="38">
+          <content>Araba believes the country will be able to produce 2.1 million tons of rice by 2015, first becoming self sufficient, and then able to export.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="39">
+          <content>For other farmers, it may be more of a challenge to deal with any erratic weather patterns in the future.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="40">
+          <content>Jeff Powell said: &amp;quot;Now with a wet autumn a lot of people are struggling to get their winter crops planted.</content>
+        </sentence>
+        <sentence id="41">
+          <content>If we have more years like this [2012] then we may aim to plant more crops in the spring... but the spring last year was bone dry.</content>
+        </sentence>
+        <sentence id="42">
+          <content>It&amp;apost;s a bit of a catch-22.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="43">
+          <content>Are you affected by high food prices?</content>
+        </sentence>
+        <sentence id="44">
+          <content>Tell us your experiences.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

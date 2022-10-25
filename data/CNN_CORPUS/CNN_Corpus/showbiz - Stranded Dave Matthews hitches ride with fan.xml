@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1380" link="http://www.cnn.com/2013/07/15/showbiz/dave-matthews-hitches-ride/index.html?iref=allsearch" date_published="2013-07-15 07:18:17" category="showbiz" author="Leslie Bentz and AnneClaire Stapleton, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Stranded Dave Matthews hitches ride with fan</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="6">The singer had gone for a pre-show ride.</sentence>
+      <sentence id="2" ids_article_sentences="15">He was stranded without a cell phone.</sentence>
+      <sentence id="3" ids_article_sentences="21">Grateful for ride, he invites couple to dinner and backstage.</sentence>
+      <sentence id="4" ids_article_sentences="11">He also recounts the episode during the show.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-11 14:33:53" annotation_time="32.915">
+      <sentence id="6" ids_highlights="1">The Grammy-winning musician had gone out for a pre-show ride Saturday when the back tire of his bike popped.</sentence>
+      <sentence id="11" ids_highlights="4">Kraus said she and her boyfriend were running late to the show.</sentence>
+      <sentence id="15" ids_highlights="2">It was Matthews, his bike broken; he without a cell phone.</sentence>
+      <sentence id="21" ids_highlights="3">Matthews, grateful for the gesture, invited the couple for dinner.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Emily Kraus was psyched.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>She had been a Dave Matthews fan since she was 9.</content>
+        </sentence>
+        <sentence id="3">
+          <content>And she was on her way to see him at a show in Hershey, Pennsylvania.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>What she didn&amp;apost;t count on was finding him stranded by the side of the road with his bicycle.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>To say it was the surprise of her life would be understating it.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>The Grammy-winning musician had gone out for a pre-show ride Saturday when the back tire of his bike popped.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;I did not have a cell phone on the bicycle.</content>
+        </sentence>
+        <sentence id="8">
+          <content>So I thought, &amp;apost;Sh*t,&amp;quot; he recalled that night at his show at Hersheypark Stadium.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>&amp;quot;And then a nice lady named Emily rode up in a red car with a bicycle rack on it and gave me a ride on to the gig.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>Conversations with a superstar.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>Kraus said she and her boyfriend were running late to the show.</content>
+        </sentence>
+        <sentence id="12">
+          <content>But, as she told CNN affiliate WHP, everything happens for a reason.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>They spotted a man stranded on the side of the road who looked very familiar.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>They pulled over.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>It was Matthews, his bike broken; he without a cell phone.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="16">
+          <content>Lucky for her, her parents had just recently given her their bike rack.</content>
+        </sentence>
+        <sentence id="17">
+          <content>And she offered her idol a ride, to his own concert.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="18">
+          <content>Along the way, they chatted about how the tour was going and his daughter&amp;apost;s summer camp schedules.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;We didn&amp;apost;t know how to make conversation with him,&amp;quot; the star-struck fan laughed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="20">
+          <content>&amp;apost;Cheeks still hurt from smiling&amp;apost;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="21">
+          <content>Matthews, grateful for the gesture, invited the couple for dinner.</content>
+        </sentence>
+        <sentence id="22">
+          <content>Then, backstage.</content>
+        </sentence>
+        <sentence id="23">
+          <content>And then, to front row seats to the show.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="24">
+          <content>Oh, and during the concert, Matthews recounted the incident, referring to Emily by name.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="25">
+          <content>&amp;quot;My cheeks still hurt from smiling, giggling and laughing all night long ... this will always be remembered,&amp;quot; she wrote on the affiliate&amp;apost;s Facebook page.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="26">
+          <content>Sunday morning, Kraus said she woke up, wondering if it was all a dream.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="27">
+          <content>But then she noticed the concert tickets.</content>
+        </sentence>
+        <sentence id="28">
+          <content>Matthews had signed them, saying &amp;quot;Thanks for the ride.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="29">
+          <content>&amp;quot;OK, yeah, that really happened yesterday,&amp;quot; she said.</content>
+        </sentence>
+        <sentence id="30">
+          <content>&amp;quot;It was surreal, we couldn&amp;apost;t believe it.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

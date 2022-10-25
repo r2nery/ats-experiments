@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2206" link="http://edition.cnn.com/2014/09/04/world/europe/hollande-ex-girlfriend-book/index.html?iref=allsearch" date_published="2014-09-04 06:15:59" category="world" author="Margot Haddad, CNN" highlights_mapped="true" mapping_error="false">
+  <title>French President&amp;apost;s ex tells all in new book</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">Valerie Trierweiler, France&amp;apost;s former first lady, describes end of her seven-year relationship.</sentence>
+      <sentence id="2" ids_article_sentences="9">She says she confronted French President Hollande about affair rumors.</sentence>
+      <sentence id="3" ids_article_sentences="13">She says she felt &amp;quot;dehumanized&amp;quot; after Hollande took over the presidency .</sentence>
+      <sentence id="4" ids_article_sentences="26">Excerpts from the new book were published Thursday in a French magazine.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2015-01-26 11:27:20" annotation_time="62.4175">
+      <sentence id="2" ids_highlights="1">In &amp;quot;Thank You For This Moment,&amp;quot; released this week, the former French first lady describes the end of her seven-year romance with Hollande.</sentence>
+      <sentence id="9" ids_highlights="2">Trierweiler said she confronted Hollande twice about rumors of an affair, once in March 2013 and again that December.</sentence>
+      <sentence id="13" ids_highlights="3">She says she felt &amp;quot;illegitimate&amp;quot; and &amp;quot;dehumanized&amp;quot; after Hollande took over the presidency.</sentence>
+      <sentence id="26" ids_highlights="4">Excerpts from the book were published Thursday in the magazine Paris Match.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Valerie Trierweiler, ex-partner of French President Francois Hollande, settles some scores in a new book detailing their relationship.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>In &amp;quot;Thank You For This Moment,&amp;quot; released this week, the former French first lady describes the end of her seven-year romance with Hollande.</content>
+        </sentence>
+        <sentence id="3">
+          <content>It fell apart after pictures suggesting a liaison between Hollande and actress Julie Gayet were published in the French tabloid Closer in January.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>&amp;quot;I am losing it.</content>
+        </sentence>
+        <sentence id="5">
+          <content>I don&amp;apost;t want to hear this; I rush into the bathroom.</content>
+        </sentence>
+        <sentence id="6">
+          <content>I grab the little plastic bag containing sleeping pills,&amp;quot; Trierweiler writes of her reaction to the pictures.</content>
+        </sentence>
+        <sentence id="7">
+          <content>She said Hollande snatched the bag of pills out of her hands.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="8">
+          <content>She later spent several days in the hospital, citing stress and fatigue.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="9">
+          <content>Trierweiler said she confronted Hollande twice about rumors of an affair, once in March 2013 and again that December.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;I asked him: Swear on my son&amp;apost;s head that it&amp;apost;s not true and I will never speak of it again,&amp;quot; she writes.</content>
+        </sentence>
+        <sentence id="11">
+          <content>He swore, she writes, but he also called the rumors &amp;quot;a load of nonsense.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>She portrays the French President as a busy man who didn&amp;apost;t have time for her anymore.</content>
+        </sentence>
+        <sentence id="13">
+          <content>She says she felt &amp;quot;illegitimate&amp;quot; and &amp;quot;dehumanized&amp;quot; after Hollande took over the presidency.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="14">
+          <content>She felt those around the President presented hurdles to the relationship, saying she was told once by a member of Hollande&amp;apost;s communication team: &amp;quot;If you want an evening with Francois, you need to pass it through me.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="15">
+          <content>Trierweiler says the French President tried to win her back several times after the split.</content>
+        </sentence>
+        <sentence id="16">
+          <content>She describes a man who&amp;apost;s constantly afraid to lose.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;He tells me he needs me,&amp;quot; recalls Trierweiler in her book.</content>
+        </sentence>
+        <sentence id="18">
+          <content>&amp;quot;Every night he asks me out for dinner.</content>
+        </sentence>
+        <sentence id="19">
+          <content>He said he would win me back as if I was an election.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="20">
+          <content>Trierweiler and Hollande were never married.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="21">
+          <content>The French newspaper Le Parisien reports that Hollande was not aware of the book and was &amp;quot;dismayed&amp;quot; to hear news of its publication.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="22">
+          <content>This is not the first time that Hollande&amp;apost;s private life has been the subject of headlines in French media.</content>
+        </sentence>
+        <sentence id="23">
+          <content>In 2007, he ended his relationship with Segolene Royal, now the ecology minister in his Socialist government.</content>
+        </sentence>
+        <sentence id="24">
+          <content>French media speculated that the split occurred because of Trierweiler.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="25">
+          <content>The book comes out at a time when Hollande&amp;apost;s popularity has sagged.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="26">
+          <content>Excerpts from the book were published Thursday in the magazine Paris Match.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

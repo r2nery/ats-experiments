@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2577" link="http://cnn.com/2012/10/28/world/asia/pakistan-teen-activist/index.html" date_published="2012-10-28 21:34:59" category="world" author="Matthew Chance, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Pakistan seeks 3 in Malala shooting, minister says</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">Pakistan&amp;apost;s interior minister says teen activist&amp;apost;s assailants were &amp;quot;two young boys&amp;quot;.</sentence>
+      <sentence id="2" ids_article_sentences="5">&amp;quot;Obviously, they had done their homework,&amp;quot; Malik says .</sentence>
+      <sentence id="3" ids_article_sentences="18">Malala Yousufzai is recovering from a head wound in a British hospital .</sentence>
+      <sentence id="4" ids_article_sentences="13">Malik calls her &amp;quot;the pride of Pakistan&amp;quot;.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-11 18:14:54" annotation_time="57.07733">
+      <sentence id="2" ids_highlights="1">&amp;quot;The guys who actually made this assassination attempt, they were two young boys,&amp;quot; Rehman Malik said.</sentence>
+      <sentence id="5" ids_highlights="2">&amp;quot;Obviously they had done their homework,&amp;quot; Malik told CNN in London.</sentence>
+      <sentence id="13" ids_highlights="4">Malik called her &amp;quot;the pride of Pakistan&amp;quot; and said &amp;quot;we would love her to come back.&amp;quot;</sentence>
+      <sentence id="18" ids_highlights="3">Malik is scheduled to visit Malala on Monday in her hospital in Birmingham, England, where she is recovering from her head wound.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>London Pakistani police are searching for two youths suspected of shooting a teenage activist for girls&amp;apost; education and the man they believe drove them to the scene, the country&amp;apost;s interior minister said Sunday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>&amp;quot;The guys who actually made this assassination attempt, they were two young boys,&amp;quot; Rehman Malik said.</content>
+        </sentence>
+        <sentence id="3">
+          <content>But he said they were brought to Malala Yousufzai&amp;apost;s hometown of Swat by Atta Ullah Khan, a 23-year-old man identified by police as their primary suspect.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Malik said one of the youths distracted the driver of the car that carried Malala, while the other asked a bystander to identify her.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>&amp;quot;Obviously they had done their homework,&amp;quot; Malik told CNN in London.</content>
+        </sentence>
+        <sentence id="6">
+          <content>&amp;quot;They had seen the vehicle of Malala going up and down, and accordingly they acted on that.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>Police said last week that they had arrested six men in connection with the shooting, but were still searching for Khan, who was studying for a master&amp;apost;s degree in chemistry.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>Malik defended the investigation into the shooting, telling CNN, &amp;quot;Within 24 hours we were in a position to identify almost everybody.&amp;quot;</content>
+        </sentence>
+        <sentence id="9">
+          <content>And he rejected calls from some in Pakistan to bring the country&amp;apost;s military to bear on the attackers, saying &amp;quot;A military solution is not the solution.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>The 15-year-old Malala initially gained international attention in 2009, writing a blog about her life as the Taliban gained a foothold in her home region, in northwest Pakistan near the border with Afghanistan.</content>
+        </sentence>
+        <sentence id="11">
+          <content>Taliban leaders claimed responsibility for the shooting, but they don&amp;apost;t appear to have anticipated the level of condemnation it would provoke.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>Thousands of people in Pakistan and elsewhere have attended rallies and vigils honoring her courage and praying for her recovery.</content>
+        </sentence>
+        <sentence id="13">
+          <content>Malik called her &amp;quot;the pride of Pakistan&amp;quot; and said &amp;quot;we would love her to come back.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>He said police had offered to protect Malala three times before the incident, but her father had refused.</content>
+        </sentence>
+        <sentence id="15">
+          <content>He said her entire family would be under guard when they return to Pakistan after her treatment, for which the government will pay.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="16">
+          <content>He said that will require two cordons of police -- female officers to surround Malala, with male officers surrounding the female contingent.</content>
+        </sentence>
+        <sentence id="17">
+          <content>But he added, &amp;quot;I assure to the world community that when she goes back, we do have the ability to protect her.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="18">
+          <content>Malik is scheduled to visit Malala on Monday in her hospital in Birmingham, England, where she is recovering from her head wound.</content>
+        </sentence>
+        <sentence id="19">
+          <content>He&amp;apost;ll also meet with the foreign ministers of Britain and the United Arab Emirates, which provided the air ambulance that flew Malala to the United Kingdom.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="20">
+          <content>Malala was shot at point-blank range while on her way home from school on October 9.</content>
+        </sentence>
+        <sentence id="21">
+          <content>She was flown to Britain six days later.</content>
+        </sentence>
+        <sentence id="22">
+          <content>Her father, Ziauddin Yousufzai, visited her in Birmingham last week and described her survival as a &amp;quot;miracle for us.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="23">
+          <content>Malik said she and her parents can stay in the UK as long as needed, &amp;quot;until she is fully rehabilitated.&amp;quot;</content>
+        </sentence>
+        <sentence id="24">
+          <content>He said she had asked for her school books so she can study for exams, which he said will be given to her when she returns.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

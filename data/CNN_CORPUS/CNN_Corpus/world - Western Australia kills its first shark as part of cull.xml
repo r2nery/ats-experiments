@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2952" link="http://edition.cnn.com/2014/01/27/world/asia/australia-sharks" date_published="2014-01-27 06:43:14" category="world" author="Peter Shadbolt, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Western Australia kills its first shark as part of cull</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Western Australian government kills first shark as part of a controversial culling program.</sentence>
+      <sentence id="2" ids_article_sentences="1">Shooting of a three-meter tiger shark draws an angry response from activists.</sentence>
+      <sentence id="3" ids_article_sentences="4">Seven people have been killed in shark attacks in WA over the past three years.</sentence>
+      <sentence id="4" ids_article_sentences="9">The state&amp;apost;s premier Colin Barnett defended the bait-and-kill policy, saying it put people first.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-03 12:21:45" annotation_time="26.255667">
+      <sentence id="1" ids_highlights="1, 2">The Western Australian government killed its first shark over the weekend as part of a controversial culling program that has drawn an angry reaction from conservationists and activists.</sentence>
+      <sentence id="4" ids_highlights="3">Seven people have been killed in shark attacks in WA over the past three years, the government said.</sentence>
+      <sentence id="9" ids_highlights="4">The state&amp;apost;s premier Colin Barnett, however, said the bait-and-kill policy puts people first.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The Western Australian government killed its first shark over the weekend as part of a controversial culling program that has drawn an angry reaction from conservationists and activists.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>A spokesman for the Western Australia (WA) government confirmed that a commercial fisherman had caught and shot a three-meter tiger shark one kilometer off Old Dunsborough in the South West region.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The government&amp;apost;s program of using hooked lines attached to floating drums to cull sharks in its waters follows a spate of fatal shark attacks in the waters off Australia&amp;apost;s largest state.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>Seven people have been killed in shark attacks in WA over the past three years, the government said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>The scheme has been denounced by conservationists who say the sea predators should remain protected species.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>The culling program went ahead after federal environment minister Greg Hunt granted WA an exemption under the Environment Protection and Biodiversity Conservation Act allowing the state to hunt down sharks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>The exemption allows it to hunt the protect great white shark, one of the world&amp;apost;s largest marine predators.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;To think this shark had been in the water for 12 hours, possibly with a big bleeding hook in its mouth suffering, is just ridiculous,&amp;quot; Sea Shepherd spokeswoman Rae Threnoworth told CNN affiliate Sky News.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="9">
+          <content>The state&amp;apost;s premier Colin Barnett, however, said the bait-and-kill policy puts people first.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;I get no pleasure from seeing sharks killed, but I have an overriding responsibility to protect the people of Western Australia, and that&amp;apost;s what I&amp;apost;m doing,&amp;quot; Mr Barnett told a press conference.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="11">
+          <content>Opponents have pledged to interfere with the program and Australian media reported that shark cull activists had removed bait from drum lines.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="12">
+          <content>The WA Department of Fisheries is currently working on a satellite-linked shark tagging program as part of its research and protection program.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="13">
+          <content>Shark Monitoring Network Project Manager Mark Kleeman said the new monitor near the Busselton Jetty, 220km south of the state capital Perth, would allow beach safety authorities to know, through near real-time alerts, if a tagged shark was in the vicinity.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;Expansion of the satellite-linked network is part of a long-term project to improve safety at West Australian beaches, which will also help scientists better understand the movements of tagged sharks through WA waters,&amp;quot; Mr Kleeman said in a government release.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="15">
+          <content>Besides the satellite-linked monitors, there are also approximately 320 seabed monitors located around the South and West coasts that record movements of tagged sharks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="16">
+          <content>Mr Kleeman said each time data was physically retrieved from those monitors it would also help to establish a much broader understanding of shark behaviur and movement in WA waters.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;338 sharks have now been tagged for the ongoing Shark Monitoring Network project and the ongoing tagging program will continue to help provide even more data,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

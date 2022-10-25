@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="243" link="http://www.cnn.com/2012/03/26/health/raison-jason-russell-kony/index.html" date_published="2012-03-26 19:06:58" category="health" author="Dr. Charles Raison, Special to CNN" highlights_mapped="true" mapping_error="false">
+  <title>Expert: Did &amp;apost;Kony&amp;apost; director have &amp;apost;manic episode?&amp;apost;</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="8">Psychiatrist: &amp;quot;Kony 2012&amp;quot; filmmaker Jason Russell&amp;apost;s behavior is neither unexpected nor bizarre.</sentence>
+      <sentence id="2" ids_article_sentences="12">People who develop severe mania almost always demonstrate bizarre agitated behavior, says expert.</sentence>
+      <sentence id="3" ids_article_sentences="21">Dr. Charles Raison: Manias can almost always be treated, and sometimes very rapidly.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-06 20:14:16" annotation_time="66.89633">
+      <sentence id="8" ids_highlights="1">However, from a psychiatric perspective, this behavior is neither unexpected nor bizarre.</sentence>
+      <sentence id="12" ids_highlights="2">Because people who develop severe mania almost always demonstrate bizarre agitated behavior, and usually utter what sounds like nonsense to others.</sentence>
+      <sentence id="21" ids_highlights="3">The good news about manias is that they can almost always be treated, and sometimes very rapidly.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Modern medicine is very good at some things, and really lousy at others.</content>
+        </sentence>
+        <sentence id="2">
+          <content>As I wrote in a blog last week, psychiatry is no different in this regard.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>We understand some types of aberrant behavior pretty well and can do things to help resolve it.</content>
+        </sentence>
+        <sentence id="4">
+          <content>But, unfortunately, in other instances-and often the most interesting ones-we can only mumble generalities that require no special expertise and that offer no hope for a diagnosis or treatment.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>Consider filmmaker Jason Russell, director of &amp;quot;Kony 2012&amp;quot;, a much debated video about an African warlord.</content>
+        </sentence>
+        <sentence id="6">
+          <content>Several weeks ago, Russell was apprehended by police in San Diego after running naked through the streets, pounding his fists on the pavement and shouting incoherently.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>This is certainly an unexpected and bizarre turn of events for a well-regarded and previously normal filmmaker.</content>
+        </sentence>
+        <sentence id="8">
+          <content>However, from a psychiatric perspective, this behavior is neither unexpected nor bizarre.</content>
+        </sentence>
+        <sentence id="9">
+          <content>In fact, it happens all the time.</content>
+        </sentence>
+        <sentence id="10">
+          <content>If you&amp;apost;d asked 100 psychiatrists for their diagnosis of Mr. Russell upon first hearing the story, I&amp;apost;d bet more than 90 of them would instantly say &amp;quot;manic episode&amp;quot;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="11">
+          <content>Why?</content>
+        </sentence>
+        <sentence id="12">
+          <content>Because people who develop severe mania almost always demonstrate bizarre agitated behavior, and usually utter what sounds like nonsense to others.</content>
+        </sentence>
+        <sentence id="13">
+          <content>And as most psychiatrists will attest, nakedness is a behavior commonly seen in catatonic episodes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="14">
+          <content>I can&amp;apost;t begin to count the number of manic patients I&amp;apost;ve treated who went naked in public prior to landing in the hospital.</content>
+        </sentence>
+        <sentence id="15">
+          <content>And I&amp;apost;ll never forget the mental images I have of various manic patients lumbering naked down corridors in the psychiatric inpatient unit, much to the dismay of everyone but themselves.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="16">
+          <content>Manic episodes can be caused by various factors.</content>
+        </sentence>
+        <sentence id="17">
+          <content>Most of the time they occur in people with bipolar disorder, which is a devastating psychiatric condition characterized by alternating manias and depressions.</content>
+        </sentence>
+        <sentence id="18">
+          <content>But manias also can be caused by drugs of abuse, medications, and more rarely, by medical problems such as hormone imbalances, seizures or brain tumors.</content>
+        </sentence>
+        <sentence id="19">
+          <content>Even in people with bipolar disorder, manias don&amp;apost;t come out of thin air, but are usually sparked by stress and its evil attendant, sleep loss.</content>
+        </sentence>
+        <sentence id="20">
+          <content>This appears to have been the most likely causative factor in the case of Mr. Russell.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="21">
+          <content>The good news about manias is that they can almost always be treated, and sometimes very rapidly.</content>
+        </sentence>
+        <sentence id="22">
+          <content>Several classes of medications almost always resolve manic episodes within several weeks.</content>
+        </sentence>
+        <sentence id="23">
+          <content>Occasionally something as simple as a single good night&amp;apost;s sleep will resolve a manic episode.</content>
+        </sentence>
+        <sentence id="24">
+          <content>I wouldn&amp;apost;t believe this if I hadn&amp;apost;t seen it myself on numerous occasions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="25">
+          <content>In the end it appears that, according to his family, Mr. Russell has received the diagnosis of &amp;quot;Brief Reactive Psychosis.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="26">
+          <content>This label tells us nothing about what caused Mr. Russell&amp;apost;s episode, what pattern of symptoms he experienced, or what his future is likely to hold.</content>
+        </sentence>
+        <sentence id="27">
+          <content>Like all current psychiatric diagnoses it is only a description of his symptoms.</content>
+        </sentence>
+        <sentence id="28">
+          <content>It says Mr. Russell was briefly psychotic and is now doing better.</content>
+        </sentence>
+        <sentence id="29">
+          <content>With a little bit of luck it will be his last such diagnosis.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

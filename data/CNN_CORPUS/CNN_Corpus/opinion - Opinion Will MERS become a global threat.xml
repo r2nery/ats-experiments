@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="922" link="http://www.cnn.com/2014/05/20/opinion/lipkin-mers-cases/index.html" date_published="2014-05-20 11:44:06" category="opinion" author="W. Ian Lipkin" highlights_mapped="true" mapping_error="false">
+  <title>Opinion: Will MERS become a global threat?</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">A third case of Middle East Respiratory Syndrome in the U.S. has been reported.</sentence>
+      <sentence id="2" ids_article_sentences="37">W. Ian Lipkin: The recent rise of MERS cases should not cause panic .</sentence>
+      <sentence id="3" ids_article_sentences="25">He says if we see clusters of infections that would be cause for concern .</sentence>
+      <sentence id="4" ids_article_sentences="26">Lipkin: New MERS cases are not surprising given how globally connected we are .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-09-16 17:14:57" annotation_time="39.711666">
+      <sentence id="1" ids_highlights="1">A third case of Middle East Respiratory Syndrome in the United States has been reported.</sentence>
+      <sentence id="25" ids_highlights="3">If we notice a change in this pattern such that clusters of infections begin to appear in communities with more casual contact, that would be a strong sign that the virus is evolving to become a pandemic threat.</sentence>
+      <sentence id="26" ids_highlights="4">The MERS cases in new countries are disturbing but not surprising given how globally connected we are.</sentence>
+      <sentence id="37" ids_highlights="2">The recent MERS cases should not trigger an alarm.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>A third case of Middle East Respiratory Syndrome in the United States has been reported.</content>
+        </sentence>
+        <sentence id="2">
+          <content>An unidentified Illinois man was infected after having &amp;quot;extended face-to-face contact&amp;quot; with an Indiana man who was diagnosed with the MERS virus.</content>
+        </sentence>
+        <sentence id="3">
+          <content>Fortunately, he is no longer ill.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="4">
+          <content>The rise in the reported number of MERS cases in the United States, Asia and Europe has fueled concern that this may be the big one: the 21st century equivalent of the 1918 influenza pandemic that killed 3% to 5% of the world population.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>Concern is appropriate, because the coronavirus responsible for MERS can evolve to become more potent public health threats.</content>
+        </sentence>
+        <sentence id="6">
+          <content>However, I don&amp;apost;t yet see evidence that will happen.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>For one thing, an increase in the number of reported cases is not equivalent to an increase in the number of actual cases.</content>
+        </sentence>
+        <sentence id="8">
+          <content>As MERS testing is expanded from people with severe disease to include those with mild disease or only a history of potential exposure, we will detect more cases of infection.</content>
+        </sentence>
+        <sentence id="9">
+          <content>The mortality rate associated with infection will decrease from the current estimate of 30%.</content>
+        </sentence>
+        <sentence id="10">
+          <content>In short, we don&amp;apost;t yet know the extent to which an increase in the reported number of cases only reflects better case ascertainment.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="11">
+          <content>MERS, like 70% of all emerging infectious diseases, including influenza, SARS, HIV/AIDS and ebola, originates in wildlife.</content>
+        </sentence>
+        <sentence id="12">
+          <content>With MERS, both bats and camels may be implicated.</content>
+        </sentence>
+        <sentence id="13">
+          <content>Studies of camels in Saudi Arabia indicate that the majority have a history of MERS coronavirus infection.</content>
+        </sentence>
+        <sentence id="14">
+          <content>Infection appears to occur in early life and then clears.</content>
+        </sentence>
+        <sentence id="15">
+          <content>Up to a third of young camels carry this infectious virus.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Because camels are born in the spring, there may be an increased amount of virus circulating in camels in spring and summer months.</content>
+        </sentence>
+        <sentence id="17">
+          <content>This may contribute to a seasonal spike in the reported number of MERS cases.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="18">
+          <content>Humans may become infected through contact with infected animals, meat or other animal products such as milk.</content>
+        </sentence>
+        <sentence id="19">
+          <content>However, pandemic spread cannot occur without efficient human-to-human transmission.</content>
+        </sentence>
+        <sentence id="20">
+          <content>The MERS coronavirus grows deep in the human respiratory tract, so it is less likely to be transmitted than viruses that grow in teh nose, mouth or upper airways where a sneeze or a cough is sufficient to create an infectious aerosol.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="21">
+          <content>Hospitalized patients with pneumonia-like MERS receive vigorous respiratory interventions such as intubation, assisted ventilation, drugs that dilate airways and chest percussion.</content>
+        </sentence>
+        <sentence id="22">
+          <content>These interventions may bring virus into the environment in aerosols and on the surfaces of medical equipment, resulting in infection of hospital personnel and other patients.</content>
+        </sentence>
+        <sentence id="23">
+          <content>Since the MERS coronavirus has been shown to be stable for up to 48 hours, it may be difficult to determine the source of infection as people and equipment circulate in the health care environment.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="24">
+          <content>To date, cases of human-to-human transmission have only been reported in hospitals and in families where there is intimate contact with an infected person.</content>
+        </sentence>
+        <sentence id="25">
+          <content>If we notice a change in this pattern such that clusters of infections begin to appear in communities with more casual contact, that would be a strong sign that the virus is evolving to become a pandemic threat.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="26">
+          <content>The MERS cases in new countries are disturbing but not surprising given how globally connected we are.</content>
+        </sentence>
+        <sentence id="27">
+          <content>International travel and foot traffic make it easier to spread a virus.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="28">
+          <content>The first two cases reported in the United States, in Indiana and Florida, were health care workers returning from Saudi Arabia.</content>
+        </sentence>
+        <sentence id="29">
+          <content>Although a third case has been linked to contact with the Indiana case, I am cautiously optimistic that a cluster of cases will not be triggered.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="30">
+          <content>Nonetheless, vigilance is essential.</content>
+        </sentence>
+        <sentence id="31">
+          <content>Saudi Arabia has more than 7 million foreign workers and hosts more than 3 million religious pilgrims annually.</content>
+        </sentence>
+        <sentence id="32">
+          <content>If new cases arise they will almost certainly be imported.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="33">
+          <content>The key to an effective pandemic response is to acknowledge that infectious disease challenges are global rather than national.</content>
+        </sentence>
+        <sentence id="34">
+          <content>Information and biological samples must be shared freely to facilitate surveillance and the development of diagnostics, drugs and vaccines.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="35">
+          <content>In this spirit, the government of Saudi Arabia has recently invited teams of international experts to join forces in addressing the global challenge of MERS.</content>
+        </sentence>
+        <sentence id="36">
+          <content>Although we are focusing on MERS now, the reality is that viruses and antibiotic resistant bacteria with pandemic potential are continuously emerging and re-emerging worldwide.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="37">
+          <content>The recent MERS cases should not trigger an alarm.</content>
+        </sentence>
+        <sentence id="38">
+          <content>But if a pandemic happens, it is important we are prepared to combat it.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="39">
+          <content>Follow us on Twitter @CNNOpinion.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="40">
+          <content>Join us on Facebook/CNNOpinion.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="9" link="http://edition.cnn.com/2013/03/07/business/arianna-huffington-leading-women" date_published="2013-03-07 22:56:19" category="business" author="Poppy Harlow, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Arianna Huffington tells women: &amp;apost;Less stress, more living&amp;apost;</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="13">Arianna Huffington founded one of the world&amp;apost;s most successful media companies, The Huffington Post, in 2005.</sentence>
+      <sentence id="2" ids_article_sentences="13">She sold the company to AOL for $315 million two years ago .</sentence>
+      <sentence id="3" ids_article_sentences="4">She describes herself as a &amp;quot;sleep evangelist&amp;quot; and obsessed with stress reduction.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-04 16:43:47" annotation_time="89.679665" mapping_time_divergence="29.89322">
+      <sentence id="4" ids_highlights="3">She describes herself as a &amp;quot;sleep evangelist,&amp;quot; has nap rooms in her offices at the AOL headquarters in New York and tries to start every day with meditation.</sentence>
+      <sentence id="13" ids_highlights="1, 2">Huffington, 62, founded Huffington Post in 2005, and two years ago sold it to AOL for $315 million.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>As president and editor-in-chief of The Huffington Post, you would expect Arianna Huffington to be living her life at 100 mph.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Not so, she says (although she is often spotted running from event to event gripping multiple smartphones while tweeting at the same time).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>In fact, Huffington, founder of the Huffington Post Media Group, is on a mission to persuade us all to slow down.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>She describes herself as a &amp;quot;sleep evangelist,&amp;quot; has nap rooms in her offices at the AOL headquarters in New York and tries to start every day with meditation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>&amp;quot;I&amp;apost;ve been meditating for years but now I&amp;apost;m increasingly making it part of my daily routine,&amp;quot; she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>In fact, she jokingly says she slept her way to the top.</content>
+        </sentence>
+        <sentence id="7">
+          <content>&amp;quot;There is that special glow after a good night&amp;apost;s sleep when you feel really in the zone.</content>
+        </sentence>
+        <sentence id="8">
+          <content>You feel like &amp;apost;Bring it on -- you know I can handle anything!&amp;apost;&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>For a woman so successful, it is of course a mission with a business opportunity.</content>
+        </sentence>
+        <sentence id="10">
+          <content>The Huffington Post has a new &amp;quot;Less Stress More Living&amp;quot; lifestyle section and the company recently launched an iPhone app called &amp;quot;GPS for the Soul,&amp;quot; at the Consumer Electronics Show in Las Vegas.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;I am obsessed with stress reduction,&amp;quot; said Huffington.</content>
+        </sentence>
+        <sentence id="12">
+          <content>&amp;quot;We (The Huffington Post) are now moving into lifestyle and growing our offering in that department, especially at a time when we are recognizing more and more the dangers of stress.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>Huffington, 62, founded Huffington Post in 2005, and two years ago sold it to AOL for $315 million.</content>
+        </sentence>
+        <sentence id="14">
+          <content>She and AOL CEO Tim Armstrong inked the deal during halftime at the Super Bowl.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>She was listed on Time Magazine&amp;apost;s &amp;quot;Time 100&amp;quot; list of the world&amp;apost;s 100 most influential people in 2006 and 2011, and among Forbes &amp;quot;100 Most Powerful Women&amp;quot; for the past three years.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>Huffington Post now has editions in six countries, launched a HuffPost Live streaming network last year and has plans to expand into Japan and Brazil.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;I started with wanting to create a site that was incredibly engaging,&amp;quot; said Huffington.</content>
+        </sentence>
+        <sentence id="18">
+          <content>&amp;quot;And the timing was great, I loved my work, working hard doesn&amp;apost;t feel like drudgery.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;And then I think we made some really smart moves, the acquisition was an incredibly smart move, moving internationally was really the right moment.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="20">
+          <content>Huffington was born in Athens, Greece, (she jokingly calls herself a &amp;quot;Greek peasant girl&amp;quot;) and moved to the UK at age 16, winning a place at Cambridge University to study economics.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="21">
+          <content>&amp;quot;My mother would tell me from a very young age never to be afraid of failing,&amp;quot; she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;I was absolutely fine taking risks.</content>
+        </sentence>
+        <sentence id="23">
+          <content>Trying to get into Cambridge when everybody said you&amp;apost;ll never get in, or writing my first book when I was 23.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="24">
+          <content>&amp;quot;A lot of things that were likely to fail and many did fail.</content>
+        </sentence>
+        <sentence id="25">
+          <content>I mean my first book did well, my second book was rejected by 36 publishers.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="26">
+          <content>She has now written 13 books.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="27">
+          <content>Her advice?</content>
+        </sentence>
+        <sentence id="28">
+          <content>Embrace failure, she said.</content>
+        </sentence>
+        <sentence id="29">
+          <content>&amp;quot;You can recognize very often that out of these projects that may not have succeeded themselves that other successes are built.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="30">
+          <content>While at Cambridge, Huffington became president of its prestigious Cambridge Union debating society, but said she initially struggled to be accepted.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="31">
+          <content>&amp;quot;I was terrible,&amp;quot; she said.</content>
+        </sentence>
+        <sentence id="32">
+          <content>&amp;quot;My accent, if you can believe it, was even heavier.</content>
+        </sentence>
+        <sentence id="33">
+          <content>In the UK having a foreign accent at the time especially was still seen as really alien.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="34">
+          <content>&amp;quot;Learning to debate was definitely on that young Arianna&amp;apost;s dream list.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="35">
+          <content>&amp;quot;Therefore I was prepared to stay up late, be ridiculed, whatever it took.</content>
+        </sentence>
+        <sentence id="36">
+          <content>I was determined to learn to speak.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="37">
+          <content>Huffington moved to the United States in 1980, where she found her accent was more easily accepted.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="38">
+          <content>&amp;quot;I remember Henry Kissinger saying to me &amp;apost;don&amp;apost;t worry about your accent, in American public life you can never overestimate the advantages of incomprehensibility.&amp;apost; &amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="39">
+          <content>In more than three decades since moving to the United States, Huffington&amp;apost;s influence on public life has grown exponentially.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="40">
+          <content>In 2003, she stood against Arnold Schwarzenegger as an independent candidate for governor of California.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="41">
+          <content>She rejects political definitions of left and right (although she is widely viewed as a staunch liberal these days), but has plenty of advice for President Barack Obama.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="42">
+          <content>&amp;quot;For me the biggest crisis that&amp;apost;s not being addressed at the moment in Washington is youth unemployment.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="43">
+          <content>&amp;quot;It&amp;apost;s the fact that 50% of college graduates either can&amp;apost;t get a job or are doing a job for which they wouldn&amp;apost;t have needed a college degree.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="44">
+          <content>&amp;quot;That&amp;apost;s not sustainable.</content>
+        </sentence>
+        <sentence id="45">
+          <content>That really goes against the American dream, which is based on the assumption that you work hard, you play by the rules and then you do well.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="46">
+          <content>Huffington is divorced with two daughters in their 20s.</content>
+        </sentence>
+        <sentence id="47">
+          <content>Her biggest hope for her daughters&amp;apost; generation is that they will feel less pressure.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="48">
+          <content>&amp;quot;I think especially as women we need to recognize that feeling pressure is completely self imposed,&amp;quot; she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="34">
+      <sentences>
+        <sentence id="49">
+          <content>&amp;quot;We women suffer more than men what I call the obnoxious roommate living in our head, which is that critical voice that constantly judges us, according to which we are never good enough.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="35">
+      <sentences>
+        <sentence id="50">
+          <content>&amp;quot;One of the advantages of growing older is that you stop looking over your shoulder, you stop feeling that pressure.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="36">
+      <sentences>
+        <sentence id="51">
+          <content>&amp;quot;My only hope for younger women like my daughters is why not feel that earlier.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

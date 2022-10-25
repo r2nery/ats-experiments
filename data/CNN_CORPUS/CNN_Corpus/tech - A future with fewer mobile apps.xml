@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1558" link="http://edition.cnn.com/2012/07/27/tech/mobile/mobile-apps-decline/index.html" date_published="2012-07-27 15:59:42" category="tech" author="Amy Gahran, Special to CNN" highlights_mapped="true" mapping_error="false">
+  <title>A future with fewer mobile apps?</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="7">The mobile web, mobile devices and wireless networks have all evolved .</sentence>
+      <sentence id="2" ids_article_sentences="10">Downloadable apps from news and magazine publishers are likely to become relics.</sentence>
+      <sentence id="3" ids_article_sentences="22">E-books, resource guides, and online courses might be deployed in more app-like way.</sentence>
+      <sentence id="4" ids_article_sentences="24">App-like properties will probably proliferate into future generations.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-20 14:17:27" annotation_time="48.596">
+      <sentence id="7" ids_highlights="1">Since then, the mobile Web (indeed, Web technology overall) as well as mobile devices and wireless networks have all evolved considerably.</sentence>
+      <sentence id="10" ids_highlights="2">Downloadable apps from news and magazine publishers are especially likely to become relics of the digital past, according to ABI:.</sentence>
+      <sentence id="22" ids_highlights="3">Many packages of content that contain interactive content -- especially e-books, resource guides, and online courses or learning modules -- might grow more sophisticated.</sentence>
+      <sentence id="24" ids_highlights="4">So while &amp;quot;apps&amp;quot; as we&amp;apost;ve known them so far may be on the decline, app-like properties will probably proliferate into future generations of digital content, services, and experiences.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>How many apps do you have on your smartphone?</content>
+        </sentence>
+        <sentence id="2">
+          <content>If that&amp;apost;s an unwieldy number today, expect it to slim down considerably in the future.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>ABI Research recently predicted that in coming years, smartphone users around the world will be downloading and using fewer and fewer apps.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>What will they be doing instead?</content>
+        </sentence>
+        <sentence id="5">
+          <content>Using the mobile Web more and more, according to senior analyst Aapo Markkanen.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>In the early days of smartphones and tablets, downloadable apps dominated the mobile experience -- mainly because browsing the Web via mobile devices, on slower 2G and 3G carrier data networks, was a painful process which often yielded clunky usability and unreliable results.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>Since then, the mobile Web (indeed, Web technology overall) as well as mobile devices and wireless networks have all evolved considerably.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>Now it&amp;apost;s possible to do many things easily and well with HTML5 and mobile Web browsers -- things that previously would work well only in apps.</content>
+        </sentence>
+        <sentence id="9">
+          <content>And mobile users don&amp;apost;t have to download, install, or remember to launch any software in order to enjoy the benefits of &amp;quot;Web apps.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>Downloadable apps from news and magazine publishers are especially likely to become relics of the digital past, according to ABI:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;The decision by the Financial Times to pull the plug on its iOS app and bet instead on HTML5 can be seen as a hint of what is to come next.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>Markkanen noted that the speedy decline of news and media apps will cause the overall app market to take a hit.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>&amp;quot;Since news and media content already account for a large share of smartphone usage and are likely to play an even bigger role in later adopters&amp;apost; usage, changes in this segment alone will make subscribers on average download fewer native apps,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>That&amp;apost;s not surprising, since news and magazine apps mainly deliver content rather than interactive functionality.</content>
+        </sentence>
+        <sentence id="15">
+          <content>It&amp;apost;s cheaper, simpler, and more reliable to deliver content via the Web than to build and maintain software apps which users must then discover, download, and remember to run.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="16">
+          <content>Also, many news organizations have been facing especially dire economic challenges for years now.</content>
+        </sentence>
+        <sentence id="17">
+          <content>Switching from downloadable, platform-specific apps to Web apps allows them to serve more users with a single, simple product.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="18">
+          <content>This could present problems for app- and platform-dependent publishing strategies such as The Daily -- a big-budget, subscription-based publication from News Corporation, available only via an Apple iPad app.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="19">
+          <content>However, certain types of mobile apps probably will remain popular.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="20">
+          <content>According to ABI: &amp;quot;In many app categories, like games and most utilities, the Web will probably never catch up with the native app opportunity in terms of user experience.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="21">
+          <content>One thing to keep an eye on is how the publishing industry evolves.</content>
+        </sentence>
+        <sentence id="22">
+          <content>Many packages of content that contain interactive content -- especially e-books, resource guides, and online courses or learning modules -- might grow more sophisticated.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="23">
+          <content>It might make more sense for these to be deployed in a more app-like fashion, especially to support use when not connected to the Internet or a carrier data network.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="24">
+          <content>So while &amp;quot;apps&amp;quot; as we&amp;apost;ve known them so far may be on the decline, app-like properties will probably proliferate into future generations of digital content, services, and experiences.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="25">
+          <content>The opinions expressed in this post are solely those of Amy Gahran.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

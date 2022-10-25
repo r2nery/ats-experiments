@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1606" link="http://www.cnn.com/2012/06/20/tech/mobile/microsoft-surface-tablet-security/index.html" date_published="2012-06-20 20:18:09" category="tech" author="Amy Gahran, Special to CNN" highlights_mapped="true" mapping_error="false">
+  <title>How secure will Microsoft&amp;apost;s new Surface tablets be?</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Microsoft announced its Surface tablets this week.</sentence>
+      <sentence id="2" ids_article_sentences="1">Security is a growing concern for users of mobile devices.</sentence>
+      <sentence id="3" ids_article_sentences="5">Surface models probably won&amp;apost;t pose any significant additional security risks to mobile users.</sentence>
+      <sentence id="4" ids_article_sentences="32">One expert says Microsoft is ahead of Apple in security.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2015-01-25 17:05:26" annotation_time="3595.7266">
+      <sentence id="1" ids_highlights="1, 2">Microsoft has announced its Surface tablets, due out late this year, at a time when security is a growing concern for users of mobile devices.</sentence>
+      <sentence id="5" ids_highlights="3">But in general, these devices probably won&amp;apost;t pose any significant additional security risks to mobile users.</sentence>
+      <sentence id="32" ids_highlights="4">Security expert Eugene Kaspersky recently told Computer Business Review that Apple is &amp;quot;10 years behind Microsoft in terms of security.&amp;quot;</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Microsoft has announced its Surface tablets, due out late this year, at a time when security is a growing concern for users of mobile devices.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>And when most consumers think security, Microsoft probably isn&amp;apost;t the first brand to spring to mind.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>But are Surface tablets likely to be any more or less secure than the iPad or Android tablets?</content>
+        </sentence>
+        <sentence id="4">
+          <content>That could depend on which Surface model you&amp;apost;re talking about.</content>
+        </sentence>
+        <sentence id="5">
+          <content>But in general, these devices probably won&amp;apost;t pose any significant additional security risks to mobile users.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>Microsoft said there will be two versions of Surface.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>The first, due out this fall, will run the not-yet-released Windows RT operating system -- a tablet-based version of the Windows Phone OS, which will only run apps adapted for Microsoft&amp;apost;s tile-based &amp;quot;Metro&amp;quot; user interface.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>So far, Microsoft has offered few hardcore details about this system.</content>
+        </sentence>
+        <sentence id="9">
+          <content>But the tech news site Pocket Lint offered a good rundown of what to expect from Windows RT.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>The higher-end second Surface tablet, probably due out a few months later, will run the full Windows 8 operating system.</content>
+        </sentence>
+        <sentence id="11">
+          <content>This OS also has not yet been released, but a consumer preview has been available for several months.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>At a conference Tuesday, Collin Davis, senior director of development for Symantec&amp;apost;s Norton line of security software, explained that so far it&amp;apost;s hard to say exactly what types of security concerns Windows RT devices might pose.</content>
+        </sentence>
+        <sentence id="13">
+          <content>But security experts know a fair bit about Windows 8.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;It&amp;apost;s a lot like the current desktop version of Windows we have today, so its security issues will probably be very similar,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>&amp;quot;Microsoft raised the security bar considerably a few years ago when they introduced Microsoft Security Essentials,&amp;quot; Davis added, referring to software has since been rebranded as Microsoft Defender.</content>
+        </sentence>
+        <sentence id="16">
+          <content>It offers a level of protection against threats such as spyware, botnets, phishing attacks, websites that install malicious code and more.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;We know that Windows 8 will include Defender,&amp;quot; Davis said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="18">
+          <content>The &amp;quot;bad guys&amp;quot; who develop malware and other security threats pay close attention to the level of security built into Microsoft products, since Windows remains the most popular computer operating system in the world.</content>
+        </sentence>
+        <sentence id="19">
+          <content>And right now, those bad guys are busily updating their code, Davis said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="20">
+          <content>Hackers today can already exploit Windows 7 and soon should be able to exploit Windows 8, he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="21">
+          <content>One key difference in Windows 8 is that it&amp;apost;s two operating systems in one.</content>
+        </sentence>
+        <sentence id="22">
+          <content>It offers a regular Windows desktop interface as well as Microsoft&amp;apost;s newer &amp;quot;Metro&amp;quot; interface -- the tile-based design that&amp;apost;s the hallmark of Windows Phone.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="23">
+          <content>In contrast, the first model of the Surface tablet (Windows RT only) will only offer the Metro interface, so it won&amp;apost;t be able to run the full versions of many desktop apps popular with Windows users, such as Photoshop.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="24">
+          <content>&amp;quot;From a security perspective, we expect this device to be about the same as what we see with current mobile operating systems such as Android and iOS,&amp;quot; Davis said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="25">
+          <content>According to Networked World, Windows RT might offer some security advantages for large organizations: &amp;quot;Microsoft can perform a type of network access control on Windows RT devices as a way to protect corporate networks from harm ... making them a cut above iPads and Android tablets in this regard.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="26">
+          <content>If you&amp;apost;re concerned about security, you can purchase extra security software such as Norton or other products from various vendors, many of which have mobile apps.</content>
+        </sentence>
+        <sentence id="27">
+          <content>For the Windows 8 version of Surface, such software could provide additional protection above what Microsoft Defender offers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="28">
+          <content>In the big picture for mobile, so far the vast majority of mobile security threats are malware that target Android devices.</content>
+        </sentence>
+        <sentence id="29">
+          <content>The open nature of the Android OS and the ease with which Android apps can be distributed through the Google Play store make this possible.</content>
+        </sentence>
+        <sentence id="30">
+          <content>So users of Android devices, including tablets, should be especially careful of security risks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="31">
+          <content>Despite popular opinion that Apple devices are inherently more secure and despite ongoing Windows security problems such as the pernicious Conficker worm, Microsoft may actually be better at security overall than Apple.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="32">
+          <content>Security expert Eugene Kaspersky recently told Computer Business Review that Apple is &amp;quot;10 years behind Microsoft in terms of security.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="33">
+          <content>Kaspersky was referring to Macintosh computers, but his comments might also apply to iPhones and iPads.</content>
+        </sentence>
+        <sentence id="34">
+          <content>Simply because Windows has long been the world&amp;apost;s most popular computer operating system by a long shot, it has been a far more attractive target for bad guys seeking to exploit security holes.</content>
+        </sentence>
+        <sentence id="35">
+          <content>Thus Microsoft has far more experience with spotting, combating and communicating about security issues.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="36">
+          <content>Whether this expertise ends up making these new Windows tablets extra secure remains to be seen.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="37">
+          <content>The opinions expressed in this post are solely those of Amy Gahran.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

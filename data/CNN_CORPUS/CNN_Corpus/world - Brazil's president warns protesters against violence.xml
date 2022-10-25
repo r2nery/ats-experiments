@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2101" link="http://cnn.com/2013/06/21/world/americas/brazil-protests/?hpt=hp_t2" date_published="2013-06-21 21:41:12" category="world" author="Mariano Castillo and Shasta Darlington, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Brazil&amp;apost;s president warns protesters against violence</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="6">NEW: President Dilma Rousseff says she will meet with protest leaders.</sentence>
+      <sentence id="2" ids_article_sentences="1">NEW: In a televised address, she warned she will not tolerate violence.</sentence>
+      <sentence id="3" ids_article_sentences="7">Rousseff held an emergency meeting with her Cabinet.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-17 14:33:33" annotation_time="22.349">
+      <sentence id="1" ids_highlights="2">In the aftermath of more than one million people taking to the streets in anti-government demonstrations, Brazilian President Dilma Rousseff vowed Friday to talk with protest leaders but warned the government would not tolerate violence.</sentence>
+      <sentence id="6" ids_highlights="1">Rousseff said she planned to meet with leaders of the protest movement, but did not publicly detail when or where the meetings would take place.</sentence>
+      <sentence id="7" ids_highlights="3">Her remarks followed an emergency meeting with her Cabinet.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>In the aftermath of more than one million people taking to the streets in anti-government demonstrations, Brazilian President Dilma Rousseff vowed Friday to talk with protest leaders but warned the government would not tolerate violence.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The warning came amid sporadic reports of looting, people breaking into public buildings and protesters setting fires during demonstrations that appeared to take the government by surprise this week.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The movement has brought together Brazilians angered by a government they say is shortchanging its duties to its citizens while spending lavishly on events such as the 2014 World Cup and 2016 Olympic Games.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>&amp;quot;We cannot live with this violence,&amp;quot; Rousseff said in a nationally televised address.</content>
+        </sentence>
+        <sentence id="5">
+          <content>She called on security forces to work within the framework of the country&amp;apost;s law to prevent violence and vandalism.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>Rousseff said she planned to meet with leaders of the protest movement, but did not publicly detail when or where the meetings would take place.</content>
+        </sentence>
+        <sentence id="7">
+          <content>Her remarks followed an emergency meeting with her Cabinet.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>While most of the protests have remained peaceful, there have been reports of sporadic violence that have resulted in two deaths.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>On Friday, state-run Agencia Brasil reported an employee of the city of Belem, who as cleaning the streets near the mayor&amp;apost;s office, died after being &amp;quot;shocked&amp;quot; by clashes between police and protesters.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>The news agency did not say how the woman died, but reported that she suffered from hypertension and was transported to a hospital, where she died Friday morning.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>Another protest-related casualty reportedly occurred Thursday in Sao Paulo state, where a young man was run over by an SUV at an intersection during a demonstration, state police said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>Even after various state governments repealed the public transportation fare hikes that spurred the discontent, more than a million people took to the streets across the country on Thursday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="13">
+          <content>Until now, the government&amp;apost;s position was to support the protests as peaceful freedom of expression, and it is unclear whether there will be a shift as violent incidents mount and the unrest continues.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;It&amp;apost;s a very delicate balance, and it&amp;apost;s not very simple,&amp;quot; Roberto Jaguaribe, Brazil&amp;apost;s ambassador to the United Kingdom, told CNN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="15">
+          <content>The government wants to protect protesters and property, while not being overbearing with its response.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="16">
+          <content>It&amp;apost;s presumptuous, Jaguaribe said, to assume that the government understands what is taking place on the streets and the forces behind it.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="17">
+          <content>Protesters say they want to see more expenditures on education and health care, changes that cannot be done quickly.</content>
+        </sentence>
+        <sentence id="18">
+          <content>The majority of marchers are young and well-educated.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;One of the problems is that the normal democratic channels that are established are not followed by these people,&amp;quot; Jaguaribe said.</content>
+        </sentence>
+        <sentence id="20">
+          <content>&amp;quot;They don&amp;apost;t feel represented adequately by these channels.</content>
+        </sentence>
+        <sentence id="21">
+          <content>They want to to create something new.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;We have to understand that and see how it goes,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="23">
+          <content>The mood in Sao Paulo, one of the centers of the protests, was tense Friday.</content>
+        </sentence>
+        <sentence id="24">
+          <content>Many were anxious to hear a message from Rousseff.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="25">
+          <content>The protests come amid the soccer Confederations Cup tournament, a friendly array of matches, in which the host country, Brazil, plays against a small group of national teams from around the globe.</content>
+        </sentence>
+        <sentence id="26">
+          <content>The cup serves as a precursor to the World Cup.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

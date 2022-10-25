@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="869" link="http://www.cnn.com/2013/04/04/opinion/jackson-mlk-anniversary/index.html" date_published="2013-04-04 16:08:51" category="opinion" author="Jesse Jackson, Special to CNN" highlights_mapped="true" mapping_error="false">
+  <title>Opinion: For Dr. King, everybody in and nobody out</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Today is the 45th anniversary of the assassination of Dr. Martin Luther King Jr.</sentence>
+      <sentence id="2" ids_article_sentences="39">Rev. Jesse Jackson: King&amp;apost;s work was not about complexion, but direction.</sentence>
+      <sentence id="3" ids_article_sentences="48">He says if King were alive today, he would fight against poverty, polarization .</sentence>
+      <sentence id="4" ids_article_sentences="52">Jackson: King fought for a one, big-tent America, everybody in and nobody out .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-08 07:14:08" annotation_time="59.44933">
+      <sentence id="1" ids_highlights="1">Today is the 45th anniversary of the assassination of Dr. Martin Luther King, Jr., a champion for freedom, civil rights and justice.</sentence>
+      <sentence id="39" ids_highlights="2">Ultimately though, King&amp;apost;s work was not about complexion, but direction.</sentence>
+      <sentence id="48" ids_highlights="3">If King were alive today, I imagine he would cry out for new priorities.</sentence>
+      <sentence id="52" ids_highlights="4">King fought for democracy over Democrats, the republic over Republicans, a one big-tent America: everybody in and nobody out.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Today is the 45th anniversary of the assassination of Dr. Martin Luther King, Jr., a champion for freedom, civil rights and justice.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>I was blessed to be with him the last weekend before his death.</content>
+        </sentence>
+        <sentence id="3">
+          <content>I remember the trauma he felt as a result of his opposition to the war in Vietnam.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Before going to Memphis, King had the Rev. Ralph Abernathy call for a staff meeting in his church study on a Saturday morning.</content>
+        </sentence>
+        <sentence id="5">
+          <content>His close aides came.</content>
+        </sentence>
+        <sentence id="6">
+          <content>King complained that he had felt the pain of &amp;quot;a migraine headache for four days.&amp;quot;</content>
+        </sentence>
+        <sentence id="7">
+          <content>He said, &amp;quot;Maybe I&amp;apost;ve done as much as I could.</content>
+        </sentence>
+        <sentence id="8">
+          <content>We&amp;apost;ve come from the back of the bus, gotten the Voting Rights Act, the Civil Rights Act...&amp;quot; One of us -- Andy Young -- asked him not to talk that way.</content>
+        </sentence>
+        <sentence id="9">
+          <content>King responded, &amp;quot;Don&amp;apost;t say peace when there is no peace.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="10">
+          <content>Many of his supporters had turned against him because of his position on the war in Vietnam, but King felt he had to do what was right.</content>
+        </sentence>
+        <sentence id="11">
+          <content>He contended, &amp;quot;There are those who want me to confine my morality to the war on poverty and overlook the war in Vietnam.</content>
+        </sentence>
+        <sentence id="12">
+          <content>However, the bombs in Vietnam ultimately explode at home because of poverty.&amp;quot;</content>
+        </sentence>
+        <sentence id="13">
+          <content>He contemplated fasting until he was near the point of death, anticipating that &amp;quot;those who disagree with me would come to my bedside and we could reconcile.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="14">
+          <content>But then he shook off his pessimism and declared, &amp;quot;Let&amp;apost;s turn a minus into a plus, like we did before.</content>
+        </sentence>
+        <sentence id="15">
+          <content>Let&amp;apost;s make this nation deal forthrightly with the issue of poverty.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="16">
+          <content>It was with this insight in mind that we went on to Memphis to work with sanitation workers.</content>
+        </sentence>
+        <sentence id="17">
+          <content>Beyond their work and their stained uniforms, these workers wanted their children to graduate from college and to attain the American dream.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="18">
+          <content>King was invited to speak at the Mason Temple church, but he still suffered from a migraine headache.</content>
+        </sentence>
+        <sentence id="19">
+          <content>He sent Abernathy and me in his place.</content>
+        </sentence>
+        <sentence id="20">
+          <content>It was a big space, and everyone applauded, assuming King was behind us.</content>
+        </sentence>
+        <sentence id="21">
+          <content>We went to the back of the church and called King to tell him he had to come, even if not for long.</content>
+        </sentence>
+        <sentence id="22">
+          <content>He came.</content>
+        </sentence>
+        <sentence id="23">
+          <content>That night, he gave the now famous &amp;quot;mountaintop&amp;quot; speech.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="24">
+          <content>Yet, Memphis is memorable less for the accolades for King than for the condemnations of him.</content>
+        </sentence>
+        <sentence id="25">
+          <content>We idolize him now as a martyr; we but rejected him as a marcher.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="26">
+          <content>Dr. King was invested in the war on poverty, but the federal government and the media were invested in the war in Vietnam.</content>
+        </sentence>
+        <sentence id="27">
+          <content>He was invested in justice, but many in the world were invested in the status quo.</content>
+        </sentence>
+        <sentence id="28">
+          <content>He was vilified, lied to, spied upon, jailed and threatened.</content>
+        </sentence>
+        <sentence id="29">
+          <content>Sick and misguided people wanted to see Dr. King dead, but he represented a truth that lives cannot deter, that jails cannot confine, and bullets cannot kill.</content>
+        </sentence>
+        <sentence id="30">
+          <content>Those who shot him meant it for evil, but instead they shot him into immortality.</content>
+        </sentence>
+        <sentence id="31">
+          <content>King cannot be buried.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="32">
+          <content>When confronted with a dilemma, King often said that we face three questions: First, our vanity asks &amp;quot;Is it popular?&amp;quot;</content>
+        </sentence>
+        <sentence id="33">
+          <content>Second, politics asks the question &amp;quot;Can it win?&amp;quot;</content>
+        </sentence>
+        <sentence id="34">
+          <content>Finally, conscience asks the question, &amp;quot;Is it right?&amp;quot;</content>
+        </sentence>
+        <sentence id="35">
+          <content>It may be neither popular nor politic, King argued, but if it is right it will prevail.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="36">
+          <content>In the time since King saw his vision from the mountaintop, much has changed for the better.</content>
+        </sentence>
+        <sentence id="37">
+          <content>Three women have been appointed to the Supreme Court; voting has become more democratic; women sit on juries as well as men; students vote en masse.</content>
+        </sentence>
+        <sentence id="38">
+          <content>We now have a black president and our state legislatures and local governments are comprised of people who are black, Asian, Hispanic, white, female and male.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="39">
+          <content>Ultimately though, King&amp;apost;s work was not about complexion, but direction.</content>
+        </sentence>
+        <sentence id="40">
+          <content>He fought for freedom, but equality was the next stage.</content>
+        </sentence>
+        <sentence id="41">
+          <content>Freedom was the absence of barbarism and sickness; the fight for equality is a move towards sharing resources.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="42">
+          <content>Former allies in the freedom movement would not necessarily be our allies in the equality movement.</content>
+        </sentence>
+        <sentence id="43">
+          <content>We may go to sporting events together, like when the New Orleans Saints play the Atlanta Falcons, but when the game is over we rarely vote together, do not share capital and grow together.</content>
+        </sentence>
+        <sentence id="44">
+          <content>We are missing an opportunity and growing apart.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="45">
+          <content>While we struggle over the battles of sequestration and fiscal cliffs, we ignore the growth of poverty.</content>
+        </sentence>
+        <sentence id="46">
+          <content>Instead of horizontal divergence based on race, we now face vertical polarization that separates the haves from the have-nots.</content>
+        </sentence>
+        <sentence id="47">
+          <content>There is no apparent plan for reconstruction.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="48">
+          <content>If King were alive today, I imagine he would cry out for new priorities.</content>
+        </sentence>
+        <sentence id="49">
+          <content>He could not rest with the new forms of war and old forms of poverty.</content>
+        </sentence>
+        <sentence id="50">
+          <content>He would abhor the political polarization that is the new normal in American life.</content>
+        </sentence>
+        <sentence id="51">
+          <content>He would challenge the rhetoric of states rights and its attempt to undermine a more perfect union.</content>
+        </sentence>
+        <sentence id="52">
+          <content>King fought for democracy over Democrats, the republic over Republicans, a one big-tent America: everybody in and nobody out.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="53">
+          <content>Follow us on Twitter @CNNOpinion.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="54">
+          <content>Join us on Facebook/CNNOpinion.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1038" link="http://www.cnn.com/2012/10/03/politics/timing-and-debates/index.html" date_published="2012-10-03 18:59:06" category="politics" author="Allison Brennan, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Debate time: The candidates&amp;apost; version of the two-minute drill</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">Candidates have a short period of time to leave a lasting impression.</sentence>
+      <sentence id="2" ids_article_sentences="19">Political experts: It&amp;apost;s context and candidate that have the most impact.</sentence>
+      <sentence id="3" ids_article_sentences="29">The longer debate format could expose candidates&amp;apost; weaknesses.</sentence>
+      <sentence id="4" ids_article_sentences="26">Political experts: Post-debate spin will help determine the outcome.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-19 10:31:51" annotation_time="77.03" mapping_time_divergence="19.2575">
+      <sentence id="2" ids_highlights="1">Football teams rehearse two-minute drills, Jeopardy contestants try to beat their rivals to the buzzer and in presidential debates, the candidates are given little time to make a lasting impression.</sentence>
+      <sentence id="19" ids_highlights="2">It&amp;apost;s the context and the candidate that also matter in the debates.</sentence>
+      <sentence id="26" ids_highlights="4">For Obama, whose campaign has been trying to lower expectations for the debate by saying the president struggles with being concise, political experts say the longer period of time could help his style.</sentence>
+      <sentence id="29" ids_highlights="3">But the format could also reveal the candidates&amp;apost; weaknesses, since they will be forced into a less scripted, longer response.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Washington In the competitive arena, time matters.</content>
+        </sentence>
+        <sentence id="2">
+          <content>Football teams rehearse two-minute drills, Jeopardy contestants try to beat their rivals to the buzzer and in presidential debates, the candidates are given little time to make a lasting impression.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>In 2008, Republican presidential candidate John McCain spoke less in each debate -- from at most five minutes to as little as about 20 seconds -- than did then-Democratic presidential candidate Barack Obama.</content>
+        </sentence>
+        <sentence id="4">
+          <content>Polling showed that Obama won the debates, in some cases by double digits.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>In the second debate of 1980, Republican presidential candidate Ronald Reagan cut into then-President Jimmy Carter&amp;apost;s long-winded response to a question on health care with a simple &amp;quot;There you go again.&amp;quot;</content>
+        </sentence>
+        <sentence id="6">
+          <content>In four words and just three seconds, Reagan suggested that Carter didn&amp;apost;t know what he was talking about.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>But don&amp;apost;t let that fool you.</content>
+        </sentence>
+        <sentence id="8">
+          <content>When it comes to the importance of time management in the presidential debates, it&amp;apost;s not clear cut.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="9">
+          <content>&amp;quot;Whether one candidate speaks longer than the other is likely to not matter much,&amp;quot; said Brendan Nyhan, an assistant professor of government at Dartmouth College.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>Sometimes it&amp;apost;s the candidate who speaks for a shorter period of time that can win the day.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;The thing about politicians is they like to talk, so they have long versions for everything,&amp;quot; said Allan Louden, chair of the communications department at Wake Forest University.</content>
+        </sentence>
+        <sentence id="12">
+          <content>&amp;quot;When you&amp;apost;re coaching in debates, the goal is to get them to say in one minute [what they would] in five.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>President Obama came up against his long-winded nature during a CNBC town hall event when then-Obama supporter Velma Hart told the president she was &amp;quot;exhausted&amp;quot; from defending him.</content>
+        </sentence>
+        <sentence id="14">
+          <content>He said he was going to change things in a meaningful way for the middle class.</content>
+        </sentence>
+        <sentence id="15">
+          <content>&amp;quot;And I&amp;apost;m waiting, sir, I&amp;apost;m waiting,&amp;quot; Hart said, thinking she would tee Obama up for a &amp;quot;whimsical, magical&amp;quot; response.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="16">
+          <content>Instead of answering Hart&amp;apost;s question, Obama talked around it for four minutes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="17">
+          <content>CNN&amp;apost;s Howard Kurtz called it a &amp;quot;missed opportunity,&amp;quot; in a Washington Post column.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="18">
+          <content>Still political experts agree that time is only one part of the equation.</content>
+        </sentence>
+        <sentence id="19">
+          <content>It&amp;apost;s the context and the candidate that also matter in the debates.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="20">
+          <content>And the context or the format in Wednesday&amp;apost;s debate could cut both ways for Obama and Republican presidential nominee Mitt Romney.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="21">
+          <content>The format, which differs from some past formats that kept answers and rebuttals short, will force the candidates to speak for longer periods of time on each question.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="22">
+          <content>In a 1992 debate, the longer format saw President George H. W. Bush glancing at his watch while an audience member asked the candidates a question, a move that put off many watching on TV and in the audience.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="23">
+          <content>This time around, candidates will be asked six questions in segments of 15 minutes each.</content>
+        </sentence>
+        <sentence id="24">
+          <content>They will be given two minutes to answer each question and the moderator will use the balance of time to direct the discussion.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="25">
+          <content>&amp;quot;They could actually debate [this time around] -- that could be interesting,&amp;quot; Louden said, comparing Wednesday&amp;apost;s debate to those in past election years which featured one-minute answers and two-minute rebuttals.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="26">
+          <content>For Obama, whose campaign has been trying to lower expectations for the debate by saying the president struggles with being concise, political experts say the longer period of time could help his style.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="27">
+          <content>&amp;quot;Obama tends to not debate in sound byte, but explain in paragraph form,&amp;quot; said Bill Newnam, associate director of forensics at Emory University.</content>
+        </sentence>
+        <sentence id="28">
+          <content>&amp;quot;I think it ends up playing to Obama&amp;apost;s benefit in that he has a longer time to talk.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="29">
+          <content>But the format could also reveal the candidates&amp;apost; weaknesses, since they will be forced into a less scripted, longer response.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="30">
+          <content>&amp;quot;[Obama&amp;apost;s] job is really to not make mistakes,&amp;quot; Nyhan said, explaining that the longer response time could leave Obama exposed.</content>
+        </sentence>
+        <sentence id="31">
+          <content>&amp;quot;So maybe that&amp;apost;s good for Romney that Obama would have more time.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="32">
+          <content>For Romney, the longer discussion time could cause him to lose his cool, as he did in the primary debates when he came down on Texas Gov. Rick Perry for going over his allotted time.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="33">
+          <content>&amp;quot;Romney&amp;apost;s tendency is to not deal as well in an impromptu setting and to be thin skinned to direct challenges,&amp;quot; Newnam said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="34">
+          <content>But, Newnam says, Romney&amp;apost;s extensive preparation will benefit him.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="35">
+          <content>&amp;quot;He has been very concise and precise in debates,&amp;quot; Newnam said.</content>
+        </sentence>
+        <sentence id="36">
+          <content>&amp;quot;As long as he knows what he is talking about and is prepared for the questions [he will be successful].&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="37">
+          <content>While presidential campaigns have their unexpected moments, Nyhan says, time management will not be a weakness for the candidates at the presidential level.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="38">
+          <content>&amp;quot;The thing to remember about presidential debate is that these people didn&amp;apost;t get here by accident,&amp;quot; Nyhan said.</content>
+        </sentence>
+        <sentence id="39">
+          <content>&amp;quot;While neither Romney nor Obama is known to be an especially fantastic debater, these are skilled national politicians.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="40">
+          <content>The moderator&amp;apost;s control of the time also likely won&amp;apost;t be problematic, Nyhan said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="41">
+          <content>&amp;quot;These moderators were chosen because both sides could agree on them, which means that both sides will try very hard to be even handed,&amp;quot; he said, referring to the process through the Presidential Debate Commission that determines the moderators.</content>
+        </sentence>
+        <sentence id="42">
+          <content>While the campaigns don&amp;apost;t choose the moderators, they are asked for input.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="43">
+          <content>Instead, how the candidates come across, not the length of time they answer their questions, will help choose a winner, Louden said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="44">
+          <content>&amp;quot;Authenticity is what trumps,&amp;quot; Louden said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="45">
+          <content>The next day, how the media and campaigns react may matter more than what happened at the debates themselves.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="46">
+          <content>&amp;quot;In the end, the debates are about the post-spin,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

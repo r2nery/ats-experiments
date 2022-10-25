@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1302" link="http://www.cnn.com/2013/11/07/showbiz/justin-bieber-rumors" date_published="2013-11-07 22:41:50" category="showbiz" author="Alan Duke, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Justin Bieber&amp;apost;s Brazil adventures: Truth or idol gossip?</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">Many reports on Justin Bieber barely rise above the gossip threshold.</sentence>
+      <sentence id="2" ids_article_sentences="4">&amp;quot;My truth is in the music,&amp;quot; Bieber says.</sentence>
+      <sentence id="3" ids_article_sentences="16, 15">Newly emerged mystery video shows Bieber sleeping.</sentence>
+      <sentence id="4" ids_article_sentences="45">&amp;quot;Can&amp;apost;t believe or dwell on the bs,&amp;quot; the singer tweets.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-04 23:30:57" annotation_time="80.47766" mapping_time_divergence="20.119415">
+      <sentence id="2" ids_highlights="1">Many reports barely rise above the gossip threshold, but they echo throughout the tabloids and mainstream media.</sentence>
+      <sentence id="4" ids_highlights="2">&amp;quot;My truth is in the music,&amp;quot; Bieber said in a message to his 46 million Twitter followers this week.</sentence>
+      <sentence id="15" ids_highlights="3">The 15-second clip does not show Bieber doing anything scandalous.</sentence>
+      <sentence id="16" ids_highlights="3">He&amp;apost;s just sleeping.</sentence>
+      <sentence id="45" ids_highlights="4">&amp;quot;Can&amp;apost;t believe or dwell on the bs.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Los Angeles Either Justin Bieber is having a wild time on his South American tour or media reports of the 19-year-old singer&amp;apost;s antics are off the mark.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Many reports barely rise above the gossip threshold, but they echo throughout the tabloids and mainstream media.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>What you should believe -- and why you should care -- is a raging debate online with Twitter, Facebook, YouTube and beyond.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>&amp;quot;My truth is in the music,&amp;quot; Bieber said in a message to his 46 million Twitter followers this week.</content>
+        </sentence>
+        <sentence id="5">
+          <content>It was posted the same day his newest single, &amp;quot;Bad Day,&amp;quot; released.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>Journalists know very little about what goes on in Bieber&amp;apost;s private life.</content>
+        </sentence>
+        <sentence id="7">
+          <content>He is constantly surrounded by bodyguards and his representatives consistently refuse to confirm, deny or comment on any reports that surface.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>But that does not limit speculation, much of it based on paparazzi photos and video of the teen&amp;apost;s comings and goings.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>The New York Post&amp;apost;s &amp;quot;Page Six&amp;quot; column published several photos last weekend that the newspaper said implied the singer was enjoying the services of Brazil&amp;apost;s legal prostitutes while on his South America tour.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>One photo showed a man walking out of a Rio de Janerio brothel under a blanket and surrounded by bodyguards.</content>
+        </sentence>
+        <sentence id="11">
+          <content>No face is visible, but the Post says Bieber could be identified by &amp;quot;his gray wraparound wrist tattoo, which is visible in some photos, and his signature sneakers.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>Another photo shows two women in a vehicle that the newspaper said took them from the brothel to the hotel where Bieber was staying.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>Belieber Rorschach test.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>The media frenzy over Bieber&amp;apost;s alleged sexcapades grew after a video appeared on YouTube on Wednesday that apparently was recorded by a young woman excited about her quiet time with the entertainer.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>The 15-second clip does not show Bieber doing anything scandalous.</content>
+        </sentence>
+        <sentence id="16">
+          <content>He&amp;apost;s just sleeping.</content>
+        </sentence>
+        <sentence id="17">
+          <content>The tattoos on his arms, the earring, his baby face, short blond hair and red ball cap are all familiar identifiers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="18">
+          <content>The woman pans the camera to reveal Bieber sleeping under a blanket, then points it at herself while flashing a big grin.</content>
+        </sentence>
+        <sentence id="19">
+          <content>It ends with her blowing a kiss toward him.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="20">
+          <content>The video is something of a Rorschach test to diagnose if you are a &amp;quot;Belieber,&amp;quot; the term used for Bieber&amp;apost;s diehard fans.</content>
+        </sentence>
+        <sentence id="21">
+          <content>They always believe the best of their idol.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="22">
+          <content>But un-Beliebers suggested the woman was one of the two females who left with Bieber from the brothel, although they have no way of connecting her to that night.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="23">
+          <content>&amp;quot;He didn&amp;apost;t sleep with her,&amp;quot; one Belieber said in one of the 7,300 comments posted under the YouTube video.</content>
+        </sentence>
+        <sentence id="24">
+          <content>&amp;quot;Justin brought girls back home and he threw a small party.</content>
+        </sentence>
+        <sentence id="25">
+          <content>Chicken nuggets, Doritos, a pool table etc., etc.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="26">
+          <content>She offered more details, though she didn&amp;apost;t reveal how she would know anything about Bieber&amp;apost;s actions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="27">
+          <content>&amp;quot;The girls got their phone confiscated so they wouldn&amp;apost;t take pictures,&amp;quot; the fan wrote.</content>
+        </sentence>
+        <sentence id="28">
+          <content>&amp;quot;Obviously, because he wanted to have fun without any media around.</content>
+        </sentence>
+        <sentence id="29">
+          <content>But when all the girls left, they got their phone back.</content>
+        </sentence>
+        <sentence id="30">
+          <content>So did this girl.</content>
+        </sentence>
+        <sentence id="31">
+          <content>When this girl got her phone back she sneaked in and filmed him while sleeping.</content>
+        </sentence>
+        <sentence id="32">
+          <content>Explains why the video was so short.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="33">
+          <content>Bieber: &amp;quot;Just gotta know your truth&amp;quot;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="34">
+          <content>The truth is -- we don&amp;apost;t know the truth.</content>
+        </sentence>
+        <sentence id="35">
+          <content>We do know that Justin Bieber is at what can be an awkward point in a teenage idol&amp;apost;s career.</content>
+        </sentence>
+        <sentence id="36">
+          <content>He&amp;apost;s months away from no longer being a teenager.</content>
+        </sentence>
+        <sentence id="37">
+          <content>Making the transition from kid to adult is tough enough, but Bieber has the world watching.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="38">
+          <content>Chasing Bieber is a popular, lucrative and dangerous sport for paparazzi.</content>
+        </sentence>
+        <sentence id="39">
+          <content>It has led several times to traffic citations for both the singer and the photographers.</content>
+        </sentence>
+        <sentence id="40">
+          <content>Punches have allegedly been thrown during confrontations.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="41">
+          <content>Bieber -- unlike some other teen stars -- has managed to stay out of criminal court, although he has been accused and investigated.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="42">
+          <content>His hit songs keep coming.</content>
+        </sentence>
+        <sentence id="43">
+          <content>His concerts sell out.</content>
+        </sentence>
+        <sentence id="44">
+          <content>And the world can&amp;apost;t divert its eyes away from him.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="45">
+          <content>&amp;quot;Can&amp;apost;t believe or dwell on the bs.</content>
+        </sentence>
+        <sentence id="46">
+          <content>Just gotta know your truth.</content>
+        </sentence>
+        <sentence id="47">
+          <content>U can&amp;apost;t bring us down,&amp;quot; Bieber told fans in a Tuesday tweet.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

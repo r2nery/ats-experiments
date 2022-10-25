@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="896" link="http://www.cnn.com/2014/04/24/opinion/robbins-nypd-twitter/index.html?iid=article_sidebar" date_published="2014-04-24 17:01:39" category="opinion" author="Mel Robbins" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Opinion: NYPD&amp;apost;s Twitter campaign was a fiasco</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">An NYPD social media campaign on Twitter backfired .</sentence>
+      <sentence id="2" ids_article_sentences="19">Mel Robbins: You can&amp;apost;t control a conversation on Twitter.</sentence>
+      <sentence id="3" ids_article_sentences="31, 24">She says social media is often ruled by haters, and people can be brutally honest .</sentence>
+      <sentence id="4" ids_article_sentences="40, 39">Robbins: Moral of the story is that to promote a brand, you have to know the rules.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-05 14:00:35" annotation_time="604.677" mapping_time_divergence="375.0">
+      <sentence id="1" ids_highlights="1">Whoever is running the social media strategy for the New York Police Department needs to be fired because that person has no idea how to follow the rules of social media.</sentence>
+      <sentence id="19" ids_highlights="2">Rule 2: You will never control the conversation on Twitter.</sentence>
+      <sentence id="24" ids_highlights="3">Rule 3: Social media is often ruled by the haters.</sentence>
+      <sentence id="31" ids_highlights="3">People on social media are ruthlessly honest, way more so than they would be in person.</sentence>
+      <sentence id="39" ids_highlights="4">What&amp;apost;s the moral of this story?</sentence>
+      <sentence id="40" ids_highlights="4">If you want to use social media to promote a brand, either use the rules to pick the right platform and own the conversation or social media will own you.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Whoever is running the social media strategy for the New York Police Department needs to be fired because that person has no idea how to follow the rules of social media.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>On Tuesday, the NYPD&amp;apost;s Twitter account, @NYPDNews, asked New Yorkers to &amp;quot;tag themselves&amp;quot; in photos with New York Police officers using the hashtag #myNYPD.</content>
+        </sentence>
+        <sentence id="3">
+          <content>Before midnight, more than 70,000 tweets containing photos or stories of police brutality flooded the Twittersphere, replacing #HappyEarthDay as the trending topic by late Tuesday evening.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>It was a disaster.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Instead of igniting a positive viral PR campaign, a single tweet managed to set the NYPD&amp;apost;s reputation on fire.</content>
+        </sentence>
+        <sentence id="6">
+          <content>They should have seen this one coming.</content>
+        </sentence>
+        <sentence id="7">
+          <content>Twitter is a great tool to read breaking news, research prospective clients, connect with friends, discuss live events or gain access to your favorite celebrity.</content>
+        </sentence>
+        <sentence id="8">
+          <content>But it&amp;apost;s a terrible place to try to control a conversation because you simply can&amp;apost;t.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="9">
+          <content>Social media disasters are becoming a regular occurrence.</content>
+        </sentence>
+        <sentence id="10">
+          <content>Remember the PR executive from media company IAC who sent out a racially offensive tweet and raised a firestorm?</content>
+        </sentence>
+        <sentence id="11">
+          <content>Or when Burger King&amp;apost;s account got hacked and fake tweets referencing race and drugs were posted?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="12">
+          <content>It&amp;apost;s like rubbernecking an accident on the highway -- we can&amp;apost;t help but stare and comment before we move on with our lives.</content>
+        </sentence>
+        <sentence id="13">
+          <content>And while #myNYPD will be largely forgotten by you and me, the NYPD will feel the pain for months to come.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="14">
+          <content>Rule 1: Every social media platform has a very specific demographic.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="15">
+          <content>Facebook users are a different demographic than Twitter users, just as Pinterest users are different from Instagram users.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Twitter users are the youngest demographic of all major social media outlets.</content>
+        </sentence>
+        <sentence id="17">
+          <content>If you tweet, you&amp;apost;re speaking to 18- to 29-year-olds, not middle-aged moms on Pinterest and Facebook.</content>
+        </sentence>
+        <sentence id="18">
+          <content>And those millennials are unforgiving -- they care more about &amp;quot;social expression&amp;quot; than &amp;quot;social obedience,&amp;quot; which means they&amp;apost;ll tweet what they feel with no filter.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="19">
+          <content>Rule 2: You will never control the conversation on Twitter.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="20">
+          <content>Tweets are like roaches; once you spot a contrarian or sarcastic reply, you know there are hundreds more right behind it, and there&amp;apost;s no way to exterminate them.</content>
+        </sentence>
+        <sentence id="21">
+          <content>If you need to control the conversation, use Facebook.</content>
+        </sentence>
+        <sentence id="22">
+          <content>On Facebook, you can delete individual comments that do not contribute to your overall social goal.</content>
+        </sentence>
+        <sentence id="23">
+          <content>On Twitter, the users are in control.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="24">
+          <content>Rule 3: Social media is often ruled by the haters.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="25">
+          <content>Social media is a love-hate world, and among your followers you&amp;apost;ll have just as many fans as foes.</content>
+        </sentence>
+        <sentence id="26">
+          <content>Even Starbucks, one of the most dominant brands in the United States, is probably publicly hated more than it&amp;apost;s praised.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="27">
+          <content>The NYPD has a well-organized social media savvy hater: Occupy Wall Street NYC.</content>
+        </sentence>
+        <sentence id="28">
+          <content>And they jumped all over #myNYPD using the Occupy Wall Street NYC Twitter account.</content>
+        </sentence>
+        <sentence id="29">
+          <content>In fact, they are credited with making the photos of the police brutality start to trend nationally.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="30">
+          <content>Rule 4: If you ask people on social media what they think ... they&amp;apost;ll tell you.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="31">
+          <content>People on social media are ruthlessly honest, way more so than they would be in person.</content>
+        </sentence>
+        <sentence id="32">
+          <content>Ask their opinion about your brand and you&amp;apost;ll get an instantaneous barometer (the good, the bad and the atrocious).</content>
+        </sentence>
+        <sentence id="33">
+          <content>Forget the user-generated PR campaign.</content>
+        </sentence>
+        <sentence id="34">
+          <content>It&amp;apost;s better to monitor your reputation on Twitter using reputation management software and reply directly to people who tweet bad things about you.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="35">
+          <content>Rule 5: The odds are not in your favor to get good news.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="36">
+          <content>Despite the overwhelming success of viral positive news websites like Upworthy or Inspire52 (disclaimer: I&amp;apost;m the founder), most content that gets shared online is negative, funny or sarcastic.</content>
+        </sentence>
+        <sentence id="37">
+          <content>And, unless you request that people tell you their positive experiences, research shows that humans are more likely to remember negative experiences.</content>
+        </sentence>
+        <sentence id="38">
+          <content>But obviously, there are exceptions, like NYPD&amp;apost;s Twitter fiasco.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="39">
+          <content>What&amp;apost;s the moral of this story?</content>
+        </sentence>
+        <sentence id="40">
+          <content>If you want to use social media to promote a brand, either use the rules to pick the right platform and own the conversation or social media will own you.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="41">
+          <content>NYPD should have solicited feel-good user generated photos through a contest on Facebook, Instagram and Pinterest and then published them on Facebook where they could delete the negative and sarcastic responses.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="42">
+          <content>Now that you know the rules, answer this question: What do you think will happen if you invite the youngest and most urban demographic on Twitter (and Occupy Wall Street NYC who happens to follow you) to post photos of cops in New York City?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="43">
+          <content>Unfortunately, common sense, safe driving and social media rules are a lot like deodorant, the people who need it the most don&amp;apost;t use it.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="44">
+          <content>Follow us on Twitter @CNNOpinion.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="45">
+          <content>Join us on Facebook/CNNOpinion.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="309" link="http://www.cnn.com/2014/02/04/health/brawley-cancer-tips/index.html" date_published="2014-02-04 22:11:54" category="health" author="Dr. Otis Brawley, CNN contributor" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Most cancers are in our world pandemic preventable -- here&amp;apost;s how</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="8">Aging and population growth are behind a reported cancer increase.</sentence>
+      <sentence id="2" ids_article_sentences="8">Cancer risk factors have spread into low- and middle-income nations.</sentence>
+      <sentence id="3" ids_article_sentences="22">There are steps you can take to reduce your cancer risk.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-20 16:44:13" annotation_time="29.628664" mapping_time_divergence="9.876222">
+      <sentence id="8" ids_highlights="1, 2">Aging and growth of the world population, as well as the spread of cancer risk factors into low- and middle-income nations.</sentence>
+      <sentence id="22" ids_highlights="3">There is plenty you can do to lower your risk.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The World Health Organization is sounding the alarm: cancer is rapidly becoming a global pandemic.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>In its World Cancer report, the U.N. agency notes the disease causes one in eight deaths worldwide.</content>
+        </sentence>
+        <sentence id="3">
+          <content>It&amp;apost;s estimated 14 million were diagnosed with cancer in 2012 and 22 million will be diagnosed by 2032.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>The most commonly diagnosed cancers worldwide are cancers of the lung, breast and colon.</content>
+        </sentence>
+        <sentence id="5">
+          <content>The most common causes of cancer deaths worldwide are lung, liver and stomach cancer.</content>
+        </sentence>
+        <sentence id="6">
+          <content>In certain areas of Africa and Asia, cervical cancer is the leading cause of death in women.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>What&amp;apost;s behind the increase?</content>
+        </sentence>
+        <sentence id="8">
+          <content>Aging and growth of the world population, as well as the spread of cancer risk factors into low- and middle-income nations.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="9">
+          <content>Those include use of tobacco, obesity, lack of physical activity and poor diet.</content>
+        </sentence>
+        <sentence id="10">
+          <content>The report refers to those as &amp;quot;an industrialized lifestyle;&amp;quot; they cause about half the cancer deaths in the United States and Western Europe.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="11">
+          <content>At the same time, cancer death rates have declined by about 20% over the past 20 years in the United States and Western Europe.</content>
+        </sentence>
+        <sentence id="12">
+          <content>This is largely because of prevention activities, especially a decrease in smoking.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="13">
+          <content>Tobacco use in low- and middle-income countries is causing cancer death rates to increase.</content>
+        </sentence>
+        <sentence id="14">
+          <content>Other cancer-causing habits common in the West, such as nutritionally poor and high-calorie diets that promote obesity, are increasing in low- and middle-income countries as well.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="15">
+          <content>These countries also have inadequate medical and public health infrastructures.</content>
+        </sentence>
+        <sentence id="16">
+          <content>In economically developing countries, cancers are often diagnosed at a late stage when eliminating the disease is no longer possible.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="17">
+          <content>People often suffer because palliative care is inadequate.</content>
+        </sentence>
+        <sentence id="18">
+          <content>Narcotics are not available for palliative care in more than two dozen countries and are difficult to get in many others.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="19">
+          <content>The report emphasizes that governmental and nongovernmental international organizations need to be serious about cancer prevention activities in low- and middle-income countries.</content>
+        </sentence>
+        <sentence id="20">
+          <content>The report also illustrates that prevention efforts need to be re-emphasized in developed countries such as the United States.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="21">
+          <content>But cancer doesn&amp;apost;t have to be inevitable.</content>
+        </sentence>
+        <sentence id="22">
+          <content>There is plenty you can do to lower your risk.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="23">
+          <content>Don&amp;apost;t use tobacco products.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="24">
+          <content>If you smoke, stop.</content>
+        </sentence>
+        <sentence id="25">
+          <content>It is never too late to quit.</content>
+        </sentence>
+        <sentence id="26">
+          <content>There are health benefits within 24 hours of the last cigarette.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="27">
+          <content>Stay trim without being underweight.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="28">
+          <content>Avoid excess weight gain at all ages.</content>
+        </sentence>
+        <sentence id="29">
+          <content>For those who are overweight or obese, losing even a small amount of weight has health benefits and is a good place to start.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="30">
+          <content>Limit intake of high-calorie foods and drinks as keys to help maintain a healthy weight.</content>
+        </sentence>
+        <sentence id="31">
+          <content>Keep a healthy diet, with an emphasis on plant foods.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="32">
+          <content>Choose foods and drinks in amounts that help you get to and maintain a healthy weight.</content>
+        </sentence>
+        <sentence id="33">
+          <content>Limit how much processed meat and red meat you eat.</content>
+        </sentence>
+        <sentence id="34">
+          <content>Eat at least 2.5 cups of vegetables and fruits each day.</content>
+        </sentence>
+        <sentence id="35">
+          <content>Choose whole grains instead of refined grain products.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="36">
+          <content>If you drink alcohol, limit your intake -- no more than one drink a day for women or two for men.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="37">
+          <content>Get regular physical activity.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="38">
+          <content>Adults: Get at least 150 minutes of moderate intensity or 75 minutes of vigorous intensity activity each week (or a combination of these), preferably spread throughout the week.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="39">
+          <content>Children and teens: Get at least one hour of moderate or vigorous intensity activity each day, with vigorous activity on at least three days each week.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="40">
+          <content>Limit sedentary behavior such as sitting, lying down, watching TV and other forms of screen-based entertainment.</content>
+        </sentence>
+        <sentence id="41">
+          <content>Doing some physical activity above usual activities, no matter what one&amp;apost;s level of activity, can have many health benefits.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="42">
+          <content>Get vaccinated.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="43">
+          <content>Several of the leading causes of cancer are caused by infections that can be controlled through vaccination.</content>
+        </sentence>
+        <sentence id="44">
+          <content>The hepatitis B vaccine is now a standard vaccine for children in the United States and Europe; adults who have not been vaccinated should consider it.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="45">
+          <content>The human papillomavirus vaccine is commonly given to girls and prevents infection with the virus that causes most cervical cancers.</content>
+        </sentence>
+        <sentence id="46">
+          <content>There is increasing evidence it might prevent some head and neck cancers, and some experts recommend boys be vaccinated as well.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="47">
+          <content>Avoid unnecessary sun exposure.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="48">
+          <content>Wear long-sleeved shirts, long pants and wide-brimmed hats when possible.</content>
+        </sentence>
+        <sentence id="49">
+          <content>Use sunblock when sun exposure is absolutely necessary.</content>
+        </sentence>
+        <sentence id="50">
+          <content>This will reduce your risk of melanoma and other skin cancers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="51">
+          <content>Those with the opportunity, living in areas where it&amp;apost;s available, should participate in screening for certain cancers.</content>
+        </sentence>
+        <sentence id="52">
+          <content>Screening for cervical, breast and colon cancer can save lives.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

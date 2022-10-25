@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1016" link="http://www.cnn.com/2014/01/13/politics/us-iran-nuclear-sanctions" date_published="2014-01-13 18:40:17" category="politics" author="Tom Cohen, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Clock ticking on Iran talks and possible further U.S. sanctions</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="8">NEW: President Obama says &amp;quot;now is not the time for new sanctions&amp;quot; .</sentence>
+      <sentence id="2" ids_article_sentences="2">Iran to limit its nuclear program in exchange for sanctions relief starting January 20 .</sentence>
+      <sentence id="3" ids_article_sentences="3">Talks will continue on a broader deal to prevent Iran from developing nuclear weapons.</sentence>
+      <sentence id="4" ids_article_sentences="1">A bipartisan proposal in Congress calls for imposing new conditional sanctions on Iran.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-06 20:36:10" annotation_time="27.937998">
+      <sentence id="1" ids_highlights="4">Washington The clock is ticking on an interim nuclear deal with Iran, as well as efforts in Congress to pass new sanctions for greater leverage in global negotiations on a comprehensive accord.</sentence>
+      <sentence id="2" ids_highlights="2">Sunday&amp;apost;s announcement that a six-month interim agreement formally begins on January 20 means that Iran must dismantle or freeze some of its nuclear program and open it to more international inspections in return for limited relief from crippling international sanctions.</sentence>
+      <sentence id="3" ids_highlights="3">Assuming all goes as planned, further negotiations between Iran and the United States, France, Russia, China, Great Britain and Germany will seek a broader agreement intended to prevent Tehran from developing a nuclear weapon.</sentence>
+      <sentence id="8" ids_highlights="1">&amp;quot;Now is not time for new sanctions,&amp;quot; Obama told reporters on Monday.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Washington The clock is ticking on an interim nuclear deal with Iran, as well as efforts in Congress to pass new sanctions for greater leverage in global negotiations on a comprehensive accord.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Sunday&amp;apost;s announcement that a six-month interim agreement formally begins on January 20 means that Iran must dismantle or freeze some of its nuclear program and open it to more international inspections in return for limited relief from crippling international sanctions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Assuming all goes as planned, further negotiations between Iran and the United States, France, Russia, China, Great Britain and Germany will seek a broader agreement intended to prevent Tehran from developing a nuclear weapon.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>Meanwhile, pro-Israel members of Congress are seeking additional sanctions against Iran that would take effect if the talks break down.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>Israel considers Iran&amp;apost;s potential nuclear capability an existential threat, and has made clear it would attack militarily if it believed Tehran could develop such weapons of mass destruction.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>The question is whether the steps Iran is taking under the interim deal will blunt or bolster the congressional push for more sanctions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>President Barack Obama warns that approving new sanctions legislation now would undermine the talks, and he has promised to veto such a measure if it came to his desk.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;Now is not time for new sanctions,&amp;quot; Obama told reporters on Monday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="9">
+          <content>He warned the continuing negotiations with Iran would be &amp;quot;difficult&amp;quot; and &amp;quot;challenging,&amp;quot; adding that &amp;quot;ultimately this is how diplomacy should work.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="10">
+          <content>A bipartisan proposal that would impose new U.S. sanctions -- but put off implementing them to allow time for negotiations to continue -- has the support of 59 Senators so far, a senior Senate aide told CNN last week.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="11">
+          <content>According to the aide, the informal count for the measure introduced by Democratic Sen. Robert Menendez of New Jersey and Republican Sen. Mark Kirk of Illinois surpasses 75 votes -- more than enough for the Democratic-led Senate to override the promised presidential veto.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="12">
+          <content>It takes a two-thirds majority of both the House and Senate to approve a law over a president&amp;apost;s objection.</content>
+        </sentence>
+        <sentence id="13">
+          <content>The GOP-led House would have a much easier time of reaching that threshold.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="14">
+          <content>The Obama administration argues the six-month interim deal includes sufficient safeguards in the form of new compliance verification by the U.N. nuclear energy watchdog -- the International Atomic Energy Agency -- to make further sanctions unnecessary at this time.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="15">
+          <content>Secretary of State John Kerry said Sunday that beginning the interim agreement on January 20 means that &amp;quot;for the first time in almost a decade, Iran&amp;apost;s nuclear program will not be able to advance and parts of it will be rolled back.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="16">
+          <content>Iranian officials also confirmed the start date, state media reported.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="17">
+          <content>As part of the accord, Iran has agreed to start eliminating its stockpile of higher levels of enriched uranium, to dismantle some infrastructure that makes higher-level uranium enrichment possible, and not to start up additional centrifuges.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="18">
+          <content>Representatives of the IAEA also will monitor Iran&amp;apost;s nuclear facilities and make sure the country is taking the required steps as part of the deal.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="19">
+          <content>In exchange, Iran will get sanctions relief over the six-month period of the interim deal totaling about $7 billion, including access to $4.2 billion in frozen assets.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="20">
+          <content>The state-run Islamic Republic News Agency reported Monday that the first IAEA envoys to visit Tehran under the interim agreement would arrive on January 18, according to a spokesman for the Atomic Energy Organization of Iran.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="21">
+          <content>Iranian lawmakers have threatened to boost uranium enrichment levels if the United States imposes more sanctions.</content>
+        </sentence>
+        <sentence id="22">
+          <content>A deputy foreign minister, Majid Ravanchi, told CNN on Sunday that the enactment of additional sanctions from the U.S. Senate would &amp;quot;ruin the entire agreement.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="23">
+          <content>It was not immediately clear if Ravanchi&amp;apost;s use of the word &amp;quot;enactment&amp;quot; meant that new sanctions would have to become law or merely receive Senate approval.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="24">
+          <content>There was immediate political fallout from the announcement that the interim deal was to take effect.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="25">
+          <content>&amp;quot;I&amp;apost;m concerned that this agreement takes us down that path where sanctions pressure is relieved, but Iran maintains its ability to produce a nuclear weapon,&amp;quot; said Republican Rep. Ed Royce of California, who chairs the House Foreign Affairs Committee.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="26">
+          <content>&amp;quot;Given these stakes, it&amp;apost;s regrettable that the President does not want to work with Congress to bolster his negotiating hand with additional sanctions, which would go into effect should Iran fail to meet its commitments.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="27">
+          <content>However, Democratic Rep. Lloyd Doggett of Texas argued Monday that the talks must be allowed to continue.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="28">
+          <content>&amp;quot;War is the true alternative offered by those here who would interfere or limit these negotiations,&amp;quot; Doggett said of supporters for new sanctions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="29">
+          <content>&amp;quot;The Iranians are well aware that this Congress can act almost instantly to add even more stringent sanctions if they waver from diplomacy,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="30">
+          <content>White House spokesman Jay Carney told reporters on Monday that Iran&amp;apost;s willingness to proceed with the interim agreement and its more stringent verification and controls showed the diplomatic pressure was working.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="31">
+          <content>&amp;quot;The fact that we are now at the implementation stage of the Joint Plan of Action demonstrates that, at the very least, testing whether or not Iran is serious is the right thing to do,&amp;quot; Carney said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="32">
+          <content>A senior administration official warned Sunday that a new sanctions bill now would derail the current talks and could &amp;quot;undermine the sanctions regime that we have built so meticulously over the course of the last several years.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="33">
+          <content>&amp;quot;If the talks are derailed by new U.S. unilateral sanctions, Iran would take that case to the international community and seek to create divisions in the international community,&amp;quot; the official said on condition of not being identified.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="34">
+          <content>The interim agreement struck in November was considered a successful first step to prevent a possible conflict over Iran&amp;apost;s nuclear ambitions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="35">
+          <content>After it was announced last year, three more rounds of meetings were required to hammer out details for implementing it, European Union High Representative Catherine Ashton said in a statement on Sunday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="34">
+      <sentences>
+        <sentence id="36">
+          <content>Another Iranian deputy foreign minister, Abbas Araqchi, said Sunday that his country would stop 20% uranium enrichment at that time, Iran&amp;apost;s state-run news agency reported.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="35">
+      <sentences>
+        <sentence id="37">
+          <content>&amp;quot;There&amp;apost;s $4.2 billion of Iran&amp;apost;s oil income which will be released and from the other side, the conversion of 20% enriched material to oxide or diluting it (will) be carried out,&amp;quot; Araqchi said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="36">
+      <sentences>
+        <sentence id="38">
+          <content>Kerry warned the upcoming negotiations on a final deal would be &amp;quot;very difficult, but they are the best chance we have to be able to resolve this critical national security issue peacefully and durably.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

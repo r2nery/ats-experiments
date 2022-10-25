@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2728" link="http://edition.cnn.com/2012/04/22/world/whale-iphone-app/index.html" date_published="2012-04-23 02:38:04" category="world" author="Eoghan Macguire, for CNN" highlights_mapped="true" mapping_error="false">
+  <title>Save the whales? There&amp;apost;s an app for that</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">A new iPhone app aims to reduce collisions between endangered whales and ships.</sentence>
+      <sentence id="2" ids_article_sentences="5">The right whale is one of the most endangered large animals anywhere in the world.</sentence>
+      <sentence id="3" ids_article_sentences="3">The project is the result of a collaboration between 13 different organizations.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-09-26 13:49:53" annotation_time="27.220001">
+      <sentence id="1" ids_highlights="1">A new iPhone app is making waves in the commercial shipping world by providing an early warning system that aims to reduce maritime collisions with endangered whales.</sentence>
+      <sentence id="3" ids_highlights="3">The program is a collaborative effort between 13 different organizations including the Stellwagen Bank National Marine Sanctuary, the National Oceanic and Atmospheric Administration and the International Fund for Animal Welfare.</sentence>
+      <sentence id="5" ids_highlights="2">&amp;quot;The right whale is one of the most endangered large animals on the planet, there are only between 350 to 550 of them left&amp;quot; says David Wiley of the Stellwagen Bank National Marine Sanctuary.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>A new iPhone app is making waves in the commercial shipping world by providing an early warning system that aims to reduce maritime collisions with endangered whales.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The Whale Alert App was launched at the start of April and produces up to the minute data regarding sightings of right whales near busy shipping lanes off the north east coast of America.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The program is a collaborative effort between 13 different organizations including the Stellwagen Bank National Marine Sanctuary, the National Oceanic and Atmospheric Administration and the International Fund for Animal Welfare.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>Although there are only a handful of incidents between ships and the giant mammals each year, any collision that leads to a right whale fatality can have a major impact on the species status due to its severely depleted numbers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>&amp;quot;The right whale is one of the most endangered large animals on the planet, there are only between 350 to 550 of them left&amp;quot; says David Wiley of the Stellwagen Bank National Marine Sanctuary.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;If a ship strikes a reproductive female then the mortality impact could be very large in terms of what it means for the overall population,&amp;quot; adds Wiley.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>The Whale Alert App works by collating up to the minute reports from all the organizations involved in tracking or researching right whales in the United States.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="8">
+          <content>This information is then used to pinpoint right whales straying within a five kilometer radius of major shipping lanes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="9">
+          <content>Ship captains with access to the free app via their iPhone or iPad can then reduce their speed, change course or increase their vigilance so as to avoid a potential collision.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;By increasing mariners ability to comply with regulations and protective measures, you increase protection for the right whales (as well as) decreasing the chance that mariners will be fined for violating (those) regulations,&amp;quot; says Wiley.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;NOAA has fined some ships up to $92,000 dollars for going too fast repeatedly in seasonal management (conservation) areas,&amp;quot; he adds.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="12">
+          <content>So far there has been 9,600 downloads of the Whale Alert App from iTunes and Wiley believes the idea could also be extended to reduce shipping collisions with whales in other areas of the world.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="13">
+          <content>He cites the Mediterranean Sea strait where sperm whales frequently cross busy shipping lanes as well as off the coast of New Zealand where collisions with Bryde&amp;apost;s whales are common.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;We&amp;apost;ve invented this on our own,&amp;quot; says Wylie.</content>
+        </sentence>
+        <sentence id="15">
+          <content>&amp;quot;But we expect it to be extremely influential in terms of creating a model for a lot of other conservation efforts.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

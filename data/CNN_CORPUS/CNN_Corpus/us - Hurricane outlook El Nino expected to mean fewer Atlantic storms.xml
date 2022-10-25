@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1935" link="http://edition.cnn.com/2014/05/22/us/hurricane-outlook-2014/index.html?iid=article_sidebar" date_published="2014-05-22 20:26:34" category="us" author="Steve Almasy, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Hurricane outlook: El Niño expected to mean fewer Atlantic storms</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="14">There is a possibility of more hurricanes in the Eastern Pacific, fewer in the Atlantic, forecasters say.</sentence>
+      <sentence id="2" ids_article_sentences="8">Winds from El Niño should lessen the intensity of storms in the Atlantic.</sentence>
+      <sentence id="3" ids_article_sentences="6">What counts is how many storms make landfall and where they hit, CNN meteorologist says.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-09-25 13:54:17" annotation_time="64.418">
+      <sentence id="6" ids_highlights="3">&amp;quot;It doesn&amp;apost;t matter whether we get one or a dozen, it matters which one(s) hit land and what land it hits,&amp;quot; CNN meteorologist and severe weather expert Chad Myers said.</sentence>
+      <sentence id="8" ids_highlights="2">El Niño, characterized by warmer water in the equatorial Pacific, increases strong wind shear in the Atlantic, which reduces the intensity of tropical storms and hurricanes and prevents other systems from becoming powerful enough to be named storms.</sentence>
+      <sentence id="14" ids_highlights="1">The center said there was a 70% chance there would be 14 to 20 named storms for the Eastern Pacific, with seven to 11 hurricanes, with the likelihood of three to six being Category 3 hurricanes or stronger (winds greater than 100 mph).</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>How will El Niño affect hurricane season?</content>
+        </sentence>
+        <sentence id="2">
+          <content>It depends on the ocean, forecasters say.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>Forecasters announced Thursday that the Atlantic hurricane season likely will have fewer storms than the average year, while in the Pacific, the numbers might be higher.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>The outlook from the National Oceanic and Atmospheric Administration Climate Prediction Center forecast three to six hurricanes, with one or two major hurricanes for the Atlantic season, which begins June 1.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>There likely will be eight to 13 named storms in the Atlantic.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;It doesn&amp;apost;t matter whether we get one or a dozen, it matters which one(s) hit land and what land it hits,&amp;quot; CNN meteorologist and severe weather expert Chad Myers said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>About 40% of Americans live in counties on a shoreline, said Holly Bamford, the assistant administrator for NOAA&amp;apost;s National Ocean Service.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>El Niño, characterized by warmer water in the equatorial Pacific, increases strong wind shear in the Atlantic, which reduces the intensity of tropical storms and hurricanes and prevents other systems from becoming powerful enough to be named storms.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>The Atlantic Ocean is also cooler than in recent years.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;We are currently seeing strong trade winds and wind shear over the tropical Atlantic, and NOAA&amp;apost;s climate models predict these conditions will persist, in part because of El Niño,&amp;quot; said Gerry Bell, NOAA&amp;apost;s lead hurricane season forecaster.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="11">
+          <content>The Atlantic hurricane season runs through November 30.</content>
+        </sentence>
+        <sentence id="12">
+          <content>The region includes the Caribbean Sea, Gulf of Mexico and north Atlantic Ocean.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="13">
+          <content>Last year there were 11 tropical storms and two hurricanes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="14">
+          <content>The center said there was a 70% chance there would be 14 to 20 named storms for the Eastern Pacific, with seven to 11 hurricanes, with the likelihood of three to six being Category 3 hurricanes or stronger (winds greater than 100 mph).</content>
+        </sentence>
+        <sentence id="15">
+          <content>That would be near normal or above normal.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;El Niño decreases the vertical wind shear over the eastern tropical Pacific, favoring more and stronger tropical storms and hurricanes,&amp;quot; Bell said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="17">
+          <content>It is extremely rare for an Eastern Pacific hurricane to affect the U.S. mainland, though some do have an influence on Hawaii.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="18">
+          <content>The Eastern Pacific hurricane season runs from May 15 through November 30.</content>
+        </sentence>
+        <sentence id="19">
+          <content>Last year there were nine tropical storms and nine hurricanes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="20">
+          <content>There is a 65% chance of an El Niño forming, the center said on May 8.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

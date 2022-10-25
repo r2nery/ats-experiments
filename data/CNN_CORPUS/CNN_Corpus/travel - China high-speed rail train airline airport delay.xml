@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1761" link="http://www.cnn.com/2013/04/11/travel/china-high-speed-rail/index.html" date_published="2013-04-12 02:43:26" category="travel" author="Steven Jiang, CNN" highlights_mapped="true" mapping_error="false">
+  <title>China high-speed rail train airline airport delay</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="9">China&amp;apost;s high-speed rail network is now the world&amp;apost;s busiest with daily ridership exceeding 1.3 million.</sentence>
+      <sentence id="2" ids_article_sentences="17">China launched the country&amp;apost;s first high-speed service in 2007.</sentence>
+      <sentence id="3" ids_article_sentences="24">The rapid construction has raised doubts about the service&amp;apost;s safety and commercial viability.</sentence>
+      <sentence id="4" ids_article_sentences="30">The government plans to complete a 25,000-kilometer high-speed network by 2020.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-07-25 21:20:04" annotation_time="197.37334">
+      <sentence id="9" ids_highlights="1">China&amp;apost;s fast-expanding high-speed rail network is now the world&amp;apost;s busiest with daily ridership exceeding 1.3 million.</sentence>
+      <sentence id="17" ids_highlights="2">The Chinese government, which owns and operates all domestic rail companies, launched the country&amp;apost;s first high-speed service in 2007 and now boasts 9,300 kilometers (5,778 miles) of high-speed routes nationwide, turning a nonexistent network into the world&amp;apost;s longest in a few short years.</sentence>
+      <sentence id="24" ids_highlights="3">The massive investments and rapid construction, however, have raised public concerns over the new service&amp;apost;s safety record and commercial viability, amid state media reports of empty trains traveling between inconvenient new stations in less-developed provinces.</sentence>
+      <sentence id="30" ids_highlights="4">The Chinese government is reportedly spending some $300 billion to make that vision a reality, moving full steam ahead on its plan to build a 25,000-kilometer (15,534 mile) high-speed rail network by 2020.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Beijing With less than half an hour to spare, Chen Zhu calmly emerged from the subway station connected to the massive Beijing West Railway Station with a small, wheeled bag.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Upon retrieving her ticket from a kiosk, Chen breezed through the security checkpoint before scanning her ticket to open an automated gate leading to the platform.</content>
+        </sentence>
+        <sentence id="3">
+          <content>Five minutes after boarding, she was reading a book as her bullet train pulled out of the station precisely on time.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>For this young journalist who frequently travels for work, these steps have become part of an increasingly appealing routine amid worsening air traffic congestion at major airports across China.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>&amp;quot;Flights out of Beijing are always delayed,&amp;quot; Chen said.</content>
+        </sentence>
+        <sentence id="6">
+          <content>&amp;quot;Door to door, high-speed trains are often faster than flying for me.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;I usually get to the station last minute and board the train right before departure.</content>
+        </sentence>
+        <sentence id="8">
+          <content>The service is just so punctual.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>China&amp;apost;s fast-expanding high-speed rail network is now the world&amp;apost;s busiest with daily ridership exceeding 1.3 million.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>On morning of Chen&amp;apost;s journey, train G511 raced through the countryside at 300 kmph (186 mph) from Beijing to the central city of Wuhan in just five hours -- less than half the time of the regular rail route.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>The new link between Beijing and Wuhan opened last December and added to what has become the world&amp;apost;s longest high-speed rail line, running almost 2,300 kilometers (1,429 miles) from the Chinese capital to the southern metropolis of Guangzhou.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>Although Chen still prefers to fly on longer routes, she says on business trips shorter than six hours, the choice of train over plane is now a no-brainer.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>&amp;quot;I work or read on the train,&amp;quot; she said, highlighting the benefit of uninterrupted mobile phone reception.</content>
+        </sentence>
+        <sentence id="14">
+          <content>&amp;quot;It&amp;apost;s great that everyone has access to a power outlet.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="15">
+          <content>At $85, her second-class seat costs less than half of a full-fare economy-class plane ticket on this major business route.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="16">
+          <content>Now the world&amp;apost;s second-largest economy, and flush with cash, China has been busy purchasing foreign rail technologies and building high-speed lines.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="17">
+          <content>The Chinese government, which owns and operates all domestic rail companies, launched the country&amp;apost;s first high-speed service in 2007 and now boasts 9,300 kilometers (5,778 miles) of high-speed routes nationwide, turning a nonexistent network into the world&amp;apost;s longest in a few short years.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;In less than a decade, we constructed more high-speed rail lines than what it took Japan and Europe 40 years to build,&amp;quot; said Zhao Jian, an economics professor at Beijing Jiaotong University and one of the country&amp;apost;s leading experts on rail transportation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;We&amp;apost;ve had such amazing growth because land expropriation is cheap and so is labor,&amp;quot; he explained.</content>
+        </sentence>
+        <sentence id="20">
+          <content>&amp;quot;You also have the economy of scale -- other countries usually build a few hundred kilometers of tracks, but in China we&amp;apost;re talking about thousands of kilometers.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="21">
+          <content>Although Zhao is often cited as a skeptical voice in the development of high-speed rail in China, even he is impressed after taking a few rides.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;I&amp;apost;ve taken high-speed trains in Japan, Germany, France, South Korea and Taiwan,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="23">
+          <content>&amp;quot;Ours offer the smoothest and fastest ride in the world.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="24">
+          <content>The massive investments and rapid construction, however, have raised public concerns over the new service&amp;apost;s safety record and commercial viability, amid state media reports of empty trains traveling between inconvenient new stations in less-developed provinces.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="25">
+          <content>Already, rail officials have slowed down some bullet trains -- originally planned to run as fast as 380 kmph (236 mph) -- to make the service safer and cheaper.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="26">
+          <content>&amp;quot;Raising the speed to 350kmph (217 mph) or 380 kmph (236 mph) would lower built-in safety redundancies, and greatly increase wear-and-tear and operating costs,&amp;quot; Zhao said.</content>
+        </sentence>
+        <sentence id="27">
+          <content>&amp;quot;It&amp;apost;s not the faster, the better.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="28">
+          <content>During most of her journey, Chen&amp;apost;s train was only half full, but that hasn&amp;apost;t dampened her enthusiasm for her favorite mode of transportation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="29">
+          <content>&amp;quot;I think in parts of the country, taking high-speed trains will be like taking buses in the future,&amp;quot; she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="30">
+          <content>The Chinese government is reportedly spending some $300 billion to make that vision a reality, moving full steam ahead on its plan to build a 25,000-kilometer (15,534 mile) high-speed rail network by 2020.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

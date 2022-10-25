@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="186" link="http://www.cnn.com/2014/03/14/health/aquarium-pump-breathing/index.html" date_published="2014-03-14 11:19:09" category="health" author="Kelly Murray, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Breathing machine made of aquarium pumps saving babies&amp;apost; lives</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="6">College students create a breathing machine from aquarium pumps.</sentence>
+      <sentence id="2" ids_article_sentences="4">The machine has helped dozens of newborns in Malawi survive.</sentence>
+      <sentence id="3" ids_article_sentences="8">Malawi has the world&amp;apost;s highest rate of preterm births per 100 births.</sentence>
+      <sentence id="4" ids_article_sentences="15">The machines provide gentle air pressure to help babies breathe.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-01 14:04:33" annotation_time="35.092" mapping_time_divergence="8.773">
+      <sentence id="4" ids_highlights="2">Chokonjetsa is one of dozens of newborns in the African country who have survived thanks to the ingenuity of students in a senior design class at Rice University in Houston.</sentence>
+      <sentence id="6" ids_highlights="1">Using aquarium pumps, the students have designed a low-cost version of a breathing device called a bubble CPAP, or Continuous Positive Airway Pressure, machine.</sentence>
+      <sentence id="8" ids_highlights="3">Malawi has the highest rate of preterm birth in the world, 18.1 per 100 live births, according to the World Health Organization.</sentence>
+      <sentence id="15" ids_highlights="4">With a CPAP machine, gentle air pressure is pushed via tubes into the nostrils and/or mouth to help facilitate breathing.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>When Chokonjetsa was born, he weighed just over 2 pounds.</content>
+        </sentence>
+        <sentence id="2">
+          <content>His tiny, underdeveloped lungs struggled for each breath.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>Then doctors in the hospital in Blantyre, Malawi, put Chokonjetsa on a breathing machine made out of aquarium pumps.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Chokonjetsa is one of dozens of newborns in the African country who have survived thanks to the ingenuity of students in a senior design class at Rice University in Houston.</content>
+        </sentence>
+        <sentence id="5">
+          <content>The overall survival rate of babies with respiratory distress at the Malawi hospital increased from 44% to 71% with the use of the students&amp;apost; breathing machine, according to a recent clinical trial.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>Using aquarium pumps, the students have designed a low-cost version of a breathing device called a bubble CPAP, or Continuous Positive Airway Pressure, machine.</content>
+        </sentence>
+        <sentence id="7">
+          <content>Traditional bubble CPAP systems used in developed countries can cost upwards of $6,000; the students&amp;apost; machine can be manufactured for around $350, providing big savings for hospitals in poverty-stricken areas.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>Malawi has the highest rate of preterm birth in the world, 18.1 per 100 live births, according to the World Health Organization.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Babies born too early often have underdeveloped lungs that don&amp;apost;t inflate easily.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>Premature babies struggle to breathe in part because they don&amp;apost;t produce enough lung surfactant, a naturally-produced chemical that keeps the tiny air sacs in the lungs, called alveoli, from collapsing.</content>
+        </sentence>
+        <sentence id="11">
+          <content>A lot of these babies die because of the stress struggling to breathe puts on their bodies.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>In Malawi, when a newborn is suffering from respiratory distress, he or she is typically provided extra oxygen via tubes placed gently in the nose.</content>
+        </sentence>
+        <sentence id="13">
+          <content>But doctors don&amp;apost;t add air pressure to help inflate the infant&amp;apost;s lungs.</content>
+        </sentence>
+        <sentence id="14">
+          <content>This is the way respiratory distress was treated in newborns, even in developed countries like the United States, until the 1970s.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="15">
+          <content>With a CPAP machine, gentle air pressure is pushed via tubes into the nostrils and/or mouth to help facilitate breathing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="16">
+          <content>To understand how a bubble CPAP works, think of a straw that is partially submerged in a glass of water.</content>
+        </sentence>
+        <sentence id="17">
+          <content>When you blow into the top of the straw, bubbles come out of the bottom of the straw and bubble up.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;When lungs are underdeveloped, it&amp;apost;s like when you&amp;apost;re blowing up a completely deflated balloon and that first breath to inflate the balloon is really difficult,&amp;quot; said Dr. Rebecca Richards-Kortum of Rice University, who helped facilitate the design of the students&amp;apost; bubble CPAP machine.</content>
+        </sentence>
+        <sentence id="19">
+          <content>&amp;quot;For a baby with underdeveloped lungs, every breath is like that.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="20">
+          <content>Doctors and nurses know that it takes very little air pressure to assist newborns.</content>
+        </sentence>
+        <sentence id="21">
+          <content>The design students found that two aquarium pumps provided the perfect amount of gentle pressure for delicate lungs.</content>
+        </sentence>
+        <sentence id="22">
+          <content>In the original prototype, the machine was housed in a clear plastic shoebox from Target.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="23">
+          <content>The device&amp;apost;s latest casing box is made from bent sheet metal specifically designed for usability, funcation and durability, said Dr. Maria Oden of Rice University, a co-author of the device&amp;apost;s clinical trial along with Richards-Kortum.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="24">
+          <content>&amp;quot;Having used bubble CPAP myself, the (low-cost aquarium pump) machine uses the same general principles,&amp;quot; said Dr. Andrea Trembath, a neonatal specialist at Rainbow Babies and Children&amp;apost;s Hospital in Cleveland who was not associated with the device&amp;apost;s design.</content>
+        </sentence>
+        <sentence id="25">
+          <content>&amp;quot;We&amp;apost;ve found bubble CPAP to be very beneficial in infants with respiratory distress.</content>
+        </sentence>
+        <sentence id="26">
+          <content>... After taking a look at the photos, the low-cost machine doesn&amp;apost;t seem to be very different.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="27">
+          <content>Jocelyn Brown, a former student who helped design the low-cost bubble CPAP machine, has lived in Malawi for almost two years.</content>
+        </sentence>
+        <sentence id="28">
+          <content>She is collaborating with aid organizations and using a transitions grant from USAID in hopes of rolling out the device across the country -- first in government hospitals, and then in private and rural hospitals.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="29">
+          <content>So far, the machines have been implemented in nine government hospitals, she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="30">
+          <content>Brown said one major challenge to the rollout in Malawi is a lack of nurses and physicians; the high turnover rate makes training difficult.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="31">
+          <content>&amp;quot;Many district hospitals have maybe one doctor, who may not even be a neonatal specialist,&amp;quot; Brown said.</content>
+        </sentence>
+        <sentence id="32">
+          <content>&amp;quot;Much of the care is provided by nurses, but one nurse could be taking care of 40 patients at a time.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="33">
+          <content>Another challenge, Brown explained, is that parents in Malawi are sometimes reluctant to allow the bubble CPAP machine to be used, perhaps because nasal tubes and masks used in respiratory therapy are associated with death -- usually, only extremely ill patients receive breathing assistance.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="34">
+          <content>Fortunately, baby Chokonjetsa&amp;apost;s family allowed him to receive the respiratory therapy.</content>
+        </sentence>
+        <sentence id="35">
+          <content>His name, which means &amp;quot;thrown away&amp;quot; in Malawi&amp;apost;s Chichewa language, was chosen by his grandmother.</content>
+        </sentence>
+        <sentence id="36">
+          <content>She feared he had been thrown away by God, as she didn&amp;apost;t expect him to survive.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="37">
+          <content>But with the help of a breathing machine made of aquarium pumps, Chokonjetsa is now a healthy, thriving 7-month-old baby.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

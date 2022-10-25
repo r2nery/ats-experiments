@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="526" link="http://edition.cnn.com/2012/04/10/justice/teacher-fbi-top-ten/index.html" date_published="2012-04-10 16:05:15" category="justice" author="Carol Cratty, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Former teacher wanted for child porn makes FBI list</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="5">Toth allegedly installed a camera in a bathroom used by students.</sentence>
+      <sentence id="2" ids_article_sentences="11">The former teacher was last seen in Phoenix, the FBI says.</sentence>
+      <sentence id="3" ids_article_sentences="3">Toth disappeared as the initial investigation got under way, the FBI says.</sentence>
+      <sentence id="4" ids_article_sentences="21">The FBI Ten Most Wanted Fugitives List was created in 1950.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-14 14:31:22" annotation_time="1693.4244">
+      <sentence id="3" ids_highlights="3">Toth went missing while the initial investigation was under way.</sentence>
+      <sentence id="5" ids_highlights="1">An FBI official said Toth allegedly installed a camera in a bathroom adjacent to his classroom which was used by students.</sentence>
+      <sentence id="11" ids_highlights="2">He was last seen in a homeless shelter in Phoenix in 2009.</sentence>
+      <sentence id="21" ids_highlights="4">Toth is the 495th person to be put on the FBI&amp;apost;s Ten Most Wanted Fugitives List, which was created in 1950.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Washington A former private school teacher and camp counselor facing child pornography charges was added to the FBI&amp;apost;s Ten Most Wanted Fugitives list Tuesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Eric Justin Toth, also known as David Bussone, was a third grade teacher at the National Cathedral&amp;apost;s Beauvoir school in Washington, D.C., in 2008 when pornographic images were found on a school camera that had allegedly been in his possession.</content>
+        </sentence>
+        <sentence id="3">
+          <content>Toth went missing while the initial investigation was under way.</content>
+        </sentence>
+        <sentence id="4">
+          <content>He was later indicted in Washington for possession of child pornography and in Maryland for production of child pornography.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>An FBI official said Toth allegedly installed a camera in a bathroom adjacent to his classroom which was used by students.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>Toth, 30, is 6 feet, 3 inches tall, weighs approximately 155 pounds and has brown hair and green eyes.</content>
+        </sentence>
+        <sentence id="7">
+          <content>The FBI issued a wanted poster with several photos of the suspect.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>The agency described Toth as a computer expert who has above average knowledge of the Internet.</content>
+        </sentence>
+        <sentence id="9">
+          <content>He graduated from Purdue University with an education degree and the FBI poster says &amp;quot;he may advertise online as a tutor or male nanny.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>According to the FBI, since he left the Washington area, Toth is believed to have traveled to Illinois, Indiana, Wisconsin and Minnesota.</content>
+        </sentence>
+        <sentence id="11">
+          <content>He was last seen in a homeless shelter in Phoenix in 2009.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>The FBI hopes adding Toth to the most wanted list and offering a reward of up to $100,000 will bring in new tips and lead to his arrest.</content>
+        </sentence>
+        <sentence id="13">
+          <content>An FBI statement notes the former teacher has eluded capture despite various media reports about the case and his being featured on the &amp;quot;America&amp;apost;s Most Wanted&amp;quot; television program.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="14">
+          <content>The May 2011 raid by U.S. forces in Pakistan which killed al Qaeda leader Osama bin Laden opened up the spot on the Top Ten list which Toth now fills.</content>
+        </sentence>
+        <sentence id="15">
+          <content>&amp;quot;There is no comparison to be made between Toth and bin Laden,&amp;quot; said FBI Supervisory Special Agent Jacqueline Maguire.</content>
+        </sentence>
+        <sentence id="16">
+          <content>&amp;quot;Although Eric Toth has not murdered anyone and he is not an international terrorist, that does not mean he isn&amp;apost;t dangerous.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;We are very concerned that he may be in contact with other children, so we are asking for the public&amp;apost;s assistance to help us capture him,&amp;quot; Maguire added.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="18">
+          <content>Alleged Boston mobster James &amp;quot;Whitey&amp;quot; Bulger, also on the FBI Top Ten list, was arrested in California in June.</content>
+        </sentence>
+        <sentence id="19">
+          <content>He is still pictured on the list with a banner underneath his face saying &amp;quot;captured.&amp;quot;</content>
+        </sentence>
+        <sentence id="20">
+          <content>The FBI has not yet announced who will fill Bulger&amp;apost;s slot.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="21">
+          <content>Toth is the 495th person to be put on the FBI&amp;apost;s Ten Most Wanted Fugitives List, which was created in 1950.</content>
+        </sentence>
+        <sentence id="22">
+          <content>The FBI says 465 of those fugitives were found, 153 of them as a result of help from the public.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="474" link="http://edition.cnn.com/2012/02/03/justice/wikileaks-manning-court-martial/index.html" date_published="2012-02-04 01:58:53" category="justice" author="the CNN Wire Staff" highlights_mapped="true" mapping_error="false">
+  <title>Bradley Manning faces court-martial in WikiLeaks case</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Manning is suspected of giving classified documents to WikiLeaks.</sentence>
+      <sentence id="2" ids_article_sentences="3">He could face life in prison.</sentence>
+      <sentence id="3" ids_article_sentences="15">Intelligence community trying to plug leaks.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-01 16:45:39" annotation_time="19.454332">
+      <sentence id="1" ids_highlights="1">Pfc. Bradley E. Manning, who is suspected of leaking hundreds of thousands of secret documents to the WikiLeaks website, will be court-martialed on charges that could lead to a sentence of life in prison, the Army said Friday in a statement.</sentence>
+      <sentence id="3" ids_highlights="2">If convicted of all charges, he would face a maximum sentence of life in prison, reduction to the lowest enlisted pay grade, E-1; forfeiture of pay and allowances; and a dishonorable discharge.</sentence>
+      <sentence id="15" ids_highlights="3">Director of National Intelligence James Clapper told an information-sharing conference last month that plugging leaks of classified materials is still a challenge for the community as it develops new systems to protect information, while at the same time ensuring the right people have access to it.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Pfc. Bradley E. Manning, who is suspected of leaking hundreds of thousands of secret documents to the WikiLeaks website, will be court-martialed on charges that could lead to a sentence of life in prison, the Army said Friday in a statement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Manning, 24, faces charges that include aiding the enemy, wrongfully causing intelligence to be published on the Internet, theft of public property or records, transmitting defense information, and fraud and related activity in connection with computers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>If convicted of all charges, he would face a maximum sentence of life in prison, reduction to the lowest enlisted pay grade, E-1; forfeiture of pay and allowances; and a dishonorable discharge.</content>
+        </sentence>
+        <sentence id="4">
+          <content>Aiding the enemy is a capital offense, but the investigating officer endorsed the view of military prosecutors not to seek the death penalty.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>The U.S. Army Trial Judiciary will appoint a military judge who will set the date for Manning&amp;apost;s arraignment, motion hearings and trial, the statement said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>Manning is accused of orchestrating the biggest intelligence leak in U.S. history.</content>
+        </sentence>
+        <sentence id="7">
+          <content>During the Article 32 proceedings in December, prosecutors presented evidence that Manning allegedly communicated with WikiLeaks founder Julian Assange in a series of Internet chats about uploading 700 Guantanamo Bay detainee interrogation reports.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>Prosecutors charge that Manning put software on secure computers that allowed him to download classified material and burn it to a compact disc.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Manning was assigned as an intelligence analyst in Iraq and had a top-secret clearance.</content>
+        </sentence>
+        <sentence id="10">
+          <content>He worked in a Sensitive Compartmented Information Facility, known as SCIF.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>Manning is being held in military custody.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>At the Article 32 hearing, Manning&amp;apost;s defense lawyer, David Coombs, focused most of his attention on two issues: lack of security at the SCIF and the Army&amp;apost;s lack of response to Manning&amp;apost;s emotional and behavior problems.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>WikiLeaks, the international online group that publishes secret government documents it receives from outside sources, set off a firestorm a year and a half ago when it made public on its website U.S. diplomatic cables and other sensitive documents, most of them pertaining to the Iraq and Afghanistan wars.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>The disclosure of hundreds of the documents continues to cast a shadow over the U.S. intelligence community.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="15">
+          <content>Director of National Intelligence James Clapper told an information-sharing conference last month that plugging leaks of classified materials is still a challenge for the community as it develops new systems to protect information, while at the same time ensuring the right people have access to it.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="16">
+          <content>The fact that Manning had access to so much secret information called into question whether the government had gone too far in responding to one of the biggest failures associated with the 9/11 terrorist attacks.</content>
+        </sentence>
+        <sentence id="17">
+          <content>The intelligence community and law enforcement were faulted for failing to share information that might have prevented the attacks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="18">
+          <content>Clapper called the WikiLeaks disclosure a &amp;quot;terrible event&amp;quot; that heightened the intelligence community&amp;apost;s sensitivity to inside threats.</content>
+        </sentence>
+        <sentence id="19">
+          <content>He said changes have already been made to monitor information and keep track of who has access to it.</content>
+        </sentence>
+        <sentence id="20">
+          <content>But he said it is a work in progress.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="21">
+          <content>&amp;quot;We have to do more to both tag data and ensure that we can properly identify people so that they are actually authorized to receive the information,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="473" link="http://www.cnn.com/2012/11/30/justice/manning-wikileaks/index.html" date_published="2012-12-01 01:35:10" category="justice" author="Paul Courson, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Bradley Manning didn&amp;apost;t complain about mistreatment, prosecutors contend</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Prosecutors try to counter Bradley Manning&amp;apost;s claims of abuse in confinement.</sentence>
+      <sentence id="2" ids_article_sentences="2">The hearing focuses on Manning&amp;apost;s time in the military brig at Quantico, Virginia.</sentence>
+      <sentence id="3" ids_article_sentences="3">Defense wants case dismissed on grounds that Manning&amp;apost;s confinement was harsh.</sentence>
+      <sentence id="4" ids_article_sentences="4">The Army private is accused of stealing thousands of classified documents.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-05 13:28:56" annotation_time="185.73299" mapping_time_divergence="46.433247">
+      <sentence id="1" ids_highlights="1">Prosecutors tried to establish Friday that Army private Bradley Manning -- charged in the largest leak of classified material in U.S. history -- missed multiple opportunities to complain about the mistreatment he&amp;apost;s alleging he suffered in military custody.</sentence>
+      <sentence id="2" ids_highlights="2">While cross-examining Manning at a pre-trial hearing at Ft. Meade, Maryland, prosecutor Maj. Ashden Fein asserted that records of weekly visits Manning had with unit officers during nine months of detention at Quantico, Virginia, show no complaints about his treatment.</sentence>
+      <sentence id="3" ids_highlights="3">The cross-examination -- during a hearing on a defense motion to have Manning&amp;apost;s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment -- came a day after Manning testified that he had considered suicide while in custody.</sentence>
+      <sentence id="4" ids_highlights="4">The Army intelligence analyst, arrested in June 2010, is accused of stealing thousands of classified documents while serving in Iraq.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Prosecutors tried to establish Friday that Army private Bradley Manning -- charged in the largest leak of classified material in U.S. history -- missed multiple opportunities to complain about the mistreatment he&amp;apost;s alleging he suffered in military custody.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>While cross-examining Manning at a pre-trial hearing at Ft. Meade, Maryland, prosecutor Maj. Ashden Fein asserted that records of weekly visits Manning had with unit officers during nine months of detention at Quantico, Virginia, show no complaints about his treatment.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The cross-examination -- during a hearing on a defense motion to have Manning&amp;apost;s case dismissed on grounds that his confinement has been harsh and has amounted to enough punishment -- came a day after Manning testified that he had considered suicide while in custody.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>The Army intelligence analyst, arrested in June 2010, is accused of stealing thousands of classified documents while serving in Iraq.</content>
+        </sentence>
+        <sentence id="5">
+          <content>The material was then published online by WikiLeaks.</content>
+        </sentence>
+        <sentence id="6">
+          <content>WikiLeaks has never confirmed that Manning was the source of its information.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>In Friday&amp;apost;s hearing, Fein reviewed with Manning the forms that officers filled out after meeting with Manning during his detention at Quantico&amp;apost;s brig, where he was held under a heightened confinement status from July 2010 to April 2011.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>Officers would ask Manning questions and write down his responses.</content>
+        </sentence>
+        <sentence id="9">
+          <content>When Fein asked about the forms Friday, Manning acknowledged that he rated treatment by his guards as &amp;quot;excellent&amp;quot; and treatment by the facility overall as &amp;quot;very professional.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>The forms show no complaints of mistreatment, even though the officers asked Manning directly about his treatment, Fein contended.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>Manning responded that he would verbally express concern about issues and that the visiting officers would talk through the concerns and indicate that they would be addressed, but they didn&amp;apost;t record the issues.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;They would write down &amp;apost;no issues&amp;apost; (after discussing the concerns), and it didn&amp;apost;t necessarily mean I didn&amp;apost;t bring something up,&amp;quot; Manning said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>The judge, Army Col. Denise Lind, also asked Manning why he didn&amp;apost;t complain about his treatment during a January 2011 meeting with a board examining the suicidal thoughts he expressed in a form months earlier.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>Manning replied that his intention during that meeting was to get his &amp;quot;prevention of injury&amp;quot; status downgraded.</content>
+        </sentence>
+        <sentence id="15">
+          <content>The military said they put him on this restrictive status -- a step below suicide watch -- for his protection and the safety of others.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;I wanted staff to know I was fine, and (I wanted to) get off the POI status ... to enjoy an increased quality of life from my viewpoint,&amp;quot; Manning said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="17">
+          <content>Manning testified Thursday about his arrest in Iraq and his transfer to Kuwait, where he was held for nearly two months before being transferred to the brig at Marine Base Quantico in Virginia in July 2010.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="18">
+          <content>He said he contemplated suicide in Kuwait and once passed out there due to the heat.</content>
+        </sentence>
+        <sentence id="19">
+          <content>He said not being allowed to know what was happening to him or in the outside world was distressing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="20">
+          <content>&amp;quot;My world just shrink to Camp Arafjon, to that cage,&amp;quot; Manning said Thursday.</content>
+        </sentence>
+        <sentence id="21">
+          <content>&amp;quot;I thought I was going to die in that cage.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="22">
+          <content>Once at Quantico, Manning said, he spend most days in a small cell -- at least 21 hours and often more than 23 hours -- with no company.</content>
+        </sentence>
+        <sentence id="23">
+          <content>Manning said he was allowed only a mattress, blanket, flip-flops, some clothes and his glasses.</content>
+        </sentence>
+        <sentence id="24">
+          <content>He said he tried to keep moving, because sleeping during the day or even lying down was against the rules.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="25">
+          <content>Manning said he always slept with light from outside his cell in his eyes.</content>
+        </sentence>
+        <sentence id="26">
+          <content>If guards could not see his face when he rolled over at night, he said they would wake him to roll back over.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="27">
+          <content>Manning&amp;apost;s lawyer filed a formal objection to Manning&amp;apost;s treatment in January 2011.</content>
+        </sentence>
+        <sentence id="28">
+          <content>Manning was moved to the military prison at Fort Leavenworth, Kansas, in April 2011.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="29">
+          <content>Also Friday, the judge asked Manning about an allegation that he made in Thursday&amp;apost;s testimony -- that after being forced to sleep naked one night in his Quantico cell, he was forced to stand naked in front of guards and other inmates during a morning head count.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="30">
+          <content>Manning had testified that he was never given a chance to cover himself with his blanket during the head count.</content>
+        </sentence>
+        <sentence id="31">
+          <content>Under questioning from the judge Friday, Manning said that he inferred from his guard&amp;apost;s order that he should drop a blanket that could have covered him, but he acknowledged that no one had ordered him to drop it.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="32">
+          <content>Manning testified Thursday that he was forced to sleep naked the previous night because of his attempt to show an officer that he wasn&amp;apost;t a danger to himself.</content>
+        </sentence>
+        <sentence id="33">
+          <content>Manning said that he told the officer that he could have used the waistband of his underwear or his flip-flops to hurt himself but hadn&amp;apost;t done so.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="34">
+          <content>That night, Manning testified, his underwear, flip-flops and glasses were removed from his cell.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="35">
+          <content>His lawyers hope the judge will at least take his experiences during confinement into account and sharply reduce his sentence should he be convicted at his court-martial, which is expected to begin early next year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="36">
+          <content>The defense has said it plans to have Manning plead guilty to lesser offenses and fight other charges as being too extreme.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="37">
+          <content>The hearing is scheduled to resume this weekend, with prosecutors expected to argue that the detention conditions were warranted.</content>
+        </sentence>
+        <sentence id="38">
+          <content>The Pentagon has maintained that Manning was held in accordance with rules governing all maximum-custody detainees at Quantico.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="39">
+          <content>Counts against Manning include aiding the enemy, wrongfully causing intelligence to be published on the Internet, transmitting national defense information and theft of public property or records.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="40">
+          <content>If he&amp;apost;s convicted on all counts, he could face a life sentence.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

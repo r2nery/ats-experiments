@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="156" link="http://www.cnn.com/2013/02/26/business/opinion-hospital-mobile-advertising/index.html?iid=article_sidebar" category="business" author="Stephanie Hospital, special to CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Will mobile kill digital advertising?</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">&amp;quot;Many reasons to feel optimistic about mobile&amp;apost;s benefit to advertisers,&amp;quot; writes Hospital.</sentence>
+      <sentence id="2" ids_article_sentences="20">Hospital: We expect web apps usage to continue to grow with HTML5 penetration.</sentence>
+      <sentence id="3" ids_article_sentences="24, 23, 22">Mobile will challenge digital and erode budgets. But it should not kill it, says Hospital.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-12 22:47:41" annotation_time="48.695">
+      <sentence id="3" ids_highlights="1">But as the mobile industry meets in Barcelona this week, there are many reasons to feel optimistic about mobile&amp;apost;s benefit to advertisers.</sentence>
+      <sentence id="20" ids_highlights="2">With growing HTML5 penetration, we expect web apps usage to continue to grow beyond where we are today.</sentence>
+      <sentence id="22" ids_highlights="3">So mobile will certainly challenge digital.</sentence>
+      <sentence id="23" ids_highlights="3">It may erode digital budgets.</sentence>
+      <sentence id="24" ids_highlights="3">But it should not kill it.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>We&amp;apost;ve been at the same point many times before.</content>
+        </sentence>
+        <sentence id="2">
+          <content>The industry has repeatedly promised a &amp;quot;mobile advertising tipping point,&amp;quot; yet despite the proliferation in smartphones, new advertising formats and new promises, mobile advertising is yet to come of age.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>But as the mobile industry meets in Barcelona this week, there are many reasons to feel optimistic about mobile&amp;apost;s benefit to advertisers.</content>
+        </sentence>
+        <sentence id="4">
+          <content>There are still some hurdles to overcome and lessons to learn, but it is our belief that mobile advertising will have a long and healthy life in the future.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>Whether mobile will kill digital advertising is not the most pressing question the industry faces.</content>
+        </sentence>
+        <sentence id="6">
+          <content>True, we live in an era where disruption is the norm.</content>
+        </sentence>
+        <sentence id="7">
+          <content>We expect new businesses to emerge - often seemingly overnight - to usurp standard practice.</content>
+        </sentence>
+        <sentence id="8">
+          <content>But should we fear it?</content>
+        </sentence>
+        <sentence id="9">
+          <content>I think not.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="10">
+          <content>If we focus on mobile phones - then it is our expectation that mobile media will take no more than 20% of digital revenues by 2016.</content>
+        </sentence>
+        <sentence id="11">
+          <content>Yet if we include tablets within mobile media, we can predict that mobile advertising will surpass traditional digital spending by 2016.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="12">
+          <content>In many ways digital advertisers have it easy.</content>
+        </sentence>
+        <sentence id="13">
+          <content>Seen through an advertisers&amp;apost; eyes, mobile is so much more complex than other media formats.</content>
+        </sentence>
+        <sentence id="14">
+          <content>Mobile screen sizes are, on average, 10 times smaller than PC screens.</content>
+        </sentence>
+        <sentence id="15">
+          <content>Mobile advertisers are working with real estate that the advertiser has to carefully plan.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="16">
+          <content>Additionally, the personal nature of the device means consumers do not like to be interrupted unnecessarily by untimely messages.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="17">
+          <content>Finally, the plethora of device and operating system choices, make it supremely challenging for brands and advertisers to understand how, when and with what to target their audiences.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="18">
+          <content>The mobile landscape is fast-paced and will continue to evolve, meaning existing and new challenges will continue to provoke the industry.</content>
+        </sentence>
+        <sentence id="19">
+          <content>Orange&amp;apost;s annual independent study into mobile media habits for advertisers, showed that in the UK 82% of mobile media users access the internet primarily via the browser, compared to 61% who accessed internet information from an app.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="20">
+          <content>With growing HTML5 penetration, we expect web apps usage to continue to grow beyond where we are today.</content>
+        </sentence>
+        <sentence id="21">
+          <content>This will allow a much more consistent and richer offering around advertising on mobile.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="22">
+          <content>So mobile will certainly challenge digital.</content>
+        </sentence>
+        <sentence id="23">
+          <content>It may erode digital budgets.</content>
+        </sentence>
+        <sentence id="24">
+          <content>But it should not kill it.</content>
+        </sentence>
+        <sentence id="25">
+          <content>To think that mobile could kill off another media format would completely miss the benefit of mobile devices.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="26">
+          <content>Our research also revealed that one in two mobile media users is happy to receive advertising messages on their mobile phone, as long as those adverts are relevant and bring benefits to the end user, for example in the form of coupons, useful alerts, or location challenges.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="27">
+          <content>We see three principle reasons as to why mobile has tremendous potential: It is often the last touch-point before a purchase.</content>
+        </sentence>
+        <sentence id="28">
+          <content>Secondly it is the &amp;quot;connective tissue&amp;quot; linking and integrating other media formats.</content>
+        </sentence>
+        <sentence id="29">
+          <content>Finally, mobile is more personal, more social and more local than any other media.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="30">
+          <content>And in real terms we believe we&amp;apost;re still two or three years away from mobile truly coming of age.</content>
+        </sentence>
+        <sentence id="31">
+          <content>But it is a tremendously exciting time, where we will see experimentation and new forms of engagement emerge, based on mobile habits.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="32">
+          <content>So back to the question, will mobile kill digital advertising?</content>
+        </sentence>
+        <sentence id="33">
+          <content>I don&amp;apost;t think so.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="34">
+          <content>But perhaps mobile advertising&amp;apost;s biggest threat at the moment is itself.</content>
+        </sentence>
+        <sentence id="35">
+          <content>Unless the industry works together, addresses complexity and properly understands mobile behaviours, we risk being held at a standstill and never reaching the promised tipping point.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

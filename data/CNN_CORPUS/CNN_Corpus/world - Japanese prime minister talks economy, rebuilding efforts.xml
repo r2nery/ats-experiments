@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2360" link="http://edition.cnn.com/2012/03/03/world/asia/japan-pm-anniversary/index.html" date_published="2012-03-03 12:04:24" category="world" author="Kyung Lah, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Japanese prime minister talks economy, rebuilding efforts</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">&amp;quot;There will be many lessons learned ... from the nuclear power plant accident,&amp;quot; he says .</sentence>
+      <sentence id="2" ids_article_sentences="4">Japan is still in the process of self reflection and debate, according to the prime minister .</sentence>
+      <sentence id="3" ids_article_sentences="11">Out of 53 reactors, Japan has two nuclear reactors operating after the natural disaster last year .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-09-01 17:45:40" annotation_time="19.605667">
+      <sentence id="3" ids_highlights="1">&amp;quot;There will be many lessons learned, as well as remorse, from the nuclear power plant accident,&amp;quot; Noda told CNN.</sentence>
+      <sentence id="4" ids_highlights="2">Japan is still in the process of self reflection and debate, he said, to avoid repeating the nuclear accident that unnerved the global community.</sentence>
+      <sentence id="11" ids_highlights="3">Out of 53 reactors, Japan has two nuclear reactors operating.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Tokyo The Japanese prime minister issued a sobering and reflective assessment of his country&amp;apost;s recovery as it prepares to mark the one year anniversary of a 9.0-magnitude earthquake, tsunami and nuclear meltdown.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Prime Minister Yoshihiko Noda discussed the economy, reconstruction and the lessons of the triple meltdown at the Fukushima nuclear plant.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;There will be many lessons learned, as well as remorse, from the nuclear power plant accident,&amp;quot; Noda told CNN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>Japan is still in the process of self reflection and debate, he said, to avoid repeating the nuclear accident that unnerved the global community.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>&amp;quot;Sharing the lessons and remorse of this nuclear accident with the international community will contribute to the overall safety of nuclear energy as well as international cooperation.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>Noda addressed a scathing report last week from the independent fact-finding committee, Rebuild Japan Initiative Foundation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>In the report, the group said Japan hid its most alarming assessments of the nuclear disaster from the public as well as its closest ally, the United States.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="8">
+          <content>One previously undisclosed doomsday plan, according to the group, was that the government feared the nuclear disaster could lead to an evacuation of Tokyo.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="9">
+          <content>Noda said each accident investigation, whether led by independent bodies or the government, would be taken &amp;quot;very seriously.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="10">
+          <content>The legacy of the Fukushima disaster on Japan&amp;apost;s energy policy is the country&amp;apost;s idling of nuclear plants across the energy-starved island nation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="11">
+          <content>Out of 53 reactors, Japan has two nuclear reactors operating.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="12">
+          <content>Since the nuclear triple meltdown, the reactors have gone offline for routine maintenance and have not been brought back online.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="13">
+          <content>By the end of April, the remaining two reactors will go offline, leaving the country, which has no natural resources for conventional energy, looking at a summer without any nuclear energy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="14">
+          <content>The strain on the grid this summer is raising alarm bells in corporate Japan, which fears it won&amp;apost;t have enough power to run production lines in the country.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="15">
+          <content>&amp;quot;In case there is a short-term supply and demand gap of energy, it could cause downward pressure on the economy.</content>
+        </sentence>
+        <sentence id="16">
+          <content>We must avoid that,&amp;quot; Noda said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="17">
+          <content>The prime minister said his government would release a mid-range and long term energy strategy by the middle of this year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;Our basic stance is to move away from our dependence on nuclear power.</content>
+        </sentence>
+        <sentence id="19">
+          <content>This means that we have to try and increase the use of renewable energy, in a thorough effort to save energy,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="20">
+          <content>The prime minister said his government has included a 600 billion yen (US $7.5 billion) allocation in the fiscal year 2012 budget in renewable energy and conservation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="21">
+          <content>A year after the March 2011, earthquake and tsunami killed thousands and crippled the Fukushima Daiichi nuclear power plant, Noda described reconstruction and aid to the tsunami-ravaged northeast as &amp;quot;steady progress,&amp;quot; but said he hoped to boost reconstruction.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="22">
+          <content>The prime minister faces not just the nuclear cleanup and disaster reconstruction, but an economy facing intense pressure.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="23">
+          <content>Japan&amp;apost;s currency, the yen, remains at historic highs versus the U.S. dollar.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="24">
+          <content>A high yen makes it more expensive for Japanese corporations to make a profit when the funds are repatriated, dragging down corporate profits, domestic investment and employment.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="25">
+          <content>Japan&amp;apost;s debt to GDP ratio is highest among developed nations, topping 200%.</content>
+        </sentence>
+        <sentence id="26">
+          <content>The country is also aging at an unprecedented rate.</content>
+        </sentence>
+        <sentence id="27">
+          <content>By the year 2050, the government projects 40% of the population will be over the age of 65, straining public funds while relying on a dwindling tax base.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="28">
+          <content>&amp;quot;We have no time to waste,&amp;quot; Noda said about economic challenges, adding economic growth and fiscal health &amp;quot;must occur side by side.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="29">
+          <content>The centerpiece of the prime minister&amp;apost;s economic policy has been the doubling of the country&amp;apost;s sales tax, from the current 5% to 10% by October 2015.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="30">
+          <content>The plan remains unpopular with voters, but the prime minister has repeatedly endorsed fiscal responsibility, in the wake of the shrinking economy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="31">
+          <content>Noda is one of six prime ministers Japan has had in five years, a revolving door of leadership that&amp;apost;s led to a years-long political instability and policy void.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="32">
+          <content>When asked how long he believed he would be the country&amp;apost;s leader, Noda laughed, aware of the recent historical probability that he might not last a full year on the job.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="33">
+          <content>But he said the overwhelming amount of work to be done in Japan meant he doesn&amp;apost;t have time to worry about his longevity.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="34">
+          <content>&amp;quot;Yesterday marks exactly half a year since my administration started.</content>
+        </sentence>
+        <sentence id="35">
+          <content>Rather than thinking about how long I will be prime minister, I am thinking of working every day for the Japanese people.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

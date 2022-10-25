@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="606" link="http://www.cnn.com/2012/07/09/justice/pennsylvania-penn-state-paterno/index.html" date_published="2012-07-09 04:16:11" category="justice" author="Susan Candiotti and Ross Levitt, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Probe eyes Paterno&amp;apost;s preference for handling problems internally</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">A group headed by former FBI Director Louis Freeh has been poring over Penn State e-mails.</sentence>
+      <sentence id="2" ids_article_sentences="4">E-mails provided to CNN show that Joe Paterno wielded power beyond the realm of football.</sentence>
+      <sentence id="3" ids_article_sentences="21">An official says in a 2005 e-mail that Paterno wanted to keep disciplinary matters internal.</sentence>
+      <sentence id="4" ids_article_sentences="7">&amp;quot;Coach Paterno would rather we NOT inform the public ... despite any moral or legal obligation ...&amp;quot;.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-02 18:19:43" annotation_time="31.138">
+      <sentence id="2" ids_highlights="1">Freeh&amp;apost;s group has been poring over internal Penn State e-mails and has interviewed a past university official about the way Paterno influenced a variety of disciplinary matters, according to a source with knowledge of the investigation.</sentence>
+      <sentence id="4" ids_highlights="2">The e-mails obtained by CNN from a source familiar with the investigation, and first reported by the Wall Street Journal, show Paterno wielded power that went well beyond the realm of football or even the athletic department.</sentence>
+      <sentence id="7" ids_highlights="4">&amp;quot;Coach Paterno would rather we NOT inform the public when a football player is found responsible for committing a serious violation of the law and/or our student code -- despite any moral or legal obligation to do so,&amp;quot; according to her e-mail.</sentence>
+      <sentence id="21" ids_highlights="3">In 2007, after a widely reported incident where more than a dozen players crashed an off-campus party and started a violent brawl, Paterno appears to send an e-mail, through his assistant, to Spanier that says, &amp;quot;I want to make sure everyone understands that the discipline of the players involved will be handled by me as soon as I am comfortable that I know all the facts.&amp;quot;</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Former FBI Director Louis Freeh&amp;apost;s investigation into possible wrongdoing at Penn State University appears to be examining football coach Joe Paterno&amp;apost;s apparent preference for handling scandalous issues internally, and what role that may have played in a potential cover-up involving former defensive coordinator Jerry Sandusky, convicted on 45 counts of child sex abuse on June 22.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Freeh&amp;apost;s group has been poring over internal Penn State e-mails and has interviewed a past university official about the way Paterno influenced a variety of disciplinary matters, according to a source with knowledge of the investigation.</content>
+        </sentence>
+        <sentence id="3">
+          <content>Freeh is leading an internal review of Penn State&amp;apost;s handling of the scandal that is unrelated to criminal investigations.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>The e-mails obtained by CNN from a source familiar with the investigation, and first reported by the Wall Street Journal, show Paterno wielded power that went well beyond the realm of football or even the athletic department.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>In a 2005 e-mail from Dr. Vicky Triponey, then vice president of student affairs in charge of disciplining students, to athletic director Tim Curley and others, she summarizes a meeting they had with Paterno in which he tells her that he wants to be the sole disciplinarian of his players.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>She criticizes Paterno for wanting to limit the Campus Code of Conduct to incidents that take place on campus and keeping disciplinary matters involving his players private.</content>
+        </sentence>
+        <sentence id="7">
+          <content>&amp;quot;Coach Paterno would rather we NOT inform the public when a football player is found responsible for committing a serious violation of the law and/or our student code -- despite any moral or legal obligation to do so,&amp;quot; according to her e-mail.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>In the same e-mail, Triponey, also refers to calls her office was receiving from coaches and others.</content>
+        </sentence>
+        <sentence id="9">
+          <content>&amp;quot;I must insist that the efforts to put pressure on (Student Affairs) and try to influence our decisions...simply MUST STOP,&amp;quot; she writes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>Curley, in a subsequent e-mail, acknowledges that Triponey&amp;apost;s take on the conversation with Paterno is accurate.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>Triponey replies to Curley, &amp;quot;I know you are caught in the middle of a very difficult situation,&amp;quot; an apparent reference to appeasing Paterno.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>In a subsequent e-mail to then-Penn State President Graham Spanier she is more blunt: &amp;quot;I am very troubled by the manipulative, disrespectful, uncivil and abusive behavior of our football coach,&amp;quot; she writes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>Triponey has been interviewed by the Freeh group, according to a source with knowledge of the investigation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>In the same e-mail, she calls Paterno&amp;apost;s behavior &amp;quot;atrocious&amp;quot; and said others are mimicking his behavior.</content>
+        </sentence>
+        <sentence id="15">
+          <content>&amp;quot;It is quite shocking what this man -- who is idolized by people everywhere -- is teaching our students...&amp;quot; she writes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="16">
+          <content>Triponey&amp;apost;s e-mails may be a sign Freeh is also examining the culture around the football team as his investigators work to determine the circumstances surrounding a 2001 sexual incident with a young boy and Sandusky in a Penn State shower room and reported by then graduate assistant coach Mike McQueary.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="17">
+          <content>In purported 2001 e-mails between Curley, Schultz, and Spanier, read exclusively to CNN, Curley appears to change his mind about reporting the locker room incident to outside authorities after speaking to Paterno, he wrote in one e-mail.</content>
+        </sentence>
+        <sentence id="18">
+          <content>Sandusky was convicted in June of four counts related to the 2001 shower incident, including unlawful contact with minors, a first-degree felony.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="19">
+          <content>Curley and former Penn State vice president Gary Schultz face perjury and failure to report child abuse charges in connection with the Sandusky case.</content>
+        </sentence>
+        <sentence id="20">
+          <content>They have pleaded not guilty.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="21">
+          <content>In 2007, after a widely reported incident where more than a dozen players crashed an off-campus party and started a violent brawl, Paterno appears to send an e-mail, through his assistant, to Spanier that says, &amp;quot;I want to make sure everyone understands that the discipline of the players involved will be handled by me as soon as I am comfortable that I know all the facts.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="22">
+          <content>Paterno&amp;apost;s attorneys have said the coach didn&amp;apost;t use e-mail.</content>
+        </sentence>
+        <sentence id="23">
+          <content>The exchange shows while he may not have had his own e-mail account, his assistant would still send e-mails for him.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="24">
+          <content>Paterno planned to punish the team by forcing them to perform 10 hours of community service and clean up the stadium after home games, according to a memo provided by a source familiar with the investigation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="25">
+          <content>After Triponey tried to discipline football players in the same manner as other students, she was harassed both online and at her home, according to a source with knowledge of the investigation.</content>
+        </sentence>
+        <sentence id="26">
+          <content>On her front lawn somebody put up a &amp;quot;for sale&amp;quot; sign.</content>
+        </sentence>
+        <sentence id="27">
+          <content>Police installed a surveillance camera.</content>
+        </sentence>
+        <sentence id="28">
+          <content>In the end, the source says Spanier suggested she think about her future at Penn State, and she resigned.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="29">
+          <content>After Triponey left Penn State, the university changed its discipline policy involving off-campus incidents.</content>
+        </sentence>
+        <sentence id="30">
+          <content>Its current code of conduct says it only applies to &amp;quot;off campus conduct that affects a Substantial University interest.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="31">
+          <content>The Freeh goup and the university declined comment on this story.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="32">
+          <content>Efforts Sunday night to obtain a comment from the Paterno family were unsuccessful.</content>
+        </sentence>
+        <sentence id="33">
+          <content>Paterno died of complications from lung cancer in January.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="34">
+          <content>The 2001, 2005, and 2007 e-mail exchanges are among many now under investigation by the Freeh group.</content>
+        </sentence>
+        <sentence id="35">
+          <content>The e-mails revealed so far suggest coach Paterno preferred to handle bad behavior internally, a preference that may have influenced a decision by university officials not to report Sandusky to authorities in 2001 and allowed him to continue to abuse young boys.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

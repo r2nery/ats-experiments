@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2715" link="http://www.cnn.com/2012/12/21/world/europe/russia-us-adoption-ban/index.html" date_published="2012-12-21 13:06:55" category="world" author="Madison Park, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Russia&amp;apost;s lower house approves bill to ban U.S. adoption</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="9">NEW: The United States expresses &amp;quot;concern&amp;quot; about the measures in the bill.</sentence>
+      <sentence id="2" ids_article_sentences="3, 1">The State Duma approves a bill barring U.S. adoption, state media says.</sentence>
+      <sentence id="3" ids_article_sentences="6">The measure also imposes restrictions on NGOs and U.S. officials.</sentence>
+      <sentence id="4" ids_article_sentences="4">If approved by the Federation Council, the bill will go to Putin to be signed into law.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-11 18:24:23" annotation_time="75.40933" mapping_time_divergence="18.852333">
+      <sentence id="1" ids_highlights="2">Lawmakers in Moscow moved Friday to ban Americans from adopting Russian children, passing a bill that imposes a series of sanctions on U.S. interests, state media reported.</sentence>
+      <sentence id="3" ids_highlights="2">The State Duma, Russia&amp;apost;s lower house of parliament, adopted the bill on its third reading, the state-run RAPSI news agency reported.</sentence>
+      <sentence id="4" ids_highlights="4">The measure will now move to the Federation Council and, if approved there, will go to President Vladimir Putin to be signed into law, the news agency said.</sentence>
+      <sentence id="6" ids_highlights="3">It also bars any political activities by nongovernmental organizations receiving funding from the United States, if such activities may affect Russian interests, the news agency said, and imposes sanctions against U.S. officials thought to have violated human rights.</sentence>
+      <sentence id="9" ids_highlights="1">&amp;quot;The United States is concerned by measures in the bill passed in the Russian Duma today that, if it becomes law, would halt inter-country adoptions between the United States and Russia and would restrict the ability of Russian civil society organizations to work with American partners,&amp;quot; U.S. State Department spokesman Patrick Ventrell said.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Lawmakers in Moscow moved Friday to ban Americans from adopting Russian children, passing a bill that imposes a series of sanctions on U.S. interests, state media reported.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Russia is one of the top countries of origin for international adoptions in the United States.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The State Duma, Russia&amp;apost;s lower house of parliament, adopted the bill on its third reading, the state-run RAPSI news agency reported.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>The measure will now move to the Federation Council and, if approved there, will go to President Vladimir Putin to be signed into law, the news agency said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>The legislation could affect hundreds of American families seeking to adopt Russian children.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>It also bars any political activities by nongovernmental organizations receiving funding from the United States, if such activities may affect Russian interests, the news agency said, and imposes sanctions against U.S. officials thought to have violated human rights.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>The move by Russian politicians is widely seen as retaliation for a law that U.S. President Barack Obama signed December 14.</content>
+        </sentence>
+        <sentence id="8">
+          <content>That bill, called the Magnitsky Act, imposes U.S. travel and financial restrictions on human rights abusers in Russia.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>&amp;quot;The United States is concerned by measures in the bill passed in the Russian Duma today that, if it becomes law, would halt inter-country adoptions between the United States and Russia and would restrict the ability of Russian civil society organizations to work with American partners,&amp;quot; U.S. State Department spokesman Patrick Ventrell said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="10">
+          <content>The Magnitsky act is named in honor of Russian lawyer Sergei Magnitsky, who uncovered the largest tax fraud in the country&amp;apost;s history in the form of rebates claimed by government officials who stole money from the state.</content>
+        </sentence>
+        <sentence id="11">
+          <content>Magnitsky died in 2009 after a year in a Moscow detention center, apparently beaten to death.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>Russian leaders have criticized the bill, which also places sanctions on those involved in the tax fraud Magnitsky uncovered and those responsible for his detention, abuse, and death.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="13">
+          <content>The bill passed by the State Duma is named in turn after Dima Yakovlev, a 2-year-old boy who died while in the care of a U.S. adoptive family, RAPSI said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="14">
+          <content>Its implementation would nullify a recent agreement between the United States and Russia in which the countries agreed to additional safeguards to protect children and parties involved in inter-country adoptions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="15">
+          <content>&amp;quot;American families have welcomed more than 60,000 Russian children into American homes over the past 20 years,&amp;quot; Ventrell said.</content>
+        </sentence>
+        <sentence id="16">
+          <content>&amp;quot;Just last month we implemented a bilateral adoptions agreement with Russia to improve safeguards for adopted children and their families.</content>
+        </sentence>
+        <sentence id="17">
+          <content>If Russian officials have concerns about the implementation of this agreement, we stand ready to work with them to improve it and remain committed to supporting inter-country adoptions between our two countries.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="18">
+          <content>Only China has more adoptions to the United States than Russia.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="19">
+          <content>Backers of the Russian bill said American adoptive parents have been abusive, citing 19 deaths of Russian children by their adoptive parents since the 1990s, according to local media.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="20">
+          <content>In 2010, an American woman caused outrage after she sent her adopted son back to Russia alone on a one-way flight, saying the boy, then 7, had violent episodes that made the family fear for its safety.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="21">
+          <content>Amnesty International called on Russian lawmakers Thursday to reject their measure, which it said would &amp;quot;have a chilling effect on human rights defenders and civil society&amp;quot; and end adoptions to the United States.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;There is a huge risk that the vaguely worded provisions in this bill will be used to clamp down on government critics and exposers of abuses.</content>
+        </sentence>
+        <sentence id="23">
+          <content>Indeed this would appear to be its real purpose,&amp;quot; said John Dalhuisen, Amnesty International&amp;apost;s Europe and Central Asia program director.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="24">
+          <content>&amp;quot;This bill is frankly a childish response to the Magnitsky Act,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="25">
+          <content>&amp;quot;The Duma should be focusing its efforts on how it can strengthen Russian civil society and not weaken it.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

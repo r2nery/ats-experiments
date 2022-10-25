@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="848" link="http://edition.cnn.com/2012/06/28/opinion/horwitz-levy-obamacare/index.html" date_published="2012-06-29 01:08:19" category="opinion" author="Jill R. Horwitz and Helen Levy, Special to CNN" highlights_mapped="true" mapping_error="false">
+  <title>Obamacare will help drive down health care costs</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">The Supreme Court has upheld the constitutionality of the individual mandate.</sentence>
+      <sentence id="2" ids_article_sentences="1">Jill Horwitz and Helen Levy: Now it&amp;apost;s time to focus on key goal of controlling health care costs.</sentence>
+      <sentence id="3" ids_article_sentences="11">Affordable Care Act contains provisions that can improve health care system, they say.</sentence>
+      <sentence id="4" ids_article_sentences="24">Horwitz, Levy: Court&amp;apost;s decision opens a new chapter in our history as we try out new policy .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-09-01 11:06:26" annotation_time="50.819668">
+      <sentence id="1" ids_highlights="1, 2">Now that the Supreme Court has upheld the constitutionality of the individual mandate, it&amp;apost;s time to focus on what has always been a key goal of health reform: Controlling health care costs.</sentence>
+      <sentence id="11" ids_highlights="3">The Affordable Care Act contains many provisions intended to drive the health care system toward providing greater value.</sentence>
+      <sentence id="24" ids_highlights="4">But no one can deny that it opens a new chapter in our history as we move forward on a bold and necessary policy experiment.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Now that the Supreme Court has upheld the constitutionality of the individual mandate, it&amp;apost;s time to focus on what has always been a key goal of health reform: Controlling health care costs.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>No matter how you count it, health care spending is large -- and growing at a worrisome rate.</content>
+        </sentence>
+        <sentence id="3">
+          <content>In 2011, Americans spent $2.7 trillion on health care, almost 18% of our GDP.</content>
+        </sentence>
+        <sentence id="4">
+          <content>The federal government spends more on health care than on defense, Social Security or any other single expenditure category.</content>
+        </sentence>
+        <sentence id="5">
+          <content>Investments that could have gone into important areas like education or infrastructure are instead diverted into footing our health care bills.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="6">
+          <content>The individual mandate by itself will have little effect on costs.</content>
+        </sentence>
+        <sentence id="7">
+          <content>This is because the main effect of the mandate is to add a relatively small number of people, about 15 million, to the insurance rolls.</content>
+        </sentence>
+        <sentence id="8">
+          <content>The vast majority of Americans, more than 250 million, already get their health insurance on the job or from public programs such as Medicare and Medicaid.</content>
+        </sentence>
+        <sentence id="9">
+          <content>The mandate alone was never going to change their health spending patterns.</content>
+        </sentence>
+        <sentence id="10">
+          <content>However, this does not mean that the court&amp;apost;s decision will have no effect on health spending.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="11">
+          <content>The Affordable Care Act contains many provisions intended to drive the health care system toward providing greater value.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="12">
+          <content>It would not be an overstatement to say that, with the exception of eliminating the tax break for employer-sponsored health insurance, the health reform law contains almost every idea that anyone, Democrat or Republican, has had in the past 10 years, about how to increase quality and efficiency in the health care system.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="13">
+          <content>These ideas include accountable care organizations, patient-centered medical homes, value-based purchasing in Medicare, incentives for hospitals to provider better, safer and more efficient care, an excise tax on &amp;quot;Cadillac&amp;quot; health plans, and better information about treatment effectiveness to help patients and providers make informed decisions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="14">
+          <content>The value-based purchasing program, for example, will change the way Medicare pays hospitals for inpatient care.</content>
+        </sentence>
+        <sentence id="15">
+          <content>Instead of paying hospitals for the amount of care they provide, Medicare payments will now also depend on the quality of care provided.</content>
+        </sentence>
+        <sentence id="16">
+          <content>The idea is that by following best practices, hospitals will forgo unnecessary care, help patients recover faster and spend less.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="17">
+          <content>Some of these reforms targeting the health care delivery system are novel, and experts are rightly cautious in their predictions about what they can accomplish and whether they will &amp;quot;bend the curve&amp;quot; of health care spending until it is sustainable.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="18">
+          <content>There are other ideas out there on how we can reduce the federal government&amp;apost;s obligations -- notably the plan advanced by Rep. Paul Ryan, R-Wisconsin, which takes the brute force approach of simply shifting costs from the government to states and individuals.</content>
+        </sentence>
+        <sentence id="19">
+          <content>The Affordable Care Act is the better choice.</content>
+        </sentence>
+        <sentence id="20">
+          <content>Instead of papering over our problems by shifting ever-increasing costs to those least able to afford care or depriving people of the services they need, the health reform law applies the most creative thinking to address the roots of our spending problems.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="21">
+          <content>Today, the court gave us the green light to get on with seeking solutions to the underlying problem of inefficient spending.</content>
+        </sentence>
+        <sentence id="22">
+          <content>It permitted the government to do what it should, to innovate in the face of a seemingly intractable social problem.</content>
+        </sentence>
+        <sentence id="23">
+          <content>Not everyone is happy with the decision.</content>
+        </sentence>
+        <sentence id="24">
+          <content>But no one can deny that it opens a new chapter in our history as we move forward on a bold and necessary policy experiment.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="25">
+          <content>Follow us on Twitter @CNNOpinion.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="26">
+          <content>Join us on Facebook/CNNOpinion.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

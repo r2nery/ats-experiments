@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2422" link="http://cnn.com/2011/11/27/world/meast/yemen-clashes/ " date_published="2011-11-27 12:02:01" category="world" author=" Hakim Almasmari, For CNN " highlights_mapped="true" mapping_error="false">
+  <title>Medics: Militants raid Yemen town, killing dozens</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Dozens killed when militants raid a Sunni town.</sentence>
+      <sentence id="2" ids_article_sentences="3">At least 61 people are injured when their homes are shelled with grenades.</sentence>
+      <sentence id="3" ids_article_sentences="5">Doctors could not reach the injured because the town is under siege .</sentence>
+      <sentence id="4" ids_article_sentences="23">Saleh returns to Yemen on Saturday night.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-14 16:45:43" annotation_time="1065.1085">
+      <sentence id="1" ids_highlights="1">At least 24 people were killed early Sunday when militants raided a Sunni town in northern Yemen, medics and witnesses said.</sentence>
+      <sentence id="3" ids_highlights="2">At least 61 Sunnis are also injured when their homes were shelled with grenades, the medics said.</sentence>
+      <sentence id="5" ids_highlights="3">Witnesses said the injured did not get medical attention because the town was under siege.</sentence>
+      <sentence id="23" ids_highlights="4">Saleh returned to Yemen on Saturday night, days after he signed an agreement in Saudi Arabia yielding his powers, according to the Yemen official news agency.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>At least 24 people were killed early Sunday when militants raided a Sunni town in northern Yemen, medics and witnesses said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The Houthi Shia militants raided a Sunni town in Sa&amp;apost;ada in the predawn hours, medics said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>At least 61 Sunnis are also injured when their homes were shelled with grenades, the medics said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>They medics did not want to be named because they are not authorized to talk to the media.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>Witnesses said the injured did not get medical attention because the town was under siege.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>The Houthi attacks were concentrated on a Sunni religious center, according to witnesses.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>All mediation efforts to end the conflict have failed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="8">
+          <content>Houthis, a pro-Shia movement in Yemen, has expanded during the 10-month struggle to oust the president.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="9">
+          <content>Opposition officials have expressed concern over its growth.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;We cannot indulge in any political agreement with an armed movement.</content>
+        </sentence>
+        <sentence id="11">
+          <content>How can we involve them into politics when they don&amp;apost;t believe in it,&amp;quot; said Ali Mamari, an opposition member in Yemen.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="12">
+          <content>Mamari said Yemenis will not accept movements that spread with force and kill people.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="13">
+          <content>&amp;quot;There is no difference between Houthis and al Qaeda, both are armed and use force to spread their beliefs,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="14">
+          <content>Houthis rejected the power transfer signing that took place in Riyadh earlier this week and said it would not recognize it.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="15">
+          <content>&amp;quot;The movement has more than 100,000 fighters ready to obey commands from their spiritual leader, Abdul Malik al-Houthi,&amp;quot; said Ahmed Bahri, an expert in Houthi affairs.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;This movement is well organized and only has one head,&amp;quot; Bahri said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;They now control majority areas in the provinces in Sa&amp;apost;ada and Jawf, and have powerful presence in Amran, Mareb, Sana&amp;apost;a and Hajjah,&amp;quot; added Bahri.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="18">
+          <content>Sectarian violence is at peak in northern Yemen where Houthis control is spread across five provinces.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="19">
+          <content>Saudi Arabia fought the Houthis in 2009 but failed to end their expansion.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="20">
+          <content>The attacks come a day after Yemen&amp;apost;s vice president called for presidential elections to be held in February, state media reported.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="21">
+          <content>President Ali Abdullah Saleh stepped down after months of protests against his 33-year rule.</content>
+        </sentence>
+        <sentence id="22">
+          <content>He became the fourth leader to leave office as a result of the Arab Spring unrest that has roiled much of the Middle East and North Africa this year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="23">
+          <content>Saleh returned to Yemen on Saturday night, days after he signed an agreement in Saudi Arabia yielding his powers, according to the Yemen official news agency.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

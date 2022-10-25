@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2812" link="http://edition.cnn.com/2011/11/22/world/africa/egypt-cairo-scene/index.html" date_published="2011-11-22 14:48:52" category="world" author="Ivan Watson, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Tear gas returns to Cairo&amp;apost;s Tahrir Square</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="9">At least 29 people had been killed in the three days of violence, officials say.</sentence>
+      <sentence id="2" ids_article_sentences="10">Protesters equipped with surgical masks, facemasks against tear gas.</sentence>
+      <sentence id="3" ids_article_sentences="11">Motorcycles ferry wounded protesters from streets to makeshift first aid clinics.</sentence>
+      <sentence id="4" ids_article_sentences="27">One tear gas canister&amp;apost;s markings identify it as being made in USA.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-09-19 14:50:21" annotation_time="27.488335">
+      <sentence id="9" ids_highlights="1">According to the Ministry of Health&amp;apost;s latest statistics, at least 29 people had been killed in the three days of violence as of Monday night.</sentence>
+      <sentence id="10" ids_highlights="2">Like Radwan, many of the protesters were equipped with surgical masks and other rudimentary facemasks in a vain attempt to protect themselves from the clouds of tear gas that constantly billow out from side streets, where demonstrators continued their furious battles with riot police Tuesday.</sentence>
+      <sentence id="11" ids_highlights="3">Motorcycles ferried wounded protesters from these streets to makeshift first aid clinics in the square.</sentence>
+      <sentence id="27" ids_highlights="4">One of the tear gas canisters had markings clearly identifying it as having been manufactured in Jamestown, Pennsylvania.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Cairo Dawn broke over central Cairo Tuesday, revealing thousands of demonstrators sleeping on the lawns, sidewalks and streets of Tahrir Square.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Throughout the previous night, running street battles raged in the streets and back alleys just a few hundred yards away.</content>
+        </sentence>
+        <sentence id="3">
+          <content>The steady stream of ambulances leaving Tahrir were a tragic sign of just how violent Egypt&amp;apost;s latest round of political unrest has been.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Most of the demonstrators were young Egyptian men; many were teenagers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Mahmour Radwan, a 22-year old engineering student, traveled down to Cairo from Alexandria, Egypt&amp;apost;s second city Tuesday with two of his friends, just to join the protests.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;Sorry sir, we didn&amp;apost;t start this mess.</content>
+        </sentence>
+        <sentence id="7">
+          <content>They started it, when they killed 35 person and they put them in the street,&amp;quot; Radwan said, pointing in the direction of the riot police who were firing tear gas from a position not 400 yards away.</content>
+        </sentence>
+        <sentence id="8">
+          <content>&amp;quot;They started it, not us.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>According to the Ministry of Health&amp;apost;s latest statistics, at least 29 people had been killed in the three days of violence as of Monday night.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>Like Radwan, many of the protesters were equipped with surgical masks and other rudimentary facemasks in a vain attempt to protect themselves from the clouds of tear gas that constantly billow out from side streets, where demonstrators continued their furious battles with riot police Tuesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>Motorcycles ferried wounded protesters from these streets to makeshift first aid clinics in the square.</content>
+        </sentence>
+        <sentence id="12">
+          <content>Medics and volunteers treated the young men as they coughed and puked on the pavement.</content>
+        </sentence>
+        <sentence id="13">
+          <content>Large piles of first aid equipment, most of it apparently donated, had already been amassed to support the protest movement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>Despite the protesters&amp;apost; occupation of Tahrir, workers still streamed into Mugama Tahrir, the huge government building overlooking the square, Tuesday morning.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>Not all of them supported the resurgent protest movement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>Municipal worker Moatez Farid blamed both Egypt&amp;apost;s ruling military council and the angry protesters for the latest spasm of violence.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;These people are angry about the system,&amp;quot; he said, pointing at the dozens of young men sleeping on blankets in front of the massive municipal building.</content>
+        </sentence>
+        <sentence id="18">
+          <content>He accused the Supreme Council of the Armed Forces -- which has ruled Egypt since President Hosni Mubarak was forced from office nine months ago -- of making the same mistakes as the former ruler.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;You know, Mubarak did too late, too little,&amp;quot; Farid said, inverting the common English expression.</content>
+        </sentence>
+        <sentence id="20">
+          <content>&amp;quot;The same with the military...too late, too little.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="21">
+          <content>On the frontlines of the street battle, protesters took turns hurling stones at helmeted riot police who stood barely 100 yards away.</content>
+        </sentence>
+        <sentence id="22">
+          <content>Every few minutes, the police fired canisters of tear gas back at the demonstrators.</content>
+        </sentence>
+        <sentence id="23">
+          <content>On a rubble-strewn side street, army soldiers uncoiled barbed wire.</content>
+        </sentence>
+        <sentence id="24">
+          <content>Several protesters controlled the crowd and directed it away from clashing with the soldiers, instead focusing on the police.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="25">
+          <content>Young women stood nearby, holding bottles of water and solution to help treat those overcome by the effects of the gas.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="26">
+          <content>As journalists walked through the melee, demonstrators ran up wielding spent shotgun shells and tear gas canisters.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="27">
+          <content>One of the tear gas canisters had markings clearly identifying it as having been manufactured in Jamestown, Pennsylvania.</content>
+        </sentence>
+        <sentence id="28">
+          <content>&amp;quot;Made in USA, made in USA,&amp;quot; several of the young men yelled.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

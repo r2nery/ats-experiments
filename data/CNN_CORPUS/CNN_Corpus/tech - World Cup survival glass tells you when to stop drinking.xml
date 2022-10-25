@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1679" link="http://www.cnn.com/2014/06/13/tech/innovation/world-cup-survival-glass/index.html" date_published="2014-06-13 16:40:05" category="tech" author="Kieron Monks, for CNN" highlights_mapped="true" mapping_error="false">
+  <title>World Cup survival glass tells you when to stop drinking</title>
+  <keywords>World Cup,football,alcohol,Vessyl,Justin Lee ,Mark One</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="5">&amp;apost;Vessyl&amp;apost; has a sensor that analyzes the molecular content of drinks in real time.</sentence>
+      <sentence id="2" ids_article_sentences="5">It then displays selected nutritional information such as alcohol content on the side .</sentence>
+      <sentence id="3" ids_article_sentences="14">The device can be set to meet a variety of needs, from weight loss to improved sleep.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-07-22 17:32:21" annotation_time="29.992">
+      <sentence id="5" ids_highlights="1, 2">The sleek 13-ounce design is fitted with a sensor that analyzes the molecular content of drinks in real time, and then displays selected nutritional information such as sugar or alcohol content on the side of the cup.</sentence>
+      <sentence id="14" ids_highlights="3">The device can be set to multiple &amp;quot;lenses&amp;quot; to meet a variety of needs, from weight loss to improved sleep.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Imagine you are welded to the sofa at home about to watch a third match in a row.</content>
+        </sentence>
+        <sentence id="2">
+          <content>You have been drinking throughout the day, but reach for another can of cold beer and fill your glass.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>But the vessel you are drinking from says that your alcohol intake has exceeded safe levels and urges you to reconsider.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Rather than a desperate government intervention, this is the concept of the Vessyl &amp;apost;smart cup&amp;apost; -- a groundbreaking addition to the field of consumer health technologies, which has launched for pre-orders.</content>
+        </sentence>
+        <sentence id="5">
+          <content>The sleek 13-ounce design is fitted with a sensor that analyzes the molecular content of drinks in real time, and then displays selected nutritional information such as sugar or alcohol content on the side of the cup.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>In a live demonstration for CNN, inventor and CEO of parent company Mark One, Justin Lee used the Vessyl to identify a range of beverages.</content>
+        </sentence>
+        <sentence id="7">
+          <content>The cup -- synced to his iPhone -- took only a few seconds to recognize a specific brand of smoothie, and was able to discern an exact flavor of Frappuccino.</content>
+        </sentence>
+        <sentence id="8">
+          <content>Moments later, sugar and calorie content flash up.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="9">
+          <content>Users can adapt the device to their personal needs, says Lee.</content>
+        </sentence>
+        <sentence id="10">
+          <content>&amp;quot;We want this to be a product for what matters to you.</content>
+        </sentence>
+        <sentence id="11">
+          <content>People who want to lose weight will care most about the calories.</content>
+        </sentence>
+        <sentence id="12">
+          <content>I work out so I&amp;apost;m more interested in protein.</content>
+        </sentence>
+        <sentence id="13">
+          <content>People can also be mindful of caffeine consumption -- to be sharp but not jittery.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="14">
+          <content>The device can be set to multiple &amp;quot;lenses&amp;quot; to meet a variety of needs, from weight loss to improved sleep.</content>
+        </sentence>
+        <sentence id="15">
+          <content>It tracks cumulative consumption so that users can observe and improve their patterns.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="16">
+          <content>Lee hopes that Vessyl will be used in conjunction with existing health technologies that record personal details such as heart rate and body mass index to optimize consumption choices.</content>
+        </sentence>
+        <sentence id="17">
+          <content>The mobile app includes a feature for a tailored hydration program based on such personal details.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="18">
+          <content>There is a medical imperative behind the Vessyl.</content>
+        </sentence>
+        <sentence id="19">
+          <content>&amp;quot;Sugar-sweetened beverages are the number one source of calories&amp;quot;, reported a recent survey from the US Center for Disease Control.</content>
+        </sentence>
+        <sentence id="20">
+          <content>Soft drinks are increasingly identified by health organizations as a leading cause of obesity, with major efforts to restrict their consumption and improve public understanding of the high sugar levels.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="21">
+          <content>Other products are beginning to offer forms of molecular analysis for our food, but Smith believes that usability will prove a trump card.</content>
+        </sentence>
+        <sentence id="22">
+          <content>&amp;quot;We wanted this to be as easy as possible for consumers, we were completely focused on making the interaction simple.</content>
+        </sentence>
+        <sentence id="23">
+          <content>The data has to be clear and actionable.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="24">
+          <content>Certainly, one need not be a technology guru to make use of the Vessyl, the ease of which owes much to the collaboration with award-winning designer Yves Behar, creator of the Jawbone.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="25">
+          <content>The only action required of the user is to tilt the cup and read the numbers displayed on the side of the cup.</content>
+        </sentence>
+        <sentence id="26">
+          <content>The only maintenance required is &amp;quot;quick rinse&amp;quot; between drinks, and charging is delivered via a wireless coaster.</content>
+        </sentence>
+        <sentence id="27">
+          <content>The size and shape is conventional with a &amp;quot;flick-to-open&amp;quot; spill-proof lid.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="28">
+          <content>The Vessyl has heavyweight support, with leading innovators at Google and Apple among its admirers.</content>
+        </sentence>
+        <sentence id="29">
+          <content>&amp;quot;People will at first be blown away, and then they are going to expect everything else in the world to be able to see its contents and materials the same way&amp;quot;, says Mike Beltzner, head of mobile at Pinterest.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="30">
+          <content>While some may still prefer not to know the gory details of everything they consume, innovations like the Vessyl are making it harder than ever to live in ignorance.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="31">
+          <content>Read more from Make, Create, Innovate:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

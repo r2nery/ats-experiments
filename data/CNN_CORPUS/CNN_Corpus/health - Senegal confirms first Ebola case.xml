@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="360" link="http://edition.cnn.com/2014/08/29/health/ebola-outbreak-senegal/index.html?hpt=iaf_c2" date_published="2014-08-29 15:27:07" category="health" author="Ray Sanchez, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Senegal confirms first Ebola case</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Senegal in West Africa confirms its first Ebola case a week after closing its borders .</sentence>
+      <sentence id="2" ids_article_sentences="3">A 21-year-old Conakry University student is infected and was placed in quarantine.</sentence>
+      <sentence id="3" ids_article_sentences="4">Officials in Guinea alerted Senegal on Wednesday after losing track of the young man.</sentence>
+      <sentence id="4" ids_article_sentences="7">Senegal closed its Guinea border on August 21 amid the deadliest Ebola outbreak ever.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-29 14:05:28" annotation_time="39.205">
+      <sentence id="1" ids_highlights="1">The West African country of Senegal has confirmed its first Ebola case one week after closing its border with Guinea over fears that the deadly outbreak could spread, the Senegalese Press Agency reported Friday.</sentence>
+      <sentence id="3" ids_highlights="2">Senegal&amp;apost;s health minister, Awa Marie Coll Seck, confirmed that a 21-year-old university student from Guinea was infected with the Ebola virus and placed in quarantine in the Fann Hospital in Dakar, the news agency reported.</sentence>
+      <sentence id="4" ids_highlights="3">Officials in Guinea alerted Senegal on Wednesday after losing track of the young man, the agency reported.</sentence>
+      <sentence id="7" ids_highlights="4">On August 21, Senegal closed its border with Guinea over fears of the Ebola outbreak, the deadliest ever.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The West African country of Senegal has confirmed its first Ebola case one week after closing its border with Guinea over fears that the deadly outbreak could spread, the Senegalese Press Agency reported Friday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Senegal is the fifth country in the region where the virus has spread.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Senegal&amp;apost;s health minister, Awa Marie Coll Seck, confirmed that a 21-year-old university student from Guinea was infected with the Ebola virus and placed in quarantine in the Fann Hospital in Dakar, the news agency reported.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>Officials in Guinea alerted Senegal on Wednesday after losing track of the young man, the agency reported.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>The man, who doesn&amp;apost;t have any signs of bleeding, went to the hospital for a checkup, the agency said.</content>
+        </sentence>
+        <sentence id="6">
+          <content>His condition is stable.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>On August 21, Senegal closed its border with Guinea over fears of the Ebola outbreak, the deadliest ever.</content>
+        </sentence>
+        <sentence id="8">
+          <content>The closure includes any aircraft and ships traveling to Senegal from Guinea, Sierra Leone or Liberia.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>The Ebola outbreak &amp;quot;continues to accelerate&amp;quot; in West Africa and has killed 1,552 people, the World Health Organization said Thursday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>The total number of cases stands at 3,069, with 40% occurring in the past three weeks.</content>
+        </sentence>
+        <sentence id="11">
+          <content>&amp;quot;However, most cases are concentrated in only a few localities,&amp;quot; the WHO said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>The outbreak has been centered in Guinea, Sierra Leone and Liberia, with a handful of cases in Nigeria.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>The overall fatality rate is 52%, the WHO said, ranging from 42% in Sierra Leone to 66% in Guinea.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>The case of the Conakry University student is the first one reported in Senegal, which is northwest of Guinea.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>Sierra Leone and Liberia border Guinea to the southwest.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Those three nations have been the epicenter of the Ebola outbreak.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="17">
+          <content>Corpses in the three countries are being buried without determining a cause of death, the WHO says.</content>
+        </sentence>
+        <sentence id="18">
+          <content>Medical staff cannot keep up with current health demands, especially with the limited supplies they have on hand.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="19">
+          <content>Senegal is not the first country to close its border during the outbreak.</content>
+        </sentence>
+        <sentence id="20">
+          <content>President Ellen Sirleaf has shut most of Liberia&amp;apost;s borders to contain the virus.</content>
+        </sentence>
+        <sentence id="21">
+          <content>The few points of entry that are still open are testing people passing through for Ebola.</content>
+        </sentence>
+        <sentence id="22">
+          <content>Guinea and Sierra Leone have done the same.</content>
+        </sentence>
+        <sentence id="23">
+          <content>Kenya, South Africa and others in the region are also limiting travel to and from the area.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="24">
+          <content>On Friday, the WHO urged countries to avoid actions that compromise Ebola response efforts, such as closing borders and entry points or banning flights.</content>
+        </sentence>
+        <sentence id="25">
+          <content>The measures isolate and stigmatize the affected countries, making it difficult to transport supplies, the organization said via Twitter.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="26">
+          <content>The crisis has taken a heavy toll on health workers caring for those struck down by the virus.</content>
+        </sentence>
+        <sentence id="27">
+          <content>The WHO said Monday that 120 health care workers have died in the Ebola outbreak, and twice that number have been infected.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

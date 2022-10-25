@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2240" link="http://edition.cnn.com/2013/08/05/world/europe/europe-stem-cell-burger-ott/index.html" date_published="2013-08-05 16:04:39" category="world" author="Stephanie Ott, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Have a taste of the world&amp;apost;s first stem cell burger</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">The first stem cell burger was cooked and eaten by two volunteer tasters in London.</sentence>
+      <sentence id="2" ids_article_sentences="2">The burger was made of 20,000 small strands of meat grown from a cow&amp;apost;s muscle cells.</sentence>
+      <sentence id="3" ids_article_sentences="20">The five ounce cultured beef burger took three months and cost $330,000 to develop.</sentence>
+      <sentence id="4" ids_article_sentences="8">A volunteer taster said the burger was &amp;quot;close to meat but misses salt and pepper&amp;quot;.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-09-01 11:19:12" annotation_time="18.809334">
+      <sentence id="1" ids_highlights="1"> The world&amp;apost;s first stem cell burger was cooked and eaten in London today.</sentence>
+      <sentence id="2" ids_highlights="2">The brainchild of Maastricht University&amp;apost;s Mark Post, the burger was made of 20,000 small strands of meat grown from a cow&amp;apost;s muscle cells and took three months to create.</sentence>
+      <sentence id="8" ids_highlights="4">It&amp;apost;s close to meat but it misses salt and pepper.&amp;quot;</sentence>
+      <sentence id="20" ids_highlights="3">The cultured beef burger cost around $330,000 to develop, mostly funded through an anonymous donation.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The world&amp;apost;s first stem cell burger was cooked and eaten in London today.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The brainchild of Maastricht University&amp;apost;s Mark Post, the burger was made of 20,000 small strands of meat grown from a cow&amp;apost;s muscle cells and took three months to create.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Breadcrumbs and some egg powder were added to the cultured beef to make it taste like a normal beef burger.</content>
+        </sentence>
+        <sentence id="4">
+          <content>To give it a beefy color, red beet juice and saffron were added.</content>
+        </sentence>
+        <sentence id="5">
+          <content>Chef Richard McGeown fried the stem cell burger with sunflower oil and butter and remarked that it looked slightly paler than a traditional burger.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>Two volunteers got to taste the five ounce (142g) burger, which was presented on a plate with a bun, salad and some tomato slices.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>After having the first bite and chewing thoughtfully many times, Hanni Rutzler, an Austrian food trends researcher, said: &amp;quot;I expected the texture to be more soft -- it&amp;apost;s not that juicy.</content>
+        </sentence>
+        <sentence id="8">
+          <content>It&amp;apost;s close to meat but it misses salt and pepper.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>The second volunteer to taste it agreed that the burger was missing something.</content>
+        </sentence>
+        <sentence id="10">
+          <content>Josh Schonwald, a Chicago-based author who writes about the future of food, said: &amp;quot;It has a familiar mouth-feel to real meat.</content>
+        </sentence>
+        <sentence id="11">
+          <content>The flavor is different though.</content>
+        </sentence>
+        <sentence id="12">
+          <content>It misses fat.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="13">
+          <content>Post presented the burger at the Riverside Studios in Hammersmith, London, in front of more than 200 journalists and guests.</content>
+        </sentence>
+        <sentence id="14">
+          <content>&amp;quot;Today&amp;apost;s presentation is only a proof of concept that it&amp;apost;s not science fiction,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="15">
+          <content>&amp;quot;However, there is still an efficiency issue and it remains expensive to develop.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="16">
+          <content>Post spent four years researching and developing the cultured beef burger.</content>
+        </sentence>
+        <sentence id="17">
+          <content>He said he tasted it a couple of times during his research.</content>
+        </sentence>
+        <sentence id="18">
+          <content>&amp;quot;I&amp;apost;d be perfectly comfortable with letting my kids eat it.&amp;quot;</content>
+        </sentence>
+        <sentence id="19">
+          <content>His kids might have to wait a while to get a bite of his burger.</content>
+        </sentence>
+        <sentence id="20">
+          <content>The cultured beef burger cost around $330,000 to develop, mostly funded through an anonymous donation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="21">
+          <content>&amp;quot;I think most people don&amp;apost;t realize that the current meat production is at its maximum.</content>
+        </sentence>
+        <sentence id="22">
+          <content>We need to come up with an alternative,&amp;quot; Post emphasized.</content>
+        </sentence>
+        <sentence id="23">
+          <content>Meat consumption is expected to rise nearly 73% by 2050, according to the Food and Agriculture Organization of the United Nations.</content>
+        </sentence>
+        <sentence id="24">
+          <content>Post hopes that his research into laboratory-made food could solve the looming food crisis.</content>
+        </sentence>
+        <sentence id="25">
+          <content>He says cultured beef does not burden the environment and will put an end to animal cruelty.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="26">
+          <content>The developers hope that cultured beef could end up on supermarket shelves within the next 10 to 20 years.</content>
+        </sentence>
+        <sentence id="27">
+          <content>The next step for Post and his team will be to work on how to get fat into the burger.</content>
+        </sentence>
+        <sentence id="28">
+          <content>Another challenge.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

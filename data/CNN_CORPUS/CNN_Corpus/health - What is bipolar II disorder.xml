@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="417" link="http://www.cnn.com/2013/04/30/health/bipolar-ii-explainer/index.html" date_published="2013-04-30 15:46:58" category="health" author="Elizabeth Landau, CNN" highlights_mapped="true" mapping_error="false">
+  <title>What is bipolar II disorder?</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">Catherine Zeta-Jones previously has said she has bipolar II disorder.</sentence>
+      <sentence id="2" ids_article_sentences="7">Mayo Clinic: Disorder &amp;quot;affects parts of the brain controlling emotion, thought and drive&amp;quot;.</sentence>
+      <sentence id="3" ids_article_sentences="9">It includes periods of depression alternating with a mild form of mania.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-14 13:26:52" annotation_time="35.0475">
+      <sentence id="3" ids_highlights="1">Publicist Sarah Fuller did not mention bipolar disorder specifically Tuesday, but she noted in a statement Zeta-Jones &amp;quot;has said that she is committed to periodic care in order to manage her health in an optimum manner.&amp;quot;</sentence>
+      <sentence id="7" ids_highlights="2">Bipolar II disorder &amp;quot;is a treatable condition that affects parts of the brain controlling emotion, thought and drive and is most likely caused by a complex set of genetic and environmental factors,&amp;quot; according to the Mayo Clinic.</sentence>
+      <sentence id="9" ids_highlights="3">Bipolar II includes periods of depression alternated with hypomania, a mild form of mania that may include elevated mood and irritability.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Actress Catherine Zeta-Jones has &amp;quot;pro-actively&amp;quot; checked into a health care facility, her publicist said Tuesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Zeta-Jones, 43, entered a mental health facility in 2011 to be treated for bipolar II disorder, she has acknowledged.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Publicist Sarah Fuller did not mention bipolar disorder specifically Tuesday, but she noted in a statement Zeta-Jones &amp;quot;has said that she is committed to periodic care in order to manage her health in an optimum manner.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>Rep. Jesse Jackson Jr. has also been diagnosed with bipolar II disorder.</content>
+        </sentence>
+        <sentence id="5">
+          <content>Jackson resigned from the House of Representatives last year after undergoing treatment.</content>
+        </sentence>
+        <sentence id="6">
+          <content>He later pleaded guilty to federal charges related to using campaign funds for personal expenses.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>Bipolar II disorder &amp;quot;is a treatable condition that affects parts of the brain controlling emotion, thought and drive and is most likely caused by a complex set of genetic and environmental factors,&amp;quot; according to the Mayo Clinic.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>It&amp;apost;s a less severe condition than bipolar I, according to the Mayo Clinic.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Bipolar II includes periods of depression alternated with hypomania, a mild form of mania that may include elevated mood and irritability.</content>
+        </sentence>
+        <sentence id="10">
+          <content>The depression periods usually last longer, the Mayo Clinic said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>In bipolar I, on the other hand, manic episodes can be &amp;quot;severe and dangerous,&amp;quot; according to the Mayo Clinic.</content>
+        </sentence>
+        <sentence id="12">
+          <content>Some people experience psychosis, which encompasses delusions and hallucinations.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>Bipolar episodes can be affected by seasonal changes, CNNHealth mental health expert Dr. Charles Raison wrote in 2011.</content>
+        </sentence>
+        <sentence id="14">
+          <content>People with unipolar depression tend to be less sensitive to changes in time, such as the lengths of day and night.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="15">
+          <content>People with both kinds of depression may find relief in similar forms of psychotherapy, although the drug-based treatments for these disorders are different, Raison wrote last year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="16">
+          <content>Bipolar patients often don&amp;apost;t respond well to antidepressants and do better on mood-stabilizing drugs or medications that reduce psychotic symptoms, Raison wrote.</content>
+        </sentence>
+        <sentence id="17">
+          <content>The drugs lithium and valproic acid are examples of mood stabilizers.</content>
+        </sentence>
+        <sentence id="18">
+          <content>Antipsychotics or anti-anxiety medications may also be helpful, depending on the patient.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="19">
+          <content>Suicidal thoughts can be a feature of bipolar disorder.</content>
+        </sentence>
+        <sentence id="20">
+          <content>Hospitalization may be necessary in these cases, or if the patient is psychotic or behaving dangerously.</content>
+        </sentence>
+        <sentence id="21">
+          <content>Getting treatment at a hospital for a serious episode may be helpful as well.</content>
+        </sentence>
+        <sentence id="22">
+          <content>Some patients may also need substance abuse treatment.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="23">
+          <content>If you are experiencing thoughts of suicide, call the National Suicide Prevention Lifeline at 800-273-8255.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

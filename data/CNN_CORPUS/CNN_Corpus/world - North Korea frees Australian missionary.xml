@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2514" link="http://www.cnn.com/2014/03/02/world/asia/north-korea-australian-missionary/?hpt=bosread" date_published="2014-03-02 23:41:40" category="world" author="Dana Ford and Tim Schwarz, CNN" highlights_mapped="true" mapping_error="false">
+  <title>North Korea frees Australian missionary</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="4">NEW: John Short&amp;apost;s wife says she has been told he has arrived in Beijing.</sentence>
+      <sentence id="2" ids_article_sentences="6">&amp;quot;This is welcome news for Mr. Short, his family and his supporters,&amp;quot; Australia says.</sentence>
+      <sentence id="3" ids_article_sentences="14">Short, 75, was arrested last month in Pyongyang.</sentence>
+      <sentence id="4" ids_article_sentences="11">He is accused of &amp;quot;secretly spreading his Bible tracts&amp;quot;.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-28 10:01:42" annotation_time="43.967">
+      <sentence id="4" ids_highlights="1">Short&amp;apost;s wife, Karen, said she had been told by an Australian Embassy official that her husband had arrived in Beijing.</sentence>
+      <sentence id="6" ids_highlights="2">&amp;quot;Clearly, this is welcome news for Mr. Short, his family and his supporters,&amp;quot; the department said.</sentence>
+      <sentence id="11" ids_highlights="4">KCNA also accused him of &amp;quot;spreading his Bible tracts in the Pyongyang Metro on a crowded train, causing a chaos in the sound public order of the DPRK,&amp;quot; in August 2012.</sentence>
+      <sentence id="14" ids_highlights="3">Short&amp;apost;s wife said last month that he had Gospel tracts in Korean with him in Pyongyang and that that issue seemed &amp;quot;to be at the core of the detention.&amp;quot;</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>North Korea has freed John Short, a 75-year-old Australian missionary whom it detained last month.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>&amp;quot;The relevant organ decided to expel him from the territory of the DPRK, thanks to the tolerance of the law of the DPRK and in full consideration of his age,&amp;quot; the state-run Korean Central News Agency reported Monday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The agency said Short &amp;quot;committed a criminal act by secretly spreading his Bible tracts around a Buddhist temple in Pyongyang,&amp;quot; after entering the country as a tourist.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>Short&amp;apost;s wife, Karen, said she had been told by an Australian Embassy official that her husband had arrived in Beijing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>The Australian Department of Foreign Affairs and Trade said it had received confirmation that Short had been released and was being deported.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;Clearly, this is welcome news for Mr. Short, his family and his supporters,&amp;quot; the department said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>KCNA published a written apology that it attributed to Short.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;I now realize the seriousness of my insult to the Korean people on February 16th because I made the Korean people angry and for this I truly apologize.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="9">
+          <content>&amp;quot;I realize that my actions are an indelible hostile act against the independent right and law of the DPRK.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;I request the forgiveness of the DPRK for my actions,&amp;quot; Short reportedly wrote.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="11">
+          <content>KCNA also accused him of &amp;quot;spreading his Bible tracts in the Pyongyang Metro on a crowded train, causing a chaos in the sound public order of the DPRK,&amp;quot; in August 2012.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="12">
+          <content>North Korea is known to push high-profile detainees to make false confessions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="13">
+          <content>Merrill Newman, an American veteran of the Korean War detained by North Korea last year, said that he was made to deliver an &amp;quot;apology&amp;quot; on state media that was not his own words.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="14">
+          <content>Short&amp;apost;s wife said last month that he had Gospel tracts in Korean with him in Pyongyang and that that issue seemed &amp;quot;to be at the core of the detention.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="15">
+          <content>Short, a citizen of Australia, lives in Hong Kong.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="16">
+          <content>His wife said Monday she didn&amp;apost;t yet know when he would arrive back in the city, a special administrative region of China.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;Australian consular officials stand ready to provide assistance to Mr. Short to ensure he can return to his home in Hong Kong as soon as possible,&amp;quot; the Australian Department of Foreign Affairs and Trade said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="18">
+          <content>Short has been arrested multiple times while doing evangelical work in China &amp;quot;for speaking out about brutality against Chinese Christians,&amp;quot; according to a biography on a religious website named Gospel Attract.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="19">
+          <content>In the 1990s, he became &amp;quot;persona non grata&amp;quot; with Chinese authorities for almost two years and was unable to visit mainland China, the biography said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="20">
+          <content>Last year, North Korea sentenced Kenneth Bae, a Korean-American, to 15 years of hard labor on charges he planned to topple the government through religious activities.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="21">
+          <content>Washington has repeatedly called on Pyongyang to release Bae, expressing concerns about his health.</content>
+        </sentence>
+        <sentence id="22">
+          <content>But Kim Jong Un&amp;apost;s regime has so far refused to budge.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="23">
+          <content>Bae, 45, was widely reported to have been conducting missionary work in North Korea.</content>
+        </sentence>
+        <sentence id="24">
+          <content>His family says he ran a company specializing in tours of the secretive country.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="25">
+          <content>North Korea has a number of state-controlled churches, but the authoritarian Communist regime doesn&amp;apost;t tolerate independent religious activities.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="26">
+          <content>The regime &amp;quot;considers the spread of Christianity a particularly serious threat, since it challenges ideologically the official personality cult and provides a platform for social and political organization and interaction outside the realm of the state,&amp;quot; a United Nations panel said in a report released last month.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="27">
+          <content>&amp;quot;People caught practicing Christianity are subject to severe punishments in violation of the right to freedom of religion and the prohibition of religious discrimination,&amp;quot; the report by the United Nations Commission of Inquiry on Human Rights in North Korea said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

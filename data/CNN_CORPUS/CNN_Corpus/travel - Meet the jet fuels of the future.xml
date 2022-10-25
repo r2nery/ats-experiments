@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1804" link="http://www.cnn.com/2014/01/23/travel/boeing-biofuel/index.html" date_published="2014-01-23 06:53:02" category="travel" author="Frances Cha, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Meet the jet fuels of the future</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Boeing announces three new aviation biofuel initiatives.</sentence>
+      <sentence id="2" ids_article_sentences="2">The U.S. airline maker says &amp;quot;green diesel&amp;quot; would emit 50% less carbon dioxide than fossil fuel over its lifecycle.</sentence>
+      <sentence id="3" ids_article_sentences="16">In 2012, air transport produced 689 million tons of carbon dioxide -- 2% of the global total .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-11 22:02:03" annotation_time="31.981">
+      <sentence id="1" ids_highlights="1">In little over a week, Boeing has announced three new developments in its quest to produce sustainable aviation biofuel.</sentence>
+      <sentence id="2" ids_highlights="2">Last week, the company identified &amp;quot;green diesel&amp;quot; as a new biofuel that would emit at least 50% less carbon dioxide than fossil fuel over its lifecycle.</sentence>
+      <sentence id="16" ids_highlights="3">According to IATA, air transport produced 689 million tons of carbon dioxide, approximately 2% of the global total, in 2012.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>In little over a week, Boeing has announced three new developments in its quest to produce sustainable aviation biofuel.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Last week, the company identified &amp;quot;green diesel&amp;quot; as a new biofuel that would emit at least 50% less carbon dioxide than fossil fuel over its lifecycle.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>On Saturday, a new initiative to build a biofuel supply chain in the United Arab Emirates was unveiled using another type of fuel.</content>
+        </sentence>
+        <sentence id="4">
+          <content>It was celebrated with a 45-minute demonstration flight by an Etihad Airways 777 plane powered by U.A.E.-produced biofuel.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>On Wednesday, also out of Abu Dhabi, Boeing and partners said they had made breakthroughs in researching a shrub-like plant called halophytes, which feeds off seawater in desert terrain.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>The research on the shrub-like plant was spearheaded by the Sustainable Bioenergy Research Consortium (SBRC), which is funded by Boeing, Etihad Airways and Honeywell UOP and hosted by the Masdar Institute of Science and Technology in Abu Dhabi.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>According to the findings, the desert plant can be made into biofuel more effectively than many other feedstocks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;Halophytes show even more promise than we expected as a source of renewable fuel for jets and other vehicles,&amp;quot; said SBRC director Dr. Alejandro Rios in a statement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>Diversification.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="10">
+          <content>Why so many types of biofuel?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="11">
+          <content>For aviation companies, it&amp;apost;s important to diversify the types of crops for biofuel production, as well as the locations where the crops are grown.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="12">
+          <content>This reduces exposure to the fuel cost volatility that comes from relying on a single source of energy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="13">
+          <content>Similar to the supply chain announced by Boeing, Airbus has established six regional alternative fuel &amp;quot;value chains&amp;quot; in Australia, Brazil, the Middle East, Romania, China and Spain, and is looking at feedstocks such as algae and cooking oil.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="14">
+          <content>The industry&amp;apost;s pressures and incentives to reduce carbon dioxide emissions are enormous.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="15">
+          <content>The current aggressive target is carbon neutral growth from 2020 and a 50% reduction in carbon dioxide emissions by 2050, based on 2005 levels, according to both manufacturers and the International Air Transport Association (IATA).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="16">
+          <content>According to IATA, air transport produced 689 million tons of carbon dioxide, approximately 2% of the global total, in 2012.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="17">
+          <content>Green diesel.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;Our industry still faces two issues: there isn&amp;apost;t enough aviation biofuel to meet airline demand, and we need to bring the cost down to parity with petroleum jet fuel,&amp;quot; says Jessica Kowal of Boeing&amp;apost;s environment communications team.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="19">
+          <content>For Boeing, green diesel is one of most compelling of the many biofuel &amp;quot;pathways&amp;quot; -- but not because it&amp;apost;s considered to be better than other sources in terms of carbon emissions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="20">
+          <content>Instead, green diesel&amp;apost;s distinguishing factor is that it&amp;apost;s already made in bulk, with a global production capacity of 800 million gallons.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="21">
+          <content>While that&amp;apost;s far from meeting the total global aviation jet fuel demand of 60 billion gallons per year, the capacity to quickly address 1% of it (600 million gallons) is worth chasing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="22">
+          <content>Boeing is currently seeking approval from regulators around the world to use it as jet fuel, blended with petroleum, beginning this year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="23">
+          <content>Despite being made from the same sources of vegetable oils and animal fats, green diesel is not to be confused with biodiesel, as the latter produces different types of molecules during processing and cannot be used as jet fuel.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="24">
+          <content>Price is another big reason this new biofuel is a frontrunner -- with government incentives, it costs approximately $3 a gallon -- a competitive alternative to fossil jet fuel.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="25">
+          <content>Since aviation biofuel was approved for use in 2011, more than 1,500 commercial flights have been powered by a blend of traditional fuel and biofuels.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="26">
+          <content>Fueling the race.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="27">
+          <content>As companies pour resources into developing alternative fuels, it makes sense for major oil-producing nations to have a stake in what will potentially become their biggest competitor.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="28">
+          <content>Boeing&amp;apost;s joint initiative with partners in the United Arab Emirates, including the government-owned Etihad Airways, thus marks a number of firsts.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="29">
+          <content>It&amp;apost;s the first time United Arab Emirates has refined biofuel (by a subsidiary of the Abu Dhabi National Oil Co.), as well as the first flight fueled with a new processing technology that is not yet approved but will be used in UAE biofuel production in the future.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="30">
+          <content>Critics and challenges.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="31">
+          <content>While aviation companies such as Boeing and Airbus pour money and manpower into researching aviation biofuels, there are still critics that say it&amp;apost;s not worth the effort, and in fact may be causing more harm.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="32">
+          <content>Last year, The New York Times reported that the expansion of the biofuels industry is causing a shortage of land for food crops in the poor regions of Asia, Africa and Latin America.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="33">
+          <content>The European Commission proposed amending a policy on biofuels last year, due to concerns that first-generation biofuel production is pumping more carbon dioxide into the atmosphere than it saves through use as fuel, but a compromise to restrict EU subsidies for first-generation biofuel was rejected in December.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="34">
+          <content>The issue is expected to remain at a standstill until the new parliament takes office later this year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="34">
+      <sentences>
+        <sentence id="35">
+          <content>&amp;quot;Boeing&amp;apost;s position, and that of many airlines we work with, is that aviation biofuel must be produced sustainably, meeting criteria for environmental, economic and social benefit,&amp;quot; said Kowal.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="35">
+      <sentences>
+        <sentence id="36">
+          <content>&amp;quot;We do not pursue development of biofuel using feedstocks that compete for resources (such as land or water) used for food production.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

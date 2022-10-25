@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2002" link="http://www.cnn.com/2014/06/07/us/capitol-aircraft-evacuation/index.html" date_published="2014-06-07 18:30:03" category="us" author="Deirdre Walsh and Jason Seher, CNN" highlights_mapped="true" mapping_error="false">
+  <title>U.S. Capitol evacuated after plane enters airspace</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="4">NEW: NORAD jets escort the plane to airport in Mount Airy, North Carolina.</sentence>
+      <sentence id="2" ids_article_sentences="10">U.S. Capitol, the Library of Congress and the Supreme Court evacuated, police said.</sentence>
+      <sentence id="3" ids_article_sentences="2">The evacuation was ordered after authorities were unable to immediately contact the pilot.</sentence>
+      <sentence id="4" ids_article_sentences="13">The FAA is looking into why the pilot entered restricted airspace without authorization.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-17 14:19:15" annotation_time="21.289501">
+      <sentence id="2" ids_highlights="3">The evacuation was ordered after authorities were unable to immediately contact the pilot, U.S. Capitol Police said.</sentence>
+      <sentence id="4" ids_highlights="1">The jets escorted the plane to the airport in Mount Airy, North Carolina, where the pilot was met by members of law enforcement.</sentence>
+      <sentence id="10" ids_highlights="2">Also evacuated during the scare was the Library of Congress and the U.S. Supreme Court buildings, the Metropolitan Police said.</sentence>
+      <sentence id="13" ids_highlights="4">The alert is triggered when an aircraft enters restricted airspace in Washington without authorization.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Washington The U.S. Capitol was briefly evacuated Saturday afternoon when a small aircraft entered restricted airspace, authorities said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The evacuation was ordered after authorities were unable to immediately contact the pilot, U.S. Capitol Police said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>NORAD says two F-16 fighter jets intercepted the plane around 1:30 p.m. after it entered restricted airspace and was out of communication with air traffic control.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>The jets escorted the plane to the airport in Mount Airy, North Carolina, where the pilot was met by members of law enforcement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>A U.S. official told CNN that the pilot&amp;apost;s destination was Mount Airy, where he was going to meet his daughter.</content>
+        </sentence>
+        <sentence id="6">
+          <content>The source says the pilot said his outdated maps caused him some confusion.</content>
+        </sentence>
+        <sentence id="7">
+          <content>There was one other person in plane.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>No security issues, just a pilot deviation, Ross Feinstein, the Press Secretary for the Transportation Security Administration, tweeted.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>Staff and visitors were allowed back inside the Capitol after about a half hour.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>Also evacuated during the scare was the Library of Congress and the U.S. Supreme Court buildings, the Metropolitan Police said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>Federal Aviation Administration officials told CNN there will be an investigation into why the pilot entered the restricted airspace without authorization.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>The incident prompted authorities to institute an AIRCON RED -- air condition red -- alert, police told CNN.</content>
+        </sentence>
+        <sentence id="13">
+          <content>The alert is triggered when an aircraft enters restricted airspace in Washington without authorization.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>Visitors to Washington got unexpected excitement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>&amp;quot;We were touring around in one of the rooms in the Capitol,&amp;quot; said Victoria Chandler.</content>
+        </sentence>
+        <sentence id="16">
+          <content>&amp;quot;And the tour guide all of a sudden got very frantic and started telling us to evacuate the building and go down the steps.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;I grabbed two of the youngest girls and my mother got me and we started running down the stairs.</content>
+        </sentence>
+        <sentence id="18">
+          <content>We got outside and a man told us to run as far as we could because it was not a drill.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="19">
+          <content>Richard Chapin was also in the Capitol.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="20">
+          <content>&amp;quot;We just got in there, like I said, we were excited to see it,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="21">
+          <content>&amp;quot;Now we&amp;apost;ve got a story to tell.</content>
+        </sentence>
+        <sentence id="22">
+          <content>We were evacuated out of the Capitol building.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="23">
+          <content>It&amp;apost;s not the first time such an alert has been issued.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="24">
+          <content>The Capitol was briefly cleared and the White House was temporarily locked down when a single-engine plane wandered into restricted airspace in April 2009.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="25">
+          <content>It was also evacuated in January 2011 when a commercial airliner accidentally entered restricted airspace.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

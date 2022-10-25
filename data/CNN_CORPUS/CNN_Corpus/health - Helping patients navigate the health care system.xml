@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="270" link="http://www.cnn.com/2013/04/06/health/patient-navigation-new-field/index.html?iid=article_sidebar" date_published="2013-04-06 12:47:00" category="health" author="Jacque Wilson, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Helping patients navigate the health care system</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="7">More hospitals are hiring patient navigators to help patients through a confusing system.</sentence>
+      <sentence id="2" ids_article_sentences="53">Most navigators are working in cancer centers, but the idea is spreading to other areas.</sentence>
+      <sentence id="3" ids_article_sentences="45">Dr. Harold Freeman pioneered the first patient navigation program in 1990.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-02 21:22:26" annotation_time="29.641998">
+      <sentence id="7" ids_highlights="1">More hospitals are creating these positions to help patients traverse an often-confusing medical system.</sentence>
+      <sentence id="45" ids_highlights="3">In 1990, he pioneered the first-ever patient navigation program, training people from the community to listen and answer questions after a diagnosis.</sentence>
+      <sentence id="53" ids_highlights="2">For now, patient navigation is primarily being used in the cancer community, but it&amp;apost;s spreading to other chronic diseases.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Karry Trout&amp;apost;s first patient was a 38-year-old woman who had been diagnosed with Stage 3 breast cancer.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The patient had waited nearly six months after feeling a lump in her breast to visit the doctor.</content>
+        </sentence>
+        <sentence id="3">
+          <content>She had no health insurance.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>It was Trout&amp;apost;s job, as Mason General Hospital&amp;apost;s patient navigator, to guide the single mother through treatment and, hopefully, into recovery.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Patient navigation is a relatively new field in the health care industry.</content>
+        </sentence>
+        <sentence id="6">
+          <content>A navigator&amp;apost;s primary role is to remove the obstacles patients face in accessing or receiving treatment.</content>
+        </sentence>
+        <sentence id="7">
+          <content>More hospitals are creating these positions to help patients traverse an often-confusing medical system.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>Despite her inexperience, Trout could relate to the fear she saw in the patient&amp;apost;s eyes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>&amp;quot;I know what the shock of a diagnosis is like.</content>
+        </sentence>
+        <sentence id="10">
+          <content>I know what the waiting and the unknowns are like,&amp;quot; she says.</content>
+        </sentence>
+        <sentence id="11">
+          <content>&amp;quot;I haven&amp;apost;t experienced it personally, but I think sometimes it&amp;apost;s worse when it&amp;apost;s your child going through it.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>Trout&amp;apost;s daughter, Ella, was almost 8 months old when doctors first spotted a problem.</content>
+        </sentence>
+        <sentence id="13">
+          <content>One of Ella&amp;apost;s eyes wasn&amp;apost;t tracking properly, and soon after it started to bulge.</content>
+        </sentence>
+        <sentence id="14">
+          <content>Doctors at Seattle Children&amp;apost;s Hospital diagnosed an optic glioma, or a tumor growing around the nerve that connects the eye to the brain.</content>
+        </sentence>
+        <sentence id="15">
+          <content>By the time she was 18 months old, Ella had lost sight in both eyes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="16">
+          <content>Ella went through four years of chemotherapy, several major surgeries and six weeks of radiation all before the age of 7.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="17">
+          <content>New to Shelton, Washington, and a single mother, Trout struggled to keep Ella&amp;apost;s frequent doctor appointments in Seattle, about two hours from home, as well as work a full-time job as a radiologist for Mason General and juggle never-ending insurance forms.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;It&amp;apost;s a lot,&amp;quot; Trout says.</content>
+        </sentence>
+        <sentence id="19">
+          <content>&amp;quot;And when you are going through that diagnosis, and then you have all of that on top of it, it can be very overwhelming.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="20">
+          <content>Four years ago, Trout got a notice from the Susan G. Komen foundation about a grant for breast cancer patient navigation.</content>
+        </sentence>
+        <sentence id="21">
+          <content>What on earth is patient navigation?</content>
+        </sentence>
+        <sentence id="22">
+          <content>she wondered.</content>
+        </sentence>
+        <sentence id="23">
+          <content>After a bit of research, Trout realized what had been missing from her experience with Ella.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="24">
+          <content>&amp;quot;I didn&amp;apost;t have somebody who was my go-to person,&amp;quot; she says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="25">
+          <content>Trout applied for the grant, and Mason General was awarded enough money to start a program.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="26">
+          <content>In her role as a patient navigator, Trout does community outreach to raise awareness about the importance of breast cancer screening.</content>
+        </sentence>
+        <sentence id="27">
+          <content>She is one of the first staff members to meet with a patient after a diagnosis, providing them with information that they can read later when the shock has worn off.</content>
+        </sentence>
+        <sentence id="28">
+          <content>She works with specialists to arrange appointments and helps connect women with financial aid, transportation or child care if they need it.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="29">
+          <content>&amp;quot;When you get that initial diagnosis, you just have a lot of questions,&amp;quot; she says.</content>
+        </sentence>
+        <sentence id="30">
+          <content>&amp;quot;And it&amp;apost;s hard to pick up the phone and speak to your physician or nurse every time you have a question.</content>
+        </sentence>
+        <sentence id="31">
+          <content>That&amp;apost;s what I&amp;apost;m here for.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="32">
+          <content>Patient navigation programs are the result of the medical community&amp;apost;s new emphasis on patient-centered care, says Mandi Pratt, associate director of community programs at George Washington University&amp;apost;s Cancer Institute.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="33">
+          <content>&amp;quot;Patient navigation, in part, is a function of how fragmented our (health care) system is,&amp;quot; Pratt says.</content>
+        </sentence>
+        <sentence id="34">
+          <content>&amp;quot;It makes it difficult to have a seamless experience.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="35">
+          <content>Advocates say patient-centered care can improve outcomes and reduce costs, so much so that hospital reimbursement from insurance companies is now partially tied to patients&amp;apost; opinions on how well a facility treated them.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="36">
+          <content>In 2011, the American College of Surgeons&amp;apost; Commission on Cancer established new accreditation standards for cancer facilities, requiring them to incorporate &amp;quot;a patient navigation process to address health care disparities and barriers to care.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="37">
+          <content>The standards move us closer to a future Dr. Harold Freeman first envisioned in the 1980s.</content>
+        </sentence>
+        <sentence id="38">
+          <content>Freeman then was a breast cancer surgeon in Harlem, New York, trying to figure out why patients in his hospital had a five-year survival rate of 39% when it should have been closer to 85%.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="39">
+          <content>Freeman realized many patients were being diagnosed with late-stage breast cancers; they were arriving at the clinic with large masses that had obviously been ignored.</content>
+        </sentence>
+        <sentence id="40">
+          <content>Freeman identified five main barriers his patients faced in receiving care: financial, communication, medical system, psychological and personal.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="41">
+          <content>Obstacles ranged from not having health insurance to not understanding the language.</content>
+        </sentence>
+        <sentence id="42">
+          <content>Some patients feared doctors or mistrusted medical advice.</content>
+        </sentence>
+        <sentence id="43">
+          <content>Others simply missed chemotherapy because they couldn&amp;apost;t find child care.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="44">
+          <content>&amp;quot;People got lost in the complex system,&amp;quot; Freeman says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="45">
+          <content>In 1990, he pioneered the first-ever patient navigation program, training people from the community to listen and answer questions after a diagnosis.</content>
+        </sentence>
+        <sentence id="46">
+          <content>He also began an educational program to advocate for screenings.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="47">
+          <content>Over time he increased patients&amp;apost; five-year survival rate in the same population to 70%.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="48">
+          <content>These barriers are never going to go away completely, Freeman says, but patient navigation can help address them.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="49">
+          <content>&amp;quot;Can you eliminate poverty?</content>
+        </sentence>
+        <sentence id="50">
+          <content>Probably not ... but you can change the things that poverty means,&amp;quot; he says.</content>
+        </sentence>
+        <sentence id="51">
+          <content>&amp;quot;If poor people are less educated, you can educate poor people.</content>
+        </sentence>
+        <sentence id="52">
+          <content>If poor people don&amp;apost;t have access to screening, diagnosis or treatment, you can create programs to concentrate on those one by one.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="53">
+          <content>For now, patient navigation is primarily being used in the cancer community, but it&amp;apost;s spreading to other chronic diseases.</content>
+        </sentence>
+        <sentence id="54">
+          <content>Even patient navigation, Freeman says, falls prey to our fragmented system -- one filled with specialists that each operate in a separate universe.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="55">
+          <content>Freeman compares the care continuum, from the first examination to survivorship, to a mile relay.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="56">
+          <content>&amp;quot;It takes teams of people passing batons one to the other until the last runner crosses the finish line.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="57">
+          <content>Since starting the patient navigator program at Mason General, Trout has helped hundreds of women cross that finish line.</content>
+        </sentence>
+        <sentence id="58">
+          <content>She often receives letters of thanks from patients who say she helped them feel empowered to make informed decisions in a time of chaos.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="59">
+          <content>&amp;quot;I think when you go through things as a patient, you know, as a parent -- to be able to be treated with compassion and not just (as) another diagnosis is a gift,&amp;quot; Trout says.</content>
+        </sentence>
+        <sentence id="60">
+          <content>&amp;quot;And that&amp;apost;s what I hope I provide.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

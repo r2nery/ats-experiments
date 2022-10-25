@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1644" link="http://www.cnn.com/2014/06/09/tech/innovation/smart-football-helmet-concussions/index.html" date_published="2014-06-09 12:03:41" category="tech" author="Brandon Griggs, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Smart football helmet may help detect concussions</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="21">&amp;quot;Smart&amp;quot; football helmet can send alerts when a player sustains a hard hit.</sentence>
+      <sentence id="2" ids_article_sentences="23">Helmet, by Riddell, is coming for the 2014 football season.</sentence>
+      <sentence id="3" ids_article_sentences="16">It joins a growing list of products marketed as &amp;quot;head impact sensors&amp;quot;.</sentence>
+      <sentence id="4" ids_article_sentences="10">Head injuries in football have become a hot-button issue in recent years.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-11 19:42:41" annotation_time="30.6325">
+      <sentence id="10" ids_highlights="4">Head injuries in football have become a hot-button issue in recent years, from youth leagues to the NFL.</sentence>
+      <sentence id="16" ids_highlights="3">Seeing an opportunity, manufacturers are producing a growing list of products marketed as &amp;quot;head impact sensors,&amp;quot; small devices that fit inside the helmet and trigger a warning when a player sustains an especially hard blow.</sentence>
+      <sentence id="21" ids_highlights="1">Meanwhile, the helmet can be fitted with sensors -- Riddell&amp;apost;s InSite system, launched last year -- that send wireless alerts to handheld devices on the sidelines, telling coaches when a player has sustained an unusually forceful hit, or series of hits, to the head.</sentence>
+      <sentence id="23" ids_highlights="2">A Riddell spokeswoman said the SpeedFlex helmet will hit the market this summer in time for the 2014 football season.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>For years, the protocol for treating possible concussions on a football field has been this: After a player takes a hard hit to the head, a coach or trainer examines him to assess the severity of the impact and his readiness to return to the field.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>But a visual inspection only reveals so much.</content>
+        </sentence>
+        <sentence id="3">
+          <content>What if there were data that could help detect concussions in real time?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Now there are.</content>
+        </sentence>
+        <sentence id="5">
+          <content>A wave of new technology, embedded in football helmets, aims to measure the force of on-field collisions and send alerts when a player&amp;apost;s health may be in danger.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;We want to protect players as best we can,&amp;quot; said Thad Ide, head of product development and management at Riddell, the United States&amp;apost; leading maker of football helmets, which has embraced these new head-impact systems.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;It&amp;apost;s a way of keeping your players healthy.</content>
+        </sentence>
+        <sentence id="8">
+          <content>You can keep your star player healthy, and keep your star player playing more,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="9">
+          <content>&amp;quot;That&amp;apost;s the way I&amp;apost;d look at it if I was a coach.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>Head injuries in football have become a hot-button issue in recent years, from youth leagues to the NFL.</content>
+        </sentence>
+        <sentence id="11">
+          <content>Thousands of former pro players -- many with dementia, Alzheimer&amp;apost;s disease, Parkinson&amp;apost;s disease and other brain disorders -- have sued the NFL, claiming the league knew about the long-term health risks associated with head trauma.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>Riddell, whose helmets were worn by two-thirds of NFL players last season, was named as a defendant in many of these lawsuits.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>Meanwhile, more parents are voicing concerns about letting their sons play football amid a study suggesting that high school athletes are more vulnerable to concussions than older players.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;Ten or 15 years ago concussions weren&amp;apost;t thought of the same way as they are now,&amp;quot; Ide said.</content>
+        </sentence>
+        <sentence id="15">
+          <content>&amp;quot;They&amp;apost;re being taken much more seriously ... and not just shrugged off as &amp;apost;being shook up&amp;apost; on the field.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="16">
+          <content>Seeing an opportunity, manufacturers are producing a growing list of products marketed as &amp;quot;head impact sensors,&amp;quot; small devices that fit inside the helmet and trigger a warning when a player sustains an especially hard blow.</content>
+        </sentence>
+        <sentence id="17">
+          <content>These products have names like Shockbox, Battle Sports&amp;apost; Impact Indicator and Reebok&amp;apost;s CheckLight, and they&amp;apost;re pitched as an extra set of eyes on the playing field.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="18">
+          <content>Now Riddell is looking to incorporate such sensors into the helmet itself.</content>
+        </sentence>
+        <sentence id="19">
+          <content>The company&amp;apost;s newest helmet, the SpeedFlex, is the first designed from the ground up to include a polymer-film lining that develops a charge when impact pressure is applied.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="20">
+          <content>The helmet&amp;apost;s crown contains a flexible panel that compresses upon impact, reducing the force of collisions.</content>
+        </sentence>
+        <sentence id="21">
+          <content>Meanwhile, the helmet can be fitted with sensors -- Riddell&amp;apost;s InSite system, launched last year -- that send wireless alerts to handheld devices on the sidelines, telling coaches when a player has sustained an unusually forceful hit, or series of hits, to the head.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="22">
+          <content>When equipped this way, the helmet is &amp;quot;an information-gathering tool,&amp;quot; said Ide, who tests helmets at Riddell&amp;apost;s lab in Rosemont, Illinois, outside Chicago.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="23">
+          <content>A Riddell spokeswoman said the SpeedFlex helmet will hit the market this summer in time for the 2014 football season.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="24">
+          <content>Such impact-sensing technology is not without controversy, however.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="25">
+          <content>Tests of head-impact sensors, conducted last year before CNN cameras, have suggested potential problems.</content>
+        </sentence>
+        <sentence id="26">
+          <content>Some helmets fitted with the sensors failed to register alerts even after being dropped from five feet or higher, an impact that could easily cause a concussion.</content>
+        </sentence>
+        <sentence id="27">
+          <content>Doctors have expressed concerns that inaccurate sensors could give players a false sense of security.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="28">
+          <content>&amp;quot;These technologies can be useful if used cautiously, as long as you don&amp;apost;t overinterpret what they mean,&amp;quot; Dr. Jeffrey Kutcher, director of the Michigan NeuroSport clinic, said last year.</content>
+        </sentence>
+        <sentence id="29">
+          <content>&amp;quot;It could be really dangerous to rely on this too much.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="30">
+          <content>Riddell and other manufacturers are quick to point out that their products don&amp;apost;t diagnose concussions or any other injury.</content>
+        </sentence>
+        <sentence id="31">
+          <content>They say their devices do give coaches and trainers additional criteria that can help in determining whether a player should come out of a game.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="32">
+          <content>Ide believes the SpeedFlex helmet will have additional safety benefits.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="33">
+          <content>&amp;quot;It could help identify players that are striking their head too often.</content>
+        </sentence>
+        <sentence id="34">
+          <content>A lot of multiple-impact alerts probably means a player is using their head more than they should, and there&amp;apost;s probably an opportunity to coach them not to do that,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="35">
+          <content>&amp;quot;And that in the end can protect them better.</content>
+        </sentence>
+        <sentence id="36">
+          <content>It can make the game safer.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

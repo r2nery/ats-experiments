@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2781" link="http://www.cnn.com/2012/10/03/world/meast/syria-civil-war/index.html " date_published="2012-10-03 10:24:48" category="world" author="Saad Abedine, CNN " highlights_mapped="true" mapping_error="false">
+  <title>Syria: Dozens killed in suicide blasts in Aleppo</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="12">NEW: Opposition groups reported that &amp;quot;a number of regime forces&amp;quot; had been killed after a shelling.</sentence>
+      <sentence id="2" ids_article_sentences="4">Two mortar shells also fell near the Municipal Palace, the Interior Ministry says.</sentence>
+      <sentence id="3" ids_article_sentences="3">A suicide bomber blew up a car bomb loaded with 500 kg bomb, the Interior Ministry says .</sentence>
+      <sentence id="4" ids_article_sentences="6">Syrian state-run media put the death toll from the blast at 34.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-16 09:21:52" annotation_time="19.5175">
+      <sentence id="3" ids_highlights="3">&amp;apost;&amp;apost;The second explosion happened at 8:17 a.m. outside the Governorate Building where a suicide bomber blew up a car bomb loaded with 500 kg of explosive material,&amp;quot; the Interior Ministry said in a statement.</sentence>
+      <sentence id="4" ids_highlights="2">Two mortar shells also fell near the Municipal Palace, it said.</sentence>
+      <sentence id="6" ids_highlights="4">Though Syrian state-run media put the death toll at 34, with 122 injured.</sentence>
+      <sentence id="12" ids_highlights="1">Opposition groups later reported that &amp;quot;a number of regime forces&amp;quot; had been killed following the shelling of a Syrian military center near the town of Tal Abyad.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>A wave of explosions targeting Syrian government forces killed dozens of people at a popular Aleppo square Wednesday in an attack for which a Syria-based extremist group has claimed responsibility.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Al-Nusra Front said the strikes were carried out by suicide bombers driving cars packed with explosives, followed by raiders disguised in Syrian military uniforms, according to a statement posted on a website that publishes claims from extreme Islamist groups.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;apost;&amp;apost;The second explosion happened at 8:17 a.m. outside the Governorate Building where a suicide bomber blew up a car bomb loaded with 500 kg of explosive material,&amp;quot; the Interior Ministry said in a statement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>Two mortar shells also fell near the Municipal Palace, it said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>At least 40 people were killed and about 90 were wounded when three car bombs exploded in Saadallah Al-Jabiri Square, according to the Syrian Observatory for Human Rights.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>Though Syrian state-run media put the death toll at 34, with 122 injured.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>State television, meanwhile, aired footage of the carnage, which included the bloody and mangled bodies of men in military uniforms.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="8">
+          <content>A fourth car bomb exploded near Aleppo&amp;apost;s chamber of commerce, the government and opposition said.</content>
+        </sentence>
+        <sentence id="9">
+          <content>The number of casualties from that incident was not immediately known.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="10">
+          <content>The blasts highlight the escalating crisis in Aleppo, Syria&amp;apost;s most populous city, which has morphed into a major battleground between government and rebel forces.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="11">
+          <content>Aleppo is also a major financial lifeline for President Bashar al-Assad&amp;apost;s government; a rebel takeover of the city would deal a significant blow to four decades of Assad family rule.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="12">
+          <content>Opposition groups later reported that &amp;quot;a number of regime forces&amp;quot; had been killed following the shelling of a Syrian military center near the town of Tal Abyad.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="13">
+          <content>The deaths were not part of the Wednesday toll distributed by the opposition Local Coordination Committees of Syria.</content>
+        </sentence>
+        <sentence id="14">
+          <content>It said at least 200 people died across Syria on Wednesday, including 67 in Damascus and its suburbs and 29 in Idlib province.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="15">
+          <content>More than 28,000 people have been killed across Syria since March 2011, the LCC says.</content>
+        </sentence>
+        <sentence id="16">
+          <content>CNN is unable to independently confirm casualty reports, as the Syrian government has severely limited access by international journalists.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="17">
+          <content>In other developments:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="18">
+          <content>Shelling from Syria strikes house in Turkey.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="19">
+          <content>At least five people were killed and 10 injured when a shell landed on a house in the Turkish town of Akcakale, near the Syrian border, the town&amp;apost;s mayor said Wednesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="20">
+          <content>The artillery shell was fired from the Syrian district of Tel Abayad, according to Turkey&amp;apost;s semiofficial Anadolu news agency.</content>
+        </sentence>
+        <sentence id="21">
+          <content>However, it is not yet clear what military force or group launched it.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="22">
+          <content>Mayor Abdulhakim Ayhan said those killed were three children, their mother and a female neighbor.</content>
+        </sentence>
+        <sentence id="23">
+          <content>Two police officers were among those hurt, he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="24">
+          <content>In return, Turkey fired on Syrian government targets.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="25">
+          <content>&amp;quot;Our armed forces on the border responded immediately to this atrocious attack within the rules of engagement, and points in Syria determined by radar were hit with artillery fire,&amp;quot; a statement from Prime Minister Recep Tayyip Erdogan&amp;apost;s office said.</content>
+        </sentence>
+        <sentence id="26">
+          <content>&amp;quot;Turkey, within the confines of the rules of engagement and international law, will never leave these types of provocations aimed at our national security unanswered.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="27">
+          <content>UK steps up aid for Syrian refugees in Turkey.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="28">
+          <content>The United Kingdom will provide an additional 1 million pounds ($1.6 million) to help Syrian refugees through the Turkish winter, Deputy Prime Minister Nick Clegg said Wednesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="29">
+          <content>&amp;quot;Refugees from Syria face what is likely to be a bitterly cold winter.</content>
+        </sentence>
+        <sentence id="30">
+          <content>The supplies this extra funding will deliver will go some way to helping them through this difficult time,&amp;quot; Clegg said in a written statement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="31">
+          <content>The United Kingdom has given 38.5 million pounds ($62 million) in humanitarian aid during the Syrian crisis.</content>
+        </sentence>
+        <sentence id="32">
+          <content>The added funding is expected to help about 10,000 refugees with supplies such as blankets, clothing and heaters.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="33">
+          <content>Turkey has taken in more than 93,000 Syrian refugees, more than any other country in the region.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

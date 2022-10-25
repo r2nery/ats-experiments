@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2943" link="http://www.cnn.com/2014/02/17/world/americas/venezuela-expels-us-officials/index.html" date_published="2014-02-17 21:03:06" category="world" author="Catherine E. Shoichet, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Venezuela: Expelled U.S. diplomats have 48 hours to leave</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="11">NEW: An opposition party says government troops raided its headquarters.</sentence>
+      <sentence id="2" ids_article_sentences="3, 1">Venezuela accuses three U.S. diplomats of infiltrating universities and expels them.</sentence>
+      <sentence id="3" ids_article_sentences="2">The State Department calls Venezuela&amp;apost;s conspiracy claims &amp;quot;baseless and false&amp;quot;.</sentence>
+      <sentence id="4" ids_article_sentences="4">The expulsion comes after the U.S. expressed concern over rising tensions .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-01 16:05:24" annotation_time="55.134335" mapping_time_divergence="13.783584">
+      <sentence id="1" ids_highlights="2">Venezuela said Monday that three U.S. diplomats have 48 hours to leave the South American country, accusing them of conspiring against its government.</sentence>
+      <sentence id="2" ids_highlights="3">The State Department fired back, calling that claim &amp;quot;baseless and false&amp;quot; and saying the United States had not yet received any formal notification of the officials&amp;apost; expulsion.</sentence>
+      <sentence id="3" ids_highlights="2">Venezuelan Foreign Minister Elias Jaua accused the U.S. officials of using a visa program as a cover to meet with youth organizers at private universities &amp;quot;for training, financing and creating youth organizations through which violence is promoted in Venezuela.&amp;quot;</sentence>
+      <sentence id="4" ids_highlights="4">The expulsion, which President Nicolas Maduro first announced Sunday, comes after the State Department expressed concerns about rising tensions in Venezuela.</sentence>
+      <sentence id="11" ids_highlights="1">On Monday, the party said government troops had violently raided its headquarters, firing tear gas and demanding security cameras.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Venezuela said Monday that three U.S. diplomats have 48 hours to leave the South American country, accusing them of conspiring against its government.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The State Department fired back, calling that claim &amp;quot;baseless and false&amp;quot; and saying the United States had not yet received any formal notification of the officials&amp;apost; expulsion.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Venezuelan Foreign Minister Elias Jaua accused the U.S. officials of using a visa program as a cover to meet with youth organizers at private universities &amp;quot;for training, financing and creating youth organizations through which violence is promoted in Venezuela.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>The expulsion, which President Nicolas Maduro first announced Sunday, comes after the State Department expressed concerns about rising tensions in Venezuela.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>Three anti-government protesters died in clashes last week in Caracas, and authorities have issued an arrest warrant for opposition leader Leopold Lopez on charges including conspiracy and murder in connection with the violence.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>The Venezuelan Foreign Ministry sharply criticized the Obama administration.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;The U.S. government is lying when it denounces the arrest of peaceful anti-government protesters,&amp;quot; the ministry said in a statement.</content>
+        </sentence>
+        <sentence id="8">
+          <content>&amp;quot;The Venezuelan state has acted and will continue acting against violent actions of extreme right-wing groups that are conspiring dangerously against democratic freedoms.</content>
+        </sentence>
+        <sentence id="9">
+          <content>... The world must know that there is enough evidence that the groups that have caused violence in recent days are headed by Mr. Leopoldo Lopez.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>Lopez&amp;apost;s party, Popular Will, has accused the government of being responsible for violence during the protests.</content>
+        </sentence>
+        <sentence id="11">
+          <content>On Monday, the party said government troops had violently raided its headquarters, firing tear gas and demanding security cameras.</content>
+        </sentence>
+        <sentence id="12">
+          <content>Venezuelan officials could not be immediately reached to respond to that claim.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>In a YouTube video posted from an undisclosed location over the weekend, Lopez called for new anti-government protests Tuesday and vowed to show his face in front of Venezuela&amp;apost;s Justice Ministry and hand over a list of demands from the Venezuelan people to government officials.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;I made the decision to present myself before the justice system of my country, a corrupt and manipulated system, because I am not a delinquent, I have not committed any crime, and because I have the obligation to deal with this,&amp;quot; Lopez said in an exclusive audio statement sent to CNN&amp;apost;s &amp;quot;Amanpour&amp;quot; Monday.</content>
+        </sentence>
+        <sentence id="15">
+          <content>&amp;quot;To leave the country or to hide would be to plant doubt about what our motivation is, which is to rally millions of Venezuelans in order to effect change -- social change, political change -- in the face of a reality the affects us all.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>Lopez encouraged protesters to be peaceful and to allow him to walk the final stretch to the ministry alone.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;We have raised a flag of change to organize millions of Venezuelans, that we want to effect change in a peaceful manner, not in a violent way,&amp;quot; Lopez told CNN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="18">
+          <content>While opposition groups plan another protest Tuesday, government officials appear to be looking for support beyond the country&amp;apost;s borders.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="19">
+          <content>Jaua said he plans to meet Tuesday with ambassadors from Latin American and Caribbean nations, and with ambassadors from Russia and China, to discuss the recent violence.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="20">
+          <content>On Monday, State Department spokeswoman Jen Psaki called for dialogue in Venezuela as tensions mount.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="21">
+          <content>&amp;quot;We support human rights and fundamental freedoms -- including freedom of expression and of peaceful assembly -- in Venezuela as we do in countries around the world,&amp;quot; she said.</content>
+        </sentence>
+        <sentence id="22">
+          <content>&amp;quot;But as we have long said, Venezuela&amp;apost;s political future is for the Venezuelan people to decide.</content>
+        </sentence>
+        <sentence id="23">
+          <content>We urge their government to engage all parties in meaningful dialogue.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

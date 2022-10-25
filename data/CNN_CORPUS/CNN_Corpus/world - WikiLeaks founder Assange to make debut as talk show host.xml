@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2979" link="http://edition.cnn.com/2012/04/17/world/europe/russia-wikileaks/index.html" date_published="2012-04-17 09:21:17" category="world" author="the CNN Wire Staff" highlights_mapped="true" mapping_error="false">
+  <title>WikiLeaks founder Assange to make debut as talk show host</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="4">Assange is under house arrest in Britain while fighting extradition to Sweden.</sentence>
+      <sentence id="2" ids_article_sentences="1">His new talk show will debut Tuesday on a state-funded Russian network.</sentence>
+      <sentence id="3" ids_article_sentences="2">The network and WikiLeaks have suggested his first interview will be controversial.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-29 17:13:48" annotation_time="21.552">
+      <sentence id="1" ids_highlights="2">WikiLeaks founder Julian Assange&amp;apost;s talk show, &amp;quot;The World Tomorrow,&amp;quot; is expected to make its debut Tuesday on a state-funded Russian television network.</sentence>
+      <sentence id="2" ids_highlights="3">Assange and RT, an English-language international satellite news channel, have not released the guest lineup in advance, but have hinted that the first interview would be controversial.</sentence>
+      <sentence id="4" ids_highlights="1">Assange will present the show from the country estate in Britain where he is under house arrest while fighting extradition to Sweden.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>WikiLeaks founder Julian Assange&amp;apost;s talk show, &amp;quot;The World Tomorrow,&amp;quot; is expected to make its debut Tuesday on a state-funded Russian television network.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Assange and RT, an English-language international satellite news channel, have not released the guest lineup in advance, but have hinted that the first interview would be controversial.</content>
+        </sentence>
+        <sentence id="3">
+          <content>WikiLeaks has asked followers on Twitter if they can guess who the first guest on the show will be.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Assange will present the show from the country estate in Britain where he is under house arrest while fighting extradition to Sweden.</content>
+        </sentence>
+        <sentence id="5">
+          <content>He will interview the show&amp;apost;s guests either via satellite feed or in person.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;Being under house arrest for so long, it&amp;apost;s nice to have an occasional visitor and to learn more about the world,&amp;quot; he said in a preview for the show posted on RT&amp;apost;s website.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>He said that the experience of interviewing guests -- described by RT as opinion formers, some of them dissidents -- while under house arrest brings a different dimension to the process.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>The talk show has created a stir in global media circles.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>Commentators outside Russia have questioned the apparent link the show creates between Assange and the Kremlin, given RT&amp;apost;s government-funded status.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>But Assange said in the preview that that kind of criticism was &amp;quot;trivial&amp;quot; and insisted he had &amp;quot;complete editorial control.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>He said the &amp;quot;obvious&amp;quot; reaction from his critics would be to say, &amp;quot;There&amp;apost;s Julian Assange -- an enemy combatant, a traitor -- getting into bed with the Kremlin and interviewing terrible radicals from around the world.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>Britain&amp;apost;s Supreme Court is weighing whether Assange should be sent to Sweden to face allegations of rape and sexual assault lodged by two women in the country.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="13">
+          <content>Assange has repeatedly denied any wrongdoing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;RT is rallying a global audience of open-minded people who question what they see in mainstream media and we are proud to premiere Julian Assange&amp;apost;s new project,&amp;quot; RT Editor-in-Chief Margarita Simonyan said in a statement on the television network&amp;apost;s website.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="15">
+          <content>&amp;quot;We provided Julian a platform to reach the world and gave him total editorial freedom.</content>
+        </sentence>
+        <sentence id="16">
+          <content>He is absolutely the right person to bring alternative opinions to our viewers around the globe.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;The World Tomorrow&amp;quot; will be broadcast [simultaneously] on three RT channels, in English, Arabic and Spanish.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="18">
+          <content>The WikiLeaks website for &amp;quot;The World Tomorrow&amp;quot; says there will be 12 shows in total, each featuring a 26-minute edited interview.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="19">
+          <content>A financial blockade imposed by U.S. banks on WikiLeaks, which facilitates the anonymous leaking of secret information, has been running for about 500 days.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="20">
+          <content>This week also marks 500 days since the allegations of sexual assault were first made against Assange, WikiLeaks says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="21">
+          <content>WikiLeaks gained global fame in 2010 with the Iraq and Afghanistan war leaks, and then followed up by leaking nearly a quarter million State Department cables.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="22">
+          <content>In February this year, it began releasing 5 million e-mails it said belonged to Stratfor, a Texas-based private company that produces intelligence reports for clients.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2980" link="http://www.cnn.com/2011/10/24/world/europe/wikileaks-funding/index.html" date_published="2011-10-24 12:50:20" category="world" author="Nick Thompson, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>WikiLeaks halts publication to raise money</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="17">NEW: WikiLeaks says it plans to start a new anonymous submission system.</sentence>
+      <sentence id="2" ids_article_sentences="2">Assange: A banking blockade has destroyed 95% of WikiLeaks&amp;apost; revenue.</sentence>
+      <sentence id="3" ids_article_sentences="1">WikiLeaks says it must focus on fighting the funding block to stay afloat.</sentence>
+      <sentence id="4" ids_article_sentences="6">Many banks stopped dealing with the site after it published State Department cables.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-01 16:44:47" annotation_time="35.204998" mapping_time_divergence="8.8012495">
+      <sentence id="1" ids_highlights="3">WikiLeaks announced that it was temporarily stopping publication Monday to &amp;quot;aggressively fundraise&amp;quot; in order to stay afloat.</sentence>
+      <sentence id="2" ids_highlights="2">A financial blockade by Bank of America, VISA, MasterCard, PayPal and Western Union has destroyed 95% of WikiLeaks&amp;apost; revenue, organization founder Julian Assange said.</sentence>
+      <sentence id="6" ids_highlights="4">Many financial institutions stopped doing business with the site after it published a trove of confidential U.S. diplomatic cables late last year, and donations have been stymied.</sentence>
+      <sentence id="17" ids_highlights="1">Next month -- on the one-year anniversary of the day international newspapers first published U.S. diplomatic cables obtained by WikiLeaks -- the organization plans to launch a new submission system designed to ensure the anonymity of people submitting sensitive information to the site.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>WikiLeaks announced that it was temporarily stopping publication Monday to &amp;quot;aggressively fundraise&amp;quot; in order to stay afloat.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>A financial blockade by Bank of America, VISA, MasterCard, PayPal and Western Union has destroyed 95% of WikiLeaks&amp;apost; revenue, organization founder Julian Assange said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;Our scarce resources now must focus entirely on fighting this unlawful banking blockade,&amp;quot; Assange said.</content>
+        </sentence>
+        <sentence id="4">
+          <content>&amp;quot;If this financial attack stands unchallenged, a dangerous, oppressive and undemocratic precedent will have been set, the implications of which go far beyond WikiLeaks and its work.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Speaking in front of a backdrop that showed upside-down logos of VISA, MasterCard, Bank of America and PayPal, Assange said his organization, which facilitates the anonymous leaking of secret information, had been running off cash reserves for 11 months.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>Many financial institutions stopped doing business with the site after it published a trove of confidential U.S. diplomatic cables late last year, and donations have been stymied.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;It is absurd.</content>
+        </sentence>
+        <sentence id="8">
+          <content>This is unprecedented,&amp;quot; WikiLeaks spokesman Kristinn Hrafnsson told reporters Monday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>U.S. authorities have said disclosing the classified information was illegal and caused risks to individuals and national security.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;WikiLeaks has ... ignored our requests not to release or disseminate any U.S. documents it may possess and has continued its well-established pattern of irresponsible, reckless, and frankly dangerous actions,&amp;quot; U.S. State Department spokesman Victoria Nuland said last month.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>Assange said Monday that WikiLeaks&amp;apost; publications are protected by the First Amendment of the U.S. Constitution and said there were no judgments or charges against his organization.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>WikiLeaks said Monday that it had launched an antitrust complaint over the financial blockade with the European Commission.</content>
+        </sentence>
+        <sentence id="13">
+          <content>The organization also said it had started &amp;quot;pre-litigation action&amp;quot; against funding blocks in Iceland, Denmark, the United Kingdom, Belgium, the United States and Australia.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>Calling the banking blockade an &amp;quot;existential threat&amp;quot; to WikiLeaks, Assange said it &amp;quot;violates laws of numerous countries and arbitrarily singles out an organization that has not committed any illegal act in any country and cuts it off from the people of every country.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>WikiLeaks has more than 100,000 &amp;quot;pending publications,&amp;quot; Assange said, and needs about $3.5 million to operate for the next 12 months.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="16">
+          <content>But despite the temporary freeze on publishing new material, WikiLeaks is still planning to take submissions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="17">
+          <content>Next month -- on the one-year anniversary of the day international newspapers first published U.S. diplomatic cables obtained by WikiLeaks -- the organization plans to launch a new submission system designed to ensure the anonymity of people submitting sensitive information to the site.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;Right now, it is not possible to trust any ... connection on the internet; it is not possible to trust your banking system, to trust any regular web-based secure encryption system,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

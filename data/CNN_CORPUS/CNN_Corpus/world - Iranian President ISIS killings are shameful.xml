@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2303" link="http://edition.cnn.com/2014/09/17/world/meast/isis-iran-president-rouhani/index.html?hpt=imi_c2" date_published="2014-09-17 21:45:12" category="world" author="Greg Botelho, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Iranian President: ISIS killings are shameful</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="19">NEW: Rouhani on U.S. strikes: &amp;quot;Is it really possible to fight terrorism without ... sacrifice?&amp;quot;.</sentence>
+      <sentence id="2" ids_article_sentences="25">NEW: Official: Iran turned down invite from Denmark minister to join U.S.-led anti-ISIS coalition.</sentence>
+      <sentence id="3" ids_article_sentences="26">NEW: Iranian official says the coalition&amp;apost;s goal is to protect Israel, state news reports.</sentence>
+      <sentence id="4" ids_article_sentences="17">Iranian President Hassan Rouhani tells NBC that ISIS&amp;apost; beheadings violate Islam.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-02 10:55:37" annotation_time="65.019" mapping_time_divergence="16.25475">
+      <sentence id="17" ids_highlights="4">In his NBC interview, Rouhani did not appear supportive or impressed with Washington&amp;apost;s plan to form a coalition -- one which he called &amp;quot;ridiculous&amp;quot; -- or its using airstrikes, rather than ground forces, to combat the ISIS threat.</sentence>
+      <sentence id="19" ids_highlights="1">&amp;quot;If they want to use planes and if they want to use unmanned planes, so that nobody is injured from the Americans -- is it really possible to fight terrorism without any hardship, without any sacrifice?&amp;quot;</sentence>
+      <sentence id="25" ids_highlights="2">Ali Shamkhani, the secretary of Iran&amp;apost;s Supreme National Security Council, told state-run Press TV that Iran turned down an invite from Denmark Foreign Minister Martin Lidegaard to join the U.S.-led alliance to fight ISIS.</sentence>
+      <sentence id="26" ids_highlights="3">Shamkhani surmised Wednesday that one of this coalition&amp;apost;s chief goals is to protect Israel and that Tehran doesn&amp;apost;t believe it will be effective.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Sounding as much like a Western leader as a Middle Eastern one, Iran&amp;apost;s president is denouncing ISIS in strong terms, but even in firm opposition he&amp;apost;s hardly embracing the U.S.-led military effort intent on destroying the extremist group.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Hassan Rouhani, in an interview with NBC News, characterized ISIS&amp;apost;s recent beheadings of three Western captives are offensive to all people, including Muslims like himself.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;They want to kill humanity and, from the viewpoint of the Islamic tenets and culture, killing an innocent person equals the killing of (all) humanity,&amp;quot; Rouhani said of ISIS militants, according to the translation on NBC&amp;apost;s website. &amp;quot;.</content>
+        </sentence>
+        <sentence id="4">
+          <content>... The killing and beheading of innocent people, in fact, is a matter of shame on them and a matter of concern and sorry for all ... mankind.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>The only relevant thing about the victims is that they were innocent, not their nationalities or religions, according to Rouhani.</content>
+        </sentence>
+        <sentence id="6">
+          <content>The three killed were British aid worker David Haines and American journalists James Foley and Steven Sotloff.</content>
+        </sentence>
+        <sentence id="7">
+          <content>Sotloff was Jewish and had dual citizenship with Israel.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;Who can really tolerate to see an innocent person be executed?&amp;quot;</content>
+        </sentence>
+        <sentence id="9">
+          <content>said the Iranian president.</content>
+        </sentence>
+        <sentence id="10">
+          <content>&amp;quot;It doesn&amp;apost;t make any difference, from our viewpoint, if the person is Muslim, Jewish, Christian or (a) follower of any other religion.</content>
+        </sentence>
+        <sentence id="11">
+          <content>It is not important to us ... which nationality he belongs to.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="12">
+          <content>Rouhani&amp;apost;s position on ISIS isn&amp;apost;t entirely new or unexpected.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="13">
+          <content>The group is made up of Sunni Muslims aiming to create a vast caliphate in the region under its strict, distinct version of Sharia law.</content>
+        </sentence>
+        <sentence id="14">
+          <content>Iran consists predominantly of Shia Muslims, and it could find itself under attack if ISIS militants move east from Iraq into its territory.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="15">
+          <content>Iran isn&amp;apost;t alone in its stance on ISIS.</content>
+        </sentence>
+        <sentence id="16">
+          <content>U.S. President Barack Obama has been active in his opposition to the group, ordering airstrikes targeting ISIS in Iraq and promising similar air attacks on the group in Syria.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="17">
+          <content>In his NBC interview, Rouhani did not appear supportive or impressed with Washington&amp;apost;s plan to form a coalition -- one which he called &amp;quot;ridiculous&amp;quot; -- or its using airstrikes, rather than ground forces, to combat the ISIS threat.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="18">
+          <content>The Iranian president asked rhetorically if the United States, by conducting airstrikes but refusing to put its own troops into battle, is &amp;quot;afraid of their soldiers being killed in the fight they claim is against terrorism.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;If they want to use planes and if they want to use unmanned planes, so that nobody is injured from the Americans -- is it really possible to fight terrorism without any hardship, without any sacrifice?&amp;quot;</content>
+        </sentence>
+        <sentence id="20">
+          <content>he added.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="21">
+          <content>Rouhani then made an apparent allusion to possible airstrikes against ISIS in Syria -- something that U.S. officials would be done without coordinating with the government of President Bashar al-Assad.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="22">
+          <content>Washington has backed moderate opposition forces working to oust al-Assad; Tehran, meanwhile, is an ally of the embattled Syrian leader.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="23">
+          <content>&amp;quot;Maybe it is necessary for airstrikes in some conditions and some circumstances,&amp;quot; Rouhani told NBC&amp;apost;s Ann Curry.</content>
+        </sentence>
+        <sentence id="24">
+          <content>&amp;quot;However, airstrikes should take place with the permission of the people of that county and the government of that country.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="25">
+          <content>Ali Shamkhani, the secretary of Iran&amp;apost;s Supreme National Security Council, told state-run Press TV that Iran turned down an invite from Denmark Foreign Minister Martin Lidegaard to join the U.S.-led alliance to fight ISIS.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="26">
+          <content>Shamkhani surmised Wednesday that one of this coalition&amp;apost;s chief goals is to protect Israel and that Tehran doesn&amp;apost;t believe it will be effective.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="27">
+          <content>&amp;quot;The alliance ... for confronting this terrorist group is an effort to forge safe borders for the Zionist regime rather than bring about regional stability and security for the oppressed people of the (Middle East),&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

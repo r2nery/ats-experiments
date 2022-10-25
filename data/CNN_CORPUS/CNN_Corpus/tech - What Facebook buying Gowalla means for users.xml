@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1673" link="http://edition.cnn.com/2011/12/05/tech/social-media/facebook-gowalla-cashmore" date_published="2011-12-05 16:05:42" category="tech" author="Pete Cashmore, Special to CNN" highlights_mapped="true" mapping_error="false">
+  <title>What Facebook buying Gowalla means for users</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="4">If you&amp;apost;re a Gowalla lover, Facebook&amp;apost;s purchase is almost certainly bad news.</sentence>
+      <sentence id="2" ids_article_sentences="9">Facebook now owns any data you imported to Gowalla.</sentence>
+      <sentence id="3" ids_article_sentences="24">Initial report suggests Gowalla employees will work on Facebook&amp;apost;s Timeline feature.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-31 22:59:28" annotation_time="72.47733">
+      <sentence id="4" ids_highlights="1">If you&amp;apost;re a Gowalla user and love the service the way it is, it&amp;apost;s almost certainly bad news.</sentence>
+      <sentence id="9" ids_highlights="2">The move also technically means that Facebook owns the data you entered into Gowalla.</sentence>
+      <sentence id="24" ids_highlights="3">We know from the initial report that Gowalla employees will work on Timeline, Facebook&amp;apost;s new scrapbook-like layout, and I&amp;apost;d guess that their skills will be used more generally, rather than working solely on location-based features.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Facebook just purchased a service for sharing your location with friends, according to a CNNMoney report.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>UPDATE 2:30 p.m. ET: Gowalla has confirmed in a blog post that its service will wind down by the end of January.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>So what does that mean to those of us who use Facebook or Gowalla?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>If you&amp;apost;re a Gowalla user and love the service the way it is, it&amp;apost;s almost certainly bad news.</content>
+        </sentence>
+        <sentence id="5">
+          <content>When Facebook acquires a company, it rarely keeps the original product intact.</content>
+        </sentence>
+        <sentence id="6">
+          <content>Instead, it voraciously devours these smaller startups to get to the talented developers housed within.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>Beluga, a recent acquisition, is in the process of shutting down while Facebook works instead on Facebook Messages, a similar service.</content>
+        </sentence>
+        <sentence id="8">
+          <content>The initial report suggests this will be the case with Gowalla: Some of the Austin-based team will move to Palo Alto, California, to work at Facebook, while a few will stay behind in Austin.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>The move also technically means that Facebook owns the data you entered into Gowalla.</content>
+        </sentence>
+        <sentence id="10">
+          <content>I&amp;apost;d bet against Facebook importing this information into your Facebook profile without your consent -- they&amp;apost;re likely aware that this would result in another privacy scare -- but I do think Facebook will provide time to export your Gowalla data if they do shut it down.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>Why is this a likely outcome?</content>
+        </sentence>
+        <sentence id="12">
+          <content>Because it&amp;apost;s exactly what they&amp;apost;re doing with Beluga.</content>
+        </sentence>
+        <sentence id="13">
+          <content>Existing users can download an archive of their Beluga messages until mid-December.</content>
+        </sentence>
+        <sentence id="14">
+          <content>Who knows, they might even provide a way to add your Gowalla check-ins to your Facebook Timeline -- but only with consent.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="15">
+          <content>What about Facebook users?</content>
+        </sentence>
+        <sentence id="16">
+          <content>Is anything likely to change?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="17">
+          <content>One conclusion you could naturally jump to is that Facebook wants you to share your location more often -- and the Gowalla team will build features into Facebook to do so.</content>
+        </sentence>
+        <sentence id="18">
+          <content>This would be logical: Facebook already launched a product, Facebook Places, for doing just that -- but they later scaled it back and merged the features into your status updates.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="19">
+          <content>Maybe Facebook wants to take another shot?</content>
+        </sentence>
+        <sentence id="20">
+          <content>To some extent, perhaps.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="21">
+          <content>My guess is that the integration won&amp;apost;t be completely literal.</content>
+        </sentence>
+        <sentence id="22">
+          <content>I don&amp;apost;t foresee Facebook providing &amp;quot;stamps&amp;quot; for checking in to certain locations, for instance.</content>
+        </sentence>
+        <sentence id="23">
+          <content>I don&amp;apost;t think it will generate city guides for major metropolitan areas, either.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="24">
+          <content>We know from the initial report that Gowalla employees will work on Timeline, Facebook&amp;apost;s new scrapbook-like layout, and I&amp;apost;d guess that their skills will be used more generally, rather than working solely on location-based features.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="25">
+          <content>We also know that a source with knowledge of the deal thinks that there&amp;apost;s a broader similarity between the two companies.</content>
+        </sentence>
+        <sentence id="26">
+          <content>&amp;quot;Gowalla&amp;apost;s vision is about people telling stories, and Facebook&amp;apost;s vision for Timeline is about stories about important moments in life,&amp;quot; said the source.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="27">
+          <content>So don&amp;apost;t expect Facebook to suddenly launch a wave of new location-based features.</content>
+        </sentence>
+        <sentence id="28">
+          <content>I think the fusion of the companies will be less visible than that.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="29">
+          <content>What does all this mean to you?</content>
+        </sentence>
+        <sentence id="30">
+          <content>If you&amp;apost;re a Gowalla user and the deal is confirmed, you may want to switch services.</content>
+        </sentence>
+        <sentence id="31">
+          <content>I don&amp;apost;t think Gowalla will be around for much longer if this Facebook deal closes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="32">
+          <content>If you&amp;apost;re a Facebook user, meanwhile, you probably won&amp;apost;t feel a thing.</content>
+        </sentence>
+        <sentence id="33">
+          <content>Facebook just bought another group of talented developers and will continue to dominate the world of social networking for years to come.</content>
+        </sentence>
+        <sentence id="34">
+          <content>Your Facebook experience may even improve, thanks to the influx of talent into Facebook&amp;apost;s ranks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

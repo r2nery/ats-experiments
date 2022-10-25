@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1665" link="http://edition.cnn.com/2014/08/26/tech/web/tivo-roamio-ota-dvr/index.html" date_published="2014-08-26 19:59:28" category="tech" author="Doug Gross, CNN" highlights_mapped="true" mapping_error="false">
+  <title>TiVo goes after cord-cutters with post-Aereo device</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="4">TiVo unveils the Roamio OTA DVR to record network shows.</sentence>
+      <sentence id="2" ids_article_sentences="18">The device is $50 with a $15 monthly service fee.</sentence>
+      <sentence id="3" ids_article_sentences="15">It also records Web content like Netflix and YouTube.</sentence>
+      <sentence id="4" ids_article_sentences="8">OTA rolls out two months after Supreme Court ruled against Aereo.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-09 10:11:02" annotation_time="33.3125">
+      <sentence id="4" ids_highlights="1">The TiVo Roamio OTA DVR (the OTA stands for &amp;quot;over the air&amp;quot;) can record and store programs aired by CBS, ABC, NBC, PBS, Fox, Univision and other networks.</sentence>
+      <sentence id="8" ids_highlights="4">The announcement comes two months after the Supreme Court ruled that Aereo, a similar service, violated copyright laws.</sentence>
+      <sentence id="15" ids_highlights="3">While still dwarfed by the nation&amp;apost;s millions of homes with cable, a growing number of consumers have begun &amp;quot;cutting the cord&amp;quot; in recent years -- opting to rely exclusively on network broadcasts and streaming Web services like Netflix, Amazon and YouTube for their movie and TV show needs.</sentence>
+      <sentence id="18" ids_highlights="2">One thing that cable-haters may not love: in addition to its $50 price, the Roamio OTA comes with a $15 monthly fee and a minimum one-year subscription.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Did you cut your cable but miss recording your favorite shows?</content>
+        </sentence>
+        <sentence id="2">
+          <content>TiVo might have the answer.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>The DVR company announced a new, $50 device that lets cord-cutters record over-the-air network shows and watch them later on their televisions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>The TiVo Roamio OTA DVR (the OTA stands for &amp;quot;over the air&amp;quot;) can record and store programs aired by CBS, ABC, NBC, PBS, Fox, Univision and other networks.</content>
+        </sentence>
+        <sentence id="5">
+          <content>It also connects to Web services, including YouTube and Netflix.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;We recognize some viewers opt not to receive the benefits a subscription with a cable provider offers,&amp;quot; TiVo chief marketing officer Ira Bahr said in a news release.</content>
+        </sentence>
+        <sentence id="7">
+          <content>&amp;quot;TiVo Roamio OTA makes sure that they, too, can get a best in class DVR experience through an antenna.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>The announcement comes two months after the Supreme Court ruled that Aereo, a similar service, violated copyright laws.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Aereo captured shows from the broadcast airwaves and let users stream them digitally to their computers, smartphones or tablets.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>The difference, TiVo says, is that the OTA uses devices in the home to record video, instead of recording it outside the home then streaming it to digital devices.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;The technology is not anything new,&amp;quot; TiVo spokesman Steve Wymer told Bloomberg.</content>
+        </sentence>
+        <sentence id="12">
+          <content>&amp;quot;We never had legal challenges regarding recording content in the home for an individual consumer.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>TiVo&amp;apost;s news release was printed under the title, &amp;quot;Simple, Brilliant and Legal.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>You know you&amp;apost;re in peculiar times when an established digital company makes a point of clarifying that its new product is legal.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>While still dwarfed by the nation&amp;apost;s millions of homes with cable, a growing number of consumers have begun &amp;quot;cutting the cord&amp;quot; in recent years -- opting to rely exclusively on network broadcasts and streaming Web services like Netflix, Amazon and YouTube for their movie and TV show needs.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>The OTA can record up to four programs at the same time and has 500 GB of storage, enough for 75 hours of high-definition recordings.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>It will be available September 14 in a limited release at Best Buy stores, with more availability, presumably, if the product succeeds in those markets.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="18">
+          <content>One thing that cable-haters may not love: in addition to its $50 price, the Roamio OTA comes with a $15 monthly fee and a minimum one-year subscription.</content>
+        </sentence>
+        <sentence id="19">
+          <content>That&amp;apost;s still a lot less than most cable packages, but one more fee to pile on top of those other Web-content subscriptions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2538" link="http://www.cnn.com/2012/05/29/world/asia/afghanistan-girls-poisoned/index.html" date_published="2012-05-29 10:58:01" category="world" author="Masoud Popalzai, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Official: 160 girls poisoned at Afghan school</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">Poison may have been sprayed into classrooms before girls entered, police spokesman says.</sentence>
+      <sentence id="2" ids_article_sentences="5">Girls complained of headaches, dizziness and vomiting; many remain hospitalized.</sentence>
+      <sentence id="3" ids_article_sentences="4">It&amp;apost;s the second such poisoning in a week&amp;apost;s time.</sentence>
+      <sentence id="4" ids_article_sentences="3, 2, 17">A police spokesman blamed the Taliban, which has demanded the closure of some schools.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-01 16:28:56" annotation_time="40.62467" mapping_time_divergence="10.156167">
+      <sentence id="2" ids_highlights="1, 4">Their classrooms might have been sprayed with a toxic material before the girls entered, police spokesman Khalilullah Aseer said.</sentence>
+      <sentence id="3" ids_highlights="4">He blamed the Taliban.</sentence>
+      <sentence id="4" ids_highlights="3">The incident, the second in a week&amp;apost;s time, was reported at the Aahan Dara Girls School in Taluqan, the provincial capital.</sentence>
+      <sentence id="5" ids_highlights="2">The girls, ages 10 to 20, complained of headaches, dizziness and vomiting before being taken to the hospital, said Hafizullah Safi, director of the provincial health department.</sentence>
+      <sentence id="17" ids_highlights="4">The Taliban recently demanded the closure of schools in two eastern provinces.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Kabul, Afghanistan A hospital in northern Afghanistan admitted 160 schoolgirls Tuesday after they were poisoned, a Takhar province police official said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Their classrooms might have been sprayed with a toxic material before the girls entered, police spokesman Khalilullah Aseer said.</content>
+        </sentence>
+        <sentence id="3">
+          <content>He blamed the Taliban.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>The incident, the second in a week&amp;apost;s time, was reported at the Aahan Dara Girls School in Taluqan, the provincial capital.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>The girls, ages 10 to 20, complained of headaches, dizziness and vomiting before being taken to the hospital, said Hafizullah Safi, director of the provincial health department.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>More than half of them were discharged within a few hours of receiving treatment, Safi said.</content>
+        </sentence>
+        <sentence id="7">
+          <content>The health department collected blood samples and sent them to Kabul for testing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>Last week, more than 120 girls and three teachers were admitted to a hospital after a similar suspected poisoning.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>&amp;quot;The Afghan people know that the terrorists and the Taliban are doing these things to threaten girls and stop them going to school,&amp;quot; Aseer said last week.</content>
+        </sentence>
+        <sentence id="10">
+          <content>&amp;quot;That&amp;apost;s something we and the people believe.</content>
+        </sentence>
+        <sentence id="11">
+          <content>Now we are implementing democracy in Afghanistan and we want girls to be educated, but the government&amp;apost;s enemies don&amp;apost;t want this.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>But earlier this week, the Taliban denied responsibility, instead blaming U.S. and NATO forces for the poisonings in an attempt to &amp;quot;defame&amp;quot; the insurgent group.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>There have been several instances of girls being poisoned in schools in recent years.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>In April, also in Takhar province, more than 170 women and girls were hospitalized after drinking apparently poisoned well water at a school.</content>
+        </sentence>
+        <sentence id="15">
+          <content>Local health officials blamed the acts on extremists opposed to women&amp;apost;s education.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>While nearly all the incidents involve girls, earlier this month, nearly 400 boys at a school in Khost province fell ill after drinking water from a well that a health official said may have been poisoned.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>The Taliban recently demanded the closure of schools in two eastern provinces.</content>
+        </sentence>
+        <sentence id="18">
+          <content>In Ghazni, the school closure was in retaliation for the government&amp;apost;s ban on motorbikes often used by insurgents.</content>
+        </sentence>
+        <sentence id="19">
+          <content>People in Wardak said the Taliban has been a little more lenient and has allowed schools to open late after making changes to the curriculum.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="20">
+          <content>The battle indicates broader fears about Afghanistan&amp;apost;s future amid the drawdown of U.S. troops in the country.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="21">
+          <content>NATO leaders last week signed off on U.S. President Barack Obama&amp;apost;s exit strategy from Afghanistan, which calls for an end to combat operations next year and the withdrawal of the U.S.-led international military force by the end of 2014.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="22">
+          <content>During the Taliban&amp;apost;s rule from 1996 to 2001, many Afghan girls were not allowed to attend school.</content>
+        </sentence>
+        <sentence id="23">
+          <content>The schools began reopening after the regime was toppled by the U.S.-led invasion in 2001.</content>
+        </sentence>
+        <sentence id="24">
+          <content>However, observers say abuse of women remains common in the post-Taliban era and is often accepted in conservative and traditional families, where women are barred from school and sometimes subjected to domestic violence.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="25">
+          <content>Afghan Education Minister Dr. Farooq Wardak told the Education World Forum in London in January 2011 that the Taliban had abandoned its opposition to education for girls, but the group has never confirmed that.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

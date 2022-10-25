@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1049" link="http://www.cnn.com/2013/09/20/politics/epa-carbon-power-plants" date_published="2013-09-20 15:03:34" category="politics" author="Aaron Cooper, CNN" highlights_mapped="true" mapping_error="false">
+  <title>EPA limits carbon pollution from new power plants</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">The standards are being called the first uniform national limits for new plants.</sentence>
+      <sentence id="2" ids_article_sentences="10">Existing power plants are exempt from these regulations, but others are coming.</sentence>
+      <sentence id="3" ids_article_sentences="11">Sen. Joe Manchin of West Virginia criticizes what he calls &amp;quot;impossible standards&amp;quot;.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-09-23 09:38:15" annotation_time="29.161331">
+      <sentence id="2" ids_highlights="1">The standards, which would set separate limits for natural gas and coal power plants, are being called the first uniform national limits for new plants.</sentence>
+      <sentence id="10" ids_highlights="2">Existing power plants are exempt from the proposed carbon regulation, but McCarthy said regulations on those plants will be proposed in June.</sentence>
+      <sentence id="11" ids_highlights="3">Sen. Joe Manchin, a Democrat who represents coal-rich West Virginia, criticized the administration as trying to hold the coal industry to &amp;quot;impossible standards&amp;quot;.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Washington The Environmental Protection Agency is proposing new rules aimed at limiting the amount of carbon pollution coming from new power plants.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The standards, which would set separate limits for natural gas and coal power plants, are being called the first uniform national limits for new plants.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;Power plants are the single largest sources of carbon pollution,&amp;quot; EPA Administrator Gina McCarthy said in remarks prepared for delivery at the National Press Club in Washington.</content>
+        </sentence>
+        <sentence id="4">
+          <content>&amp;quot;New power plants can minimize their carbon emissions by taking advantage of modern technologies.</content>
+        </sentence>
+        <sentence id="5">
+          <content>These technologies offer them a clear path forward, today and in the long-term.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>New coal power plants and small natural gas plants would be limited to 1,100 pounds of C02 emissions per megawatt-hour.</content>
+        </sentence>
+        <sentence id="7">
+          <content>Larger natural gas plants would be limited to one thousand pounds a megawatt-hour.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>These restrictions are slightly looser than a set first proposed in 2012.</content>
+        </sentence>
+        <sentence id="9">
+          <content>McCarthy said the new proposal factors in public feedback from public comments received last year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>Existing power plants are exempt from the proposed carbon regulation, but McCarthy said regulations on those plants will be proposed in June.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>Sen. Joe Manchin, a Democrat who represents coal-rich West Virginia, criticized the administration as trying to hold the coal industry to &amp;quot;impossible standards&amp;quot;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;Never before has the federal government forced an industry to do something that is technologically impossible.</content>
+        </sentence>
+        <sentence id="13">
+          <content>Forcing coal to meet the same emissions standards as gas when experts know that the required technology is not operational on a commercial scale makes absolutely no sense and will have devastating impacts to the coal industry and our economy,&amp;quot; he said in a written statement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>McCarthy said the EPA has a history of pollution standards driving technological development.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>&amp;quot;The old rules may say we can&amp;apost;t protect our environment and promote economic growth at the same time, but in America, we&amp;apost;ve always used new technologies, we&amp;apost;ve used science, we&amp;apost;ve used research and development and discovery to make the old rules obsolete,&amp;quot; McCarthy said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>The president and CEO of the National Mining Association also had harsh words for the proposal.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;The regulation announced today by EPA effectively bans coal from America&amp;apost;s power portfolio, leaving new power plants equipped with even the most efficient and environmentally advanced technologies out in the cold,&amp;quot; said Hal Quinn, asserting that the EPA is &amp;quot;recklessly gambling with the nation&amp;apost;s energy and economic future.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="18">
+          <content>He said standards should be based on the best technology available today.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="19">
+          <content>An EPA official briefing the media on the new clean air proposals Friday said that if they are finalized, the method of recouping costs associated with the new regulations would be determined by the industry.</content>
+        </sentence>
+        <sentence id="20">
+          <content>When pressed, the EPA official refused to say if the increased costs would be passed on to consumers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="21">
+          <content>The standards will be open for public comment for 60 days, during which time the agency said, it plans to hold public hearings.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

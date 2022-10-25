@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2457" link="http://cnn.com/2012/12/20/world/meast/syria-missing-journalist" date_published="2012-12-20 23:21:39" category="world" author="CNN Staff" highlights_mapped="true" mapping_error="false">
+  <title>Missing American journalist&amp;apost;s parents: Send our son home from Syria for Christmas</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">Marc and Debra Tice: &amp;quot;We urge you, whoever you are: Let Austin come home for Christmas&amp;quot;.</sentence>
+      <sentence id="2" ids_article_sentences="5">Austin Tice last contacted his family on August 13 while in Syria.</sentence>
+      <sentence id="3" ids_article_sentences="10">The State Department has said it believes he was detained by Syrian officials.</sentence>
+      <sentence id="4" ids_article_sentences="12">The Syrian government has said it doesn&amp;apost;t know where the journalist is.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-02 20:54:02" annotation_time="20.215668">
+      <sentence id="3" ids_highlights="1">&amp;quot;We urge you, whoever you are: Let Austin come home for Christmas,&amp;quot; Marc and Debra Tice wrote.</sentence>
+      <sentence id="5" ids_highlights="2">Austin Tice, who was working as a freelancer for McClatchy and other news outlets, last contacted his family on August 13 while in Syria reporting on the uprising against President Bashar al-Assad&amp;apost;s government.</sentence>
+      <sentence id="10" ids_highlights="3">The U.S. State Department has said they believe Tice was detained by Syrian officials in August as he was preparing to leave the country.</sentence>
+      <sentence id="12" ids_highlights="4">In November, Marc Tice told reporters that the Syrian government had told his family that it doesn&amp;apost;t know where their son is.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The parents of an American journalist missing in Syria have a new message for his captors: &amp;quot;Let us be a whole family again.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>In a statement published Thursday on the McClatchy Newspapers website, Austin Tice&amp;apost;s parents say he went to Syria to share the stories of the country&amp;apost;s people.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;We urge you, whoever you are: Let Austin come home for Christmas,&amp;quot; Marc and Debra Tice wrote.</content>
+        </sentence>
+        <sentence id="4">
+          <content>&amp;quot;Let us hug him, laugh and cry with him, love him in person.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Austin Tice, who was working as a freelancer for McClatchy and other news outlets, last contacted his family on August 13 while in Syria reporting on the uprising against President Bashar al-Assad&amp;apost;s government.</content>
+        </sentence>
+        <sentence id="6">
+          <content>He was reportedly preparing to leave Syria for Lebanon when he went missing, according to his family.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>In Thursday&amp;apost;s statement, Marc and Debra Tice describe their son as someone who has &amp;quot;a special affinity for the people of the Middle East.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;He is especially attracted to your tradition of hospitality,&amp;quot; the statement said.</content>
+        </sentence>
+        <sentence id="9">
+          <content>&amp;quot;He deeply connects with your intense loyalty to family, faith and ideals.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>The U.S. State Department has said they believe Tice was detained by Syrian officials in August as he was preparing to leave the country.</content>
+        </sentence>
+        <sentence id="11">
+          <content>He had smuggled himself into the country to report on the uprising.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>In November, Marc Tice told reporters that the Syrian government had told his family that it doesn&amp;apost;t know where their son is.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>In October, a shaky video surfaced on YouTube showing a man believed to be Tice surrounded by armed men walking him up a hill.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>State Department officials have questioned the veracity of the video, which purports to show Tice in the custody of rebels fighting the Syrian government.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="15">
+          <content>Earlier this month, Tice&amp;apost;s parents told CNN they do not want to speculate about who is holding him; they just want their son back home.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="16">
+          <content>Austin is the oldest of the couple&amp;apost;s seven children.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;He likes to know what&amp;apost;s going on in the world,&amp;quot; Debra Tice said earlier this month, and he was frustrated by the lack firsthand reporting from Syria&amp;apost;s civil war.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="18">
+          <content>She said her son had reassured her that it was worth it to travel to Syria.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;I&amp;apost;m someone that can go,&amp;quot; he told her.</content>
+        </sentence>
+        <sentence id="20">
+          <content>&amp;quot;I can face that danger because this story is important.&amp;apost;&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

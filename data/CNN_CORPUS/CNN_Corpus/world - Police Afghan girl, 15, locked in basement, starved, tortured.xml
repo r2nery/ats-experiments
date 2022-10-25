@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2605" link="http://www.cnn.com/2011/12/28/world/asia/afghan-girl-mistreatment/index.html" date_published="2011-12-28 10:35:16" category="world" author="Masoud Popalzai, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Police: Afghan girl, 15, locked in basement, starved, tortured</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">Police say they are waiting for the girl to recover to talk to her.</sentence>
+      <sentence id="2" ids_article_sentences="4">The girl, 15, was married off to a 30-year-old man.</sentence>
+      <sentence id="3" ids_article_sentences="5">Police intervene after her parents had not seen her.</sentence>
+      <sentence id="4" ids_article_sentences="14">Zarifi: The case highlights how women continue to suffer.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-11 18:15:05" annotation_time="127.38166">
+      <sentence id="3" ids_highlights="1">But, they said, they were waiting for her to fully recover to talk to her and learn more.</sentence>
+      <sentence id="4" ids_highlights="2">The girl, Sahar Gul, was married off to a 30-year-old man about seven months ago.</sentence>
+      <sentence id="5" ids_highlights="3">After her parents reported not seeing her for months, police launched their investigation, said Baghlan police official Jawid Basharat.</sentence>
+      <sentence id="14" ids_highlights="4">The case, Zarifi said, highlights how women continue to suffer in parts of Afghanistan despite overall progress since the fall of the Taliban.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Kabul, Afghanistan Police in Afghanistan say they have rescued a 15-year-old girl who was locked up in the basement of her in-laws&amp;apost; house, starved and had her nails pulled out.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Authorities in the northern Baghlan province said they were aware of reports that the girl was tortured after she refused to be forced into prostitution.</content>
+        </sentence>
+        <sentence id="3">
+          <content>But, they said, they were waiting for her to fully recover to talk to her and learn more.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>The girl, Sahar Gul, was married off to a 30-year-old man about seven months ago.</content>
+        </sentence>
+        <sentence id="5">
+          <content>After her parents reported not seeing her for months, police launched their investigation, said Baghlan police official Jawid Basharat.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;After police rescued her from a dark room of her in-laws&amp;apost; house, we saw her nails had been pulled out by her husband.</content>
+        </sentence>
+        <sentence id="7">
+          <content>And she said with broken voice that her husband used to cut her flesh using pliers,&amp;quot; Basharat said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>The girl was also denied food, he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>Rahima Zarifi, director of the Women&amp;apost;s Affairs Department in Baghlan, said Sahar was immediately hospitalized.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;She was in a very bad condition when I met her,&amp;quot; Zarifi said.</content>
+        </sentence>
+        <sentence id="11">
+          <content>&amp;quot;The perpetrators had pulled out her hair by force.</content>
+        </sentence>
+        <sentence id="12">
+          <content>She was suffering a kind of skin disease and she didn&amp;apost;t even have proper clothes on.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>Police have arrested Sahar&amp;apost;s in-laws, but her husband managed to flee.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>The case, Zarifi said, highlights how women continue to suffer in parts of Afghanistan despite overall progress since the fall of the Taliban.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>In the second quarter of this year, the Afghan Independent Human Rights Commission (AIHRC) registered 1,026 cases of violence against women.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Last year, 2,700 cases were recorded.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="17">
+          <content>Earlier this month, gunmen attacked and sprayed an Afghan family with acid in their home after the father rejected a man&amp;apost;s bid to marry his teenage daughter.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="18">
+          <content>In another case, a 21-year-old, identified only as Gulnaz for her own protection, was sentenced to 12 years in prison after she reported that her cousin&amp;apost;s husband had raped her.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="19">
+          <content>Her plight attracted international attention when it came out that she had agreed to marry her attacker to gain her freedom and legitimize a daughter conceived in the attack.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="20">
+          <content>She was eventually freed, following the president&amp;apost;s intervention.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

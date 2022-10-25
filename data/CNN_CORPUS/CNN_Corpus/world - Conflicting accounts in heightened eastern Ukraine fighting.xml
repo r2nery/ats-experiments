@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2138" link="http://www.cnn.com/2014/06/04/world/europe/ukraine-crisis/index.html" date_published="2014-06-04 11:11:24" category="world" author="Michael Pearson, Azad Safarov and Victoria Butenko, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Conflicting accounts in heightened eastern Ukraine fighting</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="17">NEW: Rocket attacks damage hospital, kill one man.</sentence>
+      <sentence id="2" ids_article_sentences="2">Ukraine claims 300 pro-Russia militants dead in fighting.</sentence>
+      <sentence id="3" ids_article_sentences="3">Separatist official puts number at 10, says fighters downed government aircraft.</sentence>
+      <sentence id="4" ids_article_sentences="28">CNN can&amp;apost;t independently confirm the accounts.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-09 18:49:53" annotation_time="51.35033" mapping_time_divergence="12.837583">
+      <sentence id="2" ids_highlights="2">A Ukrainian government spokesman claimed that more than 300 pro-Russia militants had been killed and at least 500 wounded during an ongoing Ukrainian military operation in the towns of Krasny Liman and Slovyansk.</sentence>
+      <sentence id="3" ids_highlights="3">The self-declared separatist mayor of Slovyansk, however, said only 10 separatist fighters had died and 12 were injured in the fighting.</sentence>
+      <sentence id="17" ids_highlights="1">At the nearby railway station, one man was killed in what appears to have been another rocket attack.</sentence>
+      <sentence id="28" ids_highlights="4">CNN could not independently confirm the casualty figures.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Conflicting accounts emerged Wednesday from heightened fighting in eastern Ukraine, with a Ukrainian government official claiming forces loyal to Kiev had inflicted heavy losses on separatists and a pro-Russia official boasting that militants had downed government jets and helicopters.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>A Ukrainian government spokesman claimed that more than 300 pro-Russia militants had been killed and at least 500 wounded during an ongoing Ukrainian military operation in the towns of Krasny Liman and Slovyansk.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The self-declared separatist mayor of Slovyansk, however, said only 10 separatist fighters had died and 12 were injured in the fighting.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>CNN could not immediately confirm either report.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>But CNN&amp;apost;s Tim Lister, reporting from , questioned the government account, saying it would be &amp;quot;incredibly difficult&amp;quot; to confirm such a body count amid the heightened fighting.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;It would be a dramatic escalation on anything we&amp;apost;ve ever seen before,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>Ukrainian anti-terror spokesman Vladislav Seleznev said two Ukrainian soldiers also died and 45 were wounded in the fighting Tuesday night, part of an ongoing military operation meant to sweep pro-Russia militants from eastern Ukraine strongholds where the government claims they have been hiding in hospitals, medical clinics and recreational facilities.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="8">
+          <content>On the separatist side, the self-declared mayor of Slovyansk, Vyacheslav Ponomarev, said pro-Russia fighters had shot down two Ukrainian jets and destroyed a tank and four armored personnel carriers in Tuesday&amp;apost;s fighting.</content>
+        </sentence>
+        <sentence id="9">
+          <content>On Wednesday, militants shot down two Ukrainian helicopters, claimed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="10">
+          <content>While the casualty figures conflict, what is not in doubt is the dramatic uptick in violence in separatist-held areas of eastern Ukraine.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="11">
+          <content>Video emerged Wednesday of damage to a hospital in Krasny Liman after it was hit by five rockets.</content>
+        </sentence>
+        <sentence id="12">
+          <content>The facility, which serves mainly railway workers, was hit Tuesday, according to Vladimir Seliyvanov, with Dontesk Railways.</content>
+        </sentence>
+        <sentence id="13">
+          <content>Four people, including a surgeon, were wounded in the attack, he added.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>The images showed the impact of several detonations and many broken windows at the hospital.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>It&amp;apost;s not clear if the hospital was hit because militants were thought to be taking cover there or because of inaccurate targeting.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Seliyvanov would not comment on whether injured separatists were being treated there.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="17">
+          <content>At the nearby railway station, one man was killed in what appears to have been another rocket attack.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="18">
+          <content>The official Donetsk Regional Authority says that clashes in Slovyansk continue.</content>
+        </sentence>
+        <sentence id="19">
+          <content>&amp;quot;Terrorists are trying to escape (the) encirclement together with civilians evacuating from the area.</content>
+        </sentence>
+        <sentence id="20">
+          <content>The Ukrainian military is taking measures to identify militants in order not to let them escape.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="21">
+          <content>In Luhansk, the government said separatist fighters had taken over two military bases, one run by the Border Guard and the other by the National Guard.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="22">
+          <content>Border Guard troops retreated from their base after it had been heavily damaged in 12 hours of fighting on Monday, the Border Guard Service said on its website.</content>
+        </sentence>
+        <sentence id="23">
+          <content>Separatists then moved in, the agency said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="24">
+          <content>The Ukrainian National Guard said troops at its base in Luhansk used up all their ammunition trying unsuccessfully to fight off an attack.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="25">
+          <content>Video from a National Guard base in the city appeared to show its detachment surrendering to separatists early Wednesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="26">
+          <content>The National Guard said three of its troops were inured and six attackers killed.</content>
+        </sentence>
+        <sentence id="27">
+          <content>The other troops at the base had been safely relocated, it said.</content>
+        </sentence>
+        <sentence id="28">
+          <content>CNN could not independently confirm the casualty figures.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="29">
+          <content>The heightened fighting comes as U.S. President Barack Obama visits Ukrainian neighbor Poland.</content>
+        </sentence>
+        <sentence id="30">
+          <content>Obama met with Ukrainian President-elect Petro Poroshenko on Wednesday, when the U.S. leader vowed to stand with Ukraine in the face of Russian aggression.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="31">
+          <content>&amp;quot;We will not accept Russia&amp;apost;s occupation of Crimea or its violation of Ukraine&amp;apost;s sovereignty,&amp;quot; Obama said in Warsaw.</content>
+        </sentence>
+        <sentence id="32">
+          <content>&amp;quot;Our free nations will stand united so that further Russian provocations will only mean more isolation and costs for Russia.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

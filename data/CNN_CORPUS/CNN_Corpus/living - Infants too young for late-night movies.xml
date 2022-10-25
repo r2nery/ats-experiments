@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="711" link="http://www.cnn.com/2012/07/20/living/colorado-babies-movie-theaters/index.html" date_published="2012-07-20 19:52:25" category="living" author="Katia Hetter, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Infants too young for late-night movies?</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="11">People are quick to judge parents when their children get hurt.</sentence>
+      <sentence id="2" ids_article_sentences="19">Up until they&amp;apost;re 3-months-old, babies aren&amp;apost;t expected to sleep through the night .</sentence>
+      <sentence id="3" ids_article_sentences="12">Parents tend to become nocturnal creatures to match their babies&amp;apost; schedules.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-14 14:31:02" annotation_time="237.37433">
+      <sentence id="11" ids_highlights="1">&amp;quot;We are always so quick to judge other parents when their child gets hurt, because if we can make ourselves different -- if we would never have done that -- then our child is safe.</sentence>
+      <sentence id="12" ids_highlights="3">&amp;quot;If the baby drops off to sleep while you&amp;apost;re walking him outside, but you know he will be up in two hours, and he can still sleep through anything, I can certainly understand why a parent might decide to catch a movie.&amp;quot;</sentence>
+      <sentence id="19" ids_highlights="2">A 3-month-old might be feeding at midnight, but the baby would not be expected to sleep through the night.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>A movie?</content>
+        </sentence>
+        <sentence id="2">
+          <content>A meal out?</content>
+        </sentence>
+        <sentence id="3">
+          <content>A haircut?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="4">
+          <content>Were those events even possible right after my daughter was born?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>The news of a 3-month-old among the injured at a late-night showing of &amp;quot;The Dark Knight Rises&amp;quot; has already led to online criticism of parents who would bring a baby to such a movie.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>Some of the comments at CNN.com included: &amp;quot;What kind of parent takes a three-month old child to a midnight screening of a movie?&amp;quot;</content>
+        </sentence>
+        <sentence id="7">
+          <content>&amp;quot;Bad parenting!!!&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>To which I say: Back off on the judgment.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Do you think anyone -- a parent or not -- would go to a movie if they could predict there would be a mass shooting?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;Judging parents at a time like this is unbelievable to me,&amp;quot; says parenting expert Laura Markham, a psychologist and founding editor of AhaParenting.com.</content>
+        </sentence>
+        <sentence id="11">
+          <content>&amp;quot;We are always so quick to judge other parents when their child gets hurt, because if we can make ourselves different -- if we would never have done that -- then our child is safe.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;If the baby drops off to sleep while you&amp;apost;re walking him outside, but you know he will be up in two hours, and he can still sleep through anything, I can certainly understand why a parent might decide to catch a movie.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>The comfort of other moviegoers is a whole other consideration (and conversation), but when it comes to bringing a baby to a movie, it&amp;apost;s not necessarily harmful to the kid.</content>
+        </sentence>
+        <sentence id="14">
+          <content>Plus, it can be a vital pick-me-up for an exhausted and culture-deprived new parent.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="15">
+          <content>All sense of day or night seems to disappear with the arrival of that wiggly munchkin.</content>
+        </sentence>
+        <sentence id="16">
+          <content>During those first few months after the birth of a child, parents sleep whenever we can, wear whatever is clean (and maybe not so clean) and (for the mamas who breast-feed) eat with one hand while holding the baby to breast-feed at the same time.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="17">
+          <content>That&amp;apost;s because babies emerge from the womb having slept mostly during the day and staying awake during the night.</content>
+        </sentence>
+        <sentence id="18">
+          <content>It takes at least four weeks for their melatonin production to kick in and for babies gradually to switch to nighttime sleeping, says Dr. Ari Brown, author of &amp;quot;Baby 411&amp;quot; and a pediatrician in Austin, Texas.</content>
+        </sentence>
+        <sentence id="19">
+          <content>A 3-month-old might be feeding at midnight, but the baby would not be expected to sleep through the night.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="20">
+          <content>&amp;quot;From zero to three months, when it comes to sleep, you do what you gotta do,&amp;quot; Brown says.</content>
+        </sentence>
+        <sentence id="21">
+          <content>&amp;quot;The concept of having a schedule or real sleep pattern is an oxymoron.</content>
+        </sentence>
+        <sentence id="22">
+          <content>It&amp;apost;s just not there.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="23">
+          <content>That&amp;apost;s why parents tend to become nocturnal creatures, feeding, changing diapers and doing laundry whenever we can.</content>
+        </sentence>
+        <sentence id="24">
+          <content>Everything else takes a back seat to meeting the basic needs of a human tadpole.</content>
+        </sentence>
+        <sentence id="25">
+          <content>Scheduling a daytime haircut requires precision military planning, lest parents are away when the little angel is hungry and lets loose with his or her piercing cries.</content>
+        </sentence>
+        <sentence id="26">
+          <content>I would have tried to go to a late-night movie if I wasn&amp;apost;t trying to sleep.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="27">
+          <content>When Atlanta mother Leah Case&amp;apost;s daughter was 3 months old, Case and her husband would join friends for dinner, bringing along their soundly sleeping baby in a car seat.</content>
+        </sentence>
+        <sentence id="28">
+          <content>&amp;quot;I am an extremely regimented, scheduled parent, but if I thought my child would sleep through a movie at that age, I absolutely would have taken them,&amp;quot; said Case, whose daughter is now 10 months.</content>
+        </sentence>
+        <sentence id="29">
+          <content>&amp;quot;She honestly slept like a rock anywhere we went until she was about 5 months.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="30">
+          <content>It&amp;apost;s true that several movie theater chains have capitalized on the cries for help from movie-deprived new parents.</content>
+        </sentence>
+        <sentence id="31">
+          <content>California-based Krikorian Premiere Theatres offers &amp;quot;Mommy Movie Mondays&amp;quot; with amenities such as stroller check-in and changing tables.</content>
+        </sentence>
+        <sentence id="32">
+          <content>The &amp;quot;Crybaby Matinee&amp;quot; at Hawaii&amp;apost;s Consolidated Theaters lowers the volume to protect babies&amp;apost; sensitive ears and brightens the lights so parents can easily come and go for feedings or tantrums.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="33">
+          <content>With her 8-week-old son sleeping no more than three hours at a time, new parent Katie Feeney said she couldn&amp;apost;t imagine having enough energy to make it to an early or late movie with or without her son.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="34">
+          <content>Feeney, a stay-at-home mother in Brighton, Massachusetts, tends to stay awake during the day so she&amp;apost;s exhausted by day&amp;apost;s end.</content>
+        </sentence>
+        <sentence id="35">
+          <content>When her son wakes up for nighttime feedings, a duty she shares with her husband, she simply watches whatever she&amp;apost;s recorded on her DVR to get her through the night.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="36">
+          <content>Do you think it&amp;apost;s a dreadful idea to bring a baby to a movie?</content>
+        </sentence>
+        <sentence id="37">
+          <content>Or do you sympathize with parents just looking to get out of the house for some entertainment?</content>
+        </sentence>
+        <sentence id="38">
+          <content>Share your opinion in the comments section below.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

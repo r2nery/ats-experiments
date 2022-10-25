@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1559" link="http://edition.cnn.com/2014/06/18/tech/mobile/amazon-fire-phone-firefly/index.html?hpt=ibu_mid" date_published="2014-06-18 22:04:11" category="tech" author="Doug Gross, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Amazon phone&amp;apost;s Firefly helps you identify, and buy, everything</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="6">Firefly is Amazon&amp;apost;s recognition tool for the new Fire Phone.</sentence>
+      <sentence id="2" ids_article_sentences="6">Amazon says Firefly can identify more than 100 million items.</sentence>
+      <sentence id="3" ids_article_sentences="2">Users can then click to buy an item from Amazon.</sentence>
+      <sentence id="4" ids_article_sentences="13">Phone is designed to pull you into Amazon&amp;apost;s growing universe of services.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-16 17:39:08" annotation_time="75.51601">
+      <sentence id="2" ids_highlights="3">But it also wants you to use that phone to buy more stuff ... from Amazon.</sentence>
+      <sentence id="6" ids_highlights="1, 2">&amp;quot;The Firefly button lets you identify printed Web and email addresses, phone numbers, QR and bar codes, artwork, and over 100 million items, including songs, movies, TV shows, and products -- and take action in seconds,&amp;quot; Amazon CEO Jeff Bezos said in announcing the phone, which will run Amazon&amp;apost;s Fire operating system.</sentence>
+      <sentence id="13" ids_highlights="4">As with products like its Kindle e-readers, Kindle Fire tablets and Amazon Fire TV, the Fire Phone is designed to pull you into Amazon&amp;apost;s growing universe of products and services and then keep you there.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Amazon wants you to buy its first smartphone, the Fire, which it unveiled Wednesday.</content>
+        </sentence>
+        <sentence id="2">
+          <content>But it also wants you to use that phone to buy more stuff ... from Amazon.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>And one of the device&amp;apost;s most distinctive features is designed to make it as easy as possible do just that.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>It&amp;apost;s called Firefly, and it contains image-, text- and audio-recognition technology to help you scan and identify books, songs, movies and other items.</content>
+        </sentence>
+        <sentence id="5">
+          <content>Amazon wants you to use Firefly so much that the feature has its own dedicated button on the side of the phone for one-stop shopping.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;The Firefly button lets you identify printed Web and email addresses, phone numbers, QR and bar codes, artwork, and over 100 million items, including songs, movies, TV shows, and products -- and take action in seconds,&amp;quot; Amazon CEO Jeff Bezos said in announcing the phone, which will run Amazon&amp;apost;s Fire operating system.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>For example, you could use the phone&amp;apost;s cameras and sensors to identify an exotic fruit or vegetable, figure out who sings a song on the radio or help send an e-mail to a new contact after scanning their business card.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>But forget all that.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Well, except for maybe the song.</content>
+        </sentence>
+        <sentence id="10">
+          <content>Once you&amp;apost;ve identified the tune, Amazon wants you to download it.</content>
+        </sentence>
+        <sentence id="11">
+          <content>From Amazon.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>Bezos demonstrated the feature onstage Wednesday by using the phone to instantly identify items arrayed on a table, including a book, a CD and a jar of Nutella.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>As with products like its Kindle e-readers, Kindle Fire tablets and Amazon Fire TV, the Fire Phone is designed to pull you into Amazon&amp;apost;s growing universe of products and services and then keep you there.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>So with Firefly, the Amazon Music Store will pop up as the default source to buy that song.</content>
+        </sentence>
+        <sentence id="15">
+          <content>And that&amp;apost;s also where those QR and bar codes come in.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="16">
+          <content>Firefly will make it even easier to pursue a habit that has proliferated in the smartphone age and driven brick-and-mortar stores crazy.</content>
+        </sentence>
+        <sentence id="17">
+          <content>A user will presumably be able to walk into a store, pick out a product they like, zap it with Firefly and, within a second or two, find out whether it&amp;apost;s available on Amazon for less money.</content>
+        </sentence>
+        <sentence id="18">
+          <content>(And then maybe even order it right there from their phone.).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="19">
+          <content>According to Amazon, the Firefly feature will recognize 70 million products, 35 million songs, 245,000 movies and TV episodes, and 160 live TV channels.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="20">
+          <content>That&amp;apost;s a lot of chances to spend money.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="21">
+          <content>The Fire also boasts a 3-D screen.</content>
+        </sentence>
+        <sentence id="22">
+          <content>It ships July 25, although you can pre-order it now.</content>
+        </sentence>
+        <sentence id="23">
+          <content>The phone is available only on AT&amp;amp;T&amp;apost;s network.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="24">
+          <content>If there&amp;apost;s one difference between the Firefly-loaded Fire Phone and other Amazon hardware, it&amp;apost;s the price.</content>
+        </sentence>
+        <sentence id="25">
+          <content>At $199 for a 32GB model and $299 for the 64GB -- with an AT&amp;amp;T contract -- its cost is comparable with that of other high-end smartphones.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="26">
+          <content>By comparison, the Kindle Fire tablet debuted in 2011 at $199, a full $300 less than the cheapest iPad 2 at the time.</content>
+        </sentence>
+        <sentence id="27">
+          <content>The first Kindle e-reader debuted about $400 but quickly dropped in price.</content>
+        </sentence>
+        <sentence id="28">
+          <content>There are Kindles that can now be purchased for about $70.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="29">
+          <content>Under Bezos, the company&amp;apost;s strategy has been to sell hardware for less than its competitors, sometimes even at a loss, to get customers using other Amazon products.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="30">
+          <content>As such, customers who buy the Fire soon will get a free year&amp;apost;s subscription (normally $99) to Amazon Prime, which offers two-day shipping, free streaming on Prime Instant Video and access to the Kindle book-lending library.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="31">
+          <content>Whether the Fire Phone will be an instant hit remains to be seen.</content>
+        </sentence>
+        <sentence id="32">
+          <content>Shoppers may be hesitant to buy a phone online if they can&amp;apost;t test it out in stores.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="33">
+          <content>But if Amazon can carve out a decent piece of the smartphone market, which moved more than 1 billion phones last year, Firefly may help make sure those Amazon purchases just keep on coming.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

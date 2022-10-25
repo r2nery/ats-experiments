@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1005" link="http://www.cnn.com/2013/04/24/politics/btn-presidential-libraries/index.html" date_published="2013-04-24 17:27:58" category="politics" author="Amy Roberts and Lindsey Knight, CNN Library" highlights_mapped="true" mapping_error="false">
+  <title>By the Numbers: Presidential libraries</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="4">13 - Number of presidential libraries in the United States.</sentence>
+      <sentence id="2" ids_article_sentences="8">3 - Number of presidential libraries located at universities in Texas.</sentence>
+      <sentence id="3" ids_article_sentences="27">More than $500 million - Amount raised for the George W. Bush Presidential Library.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-09-10 14:49:21" annotation_time="10.889333">
+      <sentence id="4" ids_highlights="1">13 - Number of presidential libraries in the United States.</sentence>
+      <sentence id="8" ids_highlights="2">3 - Number of presidential libraries located at universities in Texas.</sentence>
+      <sentence id="27" ids_highlights="3">More than $500 million - Amount raised for the George W. Bush Presidential Library, which opens to the public on May 1.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Washington Former President George W. Bush will host an elite group at the dedication of his presidential library in Dallas on Thursday.</content>
+        </sentence>
+        <sentence id="2">
+          <content>President Barack Obama and former Presidents Bill Clinton, George H. W. Bush and Jimmy Carter will attend the event.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>Here&amp;apost;s a look at other presidential libraries by the numbers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>13 - Number of presidential libraries in the United States.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>1939 - Year of the groundbreaking of the Franklin D. Roosevelt Presidential Library and Museum, in Hyde Park, New York.</content>
+        </sentence>
+        <sentence id="6">
+          <content>It was the first presidential library.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>7 - Number of presidential libraries located on campus or affiliated with a university.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>3 - Number of presidential libraries located at universities in Texas.</content>
+        </sentence>
+        <sentence id="9">
+          <content>The Lyndon B. Johnson Presidential Library and Museum is at the University of Texas in Austin.</content>
+        </sentence>
+        <sentence id="10">
+          <content>The George Bush Library and Museum is at Texas A &amp;amp; M in College Station, and the George W. Bush Presidential Library is on the campus of Southern Methodist University.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>2 - Number of universities campaigning to host President Barack Obama&amp;apost;s library and museum: The University of Chicago and the University of Hawaii.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>6 tons - Weight of the Sikorsky VH 3A &amp;quot;Sea King&amp;quot; helicopter that is on display at the Richard Nixon Presidential Library and Museum in Yorba Linda, California.</content>
+        </sentence>
+        <sentence id="13">
+          <content>Nixon made his final flight on it after his resignation on August 9, 1974.</content>
+        </sentence>
+        <sentence id="14">
+          <content>&amp;quot;Army One&amp;quot; was used by Presidents Kennedy, Johnson, Nixon, and Ford.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="15">
+          <content>1,600 - Number of oral interviews archived in the collection at the John F. Kennedy Presidential Library and Museum in Boston.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="16">
+          <content>27 million - Pages of historical material originally archived in the Jimmy Carter Library and Museum in Atlanta.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="17">
+          <content>305 - Number of energy saving solar panels at the William J. Clinton Presidential Library and Museum in Little Rock, Arkansas.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="18">
+          <content>2 inches - Height of the base that was added to President Ronald Reagan&amp;apost;s desk, so his legs would fit underneath.</content>
+        </sentence>
+        <sentence id="19">
+          <content>A full-sized replica of Reagan&amp;apost;s Oval Office is on display at his library in Simi Valley, California.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="20">
+          <content>1 - Number of recipes for a &amp;quot;Frosted Mint Delight&amp;quot; dessert that appear on the Dwight D. Eisenhower Presidential Library and Museum&amp;apost;s website.</content>
+        </sentence>
+        <sentence id="21">
+          <content>It was listed as one of his favorites!</content>
+        </sentence>
+        <sentence id="22">
+          <content>(A &amp;quot;Prune Whip&amp;quot; also made the list.).</content>
+        </sentence>
+        <sentence id="23">
+          <content>The library is located in Abilene, Kansas.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="24">
+          <content>More than 3,000 - Number of gifts President George H. W. Bush received from foreign heads of state that are part of the main collection at the George Bush Library and Museum.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="25">
+          <content>More than 43,000 - Number of gifts President George W. Bush and Laura Bush received from heads of state and from American citizens, some of which are on display on an online gallery.</content>
+        </sentence>
+        <sentence id="26">
+          <content>It includes a bullhorn President Bush used at Ground Zero after the September 11, 2001, attacks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="27">
+          <content>More than $500 million - Amount raised for the George W. Bush Presidential Library, which opens to the public on May 1.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

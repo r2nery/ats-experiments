@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1918" link="http://www.cnn.com/2014/05/19/us/oregon-same-sex-marriage/index.html?hpt=hp_t2" date_published="2014-05-19 19:12:50" category="us" author="Bill Mears and Catherine E. Shoichet, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Federal judge strikes down Oregon&amp;apost;s same-sex marriage ban</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="16">NEW: Plaintiff: &amp;quot;It means that my son&amp;apost;s family is just as legitimate as the one next door&amp;quot;.</sentence>
+      <sentence id="2" ids_article_sentences="1">Judge: Oregon&amp;apost;s voter-approved same-sex marriage ban is unconstitutional.</sentence>
+      <sentence id="3" ids_article_sentences="18">Activist after the ruling: &amp;quot;Love won today&amp;quot;.</sentence>
+      <sentence id="4" ids_article_sentences="27">Opponents of same-sex marriage say Oregon abandoned citizens in court.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-09-22 17:30:33" annotation_time="66.024666" mapping_time_divergence="16.506166">
+      <sentence id="1" ids_highlights="2">A federal judge struck down Oregon&amp;apost;s voter-approved ban on same-sex marriage Monday.</sentence>
+      <sentence id="16" ids_highlights="1">&amp;quot;It means that my son&amp;apost;s family is just as legitimate as the one next door, and that he can grow up proud.&amp;quot;</sentence>
+      <sentence id="18" ids_highlights="3">&amp;quot;Love won today,&amp;quot; said Marty Rouse, national field director for the Human Rights Campaign.</sentence>
+      <sentence id="27" ids_highlights="4">&amp;quot;The people of Oregon are entitled to a defense of their decision on marriage rather than being abandoned in court.&amp;quot;</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>A federal judge struck down Oregon&amp;apost;s voter-approved ban on same-sex marriage Monday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>&amp;quot;Because Oregon&amp;apost;s marriage laws discriminate on the basis of sexual orientation without a rational relationship to any legitimate government interest, the laws violate the Equal Protection Clause of the Fourteenth Amendment to the United States Constitution,&amp;quot; U.S. District Judge Michael McShane said in his ruling.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Oregon voters passed Measure 36 in 2004, which amended the state&amp;apost;s Constitution to define marriage as between one man and a woman.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>In February, the state&amp;apost;s attorney general said she would not defend the ban in court because it would not stand up to a federal constitutional challenge.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>&amp;quot;My decision will not be the final word on this subject, but on this issue of marriage I am struck more by our similarities than our differences.</content>
+        </sentence>
+        <sentence id="6">
+          <content>I believe that if we can look for a moment past gender and sexuality, we can see in these plaintiffs nothing more or less than our own families, families who we would expect our Constitution to protect, if not exalt, in equal measure,&amp;quot; McShane said.</content>
+        </sentence>
+        <sentence id="7">
+          <content>&amp;quot;With discernment we see not shadows lurking in closets or the stereotypes of what was once believed; rather, we see families committed to the common purpose of love, devotion, and service to the greater community.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>Same-sex couples camped out in lawn chairs outside a government building in Oregon&amp;apost;s largest county while waiting for the news, then cheered as word of the judge&amp;apost;s decision spread.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>Multnomah County began issuing marriage licenses to same-sex couples minutes later, the county said in a statement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>Ben West, one of the plaintiffs who challenged Oregon&amp;apost;s constitutional ban, stood beside his fiance and his son as he told CNN affiliate KGW that he was thrilled by the news.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;We&amp;apost;re excited.</content>
+        </sentence>
+        <sentence id="12">
+          <content>It&amp;apost;s surreal.</content>
+        </sentence>
+        <sentence id="13">
+          <content>We&amp;apost;re part of history.</content>
+        </sentence>
+        <sentence id="14">
+          <content>Our family is recognized, I mean, I&amp;apost;m tingling.</content>
+        </sentence>
+        <sentence id="15">
+          <content>It&amp;apost;s amazing,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;It means that my son&amp;apost;s family is just as legitimate as the one next door, and that he can grow up proud.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="17">
+          <content>At a news conference shortly after the judge&amp;apost;s ruling, activists and attorneys who challenged the amendment celebrated the news.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;Love won today,&amp;quot; said Marty Rouse, national field director for the Human Rights Campaign.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="19">
+          <content>Ten years ago, Rouse said, the first same-sex marriages in the United States were celebrated in Massachusetts.</content>
+        </sentence>
+        <sentence id="20">
+          <content>And 45 years ago marked another historic moment, he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="21">
+          <content>&amp;quot;Same-sex couples were arrested and sent to jail for dancing together at establishments like the Stonewall Inn,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="22">
+          <content>&amp;quot;Today, 45 years later, in 18 states and now including Oregon and the District of Columbia, same-sex couples are dancing together at their own weddings, and they have wedding rings, not handcuffs.</content>
+        </sentence>
+        <sentence id="23">
+          <content>History in Oregon.</content>
+        </sentence>
+        <sentence id="24">
+          <content>Congratulations.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="25">
+          <content>Meanwhile, the National Organization for Marriage, which opposes same-sex marriage, said it had filed a motion with the 9th Circuit Court of Appeals asking judges to block McShane&amp;apost;s ruling.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="26">
+          <content>&amp;quot;This case is an ugly example of inappropriate cooperation between the Attorney General and the gay marriage lobby, both of whom want to redefine marriage in contravention of the overwhelming decision of the people to define marriage as the union of one man and one woman,&amp;quot; Brian Brown, the organization&amp;apost;s president, said in a statement.</content>
+        </sentence>
+        <sentence id="27">
+          <content>&amp;quot;The people of Oregon are entitled to a defense of their decision on marriage rather than being abandoned in court.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="28">
+          <content>Same-sex marriage now allowed in 18 states.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="29">
+          <content>The Oregon ruling continues a near-unbroken string of state and federal court victories nationwide in the past year for supporters of same-sex marriage.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="30">
+          <content>Seventeen other states and the District of Columbia allow same-sex marriage within their borders: California, Connecticut, Delaware, Hawaii, Illinois, Iowa, Maine, Maryland, Massachusetts, Minnesota, New Hampshire, New Jersey, New Mexico, New York, Rhode Island, Vermont, and Washington.</content>
+        </sentence>
+        <sentence id="31">
+          <content>Just over a decade ago, there were none.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="32">
+          <content>Earlier this month, judges in Arkansas and Idaho ruled that same-sex marriage bans in those states were unconstitutional.</content>
+        </sentence>
+        <sentence id="33">
+          <content>Both decisions are being appealed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="34">
+          <content>This month also marks the two-year anniversary of President Barack Obama voicing his public support for the first time of same-sex marriage, citing his own &amp;quot;evolution&amp;quot; on the issue.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="35">
+          <content>&amp;quot;At a certain point, I&amp;apost;ve just concluded that for me personally it is important for me to go ahead and affirm that I think same-sex couples should be able to get married,&amp;quot; Obama said at the time.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="36">
+          <content>Groups supporting same-sex marriage applauded the Oregon ruling.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="37">
+          <content>&amp;quot;The importance of Judge McShane&amp;apost;s decision cannot be overemphasized,&amp;quot; said David Fidanque, executive director of the ACLU of Oregon.</content>
+        </sentence>
+        <sentence id="38">
+          <content>&amp;quot;Our federal Constitution does not allow any state -- or its voters -- to deny same-sex couples equal protection under the law simply because of who they are and who they love.</content>
+        </sentence>
+        <sentence id="39">
+          <content>This type of discrimination is wrong, and it&amp;apost;s also unconstitutional.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="40">
+          <content>But court battles over the matter are far from over.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="41">
+          <content>About 70 cases dealing with same-sex marriage are now making their way through U.S. courts.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="42">
+          <content>Separate federal appeals courts in recent weeks heard challenges to same-sex marriage bans in Utah, Oklahoma and Virginia.</content>
+        </sentence>
+        <sentence id="43">
+          <content>Similar appeals will be heard on current bans in Nevada, Texas, Kentucky, Ohio and Michigan.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="44">
+          <content>Federal judge orders Utah to recognize same-sex marriages.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="45">
+          <content>Also Monday, a federal judge said Utah must recognize the marriages of more than 1,200 same-sex couples who obtained marriage licenses earlier this year after a court struck down that state&amp;apost;s same-sex marriage ban.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="46">
+          <content>The U.S. Supreme Court days later issued a stay preventing any more same-sex marriages, but that action left those who got married in the interim in legal limbo.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="47">
+          <content>The judge&amp;apost;s ruling Monday says Utah must give those couples &amp;quot;all the protections, benefits, and responsibilities given to all marriages under Utah law.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="48">
+          <content>While some details of the Oregon and Utah cases are similar, there&amp;apost;s a key difference.</content>
+        </sentence>
+        <sentence id="49">
+          <content>In Utah, the state is appealing a judge&amp;apost;s decision to overturn its voter-approved ban of same-sex marriage.</content>
+        </sentence>
+        <sentence id="50">
+          <content>Gov. Gary Herbert slammed what he said was a decision by an &amp;quot;activist federal judge.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="51">
+          <content>In Oregon, officials are taking the opposite tack, praising the judge&amp;apost;s ruling overturning their state&amp;apost;s same-sex marriage ban.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="34">
+      <sentences>
+        <sentence id="52">
+          <content>&amp;quot;Now, finally, all Oregonians will have the opportunity to make a legal commitment to the person they love.</content>
+        </sentence>
+        <sentence id="53">
+          <content>Every person and every family in Oregon deserves that chance,&amp;quot; Gov. John Kitzhaber said in a statement.</content>
+        </sentence>
+        <sentence id="54">
+          <content>&amp;quot;Today is a win for love, for families, and for freedom.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

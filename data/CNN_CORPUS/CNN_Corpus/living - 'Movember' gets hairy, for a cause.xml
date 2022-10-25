@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="666" link="http://edition.cnn.com/2011/11/01/living/movember-mustaches/index.html" date_published="2011-11-01 11:44:31" category="living" author="Emily Smith, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>&amp;apost;Movember&amp;apost; gets hairy, for a cause</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="4">During November men grow mustaches to raise money for men&amp;apost;s health issues.</sentence>
+      <sentence id="2" ids_article_sentences="17">Movember, a nonprofit group, lays out specific rules on how to maintain your mustache.</sentence>
+      <sentence id="3" ids_article_sentences="43, 42">Chicago, America&amp;apost;s most mustache-friendly city, will hold the 5th annual &amp;apost;Stache Bash.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-20 17:32:12" annotation_time="94.780334" mapping_time_divergence="63.18689">
+      <sentence id="4" ids_highlights="1">During Movember (the month formerly known as November), men around the globe grow mustaches (hence the name) while raising money for men&amp;apost;s health issues.</sentence>
+      <sentence id="17" ids_highlights="2">There are also rules pertaining to gentlemanly behavior, as well as rules preventing the mustache from touching one&amp;apost;s sideburns (as this is a beard) or joining the mustache&amp;apost;s handlebars to your chin (as this is a goatee).</sentence>
+      <sentence id="42" ids_highlights="3">&amp;apost;Stache soirees have grown in popularity, prompting the fifth annual &amp;quot;Stache Bash,&amp;quot; put on by the American Mustache Institute.</sentence>
+      <sentence id="43" ids_highlights="3">This year the bash will be held in Chicago, which was deemed to be America&amp;apost;s most mustache-friendly city.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>A word of warning: You might notice a few more unshaved upper lips proudly displayed by men in the next few weeks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Don&amp;apost;t worry, it&amp;apost;s not males the world over being lazy.</content>
+        </sentence>
+        <sentence id="3">
+          <content>They&amp;apost;re actually growing that Fu Manchu for a good cause.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>During Movember (the month formerly known as November), men around the globe grow mustaches (hence the name) while raising money for men&amp;apost;s health issues.</content>
+        </sentence>
+        <sentence id="5">
+          <content>Movember started in Australia in 2003.</content>
+        </sentence>
+        <sentence id="6">
+          <content>It has spread from down under to South Africa and Europe, and five years ago it reached American shores.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>This will be the fifth year Sydney native Neil Van Helden has participated in the global charity event.</content>
+        </sentence>
+        <sentence id="8">
+          <content>Van Helden came to the United States two years ago for work and said he is just like any other guy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="9">
+          <content>His reasons for joining the Movember movement are simple: &amp;quot;I had family members deal with prostate cancer and friends with depression issues.</content>
+        </sentence>
+        <sentence id="10">
+          <content>... There&amp;apost;s not a whole lot out there in terms of support for men with charities.</content>
+        </sentence>
+        <sentence id="11">
+          <content>It&amp;apost;s not talked about that much.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="12">
+          <content>He said men in general aren&amp;apost;t good at committing to regular health screenings.</content>
+        </sentence>
+        <sentence id="13">
+          <content>&amp;quot;We&amp;apost;re pretty terrible at it.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="14">
+          <content>But before you sign up and start growing a &amp;apost;mo all willy-nilly, there are rules for this sort of thing, as laid out by the nonprofit group.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="15">
+          <content>First and foremost, the registered participant must start November 1 clean-shaven.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="16">
+          <content>Second, you need to maintain your mustache: Grooming is key.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="17">
+          <content>There are also rules pertaining to gentlemanly behavior, as well as rules preventing the mustache from touching one&amp;apost;s sideburns (as this is a beard) or joining the mustache&amp;apost;s handlebars to your chin (as this is a goatee).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="18">
+          <content>The goal is to get your friends to donate money to your Movember cause, which is then donated to the Prostate Cancer Foundation, LiveStrong and other men&amp;apost;s health research and awareness programs.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="19">
+          <content>So far Americans have raised $7.5 million for Movember.</content>
+        </sentence>
+        <sentence id="20">
+          <content>Worldwide, participants have raised $174 million, which, according to Movember, makes the group the largest nongovernment funder of prostate cancer research in the world.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="21">
+          <content>According to the American Cancer Society, one in every six men will get prostate cancer during his lifetime, and one in every 36 will die from the disease.</content>
+        </sentence>
+        <sentence id="22">
+          <content>Behind lung cancer, prostate cancer is the second leading cause of cancer death in men.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="23">
+          <content>Van Helden got some interesting looks when he started growing his stateside &amp;apost;stache.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="24">
+          <content>&amp;quot;It&amp;apost;s a lot bigger thing in Australia.</content>
+        </sentence>
+        <sentence id="25">
+          <content>Every second guy has a mustache.</content>
+        </sentence>
+        <sentence id="26">
+          <content>Everyone applauds it,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="27">
+          <content>With a chuckle, he added: &amp;quot;Back home, the ladies like it when you have a mustache growing in Movember.</content>
+        </sentence>
+        <sentence id="28">
+          <content>Here, not so much.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="29">
+          <content>First-time mustache grower Michael Erickson is excited about his friends&amp;apost; reaction to his new facial hair.</content>
+        </sentence>
+        <sentence id="30">
+          <content>He has never grown a mustache and was prompted to join Movember by some Twitter buddies.</content>
+        </sentence>
+        <sentence id="31">
+          <content>The &amp;quot;marriage of social media and Movember is perfect,&amp;quot; said Erickson, who is actively involved in social media in his job as director of marketing for a popular restaurant group in Atlanta.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="32">
+          <content>For Erickson, Movember kills two birds with one stone.</content>
+        </sentence>
+        <sentence id="33">
+          <content>&amp;quot;I wanted to help bring attention to men&amp;apost;s health issues, which is something, I believe, that doesn&amp;apost;t get the attention it deserves.</content>
+        </sentence>
+        <sentence id="34">
+          <content>Plus, I always wanted to try to grow a mustache.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="35">
+          <content>Like most men, he recognizes that he doesn&amp;apost;t go for health screenings as often as he should.</content>
+        </sentence>
+        <sentence id="36">
+          <content>&amp;quot;That&amp;apost;s another reason I&amp;apost;m doing this: to make a commitment to myself to take better care of my own health.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="37">
+          <content>At the end of the month, parties are held around the globe to celebrate those &amp;quot;who sacrificed their upper lip for the month.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="38">
+          <content>Men dress up as famous mustache-sporting characters, such as the Village People.</content>
+        </sentence>
+        <sentence id="39">
+          <content>Van Helden went as Sherlock Holmes last year-- complete with tweed and his pants tucked into his socks.</content>
+        </sentence>
+        <sentence id="40">
+          <content>He likes that &amp;quot;everyone (there) has something in common.</content>
+        </sentence>
+        <sentence id="41">
+          <content>You&amp;apost;re all there for a good cause.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="42">
+          <content>&amp;apost;Stache soirees have grown in popularity, prompting the fifth annual &amp;quot;Stache Bash,&amp;quot; put on by the American Mustache Institute.</content>
+        </sentence>
+        <sentence id="43">
+          <content>This year the bash will be held in Chicago, which was deemed to be America&amp;apost;s most mustache-friendly city.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="44">
+          <content>The event also benefits LiveStrong and the Prostate Cancer Foundation.</content>
+        </sentence>
+        <sentence id="45">
+          <content>The facial hair advocacy group has been around since 1965 and touts itself as &amp;quot;committed to battling a demonstrated discriminatory culture against people of mustached American heritage&amp;quot; by &amp;quot;promoting the growth, care and culture of the lower nose forest.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="46">
+          <content>All jokes aside, the American Mustache Institute and Movember hope to raise awareness about an often less thought about issue, men&amp;apost;s health.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="47">
+          <content>So, if you happen to see more mustaches in November, don&amp;apost;t give that person a funny look.</content>
+        </sentence>
+        <sentence id="48">
+          <content>Instead, think about donating to their hairy cause or at least be inspired to get a health screening.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

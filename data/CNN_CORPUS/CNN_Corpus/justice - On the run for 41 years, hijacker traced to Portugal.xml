@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="591" link="http://edition.cnn.com/2011/09/27/justice/hijacker-found/index.html" date_published="2011-09-27 19:06:32" category="justice" author="Tim Lister, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>On the run for 41 years, hijacker traced to Portugal</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="5">George Wright, 68, arrested Monday in Portuguese resort town.</sentence>
+      <sentence id="2" ids_article_sentences="2">He escaped from prison in 1970 and hijacked plane to get to Algeria.</sentence>
+      <sentence id="3" ids_article_sentences="31">There was no trace of him for decades afterward.</sentence>
+      <sentence id="4" ids_article_sentences="36">Incident prompted screening of passengers, carry-on bags at airports.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-01 15:33:33" annotation_time="95.625" mapping_time_divergence="23.90625">
+      <sentence id="2" ids_highlights="2">He escaped from prison when Richard Nixon was in the White House, joined the Black Liberation Army in Detroit, hijacked a plane and (in)famously demanded that FBI agents deliver ransom money in bathing suits.</sentence>
+      <sentence id="5" ids_highlights="1">At age 68, he was living quietly in the resort of Sintra near Lisbon in Portugal when he was arrested Monday.</sentence>
+      <sentence id="31" ids_highlights="3">Some of the hijackers were arrested in Paris in 1976, but for decades, there was no trace of Wright.</sentence>
+      <sentence id="36" ids_highlights="4">At the time of the hijacking, there was limited screening of passengers at U.S. airports.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>He had been on the run for four decades.</content>
+        </sentence>
+        <sentence id="2">
+          <content>He escaped from prison when Richard Nixon was in the White House, joined the Black Liberation Army in Detroit, hijacked a plane and (in)famously demanded that FBI agents deliver ransom money in bathing suits.</content>
+        </sentence>
+        <sentence id="3">
+          <content>And they did.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="4">
+          <content>Now, after a manhunt spanning three continents that often appeared to run cold, the FBI has finally found George Wright.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>At age 68, he was living quietly in the resort of Sintra near Lisbon in Portugal when he was arrested Monday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>The United States is seeking his extradition from Portugal to serve the remainder of a 15- to 30-year sentence for murder.</content>
+        </sentence>
+        <sentence id="7">
+          <content>Portuguese judicial authorities could not be reached Tuesday for details of the extradition process.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>Wright is fighting extradition, a U.S. federal agent said, and his next court appearance in Portugal is in about two weeks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>Wright&amp;apost;s life story reads like an international crime novel.</content>
+        </sentence>
+        <sentence id="10">
+          <content>In 1962, at the age of 19, he and three associates carried out a series of robberies in New Jersey.</content>
+        </sentence>
+        <sentence id="11">
+          <content>Wright and another man shot and killed a World War II veteran in a gas station robbery in Farmingdale.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>He was arrested soon afterward and, after pleading no defense, was sentenced to 15 to 30 years in prison.</content>
+        </sentence>
+        <sentence id="13">
+          <content>But in 1970, Wright escaped from Bayside State Prison in Leesburg, New Jersey, reportedly stealing the warden&amp;apost;s car to make his getaway.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="14">
+          <content>Wright made his way to Detroit, then a hotbed of militant black politics, and joined the Black Liberation Army.</content>
+        </sentence>
+        <sentence id="15">
+          <content>(He is also reputed to have made some money during this period as a part-time model, using an alias.).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="16">
+          <content>On July 31, 1972, Wright and four other members of the Black Liberation Army went to Detroit airport and boarded Delta Flight 841 for Miami.</content>
+        </sentence>
+        <sentence id="17">
+          <content>Wright was dressed as a priest and carried a handgun in a hollowed-out Bible.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="18">
+          <content>Airport security was different in those days.</content>
+        </sentence>
+        <sentence id="19">
+          <content>Various Palestinian groups were hijacking planes regularly, as were individuals keen to go to Cuba.</content>
+        </sentence>
+        <sentence id="20">
+          <content>Altogether, the U.S. Department of Transportation recorded 364 hijackings worldwide between 1968 and 1972: more than one a week on average.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="21">
+          <content>The hijackers of Delta 841 -- three men and two women accompanied by three children -- seized the plane as it approached Miami.</content>
+        </sentence>
+        <sentence id="22">
+          <content>The FBI says &amp;quot;subsequent investigation identified Wright as one of the hijackers.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="23">
+          <content>Once on the ground, the hijackers demanded that FBI agents dressed only in bathing suits deliver $1 million ransom to the plane.</content>
+        </sentence>
+        <sentence id="24">
+          <content>They wanted to be sure the agents were not carrying guns.</content>
+        </sentence>
+        <sentence id="25">
+          <content>The money was duly delivered by the scantily clad agents.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="26">
+          <content>The hijackers allowed the 88 passengers off but kept the flight crew on board and ordered that the plane fly to Boston.</content>
+        </sentence>
+        <sentence id="27">
+          <content>With the addition of an extra navigator (wearing swim trunks and a shirt), the DC-8 was refueled there and flew on to Algiers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="28">
+          <content>Algeria in the early 1970s was run by a hard-line socialist government that was no friend of the United States and allowed various dissidents, militants and alleged terrorists to take sanctuary there.</content>
+        </sentence>
+        <sentence id="29">
+          <content>A leading member of the Black Panthers, Eldridge Cleaver, had been welcomed as a political refugee there in 1968 after jumping bail in California.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="30">
+          <content>The Algerian government confiscated and returned the $1 million in ransom money to the U.S., but Wright and his associates melted away.</content>
+        </sentence>
+        <sentence id="31">
+          <content>Some of the hijackers were arrested in Paris in 1976, but for decades, there was no trace of Wright.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="32">
+          <content>Then, nine years ago, a fugitive investigator with the New Jersey Department of Corrections working with the U.S. Marshals Service got a lead.</content>
+        </sentence>
+        <sentence id="33">
+          <content>Officials won&amp;apost;t comment on reports that Wright had begun to contact relatives in the United States.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="34">
+          <content>Juan Mattos, U.S. marshal for the District of New Jersey, said: &amp;quot;Over the course of nine years, their tenacious resolve has proven to be very powerful in seeking justice and closure for the victims.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="35">
+          <content>And in a press release Tuesday, Michael Ward of the FBI&amp;apost;s Newark Division said the case should &amp;quot;serve notice that the FBI&amp;apost;s determination in pursuing subjects will not diminish over time or distance.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="36">
+          <content>At the time of the hijacking, there was limited screening of passengers at U.S. airports.</content>
+        </sentence>
+        <sentence id="37">
+          <content>This screening system did not require every passenger to be examined, only those who met a profile established by the Federal Aviation Administration.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="38">
+          <content>After the Algiers flight and several hijackings that turned violent, the Nixon administration instructed the FAA to adopt emergency regulations to improve screening.</content>
+        </sentence>
+        <sentence id="39">
+          <content>At the end of 1972, the FAA ordered airports to ensure that all passengers and their carry-on baggage be inspected before boarding.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

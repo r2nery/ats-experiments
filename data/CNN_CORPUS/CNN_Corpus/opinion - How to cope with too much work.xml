@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="820" link="http://edition.cnn.com/2012/07/02/opinion/too-much-laura-stack/index.html" date_published="2012-07-02 10:33:18" category="opinion" author="Laura Stack, Special to CNN" highlights_mapped="true" mapping_error="false">
+  <title>How to cope with too much work</title>
+  <keywords>work productivity laura stack</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">These days we are all expected to do more work, says Laura Stack.</sentence>
+      <sentence id="2" ids_article_sentences="21">Split your to-do lists into a Master list and a High Impact Task list, she says.</sentence>
+      <sentence id="3" ids_article_sentences="29">Stack says to stop multitasking and focus on one thing at a time .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-02 21:34:38" annotation_time="17.508333">
+      <sentence id="1" ids_highlights="1">These days, it&amp;apost;s seems like we are all expected to do more with less.</sentence>
+      <sentence id="21" ids_highlights="2">Split your to-do lists into a Master list and a High Impact Task (HIT) list.</sentence>
+      <sentence id="29" ids_highlights="3">Stop multitasking and focus on one thing at a time.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>These days, it&amp;apost;s seems like we are all expected to do more with less.</content>
+        </sentence>
+        <sentence id="2">
+          <content>Spending hours in the office to make sure all the assigned tasks get done bleeds into our family time, and even at home, it seems there&amp;apost;s a never-ending cycle of things that must be done.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>Yet studies have shown that 60-hour workweeks can result in a 25% decrease in productivity.</content>
+        </sentence>
+        <sentence id="4">
+          <content>The productivity numbers get worse as the work hours increase, because exhaustion steadily erodes judgment and performance.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>So what to do when there&amp;apost;s too much to do?</content>
+        </sentence>
+        <sentence id="6">
+          <content>The key is to do less, not more (what, you&amp;apost;ve never heard a time management expert tell you the key to success is to do less?).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>Just say no.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>First, say &amp;quot;no&amp;quot; to more work.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Though this might sound obvious, it&amp;apost;s one of the hardest things to actually do.</content>
+        </sentence>
+        <sentence id="10">
+          <content>But being realistic about the amount of additional work you can take on is as important as getting the job done.</content>
+        </sentence>
+        <sentence id="11">
+          <content>A simple, &amp;quot;Sorry -- I&amp;apost;d love to help out, but I don&amp;apost;t have the bandwidth to take that on right now,&amp;quot; is sufficient.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="12">
+          <content>Negotiate.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="13">
+          <content>When that fails, negotiate.</content>
+        </sentence>
+        <sentence id="14">
+          <content>If your boss presents you with a project you can&amp;apost;t outright refuse, but your plate is undeniably full, don&amp;apost;t hesitate to point this out.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="15">
+          <content>Openly discuss your current deadlines and workload, and communicate both honestly and clearly.</content>
+        </sentence>
+        <sentence id="16">
+          <content>For example, you might say, &amp;quot;I&amp;apost;m currently working on X, Y, and Z. I want to return quality work in a timely way, and if I take on this new project, it will jeopardize my promised deadlines.</content>
+        </sentence>
+        <sentence id="17">
+          <content>Would you like me to hand it off to someone else, outsource it, or would you prefer to reprioritize my existing commitments?&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="18">
+          <content>Prioritize.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="19">
+          <content>Focus on strategic enablers of business.</content>
+        </sentence>
+        <sentence id="20">
+          <content>Everyone has too much to do, and nobody really cares how many tasks you crossed off a to-do list if key projects keep falling through the cracks.</content>
+        </sentence>
+        <sentence id="21">
+          <content>Split your to-do lists into a Master list and a High Impact Task (HIT) list.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="22">
+          <content>While the Master lists tracks everything that needs to get done at some point, the HIT list includes only a reasonable number of items that can be accomplished each day, so you&amp;apost;re constantly focused on key priorities and work on them in the proper order:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="23">
+          <content>P1: You will get fired if this isn&amp;apost;t done today.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="24">
+          <content>P2: A valuable long-term activity that should be done soon.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="25">
+          <content>P3: Someone will be unhappy if this isn&amp;apost;t done eventually.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="26">
+          <content>P4: Human &amp;quot;pain-management&amp;quot; activities such as socializing or Facebook.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="27">
+          <content>Focus.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="28">
+          <content>Master the skills of concentration.</content>
+        </sentence>
+        <sentence id="29">
+          <content>Stop multitasking and focus on one thing at a time.</content>
+        </sentence>
+        <sentence id="30">
+          <content>Multitasking just dilutes your attention and fools you into thinking you&amp;apost;re productive, when you&amp;apost;re really just busy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="31">
+          <content>Don&amp;apost;t allow people to hold distracting conversations outside your cubicle or office door either.</content>
+        </sentence>
+        <sentence id="32">
+          <content>Limit your social media usage, and anything else that can keep you from accomplishing your most important tasks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="33">
+          <content>When you find ways to do less while increasing your impact, you&amp;apost;ll gain more time to spend on things you actually enjoy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="387" link="http://www.cnn.com/2012/03/27/health/health-care-insurance-lifetime-caps" date_published="2012-03-27 11:02:23" category="health" author="Elizabeth Cohen, Senior Medical Correspondent" highlights_mapped="false" mapping_error="false">
+  <title>The Supreme Court, health care reform and one little girl</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="22">Three-year-old Violet McManus suffers from seizures that threaten her breathing.</sentence>
+      <sentence id="2" ids_article_sentences="27">Her parents fear Supreme Court could restore health care insurance caps on her coverage.</sentence>
+      <sentence id="3" ids_article_sentences="13">Supreme Court is hearing arguments this week on health care reform law.</sentence>
+    </highlights>
+    <gold_standard annotation_time="43.642334">
+      <sentence id="13" ids_highlights="3">This week, the Supreme Court is hearing a debate on health care reform.</sentence>
+      <sentence id="22" ids_highlights="1">She&amp;apost;s now on two drugs to control the seizures and carries oxygen with her wherever she goes because she stops breathing when she has her seizures.</sentence>
+      <sentence id="27" ids_highlights="2">Health care reform made lifetime limits illegal -- which is why Violet&amp;apost;s family breathed easier when it passed -- but now her parents are worried the Supreme Court could restore the limits and Violet would lose her insurance.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>When health care reform passed Congress more than two years ago, Julie Walters yelled for her husband to come into the living room where she was watching the vote live on television.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>&amp;quot;I was so happy,&amp;quot; Walters remembers.</content>
+        </sentence>
+        <sentence id="3">
+          <content>&amp;quot;I yelled for Matt.</content>
+        </sentence>
+        <sentence id="4">
+          <content>I said, &amp;apost;Do you know what this means?</content>
+        </sentence>
+        <sentence id="5">
+          <content>Do you know what this means?&amp;apost;&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="6">
+          <content>The historic vote meant their 18-month-old daughter, Violet McManus, would be able to keep her health insurance.</content>
+        </sentence>
+        <sentence id="7">
+          <content>Without health care reform, she would have gotten kicked off her parents&amp;apost; insurance, perhaps as early as her 5th birthday, because her care is so expensive.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;I was like, Violet&amp;apost;s covered now!&amp;quot;</content>
+        </sentence>
+        <sentence id="9">
+          <content>Walters remembers.</content>
+        </sentence>
+        <sentence id="10">
+          <content>&amp;quot;We&amp;apost;re okay.</content>
+        </sentence>
+        <sentence id="11">
+          <content>We can breathe.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="12">
+          <content>But now Violet&amp;apost;s parents are worried they won&amp;apost;t be able to breathe easily again.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="13">
+          <content>This week, the Supreme Court is hearing a debate on health care reform.</content>
+        </sentence>
+        <sentence id="14">
+          <content>The court could keep the reform intact, repeal parts of it, or get rid of the law altogether.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="15">
+          <content>&amp;quot;I&amp;apost;m really scared,&amp;quot; Walters says.</content>
+        </sentence>
+        <sentence id="16">
+          <content>&amp;quot;Like, I-can&amp;apost;t-sleep scared.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;apost;Completely blue in her crib&amp;apost;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="18">
+          <content>Violet McManus was born healthy, but when she was 11 months old her parents woke up in the middle of the night in their Novato, California, home to find her having a seizure.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;She was completely blue in her crib and shaking,&amp;quot; Walters remembers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="20">
+          <content>It was to be the first of hundreds of seizures -- sometimes thirty in one day.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="21">
+          <content>Violet has been hospitalized about six times and each hospitalization cost more than $50,000.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="22">
+          <content>She&amp;apost;s now on two drugs to control the seizures and carries oxygen with her wherever she goes because she stops breathing when she has her seizures.</content>
+        </sentence>
+        <sentence id="23">
+          <content>She needs speech therapy and frequent doctor&amp;apost;s visits.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="24">
+          <content>Matt McManus, Violet&amp;apost;s father, gets health insurance through his work as a video game designer.</content>
+        </sentence>
+        <sentence id="25">
+          <content>Before health care reform, there was a $5 million lifetime limit on Violet&amp;apost;s insurance policy.</content>
+        </sentence>
+        <sentence id="26">
+          <content>Violet is now 3 and her parents calculate she could hit that cap by her 5th birthday, and almost certainly by her 10th.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="27">
+          <content>Health care reform made lifetime limits illegal -- which is why Violet&amp;apost;s family breathed easier when it passed -- but now her parents are worried the Supreme Court could restore the limits and Violet would lose her insurance.</content>
+        </sentence>
+        <sentence id="28">
+          <content>Walters has been so passionate about health care reform she contacted the office of Sen. Barbara Boxer (D-California) and MomsRising.org to advocate for the law.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="29">
+          <content>If Violet does lose her current insurance, her parents know there&amp;apost;s no way another insurance company will want to insure her because her care is so expensive.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="30">
+          <content>&amp;quot;They&amp;apost;d be crazy to want to insure her,&amp;quot; Walters says.</content>
+        </sentence>
+        <sentence id="31">
+          <content>&amp;quot;I mean, I wouldn&amp;apost;t want to insure her if I was an insurance company.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="32">
+          <content>Watching the Supreme Court case closely.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="33">
+          <content>Several provisions of health care reform have already gone into effect, so millions of other people, like Violet McManus, stand to lose a lot if all or part of it is reversed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="34">
+          <content>For example, 2.5 million young Americans get to stay on their parents&amp;apost; insurance until their 26th birthday because of health care reform, according to the Obama administration.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="35">
+          <content>Seniors and people with disabilities have saved $3.2 billion on prescription drugs because of health care reform and insurance companies and 45 million women have received free mammograms and pap smears because of health care reform.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="36">
+          <content>There are ripple effects, too.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="37">
+          <content>After health care reform passed, Walters and McManus felt more secure about Violet&amp;apost;s future and decided to have another child.</content>
+        </sentence>
+        <sentence id="38">
+          <content>Violet&amp;apost;s little brother, Rory, was born two weeks ago.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="39">
+          <content>iReport: Should health insurance be mandatory?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="40">
+          <content>Violet&amp;apost;s parents know not everyone shares their enthusiasm about health care reform.</content>
+        </sentence>
+        <sentence id="41">
+          <content>Some people even traveled to Washington to protest in front of the Supreme Court this week.</content>
+        </sentence>
+        <sentence id="42">
+          <content>In particular, they object to the &amp;quot;individual mandate,&amp;quot; which requires nearly all Americans to purchase insurance or pay a fine.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="43">
+          <content>The protesters object to being forced to pay for something they don&amp;apost;t want, but Walters and McManus see it differently.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="44">
+          <content>At any point in time they say someone could find themselves in a difficult situation like they&amp;apost;re in now and would want a system that insures you no matter how sick you are.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="45">
+          <content>As McManus puts it, &amp;quot;I think people just sort of need to change their mindset about health care.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

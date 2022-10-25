@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="307" link="http://www.cnn.com/2013/01/17/health/brawley-annual-cancer-report/index.html" date_published="2013-01-17 15:44:06" category="health" author="Dr. Otis Brawley, CNN Contributor" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>More lives being saved: Cancer death rates drop 20%</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="8">American Cancer Society releases annual report on mortality, survival.</sentence>
+      <sentence id="2" ids_article_sentences="15">Death rates declined for lung, colorectal, breast and prostate cancer.</sentence>
+      <sentence id="3" ids_article_sentences="29, 22">Smoking and obesity still play a major role in causing cancer, Brawley says.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-01 15:14:59" annotation_time="37.467335" mapping_time_divergence="12.489112">
+      <sentence id="8" ids_highlights="1">The report, released Thursday, compiles the most recent data on cancer incidence, mortality and survival.</sentence>
+      <sentence id="15" ids_highlights="2">Lung, colorectal, breast and prostate cancer make up nearly half of all cancers diagnosed in the United States.</sentence>
+      <sentence id="22" ids_highlights="3">The leading cause of cancer in the United States is smoking.</sentence>
+      <sentence id="29" ids_highlights="3">Indeed, obesity is the second leading cause of cancer.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The death rate from cancer in the United States has dropped dramatically in the last two decades, according to a new report from the American Cancer Society.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>American cancer death rates have risen consistently since the 1900s; they peaked in 1991 at 215.1 deaths per 100,000 in the population.</content>
+        </sentence>
+        <sentence id="3">
+          <content>The 2009 death rate, which just became available, is 173.1 per 100,000.</content>
+        </sentence>
+        <sentence id="4">
+          <content>That&amp;apost;s a 20% decline in cancer death rates from 1991.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>The report also includes grim news.</content>
+        </sentence>
+        <sentence id="6">
+          <content>The ACS estimates 1.6 million Americans will be diagnosed with cancer and more than 580,000 will die of cancer in 2013.</content>
+        </sentence>
+        <sentence id="7">
+          <content>As has been the case for decades, only cardiovascular disease will kill more Americans.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="8">
+          <content>The report, released Thursday, compiles the most recent data on cancer incidence, mortality and survival.</content>
+        </sentence>
+        <sentence id="9">
+          <content>It is based on data gathered by the National Cancer Institute, the Centers for Disease Control and Prevention, and the North American Association of Central Cancer Registries.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="10">
+          <content>The decline in deaths from 1991 to 2009 is clear evidence of progress in the fight against cancer.</content>
+        </sentence>
+        <sentence id="11">
+          <content>It is far more powerful than other statistics such as increasing survival rates or declining incidence rates.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="12">
+          <content>The 20% decrease translates into the prevention of 1.18 million cancer deaths.</content>
+        </sentence>
+        <sentence id="13">
+          <content>In 2009 alone, nearly 153,000 cancer deaths were prevented.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="14">
+          <content>There were declines in the death rates for a number of major cancers.</content>
+        </sentence>
+        <sentence id="15">
+          <content>Lung, colorectal, breast and prostate cancer make up nearly half of all cancers diagnosed in the United States.</content>
+        </sentence>
+        <sentence id="16">
+          <content>All four had greater than 30% decreases in mortality rates.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="17">
+          <content>The single biggest reason for this good news is reduction in smoking rates.</content>
+        </sentence>
+        <sentence id="18">
+          <content>Improvements in early detection and cancer treatment also contributed to the decline.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="19">
+          <content>Analysis of the data tells us that we can do better.</content>
+        </sentence>
+        <sentence id="20">
+          <content>Substantially more lives could be saved if existing methods of cancer prevention and treatment were practiced more widely.</content>
+        </sentence>
+        <sentence id="21">
+          <content>This is incredibly important as the U.S. population increases in size and the proportion of older Americans grows.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="22">
+          <content>The leading cause of cancer in the United States is smoking.</content>
+        </sentence>
+        <sentence id="23">
+          <content>More than one in five Americans still smoke.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="24">
+          <content>In some states, such as Kentucky and Missouri, nearly 30% of residents smoke.</content>
+        </sentence>
+        <sentence id="25">
+          <content>These states have the highest cancer death rates.</content>
+        </sentence>
+        <sentence id="26">
+          <content>In other states, such as California and Utah, smoking rates are as low as 10%.</content>
+        </sentence>
+        <sentence id="27">
+          <content>These states have the lowest cancer death rates.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="28">
+          <content>The obesity epidemic is also affecting cancer rates in a very negative way.</content>
+        </sentence>
+        <sentence id="29">
+          <content>Indeed, obesity is the second leading cause of cancer.</content>
+        </sentence>
+        <sentence id="30">
+          <content>More than a dozen cancers -- from breast and prostate cancer to pancreatic and colon cancer -- have been linked to America&amp;apost;s epidemic of high caloric intake and lack of physical activity.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="31">
+          <content>While 15% of adults were obese in 1970, more than 35% were obese in 2010.</content>
+        </sentence>
+        <sentence id="32">
+          <content>Even more concerning, 4% of children aged 6 to 11 were obese in 1970; 20% of that group were obese in 2010.</content>
+        </sentence>
+        <sentence id="33">
+          <content>While overall there is a significant decline in cancer mortality, the obesity epidemic is continuing to push the cancer mortality rate upward.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="34">
+          <content>A substantial proportion of Americans do not receive the high-quality preventive and treatment services that experts agree people should get.</content>
+        </sentence>
+        <sentence id="35">
+          <content>More than a third of women over 50 are not getting routine breast cancer screening.</content>
+        </sentence>
+        <sentence id="36">
+          <content>Nearly half of Americans over 50 are not getting colon cancer screening.</content>
+        </sentence>
+        <sentence id="37">
+          <content>These are interventions about which there is no controversy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="38">
+          <content>Even more unsettling, a substantial number of Americans diagnosed with cancer are unable to get adequate treatment.</content>
+        </sentence>
+        <sentence id="39">
+          <content>If we simply get adequate medical care to those who need it, more lives could be saved.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

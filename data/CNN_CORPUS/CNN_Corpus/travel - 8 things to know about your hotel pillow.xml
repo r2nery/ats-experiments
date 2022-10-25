@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1727" link="http://www.cnn.com/2013/08/27/travel/hotel-pillows/index.html" date_published="2013-08-28 01:52:09" category="travel" author="David Johnston, for CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>8 things to know about your hotel pillow</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="20">The Wyndham Hotel Group purchased more than a million pillows last year.</sentence>
+      <sentence id="2" ids_article_sentences="9, 8">That annoying pillow tag? It helped fight smallpox.</sentence>
+      <sentence id="3" ids_article_sentences="30">Some hotel guests bring their own pillows. Housekeepers find this annoying.</sentence>
+      <sentence id="4" ids_article_sentences="16">Your hotel pillow is probably younger than the one you have at home.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-09-22 17:13:55" annotation_time="200.91034" mapping_time_divergence="50.227585">
+      <sentence id="8" ids_highlights="2">That annoying pillow tag?</sentence>
+      <sentence id="9" ids_highlights="2">It fought smallpox.</sentence>
+      <sentence id="16" ids_highlights="4">Your hotel pillow is probably younger than the one you have at home.</sentence>
+      <sentence id="20" ids_highlights="1">Wyndham as a whole purchased more than a million pillows last year alone.</sentence>
+      <sentence id="30" ids_highlights="3">Tomsky says that one thing that drives housekeepers bonkers is people who bring their own pillows.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>For most of us, hotel pillows are an afterthought.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>It takes a night of compromised sleeping positions and desperate pillow kneading in an attempt to create matter where none exists to highlight their actual significance.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>But there&amp;apost;s much to know about these under-appreciated accoutrements of the travel biz.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>As Keith Pierce, executive vice president for brand operations at Wyndham Hotel Group told us, &amp;quot;There&amp;apost;s more to pillows than just pillows.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>Like what?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>Glad you asked.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>1.</content>
+        </sentence>
+        <sentence id="8">
+          <content>That annoying pillow tag?</content>
+        </sentence>
+        <sentence id="9">
+          <content>It fought smallpox.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>The tags attached to pillows and comforters in the United States that list the exact percentages of fills, be they foam or down?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>According to the International Association of Bedding and Furniture Law Officials, it&amp;apost;s known as a law label.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>While it might seem like government red tape, it&amp;apost;s actually a product of the 1800s when some less-than-scrupulous business people were stuffing their pillows and mattresses with old hospital blankets that might have carried smallpox and tuberculosis.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="13">
+          <content>Sleep tight.</content>
+        </sentence>
+        <sentence id="14">
+          <content>And smallpox free!</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>2.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Your hotel pillow is probably younger than the one you have at home.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="17">
+          <content>According to Kris Beck at Hilton Worldwide, a synthetic pillow lasts approximately 18 to 24 months when cared for and laundered properly, while a down or feather pillow can last 24 to 36 months.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="18">
+          <content>Keith Pierce from Wyndham says that pillows at Microtel locations -- the budget arm of the Wyndham Hotel Group -- last less than 24 months, with properties replacing a third of their inventory every 6 to 8 months.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="19">
+          <content>For Microtel, that means a purchase of 20,000 pillows in 2012.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="20">
+          <content>Wyndham as a whole purchased more than a million pillows last year alone.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="21">
+          <content>3.</content>
+        </sentence>
+        <sentence id="22">
+          <content>Housekeepers and hot dog vendors have something in common.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="23">
+          <content>Rather than tucking a laundered pillowcase under their chin, hospitality expert Jacob Tomsky says that hotel housekeepers have a chop-and-fold method of slipping pillows into pillowcases.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="24">
+          <content>&amp;quot;Kind of like a hot dog bun,&amp;quot; he says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="25">
+          <content>A 10-year veteran of the hotel business, Tomsky&amp;apost;s New York Times bestselling book &amp;quot;Heads in Beds: A Reckless Memoir of Hotels, Hustles, and So-Called Hospitality&amp;quot; was published last year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="26">
+          <content>The hot dog bun trick could come in handy at home.</content>
+        </sentence>
+        <sentence id="27">
+          <content>Surely there&amp;apost;s a Youtube video out there.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="28">
+          <content>4.</content>
+        </sentence>
+        <sentence id="29">
+          <content>In the hotel biz, BYOP = WTF.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="30">
+          <content>Tomsky says that one thing that drives housekeepers bonkers is people who bring their own pillows.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="31">
+          <content>&amp;quot;That housekeeper is going to see hundreds of thousands of hotel pillows,&amp;quot; he explains.</content>
+        </sentence>
+        <sentence id="32">
+          <content>&amp;quot;Why would you need to bring your own?&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="33">
+          <content>For guests allergic to down-filled pillows, Tomsky says that hotels keep a large supply of foam pillows.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="34">
+          <content>While theft isn&amp;apost;t that common, (though Tomsky notes that some people will even take the batteries from the remote control) the occasional guest will steal the pillows from the bed and pack them right into their bags.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="35">
+          <content>5.</content>
+        </sentence>
+        <sentence id="36">
+          <content>Not all rock stars trash hotel rooms the same way.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="37">
+          <content>Tomsky tells the story of the singer of a classic rock band who wanted 15 pillows for his bed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="38">
+          <content>As requested, the pillows were piled on his bed in a huge pyramid.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="39">
+          <content>The next morning?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="40">
+          <content>&amp;quot;They were scattered all over the floor,&amp;quot; says Tomsky.</content>
+        </sentence>
+        <sentence id="41">
+          <content>&amp;quot;There is no way to sleep on that.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="42">
+          <content>Tell us who it is, please?</content>
+        </sentence>
+        <sentence id="43">
+          <content>Steven Tyler?</content>
+        </sentence>
+        <sentence id="44">
+          <content>Bon Jovi?</content>
+        </sentence>
+        <sentence id="45">
+          <content>The Nuge?</content>
+        </sentence>
+        <sentence id="46">
+          <content>Maybe Meatloaf or Styx warbler Dennis DeYoung?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="47">
+          <content>When pressed for the name, Tomsky, a true hotelier to his discreet core, declines to provide personal information concerning one of his guests.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="34">
+      <sentences>
+        <sentence id="48">
+          <content>6.</content>
+        </sentence>
+        <sentence id="49">
+          <content>If you want a firm pillow, Singapore is the place.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="35">
+      <sentences>
+        <sentence id="50">
+          <content>Many hotels are known for their &amp;quot;pillow menus,&amp;quot; which give guests the choice of what they rest their head upon.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="36">
+      <sentences>
+        <sentence id="51">
+          <content>But few pillow menus are as varied as the list at Conrad Centennial Singapore, which has 16 pillows guests can choose from.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="37">
+      <sentences>
+        <sentence id="52">
+          <content>Alongside down and foam options are buckwheat, tatami and porcelain.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="38">
+      <sentences>
+        <sentence id="53">
+          <content>Porcelain pillows, as well as ones made from jade, wood and bronze, were popular in China from the 6th to early 20th centuries.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="39">
+      <sentences>
+        <sentence id="54">
+          <content>7.</content>
+        </sentence>
+        <sentence id="55">
+          <content>You can get your hotel pillow personalized.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="40">
+      <sentences>
+        <sentence id="56">
+          <content>At the Beverly Hills Peninsula, VIP, suite and villa guests, and guests who have stayed five days at the property, get to sleep on pillowcases monogrammed with their initials.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="41">
+      <sentences>
+        <sentence id="57">
+          <content>The hotel has more than a 1,000 pillowcases on hand in a variety of initial combinations, though for the Isabel Isaacs and Zachary Xaviers out there, monogramming a new pillow only takes five to 10 minutes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="42">
+      <sentences>
+        <sentence id="58">
+          <content>At the end of their stay, guests can take their pillowcases with them or opt to have them boxed for their next stay at the Peninsula.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="43">
+      <sentences>
+        <sentence id="59">
+          <content>In addition, many chains have websites such as hiltontohome.com and ritzcarltonshops.com that allow people to purchase hotel pillows for their homes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="44">
+      <sentences>
+        <sentence id="60">
+          <content>8.</content>
+        </sentence>
+        <sentence id="61">
+          <content>Don&amp;apost;t think too hard about your hotel pillow ... or this article.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="45">
+      <sentences>
+        <sentence id="62">
+          <content>Jacob Tomsky says, like death and deli meat, people don&amp;apost;t think much about the life of a hotel pillow.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="46">
+      <sentences>
+        <sentence id="63">
+          <content>And that&amp;apost;s a good thing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="47">
+      <sentences>
+        <sentence id="64">
+          <content>&amp;quot;When you put your head on a pillow it would blow your mind to think about how many other heads have been on that pillow,&amp;quot; he says.</content>
+        </sentence>
+        <sentence id="65">
+          <content>&amp;quot;If you go to a hotel and come back a year later and stay in the same room, you&amp;apost;re going to put your head on the same pillow and there are a lot of people who have done a lot of things on that pillow on the meantime.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="48">
+      <sentences>
+        <sentence id="66">
+          <content>&amp;quot;Whatever people do in their rooms, pillows are always there.</content>
+        </sentence>
+        <sentence id="67">
+          <content>They&amp;apost;re either directly involved or very nearby.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

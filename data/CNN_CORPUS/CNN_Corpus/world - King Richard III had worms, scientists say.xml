@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2384" link="http://www.cnn.com.hk/2013/09/04/world/europe/uk-king-richard-worms/index.html" date_published="2013-09-05 03:36:12" category="world" author="Dana Ford and Laura Smith-Spark, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>King Richard III had worms, scientists say</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">Multiple roundworm eggs are found in samples from where his intestines would&amp;apost;ve been.</sentence>
+      <sentence id="2" ids_article_sentences="6, 5">King Richard III&amp;apost;s remains were discovered beneath a parking lot in Leicester.</sentence>
+      <sentence id="3" ids_article_sentences="14">He was killed in 1485, at the Battle of Bosworth Field.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-11 18:03:03" annotation_time="27.435663" mapping_time_divergence="9.145221">
+      <sentence id="3" ids_highlights="1">They know because they found multiple roundworm eggs in soil samples from around his pelvis, where his intestines would have been, according to a study published online in the journal Lancet.</sentence>
+      <sentence id="5" ids_highlights="2">Last year, archaeologists unearthed a body buried beneath a nondescript parking lot in the city of Leicester.</sentence>
+      <sentence id="6" ids_highlights="2">In February, they confirmed the remains were those of Richard III, the last king of England to die on the battlefield.</sentence>
+      <sentence id="14" ids_highlights="3">King Richard was killed at the Battle of Bosworth Field in 1485, at age 32.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>London Even a king can get them.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Researchers working with the remains of King Richard III said on Wednesday that he was infected with roundworms in his intestines.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>They know because they found multiple roundworm eggs in soil samples from around his pelvis, where his intestines would have been, according to a study published online in the journal Lancet.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>Eggs were not found in a sample taken from near the king&amp;apost;s head, and a sample from around his grave showed only scant contamination, the researchers said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>Last year, archaeologists unearthed a body buried beneath a nondescript parking lot in the city of Leicester.</content>
+        </sentence>
+        <sentence id="6">
+          <content>In February, they confirmed the remains were those of Richard III, the last king of England to die on the battlefield.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>The news drew global attention, thanks in part to Richard&amp;apost;s bloodthirsty reputation -- as immportalized in William Shakespeare&amp;apost;s play &amp;quot;Richard III.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>As many as 1.2 billion people in the world are thought to be infected with Ascaris lumbricoides, the kind of roundworm eggs found in the king&amp;apost;s remains, according to the Centers for Disease Control and Prevention.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>Ascaris lives in the intestine and eggs are passed in the feces.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="10">
+          <content>Some people infected show no symptoms, but some can have abdominal discomfort.</content>
+        </sentence>
+        <sentence id="11">
+          <content>In severe cases, the infection can cause intestinal blockage and stunt growth in children, the CDC said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>Cases in present day Britain are rare, according to the National Health Service, with most cases now diagnosed occurring in people who have traveled from parts of the world where roundworm is present.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="13">
+          <content>War of the Roses.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="14">
+          <content>King Richard was killed at the Battle of Bosworth Field in 1485, at age 32.</content>
+        </sentence>
+        <sentence id="15">
+          <content>It was the last fight in the War of the Roses, which ended with Henry VII of the Tudor line on the throne.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="16">
+          <content>The Leicester site is where a church, known as Greyfriars Friary, once stood.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="17">
+          <content>Over the centuries, the whereabouts of the friary&amp;apost;s remnants were forgotten, but it remained in the records as the burial place of Richard III.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="18">
+          <content>Last year, archaeologists began to excavate the parking lot site, and in February announced that they were convinced &amp;quot;beyond reasonable doubt&amp;quot; that the skeleton found there belonged to Richard.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="19">
+          <content>Mitochondrial DNA extracted from the bones was matched to Michael Ibsen, a Canadian cabinetmaker and direct descendant of Richard III&amp;apost;s sister, Anne of York, and a second distant relative, who wished to remain anonymous.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="20">
+          <content>Experts said other evidence -- including battle wounds and signs of scoliosis, or curvature of the spine -- found during the search and more than four months of tests afterward strongly supported the DNA findings.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="21">
+          <content>The king&amp;apost;s remains are due to be reburied in Leicester Cathedral, close to the site of his original grave, next year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

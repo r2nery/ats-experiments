@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="40" link="http://edition.cnn.com/2012/02/15/business/singapore-airshow-drones" date_published="2012-02-16 03:51:37" category="business" author="Dean Irvine, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Doing military&amp;apost;s dangerous, dull and dirty work</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="11">Unmanned Aerial Vehicles -- drones -- now a huge part of military operations across globe.</sentence>
+      <sentence id="2" ids_article_sentences="12">Congressional paper: United States has nearly 7,500 UAVs of all sizes and capabilities.</sentence>
+      <sentence id="3" ids_article_sentences="13">Analysts predict half of U.S. military aircraft will be unmanned within five years.</sentence>
+      <sentence id="4" ids_article_sentences="22">UAVs in missions raise questions over role of humans in combat environments.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-23 13:57:18" annotation_time="38.80933">
+      <sentence id="11" ids_highlights="1">Drones have become a huge part of military operations across the world.</sentence>
+      <sentence id="12" ids_highlights="2">According to a U.S. Congressional research paper, the U.S. has nearly 7,500 UAVs of all sizes and capabilities, making up nearly a third of all its military aircraft, compared to 2005 when they were one in twenty.</sentence>
+      <sentence id="13" ids_highlights="3">That ratio will probably rise in the next few years with some in the industry predicting that within five years half of U.S. military aircraft will be unmanned.</sentence>
+      <sentence id="22" ids_highlights="4">More UAVs in missions also brings into question the role of humans in combat environments.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Lior Peleg cuts an incongruous figure at the Singapore Airshow.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Among the suited middle-aged men selling military hardware she looks more like a beach-loving backpacker, casually dressed in a black tank-top with a camera slung around her neck.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>But what really marks her out among all the arms salesmen touting the newest military technology -- &amp;quot;lethal but affordable&amp;quot; reads one sign above a missile manufacturer -- is that she one of the few people present with operational military experience.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>She&amp;apost;s a former drone pilot for the Israeli military and represents the new face of air force pilots.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>Peleg now works for Israel Aerospace Industries training future operators of unmanned aerial vehicles (UAVs).</content>
+        </sentence>
+        <sentence id="6">
+          <content>Typically they would sit in front of a number of display monitors, often thousands of miles away from the drones themselves, using just a mouse, joystick and ergonomic pad to direct the deadly payload.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>Training takes only a few months depending on the trainee&amp;apost;s knowledge, she says, and it helps to know something about aeronautics and physics.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>But so far removed are modern unmanned aerial vehicle pilots from their counterparts in cockpits, that basic computer knowledge isn&amp;apost;t even essential before learning to fly a UAV.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>&amp;quot;Some (we train) don&amp;apost;t know how to use a mouse,&amp;quot; says Nir Tel-Oren, a senior consultant the Israel Aerospace Industries.</content>
+        </sentence>
+        <sentence id="10">
+          <content>&amp;quot;Not all of our customers are in the modern world,&amp;quot; he adds.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>Drones have become a huge part of military operations across the world.</content>
+        </sentence>
+        <sentence id="12">
+          <content>According to a U.S. Congressional research paper, the U.S. has nearly 7,500 UAVs of all sizes and capabilities, making up nearly a third of all its military aircraft, compared to 2005 when they were one in twenty.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>That ratio will probably rise in the next few years with some in the industry predicting that within five years half of U.S. military aircraft will be unmanned.</content>
+        </sentence>
+        <sentence id="14">
+          <content>Other countries, from the Caucuses to Southeast Asia, are developing their own UAV systems, made possible by their relative cheapness compared to manned aircraft.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="15">
+          <content>From the smallest that can be launched by hand to the largest that can be the same size as a Boeing 737, drones are used to do what most in the industry call the three Ds: dull, dirty and dangerous.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="16">
+          <content>The &amp;quot;dull&amp;quot; part covers missions like border surveillance and maritime patrols that need eyes in the sky for hours at a time.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;Dirty&amp;quot; is much more open to interpretation, but the &amp;quot;dangerous&amp;quot; part is clearly defined as when a pilot in a similar mission could become a casualty.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="18">
+          <content>Tel-Oren was a pilot in the Israeli air force and can recall missions he might rather have not have flown when he was a pilot.</content>
+        </sentence>
+        <sentence id="19">
+          <content>While obviously an advocate for unmanned systems, he suggests their role can be divisive, even within his own family.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="20">
+          <content>&amp;quot;My son is a pilot in the air force and we have a lot of arguments.</content>
+        </sentence>
+        <sentence id="21">
+          <content>I believe that unmanned technology will take over and do some missions that I would prefer my son not to do; he thinks otherwise,&amp;quot; he says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="22">
+          <content>More UAVs in missions also brings into question the role of humans in combat environments.</content>
+        </sentence>
+        <sentence id="23">
+          <content>As well as keeping pilots out of danger, could keeping a human out of an immediate mission area lead to better, calmer decisions being made during critical missions?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="24">
+          <content>&amp;quot;It depends on the mission, but you&amp;apost;ll always need to have that critical thinking capability in a pilot,&amp;quot; says Major Rod Secor of the U.S. Army&amp;apost;s Unmanned Aircraft Systems division.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="25">
+          <content>&amp;quot;You need people to assess situations, especially landing in a hot zone of some sort, but I think it is the future for our defense; more and more unmanned.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="26">
+          <content>Unmanned land vehicles that can offer support behind ground troops or drive themselves in convoys are still being trialed and developed by the likes of Lockheed Martin, but aerial drones are now so prevalent that some in the industry think the market is saturated with manufacturers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="27">
+          <content>Yet as UAV technology improves they are set to become an even more important part of security and military operations -- part of a system that gathers and relays information to other drones, ground control, manned aircraft and satellites.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="28">
+          <content>&amp;quot;They&amp;apost;ve become a network of networks, like the internet,&amp;quot; says Tel-Oren, who says IAI alone has a $10.5 billion backorder for UAVs and the communications systems they are part of.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="29">
+          <content>As well as a different face, Peleg then represents just one small part of this new network changing the way militaries operate.</content>
+        </sentence>
+        <sentence id="30">
+          <content>On a human level they are quite straightforward, &amp;quot;UAVs are easy to fly,&amp;quot; she says.</content>
+        </sentence>
+        <sentence id="31">
+          <content>&amp;quot;Anyone can be trained.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

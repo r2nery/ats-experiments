@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1336" link="http://www.cnn.com/2013/01/08/showbiz/uk-amy-winehouse-inquest/index.html" date_published="2013-01-08 13:00:36" category="showbiz" author="Alexander Felton, CNN" highlights_mapped="true" mapping_error="false">
+  <title>New investigation finds excess alcohol killed singer Amy Winehouse</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">The new probe finds that Amy Winehouse died of accidental alcohol poisoning.</sentence>
+      <sentence id="2" ids_article_sentences="2">Earlier probe that found the same was thrown out when coroner credentials questioned.</sentence>
+      <sentence id="3" ids_article_sentences="3">The 27-year-old singer was found dead at her home in north London in July 2011.</sentence>
+      <sentence id="4" ids_article_sentences="3">She had battled with alcohol and drug abuse for several years.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-27 17:02:44" annotation_time="26.885">
+      <sentence id="1" ids_highlights="1">London A new investigation into the death of singer Amy Winehouse found that she died of accidental alcohol poisoning, authorities in London said Tuesday.</sentence>
+      <sentence id="2" ids_highlights="2">The conclusion was the same as that of an earlier investigation, which had to be thrown out because the coroner did not have the right qualifications.</sentence>
+      <sentence id="3" ids_highlights="3, 4">The Grammy Award-winning artist, who had battled with alcohol and drug abuse for several years, was found dead at her north London home on July 23, 2011, at age 27.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>London A new investigation into the death of singer Amy Winehouse found that she died of accidental alcohol poisoning, authorities in London said Tuesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The conclusion was the same as that of an earlier investigation, which had to be thrown out because the coroner did not have the right qualifications.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The Grammy Award-winning artist, who had battled with alcohol and drug abuse for several years, was found dead at her north London home on July 23, 2011, at age 27.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>The new inquest was ordered in December by the London borough of Camden.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>Dr Shirley Radcliffe, interim coroner for Inner North London, gave a verdict of &amp;quot;death by misadventure&amp;quot; Tuesday, meaning the death is judged to be accidental, with no law broken and no criminal negligence involved.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>Winehouse &amp;quot;had a history of excessive alcohol ingestion for some years and was under the care of a number of physicians,&amp;quot; Radcliffe told the court, according to a summary provided by Camden Council.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;She had had a period of abstinence from alcohol for 12-13 days in July but a few days before her death she began to drink alcohol again.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;Following her death the police attended and deemed the death to be non-suspicious.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Toxicological analysis revealed a level of alcohol commonly associated with fatality.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="10">
+          <content>The original coroner, Suzanne Greenaway, lost her position as assistant deputy coroner, to which she was appointed by her husband, London Coroner Andrew Reid, after it was discovered that she had not been a registered lawyer in the United Kingdom for the requisite five years.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="11">
+          <content>Greenaway&amp;apost;s report also concluded that Winehouse died of alcohol poisoning, in a &amp;quot;death by misadventure.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="12">
+          <content>A pathologist told Greenaway&amp;apost;s court that Winehouse&amp;apost;s blood-alcohol level was 416 milligrams per 100 milliliters of blood.</content>
+        </sentence>
+        <sentence id="13">
+          <content>The level considered lethal is 350 milligrams per 100 milliliters of blood, and the legal limit to drive in Britain is 80 milligrams of alcohol.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="14">
+          <content>The pathologist found no traces of tablets in Winehouse&amp;apost;s stomach and said her organs appeared to be normal.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="15">
+          <content>The singer&amp;apost;s soulful, throaty vocals brought her stardom in 2007, but her troubled off-stage life -- chronicled in her top 10 hit &amp;quot;Rehab&amp;quot; -- won her notoriety.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="16">
+          <content>Her death came less than two months after her latest release from a rehabilitation program and weeks after she was booed offstage by disappointed fans in Serbia.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="17">
+          <content>The tattooed London-born singer-songwriter&amp;apost;s first album, &amp;quot;Frank,&amp;quot; debuted in 2003, when she was 19.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="18">
+          <content>International success came with her 2007 album &amp;quot;Back to Black.&amp;quot;</content>
+        </sentence>
+        <sentence id="19">
+          <content>She dominated the 2008 Grammys, winning five awards that night and delivering, via satellite from London, a strong performance of &amp;quot;Rehab.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2084" link="http://www.cnn.com/2012/01/31/world/meast/syria-assad-profile" date_published="2012-01-31 15:56:24" category="world" author="Peter Wilkinson, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Bashar al-Assad: President defined by violence</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">Bashar al-Assad indicated he would be different kind of leader to his father.</sentence>
+      <sentence id="2" ids_article_sentences="8">But many say al-Assad&amp;apost;s promises have largely not been delivered.</sentence>
+      <sentence id="3" ids_article_sentences="20">One former vice-president says Bashar al-Assad is both brutal and indecisive .</sentence>
+      <sentence id="4" ids_article_sentences="57">Al-Assad and his close-knit regime are digging in for what could be long war of attrition.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-09 10:51:06" annotation_time="32.433502">
+      <sentence id="3" ids_highlights="1">In his inauguration speech, al-Assad indicated he would be a very different kind of leader to his father.</sentence>
+      <sentence id="8" ids_highlights="2">But while there have been some changes during his rule, many say al-Assad&amp;apost;s promises have largely not been delivered.</sentence>
+      <sentence id="20" ids_highlights="3">But Abdel Halim Khaddam, vice-president under both Bashar and his father, says the younger al-Assad is both brutal and indecisive.</sentence>
+      <sentence id="57" ids_highlights="4">Now al-Assad and members of his close-knit regime are digging in for what could be a long war of attrition.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Before the Arab Spring came the Damascus Spring.</content>
+        </sentence>
+        <sentence id="2">
+          <content>When Bashar al-Assad succeeded his father Hafez Assad in 2000, there was the promise of a modern and more democratic Syria.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>In his inauguration speech, al-Assad indicated he would be a very different kind of leader to his father.</content>
+        </sentence>
+        <sentence id="4">
+          <content>&amp;quot;I shall try my very best to lead our country towards a future that fulfils the hopes and legitimate ambitions of our people,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>And for a while that promise was kept.</content>
+        </sentence>
+        <sentence id="6">
+          <content>His official website says he has built free-trade zones, licensed more private newspapers and private universities, and fought government waste and corruption.</content>
+        </sentence>
+        <sentence id="7">
+          <content>He has also worked on social and economic reform.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="8">
+          <content>But while there have been some changes during his rule, many say al-Assad&amp;apost;s promises have largely not been delivered.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="9">
+          <content>Human Rights Watch has called his time as president &amp;quot;the wasted decade&amp;quot; with a media that remains controlled by the state, a monitored and censored internet and prisons still filled with dissidents.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>Two former regime insiders -- now its opponents -- recalled their time with the younger al-Assad.</content>
+        </sentence>
+        <sentence id="11">
+          <content>Former vice president Abdel Halim Khaddam said Bashar was often the victim of his elder brother&amp;apost;s cruelty.</content>
+        </sentence>
+        <sentence id="12">
+          <content>&amp;quot;His brother Basil bullied him as a child.</content>
+        </sentence>
+        <sentence id="13">
+          <content>His father never gave him as much attention as Basil,&amp;quot; Khaddam said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="14">
+          <content>Al-Assad&amp;apost;s uncle Rifaat, who left Syria in 1984 after being involved in a failed coup, also recalled the future president.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="15">
+          <content>&amp;quot;He is very different than his father.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Hafez was a leader, the head of the entire regime, while Bashar was never that close to being one and never fell within that framework.</content>
+        </sentence>
+        <sentence id="17">
+          <content>He is being perceived as the leader but he follows what the regime decides on his behalf.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="18">
+          <content>Al-Assad himself said reform faltered because of unrest in neighboring states, Lebanon and Iraq.</content>
+        </sentence>
+        <sentence id="19">
+          <content>He told the Wall Street Journal last year: &amp;quot;There are many things that we wanted to do in 2005 we are planning to do in the year 2012, seven years later.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="20">
+          <content>But Abdel Halim Khaddam, vice-president under both Bashar and his father, says the younger al-Assad is both brutal and indecisive.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="21">
+          <content>&amp;quot;Bashar&amp;apost;s problem is that he listens to everything but denies and forgets quickly.</content>
+        </sentence>
+        <sentence id="22">
+          <content>You discuss an issue with him in the morning and another person comes along and changes his mind.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="23">
+          <content>&amp;quot;Politically, Bashar does not have a consistent ideology; he changes his opinion according to his interests and that of the regime&amp;apost;s.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="24">
+          <content>And the regime is a family affair.</content>
+        </sentence>
+        <sentence id="25">
+          <content>Al-Assad&amp;apost;s younger brother Maher commands an elite division of the army, and is accused of widespread human rights abuses.</content>
+        </sentence>
+        <sentence id="26">
+          <content>His cousin Rami Makhlouf is the richest man in Syria.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="27">
+          <content>The Assads belong to Syria&amp;apost;s Alawite minority, who according to the president&amp;apost;s uncle Rifaat, are driven by fears they could be overwhelmed.</content>
+        </sentence>
+        <sentence id="28">
+          <content>&amp;quot;There is no doubt that the Alawites are a minority who are in fear of the outcome and they are driven by that fear factor,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="29">
+          <content>Despite the brutal crackdown over the last year in Syria, in which thousands have died, al-Assad maintains he is not in charge of Syria&amp;apost;s military.</content>
+        </sentence>
+        <sentence id="30">
+          <content>He told ABC&amp;apost;s Barbara Walters: &amp;quot;They are not my forces.</content>
+        </sentence>
+        <sentence id="31">
+          <content>They are forces for the government.</content>
+        </sentence>
+        <sentence id="32">
+          <content>I don&amp;apost;t own them.</content>
+        </sentence>
+        <sentence id="33">
+          <content>I&amp;apost;m president.</content>
+        </sentence>
+        <sentence id="34">
+          <content>I don&amp;apost;t own the country.</content>
+        </sentence>
+        <sentence id="35">
+          <content>So they are not my forces.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="36">
+          <content>Wouldn&amp;apost;t al-Assad, the commander in chief, have had to give the order for any military actions?</content>
+        </sentence>
+        <sentence id="37">
+          <content>&amp;quot;No, no no,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="38">
+          <content>Not by your command?</content>
+        </sentence>
+        <sentence id="39">
+          <content>&amp;quot;No,&amp;quot; he said, &amp;quot;on no one&amp;apost;s command.</content>
+        </sentence>
+        <sentence id="40">
+          <content>There was no command to kill or to be brutal.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="41">
+          <content>Al-Assad said those members of the armed forces who &amp;quot;went too far&amp;quot; had been disciplined.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="42">
+          <content>But former vice-president Khaddam is in no doubt who does give the orders to kill: &amp;quot;Bashar Al-Assad and no one else.</content>
+        </sentence>
+        <sentence id="43">
+          <content>He gives out orders to use all means of force to crush the revolution.</content>
+        </sentence>
+        <sentence id="44">
+          <content>He is surrounded by close aides and a security apparatus that advise him, but he decides.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="45">
+          <content>It wasn&amp;apost;t expected that Bashar would carry on the family&amp;apost;s political dynasty.</content>
+        </sentence>
+        <sentence id="46">
+          <content>He didn&amp;apost;t seem to have the personality for the job; he wasn&amp;apost;t deeply involved in military or government matters, according to &amp;quot;Inheriting Syria: Bashar&amp;apost;s Trial by Fire,&amp;quot; a biography by Flynt Leverett, who worked as an expert on Syria for the CIA in the 1990s and was the senior director for Middle East affairs at the National Security Council in the early 2000s.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="47">
+          <content>Because Bashar&amp;apost;s older brother Basil was expected to succeed his father, Bashar al-Assad went to London in the 1990s and studied ophthalmology, and headed the Syrian Computer Society.</content>
+        </sentence>
+        <sentence id="48">
+          <content>&amp;quot;Dr. Bashar,&amp;quot; as he was widely known, liked to windsurf and play volleyball.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="49">
+          <content>He is believed to have started dating British-born Asma al-Akhras during this time.</content>
+        </sentence>
+        <sentence id="50">
+          <content>Bashar was called back to Syria in 1994 when Basil died in a car wreck.</content>
+        </sentence>
+        <sentence id="51">
+          <content>This turn of events made him first in line to rule Syria, and he was appointed president by Syria&amp;apost;s rubber-stamp Parliament in 2000 after his father died.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="52">
+          <content>Before 2000 ended, he and Asma were married.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="53">
+          <content>Shortly after the Arab Spring started in early 2011, al-Assad made apparent moves toward change in Syria.</content>
+        </sentence>
+        <sentence id="54">
+          <content>Initially, protesters wanted basic reforms, more freedoms, a multiparty political system and an end to emergency law.</content>
+        </sentence>
+        <sentence id="55">
+          <content>Some of these measures have, on paper, been implemented by al-Assad, but they were far too little and, by the time they came about, too late.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="56">
+          <content>After almost a year of violent protests, opposition supporters have lost any faith they ever had in al-Assad&amp;apost;s ability to deliver reform, and simply want an end to his rule and true democratic elections.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="57">
+          <content>Now al-Assad and members of his close-knit regime are digging in for what could be a long war of attrition.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

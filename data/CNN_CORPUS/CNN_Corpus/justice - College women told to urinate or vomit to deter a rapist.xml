@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="482" link="http://www.cnn.com/2013/02/20/justice/colorado-rape-prevention-guidelines" date_published="2013-02-20 08:22:39" category="justice" author="Lateef Mungin, CNN" highlights_mapped="true" mapping_error="false">
+  <title>College women told to urinate or vomit to deter a rapist</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">The list was billed as last resort to deter a rape.</sentence>
+      <sentence id="2" ids_article_sentences="8">Conservative blogger Michelle Malkin criticized the list.</sentence>
+      <sentence id="3" ids_article_sentences="5">The university took the list down and apologized.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-14 13:37:41" annotation_time="100.147995">
+      <sentence id="2" ids_highlights="1">The list of 10 tips by the University of Colorado at Colorado Springs was billed as &amp;quot;last resort&amp;quot; options to deter a sexual assault.</sentence>
+      <sentence id="5" ids_highlights="3">By Tuesday night, the list was taken down and replaced by an explanation and an apology.</sentence>
+      <sentence id="8" ids_highlights="2">Conservative blogger Michelle Malkin was one of many who criticized the eyebrow-raising list using the hashtag #UCCSTips.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>A Colorado school has caused a stir with an advisory that suggested women could urinate or vomit to deter a rape.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The list of 10 tips by the University of Colorado at Colorado Springs was billed as &amp;quot;last resort&amp;quot; options to deter a sexual assault.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;Tell your attacker that you have a disease or are menstruating,&amp;quot; read one tip.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>&amp;quot;Vomiting or urinating may also convince the attacker to leave you alone,&amp;quot; read another.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>By Tuesday night, the list was taken down and replaced by an explanation and an apology.</content>
+        </sentence>
+        <sentence id="6">
+          <content>But it was too late.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>The backlash had hit the Internet, and a hashtag on Twitter was created.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>Conservative blogger Michelle Malkin was one of many who criticized the eyebrow-raising list using the hashtag #UCCSTips.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>&amp;quot;New #UCCSTips for women: If vomiting or urinating doesn&amp;apost;t deter your attacker, try passing gas,&amp;quot; Malkin tweeted.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;#UCCSTips or if all else fails, ask attacker to pull your finger!&amp;quot;</content>
+        </sentence>
+        <sentence id="11">
+          <content>Jason Griggs tweeted.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>Some women on the Colorado campus said they were confused by the list.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="13">
+          <content>&amp;quot;Tell your attacker you have a disease or menstruating?</content>
+        </sentence>
+        <sentence id="14">
+          <content>I don&amp;apost;t understand how that will keep someone from attacking you,&amp;quot; student Leah McFann told CNN affiliate KRDO.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>Some on campus also wondered why the list did not emphasize more conventional ways of fighting back.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="16">
+          <content>Tom Hutton, a spokesman for the university, said the list had been taken out of context.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;It was part of supplemental information intended for women who had completed a self-defense class on campus,&amp;quot; Hutton told KRDO.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="18">
+          <content>Hutton said the list was created in 2006 but may have resurfaced because the issue of rape on campus had been in the news recently in Colorado.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="19">
+          <content>Last week, Colorado lawmakers debated legislation that would ban firearms in college campus buildings.</content>
+        </sentence>
+        <sentence id="20">
+          <content>The debate made headlines after Democratic State Rep. Joe Salazar made controversial statements about ways to protect women on campuses.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="21">
+          <content>&amp;quot;Because you just don&amp;apost;t know who you are going to be shooting at,&amp;quot; Salazar said last week.</content>
+        </sentence>
+        <sentence id="22">
+          <content>&amp;quot;If you feel like you&amp;apost;re going to be raped or if you feel like someone&amp;apost;s been following you around or if you feel like you&amp;apost;re in trouble and when you may actually not be -- that you pop out that gun and you pop-pop a round at somebody.</content>
+        </sentence>
+        <sentence id="23">
+          <content>And you might have just made a mistake.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="24">
+          <content>Salazar later apologized for the comment.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="328" link="http://www.cnn.com/2014/02/25/health/lets-move-anniversary-progress" date_published="2014-02-25 17:45:17" category="health" author="Jacque Wilson, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Obesity rates drop for 2- to 5-year-olds</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">A new study shows a decrease in obesity rates for kids ages 2-5.</sentence>
+      <sentence id="2" ids_article_sentences="3">Research has shown a child&amp;apost;s lifetime obesity risk is established by age 5.</sentence>
+      <sentence id="3" ids_article_sentences="4">Michelle Obama proposes new limits on food/beverage advertising in schools.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-18 13:29:11" annotation_time="66.108">
+      <sentence id="1" ids_highlights="1">Obesity rates in children 2 to 5 years old have decreased significantly over the past decade, according to a new study published Tuesday.</sentence>
+      <sentence id="3" ids_highlights="2">A big part of a child&amp;apost;s obesity risk is already established by age 5, according to a study published in January.</sentence>
+      <sentence id="4" ids_highlights="3">The study findings were announced the same day as first lady Michelle Obama proposed new rules to limit the types of foods and beverages that can be advertised in schools and marked the fourth anniversary of her Let&amp;apost;s Move!</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Obesity rates in children 2 to 5 years old have decreased significantly over the past decade, according to a new study published Tuesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>While there were no significant changes in obesity rates for most ages between 2003-2004 and 2011-2012, researchers saw a 43% decline in this group&amp;apost;s rates -- from 13.9% to 8.4%, according to the study published in JAMA, the journal of the American Medical Association.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>A big part of a child&amp;apost;s obesity risk is already established by age 5, according to a study published in January.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>The study findings were announced the same day as first lady Michelle Obama proposed new rules to limit the types of foods and beverages that can be advertised in schools and marked the fourth anniversary of her Let&amp;apost;s Move!</content>
+        </sentence>
+        <sentence id="5">
+          <content>initiative to combat child obesity.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>Under the suggested federal regulations, companies would no longer be permitted to use logos of high-calorie products such as regular sodas on cups, vending machines or posters.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>The move is part of the first lady&amp;apost;s ongoing efforts to combat childhood obesity in America.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>According to the new JAMA study, close to 17% of children aged 2 to 19 were obese in 2011-2012.</content>
+        </sentence>
+        <sentence id="9">
+          <content>That number has remained fairly constant since 2003-2004, dropping just 0.2%.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>More than a third of adults over 20 were obese that same year, a number that held steady over the study&amp;apost;s time period.</content>
+        </sentence>
+        <sentence id="11">
+          <content>The prevalence is often higher in women and in Hispanic and non-Hispanic black populations.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>Four years ago this month, Obama announced that she was taking on childhood obesity with a new initiative called Let&amp;apost;s Move!</content>
+        </sentence>
+        <sentence id="13">
+          <content>The comprehensive program was part parental education, part government reform -- with a bit of celebrity encouragement thrown in.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;About one-third of our children are overweight or obese.</content>
+        </sentence>
+        <sentence id="15">
+          <content>None of us want that for our country,&amp;quot; Obama said at the time.</content>
+        </sentence>
+        <sentence id="16">
+          <content>&amp;quot;It&amp;apost;s time to get moving.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="17">
+          <content>Let&amp;apost;s Move!</content>
+        </sentence>
+        <sentence id="18">
+          <content>had several objectives under its broader ambition of &amp;quot;solving the challenge of childhood obesity within a generation.&amp;quot;</content>
+        </sentence>
+        <sentence id="19">
+          <content>Obama wanted to increase physical activity and improve nutrition in schools, overhaul nutrition labels to make healthy choices easier for families, decrease the number of calories in restaurant meals and eliminate food deserts -- areas without access to fresh, healthy foods -- in cities across America.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="20">
+          <content>In December 2010, President Barack Obama signed the Healthy, Hunger-Free Kids Act into law, which was designed to encourage better eating habits in schools by giving the federal government more authority to set standard for food sold on school grounds.</content>
+        </sentence>
+        <sentence id="21">
+          <content>The $4.5 billion act provided more money to subsidize free meals and help administrators offset the higher costs of including more fruits and vegetables in school lunches.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="22">
+          <content>Then in June 2011, the USDA dismantled the traditional food pyramid and replaced it with a new icon called MyPlate.</content>
+        </sentence>
+        <sentence id="23">
+          <content>The plate emphasizes fruits and vegetables, telling Americans to fill half of every plate they eat with produce.</content>
+        </sentence>
+        <sentence id="24">
+          <content>Another quarter of the plate should be lean protein; the last quarter should be whole grains.</content>
+        </sentence>
+        <sentence id="25">
+          <content>A small portion of dairy -- perhaps a glass of low-fat milk -- can be added on the side.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="26">
+          <content>The first lady also tackled nutrition and physical education in childcare facilities around the country.</content>
+        </sentence>
+        <sentence id="27">
+          <content>Let&amp;apost;s Move!</content>
+        </sentence>
+        <sentence id="28">
+          <content>offers guidelines for childcare providers: one to two hours of physical activity a day; limited screen time; more fruits and vegetables at meals served family-style when possible; no fried foods and no sugary drinks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="29">
+          <content>&amp;quot;Food manufacturers have pledged to cut 1.5 trillion calories from the products they sell.</content>
+        </sentence>
+        <sentence id="30">
+          <content>Local grocers and national chains such as Walgreens and SuperValu are building new supermarkets and expanding existing stores to sell fresh food in 1,500 underserved communities,&amp;quot; Obama wrote in an op-ed for CNN in 2012.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="31">
+          <content>&amp;quot;Restaurants are transforming their kids&amp;apost; menus, packing them with healthier options.</content>
+        </sentence>
+        <sentence id="32">
+          <content>Mayors are planting gardens and refurbishing parks.</content>
+        </sentence>
+        <sentence id="33">
+          <content>Congregations are sponsoring summer nutrition programs for kids and exercise ministries for families.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="34">
+          <content>Even Disney and the Department of Defense are jumping on board.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="35">
+          <content>In January 2012, the USDA issued its new rules for school meals, which are being phased in over a three-year period.</content>
+        </sentence>
+        <sentence id="36">
+          <content>Cafeterias must offer fruits and vegetables at every meal, reduce sodium and some types of fat and keep to calorie minimums and maximums.</content>
+        </sentence>
+        <sentence id="37">
+          <content>The government agency followed up six months later with new rules for snack foods.</content>
+        </sentence>
+        <sentence id="38">
+          <content>The regulations set limits for fat, salt and sugar sold in school vending machines and snack bars.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="39">
+          <content>The USDA has faced opposition over the new rules -- from student athletes who say they&amp;apost;re not getting enough calories to administrators who say kids just aren&amp;apost;t buying the healthier options.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="40">
+          <content>Which raises the question: With all these new guidelines and regulations, are kids really getting any healthier?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="41">
+          <content>It&amp;apost;s a difficult question to answer, as the most comprehensive data collections about obesity are still a few years behind.</content>
+        </sentence>
+        <sentence id="42">
+          <content>But there have been signs of progress.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="43">
+          <content>Steven Hanus, a elementary physical education teacher in the Chicago suburbs, says he&amp;apost;s noticed a change in his students -- and their parents -- over the past five years.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="44">
+          <content>Overall, the kids are in better shape, he says.</content>
+        </sentence>
+        <sentence id="45">
+          <content>Parents are asking Hanus more questions as well, about how to keep their kids moving at home.</content>
+        </sentence>
+        <sentence id="46">
+          <content>And he&amp;apost;s received strong support from administrators in his quest to find new ways to interest students in fitness.</content>
+        </sentence>
+        <sentence id="47">
+          <content>Recently, his first-graders were given pedometers for the first time.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="48">
+          <content>&amp;quot;From our top level down, the initiative to keep kids moving and active has definitely been a big part of the district,&amp;quot; Hanus says.</content>
+        </sentence>
+        <sentence id="49">
+          <content>&amp;quot;It&amp;apost;s made us all a little more aware of how active we are.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="50">
+          <content>Another study published in August 2013 that analyzed data from preschool children in low-income families showed a small but significant decline in the group&amp;apost;s obesity rates between 2008 and 2011.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="51">
+          <content>&amp;quot;It&amp;apost;s a bright spot for our nation&amp;apost;s young kids, but the fight is very far from over,&amp;quot; CDC Director Dr. Tom Frieden said at the time.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="52">
+          <content>Obama agrees.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="53">
+          <content>&amp;quot;While childhood obesity rates are beginning to fall, we still have a long way to go before we solve this problem once and for all,&amp;quot; the first lady said Tuesday.</content>
+        </sentence>
+        <sentence id="54">
+          <content>&amp;quot;We can&amp;apost;t slow down and we can&amp;apost;t turn back now.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="55">
+          <content>Let&amp;apost;s Move!</content>
+        </sentence>
+        <sentence id="56">
+          <content>recommends children engage in physical activity for a total of 60 minutes every day, and adults should move for 30 minutes daily.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="57">
+          <content>Show the White House how you move on Twitter, Facebook, Instagram and Vine using the hashtag #LetsMove.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

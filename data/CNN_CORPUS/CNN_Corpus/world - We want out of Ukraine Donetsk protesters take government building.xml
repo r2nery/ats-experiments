@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2951" link="http://www.cnn.com/2014/04/08/world/europe/ukraine-donetsk-protesters-walsh/index.html" date_published="2014-04-08 16:55:57" category="world" author="Nick Paton Walsh, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>We want out of Ukraine: Donetsk protesters take government building</title>
+  <keywords>Ukraine Donetsk protesters,Ukraine crisis</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">Hundreds of protesters seize a government building in Donetsk, eastern Ukraine.</sentence>
+      <sentence id="2" ids_article_sentences="3">They declare &amp;quot;People&amp;apost;s Republic of Donetsk,&amp;quot; call for referendum to secede from Ukraine.</sentence>
+      <sentence id="3" ids_article_sentences="27, 26">Ukrainian military says it won&amp;apost;t retake building yet, but acting President warns of prosecutions.</sentence>
+      <sentence id="4" ids_article_sentences="19">Ukrainian President Oleksandr Turchynov accuses Russia of stoking eastern Ukraine tensions.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-01 16:05:27" annotation_time="58.392" mapping_time_divergence="29.196">
+      <sentence id="3" ids_highlights="1, 2">Two days after smashing their way in, hundreds of protesters have transformed this government building in the industrial city of Donetsk, eastern Ukraine, into the self-declared &amp;quot;People&amp;apost;s Republic of Donetsk.&amp;quot;</sentence>
+      <sentence id="19" ids_highlights="4">Acting Ukrainian President Oleksandr Turchynov blames &amp;quot;separatist groups coordinated by Russian special services&amp;quot; for the revolts in eastern Ukraine, which he said echoed events leading to the Russian annexation of Crimea three weeks ago.</sentence>
+      <sentence id="26" ids_highlights="3">Ukrainian officials say they won&amp;apost;t storm the building for now.</sentence>
+      <sentence id="27" ids_highlights="3">But the acting President says those who have seized buildings will be treated as &amp;quot;terrorists&amp;quot; and prosecuted with the full force of the law.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Masked men with metal rods and Molotov cocktails prowl the Russian flag-draped balcony, surveying the crowds below.</content>
+        </sentence>
+        <sentence id="2">
+          <content>Stacks of tires topped with ribbons of razor wire line a makeshift barricade around the main entrance.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>Two days after smashing their way in, hundreds of protesters have transformed this government building in the industrial city of Donetsk, eastern Ukraine, into the self-declared &amp;quot;People&amp;apost;s Republic of Donetsk.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>From the clumsily erected bulwarks to the lack of a leader or concrete plan, the scenes are similar to the pro-European rallies in Kiev&amp;apost;s Maidan Square in recent months, with one major difference: Many of these protesters say they want to join Russia and have called for a referendum on secession from Ukraine to be held by May 11.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>The protesters who let us into the building are eager to show they are here entirely peacefully, but it is clear they are prepared for a fight.</content>
+        </sentence>
+        <sentence id="6">
+          <content>Doors have been locked and stairwells blocked at the top of the building to prevent the Ukrainian military from storming in from above.</content>
+        </sentence>
+        <sentence id="7">
+          <content>They&amp;apost;ve smashed the pavement outside the building to use as stones.</content>
+        </sentence>
+        <sentence id="8">
+          <content>A makeshift hospital and temporary cafe have been constructed, and locals are keeping the men and women inside stocked up on food and medical supplies.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="9">
+          <content>Some of the protesters inside the building are happy to see us; others seem ready to attack us with their bats at a moment&amp;apost;s notice.</content>
+        </sentence>
+        <sentence id="10">
+          <content>Some are aggressively anti-American.</content>
+        </sentence>
+        <sentence id="11">
+          <content>One of the older men asks us why Americans are sticking their nose into Ukrainian affairs.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="12">
+          <content>One man tells us that he&amp;apost;s from the Eastern Front, a new local group, and that help is on the way.</content>
+        </sentence>
+        <sentence id="13">
+          <content>He says there are 6,000 members of his group who stand ready to &amp;quot;protect the fatherland.&amp;quot;</content>
+        </sentence>
+        <sentence id="14">
+          <content>Others are hopeful that a vote to secede from Ukraine can be held sooner than protesters announced Monday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="15">
+          <content>When the power went out Monday night, many inside believed Ukraine&amp;apost;s special forces were coming to retake the building.</content>
+        </sentence>
+        <sentence id="16">
+          <content>But the Ukrainian military is nowhere to be seen, and the mood of the protesters is growing ever more defiant.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="17">
+          <content>Donetsk is the hometown of ousted Ukrainian President Viktor Yanukovych, whose pro-Russian government was toppled in a popular revolt in February.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="18">
+          <content>Nobody knows for sure what role, if any, Russia is playing in this latest bout of unrest in Ukraine.</content>
+        </sentence>
+        <sentence id="19">
+          <content>Acting Ukrainian President Oleksandr Turchynov blames &amp;quot;separatist groups coordinated by Russian special services&amp;quot; for the revolts in eastern Ukraine, which he said echoed events leading to the Russian annexation of Crimea three weeks ago.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="20">
+          <content>Since then, Russia has amassed thousands of troops on its border with eastern Ukraine.</content>
+        </sentence>
+        <sentence id="21">
+          <content>And Russia&amp;apost;s Foreign Ministry said reports that protesters are facing a crackdown by Ukrainian authorities are of particular concern.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;We are calling for the immediate cessation of any military preparations, which could lead to civil war,&amp;quot; it said in a statement on its official website.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="23">
+          <content>Protesters say that local complaints, not Moscow, are driving anti-government sentiments here in Donetsk.</content>
+        </sentence>
+        <sentence id="24">
+          <content>One man, who calls himself Andre, says that Ukraine&amp;apost;s ongoing political crisis has hit his wages and that he can no longer afford to feed his family.</content>
+        </sentence>
+        <sentence id="25">
+          <content>He tells me that he has simply had enough.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="26">
+          <content>Ukrainian officials say they won&amp;apost;t storm the building for now.</content>
+        </sentence>
+        <sentence id="27">
+          <content>But the acting President says those who have seized buildings will be treated as &amp;quot;terrorists&amp;quot; and prosecuted with the full force of the law.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="28">
+          <content>In the meantime, protesters say they will continue to fortify their makeshift fortress in Donetsk, and their tiny pocket of grievances and whims, despite its size, seems to now be on the front line of a massive struggle for the future of Ukraine.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="399" link="http://www.cnn.com/2012/01/25/health/usda-school-lunches" date_published="2012-01-25 18:48:54" category="health" author="Madison Park, CNN" highlights_mapped="true" mapping_error="false">
+  <title>USDA issues new rules for school meals</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">School meals will have to offer fruits and vegetables to students every day.</sentence>
+      <sentence id="2" ids_article_sentences="2">USDA rules affect both public and private schools.</sentence>
+      <sentence id="3" ids_article_sentences="7">New rules establish a calorie minimum and maximum based on children&amp;apost;s age.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-26 12:49:43" annotation_time="712.6167">
+      <sentence id="1" ids_highlights="1">School meals will have to offer fruits and vegetables to students every day under standards issued by the United States Department of Agriculture on Wednesday.</sentence>
+      <sentence id="2" ids_highlights="2">The meal programs, which feed about 32 million students in public and private schools, will have to reduce sodium, saturated fat and trans fats.</sentence>
+      <sentence id="7" ids_highlights="3">Under the new rules, school meals will have calorie minimums and maximums per meal based on the child&amp;apost;s age.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>School meals will have to offer fruits and vegetables to students every day under standards issued by the United States Department of Agriculture on Wednesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The meal programs, which feed about 32 million students in public and private schools, will have to reduce sodium, saturated fat and trans fats.</content>
+        </sentence>
+        <sentence id="3">
+          <content>Schools must also offer more whole grains as well as fat-free or low-fat milk varieties.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>These standards go into effect July 1 and will be phased in over a three-year period, according to the USDA.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>The new nutrition standards are largely based on recommendations by the Institute of Medicine of the National Academies, as part of efforts to curb childhood obesity.</content>
+        </sentence>
+        <sentence id="6">
+          <content>Recent numbers show that about 17% of children in the United States are obese.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>Under the new rules, school meals will have calorie minimums and maximums per meal based on the child&amp;apost;s age.</content>
+        </sentence>
+        <sentence id="8">
+          <content>For kindergarteners to fifth-graders, meals must contain 550 to 650 calories, and for 9th- to 12th-graders, meals must have 450 to 600 calories.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>Children will not be forced to take the vegetables and fruits onto their plates; the standards require that the various food groups be offered.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>Health groups reacted to the rules mostly favorably, although a controversy erupted in November after Congress decided that two tablespoons of tomato sauce was good enough to categorize a slice of pizza as a vegetable.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>Kevin Concannon, the USDA under secretary for Food, Nutrition and Consumer Services, said he wasn&amp;apost;t concerned with the tomato paste controversy at this point.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;I&amp;apost;m confident we have a core healthy set of proposed diets for children,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="13">
+          <content>&amp;quot;We can, within that, accommodate those recommendations received from Congress.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>Food and beverages sold in vending machines will also have to meet nutritional standards.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="15">
+          <content>First lady Michelle Obama and USDA Secretary Tom Vilsack unveiled the standards Wednesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;When we send our kids to school, we expect that they won&amp;apost;t be eating the kind of fatty, salty, sugary foods that we try to keep them from eating at home,&amp;quot; Obama said in a news release.</content>
+        </sentence>
+        <sentence id="17">
+          <content>&amp;quot;We want the food they get at school to be the same kind of food we would serve at our own kitchen tables.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="18">
+          <content>The USDA offered a weekly sample lunch menu with before and after comparisons.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="19">
+          <content>Before the new rules, a standard elementary school lunch menu might consist of cheese pizza, canned pineapple, tater tots and chocolate milk.</content>
+        </sentence>
+        <sentence id="20">
+          <content>A healthier meal under the new standards would have whole-wheat cheese pizza, baked sweet potato fries, raw grape tomatoes, low-fat ranch dip, applesauce and low-fat milk.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="21">
+          <content>Some parts of the major revamp of school lunches have been rejected by students.</content>
+        </sentence>
+        <sentence id="22">
+          <content>The Los Angeles Times reported in December that students trashed the untouched healthier meals and started a booming underground market for junk food.</content>
+        </sentence>
+        <sentence id="23">
+          <content>Cafeteria workers in Chicago Public Schools reported that kids were not eating the healthy meals, according to the Chicago Tribune.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="24">
+          <content>&amp;quot;If it&amp;apost;s not delicious, kids aren&amp;apost;t going to eat it,&amp;quot; said Sam Kass, assistant White House chef.</content>
+        </sentence>
+        <sentence id="25">
+          <content>&amp;quot;I have lots of confidence in school chefs across the country who are working very hard to try to put delicious foods on the plates of kids.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="26">
+          <content>He cited a Chefs Move to Schools Program, involving 35,000 school chefs who strive to innovate for better-tasting, healthy meals for kids.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="27">
+          <content>The new standards are expected to cost $3.2 billion over the next five years, which was less than the initial estimated price, according to the USDA.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="28">
+          <content>The Healthy, Hunger-Free Kids Act of 2010 gave the federal government more authority to set standards for food sold in vending machines and elsewhere on school grounds.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="29">
+          <content>&amp;quot;The new school meal standards are one of the most important advances in nutrition in decades,&amp;quot; said Margo Wootan, nutrition policy director at the Center for Science in the Public Interest.</content>
+        </sentence>
+        <sentence id="30">
+          <content>&amp;quot;They&amp;apost;re much needed, given high childhood obesity rates and the poor state of our children&amp;apost;s diets.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="31">
+          <content>The School Nutrition Association, which represents 55,000 school nutrition professionals, said, &amp;quot;Through healthier choices and nutrition education, school meal programs have made tremendous strides to promote better food choices for America&amp;apost;s students.</content>
+        </sentence>
+        <sentence id="32">
+          <content>These national nutrition standards will help school nutrition professionals build on their successes.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

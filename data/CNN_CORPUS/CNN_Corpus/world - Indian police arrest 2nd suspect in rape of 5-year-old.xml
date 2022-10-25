@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2286" link="http://edition.cnn.com/2013/04/22/world/asia/india-child-rape/index.html" date_published="2013-04-22 08:52:47" category="world" author="Jethro Mullen and Aliza Kassim, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Indian police arrest 2nd suspect in rape of 5-year-old</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="9">Allegations police tried to bribe the girl&amp;apost;s family to keep quiet are being investigated.</sentence>
+      <sentence id="2" ids_article_sentences="2">The second suspect is alleged to be an accomplice in the attack, police said.</sentence>
+      <sentence id="3" ids_article_sentences="2">The attack has prompted protests in the streets of New Delhi.</sentence>
+      <sentence id="4" ids_article_sentences="15">More than 7,000 child rape cases were reported in India in 2011.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-11 17:59:07" annotation_time="115.08866" mapping_time_divergence="28.772165">
+      <sentence id="2" ids_highlights="2, 3">The second suspect is accused of being an accomplice in the case, which has prompted protests in the streets of New Delhi.</sentence>
+      <sentence id="9" ids_highlights="1">The situation has taken on another sordid aspect after the girl&amp;apost;s family said that police officers had tried to bribe them to keep quiet about the case.</sentence>
+      <sentence id="15" ids_highlights="4">In a recent report, the Asian Center For Human Rights cited statistics it said showed 48,338 child rape cases were reported in India between 2001 and 2011.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Indian police have arrested a second man in connection with the rape of a 5-year-old girl in New Delhi, a police spokesman said Monday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The second suspect is accused of being an accomplice in the case, which has prompted protests in the streets of New Delhi.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>He is being transferred to New Delhi from Bihar state in eastern India for questioning and DNA tests, said Delhi police spokesman Rajan Bhagat.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>Police say the first suspect arrested in the case, Manoj Kumar, told them about the alleged accomplice during questioning.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>Kumar, the girl&amp;apost;s neighbor, is accused of abducting her on April 14, locking her in his home and raping her repeatedly.</content>
+        </sentence>
+        <sentence id="6">
+          <content>She was found semiconscious three days later.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>Doctors said they had to remove objects, including candle pieces and a small bottle, from the girl&amp;apost;s genitals.</content>
+        </sentence>
+        <sentence id="8">
+          <content>Her condition has since stabilized.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>The situation has taken on another sordid aspect after the girl&amp;apost;s family said that police officers had tried to bribe them to keep quiet about the case.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>Senior police officials have ordered a separate investigation into those allegations.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>The assault on the 5-year-old came just four months after a 23-year-old physiotherapy student was gang-raped in a bus in New Delhi, setting off furious protests in India.</content>
+        </sentence>
+        <sentence id="12">
+          <content>She later died at a Singapore hospital.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>That attack raised a lot of questions about the treatment of women in India, with the country&amp;apost;s news media suddenly turning their attention to some of the thousands of rape cases reported in the nation each year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>The case of the 5-year-old has now drawn attention to violent crimes against children, particularly girls.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>In a recent report, the Asian Center For Human Rights cited statistics it said showed 48,338 child rape cases were reported in India between 2001 and 2011.</content>
+        </sentence>
+        <sentence id="16">
+          <content>The report said the number of cases had risen from 2,113 cases in 2001 to 7,112 in 2011.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="17">
+          <content>The 5-year-old girl&amp;apost;s case sparked protests in New Delhi last week.</content>
+        </sentence>
+        <sentence id="18">
+          <content>Many demonstrators are members of a political party of the leading anti-corruption activist, Arvind Kejriwal.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="19">
+          <content>Criticized for what was seen as his late response to the December gang-rape, Indian Prime Minister Manmohan Singh promptly issue a statement this time, calling the act &amp;quot;shameful.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

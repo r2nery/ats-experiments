@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2649" link="http://edition.cnn.com/2011/10/20/world/americas/canada-bush-clinton-protests/index.html" date_published="2011-10-20 05:01:31" category="world" author="Patrick Oppmann, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Protests planned for Bush, Clinton event in Canada</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Protests are expected at a Vancouver event with Bush and Clinton.</sentence>
+      <sentence id="2" ids_article_sentences="2">Amnesty International wants Bush arrested for war crimes.</sentence>
+      <sentence id="3" ids_article_sentences="10">The Royal Canadian Mounted Police is ready for clashes.</sentence>
+      <sentence id="4" ids_article_sentences="2">The ex-presidents plan to speak at an economic summit.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-06 21:02:50" annotation_time="29.926332">
+      <sentence id="1" ids_highlights="1">Surrey, British Columbia Canadian authorities braced for protests expected to take place near Vancouver, British Columbia, on Thursday outside an event where former U.S. presidents George W. Bush and Bill Clinton are scheduled to appear.</sentence>
+      <sentence id="2" ids_highlights="2, 4">Amnesty International called on Canadian authorities to arrest Bush for &amp;quot;war crimes&amp;quot; while activists announced Occupy Wall Street-style protests of the economic summit in Surrey where the former presidents were scheduled to speak along with world finance experts.</sentence>
+      <sentence id="10" ids_highlights="3">Authorities in Canada said they were prepared for potential clashes with protesters, the Royal Canadian Mounted Police said.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Surrey, British Columbia Canadian authorities braced for protests expected to take place near Vancouver, British Columbia, on Thursday outside an event where former U.S. presidents George W. Bush and Bill Clinton are scheduled to appear.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Amnesty International called on Canadian authorities to arrest Bush for &amp;quot;war crimes&amp;quot; while activists announced Occupy Wall Street-style protests of the economic summit in Surrey where the former presidents were scheduled to speak along with world finance experts.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;We would prefer his home country try George W. Bush,&amp;quot; said Alex Neve, secretary-general of Amnesty International Canada.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>Neve said Bush should face trial for ordering the so-called enhanced interrogation, such as water boarding, of suspected terrorists.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>&amp;quot;But the Obama administration has made it clear they do not intend to do that, so we are asking Canada to.</content>
+        </sentence>
+        <sentence id="6">
+          <content>We are not naive.</content>
+        </sentence>
+        <sentence id="7">
+          <content>It&amp;apost;s an uphill fight but we feel we have a strong case,&amp;quot; Neve said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>Across social media and the Internet, activists called for an &amp;quot;Occupy Surrey&amp;quot; protest similar to demonstrations in dozens of cities decrying Wall Street excess.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>Several recent Occupy Wall Street demonstrations led to property damage and arrests.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>Authorities in Canada said they were prepared for potential clashes with protesters, the Royal Canadian Mounted Police said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>RCMP Cpl. Drew Grainger said in a statement the force is going to &amp;quot;respect the rights to democratic and lawful protest and is approaching this event no different than other similar events with a potential for conflict.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>The summit is taking place in Surrey, a city just south of Vancouver with a population of about 370,000.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="13">
+          <content>Organizers are charging about $600 a head for an audience of about 500 people to listen to speakers, including Bush and Clinton.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="14">
+          <content>According to the summit agenda, the two ex-presidents will share the stage for about an hour to discuss a variety of topics including &amp;quot;new realities of the North American economy.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="15">
+          <content>The talk given by the two presidents is scheduled to begin at 3:45 p.m. ET and will be closed to the media, organizers said.</content>
+        </sentence>
+        <sentence id="16">
+          <content>The government of Canada, a close U.S. ally, has not commented on protesters&amp;apost; calls to arrest Bush.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="17">
+          <content>But the country&amp;apost;s Immigration Minister Jason Kenney told the Vancouver Sun newspaper the request was not being taken seriously.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;Amnesty International cherry-picks cases to publicize based on ideology,&amp;quot; Kenney said.</content>
+        </sentence>
+        <sentence id="19">
+          <content>&amp;quot;This kind of stunt helps explain why so many respected human rights advocates have abandoned Amnesty International.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="20">
+          <content>Last month, protesters appeared at a Vancouver event for former vice president Dick Cheney promote his book.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

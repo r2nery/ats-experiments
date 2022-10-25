@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2203" link="http://www.cnn.com/2014/07/02/world/europe/france-nicolas-sarkozy/index.html" date_published="2014-07-02 09:55:47" category="world" author="Laura Smith-Spark, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>French ex-President Sarkozy &amp;apost;shocked&amp;apost; by allegations</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="4">NEW: Sarkozy tells French media he is &amp;quot;deeply shocked&amp;quot;.</sentence>
+      <sentence id="2" ids_article_sentences="21">Ex-PM Alain Juppe says he hopes Sarkozy&amp;apost;s defense will demonstrate his innocence.</sentence>
+      <sentence id="3" ids_article_sentences="1">Former President Nicolas Sarkozy is placed under formal investigation, French media say.</sentence>
+      <sentence id="4" ids_article_sentences="9">French Prime Minister Manuel Valls says it is a &amp;quot;serious situation&amp;quot;.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-09 18:51:53" annotation_time="53.142" mapping_time_divergence="13.2855">
+      <sentence id="1" ids_highlights="3">Former French President Nicolas Sarkozy was placed under formal investigation early Wednesday in connection with suspected corruption and influence peddling, French media said.</sentence>
+      <sentence id="4" ids_highlights="1">Sarkozy, speaking to French broadcasters TF1 and Europe 1, said Wednesday he was &amp;quot;deeply shocked.&amp;quot;</sentence>
+      <sentence id="9" ids_highlights="4">Prime Minister Manuel Valls told BFMTV Wednesday that Sarkozy faced a &amp;quot;serious situation&amp;quot; and &amp;quot;serious facts.&amp;quot;</sentence>
+      <sentence id="21" ids_highlights="2">His defense will demonstrate his innocence, I hope,&amp;quot; he posted.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Former French President Nicolas Sarkozy was placed under formal investigation early Wednesday in connection with suspected corruption and influence peddling, French media said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>He appeared before a court overnight after a day of questioning in a Paris suburb, CNN&amp;apost;s French affiliate BFMTV reported.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>He is reportedly the first French president to be held in police custody in connection with an investigation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>Sarkozy, speaking to French broadcasters TF1 and Europe 1, said Wednesday he was &amp;quot;deeply shocked.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>In the taped joint interview, Sarkozy said that there is a &amp;quot;willingness to humiliate&amp;quot; him, and that he &amp;quot;never committed any act contrary to republican principles or the rule of law.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>The former President added that he &amp;quot;is not asking for any privilege&amp;quot; and that he &amp;quot;is not a man who escapes from his responsibilities.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>Sarkozy&amp;apost;s lawyer, Thierry Herzog, and a high-ranking magistrate, Gilbert Azibert, were also placed under formal investigation Tuesday, BFMTV said.</content>
+        </sentence>
+        <sentence id="8">
+          <content>They were called in for questioning Monday, along with another magistrate who was not brought before a judge.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>Prime Minister Manuel Valls told BFMTV Wednesday that Sarkozy faced a &amp;quot;serious situation&amp;quot; and &amp;quot;serious facts.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;No one is above the law, but it is important to remember that the presumption of innocence applies to everyone,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="11">
+          <content>Investigators who have been looking into Sarkozy&amp;apost;s campaign financing are trying to establish whether the former President obtained confidential information on legal cases concerning him from magistrates in exchange for the offer of a prestigious post, BFMTV reported.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="12">
+          <content>Sarkozy, who led the country from 2007 to 2012, lost in the 2012 presidential election to Socialist rival Francois Hollande.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="13">
+          <content>In recent months, speculation has grown that he might be positioning himself for a political comeback at the head of his center-right party, the UMP.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="14">
+          <content>The latest investigation into his actions could prove damaging to his ambitions even if no charge follows.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="15">
+          <content>Prime Minister Valls, in his interview with BFMTV, rejected any suggestion that the investigation was politically motivated, insisting that judges work entirely independently.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="16">
+          <content>It&amp;apost;s not the authorities who have asked these judges to investigate, he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="17">
+          <content>The offense of &amp;quot;active corruption&amp;quot; carries a penalty of up to 10 years in prison and a fine, under the French penal code.</content>
+        </sentence>
+        <sentence id="18">
+          <content>Influence peddling is punishable by up to five years in prison and a 500,000 euro ($683,000) fine.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="19">
+          <content>Bordeaux Mayor Alain Juppe, a UMP politician who formerly served as prime minister and foreign minister, said via Twitter that he was thinking of Sarkozy in a spirit of friendship.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="20">
+          <content>&amp;quot;He is, of course, presumed innocent.</content>
+        </sentence>
+        <sentence id="21">
+          <content>His defense will demonstrate his innocence, I hope,&amp;quot; he posted.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

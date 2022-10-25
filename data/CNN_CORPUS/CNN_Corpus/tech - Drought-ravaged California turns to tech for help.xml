@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1587" link="http://www.cnn.com/2014/03/21/tech/innovation/drought-water-tech/index.html" date_published="2014-03-21 22:29:54" category="tech" author="Heather Kelly, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Drought-ravaged California turns to tech for help</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3, 2">A major drought has hit California, and new tech is springing up to address water shortages.</sentence>
+      <sentence id="2" ids_article_sentences="19">Many researchers are focusing on agriculture, which makes up 70% of our water usage.</sentence>
+      <sentence id="3" ids_article_sentences="9">The U.N. kicks off World Water Day on Sunday to bring more attention to water issues.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-08 23:43:24" annotation_time="66.543335" mapping_time_divergence="22.181112">
+      <sentence id="2" ids_highlights="1">There is a major drought in California.</sentence>
+      <sentence id="3" ids_highlights="1">It&amp;apost;s not the first state to face a water shortage recently, and it&amp;apost;s definitely not the first time California has had to battle drought, but it could drag on for a decade and have a significant impact on all Americans who rely on California farms for food.</sentence>
+      <sentence id="9" ids_highlights="3">As the United Nations observes World Water Day on Saturday, it&amp;apost;s fitting that the biggest water research and innovation hubs are scattered around the globe.</sentence>
+      <sentence id="19" ids_highlights="2">Agriculture accounts for 70% of all our water usage, so much of the current technology focuses on helping farms use water more efficiently.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Sometimes it takes a disaster to inspire innovation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>There is a major drought in California.</content>
+        </sentence>
+        <sentence id="3">
+          <content>It&amp;apost;s not the first state to face a water shortage recently, and it&amp;apost;s definitely not the first time California has had to battle drought, but it could drag on for a decade and have a significant impact on all Americans who rely on California farms for food.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Residents, the government and the agriculture industry are hoping for some high-tech solutions for a very old problem.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Surprisingly, given its California location, Silicon Valley isn&amp;apost;t a hotbed of drought and water research.</content>
+        </sentence>
+        <sentence id="6">
+          <content>Most local investors and venture capitalists aren&amp;apost;t looking to invest in something that will take at least 10 years to pay off.</content>
+        </sentence>
+        <sentence id="7">
+          <content>They want software, cheap-to-make mobile apps that gather and monetize data about people, and consumer goods like phones, smart watches and futuristic thermostats.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;Water doesn&amp;apost;t always fit the venture capital model,&amp;quot; said Scott Bryan, COO of Imagine H2O, a San Francisco nonprofit focused on helping water-technology companies get their ideas off the ground.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>As the United Nations observes World Water Day on Saturday, it&amp;apost;s fitting that the biggest water research and innovation hubs are scattered around the globe.</content>
+        </sentence>
+        <sentence id="10">
+          <content>Australia, Singapore, the Netherlands and Israel are global leaders in the industry out of geographic necessity.</content>
+        </sentence>
+        <sentence id="11">
+          <content>In the United States, there are water-research centers clustered in Fresno and San Diego in California, and in Fort Collins, Colorado, Boston and Milwaukee.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>In Milwaukee, the roots of the water industry go back 100 years and are tied to the city&amp;apost;s big breweries.</content>
+        </sentence>
+        <sentence id="13">
+          <content>Now there are 150 water-tech companies in the region, and five of the 11 largest companies in the world either have their headquarters or a major operation there.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="14">
+          <content>Green roofs and tree trays.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="15">
+          <content>Dean Amhaus runs The Water Council, which has created the Global Water Center, a Milwaukee complex with almost 100,000 square feet of research space, labs, offices and conference rooms.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Researchers and entrepreneurs come together to collaborate on water-technology issues.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="17">
+          <content>The space houses intriguing startups such as Hanging Gardens, which builds &amp;quot;green&amp;quot; roofs that help collect storm water.</content>
+        </sentence>
+        <sentence id="18">
+          <content>There also are products that help detect leaks, waste-water treatment research, and tools for better tracking water usage and waste.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="19">
+          <content>Agriculture accounts for 70% of all our water usage, so much of the current technology focuses on helping farms use water more efficiently.</content>
+        </sentence>
+        <sentence id="20">
+          <content>Solutions range from the high-tech, like using big data and infrared aerial monitoring to give farmers more precise water information, to the simpler but ingenious, such as specialized plastic trays that fit around the bases of young trees.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="21">
+          <content>Imagine H2O&amp;apost;s latest class has a crop of promising agriculture technology companies.</content>
+        </sentence>
+        <sentence id="22">
+          <content>WatrHub wants to be the Bloomberg Terminal of agriculture.</content>
+        </sentence>
+        <sentence id="23">
+          <content>The Toronto-based company was founded by a former Microsoft employee and a former Apple employee.</content>
+        </sentence>
+        <sentence id="24">
+          <content>They&amp;apost;re using their experience working with big data sets to scrape together all the available information that might be useful to water and wastewater systems in North America.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="25">
+          <content>Getting better information is also what inspired the two founders of WellIntel.</content>
+        </sentence>
+        <sentence id="26">
+          <content>They have invented a monitor that gathers real-time data from water wells using sonar.</content>
+        </sentence>
+        <sentence id="27">
+          <content>Farms or rural homes with wells on their property can choose to keep their information private or share it anonymously with WellIntel, which uses the data to help government agencies and others see the bigger picture of water shortages.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="28">
+          <content>Then there&amp;apost;s the plastic tray, the brainchild of an Israeli company called Tal-Ya which claims it can reduce water consumption by up to 50 percent.</content>
+        </sentence>
+        <sentence id="29">
+          <content>The lightweight square funnels rainwater or irrigation water toward the base of a tree and blocks sunlight, which kills weeds.</content>
+        </sentence>
+        <sentence id="30">
+          <content>It also captures any evaporating soil moisture, condensing it and trickling it back to the roots.</content>
+        </sentence>
+        <sentence id="31">
+          <content>As a bonus, the reflective surface redirects light back to the plant to aid in light absorption.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="32">
+          <content>All the companies have seen a recent uptick in interest in their products.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="33">
+          <content>&amp;quot;Everybody for the most part has been tuned out on water (shortages) because within the U.S. it&amp;apost;s not really been a big issue,&amp;quot; said Amhaus.</content>
+        </sentence>
+        <sentence id="34">
+          <content>&amp;quot;The situation in California has raised huge attention to the fact that we actually do have a problem.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="35">
+          <content>&amp;apost;Forcing innovation&amp;apost;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="36">
+          <content>Companies and industrial farmers have financial incentives to test new water-saving technologies.</content>
+        </sentence>
+        <sentence id="37">
+          <content>But convincing regular consumers to change their ways is trickier.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="38">
+          <content>One part of public awareness means doling out practical advice on how to save water at home, such as only watering lawns at night, not running the dishwasher until it&amp;apost;s completely full, and taking shorter showers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="39">
+          <content>Oftentimes, people won&amp;apost;t be spurred to action without some sort of incentive, or at least evidence that a lack of water has a negative impact on their lives.</content>
+        </sentence>
+        <sentence id="40">
+          <content>Eventually, the fruits and vegetables people expect to get in grocery stores won&amp;apost;t be there, or they&amp;apost;ll be much more expensive because they&amp;apost;re imported from other countries.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="41">
+          <content>Saving money on water bills isn&amp;apost;t going to be a big motivator, according to Amhaus.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="42">
+          <content>&amp;quot;Right now water has been cheap and it will continue to be cheap,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="43">
+          <content>&amp;quot;It&amp;apost;s not the price, it&amp;apost;s whether its even going to be available.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="44">
+          <content>Christian Siems sells equipment to farms and vineyards and works with Tal-Ya.</content>
+        </sentence>
+        <sentence id="45">
+          <content>He sees first hand the steps the agriculture industry is taking to combat a looming water shortage.</content>
+        </sentence>
+        <sentence id="46">
+          <content>The drought has inspired many companies to test out new solutions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="47">
+          <content>&amp;quot;It&amp;apost;s forcing innovation, without question,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

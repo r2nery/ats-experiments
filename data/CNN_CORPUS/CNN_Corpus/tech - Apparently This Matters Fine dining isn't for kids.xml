@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1565" link="http://www.cnn.com/2014/01/17/tech/social-media/apparently-this-matters-fine-dining-babies-alinea/index.html?iid=article_sidebar" date_published="2014-01-17 21:17:19" category="tech" author="Jarrett Bellini, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Apparently This Matters: Fine dining isn&amp;apost;t for kids</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="19">A couple brought their 8-month-old baby into Chicago&amp;apost;s ultra-swanky Alinea restaurant.</sentence>
+      <sentence id="2" ids_article_sentences="23">After the baby cried and annoyed other guests, chef Grant Achatz tweeted about it.</sentence>
+      <sentence id="3" ids_article_sentences="65">A pop-up Twitter account was created for the crying baby.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-25 08:35:29" annotation_time="40.832">
+      <sentence id="19" ids_highlights="1">This particular fine dining incident all started when the couple brought their 8-month-old baby into one of Chicago&amp;apost;s swankiest restaurants, Alinea, which has the incredibly rare distinction of being awarded three stars by a renowned tire company.</sentence>
+      <sentence id="23" ids_highlights="2">The head chef of Alinea, Grant Achatz, later took to Twitter after diners began complaining when the aforementioned 8-month-old baby starting crying.</sentence>
+      <sentence id="65" ids_highlights="3">And in response to the pop-up Twitter account for @AlineaBaby, he tweeted a photo of two giant fish heads and wrote: Definitely not baby food... .</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>I rarely get to experience fine dining.</content>
+        </sentence>
+        <sentence id="2">
+          <content>Mostly because, generally speaking, it also requires fine currency.</content>
+        </sentence>
+        <sentence id="3">
+          <content>And pants.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="4">
+          <content>Fortunately, I&amp;apost;m perfectly happy with Lean Pockets, and enjoying one of those rarely requires dignity.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>But don&amp;apost;t judge.</content>
+        </sentence>
+        <sentence id="6">
+          <content>Even Napoleon shared my low-brow culinary interests.</content>
+        </sentence>
+        <sentence id="7">
+          <content>The dude loved Lean Pockets.</content>
+        </sentence>
+        <sentence id="8">
+          <content>Most people don&amp;apost;t know that.</content>
+        </sentence>
+        <sentence id="9">
+          <content>And you won&amp;apost;t find it in any history books.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="10">
+          <content>Seriously, I wouldn&amp;apost;t look that up.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="11">
+          <content>All things considered, though, when I do get a chance to partake in a true quality meal at an upscale restaurant (read: when someone else is buying) I genuinely enjoy the odd experience of being served really small portions of elaborate food on really large elaborate plates, where 75 percent of the actual surface area is covered by tiny, elaborate flakes of garnish that, combined with the elaborate entrée, ultimately won&amp;apost;t prevent me from just ordering pizza a few hours later when I get home so I can finally get to sleep all fat and bloated like I&amp;apost;m accustomed to.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="12">
+          <content>America.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="13">
+          <content>Still, while I&amp;apost;m hardly deserving of such things, I really do enjoy the fine dining experience.</content>
+        </sentence>
+        <sentence id="14">
+          <content>And it&amp;apost;s partly because people leave their kids at home.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="15">
+          <content>Usually.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="16">
+          <content>Recently, however, a couple didn&amp;apost;t leave their kid at home, and that&amp;apost;s exactly what caused a heated online debate about the social acceptability of bringing your children to restaurants that don&amp;apost;t have crayons or dancing, human-sized mice that may or may not have done time in Leavenworth.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;Hey kids!</content>
+        </sentence>
+        <sentence id="18">
+          <content>Who wants to hear about the time I shanked a guy!&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="19">
+          <content>This particular fine dining incident all started when the couple brought their 8-month-old baby into one of Chicago&amp;apost;s swankiest restaurants, Alinea, which has the incredibly rare distinction of being awarded three stars by a renowned tire company.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="20">
+          <content>Meals at Alinea start at $210.</content>
+        </sentence>
+        <sentence id="21">
+          <content>Reservations are sold as tickets months in advance, and are non-refundable.</content>
+        </sentence>
+        <sentence id="22">
+          <content>So I&amp;apost;m guessing they don&amp;apost;t serve fajitas.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="23">
+          <content>The head chef of Alinea, Grant Achatz, later took to Twitter after diners began complaining when the aforementioned 8-month-old baby starting crying.</content>
+        </sentence>
+        <sentence id="24">
+          <content>As babies and columnists with crippling self-doubt sometimes do.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="25">
+          <content>Achatz tweeted: Tbl brings 8mo.</content>
+        </sentence>
+        <sentence id="26">
+          <content>Old.</content>
+        </sentence>
+        <sentence id="27">
+          <content>It cries.</content>
+        </sentence>
+        <sentence id="28">
+          <content>Diners mad.</content>
+        </sentence>
+        <sentence id="29">
+          <content>Tll ppl no kids?</content>
+        </sentence>
+        <sentence id="30">
+          <content>Subject diners 2crying?</content>
+        </sentence>
+        <sentence id="31">
+          <content>Ppl take infants 2 plays?</content>
+        </sentence>
+        <sentence id="32">
+          <content>Concerts?</content>
+        </sentence>
+        <sentence id="33">
+          <content>Hate saying no,but.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="34">
+          <content>It seems that the couple&amp;apost;s baby-sitter had canceled at the last moment, but they decided to go out for dinner anyway because, apparently, the family dog isn&amp;apost;t a suitable or legal fill-in.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="35">
+          <content>&amp;quot;OK, Snickers.</content>
+        </sentence>
+        <sentence id="36">
+          <content>You&amp;apost;re in charge.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="37">
+          <content>Not surprisingly, Achatz&amp;apost;s tweet started a much larger conversation online where the general consensus was: Screw your kids.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="38">
+          <content>Now, before we go any deeper into this debate, let me first disclose that I don&amp;apost;t have any children of my own ... at least outside of those who may or may not be living in Thailand.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="39">
+          <content>And it&amp;apost;s not that I don&amp;apost;t like kids.</content>
+        </sentence>
+        <sentence id="40">
+          <content>I do.</content>
+        </sentence>
+        <sentence id="41">
+          <content>They say the darndest things.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="42">
+          <content>It&amp;apost;s just that ... they&amp;apost;re also kind of sticky.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="43">
+          <content>And they require maintenance.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="44">
+          <content>Quite frankly, I prefer the company of dogs.</content>
+        </sentence>
+        <sentence id="45">
+          <content>Because, while I&amp;apost;m quite grossed out by the idea of changing a diaper, I&amp;apost;m somehow perfectly OK with wrapping my hand in a Kroger bag and scooping up a giant, six-pound pile of partially digested IAMS from my lawn.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="46">
+          <content>So, yes, I understand that I don&amp;apost;t understand what it&amp;apost;s like to have children.</content>
+        </sentence>
+        <sentence id="47">
+          <content>But I also understand what it&amp;apost;s like NOT to have children.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="48">
+          <content>And it&amp;apost;s amazing.</content>
+        </sentence>
+        <sentence id="49">
+          <content>I nap a lot.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="50">
+          <content>Whether this disqualifies me to comment on this subject is up for you to decide.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="51">
+          <content>Regardless, we have to ask: Should adults bring their small children to fine dining restaurants?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="52">
+          <content>Almost everyone I spoke to about this agrees with me that there&amp;apost;s a certain level of swank where you sort of have to draw the line.</content>
+        </sentence>
+        <sentence id="53">
+          <content>It&amp;apost;s a gray line.</content>
+        </sentence>
+        <sentence id="54">
+          <content>But it&amp;apost;s a line.</content>
+        </sentence>
+        <sentence id="55">
+          <content>And it runs nowhere near Red Lobster.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="56">
+          <content>The kids and restaurant debate later took a bizarre and wonderful twist when somebody created a fake Twitter handle for the 8-month-old child.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="57">
+          <content>@AlineaBaby describes itself as ... a baby who likes fine food, fine drinks, and crying.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="58">
+          <content>So, you know.</content>
+        </sentence>
+        <sentence id="59">
+          <content>Now there&amp;apost;s that.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="60">
+          <content>But what should the no-kids criteria be?</content>
+        </sentence>
+        <sentence id="61">
+          <content>Is it a price range?</content>
+        </sentence>
+        <sentence id="62">
+          <content>Is it a particular style of cuisine?</content>
+        </sentence>
+        <sentence id="63">
+          <content>Or is it something undefined that you just sort of feel?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="64">
+          <content>Chef Achatz eventually spoke about the incident on ABC&amp;apost;s Good Morning America where he simply said, &amp;quot;I could hear it crying in the kitchen.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="65">
+          <content>And in response to the pop-up Twitter account for @AlineaBaby, he tweeted a photo of two giant fish heads and wrote: Definitely not baby food... .</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="34">
+      <sentences>
+        <sentence id="66">
+          <content>And definitely not fajitas.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="35">
+      <sentences>
+        <sentence id="67">
+          <content>I think we found our line.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="36">
+      <sentences>
+        <sentence id="68">
+          <content>Follow @JarrettBellini on Twitter.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

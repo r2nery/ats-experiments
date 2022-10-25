@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2434" link="http://www.cnn.com/2012/10/09/world/americas/mexico-zetas-cartel-boss/index.html" date_published="2012-10-09 05:47:46" category="world" author="Mariano Castillo, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Mexico confirms death of feared Zetas cartel leader</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">The navy confirms the death of Heriberto Lazcano Lazcano.</sentence>
+      <sentence id="2" ids_article_sentences="5">His body was stolen by a group of armed men from a funeral home.</sentence>
+      <sentence id="3" ids_article_sentences="1">It is uncertain what impact, if any, his death will have on drug violence.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-09-10 15:15:27" annotation_time="18.362333">
+      <sentence id="1" ids_highlights="1, 3">Mexico confirmed Tuesday that its forces killed Heriberto Lazcano Lazcano, reputed boss of the ruthless Zetas cartel, but it remains uncertain what effect, if any, the killing will have on the larger scourge of drug trafficking and violence.</sentence>
+      <sentence id="5" ids_highlights="2">In a twist, a group of armed men stole Lazcano&amp;apost;s body from a funeral home, though authorities had already taken fingerprints and photographs to confirm his identity.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Mexico confirmed Tuesday that its forces killed Heriberto Lazcano Lazcano, reputed boss of the ruthless Zetas cartel, but it remains uncertain what effect, if any, the killing will have on the larger scourge of drug trafficking and violence.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The kingpin&amp;apost;s death is arguably the Mexican government&amp;apost;s biggest takedown since President Felipe Calderon launched an offensive six years ago, but the record is mixed on the impact of such successes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Mexican marines killed Lazcano in a shootout on Sunday in a small town in northern Mexico, 130 miles from the Texas border, the country&amp;apost;s navy said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>Lazcano was a onetime special forces soldier who became a founding member of the Zetas, a group accused of some of the most violent atrocities that have come to define the drug wars.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>In a twist, a group of armed men stole Lazcano&amp;apost;s body from a funeral home, though authorities had already taken fingerprints and photographs to confirm his identity.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>Lazcano&amp;apost;s death &amp;quot;certainly weakens dramatically the Zetas,&amp;quot; said George Grayson, professor of government at the College of William &amp;amp; Mary and author of a book on the cartel.</content>
+        </sentence>
+        <sentence id="7">
+          <content>The death is the latest in a string of blows against its leadership, he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>Other analysts said it was unclear how Lazcano&amp;apost;s death would affect the Zetas.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>&amp;quot;Even though the head falls, there is immediately a substitute,&amp;quot; said Anabel Hernandez, a Mexican journalist who has investigated the country&amp;apost;s cartels.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="10">
+          <content>The intelligence firm Stratfor said it expects Lazcano&amp;apost;s death to have little impact on the Zetas&amp;apost; operations.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="11">
+          <content>Lazcano&amp;apost;s health had been failing and he had already transferred much control of the organization to Miguel Angel Trevino Morales, Stratfor said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="12">
+          <content>The United States and Mexico combined had offered rewards of more than $7 million for information leading to his capture.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="13">
+          <content>Praising the navy&amp;apost;s efforts Tuesday, Calderon described Lazcano as &amp;quot;one of the most important and most dangerous&amp;quot; people on Mexico&amp;apost;s list of most wanted criminals.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="14">
+          <content>The organization he led, Calderon said, is behind &amp;quot;countless high-impact crimes and extreme violence that many communities in the country have suffered.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="15">
+          <content>The Zetas are responsible for smuggling tons of cocaine and other drugs annually to the United States, generating many millions of dollars.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="16">
+          <content>The name of the cartel conjures up some of the most violent images of the drug war: a casino fire that killed 52 people, the deaths of 72 migrants, and tortured bodies hanging from bridges.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="17">
+          <content>The marines who killed Lazcano had responded Sunday to reports of an armed group in the town of Progreso, in the northern state of Coahuila, the navy said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="18">
+          <content>They were attacked with grenades thrown from a moving vehicle and a firefight ensued, it said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="19">
+          <content>A local newspaper reported scenes of &amp;quot;panic and terror&amp;quot; as the shootout erupted next to where families were enjoying a baseball game.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="20">
+          <content>Rather than after an ambush, the shooting started after the marines tried to search a suspicious Ford Ranger, the Zocalo newspaper said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="21">
+          <content>Authorities at the scene recovered two assault rifles, a grenade launcher and 12 grenades, as well as a rocket launcher and two rockets.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="22">
+          <content>The Zetas -- headquartered in Nuevo Laredo, Mexico, directly across the border from Laredo, Texas -- make up Mexico&amp;apost;s largest drug cartel in terms of territory.</content>
+        </sentence>
+        <sentence id="23">
+          <content>The group has operations in 11 Mexican states.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="24">
+          <content>Another reputed Zetas leader, Ivan Velazquez Caballero, alias &amp;quot;El Taliban,&amp;quot; was captured last month.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="25">
+          <content>Lazcano, 37, joined the Mexican armed forces in 1991 and was part of its elite airborne special forces group, dedicated to battling drug cartels.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="26">
+          <content>Soon after, Lazcano and several other special forces members were recruited by the Gulf cartel to create its enforcement arm, Los Zetas.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="27">
+          <content>In ensuing years, the Zetas split into a major drug trafficking organization and have since branched out into extortion, kidnapping and human smuggling.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="28">
+          <content>The cartel is in the midst of a bloody turf war with its former employer, the Gulf cartel, and also with the Sinaloa cartel.</content>
+        </sentence>
+        <sentence id="29">
+          <content>The fight for access to lucrative smuggling routes in northern and central Mexico has left thousands of civilians dead.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="30">
+          <content>The violence is particularly acute in three northeastern states that are some of the Zetas&amp;apost; strongest-held territory: Coahuila, Nuevo Leon and Tamaulipas.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="31">
+          <content>In 2010, the bodies of 72 migrants from Central and South America were discovered at a ranch in Tamaulipas state.</content>
+        </sentence>
+        <sentence id="32">
+          <content>The Zetas have been blamed for the mass graves and for the deaths of the migrants.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="33">
+          <content>The cartel also is blamed for setting a fire at a casino in Monterrey that killed 52 people.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="34">
+          <content>In May, authorities found 49 decapitated and dismembered bodies along a highway in Nuevo Leon.</content>
+        </sentence>
+        <sentence id="35">
+          <content>The orders to commit the grisly crime allegedly came from Lazcano, who originally wanted the bodies to be left in a town&amp;apost;s central square.</content>
+        </sentence>
+        <sentence id="36">
+          <content>In banners purportedly hung by the cartel, the group denied involvement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="37">
+          <content>Mexican officials have said that more than 47,500 people have been killed in drug-related violence since Calderon began his crackdown on cartels in December 2006.</content>
+        </sentence>
+        <sentence id="38">
+          <content>Some groups say the number is much higher.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

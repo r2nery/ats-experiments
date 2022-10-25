@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="856" link="http://www.cnn.com/2014/02/24/opinion/brazile-predictions-2014/index.html" date_published="2014-02-25 01:25:06" category="opinion" author="Donna Brazile" highlights_mapped="true" mapping_error="false">
+  <title>Opinion: Beware of those who predict</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Donna Brazile: We like to predict future because uncertainty makes us uncomfortable.</sentence>
+      <sentence id="2" ids_article_sentences="6">Brazile: In politics, we have to be careful to distinguish between analysis and prediction.</sentence>
+      <sentence id="3" ids_article_sentences="29">Brazile: An angry electorate is a voting electorate.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-06 18:30:18" annotation_time="23.104">
+      <sentence id="1" ids_highlights="1">I suppose we like to predict the future because uncertainty makes us uncomfortable.</sentence>
+      <sentence id="6" ids_highlights="2">I think we -- and by &amp;quot;we&amp;quot; I mean all of us in the news and commentary business -- have to be careful to distinguish between analysis and prediction.</sentence>
+      <sentence id="29" ids_highlights="3">We all know that an angry electorate is a voting electorate.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>I suppose we like to predict the future because uncertainty makes us uncomfortable.</content>
+        </sentence>
+        <sentence id="2">
+          <content>Or maybe we just like the game of analysis.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>Before a baseball season starts, for example, you&amp;apost;ll find experts predicting who will win the pennant races and the World Series.</content>
+        </sentence>
+        <sentence id="4">
+          <content>Indeed, it&amp;apost;s not even a month after the Super Bowl and you can find confident assurances of who will be in the big game next year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>Politics is no different, of course, although the prediction business has more important consequences.</content>
+        </sentence>
+        <sentence id="6">
+          <content>I think we -- and by &amp;quot;we&amp;quot; I mean all of us in the news and commentary business -- have to be careful to distinguish between analysis and prediction.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>True, the predictive powers of polls has improved since Thomas Dewey &amp;quot;defeated&amp;quot; Harry Truman in 1948, but as any meteorologist will tell you, the farther away the weather system, the more difficult it is to predict its behavior on a given day.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>Analysis, on the other hand, can give us a better understanding of issues, effects of policies, and the all-important &amp;quot;mood of the electorate,&amp;quot; even though those can change as quickly as the path of a tornado.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>What brings all this to mind is a recent article by Sahil Kapur for the online Talking Points Memo, &amp;quot;Four Reasons the GOP Has a Huge Advantage in the 2014 Elections.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>The article argues that, &amp;quot;For all their internal divisions and long-term worries as a party, political scientists and historical trends give Republicans a clear advantage in the upcoming 2014 congressional elections.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>I&amp;apost;m not refuting the Four Reasons (good thing they&amp;apost;re not Four Horseman).</content>
+        </sentence>
+        <sentence id="12">
+          <content>I just question if they are so predictively absolute.</content>
+        </sentence>
+        <sentence id="13">
+          <content>I see other factors at play.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>The first factor Kapur writes about is &amp;quot;the six-year curse for presidents.&amp;quot;</content>
+        </sentence>
+        <sentence id="15">
+          <content>He notes, &amp;quot;Since the ratification of White House term limits, five of the six two-term presidents have lost seats after re-election.&amp;quot;</content>
+        </sentence>
+        <sentence id="16">
+          <content>What intrigues me is the exception: Bill Clinton in 1998, because of a strong economy and voter backlash against the Republican-led impeachment.</content>
+        </sentence>
+        <sentence id="17">
+          <content>Democrats that year fought back hard by recruiting good quality candidates who gained the trust of the people.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="18">
+          <content>Speaking of President Clinton, he&amp;apost;s campaigning for Alison Grimes in Kentucky.</content>
+        </sentence>
+        <sentence id="19">
+          <content>Despite all the recent attacks, the Clintons&amp;apost; popularity remains sky high across the country, including in the South.</content>
+        </sentence>
+        <sentence id="20">
+          <content>Democratic candidates are hopeful they will be able to campaign for them across the country.</content>
+        </sentence>
+        <sentence id="21">
+          <content>See Gov. Terry McAuliffe.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="22">
+          <content>So that&amp;apost;s X-factor one.</content>
+        </sentence>
+        <sentence id="23">
+          <content>Midterm elections are only partly a referendum on the president.</content>
+        </sentence>
+        <sentence id="24">
+          <content>With the Clintons campaigning, the equation changes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="25">
+          <content>The second reason is &amp;quot;Democratic voters don&amp;apost;t turn out in midterms.&amp;quot;</content>
+        </sentence>
+        <sentence id="26">
+          <content>The historical trend shows that age is a factor: &amp;quot;Older voters disproportionately turn out in midterms, and they&amp;apost;ve moved to the Republican Party in recent decades,&amp;quot; argues Kapur.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="27">
+          <content>And yet, the Republican attempts at voter suppression may well backfire.</content>
+        </sentence>
+        <sentence id="28">
+          <content>Perhaps the GOP&amp;apost;s current campaign to block attempts to extend unemployment insurance, block a raise in the minimum wage and take away health care will motivate some voters to turn out because it&amp;apost;s in their self interest.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="29">
+          <content>We all know that an angry electorate is a voting electorate.</content>
+        </sentence>
+        <sentence id="30">
+          <content>I expect young people and minorities to surprise the pundits.</content>
+        </sentence>
+        <sentence id="31">
+          <content>I expect women to organize and vote in surprising numbers.</content>
+        </sentence>
+        <sentence id="32">
+          <content>A threatened electorate is also a voting electorate.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="33">
+          <content>Voter turnout comes down to organizing, educating, activating.</content>
+        </sentence>
+        <sentence id="34">
+          <content>From what I&amp;apost;ve seen in my travels around the country, there&amp;apost;s a grass-roots groundswell that may very well resemble the 1998 &amp;quot;backlash.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="35">
+          <content>The third factor Kapur cites is that &amp;quot;Republicans have a mathematical advantage in the Senate.&amp;quot;</content>
+        </sentence>
+        <sentence id="36">
+          <content>They need to pick up a net of six seats.</content>
+        </sentence>
+        <sentence id="37">
+          <content>Democrats are defending 21 seats, many in conservative states such as Arkansas, North Carolina and Louisiana.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="38">
+          <content>Here&amp;apost;s the thing: In the 12 states that Mitt Romney won that also had a Senate race, Democrats won five of them: North Dakota, Montana, Missouri, Indiana and West Virginia.</content>
+        </sentence>
+        <sentence id="39">
+          <content>These states are at least as conservative as the Southern states above.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="40">
+          <content>Generally, Senate races are not a referendum on the president or on any one issue, but a choice between the two candidates on the ballot.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="41">
+          <content>Thus Democrat Mary Landrieu remains strong in Louisiana, while in Kentucky, Republican Mitch McConnell, the minority leader, is in trouble.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="42">
+          <content>As Tip O&amp;apost;Neill observed, &amp;quot;All politics is local.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="43">
+          <content>In each competitive Senate race there&amp;apost;s a clear contrast between a Democratic candidate -- focused on creating opportunity for the middle class and willing to disagree with the party leadership -- and a Republican candidate beholden to the tea party, the Koch brothers and a small group of right-wing billionaires who support an agenda that will not enable the middle class or working families to prosper.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="44">
+          <content>While some Democratic senators and a handful of congressional candidates may disagree with the President on specific economic priorities for their state, they all support his efforts to provide better wages for workers, fairness for women in the workplace and affordable opportunities to go to college and prepare for high-skilled jobs.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="45">
+          <content>Despite an influx of negative ads underwritten by the Koch brothers and their allies, Democrats must find a way to stay on message and reach people where they live, work, eat and pray.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="46">
+          <content>Finally, Kapur mentions that &amp;quot;the House map is skewed toward the GOP.&amp;quot;</content>
+        </sentence>
+        <sentence id="47">
+          <content>There&amp;apost;s no disputing this, just as there&amp;apost;s no disputing the fact that Republican obstructionism in the House has prevented the country from moving forward.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="48">
+          <content>How much did Republican gerrymandering after 2010 lockjaw the House?</content>
+        </sentence>
+        <sentence id="49">
+          <content>Political scientists may debate that, but House majorities do change, and sometimes unexpectedly.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="50">
+          <content>My point is that the &amp;quot;season&amp;quot; hasn&amp;apost;t started.</content>
+        </sentence>
+        <sentence id="51">
+          <content>We can analyze strengths and weaknesses, but let&amp;apost;s see how the teams play over the long haul, starting now with the upcoming primary elections.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="52">
+          <content>Once the primary season has ended, we can start keeping score.</content>
+        </sentence>
+        <sentence id="53">
+          <content>Until then, the sideshow is simply a distraction.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="332" link="http://www.cnn.com/2013/01/11/health/lustig-western-diet" date_published="2013-01-11 21:45:23" category="health" author="Dr. Robert H. Lustig, Special to CNN" highlights_mapped="true" mapping_error="false">
+  <title>Opinion: A fast-food, sugar fiasco</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="9">The fast food industry continues its revenue and profit, doctor says.</sentence>
+      <sentence id="2" ids_article_sentences="24">Many politicians think obesity remains an issue of personal responsibility.</sentence>
+      <sentence id="3" ids_article_sentences="32">Sugar can trigger processes that lead to obesity, other diseases .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2015-01-16 18:58:16" annotation_time="25.2745">
+      <sentence id="9" ids_highlights="1">The food industry continues its juggernaut of revenues and profits.</sentence>
+      <sentence id="24" ids_highlights="2">Unfortunately in the eyes of politicians, obesity remains an issue of &amp;quot;personal responsibility.&amp;quot;</sentence>
+      <sentence id="32" ids_highlights="3">Scientific evidence now supports the concept that our glut of sugar -- in particular, the molecule fructose, which is what makes sugar sweet -- can trigger processes that lead to the metabolic syndrome.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>&amp;quot;My definition of fast food?&amp;quot;</content>
+        </sentence>
+        <sentence id="2">
+          <content>Alice Waters said.</content>
+        </sentence>
+        <sentence id="3">
+          <content>&amp;quot;Letting someone loose in a garden with a bottle of balsamic vinegar and saying, &amp;apost;have at it.&amp;apost;&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="4">
+          <content>Both these quotes are explanations of what&amp;apost;s wrong with the Western diet, the aesthetic and the socio-ecologic.</content>
+        </sentence>
+        <sentence id="5">
+          <content>Both are right on target; both are compelling.</content>
+        </sentence>
+        <sentence id="6">
+          <content>Yet both are completely powerless to bring about any sort of change in food policy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="7">
+          <content>Because tastebuds, food-borne illnesses, the environment and animal welfare don&amp;apost;t count.</content>
+        </sentence>
+        <sentence id="8">
+          <content>Money counts.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="9">
+          <content>The food industry continues its juggernaut of revenues and profits.</content>
+        </sentence>
+        <sentence id="10">
+          <content>Despite a sales dip at McDonald&amp;apost;s, domestic fast food industry revenues have exhibited a 20% rise, adjusted for inflation, over the past decade, according to Statista, a website that aggregates statistics from more than 18,000 sources.</content>
+        </sentence>
+        <sentence id="11">
+          <content>That&amp;apost;s despite a U.S. population that grew by only 8.4% over the same interval.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="12">
+          <content>Fast food was worth $184 billion a year in 2010, up from $165 billion in 2009, and is projected to reach $210 billion in 2016, according to Statista.</content>
+        </sentence>
+        <sentence id="13">
+          <content>That pales in comparison to the total revenue of the entire food industry: $1 trillion.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="14">
+          <content>The U.S. government has hitched its wagon to the food industry.</content>
+        </sentence>
+        <sentence id="15">
+          <content>Our food is the cheapest in the world, made possible in part by federal subsidies to farmers.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Yet the United States is the fattest country in the world.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="17">
+          <content>OK, then what about obesity and its associated diseases?</content>
+        </sentence>
+        <sentence id="18">
+          <content>Shouldn&amp;apost;t that get Washington&amp;apost;s attention?</content>
+        </sentence>
+        <sentence id="19">
+          <content>After all, we annually waste $44 billion on disability, $73 billion in decreased work productivity and $190 billion in health care because of obesity.</content>
+        </sentence>
+        <sentence id="20">
+          <content>Add to that a $2,741 increase in personal annual health insurance premiums to cover these costs, even for normal-weight adults.</content>
+        </sentence>
+        <sentence id="21">
+          <content>Medicare will be broke by the year 2024.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="22">
+          <content>Until we get a handle on obesity, all the Obamacare in the world can&amp;apost;t stop the ravages of metabolic syndrome or the resultant health care expenditures.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="23">
+          <content>Surely all that money is enough to offset the government&amp;apost;s margin on food?</content>
+        </sentence>
+        <sentence id="24">
+          <content>Unfortunately in the eyes of politicians, obesity remains an issue of &amp;quot;personal responsibility.&amp;quot;</content>
+        </sentence>
+        <sentence id="25">
+          <content>Don&amp;apost;t blame the industry.</content>
+        </sentence>
+        <sentence id="26">
+          <content>Just eat less and exercise more, they say.</content>
+        </sentence>
+        <sentence id="27">
+          <content>But then how do you explain our epidemic of obese 6-month-olds?</content>
+        </sentence>
+        <sentence id="28">
+          <content>They don&amp;apost;t diet and exercise.</content>
+        </sentence>
+        <sentence id="29">
+          <content>Something more insidious is going on.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="30">
+          <content>How about the biochemical explanation?</content>
+        </sentence>
+        <sentence id="31">
+          <content>Would that hold any more sway with politicians?</content>
+        </sentence>
+        <sentence id="32">
+          <content>Scientific evidence now supports the concept that our glut of sugar -- in particular, the molecule fructose, which is what makes sugar sweet -- can trigger processes that lead to the metabolic syndrome.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="33">
+          <content>These include:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="34">
+          <content>-- Hypertension -- fructose increases uric acid, which raises blood pressure.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="35">
+          <content>-- High triglycerides and insulin resistance through synthesis of fat in the liver.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="36">
+          <content>-- Diabetes via increased liver glucose production combined with insulin resistance.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="37">
+          <content>-- The aging process, due to damage to lipids, proteins and DNA through binding of fructose to these molecules.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="38">
+          <content>It can be argued that fructose exerts toxic effects on the liver similar to those of alcohol.</content>
+        </sentence>
+        <sentence id="39">
+          <content>Furthermore, sugar, like alcohol, has a clear potential for abuse.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="40">
+          <content>Sugar acts on the brain to encourage subsequent intake by dampening the suppression of the hunger hormone ghrelin.</content>
+        </sentence>
+        <sentence id="41">
+          <content>It also interferes with the hormone leptin, which helps produce a feeling of satiety and reduces dopamine signaling in the brain&amp;apost;s reward center, thereby reducing the pleasure derived from food.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="42">
+          <content>The majority of foods are laced with added sugar, thus effectively co-opting your choice.</content>
+        </sentence>
+        <sentence id="43">
+          <content>Where there&amp;apost;s no choice, how can there be personal responsibility?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="44">
+          <content>Need more science?</content>
+        </sentence>
+        <sentence id="45">
+          <content>How about the lack of fiber in the Western diet, which was removed partially to increase shelf life?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="46">
+          <content>So there you have it.</content>
+        </sentence>
+        <sentence id="47">
+          <content>A Faustian bargain to be sure: your time or your health; your wallet or your health.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="48">
+          <content>Government&amp;apost;s job is to generate money.</content>
+        </sentence>
+        <sentence id="49">
+          <content>Public health spends money, with the hope of eventually saving money.</content>
+        </sentence>
+        <sentence id="50">
+          <content>The food supply has not changed; it has only gotten worse.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="51">
+          <content>Public health policies for obesity prevention thus far have not worked, and the president and Congress can&amp;apost;t justify spending more money on this.</content>
+        </sentence>
+        <sentence id="52">
+          <content>But both the science and the balance sheet say otherwise.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="53">
+          <content>Robbing us to pay both Peter and Paul.</content>
+        </sentence>
+        <sentence id="54">
+          <content>It&amp;apost;s time for government to step up and amend our current food policy - for the aesthetic, for the socio-ecologic and for the biochemical damage that it is doing to America.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

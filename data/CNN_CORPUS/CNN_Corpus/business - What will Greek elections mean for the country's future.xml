@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="144" link="http://www.cnn.com/2012/04/12/business/greece-election-explainer/index.html?iid=article_sidebar" category="business" author="Irene Chapple, CNN " highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>What will Greek elections mean for the country&amp;apost;s future?</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Greeks are heading to the polls for the second time in six weeks .</sentence>
+      <sentence id="2" ids_article_sentences="3">An election on May 6 failed to deliver a majority for any one party.</sentence>
+      <sentence id="3" ids_article_sentences="5">The election comes amid collapsing support for the two main parties .</sentence>
+      <sentence id="4" ids_article_sentences="9">The political landscape is uncertain, and the election likely to be the most important for decades.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-09-08 11:49:25" annotation_time="49.251">
+      <sentence id="1" ids_highlights="1">Greeks are heading to the polls this weekend for the second time in six weeks, preparing to vote in an election which could shift not only the course of the country, but of Europe itself.</sentence>
+      <sentence id="3" ids_highlights="2">An election on May 6 -- the first since Greece&amp;apost;s financial crisis exploded -- failed to deliver a majority for any one party and talks to create a government failed.</sentence>
+      <sentence id="5" ids_highlights="3">The election comes amid collapsing support for the two parties -- New Democracy and PASOK -- which have dominated Greek politics since the fall of the military junta in 1974.</sentence>
+      <sentence id="9" ids_highlights="4">The political landscape is now deeply uncertain, and this is likely to be one of the most keenly watched European elections in decades.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Greeks are heading to the polls this weekend for the second time in six weeks, preparing to vote in an election which could shift not only the course of the country, but of Europe itself.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>What is happening in Greece?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>An election on May 6 -- the first since Greece&amp;apost;s financial crisis exploded -- failed to deliver a majority for any one party and talks to create a government failed.</content>
+        </sentence>
+        <sentence id="4">
+          <content>So, a second election was called for June 17.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>The election comes amid collapsing support for the two parties -- New Democracy and PASOK -- which have dominated Greek politics since the fall of the military junta in 1974.</content>
+        </sentence>
+        <sentence id="6">
+          <content>Political support has splintered, and smaller parties have gained in response to the financial crisis which has wracked the country for almost two years.</content>
+        </sentence>
+        <sentence id="7">
+          <content>Syriza, the left-leaning party which wants to rip up the existing austerity plan, has gained support on the back of Greek&amp;apost;s discontent.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>The main parties&amp;apost; support of brutal austerity measures, demanded by the country&amp;apost;s international creditors in return for aid to keep the country afloat, has left many Greeks disenchanted with the establishment.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>The political landscape is now deeply uncertain, and this is likely to be one of the most keenly watched European elections in decades.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>Why are they holding an election now?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>The Prime Minister, Panagiotis Pikrammenos, is a senior judge appointed to lead the caretaker administration which was put in place after talks to form a government collapsed.</content>
+        </sentence>
+        <sentence id="12">
+          <content>He was preceded by Prime Minister Lucas Papademos, a former banker and European Central Bank vice president, also an unelected politician who was sworn in as head of an interim government on November 11, 2011, after four days of political wrangling.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>Papademos&amp;apost;s mandate was to implement Greece&amp;apost;s second bailout package, which was finally agreed on February 21, and included €130 billion ($170 billion) in new financing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>His government was a coalition made up mainly of the historically polarized New Democracy and PASOK.</content>
+        </sentence>
+        <sentence id="15">
+          <content>That interim government was put in place after George Papandreou&amp;apost;s dramatic final days as Greece&amp;apost;s leader last November, in which he announced he would hold a referendum on the second bailout package before withdrawing the suggestion.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>The flip-flopping sent shivers through the world markets, ratcheted up fears Europe&amp;apost;s bailout program would fail and left Papandreou politically damaged.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>The bailout deal included an unprecedented restructuring of the country&amp;apost;s debt which sliced the value of private creditors&amp;apost; investments in the country in half, saving the country €100 billion from its total debt pile of more than €300 billion.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="18">
+          <content>However, the austerity measures also triggered violent protests, with dozens of buildings burnt in Athens earlier this year in protest.</content>
+        </sentence>
+        <sentence id="19">
+          <content>The suicide of 77-year-old retired pharmacist Dimitris Christoulas in April, in central Athens&amp;apost; Syntagma Square, also underscored the pain of the austerity measures.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="20">
+          <content>Who&amp;apost;s going to win?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="21">
+          <content>Greece&amp;apost;s May 6 election left no single party with more than 20% support -- a dramatic turnaround for the once powerful political parties New Democracy and PASOK, who had together scooped 77% support in the previous election.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="22">
+          <content>Greece&amp;apost;s Syriza party -- which wants to remain in the eurozone but does not support the bailout program -- has thus far reaped the benefits of voter frustration with the austerity measures.</content>
+        </sentence>
+        <sentence id="23">
+          <content>It bumped out PASOK to come second in the May 6 election, with almost 17%.</content>
+        </sentence>
+        <sentence id="24">
+          <content>New Democracy, which supports the program, narrowly won the May 6 election with almost 19% support.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="25">
+          <content>Analysts expect the June 17 election to be a close race between Syriza and New Democracy.</content>
+        </sentence>
+        <sentence id="26">
+          <content>But neither is expected to win an absolute majority.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="27">
+          <content>What could happen?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="28">
+          <content>Journalist Pavlos Tsimas says the last election was 90% driven by anger, feeding the rise of Syriza.</content>
+        </sentence>
+        <sentence id="29">
+          <content>This election, he said, would be 80% driven by fear.</content>
+        </sentence>
+        <sentence id="30">
+          <content>As such he expects New Democracy to beat Syriza by around 3%.</content>
+        </sentence>
+        <sentence id="31">
+          <content>It could then form a coalition with PASOK, and perhaps smaller supporters.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="32">
+          <content>It is unclear how long New Democracy and PASOK could maintain a long-term stable government.</content>
+        </sentence>
+        <sentence id="33">
+          <content>The longevity of such a partnership could depend on its relationship with those dictating the country&amp;apost;s austerity measures, Tsimas said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="34">
+          <content>The election comes as the country remains volatile and at risk of spiraling deeper into crisis, despite the two bail-outs foisted upon it by the International Monetary Fund and its eurozone peers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="35">
+          <content>Its economy is shrinking, unemployment is rising and it remains unable to raise money in the capital markets which it needs to unshackle itself from the aid packages.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="36">
+          <content>How will the election impact on the eurozone&amp;apost;s debt crisis plan?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="37">
+          <content>Under the terms of the second bailout, in February, the leaders of the main parties were required to agree to continue to the austerity measures after the elections were held.</content>
+        </sentence>
+        <sentence id="38">
+          <content>However, the rise of the smaller parties has thrown doubt into the mix.</content>
+        </sentence>
+        <sentence id="39">
+          <content>Alexis Tsipras, head of Syriza, told CNN he wanted the country the stay in the eurozone, but that the austerity measures were pushing the country to &amp;quot;hell.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="40">
+          <content>The election will therefore be under close scrutiny by European leaders who have injected so much cash into keeping Greece in the euro and the &amp;quot;European project&amp;quot; afloat.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="41">
+          <content>Is Greece still at risk of leaving the euro?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="42">
+          <content>Yes.</content>
+        </sentence>
+        <sentence id="43">
+          <content>Ratings agency Standard &amp;amp; Poor&amp;apost;s has put the chance at a one-in-three.</content>
+        </sentence>
+        <sentence id="44">
+          <content>According to S&amp;amp;P, Greece could lose its financial lifeline if voters elect a government that opposes the terms of Greece&amp;apost;s bailout program.</content>
+        </sentence>
+        <sentence id="45">
+          <content>Even if a pro-austerity government is elected, bringing Greece out of its slump is a huge ask.</content>
+        </sentence>
+        <sentence id="46">
+          <content>The restructuring of its private sector debt created some breathing space, but there is speculation further restructurings may be necessary.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="47">
+          <content>The debt crisis is also far from over, with fears now centered on Spain and Italy.</content>
+        </sentence>
+        <sentence id="48">
+          <content>These economies -- the eurozone&amp;apost;s third and forth biggest -- have been sucked into the crisis.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="49">
+          <content>If Greece exited the euro, it would be liberated from the eurozone&amp;apost;s fixed exchange rate, allowing it to become a more competitive exporter and -- as it unshackles its currency -- an attractively cheap tourist destination.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="50">
+          <content>But it would come with a heavy price.</content>
+        </sentence>
+        <sentence id="51">
+          <content>It would still leave Greece in debt and reliant on handouts that former eurozone partners would be less willing to supply.</content>
+        </sentence>
+        <sentence id="52">
+          <content>It would also mean Greeks would face higher prices for imported goods.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="53">
+          <content>It is also likely to drive people out of their homeland as they seek to escape lower wages and higher taxes.</content>
+        </sentence>
+        <sentence id="54">
+          <content>This could set back the country&amp;apost;s economic recovery by years.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

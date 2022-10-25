@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2443" link="http://www.cnn.com/2014/05/20/world/asia/malaysia-missing-plane/index.html" date_published="2014-05-20 06:39:04" category="world" author="Saima Mohsin and Holly Yan, CNN" highlights_mapped="true" mapping_error="false">
+  <title>MH370: Inmarsat raw satellite data to be revealed to the public</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">Inmarsat and Malaysian officials say they are working to release raw satellite data.</sentence>
+      <sentence id="2" ids_article_sentences="1">Families have been clamoring for the information for months .</sentence>
+      <sentence id="3" ids_article_sentences="7">The data could allow for an independent analysis of what happened on March 8 .</sentence>
+      <sentence id="4" ids_article_sentences="9">&amp;quot;Their intentions have to be backed by actions,&amp;quot; the husband of a passenger says .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-09-25 14:59:22" annotation_time="38.550663">
+      <sentence id="1" ids_highlights="2">After months of clamoring, the MH370 raw satellite data that families have been demanding may soon be publicized.</sentence>
+      <sentence id="3" ids_highlights="1">But on Tuesday, Inmarsat and Malaysian authorities said they were trying to make the raw data accessible.</sentence>
+      <sentence id="7" ids_highlights="3">But publication of the raw satellite data could allow for independent analysis of what happened on March 8, the day Malaysia Airlines Flight 370 disappeared with 239 people on board.</sentence>
+      <sentence id="9" ids_highlights="4">&amp;quot;Their intentions have to be backed by actions, so I&amp;apost;d like to wait to see when that really happens,&amp;quot; said K.S. Narendran, whose wife was on the plane.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>After months of clamoring, the MH370 raw satellite data that families have been demanding may soon be publicized.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Until now, Inmarsat, the company whose satellites communicated with the missing plane in its last hours, has said it didn&amp;apost;t have the authority to release it.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>But on Tuesday, Inmarsat and Malaysian authorities said they were trying to make the raw data accessible.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>&amp;quot;In line with our commitment towards greater transparency, all parties are working for the release of the data communication logs and the technical description of the analysis for public consumption,&amp;quot; Inmarsat and the Malaysian aviation officials said in a joint statement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>&amp;quot;It must also be noted that the data communication logs is just one of the many elements of the investigation information,&amp;quot; the officials said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>The statement did not say when the information would be released.</content>
+        </sentence>
+        <sentence id="7">
+          <content>But publication of the raw satellite data could allow for independent analysis of what happened on March 8, the day Malaysia Airlines Flight 370 disappeared with 239 people on board.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>Some relatives of passengers weren&amp;apost;t sure what to make of the announcement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>&amp;quot;Their intentions have to be backed by actions, so I&amp;apost;d like to wait to see when that really happens,&amp;quot; said K.S. Narendran, whose wife was on the plane.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;Secondly, it&amp;apost;s just one piece of the whole amount of data that has been used to conduct the search,&amp;quot; Narendran told CNN&amp;apost;s Don Lemon.</content>
+        </sentence>
+        <sentence id="11">
+          <content>&amp;quot;So when sharing Inmarsat data by itself is important, I think it will be essential as time goes by for the larger set of data to also be made available.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>But CNN aviation analyst Jeff Wise said &amp;quot;the box is going to open&amp;quot; when the data gets publicized.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="13">
+          <content>&amp;quot;It could produce more theories.</content>
+        </sentence>
+        <sentence id="14">
+          <content>It will probably cancel out a lot of theories,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>Either way, the release will hopefully give &amp;quot;a much better understanding of what&amp;apost;s been going on all this time.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="16">
+          <content>Conflicting accounts.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="17">
+          <content>On Monday, Malaysia&amp;apost;s acting transportation minister said the government asked Inmarsat to publicize the satellite data.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="18">
+          <content>Malaysian officials told CNN last week that their government did not have the raw data.</content>
+        </sentence>
+        <sentence id="19">
+          <content>But Inmarsat officials said the company provided all of it to Malaysian officials &amp;quot;at an early stage in the search.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="20">
+          <content>&amp;quot;We&amp;apost;ve shared the information that we had, and it&amp;apost;s for the investigation to decide what and when it puts out,&amp;quot; Inmarsat Senior Vice President Chris McLaughlin said last week.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="21">
+          <content>But a senior Malaysian official told CNN that the government needed Inmarsat&amp;apost;s help to pass on the data to families &amp;quot;in a presentable way.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;We are trying to be as transparent as possible,&amp;quot; the official said.</content>
+        </sentence>
+        <sentence id="23">
+          <content>&amp;quot;We have no issues releasing the data.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="24">
+          <content>Whenever the information comes out, it may help answer questions by critics who are skeptical about where officials have been searching for the plane.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="25">
+          <content>Some scientists studying the disappearance and relatives of those on board have become increasingly critical of the lack of public information about why the search has focused on the southern Indian Ocean.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

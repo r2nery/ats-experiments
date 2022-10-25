@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="818" link="http://edition.cnn.com/2012/07/20/opinion/higgs-dark-matter-carroll/index.html?iid=article_sidebar" date_published="2012-07-20 14:29:01" category="opinion" author="Sean Carroll, Special to CNN" highlights_mapped="true" mapping_error="false">
+  <title>How the Higgs can lead us to the dark universe</title>
+  <keywords>higgs boson dark matter</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="29">Discovery of Higgs boson can help us find dark matter particles, says physicist Sean Carroll.</sentence>
+      <sentence id="2" ids_article_sentences="1">Dark matter is mysterious, invisible and passes through ordinary matter.</sentence>
+      <sentence id="3" ids_article_sentences="23">Higgs boson could interact both with ordinary protons and neutrons and also with dark matter.</sentence>
+      <sentence id="4" ids_article_sentences="35">Carroll says it may be possible to produce dark matter at the Large Hadron Collider.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-24 13:17:29" annotation_time="91.937">
+      <sentence id="1" ids_highlights="2">The incredible discovery of the Higgs boson will open up new ways of probing the part of the universe that is invisible to our everyday senses: beyond ordinary matter, into the extraordinary world of dark matter.</sentence>
+      <sentence id="23" ids_highlights="3">In many of those models, the Higgs is the one particle that readily interacts both with ordinary protons and neutrons and also with dark matter.</sentence>
+      <sentence id="29" ids_highlights="1">Knowing something about the Higgs will be enormously helpful in figuring out the implications if one of these experiments finds a strong dark-matter signal -- something we&amp;apost;re hopeful could happen in the near future.</sentence>
+      <sentence id="35" ids_highlights="4">If everything breaks just right, we may be able to produce dark matter directly at the Large Hadron Collider.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The incredible discovery of the Higgs boson will open up new ways of probing the part of the universe that is invisible to our everyday senses: beyond ordinary matter, into the extraordinary world of dark matter.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>It isn&amp;apost;t often that you get to be physically present at an historic occasion, but I was at CERN on July 4 when scientists at the Large Hadron Collider announced the discovery of the Higgs boson particle.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Hundreds of young physicists had camped out from the previous night just to get good seats at the technical seminars proclaiming the discovery.</content>
+        </sentence>
+        <sentence id="4">
+          <content>What we witnessed was the first solid evidence for the particle that explains how other particles like electrons and quarks get to be massive.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Part of the excitement stems from the fact that the Higgs boson is the final piece in an extremely elaborate puzzle: the Standard Model of particle physics.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>This boringly named theory has loomed triumphantly over physics for the past 40 years, withstanding all experimental challenges.</content>
+        </sentence>
+        <sentence id="7">
+          <content>With this final piece in place, we can justifiably say that we understand the behavior of ordinary matter -- the atoms and molecules that make up ourselves and our everyday world.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>Much more of the excitement, however, had a deeper basis: if the Higgs is the final chapter in one story, it&amp;apost;s also the prologue to our next adventure.</content>
+        </sentence>
+        <sentence id="9">
+          <content>This is true literally as well as figuratively.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>As successful as the Standard Model has been, we know it&amp;apost;s not the final answer to how the universe works.</content>
+        </sentence>
+        <sentence id="11">
+          <content>Strong evidence comes from the existence of dark matter: mysterious, invisible stuff that adds up to five times as much mass as the ordinary atoms and particles in the universe.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>We know enough about dark matter to be sure that it&amp;apost;s not just some kind of ordinary matter that is hiding in the shadows.</content>
+        </sentence>
+        <sentence id="13">
+          <content>It is something truly new, something we haven&amp;apost;t yet directly seen here on Earth.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>But we&amp;apost;re trying.</content>
+        </sentence>
+        <sentence id="15">
+          <content>Multiple experiments are underway to look for the dark matter particles we think are all around us.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Not only are they &amp;quot;dark,&amp;quot; these particles hardly interact with ordinary matter at all.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="17">
+          <content>It&amp;apost;s possible, even likely, that millions of them pass through your body every second.</content>
+        </sentence>
+        <sentence id="18">
+          <content>It&amp;apost;s like a city with two populations, each speaking a different language, and no translators or bilingual interpreters.</content>
+        </sentence>
+        <sentence id="19">
+          <content>The two groups of people go about their separate lives, never directly speaking with each other.</content>
+        </sentence>
+        <sentence id="20">
+          <content>Likewise, in our galaxy, dark matter and ordinary matter pass right through each other all the time.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="21">
+          <content>The Higgs boson could be the bilingual particle we&amp;apost;ve been looking for.</content>
+        </sentence>
+        <sentence id="22">
+          <content>We don&amp;apost;t know exactly what the dark matter is, but we certainly have our favorite theories.</content>
+        </sentence>
+        <sentence id="23">
+          <content>In many of those models, the Higgs is the one particle that readily interacts both with ordinary protons and neutrons and also with dark matter.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="24">
+          <content>There are several experiments currently running with the goal of detecting dark matter.</content>
+        </sentence>
+        <sentence id="25">
+          <content>Typically they are deep underground, shielded from cosmic rays and other sources of noise, kept in environments that are as quiet as possible.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="26">
+          <content>Dark matter particles are able to penetrate through the Earth and pass right through the detector.</content>
+        </sentence>
+        <sentence id="27">
+          <content>Most do so unmolested, but occasionally we&amp;apost;ll get lucky and one will interact with the nucleus of an atom, leaving a bit of energy behind.</content>
+        </sentence>
+        <sentence id="28">
+          <content>Our best theoretical guess is that the way that interaction will happen is through the exchange of Higgs bosons.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="29">
+          <content>Knowing something about the Higgs will be enormously helpful in figuring out the implications if one of these experiments finds a strong dark-matter signal -- something we&amp;apost;re hopeful could happen in the near future.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="30">
+          <content>We&amp;apost;re not just waiting around for dark matter to be detected, either.</content>
+        </sentence>
+        <sentence id="31">
+          <content>Now that we&amp;apost;ve found the Higgs, we can start studying its properties in detail.</content>
+        </sentence>
+        <sentence id="32">
+          <content>How is it made?</content>
+        </sentence>
+        <sentence id="33">
+          <content>How does it decay?</content>
+        </sentence>
+        <sentence id="34">
+          <content>Are its properties those predicted by the Standard Model, or are there hints of something new going on?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="35">
+          <content>If everything breaks just right, we may be able to produce dark matter directly at the Large Hadron Collider.</content>
+        </sentence>
+        <sentence id="36">
+          <content>It won&amp;apost;t be easy, precisely because dark matter interacts so weakly.</content>
+        </sentence>
+        <sentence id="37">
+          <content>Even if you make it, it&amp;apost;s hard to be sure, because the antisocial dark matter particles tend to zip out of your experiment without leaving any trace behind.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="38">
+          <content>But once we better understand the Higgs and the particles it decays into, we might be able to infer the presence of dark matter just by process of elimination, by pinpointing events in which more energy went into the collision than we detected coming out.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="39">
+          <content>Even though it wasn&amp;apost;t discovered until 2012, the Higgs boson was proposed back in 1964.</content>
+        </sentence>
+        <sentence id="40">
+          <content>It is very much a child of the 20th century.</content>
+        </sentence>
+        <sentence id="41">
+          <content>In particle physics and cosmology, the 21st century promises discoveries that will help illuminate the dark universe around us.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="42">
+          <content>That&amp;apost;s the great thing about history being made: you know things are different now, but you can&amp;apost;t be sure where you&amp;apost;re going to go next.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

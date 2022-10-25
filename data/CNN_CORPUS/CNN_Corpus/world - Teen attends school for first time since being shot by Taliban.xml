@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2813" link="http://cnn.com/2013/03/19/world/asia/pakistan-malala-school" date_published="2013-03-19 17:14:04" category="world" author="Jason Hanna and Saskya Vandoorne, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Teen attends school for first time since being shot by Taliban</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">Malala Yousafzai attends school in Birmingham, England, where she was treated after shooting.</sentence>
+      <sentence id="2" ids_article_sentences="4">Malala: &amp;quot;I am excited that today I have achieved my dream of going back to school&amp;quot;.</sentence>
+      <sentence id="3" ids_article_sentences="3">Taliban shot the teen in Pakistan in October.</sentence>
+      <sentence id="4" ids_article_sentences="3">Before shooting, teen got international attention for defying Taliban&amp;apost;s ban on girls in school.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-09 14:35:29" annotation_time="29.87">
+      <sentence id="2" ids_highlights="1">The 15-year-old on Tuesday attended Edgbaston High School in Birmingham, England, the city in which doctors treated her after she received initial care in Pakistan, a public relations agency working with her announced.</sentence>
+      <sentence id="3" ids_highlights="3, 4">It was her first day at school since the Taliban shot her in the head in October for campaigning for girls&amp;apost; education.</sentence>
+      <sentence id="4" ids_highlights="2">&amp;quot;I am excited that today I have achieved my dream of going back to school,&amp;quot; Malala said, according to a release from her representatives.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>For the first time since the Taliban shot her five months ago, Pakistani teenager Malala Yousafzai has done what made her a target of the would-be assassins: She&amp;apost;s gone to school.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The 15-year-old on Tuesday attended Edgbaston High School in Birmingham, England, the city in which doctors treated her after she received initial care in Pakistan, a public relations agency working with her announced.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>It was her first day at school since the Taliban shot her in the head in October for campaigning for girls&amp;apost; education.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>&amp;quot;I am excited that today I have achieved my dream of going back to school,&amp;quot; Malala said, according to a release from her representatives.</content>
+        </sentence>
+        <sentence id="5">
+          <content>&amp;quot;I want all girls in the world to have this basic opportunity.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;I miss my classmates from Pakistan very much, but I am looking forward to meeting my teachers and making new friends here in Birmingham.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>On October 9, the teenager was riding home in a school van in the Swat Valley, a Taliban stronghold in Pakistan, when masked men stopped the vehicle.</content>
+        </sentence>
+        <sentence id="8">
+          <content>They demanded that the other girls identify Malala, and when they did, the men shot Malala in the head and neck.</content>
+        </sentence>
+        <sentence id="9">
+          <content>The gunmen also shot another girl, wounding her.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>Malala improved through numerous surgeries, including two to repair her shattered skull and restore her hearing.</content>
+        </sentence>
+        <sentence id="11">
+          <content>She was walking by the time she was released from the Birmingham hospital in February.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>She is continuing rehabilitation at her family&amp;apost;s temporary home in Birmingham and is to visit the hospital occasionally for outpatient appointments.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>Her story moved Pakistan to vow that it would more vigorously fight for girls&amp;apost; rights and against the Taliban.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>Malala gained international attention three years before she was shot, as a campaigner for girls&amp;apost; education in Pakistan.</content>
+        </sentence>
+        <sentence id="15">
+          <content>In 2009, she wrote a blog published by the BBC about how she wanted to go to school but was afraid.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;The Taliban have repeatedly targeted schools in Swat,&amp;quot; she wrote.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>About that time, the Taliban issued a formal edict, which covered her home in the Swat Valley, banning all girls from schools.</content>
+        </sentence>
+        <sentence id="18">
+          <content>On the blog, Malala praised her father, who was operating one of the few schools that would go on to defy that order.</content>
+        </sentence>
+        <sentence id="19">
+          <content>She started giving interviews with news outlets, including CNN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="20">
+          <content>&amp;quot;I have the right of education,&amp;quot; she said in a 2011 interview with CNN.</content>
+        </sentence>
+        <sentence id="21">
+          <content>&amp;quot;I have the right to play.</content>
+        </sentence>
+        <sentence id="22">
+          <content>I have the right to sing.</content>
+        </sentence>
+        <sentence id="23">
+          <content>I have the right to talk.</content>
+        </sentence>
+        <sentence id="24">
+          <content>I have the right to go to market.</content>
+        </sentence>
+        <sentence id="25">
+          <content>I have the right to speak up.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

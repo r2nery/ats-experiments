@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2193" link="http://cnn.com/2014/07/20/world/libya-fighting" date_published="2014-07-20 15:21:59" category="world" author="Jomana Karadsheh, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Fighting intensifies in Libya</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Fierce fighting in Libya worst since 2011 revolution.</sentence>
+      <sentence id="2" ids_article_sentences="1">Militias battle for control of the airport in Tripoli.</sentence>
+      <sentence id="3" ids_article_sentences="26, 25">Libya&amp;apost;s foreign minister says the country needs foreign help.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-02 10:55:01" annotation_time="29.98133" mapping_time_divergence="9.993777">
+      <sentence id="1" ids_highlights="1, 2">Fierce fighting raged on the outskirts of Tripoli on Sunday as militias continued to battle for control of the airport in what&amp;apost;s being called the worst fighting in Libya since the 2011 revolution.</sentence>
+      <sentence id="25" ids_highlights="3">He insisted that his country was not requesting foreign military intervention.</sentence>
+      <sentence id="26" ids_highlights="3">The Libyan Interim Government said earlier in the week it was discussing the possibility of requesting international forces.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Fierce fighting raged on the outskirts of Tripoli on Sunday as militias continued to battle for control of the airport in what&amp;apost;s being called the worst fighting in Libya since the 2011 revolution.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Clashes were concentrated around the airport, the airport road and a number of residential areas where militias have fought over the past week, residents said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>At least five people have been killed, one local official said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>The latest assaults were launched by militias from the city of Misrata and an Islamist militia umbrella group in the capital known as the &amp;quot;Libyan Revolutionaries Operations Room.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>The airport has been under the control of militia from the Western Mountains city of Zintan for the past three years.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>According to residents in different parts of Tripoli, thick plumes of black smoke rose from the direction of the airport and large blasts and gunfire echoed across the city.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>Speaking by phone to Libyan television on Sunday, a spokesman for the municipal council of Qasr Bin Ghasheer, the area around the airport, said at least five people from the area had been killed in the fighting so far.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="8">
+          <content>The spokesman, Mohammed Abdul Rahman, said it was hard to get an accurate casualty figure because of the intensity of fighting and limited movement in the area.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="9">
+          <content>&amp;quot;Shells are falling on houses, children are terrified and most people have evacuated.</content>
+        </sentence>
+        <sentence id="10">
+          <content>... Our area is suffering,&amp;quot; he told the privately run al-Nabaa TV.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="11">
+          <content>There was no official overall casualty figure for the fighting in other areas impacted over the last seven days.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="12">
+          <content>At the airport, the Libyan government said 90% of planes parked there were damaged and images on social media showed various parts of the facility destroyed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="13">
+          <content>The United Nations and other international organizations and businesses have temporarily evacuated staff from Libya.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="14">
+          <content>The U.S. Embassy in Tripoli said in a statement that some rounds from the fighting have hit near the compound, but all personnel &amp;quot;are safe and accounted for.&amp;quot;</content>
+        </sentence>
+        <sentence id="15">
+          <content>It called for an end to the violence.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="16">
+          <content>Addressing the U.N. Security Council on Thursday, Tarek Mitri, head of its mission in Libya, issued a stark warning.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;As the number of military actors mobilizing and consolidating their presence within the capital continues to grow, there is a mounting sense of a probable imminent and significant escalation in the conflict.</content>
+        </sentence>
+        <sentence id="18">
+          <content>The stakes are high for all sides,&amp;quot; Mitri said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;We are in the middle of an all-out confrontation between two major rival groups in the Libyan capital.</content>
+        </sentence>
+        <sentence id="20">
+          <content>That confrontation, born out of the deep political polarization, is playing itself out at the country&amp;apost;s international airport.&amp;quot;</content>
+        </sentence>
+        <sentence id="21">
+          <content>Mitri said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="22">
+          <content>Libya&amp;apost;s Foreign Minister Mohamed Abdulaziz also addressed the Security Council.</content>
+        </sentence>
+        <sentence id="23">
+          <content>He warned of Libya heading toward becoming a &amp;quot;failed state.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="24">
+          <content>Abdulaziz said Libya needed more international support and asked the United Nations to consider a &amp;quot;stabilization and institution-building mission.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="25">
+          <content>He insisted that his country was not requesting foreign military intervention.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="26">
+          <content>The Libyan Interim Government said earlier in the week it was discussing the possibility of requesting international forces.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="27">
+          <content>Three years after the revolution and NATO military intervention that overthrew the Gadhafi regime, a weak central government has been outgunned by increasingly powerful militias.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="28">
+          <content>The militia fighting for control of the airport from the city of Zintan and Misrata are among the most heavily armed in the country.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

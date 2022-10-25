@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2851" link="http://www.cnn.com/2014/04/22/world/africa/al-jazeera-journalists-trial-egypt" date_published="2014-04-23 02:55:24" category="world" author="Sarah Sirgany, for CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Trial of three Al Jazeera journalists in Egypt adjourned until May</title>
+  <keywords>Al Jazeera journalists trial</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">The trial of three Al Jazeera journalists is adjourned until May .</sentence>
+      <sentence id="2" ids_article_sentences="11">Prosecution presents video of sheep herding and meat consumption as part of its case .</sentence>
+      <sentence id="3" ids_article_sentences="12, 11">An incredulous defense lawyer: &amp;quot;Put the sheep aside. ... This is a waste of time&amp;quot;.</sentence>
+      <sentence id="4" ids_article_sentences="3">The Egyptian government says the trio joined the Muslim Brotherhood.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-11 10:24:37" annotation_time="24.580336" mapping_time_divergence="6.145084">
+      <sentence id="1" ids_highlights="1">The trial of three Al Jazeera journalists held on terrorism-related charges in Egypt was adjourned until May after the court on Tuesday viewed videos presented by the prosecution.</sentence>
+      <sentence id="3" ids_highlights="4">The three were arrested at a Cairo hotel room and later charged with joining what the government says is a terrorist group -- the Muslim Brotherhood -- as well as broadcasting false information and working in Egypt without permits.</sentence>
+      <sentence id="11" ids_highlights="2, 3">Following the display of a video on sheep herding and meat consumption, Fahmy&amp;apost;s lawyer, Khaled Abu Bakr, told the court, &amp;quot;Put the sheep aside and cut the chase to the case.</sentence>
+      <sentence id="12" ids_highlights="3">This is a waste of time.&amp;quot;</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The trial of three Al Jazeera journalists held on terrorism-related charges in Egypt was adjourned until May after the court on Tuesday viewed videos presented by the prosecution.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Bail was again denied for correspondent Peter Greste, producer Mohamed Fahmy and producer Baher Mohamed, who have been in jail since December 29.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The three were arrested at a Cairo hotel room and later charged with joining what the government says is a terrorist group -- the Muslim Brotherhood -- as well as broadcasting false information and working in Egypt without permits.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>Their case has drawn widespread international condemnation from human rights groups.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>The prosecution presented video and audio recordings and photos from the pool of material collected from the defendants&amp;apost; laptops, cameras and phones.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>The defense challenged the meaningfulness of the evidence.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;These are very ordinary videos that don&amp;apost;t come close to national security in accordance with the list of charges,&amp;quot; lawyer Ibrahim Abdel Wahab told CNN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="8">
+          <content>Fahmy told reporters during recess, &amp;quot;Every journalist has this on their computer.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Why is this evidence?&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="10">
+          <content>Throughout Tuesday&amp;apost;s seven-hour session, lawyers expressed frustration with the type of evidence accepted by the court as relevant.</content>
+        </sentence>
+        <sentence id="11">
+          <content>Following the display of a video on sheep herding and meat consumption, Fahmy&amp;apost;s lawyer, Khaled Abu Bakr, told the court, &amp;quot;Put the sheep aside and cut the chase to the case.</content>
+        </sentence>
+        <sentence id="12">
+          <content>This is a waste of time.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>Many people in the courtroom, including journalists in attendance, found much of the video evidence inaudible.</content>
+        </sentence>
+        <sentence id="14">
+          <content>The judge disagreed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="15">
+          <content>Tuesday&amp;apost;s material was supposed to be what the prosecution saw as the most relevant to the case following an April 10 session in which random footage of Greste&amp;apost;s work in Kenya and some Sky News Arabia reports dating back to 2012 were shown.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="16">
+          <content>Greste, an Australian who had worked in Egypt for three weeks when he was arrested in December, told reporters earlier this month that the evidence was &amp;quot;ludicrous&amp;quot; and &amp;quot;a joke.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="17">
+          <content>The trial comes as part of an intermittent crackdown on journalists.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="18">
+          <content>The Committee to Protect Journalists ranked Egypt as the third deadliest country for journalists in 2013.</content>
+        </sentence>
+        <sentence id="19">
+          <content>Reporters Without Borders said 80 journalists were arrested from July to September last year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="20">
+          <content>Human rights groups have criticized the trial, saying the arrests indicate authorities in Egypt are stifling dissent and freedom of the press.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="21">
+          <content>Al Jazeera is a large news television and digital outlet with headquarters in Doha, Qatar.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

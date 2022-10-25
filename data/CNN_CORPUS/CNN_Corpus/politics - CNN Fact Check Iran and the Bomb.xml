@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1020" link="http://www.cnn.com/2012/10/12/politics/fact-check-iran-nuclear/index.html" date_published="2012-10-12 07:41:21" category="politics" author="Matt Smith, CNN" highlights_mapped="true" mapping_error="false">
+  <title>CNN Fact Check: Iran and the Bomb</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="24">Ryan says Iran is &amp;quot;racing&amp;quot; toward the bomb.</sentence>
+      <sentence id="2" ids_article_sentences="7">Biden says Tehran is &amp;quot;a good way away&amp;quot;.</sentence>
+      <sentence id="3" ids_article_sentences="21">Iran insists its nuclear work is peaceful.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-06 20:36:32" annotation_time="33.328335">
+      <sentence id="7" ids_highlights="2">Biden hit back by criticizing what he called &amp;quot;bluster&amp;quot; and &amp;quot;loose talk&amp;quot; about the issue, saying international sanctions are crippling the Iranian economy and that U.S. and Israeli officials believe Iran is &amp;quot;a good way away&amp;quot; from getting the bomb.</sentence>
+      <sentence id="21" ids_highlights="3">The IAEA has verified that Iran has not diverted any of its declared uranium stock, but cautions that Iran &amp;quot;is not providing the necessary cooperation&amp;quot; to verify that all nuclear work is peaceful.</sentence>
+      <sentence id="24" ids_highlights="1">As for the United States, American intelligence agencies believe Iran &amp;quot;is keeping open the option to develop nuclear weapons&amp;quot; but has not made the decision to build a bomb, Director of National Intelligence James Clapper told a Senate committee in January.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Fears of a possibly nuclear-armed Iran took center stage early in Thursday night&amp;apost;s vice presidential debate between incumbent Democrat Joe Biden and his Republican challenger, Paul Ryan.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>&amp;quot;When Barack Obama was elected, they had enough fissile material, nuclear material, to make one bomb.</content>
+        </sentence>
+        <sentence id="3">
+          <content>Now they have enough to make five,&amp;quot; Ryan said.</content>
+        </sentence>
+        <sentence id="4">
+          <content>&amp;quot;They&amp;apost;re racing toward a nuclear weapon.</content>
+        </sentence>
+        <sentence id="5">
+          <content>They&amp;apost;re four years closer toward a nuclear weapons capability.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="6">
+          <content>The Wisconsin congressman said Iran&amp;apost;s progress has sped along &amp;quot;because this administration has no credibility on this issue.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>Biden hit back by criticizing what he called &amp;quot;bluster&amp;quot; and &amp;quot;loose talk&amp;quot; about the issue, saying international sanctions are crippling the Iranian economy and that U.S. and Israeli officials believe Iran is &amp;quot;a good way away&amp;quot; from getting the bomb.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>The facts:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>Iran has greatly expanded its ability to produce nuclear fuel in the past four years, revealing a second uranium enrichment plant in 2009 and continuing to defy U.N. demands that it halt work until questions about its intentions are resolved.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>A bit of tech talk here: About three-quarters of 1% of naturally occurring uranium is uranium-235, the radioactive isotope used to produce a nuclear reaction.</content>
+        </sentence>
+        <sentence id="11">
+          <content>To produce fuel for nuclear power plants, that concentration has to be increased to 3 to 5%, while research reactors use fuel with a U-235 concentration of about 20%.</content>
+        </sentence>
+        <sentence id="12">
+          <content>To make a nuclear weapon, that concentration has to be increased to more than 90%.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>As of May, Iran had produced about 6,200 kilograms (13,640 pounds) of power plant-grade uranium and 146 kilograms (320 pounds) of fuel at 20% concentration, according to the International Atomic Energy Agency, the U.N. nuclear watchdog.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>Based on those figures, the Washington-based Institute for Science and International Security, estimated that Iran could produce enough weapons-grade uranium for five nuclear bombs.</content>
+        </sentence>
+        <sentence id="15">
+          <content>The organization, led by former U.N. weapons inspector David Albright, says Iran could build a crude bomb with 20-25 kg (44-55 pounds) of highly enriched uranium.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="16">
+          <content>However, it would take Iran more than two months to produce that amount if it started with 20%-grade uranium, and &amp;quot;several months&amp;quot; to make enough for a bomb using low-enriched uranium.</content>
+        </sentence>
+        <sentence id="17">
+          <content>That would give the world community enough time to detect the operation and organize a response, ISIS noted in June.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="18">
+          <content>And there&amp;apost;s more to building a bomb than just having the uranium, as Biden noted.</content>
+        </sentence>
+        <sentence id="19">
+          <content>ISIS estimated last week, that Iran would need &amp;quot;many additional months&amp;quot; to develop a device that could be tested &amp;quot;and even longer to make a reliable warhead for a ballistic missile.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="20">
+          <content>Iran has denied conducting any nuclear weapons research, insisting its nuclear program is for civilian purposes.</content>
+        </sentence>
+        <sentence id="21">
+          <content>The IAEA has verified that Iran has not diverted any of its declared uranium stock, but cautions that Iran &amp;quot;is not providing the necessary cooperation&amp;quot; to verify that all nuclear work is peaceful.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="22">
+          <content>Israel has accused Iran of working toward a nuclear weapon, raising concerns that it could launch a preventive attack on Iranian nuclear facilities.</content>
+        </sentence>
+        <sentence id="23">
+          <content>Israel is believed to have its own nuclear arsenal, but has never disclosed whether it has the bomb -- and Iran has accused Israel and the United States of trying to sabotage its nuclear facilities.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="24">
+          <content>As for the United States, American intelligence agencies believe Iran &amp;quot;is keeping open the option to develop nuclear weapons&amp;quot; but has not made the decision to build a bomb, Director of National Intelligence James Clapper told a Senate committee in January.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="25">
+          <content>Conclusion: According to at least one widely circulated estimate, Iran could produce enough uranium for five bombs, as Ryan says.</content>
+        </sentence>
+        <sentence id="26">
+          <content>But the same estimate notes that it would draw attention if it did so, and that&amp;apost;s only part of the work necessary to make a weapon.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

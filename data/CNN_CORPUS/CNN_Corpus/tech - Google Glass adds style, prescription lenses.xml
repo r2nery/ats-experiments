@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1599" link="http://www.cnn.com/2014/01/28/tech/innovation/google-glass-lenses" date_published="2014-01-28 05:05:41" category="tech" author="Heather Kelly, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Google Glass adds style, prescription lenses</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">Google says it will add Google Glass options for prescription glasses.</sentence>
+      <sentence id="2" ids_article_sentences="4">Lenses will be available in a set of newly designed frames that will cost $225.</sentence>
+      <sentence id="3" ids_article_sentences="3">Move is the latest attempt by Google to make its connected eyewear more fashionable.</sentence>
+      <sentence id="4" ids_article_sentences="15">But the Internet-enabled glasses still aren&amp;apost;t welcome everywhere.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-16 17:40:17" annotation_time="27.445">
+      <sentence id="2" ids_highlights="1">On Tuesday, Google announced it will add Google Glass options for prescription glasses, its most requested feature since it launched the face-mounted computers last year.</sentence>
+      <sentence id="3" ids_highlights="3">The move is the latest attempt by Google to make the beta version of its connected eyewear more fashionable and consumer friendly before it releases the product to the broader public toward the end of 2014.</sentence>
+      <sentence id="4" ids_highlights="2">The prescription lenses will be available in a set of newly designed, fashion-conscious frames that will cost $225 each.</sentence>
+      <sentence id="15" ids_highlights="4">Fusing Google Glass with prescription lenses could lead to its own set of problems, however, because wearers can&amp;apost;t take them off without limiting their vision, and the Internet-enabled glasses aren&amp;apost;t welcome everywhere.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Google Glass&amp;apost;s vision for its future is coming into focus.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>On Tuesday, Google announced it will add Google Glass options for prescription glasses, its most requested feature since it launched the face-mounted computers last year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The move is the latest attempt by Google to make the beta version of its connected eyewear more fashionable and consumer friendly before it releases the product to the broader public toward the end of 2014.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>The prescription lenses will be available in a set of newly designed, fashion-conscious frames that will cost $225 each.</content>
+        </sentence>
+        <sentence id="5">
+          <content>This new Titanium line will include four frame shapes called curve, thin, split and bold.</content>
+        </sentence>
+        <sentence id="6">
+          <content>The outside of the Titanium frames is gray, but there are four options for subtle accent colors inside the frames.</content>
+        </sentence>
+        <sentence id="7">
+          <content>Google is also adding three options for sunglasses that will cost $150 each.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>The actual Glass hardware, which can shoot video and projects Internet content such as e-mails, walking directions and sports scores onto a tiny screen above the wearer&amp;apost;s right eye, is staying the same for now.</content>
+        </sentence>
+        <sentence id="9">
+          <content>It was last updated in October, when the team made sure the design was modular and could attach to the right side of the Titanium glass frames.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>You still can&amp;apost;t quickly pop Google Glass off one frame and onto another, because the process requires undoing a small screw.</content>
+        </sentence>
+        <sentence id="11">
+          <content>While the task is easy enough, the system is not meant for frequent frame changes.</content>
+        </sentence>
+        <sentence id="12">
+          <content>Google is betting that people will be so comfortable wearing Google Glass that they won&amp;apost;t have to choose between prescription glasses and Google Glass.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="13">
+          <content>&amp;quot;We&amp;apost;re going to reach some day, hopefully it will be soon, where people will wonder &amp;apost;why would I want traditional glasses?</content>
+        </sentence>
+        <sentence id="14">
+          <content>They don&amp;apost;t do X, Y or Z,&amp;apost; &amp;quot; said Google Glass Product Director Steve Lee.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="15">
+          <content>Fusing Google Glass with prescription lenses could lead to its own set of problems, however, because wearers can&amp;apost;t take them off without limiting their vision, and the Internet-enabled glasses aren&amp;apost;t welcome everywhere.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="16">
+          <content>Earlier this month, an Ohio man was questioned by local and federal law enforcement for wearing his Google Glass during a movie.</content>
+        </sentence>
+        <sentence id="17">
+          <content>The authorities suspected he was secretly recording the film until he explained the eyewear was turned off and connected to a pair of prescription frames.</content>
+        </sentence>
+        <sentence id="18">
+          <content>(He had purchased the custom frames for $600 through a third party.).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="19">
+          <content>Driving while wearing Glass is also a thorny issue in many states, including California, where a woman was ticketed last year for wearing the device while behind the wheel.</content>
+        </sentence>
+        <sentence id="20">
+          <content>The citation was dismissed in court, but since many people need their prescription glasses to drive, there could be an uptick in the number of motorists sporting Google Glass.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="21">
+          <content>Google is confident these types of issues will be resolved as Glass becomes more common place and people learn to recognize when the device is turned on or off.</content>
+        </sentence>
+        <sentence id="22">
+          <content>Currently there is no indicator light but when the device is on, other people can see a faint light on the Glass screen.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="23">
+          <content>The company hopes venues and states hostile to Glass might even embrace it down the road.</content>
+        </sentence>
+        <sentence id="24">
+          <content>For example, there&amp;apost;s a Glass app called Drive Safe Google Glass that can wake drivers up if it detects they are falling asleep.</content>
+        </sentence>
+        <sentence id="25">
+          <content>That might appeal to law enforcement.</content>
+        </sentence>
+        <sentence id="26">
+          <content>Theaters could embrace the technology as a way to deliver close captioning for movies to certain audience members.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="27">
+          <content>&amp;quot;I think you need to give the technology a chance to breathe and evolve,&amp;quot; said Google Glass spokesperson Chris Dale.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="28">
+          <content>Prescription glasses can be pricey without insurance, so Google has struck a deal with vision benefits company Vision Service Plan, commonly known as VSP, to add coverage for wearers of the new specs.</content>
+        </sentence>
+        <sentence id="29">
+          <content>Insurance reimbursements will extend only to the frames and prescription lenses and can&amp;apost;t be used toward the Glass device itself, which still costs $1,500.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="30">
+          <content>The new frames were designed in-house by Google employees on the Glass team, despite earlier rumors of a possible partnership with hip eyewear retailer Warby Parker.</content>
+        </sentence>
+        <sentence id="31">
+          <content>Going forward, the company does hope to work with third-party eyewear companies so partners can create their own Google Glass compatible products.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="32">
+          <content>Even with the regular-looking new frames, someone wearing Google Glass still stands out.</content>
+        </sentence>
+        <sentence id="33">
+          <content>In the future, it might be possible to shrink the hardware down so that it&amp;apost;s more subtle, but Google doesn&amp;apost;t necessarily think that&amp;apost;s what all users will want.</content>
+        </sentence>
+        <sentence id="34">
+          <content>More modular designs and partnerships with third parties could expand the options so that a Glass wearer could decide between wearing an obvious look or going undetected.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="35">
+          <content>&amp;quot;Sometimes I want to go out and I want to be seen, I want people to talk to me about Glass.</content>
+        </sentence>
+        <sentence id="36">
+          <content>I&amp;apost;ve actually found glass to be the most social experience ever,&amp;quot; said Lee.</content>
+        </sentence>
+        <sentence id="37">
+          <content>&amp;quot;But other times I just want to go about my business, stay low key.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

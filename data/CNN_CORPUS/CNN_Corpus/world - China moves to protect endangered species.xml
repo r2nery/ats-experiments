@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2114" link="http://edition.cnn.com/2014/04/30/world/asia/china-wildlife-law/index.html" date_published="2014-04-30 08:04:47" category="world" author="Zoe Li, CNN" highlights_mapped="true" mapping_error="false">
+  <title>China moves to protect endangered species</title>
+  <keywords>China wildlife law</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="17">Illegal wildlife trade fourth most lucrative in the world, behind human trafficking.</sentence>
+      <sentence id="2" ids_article_sentences="3">Eating endangered species is now a criminal offense in China, punishable by 10 years in jail.</sentence>
+      <sentence id="3" ids_article_sentences="25">Consumers are just one part of the problem, says conservationist.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-06 22:11:41" annotation_time="169.6605">
+      <sentence id="3" ids_highlights="2">Anyone who eats endangered species, or buys them for other purposes, is punishable by up to 10 years in jail, state-run news agency Xinhua reported.</sentence>
+      <sentence id="17" ids_highlights="1">In a 2013 report, the International Fund for Animal Welfare found that the illegal wildlife trade ranks fourth in the world as the most lucrative criminal activity internationally, behind narcotics, counterfeiting and human trafficking.</sentence>
+      <sentence id="25" ids_highlights="3">But Lo points out that consumers and retailers on the black market are only one part of the puzzle.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Curbing China&amp;apost;s appetite for wild game is just the beginning of the war against illegal poaching, say conservationists.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Last week, the Standing Committee of the National People&amp;apost;s Congress (NPC) clarified the country&amp;apost;s laws on the illegal wildlife trade.</content>
+        </sentence>
+        <sentence id="3">
+          <content>Anyone who eats endangered species, or buys them for other purposes, is punishable by up to 10 years in jail, state-run news agency Xinhua reported.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Cheryl Lo, a spokesperson for the World Wide Fund for Nature who is based in Hong Kong, told CNN she is &amp;quot;very happy&amp;quot; that the announcement comes with a long list of protected species.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>&amp;quot;The law has always been there, but the interpretation has cleared up the ambiguity.</content>
+        </sentence>
+        <sentence id="6">
+          <content>Now it is clear that consumers have to bear responsibility.</content>
+        </sentence>
+        <sentence id="7">
+          <content>But we still have to watch if they will actually enforce and execute on the legislation,&amp;quot; she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>China has 420 animals on a list of officially protected endangered species.</content>
+        </sentence>
+        <sentence id="9">
+          <content>It includes the giant panda and golden monkey.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>Many species on the list are illegally traded for their meat, organs or body fluids, considered delicacies and prized for their supposed medicinal properties.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>Indigenous to China, the endangered pangolin can be found on restaurant menus selling for as much as RMB 2,000 ($324) a dish.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>The cuora trifasciata, more commonly known as &amp;quot;golden coin turtle,&amp;quot; is traditionally used in making a medicinal jelly.</content>
+        </sentence>
+        <sentence id="13">
+          <content>Nowadays, both wild and farmed turtles are very expensive and less commonly used in mass-marketed medicinal turtle jellies.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>The high cost involved in feasting on endangered species means the meals are a status symbol.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>Now, those hungry for a taste of the wild will have to think twice before taking a bite.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>Rhino horn more valuable than gold.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>In a 2013 report, the International Fund for Animal Welfare found that the illegal wildlife trade ranks fourth in the world as the most lucrative criminal activity internationally, behind narcotics, counterfeiting and human trafficking.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="18">
+          <content>And prices for animal items continue to rise.</content>
+        </sentence>
+        <sentence id="19">
+          <content>Ivory costs up to $1,000 per pound, while rhino horn is more valuable than gold or platinum, according to the report.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="20">
+          <content>&amp;quot;We have lobbied against the selling of shark fin in Hong Kong for a long time with no results,&amp;quot; said Lo.</content>
+        </sentence>
+        <sentence id="21">
+          <content>&amp;quot;Last year, mainland China announced a ban on sharks fin at official banquets and Hong Kong also banned shark fin, bluefin tuna and black moss (at official functions).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;Then China decided to destroy confiscated ivory and Hong Kong will follow next month.</content>
+        </sentence>
+        <sentence id="23">
+          <content>So I do see a trend of stepping up efforts to protect species in the region.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="24">
+          <content>Hong Kong will burn 28 tonnes of seized ivory on May 15, the largest stockpile to ever be destroyed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="25">
+          <content>But Lo points out that consumers and retailers on the black market are only one part of the puzzle.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="26">
+          <content>&amp;quot;We need to see a lot of effort from many different angles in order to protect endangered species and recover the dwindling populations.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="27">
+          <content>&amp;quot;Population decline can be due to threats to their habitat through urban encroachment, conflicts with agricultural producers, climate change, as well as poaching,&amp;quot; says the activist.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

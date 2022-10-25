@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2633" link="http://cnn.com/2013/01/30/world/asia/australia-politics-gillard-elections" date_published="2013-01-30 10:49:14" category="world" author="Jethro Mullen, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Prime Minister Julia Gillard surprises Australia with election call</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Julia Gillard says national elections will take place in September.</sentence>
+      <sentence id="2" ids_article_sentences="1">It&amp;apost;s unusually advanced notice for elections in Australia.</sentence>
+      <sentence id="3" ids_article_sentences="4">Some commentators say it will subject voters to a lengthy ordeal.</sentence>
+      <sentence id="4" ids_article_sentences="12">Opposition leader Tony Abbott says he welcomes the announcement.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-25 09:48:53" annotation_time="11.898334">
+      <sentence id="1" ids_highlights="1, 2">Prime Minister Julia Gillard of Australia said Wednesday that national elections would take place in September, giving unusually lengthy notice to voters and her opponents of a hard campaign ahead.</sentence>
+      <sentence id="4" ids_highlights="3">But some commentators suggested that in trying to give the country more clarity, she was in fact creating a drawn-out ordeal for voters.</sentence>
+      <sentence id="12" ids_highlights="4">Her main challenger, Tony Abbott, the leader of the opposition, said he welcomed the announcement of the date.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Prime Minister Julia Gillard of Australia said Wednesday that national elections would take place in September, giving unusually lengthy notice to voters and her opponents of a hard campaign ahead.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>In a speech in the national capital, Canberra, Gillard gave a somber assessment of the economic and social challenges that Australia is facing under her Labor government, which is struggling in opinion polls.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>She said that announcing the timetable for the September vote now would end &amp;quot;speculation about election timing&amp;quot; and give &amp;quot;shape and order to the year.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>But some commentators suggested that in trying to give the country more clarity, she was in fact creating a drawn-out ordeal for voters.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>&amp;quot;Julia Gillard has consigned Australians to something approaching a national pregnancy,&amp;quot; wrote Tony Wright, national affairs editor at The Age, a daily newspaper.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>Federal election campaigns in Australia traditionally last around six weeks, far shorter than presidential races in the United States.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>Wright said that a 10 week campaign in Australia in 1984 left voters tired and &amp;quot;tetchy&amp;quot; and hurt the party of the incumbent prime minister at the time, Bob Hawke.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;No more long campaigns became the unbreakable mantra,&amp;quot; Wright said, noting that the September 14 date set by Gillard is 32 weeks away.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="9">
+          <content>Gillard, 51, said in her speech Wednesday that the aim of giving such exceptionally advanced notice was to make the year &amp;quot;one not of fevered campaigning, but of cool and reasoned deliberation.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="10">
+          <content>Dennis Shanahan, political editor of The Australian, a national broadsheet newspaper said that although Gillard was giving up the advantage of surprise that she held over the opposition, she would have the chance to leverage the benefits of her incumbency.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;The prime minister has ensured that she will be able to maximize the effect of being in office, governing, working and being in parliament while people see her as the prime minister,&amp;quot; Shanahan said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="12">
+          <content>Her main challenger, Tony Abbott, the leader of the opposition, said he welcomed the announcement of the date.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="13">
+          <content>Abbott, 55, said his coalition was &amp;quot;ready&amp;quot; and suggested that the election campaign would focus on themes like tax, regulation and freedoms.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="14">
+          <content>Gillard, who managed to form a government after a tight election in 2010, could have set the election date as late as November 30 under Australia&amp;apost;s three-year election cycle.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="15">
+          <content>But Shanahan said he thought she was also moving to head off any potential challenges to her position from within her party.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="16">
+          <content>In the summer of 2010, Gillard replaced the prime minister at the time, Kevin Rudd, whose ratings were suffering after he placed his proposed carbon emissions trading plan on the back burner and introduced a hefty tax on the country&amp;apost;s powerful mining industry.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="17">
+          <content>Tensions remained in the party over her ascension to the prime minister&amp;apost;s office, with some calling it a palace coup.</content>
+        </sentence>
+        <sentence id="18">
+          <content>Rudd unsuccessfully challenged her leadership last year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="19">
+          <content>Under Gillard&amp;apost;s announcement Wednesday, the House of Representatives will be dissolved on August 12.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="20">
+          <content>The elections will involve the entire House of Representatives and half the Senate.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

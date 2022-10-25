@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2111" link="http://www.cnn.com/2013/12/28/world/asia/china-one-child-policy-official" date_published="2013-12-28 08:49:44" category="world" author="Madison Park, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>China eases one-child policy, ends re-education through labor camps</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">China&amp;apost;s top legislature approves changes to one-child policy .</sentence>
+      <sentence id="2" ids_article_sentences="4">Couples will be allowed to have two children if one of the parents was an only child.</sentence>
+      <sentence id="3" ids_article_sentences="23">The National People&amp;apost;s Congress also abolishes re-education through labor camps.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-19 10:39:51" annotation_time="99.98867" mapping_time_divergence="33.329556">
+      <sentence id="1" ids_highlights="1">Hong Kong China&amp;apost;s top legislature approved resolutions to officially amend its controversial one-child policy and end re-education through labor camps.</sentence>
+      <sentence id="4" ids_highlights="2">The changes to the one-child policy, first announced last month, will mean couples will be allowed to have two children if one of the parents was an only child, according to the state-run Xinhua news agency.</sentence>
+      <sentence id="23" ids_highlights="3">Amnesty International told CNN earlier this month that the labor camps are being replaced by other types of facilities such as &amp;quot;legal education camps&amp;quot; or renamed as drug rehabilitation camps.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Hong Kong China&amp;apost;s top legislature approved resolutions to officially amend its controversial one-child policy and end re-education through labor camps.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The Standing Committee of the National People&amp;apost;s Congress passed the resolutions Saturday, according to the Chinese state-run Xinhua news agency.</content>
+        </sentence>
+        <sentence id="3">
+          <content>The resolution is equal to a legal document in China.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>The changes to the one-child policy, first announced last month, will mean couples will be allowed to have two children if one of the parents was an only child, according to the state-run Xinhua news agency.</content>
+        </sentence>
+        <sentence id="5">
+          <content>Currently, both parents must be sole children to be eligible for a second child.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>The one-child policy, which started in the 1970s, is believed to have prevented some 400 million births, according to Xinhua.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>Although the policy has been applauded by many for slowing down China&amp;apost;s rapid population growth, it has also been widely criticized for resulting in forced abortions and hefty fines for families.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>Some critics say the law hurts China&amp;apost;s elderly, who typically rely on their children for support in old age, and even constrains economic growth as the working-age population begins to decline.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>Since the 1990s, the birth rate has declined, with Chinese women giving birth to an average of 1.4 to 1.6 children.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>Officials say the easing of the one-child policy does not mean China is ending its family planning.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;China still has a large population.</content>
+        </sentence>
+        <sentence id="12">
+          <content>This has not changed.</content>
+        </sentence>
+        <sentence id="13">
+          <content>Many of our economic and social problems are rooted in this reality,&amp;quot; said Jiang Fan, an National People&amp;apost;s Congress deputy and member of the NPC Agriculture and Rural Affairs Committee, in Chinese media.</content>
+        </sentence>
+        <sentence id="14">
+          <content>&amp;quot;We cannot risk the population growing out of control.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>The easing of the one-child policy is expected to go into effect in some regions in the first quarter of 2014, according to Xinhua.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>Re-education camps abolished.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>China had hinted as early as January that it would terminate the controversial re-education through labor camps.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="18">
+          <content>The notorious camps date back to the 1950s when the new Communist regime sought to silence its enemies to consolidate its power.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="19">
+          <content>Critics say the camps, which fall outside of the formal prison system, are often misused to persecute government dissidents, including intellectuals, human rights activists and followers of banned spiritual groups like the Falun Gong.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="20">
+          <content>The abolition of labor camps called &amp;quot;laojiao&amp;quot; goes into effect Saturday.</content>
+        </sentence>
+        <sentence id="21">
+          <content>Xinhua reported that the people still serving in re-education through labor camps will be set free.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="22">
+          <content>Human rights organizations say the changes to the labor camps may just be cosmetic.</content>
+        </sentence>
+        <sentence id="23">
+          <content>Amnesty International told CNN earlier this month that the labor camps are being replaced by other types of facilities such as &amp;quot;legal education camps&amp;quot; or renamed as drug rehabilitation camps.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

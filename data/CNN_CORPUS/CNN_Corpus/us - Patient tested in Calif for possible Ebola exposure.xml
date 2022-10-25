@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1965" link="http://edition.cnn.com/2014/08/20/us/california-possible-ebola-exposure/index.html?hpt=hp_t3" date_published="2014-08-20 06:46:11" category="us" author="Laura Ly, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Patient tested in Calif. for possible Ebola exposure</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Unidentified patient is being tested for possible exposure .</sentence>
+      <sentence id="2" ids_article_sentences="6">The CDC will be testing blood samples.</sentence>
+      <sentence id="3" ids_article_sentences="9">Another patient in New York City tested negative for Ebola earlier.</sentence>
+      <sentence id="4" ids_article_sentences="12, 11">Two Americans infected with Ebola remain hospitalized in Atlanta.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-28 14:27:18" annotation_time="66.931">
+      <sentence id="1" ids_highlights="1">Another patient is being tested in the United States for possible Ebola exposure -- this time, in California.</sentence>
+      <sentence id="6" ids_highlights="2">The Centers for Disease Control and Prevention will be testing the patient&amp;apost;s blood samples to determine whether the Ebola virus is present.</sentence>
+      <sentence id="9" ids_highlights="3">Earlier this month, a patient with a high fever and gastrointestinal symptoms was admitted to Mount Sinai Hospital in New York City for Ebola testing, but tested negative.</sentence>
+      <sentence id="11" ids_highlights="4">In July, two Americans, Nancy Writebol and Dr. Kent Brantly, became infected with the virus when working with Ebola patients in Liberia.</sentence>
+      <sentence id="12" ids_highlights="4">Both are currently being treated at Emory University Hospital in Atlanta.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Another patient is being tested in the United States for possible Ebola exposure -- this time, in California.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The unidentified patient is being isolated in a &amp;quot;specially equipped negative pressure room&amp;quot; at the Kaiser Permanente South Sacramento Medical Center.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Trained staff are using protective equipment, coordinated with infectious disease specialists, to provide care for the patient, said Dr. Stephen M. Parodi, director of hospital operations at Kaiser Permanente Northern California, in a statement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>The patient is considered &amp;quot;low-risk&amp;quot; and tests are being conducted out of &amp;quot;an abundance of caution,&amp;quot; the California Department of Public Health said.</content>
+        </sentence>
+        <sentence id="5">
+          <content>There are currently no confirmed cases of Ebola in the state, the agency said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>The Centers for Disease Control and Prevention will be testing the patient&amp;apost;s blood samples to determine whether the Ebola virus is present.</content>
+        </sentence>
+        <sentence id="7">
+          <content>All necessary precautions are being taken to safeguard other patients and staff, the hospital said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>No further information about the patient has been released.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>Earlier this month, a patient with a high fever and gastrointestinal symptoms was admitted to Mount Sinai Hospital in New York City for Ebola testing, but tested negative.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>He recently traveled to a country in West Africa where Ebola has been reported, the hospital said in a statement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>In July, two Americans, Nancy Writebol and Dr. Kent Brantly, became infected with the virus when working with Ebola patients in Liberia.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>Both are currently being treated at Emory University Hospital in Atlanta.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="13">
+          <content>Ebola doesn&amp;apost;t spread through airborne or waterborne methods.</content>
+        </sentence>
+        <sentence id="14">
+          <content>It spreads through contact with organs and bodily fluids such as blood, saliva, urine and other secretions of infected people.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>There is no FDA-approved treatment for Ebola, and Emory will use what isolation unit supervisor Dr. Bruce Ribner calls &amp;quot;supportive care.&amp;quot;</content>
+        </sentence>
+        <sentence id="16">
+          <content>That means carefully tracking a patient&amp;apost;s symptoms, vital signs and organ function and taking measures, such as blood transfusions and dialysis, to keep patients stable.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="17">
+          <content>The Ebola virus causes viral hemorrhagic fever, which refers to a group of viruses that affect multiple organ systems in the body and are often accompanied by bleeding.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="18">
+          <content>Early symptoms include sudden onset of fever, weakness, muscle pain, headaches and a sore throat.</content>
+        </sentence>
+        <sentence id="19">
+          <content>They later progress to vomiting, diarrhea, impaired kidney and liver function -- and sometimes internal and external bleeding.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="20">
+          <content>Emory&amp;apost;s isolation unit aims to optimize care for those with highly infectious diseases and is one of four U.S. institutions capable of providing such treatment.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

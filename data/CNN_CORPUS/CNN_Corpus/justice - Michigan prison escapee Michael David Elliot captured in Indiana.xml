@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="572" link="http://www.cnn.com/2014/02/03/justice/michigan-prison-escape/index.html" date_published="2014-02-03 10:21:52" category="justice" author="Shawn Nottingham and Michael Pearson, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Michigan prison escapee Michael David Elliot captured in Indiana</title>
+  <keywords>Michigan prison escape</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Michael David Elliot was captured in LaPorte County, Indiana.</sentence>
+      <sentence id="2" ids_article_sentences="18">Woman says Elliot told her he was an escaped convict.</sentence>
+      <sentence id="3" ids_article_sentences="22">&amp;quot;He just wants to get someplace far,&amp;quot; she tells dispatchers.</sentence>
+      <sentence id="4" ids_article_sentences="15">Elliot, 40, was serving five life sentences for four murders.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-14 14:51:14" annotation_time="26.272001">
+      <sentence id="1" ids_highlights="1">Escaped Michigan convict Michael David Elliot was captured Monday in LaPorte County, Indiana, authorities said.</sentence>
+      <sentence id="15" ids_highlights="4">He was serving five life sentences on a 1994 conviction for killing four people, according to Michigan Department of Corrections records.</sentence>
+      <sentence id="18" ids_highlights="2">He was an escaped convict, he told her.</sentence>
+      <sentence id="22" ids_highlights="3">&amp;quot;He just wants to get someplace far from Ionia,&amp;quot; she told the dispatcher.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Escaped Michigan convict Michael David Elliot was captured Monday in LaPorte County, Indiana, authorities said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>His capture ended a manhunt that kicked into overdrive after a woman abducted by Elliot managed to call 911.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Locked in a gas station bathroom, she whispers into her cell phone, as he banged on the door.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>&amp;quot;He didn&amp;apost;t say where, exactly, he just said somewhere far,&amp;quot; she says in the 911 call, telling the dispatcher about the escaped convict she says had abducted her some two hours before with a box cutter and a hammer.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>She slipped away from him when they stopped for gas.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;He&amp;apost;s knocking on the bathroom door saying, &amp;apost;Let&amp;apost;s go!&amp;apost; &amp;quot;</content>
+        </sentence>
+        <sentence id="7">
+          <content>the 911 dispatcher says to other emergency workers in recordings released by authorities.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>The Sunday night call from an Elkhart, Indiana, gas station had been the first sign of Elliot, a convicted murderer, since his escape hours before from Ionia Correctional Facility in central Michigan.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>On Monday, a homeowner in LaGrange County, Indiana, found the woman&amp;apost;s Jeep Liberty in a residential area of the town of Shipshewana, about 20 miles east of Elkhart, sheriff&amp;apost;s spokesman Arron Knisley said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="10">
+          <content>Elliot himself remained missing then, however.</content>
+        </sentence>
+        <sentence id="11">
+          <content>Details on how he was caught were not immediately available.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>CNN first learned about his capture on Twitter.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="13">
+          <content>Prison authorities discovered Elliot gone about 9:30 p.m. Sunday.</content>
+        </sentence>
+        <sentence id="14">
+          <content>He apparently pulled back the bottoms of two fences and crawled underneath to escape, Michigan Department of Corrections spokesman Russell L. Marlan said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>He was serving five life sentences on a 1994 conviction for killing four people, according to Michigan Department of Corrections records.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Authorities warned the public not to mess with him.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="17">
+          <content>The kidnapped woman, whose name has not been released by authorities, told a 911 dispatcher from her bathroom stronghold that Elliot forced his way into her red Jeep Liberty as she sat parked on West Main Street in Ionia.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="18">
+          <content>He was an escaped convict, he told her.</content>
+        </sentence>
+        <sentence id="19">
+          <content>Murder, she said.</content>
+        </sentence>
+        <sentence id="20">
+          <content>And he had a box cutter and a hammer.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="21">
+          <content>But, she said, he hadn&amp;apost;t hurt her.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;He just wants to get someplace far from Ionia,&amp;quot; she told the dispatcher.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="23">
+          <content>Unfortunately for police, by the time they arrived at the Marathon gas station, Elliot had fled in the woman&amp;apost;s Jeep.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="24">
+          <content>He was seen getting on Interstate 80/90, but authorities don&amp;apost;t know which direction he was traveling or where he was heading.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="25">
+          <content>The interstate connects Elkhart with Chicago to the west and Toledo, Ohio, to the east.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="26">
+          <content>Elliot was known as a good prisoner, according to Corrections Director Daniel Heyens.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="27">
+          <content>&amp;quot;Nothing in this man&amp;apost;s history would have indicated a high risk of escape,&amp;quot; Heyens said.</content>
+        </sentence>
+        <sentence id="28">
+          <content>&amp;quot;He was serving his time.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="29">
+          <content>Prison authorities believe he acted alone, Heyens said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="30">
+          <content>According to court documents, Elliot was convicted in the August 1993 murders of Vickie Currie; her boyfriend, Michael Tufnell; his brother Bruce Tufnell; and Kathy Lane, CNN affiliate WXMI reported.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="31">
+          <content>Elliot and three others hatched a plan to steal drug money, WXMI said, and after they didn&amp;apost;t find the money, Elliot and another man killed the four victims and set Michael Tufnell&amp;apost;s house on fire.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

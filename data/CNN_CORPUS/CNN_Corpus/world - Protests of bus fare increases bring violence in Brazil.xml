@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2648" link="http://www.cnn.com/2013/06/14/world/americas/brazil-fare-protests" date_published="2013-06-14 12:15:38" category="world" author="Shasta Darlington, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Protests of bus fare increases bring violence in Brazil</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Riot police fire tear gas and rubber bullets into crowds of thousands in Sao Paulo.</sentence>
+      <sentence id="2" ids_article_sentences="2">At least 100 people were injured and more than 120 were arrested.</sentence>
+      <sentence id="3" ids_article_sentences="3">Protesters want officials to revoke recent increases in public transportation costs.</sentence>
+      <sentence id="4" ids_article_sentences="12">Daily newspaper Folha de S. Paulo says 7 of its reporters were shot with rubber bullets.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-14 15:45:25" annotation_time="31.18067">
+      <sentence id="1" ids_highlights="1">Sao Paulo, Brazil Riot police fired tear gas and rubber bullets into crowds when thousands of people took to the streets of Sao Paulo on Thursday night to protest an increase in bus and metro fares.</sentence>
+      <sentence id="2" ids_highlights="2">At least 100 people were injured and more than 120 were arrested in the violent clashes, occurring exactly one year before the World Cup kicks off in Brazil&amp;apost;s financial capital.</sentence>
+      <sentence id="3" ids_highlights="3">It was the latest in a string of protests staged in Sao Paulo, Rio de Janeiro and other cities over the last week aimed at getting officials to revoke recent increases in public transportation costs.</sentence>
+      <sentence id="12" ids_highlights="4">The daily newspaper Folha de S. Paulo reported that seven of its reporters were shot with rubber bullets.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Sao Paulo, Brazil Riot police fired tear gas and rubber bullets into crowds when thousands of people took to the streets of Sao Paulo on Thursday night to protest an increase in bus and metro fares.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>At least 100 people were injured and more than 120 were arrested in the violent clashes, occurring exactly one year before the World Cup kicks off in Brazil&amp;apost;s financial capital.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>It was the latest in a string of protests staged in Sao Paulo, Rio de Janeiro and other cities over the last week aimed at getting officials to revoke recent increases in public transportation costs.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>Between 5,000 and 10,000 protesters gathered in front of the Municipal Theater in downtown Sao Paulo at 5 p.m. and then started marching through the streets, where a huge police presence waited.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>For the first time in this series of protests, Sao Paulo deployed riot police.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>When police began to fire tear gas and rubber bullets, protesters shouted &amp;quot;fascist police&amp;quot; and ran in different directions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>Protesters said no warning was given before the tear gas and bullets were used.</content>
+        </sentence>
+        <sentence id="8">
+          <content>A CNN team also did not hear any warnings or demands to stop before the measures were taken.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>In previous marches, the government has accused protesters of initiating violence, and protesters have said police used excessive violence to try to stop marchers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="10">
+          <content>On Tuesday night, protesters set a bus on fire and smashed the windows of at least nine banks.</content>
+        </sentence>
+        <sentence id="11">
+          <content>On Thursday night, CNN witnessed protesters spraying walls with graffiti and throwing rocks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>The daily newspaper Folha de S. Paulo reported that seven of its reporters were shot with rubber bullets.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="13">
+          <content>A witness saw police shoot Giuiliana Vallone and told the paper: &amp;quot;When she told me to get out of the way because of the chaos, a policeman looked and cowardly shot her.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="14">
+          <content>Another TV reporter told CNN that she and her crew were deliberately sprayed with pepper spray by police when they filmed them arresting protesters.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="15">
+          <content>The marchers were protesting an increase in bus and metro fares to 3.20 reais ($1.55) from 3 reais.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;For a lot of us, it&amp;apost;s just the final straw,&amp;quot; said a metro operator who was participating in the march.</content>
+        </sentence>
+        <sentence id="17">
+          <content>&amp;quot;We just pay more and more for something that isn&amp;apost;t worth it.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

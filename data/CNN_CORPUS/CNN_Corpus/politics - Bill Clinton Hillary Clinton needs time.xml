@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="990" link="http://www.cnn.com/2014/07/21/politics/bill-clinton-interview-hillary-clinton/index.html" date_published="2014-07-21 09:57:24" category="politics" author="Dan Merica, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Bill Clinton: Hillary Clinton needs time</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">Hillary Clinton &amp;quot;really does need some time to think through this,&amp;quot; he tells CNN&amp;apost;s Anna Coren.</sentence>
+      <sentence id="2" ids_article_sentences="13">He says he&amp;apost;s &amp;quot;fine&amp;quot; with her decision either way on a 2016 presidential run.</sentence>
+      <sentence id="3" ids_article_sentences="16">Ex-President on his wife: &amp;quot;She is the ablest public servant I have ever worked with&amp;quot;.</sentence>
+      <sentence id="4" ids_article_sentences="41">Bill Clinton says he makes no apologies for the millions they&amp;apost;ve made from speeches.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-02 19:24:00" annotation_time="32.718002">
+      <sentence id="2" ids_highlights="1">In an interview with CNN in Vietnam, Bill Clinton said that although Hillary Clinton hasn&amp;apost;t asked him for advice on her 2016 decision, he thinks that the former secretary of state &amp;quot;really does need some time to think through this.&amp;quot;</sentence>
+      <sentence id="13" ids_highlights="2">Bill Clinton &amp;apost;fine&amp;apost; with her decision either way.</sentence>
+      <sentence id="16" ids_highlights="3">&amp;quot;She is the ablest public servant I have ever worked with, even if she is my wife,&amp;quot; Bill Clinton said.</sentence>
+      <sentence id="41" ids_highlights="4">Defending his time on the paid speaking circuit, Bill Clinton said that after leaving the White House and paying his debts, he &amp;quot;wanted to try and save enough money so that if anything happened to me, Hillary and Chelsea could both be in public service if they wanted to be, and I don&amp;apost;t apologize for that.&amp;quot;</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Washington Former President Bill Clinton says that Hillary Clinton, his wife and the prohibitive favorite for the Democratic nomination for president in 2016, needs time to not only decide whether she will run, but what she would bring to the race if she did.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>In an interview with CNN in Vietnam, Bill Clinton said that although Hillary Clinton hasn&amp;apost;t asked him for advice on her 2016 decision, he thinks that the former secretary of state &amp;quot;really does need some time to think through this.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;We&amp;apost;ve reached a point in our life when we think you really shouldn&amp;apost;t run for office if you don&amp;apost;t have a clear idea of what you can do and a unique contribution you can make and you can outline that,&amp;quot; Clinton told CNN&amp;apost;s Anna Coren.</content>
+        </sentence>
+        <sentence id="4">
+          <content>&amp;quot;Now that the book is done, she wants time to think about that and work through it.</content>
+        </sentence>
+        <sentence id="5">
+          <content>I think so much of politics is background noise, and we don&amp;apost;t need the background noise anymore.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>The former President was in Vietnam as part of the Clinton Foundation&amp;apost;s work on global health in Southeast Asia.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>Hillary Clinton&amp;apost;s latest memoir, &amp;quot;Hard Choices,&amp;quot; published earlier this summer to much fanfare and a frenetic book tour.</content>
+        </sentence>
+        <sentence id="8">
+          <content>While sales of the 600-page-plus tome have not hit publishers&amp;apost; expectations, the book tour has put Hillary Clinton on the forefront of political conversation and raised the specter of her likely bid for the presidency in two years.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>Hillary Clinton has also become more comfortable with acknowledging that she is considering a run at the presidency during the book tour.</content>
+        </sentence>
+        <sentence id="10">
+          <content>While months ago Clinton would not entertain questions about a run, more recently she has answered questions without pretense and speculated about what her campaign would look like.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;We have to make a campaign about what we would do,&amp;quot; Hillary Clinton said about a possible 2016 run last week.</content>
+        </sentence>
+        <sentence id="12">
+          <content>&amp;quot;You have to run a very specific campaign that talks about the changes you want to make in order to tackle growth, which is the handmaiden of inequality.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>Bill Clinton &amp;apost;fine&amp;apost; with her decision either way.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>Bill Clinton told Coren that he is &amp;quot;fine&amp;quot; with whatever decision Hillary Clinton eventually comes to on 2016.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>The former President did say, however, that his wife would be a &amp;quot;really good&amp;quot; commander in chief.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;She is the ablest public servant I have ever worked with, even if she is my wife,&amp;quot; Bill Clinton said.</content>
+        </sentence>
+        <sentence id="17">
+          <content>&amp;quot;She&amp;apost;s smart, but she&amp;apost;s also uncannily able to move from A to B to C.</content>
+        </sentence>
+        <sentence id="18">
+          <content>She gets things done and she is strong, she&amp;apost;s just good, she is just really good.</content>
+        </sentence>
+        <sentence id="19">
+          <content>She would be really good.</content>
+        </sentence>
+        <sentence id="20">
+          <content>But it&amp;apost;s a decision that only she can make, and I&amp;apost;m not going to try to jump the gun and if she decides not to do it, I&amp;apost;ll be happy too.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="21">
+          <content>Bill Clinton has long been careful to not weigh in too forcefully on what he hopes his wife will do in 2016.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="22">
+          <content>In an interview last week with India&amp;apost;s NDTV, he said Hillary Clinton &amp;quot;will have to make the decision and I am not going to put my thumb on the scale either way.&amp;quot;</content>
+        </sentence>
+        <sentence id="23">
+          <content>Last month, during an interview with NBC, he described himself as only a &amp;quot;bit player&amp;quot; when it comes to her presidential decision.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="24">
+          <content>In his interview with CNN, Bill Clinton said that now is his time to take a back seat to his wife&amp;apost;s ambitions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="25">
+          <content>&amp;quot;When I left the White House and Hillary went into the Senate in New York, I told her, I said, &amp;apost;For 26 years you have made a lot of sacrifices for my public life.</content>
+        </sentence>
+        <sentence id="26">
+          <content>So I&amp;apost;ll give you the next 26 years and if I&amp;apost;m still around we will fight about what we are going to do after that,&amp;apost; &amp;quot; Bill Clinton said.</content>
+        </sentence>
+        <sentence id="27">
+          <content>&amp;quot;So we are just over a little half way through the second 26 years and whatever she wants is fine with me.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="28">
+          <content>Hillary Clinton spent much of the couple&amp;apost;s first decades together helping her husband&amp;apost;s political ambition.</content>
+        </sentence>
+        <sentence id="29">
+          <content>In 2000, after eight years in the White House and five terms as first lady of Arkansas, Hillary Clinton became the first first lady to win elected office when she successfully ran for New York&amp;apost;s open Senate seat.</content>
+        </sentence>
+        <sentence id="30">
+          <content>She would later unsuccessfully run for president in 2008, but serve as President Barack Obama&amp;apost;s secretary of state from 2009 to 2013.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="31">
+          <content>A cloud over the book tour.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="32">
+          <content>It is what Bill Clinton did after the White House, though, that has clouded much of the last month for Hillary Clinton&amp;apost;s book tour.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="33">
+          <content>In the first interview of the tour, Hillary Clinton told ABC that her family was &amp;quot;dead broke&amp;quot; when they left the White House.</content>
+        </sentence>
+        <sentence id="34">
+          <content>Although the family was in debt because of mounting legal fees, Clinton failed to mention her family&amp;apost;s post-presidential windfall of book deals and speaking fees.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="35">
+          <content>A CNN analysis of the family&amp;apost;s financial records in early 2013 showed that Bill Clinton had earned $106 million from paid speeches since leaving the presidency behind.</content>
+        </sentence>
+        <sentence id="36">
+          <content>Since leaving the State Department in 2013, Hillary Clinton, too, has cashed in on being a highly sought after speaker by charging upwards of $275,000 a speech.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="37">
+          <content>Republicans seized on the storyline and tried to make the argument that Hillary Clinton is out of touch with most Americans.</content>
+        </sentence>
+        <sentence id="38">
+          <content>Democrats close to Clinton pushed back, but some admitted in private that the attacks hurt the former secretary of state.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="39">
+          <content>Bill Clinton told Coren that the storyline was a &amp;quot;fabricated&amp;quot; one that &amp;quot;shows you how desperately, sadly we are dependent on a new level of political gossip every week.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="40">
+          <content>&amp;quot;Most people would think that being 16 million dollars in debt would qualify as being dead broke,&amp;quot; Clinton said, citing a number higher than the $2.28 million to $10.6 million figure that was cited on their federal financial records.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="41">
+          <content>Defending his time on the paid speaking circuit, Bill Clinton said that after leaving the White House and paying his debts, he &amp;quot;wanted to try and save enough money so that if anything happened to me, Hillary and Chelsea could both be in public service if they wanted to be, and I don&amp;apost;t apologize for that.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="42">
+          <content>&amp;quot;I don&amp;apost;t think it&amp;apost;s a bad thing to make money,&amp;quot; Bill Clinton said.</content>
+        </sentence>
+        <sentence id="43">
+          <content>&amp;quot;I think it&amp;apost;s bad if you live in a system that&amp;apost;s rigged against the poor and the middle class.</content>
+        </sentence>
+        <sentence id="44">
+          <content>That&amp;apost;s a very different thing and the purpose of politics is to create a system of shared opportunities and shared responsibilities.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

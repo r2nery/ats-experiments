@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="420" link="http://edition.cnn.com/2014/09/08/health/enterovirus-d68-symptoms/index.html?iid=article_sidebar" date_published="2014-09-08 13:49:12" category="health" author="Jacque Wilson, CNN" highlights_mapped="true" mapping_error="false">
+  <title>What parents should know about EV-D68</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="7">Enterovirus D68 usually starts like the common cold.</sentence>
+      <sentence id="2" ids_article_sentences="7">Symptoms include sneezing, runny nose, coughing.</sentence>
+      <sentence id="3" ids_article_sentences="14">Go to the doctor if your child develops a fever, rash or has trouble breathing.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2015-01-16 18:59:52" annotation_time="21.939499">
+      <sentence id="7" ids_highlights="1, 2">The virus usually starts like the common cold; symptoms include sneezing, a runny nose and a cough.</sentence>
+      <sentence id="14" ids_highlights="3">Go to the doctor if he or she develops a fever or a rash, or if your child has difficulty breathing.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Hundreds of children across the United States have been hospitalized with a serious respiratory illness.</content>
+        </sentence>
+        <sentence id="2">
+          <content>Scientists say they believe the bug to blame is Enterovirus D68, also known as EV-D68.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>Enteroviruses are common, especially in September, but this particular type is not.</content>
+        </sentence>
+        <sentence id="4">
+          <content>There have been fewer than 100 cases recorded since it was identified in the 1960s, according to the Centers for Disease Control and Prevention.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>Here&amp;apost;s what you need to know as a parent:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>What are the symptoms?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>The virus usually starts like the common cold; symptoms include sneezing, a runny nose and a cough.</content>
+        </sentence>
+        <sentence id="8">
+          <content>This is all that happens for most people who catch an enterovirus.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>But some patients will get a severe cough, have difficulty breathing and/or develop a rash.</content>
+        </sentence>
+        <sentence id="10">
+          <content>EV-D68 is sometimes also accompanied by a fever or wheezing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>So when should you begin worrying?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>Unfortunately in the beginning it&amp;apost;s difficult -- if not impossible -- to tell the difference between a regular cold and this type of virus.</content>
+        </sentence>
+        <sentence id="13">
+          <content>But there are symptoms you should be on the lookout for if your child becomes sick.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>Go to the doctor if he or she develops a fever or a rash, or if your child has difficulty breathing.</content>
+        </sentence>
+        <sentence id="15">
+          <content>Children with asthma or a history of breathing problems are particularly susceptible for severe symptoms.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="16">
+          <content>How is EV-D68 treated?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="17">
+          <content>There is no specific treatment for enteroviruses, according to the CDC.</content>
+        </sentence>
+        <sentence id="18">
+          <content>Plenty of rest, fluids and over-the-counter medications will help ease symptoms in standard cases.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="19">
+          <content>Patients who are hospitalized will likely receive assistance breathing and what&amp;apost;s called &amp;quot;supportive therapy&amp;quot; to help their immune systems fight off the infection.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="20">
+          <content>Where is the virus spreading?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="21">
+          <content>Twelve states are investigating clusters of enterovirus illnesses: Alabama, Colorado, Michigan, Georgia, Ohio, Iowa, Illinois, Missouri, Kansas, Oklahoma, Kentucky and Utah.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="22">
+          <content>But EV-D68 is often hard to distinguish from its relatives so the virus could be in other states as well.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="23">
+          <content>Why are kids being hospitalized?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="24">
+          <content>Anyone can get infected with enteroviruses, according to the CDC, but infants, children and teens are more likely to become sick because they have not yet built up immunity from previous exposures to the viruses.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="25">
+          <content>How do I protect my children?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="26">
+          <content>The respiratory illness spreads through close contact, just like the common cold.</content>
+        </sentence>
+        <sentence id="27">
+          <content>You can also be infected by touching objects or surfaces that have the virus on them, then touching your face.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="28">
+          <content>There&amp;apost;s not a great deal you can do, health officials say, beyond taking common-sense steps to reduce the risk.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="29">
+          <content>Wash your hands with soap and water for 20 seconds -- particularly after going to the bathroom and changing diapers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="30">
+          <content>Clean and disinfect surfaces that are regularly touched by different people, such as toys and doorknobs.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="31">
+          <content>Avoid shaking hands, kissing, hugging and sharing cups or eating utensils with people who are sick.</content>
+        </sentence>
+        <sentence id="32">
+          <content>And stay home if you feel unwell.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

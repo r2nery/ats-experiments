@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1037" link="http://www.cnn.com/2013/12/19/politics/death-penalty-us/index.html" date_published="2013-12-19 05:08:47" category="politics" author="Bill Mears, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Death penalty in the United States gradually declining</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Shortage of lethal injection chemicals contributes to drop in capital punishment.</sentence>
+      <sentence id="2" ids_article_sentences="3, 2">The number of executions falls below 40, off 10 percent from last year.</sentence>
+      <sentence id="3" ids_article_sentences="12">Nine states executed inmates in 2013 with Texas and Florida accounting for most.</sentence>
+      <sentence id="4" ids_article_sentences="42">The Supreme Court is not likely to address the issue any time soon.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-11 10:22:51" annotation_time="104.36033" mapping_time_divergence="52.180164">
+      <sentence id="1" ids_highlights="1">A shortage of lethal injection chemicals has contributed to declining use of capital punishment in the United States with a new report on Thursday noting only 39 executions this year.</sentence>
+      <sentence id="2" ids_highlights="2">It is only the second time in the past two decades the annual number of inmates put to death has dropped below 40.</sentence>
+      <sentence id="3" ids_highlights="2">The total represents a 10 percent reduction from last year.</sentence>
+      <sentence id="12" ids_highlights="3">But just nine states conducted lethal injections this year, and two -- Texas with 16 and Florida with 7 -- accounted for nearly 60 percent of the total.</sentence>
+      <sentence id="42" ids_highlights="4">With the death penalty declining and recent polls showing a corresponding drop in public support, some legal analysts wonder if the Supreme Court is prepared in coming years to take another look at the issue&amp;apost;s overall constitutionality -- whether capital punishment in the 21st century represents &amp;quot;cruel and unusual punishment.&amp;quot;</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>A shortage of lethal injection chemicals has contributed to declining use of capital punishment in the United States with a new report on Thursday noting only 39 executions this year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>It is only the second time in the past two decades the annual number of inmates put to death has dropped below 40.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The total represents a 10 percent reduction from last year.</content>
+        </sentence>
+        <sentence id="4">
+          <content>No further executions are scheduled in 2013.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>&amp;quot;Twenty years ago, use of the death penalty was increasing.</content>
+        </sentence>
+        <sentence id="6">
+          <content>Now it is declining by almost every measure,&amp;quot; said Richard Dieter, executive director of the Death Penalty Information Center, and the author of the report.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;The recurrent problems of the death penalty have made its application rare, isolated, and often delayed for decades.</content>
+        </sentence>
+        <sentence id="8">
+          <content>More states will likely reconsider the wisdom of retaining this expensive and ineffectual practice.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>The nonprofit organization provides accurate figures and a range of analysis, but opposes use of the death penalty.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>Lethal injection in nine states.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>While the annual number of executions and death sentences continues to drop nationally overall, it remains a legally and socially acceptable form of justice for aggravated murder in 32 states.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>But just nine states conducted lethal injections this year, and two -- Texas with 16 and Florida with 7 -- accounted for nearly 60 percent of the total.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>Texas is among the active death-penalty states scrambling to find new lethal injection protocols after European-based manufacturers banned U.S. prisons from using their drugs in executions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>Among them is Danish-based Lundbeck, which manufactures pentobarbital, the most commonly used -- either as a single drug, or in combination with others -- to execute prisoners.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>New drug combinations.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="16">
+          <content>States have been forced to try new drug combinations or go to loosely regulated compounding pharmacies that manufacturer variations of the drugs banned by the larger companies, according to an investigation last month by CNN&amp;apost;s Deborah Feyerick.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="17">
+          <content>A pending lawsuit against Texas filed by several death row inmates and their supporters alleges the state corrections department falsified a prescription for pentobarbital using an alias.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="18">
+          <content>Until recently, most states relied on a three-drug &amp;quot;cocktail,&amp;quot; but many jurisdictions now use a single dose or a two-drug combination.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="19">
+          <content>Various state and federal courts have postponed some planned executions until issues surrounding the new protocols are resolved.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="20">
+          <content>Every execution this year relied on pentobarbital, except in Florida, which used midazolam hydrochloride -- a drug applied for the first time in human lethal injections.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="21">
+          <content>And Missouri was prepared to inject a single dose of the anesthetic propofol for its two recent executions, until Gov. Jay Nixon halted its application.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="22">
+          <content>The European Union had threatened to limit export of the widely used drug for other purposes if the state had proceeded.</content>
+        </sentence>
+        <sentence id="23">
+          <content>The two inmates were separately put to death in recent weeks using pentobarbital instead.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="24">
+          <content>First woman executed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="25">
+          <content>Among the high-profile capital cases this year involved Kimberly McCarthy, the first woman executed in the United States in three years.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="26">
+          <content>The former Dallas-area resident was convicted of murdering her neighbor, and in June became the state&amp;apost;s 500th prisoner to die at the hands of the government since 1976, when the Supreme Court allowed capital punishment to resume.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="27">
+          <content>So far, 1,359 people have been put to death across the country since that time, using lethal injection, electrocution, gas chamber, hanging, and firing squad.</content>
+        </sentence>
+        <sentence id="28">
+          <content>That includes three federal prisoners.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="29">
+          <content>Spared for now was Georgia inmate Warren Hill, whose attorneys say he is mentally disabled.</content>
+        </sentence>
+        <sentence id="30">
+          <content>Courts earlier this year stayed three separate execution dates, one with just minutes to spare.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="31">
+          <content>The Supreme Court in March will hold oral arguments and decide whether the Florida scheme for identifying mentally disabled defendants in capital cases violates previous standards established by the high court.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="32">
+          <content>Freddie Lee Hall and an accomplice were convicted of the 1978 murders of a pregnant 21-year-old woman and a sheriff&amp;apost;s deputy in separate store robberies, both on the same day.</content>
+        </sentence>
+        <sentence id="33">
+          <content>His lawyers say the death row inmate has an IQ of 60.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="34">
+          <content>In Missouri, Reginald Griffin was freed in October and his sentence thrown out after the state high court found the trial prosecution withheld critical evidence that may have implicated another prisoner in a jailhouse murder.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="35">
+          <content>He became the 143rd person exonerated from death row in the past 40 years.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="36">
+          <content>Maryland abolishes death penalty.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="37">
+          <content>Maryland became the sixth state in as many years to abolish its death penalty, joining Connecticut, Illinois, New York, New Jersey, and New Mexico.</content>
+        </sentence>
+        <sentence id="38">
+          <content>Eighteen other states have previously done so.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="39">
+          <content>Attorney General Eric Holder faces a tough decision in coming months: whether to seek the death penalty in federal court for Boston Marathon bombing suspect Dzokhar Tsarnaev.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="40">
+          <content>Across the country, capital sentences remain at historic lows, with just 79 so far this year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="41">
+          <content>They have declined in number by 75 percent from 1996, said the report, when 315 people were put on death row.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="34">
+      <sentences>
+        <sentence id="42">
+          <content>With the death penalty declining and recent polls showing a corresponding drop in public support, some legal analysts wonder if the Supreme Court is prepared in coming years to take another look at the issue&amp;apost;s overall constitutionality -- whether capital punishment in the 21st century represents &amp;quot;cruel and unusual punishment.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="35">
+      <sentences>
+        <sentence id="43">
+          <content>No sign of Supreme Court review.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="36">
+      <sentences>
+        <sentence id="44">
+          <content>The justices in most cases continue to deny most requests for stays of executions, usually without any comment, or a breakdown of which members of the nine-member bench might have granted such a delay.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="37">
+      <sentences>
+        <sentence id="45">
+          <content>&amp;quot;It certainly seems that it merits another day in court after 40 years,&amp;quot; said Evan Mandery, a law professor at John Jay College of Criminal Justice, and author of the new book &amp;quot;A Wild Justice: The Death and Resurrection of Capital Punishment in America.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="38">
+      <sentences>
+        <sentence id="46">
+          <content>&amp;quot;There are a lot of reasons to think that (moderate-conservative) Justice Anthony Kennedy&amp;apost;s vote is up for grabs and his mind is open on this question.</content>
+        </sentence>
+        <sentence id="47">
+          <content>So I don&amp;apost;t think the outcome of a case would be predetermined one way or another.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="39">
+      <sentences>
+        <sentence id="48">
+          <content>But there is no sign such a monumental legal and social review by the nation&amp;apost;s highest court will be coming soon.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

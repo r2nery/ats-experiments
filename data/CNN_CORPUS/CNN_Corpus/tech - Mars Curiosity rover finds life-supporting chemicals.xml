@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1623" link="http://www.cnn.com/2013/12/10/tech/mars-curiosity-rover/index.html" date_published="2013-12-10 16:30:31" category="tech" author="Azadeh Ansari and Elizabeth Landau, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Mars Curiosity rover finds life-supporting chemicals</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="8">Mars Curiosity rover finds evidence of clay formations, or &amp;quot;mudstone&amp;quot; .</sentence>
+      <sentence id="2" ids_article_sentences="9">Clay may have held the key ingredients for life billions of years ago.</sentence>
+      <sentence id="3" ids_article_sentences="16, 11">Scientist calls findings &amp;quot;a game changer&amp;quot;.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-05 00:40:13" annotation_time="139.545" mapping_time_divergence="46.515">
+      <sentence id="8" ids_highlights="1">Curiosity found evidence of clay formations, or &amp;quot;mudstone,&amp;quot; in Yellowknife Bay, scientists said Monday.</sentence>
+      <sentence id="9" ids_highlights="2">Martian mud is a big deal because this clay may have held the key ingredients for life billions of years ago.</sentence>
+      <sentence id="11" ids_highlights="3">&amp;quot;This is a game changer since these are the kind of materials that are very &amp;apost;Earth-like&amp;apost; and conducive for life,&amp;quot; said Douglas Ming, lead author of one of the new studies.</sentence>
+      <sentence id="16" ids_highlights="3">The new findings mean the rover&amp;apost;s $2.5 billion mission is &amp;quot;turning the corner,&amp;quot; said John Grotzinger, a California Institute of Technology planetary geologist and chief scientist for Curiosity, also known as the Mars Science Laboratory.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Curious about life on Mars?</content>
+        </sentence>
+        <sentence id="2">
+          <content>NASA&amp;apost;s rover Curiosity has now given scientists the strongest evidence to date that the environment on the Red Planet could have supported life billions of years ago.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>Since Curiosity made its rock star landing more than a year ago at Gale Crater, the focal point of its mission, the roving laboratory has collected evidence that gives new insights into Mars&amp;apost; past environment.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>NASA scientists announced in March that Mars could have once hosted life -- at least, in the distant past, based on the chemical analysis of powder collected from Curiosity&amp;apost;s drill.</content>
+        </sentence>
+        <sentence id="5">
+          <content>An area of the crater known as Yellowknife Bay once hosted &amp;quot;slightly salty liquid water,&amp;quot; Michael Meyer, lead scientist for the Mars Exploration Program at NASA headquarters in Washington, said earlier this year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>Six new studies released Monday by the journal Science add more insights about these formerly habitable conditions and provide other new knowledge that increase our understanding of the Red Planet.</content>
+        </sentence>
+        <sentence id="7">
+          <content>The results were also presented at the fall meeting of the American Geophysical Union in San Francisco.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>Curiosity found evidence of clay formations, or &amp;quot;mudstone,&amp;quot; in Yellowknife Bay, scientists said Monday.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Martian mud is a big deal because this clay may have held the key ingredients for life billions of years ago.</content>
+        </sentence>
+        <sentence id="10">
+          <content>It means a lake must have existed in this area.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;This is a game changer since these are the kind of materials that are very &amp;apost;Earth-like&amp;apost; and conducive for life,&amp;quot; said Douglas Ming, lead author of one of the new studies.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>This ancient environment, where the clay minerals formed, would have been favorable to microbes, Ming told CNN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>Some bacteria on Earth called chemolithoautotrophs could have lived in that kind of environment.</content>
+        </sentence>
+        <sentence id="14">
+          <content>These bacteria derive their energy from breaking down rocks and sediments, Ming said, generally by oxidizing elements in the rock.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="15">
+          <content>Ming and colleagues also found hydrogen, oxygen, carbon, nitrogen, sulfur and phosphorus in the sedimentary rocks at Yellowknife Bay, elements that are all critical for life.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="16">
+          <content>The new findings mean the rover&amp;apost;s $2.5 billion mission is &amp;quot;turning the corner,&amp;quot; said John Grotzinger, a California Institute of Technology planetary geologist and chief scientist for Curiosity, also known as the Mars Science Laboratory.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="17">
+          <content>Grotzinger and colleagues found the habitable environment existed later in Martian history than previously thought.</content>
+        </sentence>
+        <sentence id="18">
+          <content>By studying physical characteristics of rock layers in and near Yellowknife Bay, they determined that Mars was habitable less than 4 billion years ago -- about the same time as the oldest signs we have for life on Earth.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="19">
+          <content>The habitable conditions could have remained for millions to tens of millions of years, with rivers and lakes appearing and disappearing over time.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="20">
+          <content>Curiosity also helped scientists figure out the age of an ancient Martian rock, as described in the new research.</content>
+        </sentence>
+        <sentence id="21">
+          <content>The rock is called Cumberland, and it now has the distinction of being the first whose age was measured on another planet through chemical analysis.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="22">
+          <content>The rover used a method for dating Earth rocks that measures the decay of an isotope of potassium as it slowly changes into argon.</content>
+        </sentence>
+        <sentence id="23">
+          <content>Scientists determined the rock was between 3.86 billion and 4.56 billion years old.</content>
+        </sentence>
+        <sentence id="24">
+          <content>This age range is consistent with earlier estimates for rocks in Gale Crater.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="25">
+          <content>Scientists say roughly 4 billion years ago, the environment on Mars wasn&amp;apost;t much different from that of modern-day Earth.</content>
+        </sentence>
+        <sentence id="26">
+          <content>But things on Mars then took a drastic turn, and the planet was dramatically transformed from warm and wet to bitterly cold and dry, scientists say.</content>
+        </sentence>
+        <sentence id="27">
+          <content>In addition to the cold and dry conditions, scientists say the No. 1 reason life probably wouldn&amp;apost;t have thrived on Mars is its extremely high levels of radiation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="28">
+          <content>&amp;quot;The radiation environment on Mars is unlike anything we have on Earth,&amp;quot; said Jennifer Eigenbrode, a biogeochemist and geologist at NASA&amp;apost;s Goddard Space Flight Center and an author of one of the studies.</content>
+        </sentence>
+        <sentence id="29">
+          <content>&amp;quot;We don&amp;apost;t know if life on Mars could have ever adapted to the high levels of radiation the surface is currently experiencing.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="30">
+          <content>Eigenbrode added, &amp;quot;This is a wide-open book, which we have barely started writing the pages of.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="31">
+          <content>New radiation measurements will also be important to planning any human missions to Mars, scientists said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="32">
+          <content>&amp;quot;Our measurements also tie into Curiosity&amp;apost;s investigations about habitability,&amp;quot; study co-author Don Hassler of Southwest Research Institute in Boulder, Colorado, said in a statement.</content>
+        </sentence>
+        <sentence id="33">
+          <content>&amp;quot;The radiation sources that are concerns for human health also affect microbial survival as well as preservation of organic chemicals.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="34">
+          <content>Organic chemicals come from a variety of sources, including meteorites and comets, but they can also be indicative of life.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="35">
+          <content>What&amp;apost;s bad for us is bad for signs of life -- but these organic chemicals could still be hiding on Mars nonetheless.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

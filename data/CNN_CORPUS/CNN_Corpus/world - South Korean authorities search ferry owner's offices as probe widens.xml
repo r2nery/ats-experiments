@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2758" link="http://edition.cnn.com/2014/04/23/world/asia/south-korea-ship-sinking" date_published="2014-04-23 06:06:01" category="world" author="Michael Pearson, Steven Jiang and Andrew Stevens, CNN" highlights_mapped="true" mapping_error="false">
+  <title>South Korean authorities search ferry owner&amp;apost;s offices as probe widens</title>
+  <keywords>South Korea ferry,South Korea ferry sinking,South Korea shipwreck,Sewol,South Korean ferry capsizes</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="15">Authorities say 169 people are dead; 133 still missing.</sentence>
+      <sentence id="2" ids_article_sentences="3">Owner is known as the &amp;quot;millionaire with no face,&amp;quot; as he rarely appears in public.</sentence>
+      <sentence id="3" ids_article_sentences="27">Hopes are fading for survivors with news that divers haven&amp;apost;t found any air pockets.</sentence>
+      <sentence id="4" ids_article_sentences="47">Devastated high school set to resume classes Thursday.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2015-01-30 14:50:51" annotation_time="36.8645">
+      <sentence id="3" ids_highlights="2">Yoo is known in South Korea as the &amp;quot;millionaire with no face&amp;quot; because he rarely appears in public.</sentence>
+      <sentence id="15" ids_highlights="1">Authorities said Thursday the death toll had climbed to 169, leaving 133 people still missing.</sentence>
+      <sentence id="27" ids_highlights="3">Rescue officials said Wednesday that divers have yet to find an air pocket on the third or fourth decks, where most of the passenger bedrooms and the ship&amp;apost;s cafeteria are located.</sentence>
+      <sentence id="47" ids_highlights="4">The disaster has taken a devastating toll on the high school, where classes are due to resume Thursday.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Jindo, South Korea South Korean authorities searched the offices of the company that owns the sunken ferry Sewol on Wednesday, prosecutors confirmed to CNN, broadening a criminal investigation that has already ensnared 11 members of the ill-fated ship&amp;apost;s crew.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Investigators also searched the offices of 20 organizations affiliated with Cheonghaejin Marine Co. as well as the home of Yoo Byung-eun, a billionaire whose family appears to control the company, according to the semiofficial Yonhap News Agency.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Yoo is known in South Korea as the &amp;quot;millionaire with no face&amp;quot; because he rarely appears in public.</content>
+        </sentence>
+        <sentence id="4">
+          <content>According to major South Korean newspapers, he also has an artistic alter ego -- Ahae -- as a photographer who has won international acclaim.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>His website appears to show Yoo taking pictures, but his face is not visible.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>Through an investment vehicle and subsidiary, Yoo and his two sons control the shipping company that operated the ferry.</content>
+        </sentence>
+        <sentence id="7">
+          <content>Korean tax authorities say that under the family&amp;apost;s ownership, the ferry company has been struggling and reported a loss last year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>Days after the ferry sank, the company sent out its president to apologize, but not Yoo -- who&amp;apost;s had a brush with bad publicity before.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>In 1987, more than 30 people from a religious group were found dead, bound and gagged in a factory outside of Seoul.</content>
+        </sentence>
+        <sentence id="10">
+          <content>Officials investigated the incident as a mass murder-suicide, and also investigated whether Yoo had any connection to the event, but determined he wasn&amp;apost;t involved.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>Prosecutors in the South Korean city of Busan are also investigating the private organization responsible for inspecting and certifying ships for the South Korean government, Yonhap reported.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>Investigators are looking for any evidence of possible wrongdoing in relation to the Korean Register of Shipping&amp;apost;s safety inspection of the Sewol, the news agency reported, citing an unnamed prosecutor.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>The Sewol sank April 16 during a routine trip from Incheon to the resort island of Jeju.</content>
+        </sentence>
+        <sentence id="14">
+          <content>Among its 476 passengers and crew were more than 300 high school students on a field trip.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="15">
+          <content>Authorities said Thursday the death toll had climbed to 169, leaving 133 people still missing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="16">
+          <content>Eleven members of the Sewol&amp;apost;s crew, including its captain, have been arrested in connection with the disaster.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="17">
+          <content>Capt. Lee Joon-seok and some other crew members have been criticized for failing to evacuate the sinking ship quickly and for giving orders for passengers to remain where they were.</content>
+        </sentence>
+        <sentence id="18">
+          <content>Lee has said he was worried about the cold water, strong currents and lack of rescue vessels.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="19">
+          <content>Lee and others have also drawn public anger for leaving the ship while many passengers remained on board.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="20">
+          <content>Authorities still do not know precisely what caused the incident.</content>
+        </sentence>
+        <sentence id="21">
+          <content>It did not appear that the ship was overloaded, according to figures provided by the company and the South Korean coast guard.</content>
+        </sentence>
+        <sentence id="22">
+          <content>But coast guard officials said investigators won&amp;apost;t know for sure how much cargo the ship was carrying until it is salvaged.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="23">
+          <content>Hopes fading.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="24">
+          <content>South Korean officials continue to call their operation a search-and-rescue mission, but hopes are fading that survivors may yet be found.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="25">
+          <content>Some 700 divers are participating in the search, according to Ko Myung-suk, a spokesman for the joint task force coordinating the effort.</content>
+        </sentence>
+        <sentence id="26">
+          <content>He said 36 fishing boats were positioned around the area to prevent bodies being carried away by currents.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="27">
+          <content>Rescue officials said Wednesday that divers have yet to find an air pocket on the third or fourth decks, where most of the passenger bedrooms and the ship&amp;apost;s cafeteria are located.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="28">
+          <content>Rescuers haven&amp;apost;t found a single survivor since 174 people were rescued the day the ship sank one week ago.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="29">
+          <content>Many of the bodies pulled from the ferry have come from bedrooms on the capsized ship&amp;apost;s fourth deck, said Ko.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="30">
+          <content>Divers had expected to find passengers inside the third-floor cafeteria but failed to find any, the South Korean coast guard said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="31">
+          <content>While divers still have many rooms to search, no air pockets have been found on either deck, authorities said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="32">
+          <content>Students remembered.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="33">
+          <content>Grief over the sinking has spread across the Korean Peninsula.</content>
+        </sentence>
+        <sentence id="34">
+          <content>Even South Korea&amp;apost;s nemesis, North Korea, sent condolences Wednesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="35">
+          <content>More than two-thirds of those on board the ferry were students from Danwon High School in Ansan, an hour&amp;apost;s drive south of Seoul.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="36">
+          <content>On Wednesday, some of their faces stared out from photos amid a huge bank of white flowers at a basketball area in Ansan that has been converted into a temporary memorial.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="37">
+          <content>A permanent memorial is being planned for a park in Ansan.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="38">
+          <content>Hundreds of people filed through the memorial Wednesday, passing about 50 large wreaths on their way to the wall of flowers and pictures.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="39">
+          <content>Somber music played as visitors, including friends and relatives, passed quietly among the tributes.</content>
+        </sentence>
+        <sentence id="40">
+          <content>Some wept.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="41">
+          <content>One man, from Seoul, has no ties to the school but came to grieve for the young lives lost.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="42">
+          <content>&amp;quot;I have a daughter,&amp;quot; the man told CNN&amp;apost;s Nic Robertson.</content>
+        </sentence>
+        <sentence id="43">
+          <content>&amp;quot;I think of her alone in black waters.</content>
+        </sentence>
+        <sentence id="44">
+          <content>It&amp;apost;s just so terrible.</content>
+        </sentence>
+        <sentence id="45">
+          <content>I&amp;apost;m angry that I couldn&amp;apost;t do anything.</content>
+        </sentence>
+        <sentence id="46">
+          <content>So helpless.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="47">
+          <content>The disaster has taken a devastating toll on the high school, where classes are due to resume Thursday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="34">
+      <sentences>
+        <sentence id="48">
+          <content>The school is missing most of its sophomores and a vice principal who was rescued from the ferry but found dead two days after the sinking.</content>
+        </sentence>
+        <sentence id="49">
+          <content>He&amp;apost;d apparently hanged himself from a tree.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="35">
+      <sentences>
+        <sentence id="50">
+          <content>Lee Seung-min, 17, said one of her closest girlfriends is among the missing.</content>
+        </sentence>
+        <sentence id="51">
+          <content>She said she still holds out hope that her friend will return despite the increasingly slim chances of finding survivors.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="36">
+      <sentences>
+        <sentence id="52">
+          <content>Before the field trip, the two girls had talked about what universities they might attend, she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

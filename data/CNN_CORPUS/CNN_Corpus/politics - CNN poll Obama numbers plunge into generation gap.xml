@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1027" link="http://www.cnn.com/2013/06/17/politics/obama-poll-decline/index.html" date_published="2013-06-17 16:48:06" category="politics" author="Paul Steinhauser and Halimah Abdullah, CNN" highlights_mapped="true" mapping_error="false">
+  <title>CNN poll: Obama numbers plunge into generation gap</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">Obama approval rating drops 8 percentage points over the past month.</sentence>
+      <sentence id="2" ids_article_sentences="2">Lowest rating in more than 18 months, according to a CNN/ORC International survey .</sentence>
+      <sentence id="3" ids_article_sentences="4">Drop fueled partly by a plunge in support from younger Americans.</sentence>
+      <sentence id="4" ids_article_sentences="8">Obama has been dealing with controversies while priorities stall, job market sluggish.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-01 11:23:30" annotation_time="83.47567">
+      <sentence id="2" ids_highlights="1, 2">President Barack Obama&amp;apost;s approval rating dropped 8 percentage points over the past month to 45%, the president&amp;apost;s lowest rating in more than 18 months, according to a CNN/ORC International survey released on Monday.</sentence>
+      <sentence id="4" ids_highlights="3">Even more surprising: The overall decline in his approval rating was partially fueled by a plunge in support from younger Americans, a huge base of Obama&amp;apost;s support.</sentence>
+      <sentence id="8" ids_highlights="4">It comes as the White House has been dealing with controversies over a government surveillance program; IRS targeting of tea party and other conservative groups; continuing fallout over the deadly terror attack on the diplomatic compound in Benghazi, Libya; and the Justice Department&amp;apost;s secret collection of journalists phone records as part of a government investigation into classified leaks.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Washington It&amp;apost;s a glaring number in a national poll that&amp;apost;s making headlines.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>President Barack Obama&amp;apost;s approval rating dropped 8 percentage points over the past month to 45%, the president&amp;apost;s lowest rating in more than 18 months, according to a CNN/ORC International survey released on Monday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>And Obama&amp;apost;s disapproval rating soared 9 points to 54% since mid-May.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>Even more surprising: The overall decline in his approval rating was partially fueled by a plunge in support from younger Americans, a huge base of Obama&amp;apost;s support.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>Last month, nearly two-thirds of those in the 18-29 age group gave the president a thumbs up.</content>
+        </sentence>
+        <sentence id="6">
+          <content>His approval rating among that bracket fell 17 points in Monday&amp;apost;s poll and now stands at 48%.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>The CNN/ORC International survey was conducted last Tuesday through Thursday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>It comes as the White House has been dealing with controversies over a government surveillance program; IRS targeting of tea party and other conservative groups; continuing fallout over the deadly terror attack on the diplomatic compound in Benghazi, Libya; and the Justice Department&amp;apost;s secret collection of journalists phone records as part of a government investigation into classified leaks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>So what&amp;apost;s behind the dramatic shift of younger Americans, who along with nonwhite voters had been the most loyal part of the Obama coalition?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;One explanation may be that younger Americans are more likely to feel they are personally affected by the surveillance programs,&amp;quot; said CNN Polling Director Keating Holland.</content>
+        </sentence>
+        <sentence id="11">
+          <content>&amp;quot;More than half of all senior citizens, for example, think that the government has not collected their personal information, and since older Americans are less likely to use the Internet, they may be right.</content>
+        </sentence>
+        <sentence id="12">
+          <content>Among younger Americans, two-thirds believe that the federal government has gathered their personal data.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>Julian Zelizer, a Princeton University professor and CNN contributor, said the shift isn&amp;apost;t all about scandals but goes deeper.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;Part of it is probably that for younger people, the surveillance story is not a scandal but a sign the promise of 2008 was not fulfilled -- they see this and say he didn&amp;apost;t do what he said he was going to do,&amp;quot; Zelizer said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>&amp;quot;Part of this is a frustration in the gridlock in Washington.</content>
+        </sentence>
+        <sentence id="16">
+          <content>It&amp;apost;s not just the scandals but the sense that nothing is going to get done.</content>
+        </sentence>
+        <sentence id="17">
+          <content>(Obama) hasn&amp;apost;t been able to change Washington in that way.</content>
+        </sentence>
+        <sentence id="18">
+          <content>Instead of dealing with immigration or jobs, we&amp;apost;re dealing with IRS and surveillance,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;People in that age group are also struggling with jobs,&amp;quot; Zelizer added.</content>
+        </sentence>
+        <sentence id="20">
+          <content>&amp;quot;That&amp;apost;s a constituency is easy to disappoint.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="21">
+          <content>Holland said that shows up in the &amp;quot;honest and trustworthy&amp;quot; category.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;Today, there are only minor differences between older and younger Americans on that measure, but a month ago, two-thirds of younger Americans considered Obama honest -- at least 10 points higher than any other age category.</content>
+        </sentence>
+        <sentence id="23">
+          <content>So maybe one reason why Obama fell so far with younger Americans is that he had farther to fall,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="24">
+          <content>So has Obama lost the under-30 crowd?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="25">
+          <content>John Geer, chairman of Vanderbilt University&amp;apost;s political science department, said probably not, but he could.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="26">
+          <content>&amp;quot;I suspect the things that favor the Democrats will trump this in the long run,&amp;quot; Geer said.</content>
+        </sentence>
+        <sentence id="27">
+          <content>&amp;quot;The youth wants to see more tolerance and more inclusion.</content>
+        </sentence>
+        <sentence id="28">
+          <content>While the youth has been favoring the Democrats in the past few years, neither (party) should see the partisan leanings of this group as set.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="29">
+          <content>Zelizer agreed that it&amp;apost;s too soon to look at the plunge for bigger implications.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="30">
+          <content>&amp;quot;Democrats should see this as their warning -- they don&amp;apost;t have to read this as a long-range trend,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="31">
+          <content>&amp;quot;This immigration bill is still there, that&amp;apost;s his chance.</content>
+        </sentence>
+        <sentence id="32">
+          <content>Get that bill through.</content>
+        </sentence>
+        <sentence id="33">
+          <content>It&amp;apost;s not just about rhetoric and ideas but actual policy and change.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

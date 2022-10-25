@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="156" link="http://www.cnn.com/2013/08/27/health/expecting-better-pregnancy-myths/index.html" date_published="2013-08-27 14:35:01" category="health" author="Emily Oster, Special to CNN" highlights_mapped="true" mapping_error="false">
+  <title>&amp;apost;Expecting Better&amp;apost; pregnancy advice</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="12">Studies show no evidence of miscarriage risk from drinking two cups of coffee a day.</sentence>
+      <sentence id="2" ids_article_sentences="28">Women who have sex late in pregnancy don&amp;apost;t go into labor sooner .</sentence>
+      <sentence id="3" ids_article_sentences="34">An epidural lengthens the pushing stage of labor, on average, by about 15 minutes.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-06 07:43:07" annotation_time="40.852">
+      <sentence id="12" ids_highlights="1">When I got to the actual studies, however, I found that there is no evidence of that risk from consuming less than 200 milligrams of caffeine per day -- about two cups of coffee.</sentence>
+      <sentence id="28" ids_highlights="2">When doctors randomly encouraged couples to have sex late in pregnancy, women didn&amp;apost;t go into labor any faster than couples who weren&amp;apost;t encouraged to do so.</sentence>
+      <sentence id="34" ids_highlights="3">The truth was in the middle: Having an epidural does lengthen the pushing stage of labor, on average, by about 15 minutes, according to a 2011 study.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>When I got pregnant with my daughter three years ago, I found myself drowning in frequently alarmist pregnancy advice.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>I definitely got the impression there was a lot to worry about, but no one seemed to be able to agree on exactly what those worries should include.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The books didn&amp;apost;t always agree with my doctor, my doctor didn&amp;apost;t always agree with the official recommendations, and the Internet never agreed with anyone.</content>
+        </sentence>
+        <sentence id="4">
+          <content>I quickly realized that medical recommendations come from studies, and I could use my training -- in economics and statistics -- to evaluate those studies and get to the bottom of the pregnancy rules.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Sometimes what I found was exactly what I expected, and sometimes it was a little different.</content>
+        </sentence>
+        <sentence id="6">
+          <content>Here&amp;apost;s a taste of what I found:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>Myth 1: Caffeine is off limits.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>FALSE.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>Here is where I really found the recommendations differed.</content>
+        </sentence>
+        <sentence id="10">
+          <content>Many books (and my OB) said a moderate amount was fine, but others said no caffeine at all.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>The big risk with caffeine, we are told, especially early in pregnancy, is miscarriage.</content>
+        </sentence>
+        <sentence id="12">
+          <content>When I got to the actual studies, however, I found that there is no evidence of that risk from consuming less than 200 milligrams of caffeine per day -- about two cups of coffee.</content>
+        </sentence>
+        <sentence id="13">
+          <content>I also found that most of the evidence supported even up to three or four cups a day.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>There did seem to be some evidence of higher miscarriage rates at six to eight cups a day, but I decided I could live with my three-cup-a-day habit.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>Myth 2: The type of prenatal testing you do should differ if you are over or under 35.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>FALSE.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>Prenatal testing is a complicated decision for many women, forcing us to confront concerns about a disabled child and risks of miscarriage.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="18">
+          <content>A common recommendation is that women over 35 should undergo more extensive testing, typically an amniocentesis or CVS test to look for genetic abnormalities (both tests carry some risk of miscarriage).</content>
+        </sentence>
+        <sentence id="19">
+          <content>Women under 35 are usually told to undergo a screening procedure that carries no risk but provides less information.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="20">
+          <content>This cutoff age is based on the fact that the risk of chromosomal problems increases with the age of the mother.</content>
+        </sentence>
+        <sentence id="21">
+          <content>At 35, the probability of a chromosomal problem is about equal to the risk of miscarriage from the amniocentesis.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="22">
+          <content>In fact, this decision should be more about the preferences and values of the pregnant woman, and her spouse, than about an age cutoff.</content>
+        </sentence>
+        <sentence id="23">
+          <content>Women need to consider their personal assessment of the risks of a miscarriage versus a developmentally delayed child when making this choice.</content>
+        </sentence>
+        <sentence id="24">
+          <content>The American College of Obstetricians and Gynecologists agrees.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="25">
+          <content>Myth 3: Having sex can jump-start labor.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="26">
+          <content>FALSE.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="27">
+          <content>Although there is a chemical reason to think this might work, randomized trial data doesn&amp;apost;t support it.</content>
+        </sentence>
+        <sentence id="28">
+          <content>When doctors randomly encouraged couples to have sex late in pregnancy, women didn&amp;apost;t go into labor any faster than couples who weren&amp;apost;t encouraged to do so.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="29">
+          <content>On the other hand, nipple stimulation has been shown to bring on labor, but it takes a few hours a day.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="30">
+          <content>Myth 4: Having an epidural lengthens your labor.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="31">
+          <content>TRUE (but small).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="32">
+          <content>Talking to women about birth can be polarizing.</content>
+        </sentence>
+        <sentence id="33">
+          <content>I heard claims that having an epidural increases labor time by hours and, on the other hand, claims that there is no such effect.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="34">
+          <content>The truth was in the middle: Having an epidural does lengthen the pushing stage of labor, on average, by about 15 minutes, according to a 2011 study.</content>
+        </sentence>
+        <sentence id="35">
+          <content>Of course, you may not care as much given the pain relief.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="36">
+          <content>Myth 5: Unpasteurized soft cheese are off limits.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="37">
+          <content>TRUE.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="38">
+          <content>The biggest food-related risk in pregnancy is listeria.</content>
+        </sentence>
+        <sentence id="39">
+          <content>It&amp;apost;s a dangerous bacteria, to which pregnant women are especially susceptible, that can lead to miscarriage or stillbirth.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="40">
+          <content>Concern about listeria contamination is the reason that unpasteurized soft cheeses are off the menu for pregnant women.</content>
+        </sentence>
+        <sentence id="41">
+          <content>When I looked into it, I found that this is probably a sensible restriction.</content>
+        </sentence>
+        <sentence id="42">
+          <content>About 20% of listeria cases in the United States over the past 15 years were caused by raw milk soft cheese (usually queso fresco, a Mexican soft cheese).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="43">
+          <content>It is worth noting, however, that this is all about unpasteurized cheese.</content>
+        </sentence>
+        <sentence id="44">
+          <content>So feel free to enjoy some Brie -- just make sure the milk it is pasteurized.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1560" link="http://www.cnn.com/2013/01/14/tech/web/aaron-swartz-death-fallout/?hpt=te_t1" date_published="2013-01-14 21:03:09" category="tech" author="Brandon Griggs, CNN" highlights_mapped="false" mapping_error="false">
+  <title>Anger, soul searching follow death of Internet activist</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">Suicide of Internet activist Aaron Swartz sends shock waves through the Web.</sentence>
+      <sentence id="2" ids_article_sentences="6">Swartz faced allegations that he stole millions of online documents from MIT .</sentence>
+      <sentence id="3" ids_article_sentences="14, 5">His death prompted Anonymous to claim credit for a hack on MIT&amp;apost;s websites.</sentence>
+      <sentence id="4" ids_article_sentences="9">Episode also has prompted soul searching at MIT, which will hold an internal investigation .</sentence>
+    </highlights>
+    <gold_standard annotation_time="329.55667">
+      <sentence id="3" ids_highlights="1">The suicide of Internet activist Aaron Swartz continued to send shock waves Monday through the hacker community, the Massachusetts Institute of Technology and the larger online world.</sentence>
+      <sentence id="5" ids_highlights="3">His death has inspired a flurry of online tributes and mobilized Anonymous, the loosely defined collective of so-called &amp;quot;hacktivists&amp;quot; who oppose attempts to limit Internet freedoms.</sentence>
+      <sentence id="6" ids_highlights="2">Swartz, 26, faced allegations that he stole millions of online documents -- mostly scholarly papers -- from MIT through the university&amp;apost;s computer network.</sentence>
+      <sentence id="9" ids_highlights="4">Swartz&amp;apost;s suicide also prompted some soul searching at MIT.</sentence>
+      <sentence id="14" ids_highlights="3">That didn&amp;apost;t stop Anonymous from claiming credit late Sunday for defacing several MIT websites.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>To the people of the Internet who knew his work, he was an &amp;quot;enormous intellect,&amp;quot; a &amp;quot;brilliant and determined spirit&amp;quot; and a &amp;quot;hero of the open net.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>To federal prosecutors, he was a criminal.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The suicide of Internet activist Aaron Swartz continued to send shock waves Monday through the hacker community, the Massachusetts Institute of Technology and the larger online world.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>Swartz, a digital prodigy who helped develop social-news site Reddit and RSS, the technology that allows websites to send updates to subscribers, was found hanged Friday in his Brooklyn, New York, apartment.</content>
+        </sentence>
+        <sentence id="5">
+          <content>His death has inspired a flurry of online tributes and mobilized Anonymous, the loosely defined collective of so-called &amp;quot;hacktivists&amp;quot; who oppose attempts to limit Internet freedoms.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>Swartz, 26, faced allegations that he stole millions of online documents -- mostly scholarly papers -- from MIT through the university&amp;apost;s computer network.</content>
+        </sentence>
+        <sentence id="7">
+          <content>Some saw it as a harmless stunt, but U.S. prosecutors disagreed and slapped Swartz with federal charges for which he could have faced decades in prison.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>His family issued a statement Saturday criticizing prosecutors for seeking &amp;quot;an exceptionally harsh array of charges (for) an alleged crime that had no victims,&amp;quot; and claiming that decisions made by prosecutors and MIT officials &amp;quot;contributed to his death.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>Swartz&amp;apost;s suicide also prompted some soul searching at MIT.</content>
+        </sentence>
+        <sentence id="10">
+          <content>President L. Rafael Reif has requested an analysis of MIT&amp;apost;s involvement in the case against Swartz, from the time the university first perceived unusual activity on its Web network in 2010 to the present.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;I have asked that this analysis describe the options MIT had and the decisions MIT made,&amp;quot; he said in an e-mail Sunday to members of the MIT community.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;All of us at MIT are extremely saddened by the death of this promising young man who touched the lives of so many,&amp;quot; Reif added.</content>
+        </sentence>
+        <sentence id="13">
+          <content>&amp;quot;It pains me to think that MIT played any role in a series of events that have ended in tragedy.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>That didn&amp;apost;t stop Anonymous from claiming credit late Sunday for defacing several MIT websites.</content>
+        </sentence>
+        <sentence id="15">
+          <content>Users of MIT&amp;apost;s network lost access to most sites for nearly three hours Sunday night, according to the Tech, the campus newspaper.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Someone claiming to represent Anonymous posted a statement online calling the government&amp;apost;s prosecution of Swartz &amp;quot;a grotesque miscarriage of justice.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="17">
+          <content>The statement then listed four &amp;quot;wishes,&amp;quot; including reform of computer crime laws and a renewed commitment to &amp;quot;a free and unfettered Internet.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="18">
+          <content>The defaced pages appear to have been removed Monday.</content>
+        </sentence>
+        <sentence id="19">
+          <content>MIT&amp;apost;s news office did not immediately respond Monday to a request for comment.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="20">
+          <content>Christina DiIorio-Sterling, a spokeswoman for the U.S. Department of Justice, declined to comment to CNN on Swartz&amp;apost;s case, citing respect for the family.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="21">
+          <content>Carmen M. Ortiz, the U.S. Attorney for Massachusetts, quietly dropped the charges against Swartz on Monday.</content>
+        </sentence>
+        <sentence id="22">
+          <content>Swartz&amp;apost;s funeral is scheduled for Tuesday in Highland Park, Illinois.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="23">
+          <content>Meanwhile, by Monday afternoon scores of people had posted tributes to Swartz on Reddit and on a memorial site, Remember Aaron Swartz.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="24">
+          <content>&amp;quot;I and others like me feel his death so keenly in part because we aspire to be the misfit, the wunderkind, the maker that he was,&amp;quot; wrote blogger David Brunton.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="25">
+          <content>&amp;quot;Aaron had an unbeatable combination of political insight, technical skill, and intelligence about people and issues,&amp;quot; wrote his friend Cory Doctorow, co-editor of tech blog Boing Boing.</content>
+        </sentence>
+        <sentence id="26">
+          <content>&amp;quot;I think he could have revolutionized American (and worldwide) politics.</content>
+        </sentence>
+        <sentence id="27">
+          <content>His legacy may still yet do so.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="28">
+          <content>Using the hashtag #pdftribute, hundreds of academic researchers also posted their papers online via Twitter Sunday and Monday to honor Swartz&amp;apost;s memory.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

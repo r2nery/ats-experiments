@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="229" link="http://www.cnn.com/2014/06/11/health/ecoli-outbreak-sprouts/index.html" date_published="2014-06-11 17:17:02" category="health" author="CNN Staff" highlights_mapped="true" mapping_error="false">
+  <title>E. coli outbreak linked to sprouts sickens 17</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">E. coli sickens people in Idaho, Michigan, Montana, Utah, Washington.</sentence>
+      <sentence id="2" ids_article_sentences="5">CDC says source of E. coli outbreak likely Evergreen Fresh Sprouts.</sentence>
+      <sentence id="3" ids_article_sentences="11">Evergreen has not issued a recall, so the sprouts may still be available in stores.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-02 20:01:49" annotation_time="14.835334">
+      <sentence id="1" ids_highlights="1">Seventeen people in five states have been sickened by E. coli after eating clover sprouts, according to the Centers for Disease Control and Prevention.</sentence>
+      <sentence id="5" ids_highlights="2">The CDC said the source of the E. coli outbreak is likely Evergreen Fresh Sprouts, LLC of Idaho.</sentence>
+      <sentence id="11" ids_highlights="3">Evergreen has not issued a recall, the CDC said, so the sprouts may still be available in stores.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Seventeen people in five states have been sickened by E. coli after eating clover sprouts, according to the Centers for Disease Control and Prevention.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>That&amp;apost;s up from the 10 cases reported by the CDC in late May.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>No deaths have been linked to the E. coli outbreak, the CDC says, but nearly half of those sickened were hospitalized.</content>
+        </sentence>
+        <sentence id="4">
+          <content>Three cases were identified in Idaho, one in Michigan, two in Montana, one in Utah and 10 in Washington state.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>The CDC said the source of the E. coli outbreak is likely Evergreen Fresh Sprouts, LLC of Idaho.</content>
+        </sentence>
+        <sentence id="6">
+          <content>Twelve of the patients whom health officials interviewed reported eating raw clover sprouts from the company in the week before they became ill.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>Evergreen owner David Scharf told CNN affiliate KREM-TV that U.S. Food and Drug Administration tests from his farm came back negative for the strain of E. coli involved in the outbreak.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;The FDA came in looking for proof and they got proof,&amp;quot; Scharf told the station.</content>
+        </sentence>
+        <sentence id="9">
+          <content>&amp;quot;And we are free from the disease.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>KREM reported Tuesday that FDA officials had recently found &amp;quot;objectionable conditions&amp;quot; at the farm despite the negative test results.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>Evergreen has not issued a recall, the CDC said, so the sprouts may still be available in stores.</content>
+        </sentence>
+        <sentence id="12">
+          <content>The CDC, Washington State Department of Health and the Idaho Department of Health and Welfare are advising people not to eat any raw clover sprouts produced by the company.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>Escherichia coli is a large group of bacteria; most are harmless, while some can cause serious illness.</content>
+        </sentence>
+        <sentence id="14">
+          <content>The strain involved in the sprout-linked outbreak is Shiga toxin-producing Escherichia coli O121.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>E. coli infection can lead to severe diarrhea, abdominal pain and vomiting, according to the FDA.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Most people recover within seven days, but some have severe complications, the CDC said.</content>
+        </sentence>
+        <sentence id="17">
+          <content>A type of kidney failure called hemolytic-uremic syndrome may result; the elderly and children under 5 are most at risk.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="18">
+          <content>Evergreen Fresh Sprouts was also involved in a 2011 salmonella outbreak.</content>
+        </sentence>
+        <sentence id="19">
+          <content>Consumers then were discouraged from eating the brand&amp;apost;s alfalfa sprouts and spicy sprouts.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="20">
+          <content>Sprouts have a history of being involved in bacterial infection outbreaks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="21">
+          <content>According to a study commissioned by the Canadian Broadcasting Corp., the warm, moist conditions that are conducive to growing bumper crops of sprouts are also an ideal breeding ground for bacteria.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="22">
+          <content>In the study, Kevin Allen, a microbiology professor at the University of British Columbia, tested 44 samples of prepackaged sprouts (as well as 48 samples of leafy greens and 58 samples of various herbs) and found, &amp;quot;Over 78% of sprouts had levels of microorganisms too numerous to count.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

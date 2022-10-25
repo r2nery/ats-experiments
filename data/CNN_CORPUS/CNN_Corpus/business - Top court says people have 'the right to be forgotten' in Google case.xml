@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="129" link="http://edition.cnn.com/2014/05/13/business/google-right-to-be-forgotten" date_published="2014-05-13 09:43:03" category="business" author="Ivana Kottasova, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Top court says people have &amp;apost;the right to be forgotten&amp;apost; in Google case</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="17">The EU Court of Justice ruling says Google must edit or remove search results.</sentence>
+      <sentence id="2" ids_article_sentences="1">In certain situations, people may request the search engine to remove unwanted results.</sentence>
+      <sentence id="3" ids_article_sentences="5">The ruling says Google should act as a &amp;quot;controller&amp;quot; and is responsible for data it links to.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-13 15:40:30" annotation_time="118.252">
+      <sentence id="1" ids_highlights="2">People have the &amp;quot;right to be forgotten&amp;quot; and search engines like Google must remove certain unwanted links, Europe&amp;apost;s top court decided in a surprise ruling Tuesday.</sentence>
+      <sentence id="5" ids_highlights="3">&amp;quot;An Internet search engine operator is responsible for the processing that it carries out of personal data which appear on web pages published by third parties,&amp;quot; the judges said in a statement about the ruling.</sentence>
+      <sentence id="17" ids_highlights="1">However, it also said that Google had no right to spread the news about Gonzalez further and ruled that the search engine must remove the link from the list of results.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>People have the &amp;quot;right to be forgotten&amp;quot; and search engines like Google must remove certain unwanted links, Europe&amp;apost;s top court decided in a surprise ruling Tuesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The case, which spotlighted the clash between privacy and freedom of information advocates, centered on a Spanish man&amp;apost;s efforts to remove historic links to his debt problems.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>In its decision, the European Court of Justice found operators of search engines such as Google were the &amp;quot;controller&amp;quot; of information.</content>
+        </sentence>
+        <sentence id="4">
+          <content>They were therefore responsible for removing unwanted links if requested.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>&amp;quot;An Internet search engine operator is responsible for the processing that it carries out of personal data which appear on web pages published by third parties,&amp;quot; the judges said in a statement about the ruling.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>A Google spokesman, in an email to CNN, said the ruling was &amp;quot;disappointing,&amp;quot; and that the company needed time to &amp;quot;analyze the implications.&amp;quot;</content>
+        </sentence>
+        <sentence id="7">
+          <content>Google had previously argued it was only hosting the data and said it was up to the individual websites to remove the data.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>The decision came as a surprise to the industry and legal experts, as it ran contrary to the court&amp;apost;s Advocate General opinion, whose guidance is usually followed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>&amp;quot;For Google, this result creates a headache -- and potentially huge costs,&amp;quot; University of East Anglia Law School lecturer Paul Bernal said.</content>
+        </sentence>
+        <sentence id="10">
+          <content>&amp;quot;The ruling looks like a strong decision in favor of privacy and individual rights -- and against the business models of search engines, and certain aspects of freedom of speech.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>The case arose in 2010, when Mario Costeja Gonzalez complained to the Spanish Data Protection Agency about an old newspaper notice detailing his social security debts.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>The advertisement was placed in a Spanish newspaper by the Ministry of Labour in 1998.</content>
+        </sentence>
+        <sentence id="13">
+          <content>It detailed a property auction being held to recover the debts.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>Gonzalez argued that he had long resolved his debts and the information was no longer relevant.</content>
+        </sentence>
+        <sentence id="15">
+          <content>He complained that details about his old debts were coming up in Google search results, which he said violated his data protection rights.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>The Spanish privacy watchdog rejected the complaint against the newspaper, saying it was right to publish the information at the time of the auction.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>However, it also said that Google had no right to spread the news about Gonzalez further and ruled that the search engine must remove the link from the list of results.</content>
+        </sentence>
+        <sentence id="18">
+          <content>Google challenged the ruling with the Spanish High Court which referred the case up to EU&amp;apost;s top court.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="19">
+          <content>International watchdog Index on Censorship said the ruling &amp;quot;violates the fundamental principles of freedom of expression.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="20">
+          <content>&amp;quot;It allows individuals to complain to search engines about information they do not like with no legal oversight.</content>
+        </sentence>
+        <sentence id="21">
+          <content>This is akin to marching into a library and forcing it to pulp books.&amp;quot;</content>
+        </sentence>
+        <sentence id="22">
+          <content>Index said in a statement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

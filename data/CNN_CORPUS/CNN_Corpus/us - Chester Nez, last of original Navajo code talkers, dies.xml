@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1891" link="http://www.cnn.com/2014/06/04/us/navajo-code-talker-obit/index.html" date_published="2014-06-04 21:21:53" category="us" author="AnneClaire Stapleton and Chelsea J. Carter, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Chester Nez, last of original Navajo code talkers, dies</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="32">NEW: As a child, Chester Nez was punished for speaking Navajo.</sentence>
+      <sentence id="2" ids_article_sentences="26">Nez says recognition as a code talker came late, but was good when it did.</sentence>
+      <sentence id="3" ids_article_sentences="1">Nez was one of 29 Navajos recruited to develop the code.</sentence>
+      <sentence id="4" ids_article_sentences="16">Nez served as a code talker in the battles of Guadalcanal, Guam and Peleliu.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-31 23:21:59" annotation_time="208.64067">
+      <sentence id="1" ids_highlights="3">For more than two decades, Chester Nez kept silent about his role as one of the original Navajo code talkers responsible for developing an unbreakable code during World War II.</sentence>
+      <sentence id="16" ids_highlights="4">Nez also fought in Guam and Peleliu.</sentence>
+      <sentence id="26" ids_highlights="2">&amp;quot;The recognition of the code talkers came late, but it has been good for my Navajo people.</sentence>
+      <sentence id="32" ids_highlights="1">It was a far cry from his childhood, when he was forced to attend a boarding school and punished by the teachers for speaking Navajo, according to his book.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>For more than two decades, Chester Nez kept silent about his role as one of the original Navajo code talkers responsible for developing an unbreakable code during World War II.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>His death Wednesday at his home in Albuquerque, New Mexico, at age 93 was lamented by the Marine Corps as the end of an era -- for both the country and its armed forces.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;We mourn his passing but honor and celebrate the indomitable spirit and dedication of those Marines who became known as the Navajo code talkers,&amp;quot; the Marines said in a statement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>Nez was the last remaining of the original 29 Navajos recruited by the Marine Corps to develop the legendary code that was used for vital communications during battle.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>He was a teenager when he was recruited in 1942 and assigned with the other code talkers to the Marine Corps&amp;apost; 382nd Platoon at Camp Pendleton.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>Together, they created a code, including developing a dictionary.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>Military authorities chose Navajo as a code language because its syntax and tonal qualities were almost impossible for a non-Navajo to learn, and it had no written form.</content>
+        </sentence>
+        <sentence id="8">
+          <content>The ranks of the Navajo code talkers swelled to more than 300 by the end of the war in 1945.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>The code talkers were forbidden from telling anyone about it -- not their fellow Marines, not their families -- until their work was declassified in 1968.</content>
+        </sentence>
+        <sentence id="10">
+          <content>The original 29 were presented with the Congressional Gold Medal in 2001 by President George W. Bush.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;In developing our code, we were careful to use everyday Navajo words, so that we could memorize and retain the words easily,&amp;quot; Nez told CNN in 2011 while promoting his book &amp;quot;Code Talker.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;I think that made our job easier, and I think it helped us to be successful in the heat of battle.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="13">
+          <content>Still, Nez said he worried every day that an error might cost the life of an American military service member.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="14">
+          <content>Nez was among the code talkers who were shipped out to Guadalcanal in 1942, where the code talkers worked in teams of two, with one relaying and receiving messages while the other cranked the portable radio and listened for errors in transmission.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="15">
+          <content>&amp;quot;That was my first combat experience, and there was a lot of suffering and a lot of the condition was real bad out there,&amp;quot; he told CNN&amp;apost;s Larry King in 2002.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="16">
+          <content>Nez also fought in Guam and Peleliu.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;When bombs dropped, generally we code talkers couldn&amp;apost;t just curl up in a shelter,&amp;quot; Nez wrote in his book.</content>
+        </sentence>
+        <sentence id="18">
+          <content>&amp;quot;We were almost always needed to transmit information, to ask for supplies and ammunition, and to communicate strategies.</content>
+        </sentence>
+        <sentence id="19">
+          <content>And after each transmission, to avoid Japanese fire, we had to move.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="20">
+          <content>The code talkers faced initial resistance from fellow Marines who did not understand who they were and what they were doing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="21">
+          <content>That changed once they understood the importance of the code, Nez said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="22">
+          <content>The Navajo code baffled the Japanese, who had successfuly deciphered codes used by the U.S. Army.</content>
+        </sentence>
+        <sentence id="23">
+          <content>After the war, the Japanese chief of intelligence, Lt. General Seizo Arisue, admitted they were never able to crack the Navajo code used by the Marines and Navy, according to the Navy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="24">
+          <content>Nez was discharged in 1945, but later volunteered to fight in the Korean War.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="25">
+          <content>After the code talkers&amp;apost; exploits were declassified by the military, the group gained legendary status with books and, ultimately, a movie that was inspired by their stories.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="26">
+          <content>&amp;quot;The recognition of the code talkers came late, but it has been good for my Navajo people.</content>
+        </sentence>
+        <sentence id="27">
+          <content>I hope that this type of recognition continues across cultures,&amp;quot; Nez said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="28">
+          <content>The 2002 film &amp;quot;Windtalkers,&amp;quot; starring Adam Beach and Nicolas Cage, followed the fictional account of two Marines assigned to protect two code talkers during the battle of Saipan.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="29">
+          <content>&amp;quot;I could understand when they sent the message and received on the other end,&amp;quot; Nez said.</content>
+        </sentence>
+        <sentence id="30">
+          <content>&amp;quot;I could understand, and I could sit there and write it down myself.</content>
+        </sentence>
+        <sentence id="31">
+          <content>I still remember it.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="32">
+          <content>It was a far cry from his childhood, when he was forced to attend a boarding school and punished by the teachers for speaking Navajo, according to his book.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="33">
+          <content>It&amp;apost;s a language, though, that appears lost even to many members of his own family.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="34">
+          <content>&amp;quot;My own children do not speak Navajo, although my daughter-in-law ... speaks it well,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="35">
+          <content>Nez said he decided to tell his story because he wanted to share the contributions and sacrifices of the Navajo during World War II.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="36">
+          <content>&amp;quot;Our Navajo code was one of the most important military secrets of World War II.</content>
+        </sentence>
+        <sentence id="37">
+          <content>The fact that the Marines did not tell us Navajo men how to develop that code indicated their trust in us and in our abilities,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="38">
+          <content>&amp;quot;The feeling that I could make it in both the white world and the Navajo world began there, and it has stayed with me all of my life.</content>
+        </sentence>
+        <sentence id="39">
+          <content>For that I am grateful.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="40">
+          <content>The Navajo Nation&amp;apost;s flags have been ordered lowered in Nez&amp;apost;s honor, President Ben Shelly said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

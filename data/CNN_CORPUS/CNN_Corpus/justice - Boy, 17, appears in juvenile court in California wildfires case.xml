@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="471" link="http://www.cnn.com/2014/05/20/justice/california-wildfires/index.html" date_published="2014-05-20 22:32:29" category="justice" author="Michael Martinez and Jason Kravarik, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Boy, 17, appears in juvenile court in California wildfires case</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">Authorities aren&amp;apost;t releasing details on juvenile court appearance by teen.</sentence>
+      <sentence id="2" ids_article_sentences="1">He was arrested last week in connection with a small fire in Escondido.</sentence>
+      <sentence id="3" ids_article_sentences="11">About 40 square miles burned in nine major wildfires in San Diego County.</sentence>
+      <sentence id="4" ids_article_sentences="17">One task force investigates the wildfires; a second warns homeowners of scams.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-06 20:16:04" annotation_time="75.432">
+      <sentence id="1" ids_highlights="2">A 17-year-old boy appeared in a California juvenile court on Tuesday in connection with a small fire that occurred during several wildfires last week in San Diego County, authorities said.</sentence>
+      <sentence id="3" ids_highlights="1">The juvenile court judge closed Tuesday&amp;apost;s proceedings to the media, and authorities weren&amp;apost;t releasing details because of the individual&amp;apost;s juvenile status, Sierra said.</sentence>
+      <sentence id="11" ids_highlights="3">In all, nearly 26,000 acres, or about 40 square miles, were burned the past week by nine major fires in San Diego County, Cal Fire spokesman Daniel Berlant said Tuesday.</sentence>
+      <sentence id="17" ids_highlights="4">San Diego County authorities have formed a task force to investigate more than a dozen wildfires from last week, said Jan Caldwell, spokeswoman for the San Diego County Sheriff&amp;apost;s Department.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>A 17-year-old boy appeared in a California juvenile court on Tuesday in connection with a small fire that occurred during several wildfires last week in San Diego County, authorities said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>No further details were available on the nature of the juvenile court appearance for the teen, said spokeswoman Tanya Sierra of the San Diego County District Attorney&amp;apost;s Office.</content>
+        </sentence>
+        <sentence id="3">
+          <content>The juvenile court judge closed Tuesday&amp;apost;s proceedings to the media, and authorities weren&amp;apost;t releasing details because of the individual&amp;apost;s juvenile status, Sierra said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>The 17-year-old boy was arrested last week with a 19-year-old man, but the older teenager was released and there will be no charges filed against him, Sierra said Tuesday.</content>
+        </sentence>
+        <sentence id="5">
+          <content>Both individuals are from Escondido in San Diego County, and the small fire that prompted their arrest Thursday was extinguished, authorities said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;We can only file charges when we believe we can prove them beyond a reasonable doubt, and in this case, after a thorough review of the case, the district attorney&amp;apost;s office declined to file criminal charges&amp;quot; against the 19-year-old man, Sierra said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>Authorities have already charged Alberto Serrato with arson in connection with another small fire last week.</content>
+        </sentence>
+        <sentence id="8">
+          <content>He is accused of adding brush onto an existing small fire in the San Luis Rey riverbed area in Oceanside, authorities said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>Serrato, 57, pleaded not guilty on Friday, Sierra said.</content>
+        </sentence>
+        <sentence id="10">
+          <content>Serrato is the only person charged with arson in last week&amp;apost;s wildfires, which at one point numbered about three dozen.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>In all, nearly 26,000 acres, or about 40 square miles, were burned the past week by nine major fires in San Diego County, Cal Fire spokesman Daniel Berlant said Tuesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>On Tuesday, all but three wildfires were completely contained.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>The Cocos Fire in San Marco burned 1,995 acres and was 93% contained Tuesday, Cal Fire said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>The Pulgas Fire on the Marine Corps base Camp Pendleton burned 14,416 acres and was 99% contained Tuesday afternoon, Cal Fire said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="15">
+          <content>The San Mateo, or Combat Fire, also on Camp Pendleton, burned 1,457 acres and was 99% contained Tuesday afternoon, Cal Fire said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="16">
+          <content>The two fires and others on Camp Pendleton last week burned 21,900 acres, almost 18% of the base, the Marines said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="17">
+          <content>San Diego County authorities have formed a task force to investigate more than a dozen wildfires from last week, said Jan Caldwell, spokeswoman for the San Diego County Sheriff&amp;apost;s Department.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;The purpose of the task force is to be a clearinghouse for investigators to look for similarities in these cases,&amp;quot; Caldwell said.</content>
+        </sentence>
+        <sentence id="19">
+          <content>&amp;quot;They will do trend analysis and look for patterns.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="20">
+          <content>A second task force with the district attorney&amp;apost;s office and state insurance authorities was also warning homeowners on Tuesday to be wary of criminals who prey on victims of natural disasters, the district attorney&amp;apost;s office said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

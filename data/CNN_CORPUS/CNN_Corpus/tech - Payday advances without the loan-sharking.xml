@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1638" link="http://edition.cnn.com/2014/08/07/tech/innovation/startup-offers-payday-advances/index.html" date_published="2014-08-07 09:56:59" category="tech" author="Issie Lapowsky, Wired" highlights_mapped="true" mapping_error="false">
+  <title>Payday advances without the loan-sharking</title>
+  <keywords>activehours,payday loans,loan sharks,payday loan app,cash advance app</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="9">New service lets workers access pay they&amp;apost;ve already earned, before payday.</sentence>
+      <sentence id="2" ids_article_sentences="11">Instead of charging fees or interest ActiveHours allows users to pay what they want.</sentence>
+      <sentence id="3" ids_article_sentences="9">The service is only available to hourly workers.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-28 12:28:00" annotation_time="40.675">
+      <sentence id="9" ids_highlights="1, 3">The Palo Alto startup, which recently raised $4.1 million, makes an app that allows hourly workers to immediately access pay they&amp;apost;ve already earned, without having to wait for their employer&amp;apost;s standard pay cycle.</sentence>
+      <sentence id="11" ids_highlights="2">Instead, ActiveHours makes money on tips, asking users to pay what they want.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Payday lenders aren&amp;apost;t the most scrupulous of operations.</content>
+        </sentence>
+        <sentence id="2">
+          <content>Preying on the desperation of people who don&amp;apost;t have enough money to make it to their next payday, these lenders dole out short-term loans with exorbitant interest rates, forcing already cash-strapped customers deeper into debt.</content>
+        </sentence>
+        <sentence id="3">
+          <content>And while many have tried to reform the payday lending industry, we&amp;apost;re still awaiting the right answer.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="4">
+          <content>Ram Palaniappan has a new approach.</content>
+        </sentence>
+        <sentence id="5">
+          <content>He wants to solve the problem at its root, by eradicating the payday altogether.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="6">
+          <content>According to Palaniappan, the real culprit here is the very concept of the payday.</content>
+        </sentence>
+        <sentence id="7">
+          <content>The way he sees it, there&amp;apost;s no reason people who already have done their work should have to wait several days, or even weeks, to get the money they&amp;apost;ve rightfully earned.</content>
+        </sentence>
+        <sentence id="8">
+          <content>So, in May, Palaniappan launched ActiveHours.</content>
+        </sentence>
+        <sentence id="9">
+          <content>The Palo Alto startup, which recently raised $4.1 million, makes an app that allows hourly workers to immediately access pay they&amp;apost;ve already earned, without having to wait for their employer&amp;apost;s standard pay cycle.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="10">
+          <content>What&amp;apost;s more, there are no fees.</content>
+        </sentence>
+        <sentence id="11">
+          <content>Instead, ActiveHours makes money on tips, asking users to pay what they want.</content>
+        </sentence>
+        <sentence id="12">
+          <content>&amp;quot;We&amp;apost;re trying to build something that&amp;apost;s completely aligned with the consumer, unlike what people are used to today in typical financial services, where it&amp;apost;s, in some ways, adversarial,&amp;quot; he says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="13">
+          <content>Palaniappan is far from the only entrepreneur who sees opportunity in creating an alternative to the payday loan.</content>
+        </sentence>
+        <sentence id="14">
+          <content>LendUp, for instance, has raised $64 million to offer loans with lower interest rates that become cheaper over time.</content>
+        </sentence>
+        <sentence id="15">
+          <content>ZestFinance, launched by an ex-Googler, is similar.</content>
+        </sentence>
+        <sentence id="16">
+          <content>But even these players still rely on fees, both for profit and protection.</content>
+        </sentence>
+        <sentence id="17">
+          <content>In this demographic, after all, there tends to be a high rate of delinquency, so even the most upstanding lenders typically account for those losses upfront.</content>
+        </sentence>
+        <sentence id="18">
+          <content>But with its no-fee model, ActiveHours is a radical departure.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="19">
+          <content>It&amp;apost;s also riskier.</content>
+        </sentence>
+        <sentence id="20">
+          <content>The company is betting that when given the choice, its customers -- already struggling financially -- will still pay for the service it provides.</content>
+        </sentence>
+        <sentence id="21">
+          <content>&amp;quot;Some people look at the model and think we&amp;apost;re crazy,&amp;quot; Palaniappan says, &amp;quot;but we tested it and found the model is sufficient to building a sustainable business.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="22">
+          <content>Unlocking the Money You&amp;apost;ve Already Earned.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="23">
+          <content>This is not Palaniappan&amp;apost;s first financial services company.</content>
+        </sentence>
+        <sentence id="24">
+          <content>In 2004, he launched RushCard, a startup that allowed people without access to a traditional bank account to get their paychecks loaded onto a prepaid ATM card.</content>
+        </sentence>
+        <sentence id="25">
+          <content>The goal was to offer the so-called &amp;quot;under-banked&amp;quot; an alternative to going to Western Union or other check cashing businesses, which take a large cut of every transaction.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="26">
+          <content>While Palaniappan was working at RushCard, though, he learned that an employee working in the call center had recently taken a payday loan.</content>
+        </sentence>
+        <sentence id="27">
+          <content>He immediately wrote her a personal check and told her to pay it off as soon as possible.</content>
+        </sentence>
+        <sentence id="28">
+          <content>&amp;quot;I didn&amp;apost;t want anyone who worked for me to have to use payday loans,&amp;quot; he says.</content>
+        </sentence>
+        <sentence id="29">
+          <content>That&amp;apost;s when he realized that there should be an easier way for employees to unlock the money they&amp;apost;d already earned.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="30">
+          <content>When he left RushCard in 2012 after selling it to a private equity firm, he began experimenting with ways to automate such a service.</content>
+        </sentence>
+        <sentence id="31">
+          <content>It&amp;apost;s a complex process that requires verifying who an employee is, where he works, how much he&amp;apost;s worked, and what his hourly wage is.</content>
+        </sentence>
+        <sentence id="32">
+          <content>Then there&amp;apost;s the equally difficult process of integrating with banks to deposit and withdraw funds from each user&amp;apost;s existing bank account.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="33">
+          <content>Palaniappan and several of his RushCard team members spent about a year developing the technology and launched the app publicly in May.</content>
+        </sentence>
+        <sentence id="34">
+          <content>Back then, ActiveHours was handling transactions for employees from 100 different employers.</content>
+        </sentence>
+        <sentence id="35">
+          <content>Today, it&amp;apost;s 250 employers, including the likes of Best Buy, Starbucks, and even major banks like Wells Fargo and Bank of America.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="36">
+          <content>How It Works.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="37">
+          <content>Employees can sign up for Active Hours on their own, providing their bank account number.</content>
+        </sentence>
+        <sentence id="38">
+          <content>They use the app to upload a photo of their electronic time sheets (paper time sheets aren&amp;apost;t allowed).</content>
+        </sentence>
+        <sentence id="39">
+          <content>ActiveHours knows which systems are used by most employers, so it uses a photo of the system to verify the timesheet is real and checks the hours logged against past deposits made into the user&amp;apost;s bank account.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="40">
+          <content>ActiveHours also uses geolocation to ensure the user was at work when he took the photo.</content>
+        </sentence>
+        <sentence id="41">
+          <content>Once a user has been approved, he can see how much money he&amp;apost;s already earned and transfer any percentage of it into his bank account.</content>
+        </sentence>
+        <sentence id="42">
+          <content>ActiveHours essentially gives the user a cash advance and deposits it into the user&amp;apost;s account the next day.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="43">
+          <content>When payday rolls around, ActiveHours withdraws the same amount from the user&amp;apost;s account.</content>
+        </sentence>
+        <sentence id="44">
+          <content>And at the end of it all, users can opt to pay ActiveHours a couple bucks -- or nothing at all.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="45">
+          <content>Unusual as that may sound, Palaniappan isn&amp;apost;t the only one who believes in the concept.</content>
+        </sentence>
+        <sentence id="46">
+          <content>ActiveHours has caught the attention of Ribbit Capital, a financial services investment firm that typically only invests in late stage companies.</content>
+        </sentence>
+        <sentence id="47">
+          <content>According to Micky Malka, founder of Ribbit Capital, what Palaniappan and his crew are building is so special, though, the firm was compelled to join ActiveHours&amp;apost; seed round.</content>
+        </sentence>
+        <sentence id="48">
+          <content>&amp;quot;It&amp;apost;s a very powerful concept,&amp;quot; Malka says.</content>
+        </sentence>
+        <sentence id="49">
+          <content>&amp;quot;As we move into this on-demand economy, your payroll should be the same way.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="50">
+          <content>The Threat of Abuse.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="51">
+          <content>Still, not everyone is as convinced.</content>
+        </sentence>
+        <sentence id="52">
+          <content>According to Adair Morse, assistant professor of finance at UC Berkeley&amp;apost;s Haas School of Business, ActiveHours is a smart idea that&amp;apost;s meeting a very real need for low cost alternatives to payday loans.</content>
+        </sentence>
+        <sentence id="53">
+          <content>And yet, she says, ActiveHours may be overly vulnerable to abuse.</content>
+        </sentence>
+        <sentence id="54">
+          <content>Although people are only borrowing money they&amp;apost;ve already earned, Morse says it&amp;apost;s still possible that when ActiveHours tries to withdraw money from a user&amp;apost;s account on payday, the money will already be gone.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="55">
+          <content>Then, there&amp;apost;s the fact that ActiveHours relies on donations, meaning it&amp;apost;s susceptible to what economists call the free rider problem.</content>
+        </sentence>
+        <sentence id="56">
+          <content>&amp;quot;People assume someone else is better able to step up and contribute,&amp;quot; she says.</content>
+        </sentence>
+        <sentence id="57">
+          <content>&amp;quot;This whole idea of donations sounds great, but we&amp;apost;re talking about people who are constrained.</content>
+        </sentence>
+        <sentence id="58">
+          <content>They don&amp;apost;t have savings.</content>
+        </sentence>
+        <sentence id="59">
+          <content>They have debt.&amp;quot;</content>
+        </sentence>
+        <sentence id="60">
+          <content>And, if the donation model doesn&amp;apost;t work, Morse points out, ActiveHours reserves the right to change its fee structure at any point.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="61">
+          <content>But Palaniappan says that, so far, such abuses have not been a major issue.</content>
+        </sentence>
+        <sentence id="62">
+          <content>The bigger problem, he says, is convincing people ActiveHours isn&amp;apost;t just another payday lender tricking people into a cycle of debt.</content>
+        </sentence>
+        <sentence id="63">
+          <content>&amp;quot;People aren&amp;apost;t used to the model, so they think it&amp;apost;s too good to be true,&amp;quot; he says.</content>
+        </sentence>
+        <sentence id="64">
+          <content>&amp;quot;They&amp;apost;re judging us with a standard that&amp;apost;s completely terrible.</content>
+        </sentence>
+        <sentence id="65">
+          <content>What we&amp;apost;re doing is not too good to be true.</content>
+        </sentence>
+        <sentence id="66">
+          <content>It&amp;apost;s what we&amp;apost;ve been living with that&amp;apost;s too bad to be allowed.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="67">
+          <content>Read more from WIRED:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="324" link="http://www.cnn.com/2013/04/02/health/obama-brain-research/index.html" date_published="2013-04-02 11:10:39" category="health" author="Alex Mooney, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Obama seeks $100M to unlock mysteries of the brain</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="8">NEW: &amp;quot;There is this enormous mystery waiting to be unlocked,&amp;quot; Obama says.</sentence>
+      <sentence id="2" ids_article_sentences="7">The initiative aims to help find ways to prevent, treat and cure brain disorders.</sentence>
+      <sentence id="3" ids_article_sentences="13">President Obama promised more funding for such studies in his State of the Union address.</sentence>
+      <sentence id="4" ids_article_sentences="15">Federal research agencies will work with private partners.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-02 21:25:45" annotation_time="27.598333">
+      <sentence id="7" ids_highlights="2">The initiative, dubbed Brain Research Through Advancing Innovative Neurotechnologies, or BRAIN, &amp;quot;aims to help researchers find new ways to treat, cure, and even prevent brain disorders, such as Alzheimer&amp;apost;s disease, epilepsy, and traumatic brain injury,&amp;quot; the White House said in a release issued in advance of the event.</sentence>
+      <sentence id="8" ids_highlights="1">&amp;quot;There is this enormous mystery waiting to be unlocked,&amp;quot; Obama said, &amp;quot;and the BRAIN Initiative will change that by giving scientists the tools they need to get a dynamic picture of the brain in action and better understand how we think and how we learn and how we remember.</sentence>
+      <sentence id="13" ids_highlights="3">In his State of the Union address in February, he said, &amp;quot;If we want to make the best products, we also have to invest in the best ideas,&amp;quot; and alluded to scientists &amp;quot;mapping the human brain to unlock the answers to Alzheimer&amp;apost;s.&amp;quot;</sentence>
+      <sentence id="15" ids_highlights="4">The research would involve both federal research agencies and private partners.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>President Barack Obama on Tuesday unveiled a $100 million initiative to unlock the &amp;quot;enormous mystery&amp;quot; of the human brain in hopes of boosting the understanding and treatment of brain disorders.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>&amp;quot;What if computers could respond to our thoughts?</content>
+        </sentence>
+        <sentence id="3">
+          <content>Or language barriers could come tumbling down?</content>
+        </sentence>
+        <sentence id="4">
+          <content>Or if millions of Americans were suddenly finding new jobs in these fields -- jobs we haven&amp;apost;t even dreamt up yet because we chose to invest in this project?</content>
+        </sentence>
+        <sentence id="5">
+          <content>That is the future we are imagining.</content>
+        </sentence>
+        <sentence id="6">
+          <content>That is what we are hoping for,&amp;quot; the president said in an event in the East Room of the White House.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="7">
+          <content>The initiative, dubbed Brain Research Through Advancing Innovative Neurotechnologies, or BRAIN, &amp;quot;aims to help researchers find new ways to treat, cure, and even prevent brain disorders, such as Alzheimer&amp;apost;s disease, epilepsy, and traumatic brain injury,&amp;quot; the White House said in a release issued in advance of the event.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;There is this enormous mystery waiting to be unlocked,&amp;quot; Obama said, &amp;quot;and the BRAIN Initiative will change that by giving scientists the tools they need to get a dynamic picture of the brain in action and better understand how we think and how we learn and how we remember.</content>
+        </sentence>
+        <sentence id="9">
+          <content>And that knowledge could be -- will be -- transformative.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="10">
+          <content>Obama said he will seek the $100 million funding in the budget he sends to Congress next week.</content>
+        </sentence>
+        <sentence id="11">
+          <content>In an environment where both parties are seeking significant spending cuts, the expenditure faces an uncertain reception.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="12">
+          <content>In his remarks, Obama said the funding would be in line with a promise he made earlier this year to increase levels of research.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="13">
+          <content>In his State of the Union address in February, he said, &amp;quot;If we want to make the best products, we also have to invest in the best ideas,&amp;quot; and alluded to scientists &amp;quot;mapping the human brain to unlock the answers to Alzheimer&amp;apost;s.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="14">
+          <content>The money to study the brain would support research by the National Institutes of Health, the Defense Advanced Research Projects Agency and the National Science Foundation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="15">
+          <content>The research would involve both federal research agencies and private partners.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="16">
+          <content>A major goal is to reveal &amp;quot;how individual brain cells and complex neural circuits interact at the speed of thought,&amp;quot; the White House said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;Our ultimate objective is a deep understanding of the human brain and its understanding,&amp;quot; said Arati Prabhakar, director of the Defense Advanced Research Projects Agency, in a conference call with reporters.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="18">
+          <content>In the same call, National Institutes of Health Director Francis Collins said that &amp;quot;advances in tech which are coming along very quickly make it possible to take a look at what&amp;apost;s happening in the brain,&amp;quot; and the research &amp;quot;leads us to believe we can accomplish something very dramatic.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="19">
+          <content>The hope is that these new technologies will lead to insights into how the brain processes information and how it is linked to behavior.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="20">
+          <content>&amp;quot;We aim through this ambitious project to try to unravel these mysteries,&amp;quot; Collins said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

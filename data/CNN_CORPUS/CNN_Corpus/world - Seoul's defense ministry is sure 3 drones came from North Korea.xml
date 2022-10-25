@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2740" link="http://www.cnn.com/2014/05/09/world/asia/koreas-drones/?hpt=bosread" date_published="2014-05-09 07:08:55" category="world" author="Ben Brumfield and KJ Kwon, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Seoul&amp;apost;s defense ministry is sure 3 drones came from North Korea</title>
+  <keywords>North Korea drones</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">Three diminutive single-engine unmanned propeller planes were found in March and April.</sentence>
+      <sentence id="2" ids_article_sentences="12">They look like hobby shop model airplanes with consumer cameras shoved into them.</sentence>
+      <sentence id="3" ids_article_sentences="5, 18">They don&amp;apost;t have strong military or spy capabilities, but they made it through air defenses.</sentence>
+      <sentence id="4" ids_article_sentences="32">Spring is typically a time of high provocations between North and South Korea.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-11 18:27:36" annotation_time="223.54468" mapping_time_divergence="111.77234">
+      <sentence id="3" ids_highlights="1">Three diminutive single-engine unmanned propeller planes that look like they could have come from a hobby shop were found on the ground in March and April in parts of the South near the border with the northern Communist regime.</sentence>
+      <sentence id="5" ids_highlights="3">And they made it through South Korean air defenses.</sentence>
+      <sentence id="12" ids_highlights="2">Japanese-made digital cameras, which look like they could be of the consumer variety, were inserted into the bellies of the drones and had taken aerial photos of the South from around the border region.</sentence>
+      <sentence id="18" ids_highlights="3">There is little danger the drones could have made it far into South Korea.</sentence>
+      <sentence id="32" ids_highlights="4">Spring is traditionally a time of high tensions between Pyongyang on the one side and Seoul and Washington on the other.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Seoul Call them drones; call them toy airplanes with digital cameras dropped into their girths.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Either way, South Korean defense officials said on Friday they were sure that they came from North Korea and that they were up to no good.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Three diminutive single-engine unmanned propeller planes that look like they could have come from a hobby shop were found on the ground in March and April in parts of the South near the border with the northern Communist regime.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>Though the low-tech buzzers don&amp;apost;t seem to represent a major danger, they come in the shadow of North Korean missile launches and the impending countdown to the test of a nuclear device.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>And they made it through South Korean air defenses.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>Ministry of National Defense officials in Seoul immediately suspected that the sky-blue colored fliers belonged to Pyongyang.</content>
+        </sentence>
+        <sentence id="7">
+          <content>They formed an investigation team with the United States in mid-April to analyze the &amp;quot;travel log file&amp;quot; and photos taken by the drones and announced the results on Friday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>Scientists found a &amp;quot;smoking gun that all three were sent from North Korea and are programmed to return to North Korea,&amp;quot; South Korean defense spokesman Kim Min-soek said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>Photos the drones took along on their journey corroborate their flight path, he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="10">
+          <content>Precarious cargo.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="11">
+          <content>Had the mechanical carrier pigeons made it back home, they would have delivered precarious cargo, but it would have been far from precious.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="12">
+          <content>Japanese-made digital cameras, which look like they could be of the consumer variety, were inserted into the bellies of the drones and had taken aerial photos of the South from around the border region.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="13">
+          <content>All three were programmed to fly over military facilities, and two of them had images of targets of military interest -- strategically important islands near the demilitarized zone, and the Blue House, residence and office of South Korea&amp;apost;s President Park Geun-hye.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="14">
+          <content>Images from the third drone were not available to South Korean investigators.</content>
+        </sentence>
+        <sentence id="15">
+          <content>A wild ginseng digger had stumbled upon the plane and had deleted its memory card so he could use it himself, the Korea Times reported.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="16">
+          <content>The planes were not capable of transmitting images back to North Korea in real time, and the photos themselves were no better than what one might see on a service akin to Google Earth, Kim said in a previous briefing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="17">
+          <content>Limited capabilities.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="18">
+          <content>There is little danger the drones could have made it far into South Korea.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="19">
+          <content>The type of drone is not used for long-range missions, a defense analyst said.</content>
+        </sentence>
+        <sentence id="20">
+          <content>Instead they&amp;apost;re better suited to see what the enemy is up to on the other side of a hill or wall.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="21">
+          <content>&amp;quot;It has quite a small range, it doesn&amp;apost;t have very long endurance so it would only be up there for a few hours.</content>
+        </sentence>
+        <sentence id="22">
+          <content>You would use those to see what the other guys are doing in a battlefield environment,&amp;quot; said James Hardy, the Asia Pacific editor of IHS Jane&amp;apost;s Defence Weekly magazine.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="23">
+          <content>&amp;quot;They&amp;apost;re very much closely built off a remote-controlled aircraft that you can buy in a toy store.</content>
+        </sentence>
+        <sentence id="24">
+          <content>They&amp;apost;re just a militarized version of that,&amp;quot; Hardy said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="25">
+          <content>The Korean drones are nowhere near as sophisticated as those used by the United States in Pakistan, Yemen and Afghanistan, he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="26">
+          <content>They would also not make much of a weapon, if someone decided to stuff explosives into them, Kim has said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="27">
+          <content>&amp;quot;Even if they are to be used for future attacks, (they) can only carry 2-3 kilograms of TNT and cannot cause huge damage.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="28">
+          <content>North Korea has flaunted similar, larger UAVs at military parades in recent years, and some of them have been spiked with explosives, Hardy said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="29">
+          <content>Video footage shows North Korean exercises using them as missiles, but it&amp;apost;s an expensive way to build a bomb, he said.</content>
+        </sentence>
+        <sentence id="30">
+          <content>And it could only take out a single vehicle or ship.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="31">
+          <content>&amp;apost;Tis the season.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="32">
+          <content>Spring is traditionally a time of high tensions between Pyongyang on the one side and Seoul and Washington on the other.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="33">
+          <content>Annual U.S.-South Korean joint military drills, that ended on April 7, drew criticism from North Korea, which views the exercises as &amp;quot;dress rehearsals for invasion,&amp;quot; according to analyst James Person from the Woodrow Wilson Center.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="34">
+          <content>In March, Pyongyang fired two mid-range ballistics missiles off its eastern coast, in an apparent response to the drills.</content>
+        </sentence>
+        <sentence id="35">
+          <content>Days later, the two sides fired hundreds of shells across the Northern Limit Line, their disputed maritime border.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="36">
+          <content>The shells were shot into the sea, not at hard targets.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="37">
+          <content>North Korea also warned it was preparing to test another nuclear device.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="38">
+          <content>&amp;quot;It&amp;apost;s all good stuff because it allows the North Koreans to do something provocative and slightly annoying which might embarrass South Koreans, but it&amp;apost;s not provocative enough to create a proper military response,&amp;quot; Hardy said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="39">
+          <content>Slipping through.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="40">
+          <content>The drones would fit well into that category, since they slipped through South Korean air defenses.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="34">
+      <sentences>
+        <sentence id="41">
+          <content>They are made of polycarbonate, which is difficult to detect with radar, according to South Korea&amp;apost;s Yonhap news agency.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="35">
+      <sentences>
+        <sentence id="42">
+          <content>They fly at an average speed of about 110 km per hour (68 mph) at an altitude of 1.3 km (.8 miles).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="36">
+      <sentences>
+        <sentence id="43">
+          <content>They were launched in North Korea from three locations, South Korea&amp;apost;s defense ministry said: Near the Kaesong area, 27 kilometers southeast of Haeju and 17 kilometers from Pyonggak.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="37">
+      <sentences>
+        <sentence id="44">
+          <content>South Korea&amp;apost;s defense ministry called the intrusion by the drones a violation of the truce that ended the bloody conflict between North and South Korea in 1953.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="38">
+      <sentences>
+        <sentence id="45">
+          <content>Kim said Seoul will send a warning via the United Nations to Pyongyang and tighten air defenses as a response to the drones.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

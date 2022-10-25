@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="207" link="http://www.cnn.com/2011/11/22/health/coffee-reduces-cancer-risk/index.html" date_published="2011-11-22 19:47:22" category="health" author="Amanda Gardner, Health.com" highlights_mapped="true" mapping_error="false">
+  <title>Coffee may reduce women&amp;apost;s cancer risk</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="4">Women who average four or more cups of coffee per day may have lower risks for cancer.</sentence>
+      <sentence id="2" ids_article_sentences="6">Coffee drinking has been shown in previous studies to lower levels of insulin and estrogen.</sentence>
+      <sentence id="3" ids_article_sentences="8">Added calories and fat from cream and sugar can negate the benefits of coffee.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-26 10:58:40" annotation_time="1108.7494">
+      <sentence id="4" ids_highlights="1">Compared to women who drank little or no coffee, those who averaged four or more cups per day had a 25% lower risk of developing endometrial cancer, and those who drank two or three cups per day had a 7% lower risk.</sentence>
+      <sentence id="6" ids_highlights="2">Coffee drinking has been shown in previous studies to lower levels of insulin and estrogen, and chronically high levels of both hormones have been linked to endometrial cancer, the study notes.</sentence>
+      <sentence id="8" ids_highlights="3">Whatever benefits coffee may have on insulin levels would almost certainly be negated by the added calories and fat, which could contribute to insulin resistance and weight gain, they say.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>That morning cup (or cups) of coffee may do more than just kick-start your day.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Women who habitually drink several cups of coffee per day over the course of years or decades may be less likely than their peers to develop cancer in the lining of their uterus, a new study suggests.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Researchers at Harvard University analyzed data on 67,470 women between the ages of 34 and 59 who were followed for about 26 years.</content>
+        </sentence>
+        <sentence id="4">
+          <content>Compared to women who drank little or no coffee, those who averaged four or more cups per day had a 25% lower risk of developing endometrial cancer, and those who drank two or three cups per day had a 7% lower risk.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Although the study, which was funded by the National Institutes of Health, doesn&amp;apost;t prove that drinking coffee was directly responsible for reducing cancer risk, the researchers say a cause-and-effect relationship is plausible.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>Coffee drinking has been shown in previous studies to lower levels of insulin and estrogen, and chronically high levels of both hormones have been linked to endometrial cancer, the study notes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>The researchers urge coffee drinkers to hold the cream and sugar, however.</content>
+        </sentence>
+        <sentence id="8">
+          <content>Whatever benefits coffee may have on insulin levels would almost certainly be negated by the added calories and fat, which could contribute to insulin resistance and weight gain, they say.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>Edward Giovannucci, MD, a professor of nutrition and epidemiology at the Harvard School of Public Health, in Boston, led the study.</content>
+        </sentence>
+        <sentence id="10">
+          <content>The findings, which were published today in the journal Cancer Epidemiology, Biomarkers &amp;amp; Prevention, add to a growing body of evidence that indicates coffee may offer more benefits than harm when it comes to health -- and not just cancer health.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>In recent years, studies have linked coffee consumption to a lower risk of liver cancer and lethal prostate cancer, as well as a lower risk of depression, type 2 diabetes, Parkinson&amp;apost;s disease (mainly in men), and cirrhosis of the liver.</content>
+        </sentence>
+        <sentence id="12">
+          <content>Research in mice even suggests that coffee may help protect against the brain changes associated with Alzheimer&amp;apost;s disease.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>It&amp;apost;s not entirely clear how drinking coffee might improve health, but caffeine seems to be only part of the picture, since studies on decaffeinated coffee have turned up apparent health benefits as well.</content>
+        </sentence>
+        <sentence id="14">
+          <content>(In the new study, decaffeinated coffee appeared to lower the risk of endometrial cancer, but the researchers had too little data on decaf-only drinkers to reach any reliable conclusions.).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>Compounds with antioxidant properties - such as chlorogenic acid -- likely play a role as well.</content>
+        </sentence>
+        <sentence id="16">
+          <content>&amp;quot;There are estimated to be over a couple thousand different components in coffee, many of which are antioxidants,&amp;quot; says Donald Hensrud, M.D., chair of preventive medicine at the Mayo Clinic, in Rochester, Minnesota.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="17">
+          <content>Coffee contains even more antioxidants than green tea, says Hensrud, who was not involved in the new research.</content>
+        </sentence>
+        <sentence id="18">
+          <content>Giovannucci and his colleagues looked at tea drinkers in their study as well, but they found no relationship between tea consumption and endometrial-cancer risk.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="19">
+          <content>The study has several key shortcomings that mean the findings should be interpreted with caution.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="20">
+          <content>The researchers relied on biennial diet questionnaires to assess coffee and tea intake, for instance, and although they controlled for a wide range of health factors and behaviors, they can&amp;apost;t rule out the possibility that heavy coffee drinkers are socially or culturally different from their peers in ways that could affect cancer risk.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="21">
+          <content>Leo B. Twiggs, M.D., a professor of obstetrics and gynecology at the University of Miami Miller School of Medicine, says a &amp;quot;whole host of reasons&amp;quot; other than coffee consumption could potentially explain the study findings.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="22">
+          <content>Women concerned about cancer risk shouldn&amp;apost;t necessarily increase their coffee intake, in other words.</content>
+        </sentence>
+        <sentence id="23">
+          <content>&amp;quot;It&amp;apost;s OK to drink coffee as long as you don&amp;apost;t drink lots of it,&amp;quot; Twiggs says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="24">
+          <content>Although drinking a lot of caffeinated coffee doesn&amp;apost;t appear to have any serious health consequences (such as raising the risk of high blood pressure, or hypertension), Hensrud says, it can carry some potential side effects, including insomnia, worsened heartburn, heart palpitations, anxiety, and irritability.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="25">
+          <content>The &amp;quot;take-home message&amp;quot; of the new study should not be to &amp;quot;go out and drink more than four cups a day,&amp;quot; says Steven R. Goldstein, M.D., a professor of obstetrics and gynecology at New York University Langone Medical Center, in New York City.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="26">
+          <content>The most effective way for women to detect -- if not prevent -- endometrial cancer is to look out for irregular menstrual bleeding and consult a doctor if they notice anything unusual, Goldstein says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

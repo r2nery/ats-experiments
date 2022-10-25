@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="895" link="http://www.cnn.com/2013/12/05/opinion/north-korea-kim-purge-opinion/index.html" date_published="2013-12-06 04:38:57" category="opinion" author="Bruce Klingner, special for CNN" highlights_mapped="true" mapping_error="false">
+  <title>Opinion: North Korea&amp;apost;s young Kim there to stay</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Jang Sung-taek was the vice chairman of North Korea&amp;apost;s top military body.</sentence>
+      <sentence id="2" ids_article_sentences="6">Klingner: Shows that leader Kim Jong Un is firmly in control and confident.</sentence>
+      <sentence id="3" ids_article_sentences="19">Widespread rumors that Jang was defeated in a struggle with personal rivals, he says.</sentence>
+      <sentence id="4" ids_article_sentences="25">Klingner: Departure of his uncle will have little impact on North Korea policy.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-20 14:22:53" annotation_time="97.82767">
+      <sentence id="1" ids_highlights="1">Washington D.C. Kim Jong Un has further solidified his control over North Korea by reportedly purging his uncle Jang Sung-taek, Vice Chairman of the important Nation Defense Commission.</sentence>
+      <sentence id="6" ids_highlights="2">But it is more likely that Kim&amp;apost;s purge of Jang -- as well as hundreds of other officials since 2011 -- shows that the North Korean ruler is firmly in control and confident enough to target even the most senior strata of power.</sentence>
+      <sentence id="19" ids_highlights="3">There are widespread rumors that Jang was defeated in a struggle with personal rivals.</sentence>
+      <sentence id="25" ids_highlights="4">The likely departure of his uncle will have little impact on North Korea policy.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Washington D.C. Kim Jong Un has further solidified his control over North Korea by reportedly purging his uncle Jang Sung-taek, Vice Chairman of the important Nation Defense Commission.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Although Jang was often referred to as the &amp;quot;second most powerful man in North Korea,&amp;quot; he may now been ousted from the leadership elite for the third time.</content>
+        </sentence>
+        <sentence id="3">
+          <content>He has twice returned to the inner circle of power, but this cat may now have run out of lives.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>What does the move say about the stability of North Korea?</content>
+        </sentence>
+        <sentence id="5">
+          <content>Some experts perceive a weak, embattled Kim feeling forced to fend off challengers.</content>
+        </sentence>
+        <sentence id="6">
+          <content>But it is more likely that Kim&amp;apost;s purge of Jang -- as well as hundreds of other officials since 2011 -- shows that the North Korean ruler is firmly in control and confident enough to target even the most senior strata of power.</content>
+        </sentence>
+        <sentence id="7">
+          <content>Like his father and grandfather, Kim is playing rivals off against each other to eliminate real or perceived challengers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="8">
+          <content>Debate rages amongst experts as to why Kim felt it necessary to purge his former mentor and protector.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Potential explanations revolve around four Ps -- power, parity, people and policy.</content>
+        </sentence>
+        <sentence id="10">
+          <content>Although a classic struggle for power between the leader and potential contenders is a possible explanation, Jang had seemed content to play the role of éminence grise, exercising power behind the throne.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="11">
+          <content>The best chance for Jang to have grabbed the ring of power would have been when Kim was weakest immediately after his father&amp;apost;s death in 2011.</content>
+        </sentence>
+        <sentence id="12">
+          <content>But even then, the young Kim was immediately presented as the sole ruler and not as a part of a leadership consortium.</content>
+        </sentence>
+        <sentence id="13">
+          <content>After Kim acquired each of his father&amp;apost;s titles affirming control over the government, military, and party, it became increasingly more difficult for potential challengers to oust him.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="14">
+          <content>Then there&amp;apost;s the issue of parity between the Korean Workers&amp;apost; Party (KWP) and the military.</content>
+        </sentence>
+        <sentence id="15">
+          <content>Under Kim Jong Il, power shifted to the military, as the National Defense Commission became the preeminent center of government power.</content>
+        </sentence>
+        <sentence id="16">
+          <content>But under his son, the KWP has regained some power.</content>
+        </sentence>
+        <sentence id="17">
+          <content>The KWP&amp;apost;s Central Military Commission has now eclipsed the National Defense Commission as the arbiter of North Korean military policies.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="18">
+          <content>Rather than a struggle to wrest power from Kim, the purge may instead result from people fighting for closer access to him.</content>
+        </sentence>
+        <sentence id="19">
+          <content>There are widespread rumors that Jang was defeated in a struggle with personal rivals.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="20">
+          <content>The least likely explanation for the purge is a debate over policy.</content>
+        </sentence>
+        <sentence id="21">
+          <content>Although Jang was often referred to as a &amp;quot;reformer&amp;quot; by the media, there is little evidence that he or any hidden cabal advocated implementing significant economic and political reform or moderating North Korea&amp;apost;s threatening behavior.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="22">
+          <content>Pyongyang created the perception of factions of hardliners and reformers as part of a &amp;quot;good cop-bad cop&amp;quot; strategy to elicit benefits during negotiations.</content>
+        </sentence>
+        <sentence id="23">
+          <content>As a Korean adage warns, &amp;quot;The same animal has soft fur and sharp claws.&amp;quot;</content>
+        </sentence>
+        <sentence id="24">
+          <content>When Kim ascended the throne in 2011, he was erroneously perceived as a reformer simply because he had spent a few years in Switzerland as a teen.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="25">
+          <content>The likely departure of his uncle will have little impact on North Korea policy.</content>
+        </sentence>
+        <sentence id="26">
+          <content>Kim has shown himself to be just as inimical to reform and pursuing a less belligerent foreign policy as his predecessors.</content>
+        </sentence>
+        <sentence id="27">
+          <content>He showed his willingness to escalate tensions on the Korean Peninsula to dangerous levels earlier this year, threatening nuclear attacks against the United States and South Korea.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="28">
+          <content>The young leader has also made clear he has no intention of abandoning his regime&amp;apost;s nuclear weapons, even revising the constitution to enshrine North Korea as a nuclear weapons state.</content>
+        </sentence>
+        <sentence id="29">
+          <content>Pyongyang declared, &amp;quot;those who talk about an economic reward in return for the dismantlement of [North Korea&amp;apost;s] nuclear weapons would be well advised to awake from their daydream ... Only fools will entertain the delusion that we will trade our nuclear deterrent for petty economic aid.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="30">
+          <content>Rather than seeking an illusory North Korean reformer, Washington and Seoul should instead prepare for the extended rule of yet another member of the Kim family willing to test the resolve of his opponents.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

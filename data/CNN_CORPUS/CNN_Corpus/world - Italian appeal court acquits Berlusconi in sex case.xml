@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2338" link="http://edition.cnn.com/2014/07/18/world/europe/italy-berlusconi-acquittal/index.html?hpt=hp_t3" date_published="2014-07-18 14:49:50" category="world" author="Susannah Cullinane and Hada Messia, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Italian appeal court acquits Berlusconi in sex case</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">Prosecutors said Berlusconi had sex with underage dancer called &amp;quot;Ruby the heart-stealer&amp;quot;.</sentence>
+      <sentence id="2" ids_article_sentences="11, 2">Berlusconi appealed his 2013 conviction and Milan&amp;apost;s Court of Appeal acquitted him Friday.</sentence>
+      <sentence id="3" ids_article_sentences="10">Judge: One alleged act &amp;quot;did not take place&amp;quot;; the facts of another &amp;quot;do not constitute a crime&amp;quot;.</sentence>
+      <sentence id="4" ids_article_sentences="11">Acquittal can be appealed to Italy&amp;apost;s Supreme Court, which would make a final ruling.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-19 10:48:43" annotation_time="143.39467" mapping_time_divergence="35.848667">
+      <sentence id="2" ids_highlights="2">A panel of judges convicted Berlusconi of both charges in June 2013, sentencing the flamboyant billionaire tycoon to seven years in prison and barring him from holding public office.</sentence>
+      <sentence id="3" ids_highlights="1">Prosecutors had argued that Berlusconi had sex 13 times with underage dancer Karima el Mahroug -- known as &amp;quot;Ruby the heart-stealer&amp;quot; -- and abused his position when he intervened in May 2010 to get her released from jail, where she was being held on charges of theft.</sentence>
+      <sentence id="10" ids_highlights="3">Locurto said Berlusconi, 77, had been acquitted of the charge of abuse of office because the &amp;quot;the act did not take place&amp;quot; and from prostitution with a minor because the &amp;quot;facts do not constitute a crime.&amp;quot;</sentence>
+      <sentence id="11" ids_highlights="2, 4">Milan&amp;apost;s prosecutor can appeal the verdict to Italy&amp;apost;s Supreme Court, which would make a final ruling in the case.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>An Italian appeal court has overturned former Prime Minister Silvio Berlusconi&amp;apost;s convictions for sex with an underage prostitute and abuse of power.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>A panel of judges convicted Berlusconi of both charges in June 2013, sentencing the flamboyant billionaire tycoon to seven years in prison and barring him from holding public office.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Prosecutors had argued that Berlusconi had sex 13 times with underage dancer Karima el Mahroug -- known as &amp;quot;Ruby the heart-stealer&amp;quot; -- and abused his position when he intervened in May 2010 to get her released from jail, where she was being held on charges of theft.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>They said Berlusconi paid el Mahroug and other young women performing stripteases and erotic actions at &amp;quot;bunga bunga&amp;quot; parties.</content>
+        </sentence>
+        <sentence id="5">
+          <content>Berlusconi said the parties were normal dinner gatherings where no one misbehaved.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>He denied the charges against him and his attorney told reporters at the time that he would appeal the convictions, arguing that it had not been a fair trial.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>The billionaire media tycoon claimed he had persecuted by leftist magistrates.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;There are still people who use the penal code as a weapon in their ideological battles,&amp;quot; he said last year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>On Friday, Milan Court of Appeal presiding judge Concetta Locurto read his acquittal verdict live on Italian television.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="10">
+          <content>Locurto said Berlusconi, 77, had been acquitted of the charge of abuse of office because the &amp;quot;the act did not take place&amp;quot; and from prostitution with a minor because the &amp;quot;facts do not constitute a crime.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="11">
+          <content>Milan&amp;apost;s prosecutor can appeal the verdict to Italy&amp;apost;s Supreme Court, which would make a final ruling in the case.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="12">
+          <content>Berlusconi, who served on and off as prime minister between 1994 and 2011, is arguably one of the most colorful and controversial figures in the lively history of Italian politics.</content>
+        </sentence>
+        <sentence id="13">
+          <content>For years, he has been entangled in fraud, corruption and sex scandals that have often reached Italian courts.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="14">
+          <content>Berlusconi was handed a four-year community service sentence last August -- commuted to a year -- for tax fraud at Mediaset, the large commercial broadcaster that he founded.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="15">
+          <content>He is is serving that sentence at a hospice near Milan -- where he was for today&amp;apost;s acquittal in the Ruby case.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

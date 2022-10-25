@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1621" link="http://www.cnn.com/2013/05/21/tech/innovation/maker-faire-2013/index.html" date_published="2013-05-21 19:39:19" category="tech" author="Heather Kelly, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Maker Faires spread the DIY gospel</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="5">The 2013 Bay Area Maker Faire took place last weekend in San Mateo, California.</sentence>
+      <sentence id="2" ids_article_sentences="1">The popular annual festival combines science, crafts, robotics and steampunk fashion.</sentence>
+      <sentence id="3" ids_article_sentences="5">Organizers estimate it drew more than 120,000 people.</sentence>
+      <sentence id="4" ids_article_sentences="9">There are more than 120 Maker Faires around the world in 2013, up from just 60 last year.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-01 17:09:54" annotation_time="36.624332">
+      <sentence id="1" ids_highlights="2">San Mateo, California The Maker Faire is a festival spun out of the maker movement that brings together science, crafting, robots, steampunk, drones and Legos.</sentence>
+      <sentence id="5" ids_highlights="1, 3">The original Bay Area event was held last weekend in San Mateo, California, and organizers estimate it drew more than 120,000 people.</sentence>
+      <sentence id="9" ids_highlights="4">There will be more than 120 smaller Maker Faires put on in communities around the world in 2013, up from just 60 last year.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>San Mateo, California The Maker Faire is a festival spun out of the maker movement that brings together science, crafting, robots, steampunk, drones and Legos.</content>
+        </sentence>
+        <sentence id="2">
+          <content>Lots of Legos.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>It&amp;apost;s a grassroots celebration of DIY, or the do-it-yourself culture that has helped boost Etsy, Pinterest and other sites.</content>
+        </sentence>
+        <sentence id="4">
+          <content>And in the Faire&amp;apost;s eighth year, organizers are having increasing success packaging and exporting the unique Maker Faire brand around the world.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>The original Bay Area event was held last weekend in San Mateo, California, and organizers estimate it drew more than 120,000 people.</content>
+        </sentence>
+        <sentence id="6">
+          <content>For the past five years, Maker Media has also run an official Maker Faire in New York, on the grounds of the old World&amp;apost;s Fair in Queens.</content>
+        </sentence>
+        <sentence id="7">
+          <content>The movement also is gaining popularity internationally, so Maker Faire is planning a large October event in Rome, home of Arduino founder Massimo Banzi.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="8">
+          <content>But in true maker spirit, most of the satellite events are homegrown.</content>
+        </sentence>
+        <sentence id="9">
+          <content>There will be more than 120 smaller Maker Faires put on in communities around the world in 2013, up from just 60 last year.</content>
+        </sentence>
+        <sentence id="10">
+          <content>While Maker Media doesn&amp;apost;t directly organize these smaller events, it does provide locals with connections and a playbook on how to put on their own Maker Faire-branded events.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="11">
+          <content>The colorful events are part carnival, part theme park, part crafts festival and part science museum.</content>
+        </sentence>
+        <sentence id="12">
+          <content>They&amp;apost;re a big attraction for older hobbyists, younger makers and crafters, and families who want to expose their kids to the creative side of science and engineering and get them more involved with hands-on projects.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="13">
+          <content>&amp;quot;It&amp;apost;s almost sort of the new Disneyland, where people get to participate in inventing and creating the future versus just watching it and walking through it,&amp;quot; said Sherry Huss, Maker Media vice president and co-founder of the Maker Faire.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="14">
+          <content>Some of the event&amp;apost;s most popular attractions were at the Bay Area festival this past weekend, including a Mentos and Coke demonstration, large sculptures originally made for the Burning Man gathering, and the car-smashing Life-Size Mousetrap, which is a giant Rube Goldberg device.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="15">
+          <content>Smaller activities like lock-picking and soldering lessons are also big hits.</content>
+        </sentence>
+        <sentence id="16">
+          <content>But the fastest-growing categories at Maker Faires are Arduino (a tiny electronic controller), the single-board computer Raspberry Pi, 3-D printing and personal fabrication, according to Huss.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="17">
+          <content>The Fiesta Hall was kept dark for light-centric displays like a giant Tetris game, a glowing abstract forest, and the ArcAttack musical performance group, which dazzled the crowd with its Tesla coils.</content>
+        </sentence>
+        <sentence id="18">
+          <content>The event had a heavy focus on the local community and featured booths for Bay Area groups devoted to Legos, robotics, model tanks, and even building R2-D2 robots from &amp;quot;Star Wars.&amp;quot;</content>
+        </sentence>
+        <sentence id="19">
+          <content>In the Expo Hall, the makers gave talks and small companies sold their wares for crafters and makers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="20">
+          <content>There were around 1,000 makers at this year&amp;apost;s Bay Area event.</content>
+        </sentence>
+        <sentence id="21">
+          <content>Some 150 of them were kids, a 60% increase from the previous year.</content>
+        </sentence>
+        <sentence id="22">
+          <content>Organizers think a key part of getting children more engaged in science is exposing them to these types of interactive activities.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="23">
+          <content>Their parents seem to agree.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="24">
+          <content>&amp;quot;I think it&amp;apost;s part nostalgic,&amp;quot; said Huss.</content>
+        </sentence>
+        <sentence id="25">
+          <content>&amp;quot;As parents are aging they remember great experiences with their grandparents, and I think they&amp;apost;re probably trying to figure out how to make this happen to their own families, especially as schools get further and further away from hands-on activities.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="26">
+          <content>Even the youngest kids were making things at the festival.</content>
+        </sentence>
+        <sentence id="27">
+          <content>At the Maker Camp tables, children and adults made crafts like duct-tape wallets.</content>
+        </sentence>
+        <sentence id="28">
+          <content>Nearby, a hill covered with used cardboard, tape, scissors and other supplies was a hotbed of imagination for kids built elaborate forts and costumes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="29">
+          <content>Maker Faire attendees are a faithful bunch, often returning year after year to their local events.</content>
+        </sentence>
+        <sentence id="30">
+          <content>Katherine Becvar, decked out in a purple velvet coat, cat-eye glasses and fanciful hat at the Bay Area fair, sells bags at Burning Man and all the major craft and maker shows.</content>
+        </sentence>
+        <sentence id="31">
+          <content>But she said the Maker Faire is her favorite because it combines a little bit of everything.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="193" link="http://www.cnn.com/2014/05/01/health/frieden-preventable-deaths/index.html" date_published="2014-05-01 17:02:07" category="health" author="Dr. Tom Frieden, Special to CNN" highlights_mapped="true" mapping_error="false">
+  <title>CDC: 5 things cause two-thirds of U.S. deaths</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Heart disease, cancer and lung disease are among the top five U.S. killers.</sentence>
+      <sentence id="2" ids_article_sentences="2">Those five cause nearly two-thirds of deaths in the country.</sentence>
+      <sentence id="3" ids_article_sentences="4">New data suggest about a third of those can be prevented.</sentence>
+      <sentence id="4" ids_article_sentences="5">&amp;quot;We need to act on what we know,&amp;quot; says CDC director.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-09-01 08:47:32" annotation_time="39.252335">
+      <sentence id="1" ids_highlights="1">Five things kill more people in the United States than anything else: heart disease, cancer, lung disease such as emphysema and chronic bronchitis, stroke and unintentional injuries such as those on roads or caused by medication overdoses.</sentence>
+      <sentence id="2" ids_highlights="2">Together, these five conditions cause almost two-thirds of all deaths in the country -- nearly 900,000 each year.</sentence>
+      <sentence id="4" ids_highlights="3">The data suggest we could prevent at least a third of those deaths.</sentence>
+      <sentence id="5" ids_highlights="4">We already know how to do it -- now we need to act on what we know.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Five things kill more people in the United States than anything else: heart disease, cancer, lung disease such as emphysema and chronic bronchitis, stroke and unintentional injuries such as those on roads or caused by medication overdoses.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Together, these five conditions cause almost two-thirds of all deaths in the country -- nearly 900,000 each year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>On Thursday, the Centers for Disease Control and Prevention is releasing its first report on potentially preventable deaths from those causes in each one of the 50 states.</content>
+        </sentence>
+        <sentence id="4">
+          <content>The data suggest we could prevent at least a third of those deaths.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>We already know how to do it -- now we need to act on what we know.</content>
+        </sentence>
+        <sentence id="6">
+          <content>Whether it&amp;apost;s by investing resources, using proven strategies or coordinating with health care systems, we have within our communities the strengths to help people live long and healthy lives.</content>
+        </sentence>
+        <sentence id="7">
+          <content>Even identifying and focusing on just one issue that can be addressed in each community will make a difference.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>The greatest impact comes when we make the default choice the healthy choice -- for example, making heart-healthy actions part of the normal course of everyday life.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>We can make it easier for people to be physically active, avoid tobacco and have access to affordable, healthy food.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>We can make it easier for people to get recommended clinical preventive services such as blood pressure management and cancer screening, and to have access to good quality health care when it&amp;apost;s needed.</content>
+        </sentence>
+        <sentence id="11">
+          <content>And we can make it so that our children are likely to reach adulthood without being addicted to nicotine or facing a potentially lifelong struggle with obesity.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>Here are some examples of communities making a difference:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>In San Francisco, 44,000 children have access to safe recreational space because public school playgrounds are now open during nonschool hours.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>Nearly 700,000 residents of Broward County, Florida, can increase their level of physical activity because their community is improving the safety and accessibility of walking, riding bikes and using public transportation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="15">
+          <content>These are just two examples of success stories, large and small, that make the healthy choice easy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="16">
+          <content>The Million Hearts initiative, launched by the Department of Health and Human Services in 2011, brings together communities, health systems, nonprofit organizations, federal agencies and private-sector partners to prevent heart attacks and strokes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="17">
+          <content>Americans suffer 2 million heart attacks and strokes each year, which cause one in every three deaths and add more than $300 billion to our annual health care bill.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="18">
+          <content>Million Hearts will reduce these human and economic costs by improving care for high blood pressure and high cholesterol, helping patients quit smoking and increasing use of aspirin for those who will benefit from it.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="19">
+          <content>Tobacco remains the leading preventable cause of death in this country and in the world.</content>
+        </sentence>
+        <sentence id="20">
+          <content>Tobacco use is a major factor in four out of the five leading causes of death: heart disease, cancer, lung disease and stroke.</content>
+        </sentence>
+        <sentence id="21">
+          <content>It causes about a third of heart disease and cancer, and most emphysema.</content>
+        </sentence>
+        <sentence id="22">
+          <content>Getting the last 20% of Americans who still smoke to quit will make a huge difference in the length and quality of their lives.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="23">
+          <content>Most people in this country who smoke started as kids, most who have ever smoked have already quit, and most current smokers want to quit.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="24">
+          <content>We can prevent children from starting to smoke, help motivate smokers to quit and protect nonsmokers from secondhand smoke by working at federal, state and local levels to eliminate loopholes in restrictions on tobacco marketing, pricing and products, and by expanding smoke-free regulations that cover all public places and workplaces without exception.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="25">
+          <content>This kind of change requires political will, especially when faced with vocal and well-organized opponents funded by the tobacco industry.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="26">
+          <content>We&amp;apost;ve learned from health systems around the country that big improvements can come from simple measures that focus clinical attention.</content>
+        </sentence>
+        <sentence id="27">
+          <content>These include effective use of electronic health records to identify and track the progress of patients who need support, team-based care and the use of protocols and prompt data feedback.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="28">
+          <content>Change is never easy.</content>
+        </sentence>
+        <sentence id="29">
+          <content>But each year we don&amp;apost;t act adds tens of thousands of preventable deaths to the toll.</content>
+        </sentence>
+        <sentence id="30">
+          <content>We owe it to the American people to do better.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

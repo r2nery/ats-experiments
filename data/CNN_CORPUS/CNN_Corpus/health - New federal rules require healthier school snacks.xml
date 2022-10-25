@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="315" link="http://www.cnn.com/2013/06/27/health/schools-snack-foods/index.html" date_published="2013-06-27 11:35:01" category="health" author="Elizabeth Cohen, William Hudson and Jacque Wilson, CNN" highlights_mapped="true" mapping_error="false">
+  <title>New federal rules require healthier school snacks</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">Limits set for fat, salt and sugar in food sold in vending machines, snack bars, etc.</sentence>
+      <sentence id="2" ids_article_sentences="1">Candy bars, doughnuts, regular potato chips and sports drinks are out.</sentence>
+      <sentence id="3" ids_article_sentences="1">Granola bars, trail mix, baked chips, low-fat and fat-free milk, fruit and vegetable juices are in.</sentence>
+      <sentence id="4" ids_article_sentences="18">The new rules are meant to help curb childhood obesity .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-08 06:50:38" annotation_time="35.597">
+      <sentence id="1" ids_highlights="2, 3">Candy bars, doughnuts and regular potato chips will become scarce in schools under new federal rules released Thursday, replaced by healthier options such as granola bars, trail mix and baked chips.</sentence>
+      <sentence id="3" ids_highlights="1">The regulations set limits for fat, salt and sugar sold in places such as vending machines and snack bars.</sentence>
+      <sentence id="18" ids_highlights="4">The new rules are meant to help curb childhood obesity in the United States, which affects about 17% of children and adolescents, according to the Centers for Disease Control and Prevention.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Candy bars, doughnuts and regular potato chips will become scarce in schools under new federal rules released Thursday, replaced by healthier options such as granola bars, trail mix and baked chips.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The U.S. Department of Agriculture&amp;apost;s new &amp;quot;Smart Snacks in School&amp;quot; nutrition standards represent the first nutritional overhaul of school snacks in more than 30 years.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The regulations set limits for fat, salt and sugar sold in places such as vending machines and snack bars.</content>
+        </sentence>
+        <sentence id="4">
+          <content>School foods must contain at least 50% whole grains or have a fruit, vegetable, dairy or protein as the first ingredient.</content>
+        </sentence>
+        <sentence id="5">
+          <content>Foods that contain at least ¼ cup of fruit and/or vegetables will also be allowed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>Beverages will be under the microscope as well.</content>
+        </sentence>
+        <sentence id="7">
+          <content>Sports drinks that contain relatively high amounts of sugar are prohibited, but the low-calorie versions will be for sale.</content>
+        </sentence>
+        <sentence id="8">
+          <content>Low-fat and fat-free milk, 100% fruit and vegetable juice, and no-calorie flavored waters are permitted.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Potable water must be made available to kids for free where meals are served.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="10">
+          <content>Schools and food and beverage companies must meet these standards by July 1, 2014, according to the USDA.</content>
+        </sentence>
+        <sentence id="11">
+          <content>That means the rules would be in effect for the 2014-2015 school year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;Snacks now have to be nutritious.</content>
+        </sentence>
+        <sentence id="13">
+          <content>They can&amp;apost;t just be fortified junk,&amp;quot; said Margo Wotton, director of nutrition policy at the Center for Science in the Public Interest, a consumer advocacy group.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;Nothing is more important than the health and well-being of our children,&amp;quot; USDA Secretary Tom Vilsack said in a statement.</content>
+        </sentence>
+        <sentence id="15">
+          <content>&amp;quot;Parents and schools work hard to give our youngsters the opportunity to grow up healthy and strong, and providing healthy options throughout school cafeterias, vending machines, and snack bars will support their great efforts.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="16">
+          <content>Children will still be allowed to bring in any snacks from home that they choose, and parents can continue to deliver treats for birthday celebrations or holidays to the classroom.</content>
+        </sentence>
+        <sentence id="17">
+          <content>Special fund-raising events such as bake sales are also allowed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="18">
+          <content>The new rules are meant to help curb childhood obesity in the United States, which affects about 17% of children and adolescents, according to the Centers for Disease Control and Prevention.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;(The new regulations) seem like a big step in the right direction,&amp;quot; wrote Stacy Whitman, a mom who blogs about school nutrition.</content>
+        </sentence>
+        <sentence id="20">
+          <content>&amp;quot;But I fear there still will be lots of room for less-than-healthy snacks to make their way into schools.</content>
+        </sentence>
+        <sentence id="21">
+          <content>While baked chips may be a better option than Doritos, they are still junk food.</content>
+        </sentence>
+        <sentence id="22">
+          <content>Granola and cereal bars may be viewed as nutritious, but most are infused with sugar and not exactly what I would call wholesome.</content>
+        </sentence>
+        <sentence id="23">
+          <content>And sugary yogurts and flavored milks sound like dessert in disguise.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="24">
+          <content>The rules are a result of the Healthy and Hunger-Free Kids Act of 2010, which requires the USDA to improve food served in schools.</content>
+        </sentence>
+        <sentence id="25">
+          <content>The act was first implemented in 2012 with an overhaul of the meals served in schools under the National School Lunch Program.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="26">
+          <content>Directors of the meal programs, which feed about 32 million students in public and private schools, were told to reduce sodium, saturated fat and trans fats and offer more whole grains.</content>
+        </sentence>
+        <sentence id="27">
+          <content>They were also instructed to start offering fruits and vegetables to students every day.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="28">
+          <content>Those standards went into effect in July 2012 and are being phased in over a three-year period, according to the USDA.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="29">
+          <content>School meals now have calorie minimums and maximums per meal based on a child&amp;apost;s age.</content>
+        </sentence>
+        <sentence id="30">
+          <content>For kindergarteners to fifth-graders, lunches must contain 550 to 650 calories, and for ninth- to 12th-graders, lunches must have 750 to 850 calories.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="31">
+          <content>Some students objected to the changes, complaining that their favorite foods were taken away or that the calorie restrictions were too low for growing teens.</content>
+        </sentence>
+        <sentence id="32">
+          <content>High school students in Kansas made a video called &amp;quot;We Are Hungry,&amp;quot; complete with feigned fainting that&amp;apost;s been viewed more than 1 million times on YouTube.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="33">
+          <content>In December, the Obama administration reversed some of the new school lunch rules, allowing food items such as garlic bread and peanut butter back in the cafeteria.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

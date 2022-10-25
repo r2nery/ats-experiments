@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="423" link="http://www.cnn.com/2013/12/11/health/antibiotics-poultry/index.html" date_published="2013-12-11 19:57:35" category="health" author="Dr. Barbara Kazmierczak, Special to CNN" highlights_mapped="true" mapping_error="false">
+  <title>What&amp;apost;s in your holiday poultry?</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="23">The EU in 2006 banned antibiotics in animals as growth promoters.</sentence>
+      <sentence id="2" ids_article_sentences="16">More antibiotics are used for agriculture, aquaculture and horticulture than treating humans.</sentence>
+      <sentence id="3" ids_article_sentences="30">Evidence is growing linking antibiotics in food animals and antibiotic-resistant human infections.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-26 12:50:04" annotation_time="22.005667">
+      <sentence id="16" ids_highlights="2">Worldwide, more antibiotics are used for agriculture, aquaculture and horticulture than for treating humans.</sentence>
+      <sentence id="23" ids_highlights="1">Because of this, the European Union banned the use of antibiotics in animals as growth promoters in 2006.</sentence>
+      <sentence id="30" ids_highlights="3">In the intervening 40 years, the evidence linking antibiotic use in food animals and antibiotic-resistant infections in humans has continued to grow.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>As you and your family look forward to countless holiday meals yet to come, the recently celebrated Antibiotic Awareness Week might have passed by unnoticed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Perhaps you&amp;apost;ve never heard of this global effort to bring attention to the increasing problem of antibiotic-resistant infections.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>But if you found yourself pausing in front of the &amp;quot;antibiotic-free&amp;quot; turkey on sale in many stores at Thanksgiving, wondering what those words meant -- and why these birds are more expensive than ones without that label -- you&amp;apost;ve already joined the debate about antibiotic use and misuse.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>The discovery of antibiotics revolutionized medicine some 75 years ago.</content>
+        </sentence>
+        <sentence id="5">
+          <content>It meant that bacterial infections that would otherwise result in death could be cured with miracle drugs like penicillin, sulfa and tetracycline.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>Infections following battlefield injuries or surgical procedures could finally be treated.</content>
+        </sentence>
+        <sentence id="7">
+          <content>Antibiotics could even be used to protect patients undergoing chemotherapy or a bone marrow transplant from the potentially lethal consequences of a weakened immune system, allowing doctors to be more aggressive in the treatment of cancers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>Some infections didn&amp;apost;t respond to antibiotics, because the bacteria that caused them were &amp;quot;resistant&amp;quot; -- that is, they could disable an antibiotic, or pump it out as fast as it got into a bacterial cell.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Some bacteria simply made alternate versions of the enzymes normally targeted by antibiotics, versions that were no longer blocked or inhibited by an antibiotic.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>Usually, there was another antibiotic on the shelf that could still be counted on to work.</content>
+        </sentence>
+        <sentence id="11">
+          <content>But that is no longer the case for many of the multi-drug-resistant bacteria causing infections around the world.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>How did we get to this point?</content>
+        </sentence>
+        <sentence id="13">
+          <content>The answer is complicated, but we can start with the turkey.</content>
+        </sentence>
+        <sentence id="14">
+          <content>For over 60 years, poultry and livestock have been fed antibiotics for their &amp;quot;growth-promoting&amp;quot; and &amp;quot;disease-preventing&amp;quot; effects.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="15">
+          <content>The Pew Charitable Trusts estimated that almost four-fifths of the 37 million pounds of antibiotics sold in the United States in 2011 were for meat and poultry production.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="16">
+          <content>Worldwide, more antibiotics are used for agriculture, aquaculture and horticulture than for treating humans.</content>
+        </sentence>
+        <sentence id="17">
+          <content>These antibiotics act on the bacteria that live on and in all animals, suppressing the growth of bacteria that are sensitive to the antibiotic and favoring the growth of bacteria that are resistant.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="18">
+          <content>This selection of antibiotic-resistant bacteria in animals has consequences for humans.</content>
+        </sentence>
+        <sentence id="19">
+          <content>Food-borne infections are increasingly caused by antibiotic-resistant Salmonella or campylobacter, with outbreaks causing recalls and warnings.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="20">
+          <content>But the less headline-grabbing effects might be worse.</content>
+        </sentence>
+        <sentence id="21">
+          <content>Antibiotic-resistant bacteria in the feces of livestock and poultry make their way to environmental water sources, contaminate commercially sold meat, and are transferred directly to humans with animal contact.</content>
+        </sentence>
+        <sentence id="22">
+          <content>These antibiotic-resistant organisms can transfer the genetic know-how for antibiotic resistance to other bacteria within us.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="23">
+          <content>Because of this, the European Union banned the use of antibiotics in animals as growth promoters in 2006.</content>
+        </sentence>
+        <sentence id="24">
+          <content>Why hasn&amp;apost;t the U.S. Food and Drug Administration done the same?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="25">
+          <content>The agency on Wednesday issued a proposal to phase out the use of certain antibiotics in food-producing animals.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="26">
+          <content>As early as 1973, the FDA published a rule in the Code of Federal Regulations directing drug companies to provide evidence that &amp;quot;subtherapeutic&amp;quot; antibiotic use in food animals to promote growth and prevent infection was safe -- or face withdrawal of approvals for such use.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="27">
+          <content>In 1977, the FDA made an announcement, proposing to withdraw approval of penicillin and tetracycline for use in food animals for any purpose other than treating active infection.</content>
+        </sentence>
+        <sentence id="28">
+          <content>Public hearings on the proposed withdrawals were to be held -- and that was the last action by the FDA until it withdrew the hearing notice in 2011 in response to suits by the Natural Resources Defense Council and others demanding that the FDA finally follow through on its plan from 1977.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="29">
+          <content>A ruling by U.S. magistrate judge Theodore Katz in March 2012 ordered the FDA to reissue its findings and initiate withdrawal proceedings, a decision the FDA has since appealed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="30">
+          <content>In the intervening 40 years, the evidence linking antibiotic use in food animals and antibiotic-resistant infections in humans has continued to grow.</content>
+        </sentence>
+        <sentence id="31">
+          <content>The 2008 report of the Pew Commission on Industrial Farm Animal Production documented this evidence, and made a priority recommendation to &amp;quot;phase out and then ban the nontherapeutic use of antimicrobials&amp;quot; in food animals.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="32">
+          <content>Legislative efforts at the federal and state levels to implement this recommendation have met with no success, however, as detailed in the October 2013 follow-up by the Johns Hopkins Center for a Livable Future.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="33">
+          <content>The FDA has done little more than to urge drug companies to &amp;quot;voluntarily&amp;quot; stop marketing antibiotics for growth promotion -- but antibiotic use for disease &amp;quot;prevention&amp;quot; is not discouraged, and proposed rules even weaken veterinary oversight of this practice.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="34">
+          <content>Some opponents warn that modern agriculture will collapse if growth-promoting antibiotics are banned in food animals, but the evidence suggests the opposite.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="35">
+          <content>Countries such as Denmark, which reduced antibiotic use in animals by 60% since 1994 through bans, government monitoring and voluntary cutbacks, saw no declines in total production of poultry or pigs as a result -- and no increase in the amount of feed needed to produce a pound of meat.</content>
+        </sentence>
+        <sentence id="36">
+          <content>In fact, pork production has increased by 50% since 1994, and Denmark now exports 90% of all it produces.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="37">
+          <content>Lisa Heinzerling, a professor of law at Georgetown University, argued this year in the Vermont Law Review that the FDA is facing a &amp;quot;moment of truth,&amp;quot; a moment when &amp;quot;an administrative agency must confront evidence concerning a social problem it is charged with addressing, and speak the truth, as best it can, about it.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="38">
+          <content>Clearly, however, many entities involved in the sale and use of growth-promoting and preventive antibiotics in food animals profit from this practice and have effectively fought to delay its regulation and restriction.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="39">
+          <content>What can we do?</content>
+        </sentence>
+        <sentence id="40">
+          <content>To start, vote with our wallets and buy turkey or chicken or ham that&amp;apost;s &amp;quot;raised without antibiotics.&amp;quot;</content>
+        </sentence>
+        <sentence id="41">
+          <content>It sends a small but important message that encourages farmers who voluntarily avoid the use of antibiotics for growth promotion or disease prevention.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="42">
+          <content>But it&amp;apost;s clear that the solution requires action on a bigger scale if the United States is to implement recommendations made repeatedly for more than 40 years to limit antibiotic use in animals to the treatment of infections.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="43">
+          <content>Hopefully, most of us have taken our doctors&amp;apost; advice to heart and no longer demand antibiotics for ourselves or our children at the first sign of a cold, sore throat, or cough -- all common symptoms of viral infections, on which antibiotics have no effect.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="44">
+          <content>Encouragingly, the resulting decreases in antibiotic use in the community can be linked to decreases in antibiotic-resistant infections.</content>
+        </sentence>
+        <sentence id="45">
+          <content>Campaigns to promote judicious use of antibiotics in hospitals are likewise followed by decreases in the number of infections caused by multi-drug-resistant bacteria.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="46">
+          <content>Perhaps, in spite of the pressures to economize during this season, we can also examine the reasons used to justify antibiotic use in agriculture -- a bigger turkey or pig, sent to your table for a lower price -- and ask, are we really getting a bargain?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

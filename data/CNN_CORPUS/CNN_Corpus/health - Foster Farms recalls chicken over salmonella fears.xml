@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="255" link="http://www.cnn.com/2014/07/04/health/salmonella-chicken-recall/index.html" date_published="2014-07-04 11:47:29" category="health" author="CNN Staff" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Foster Farms recalls chicken over salmonella fears</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="11, 9">NEW: A health safety advocate says recall is too limited, &amp;quot;consumers deserve better&amp;quot;.</sentence>
+      <sentence id="2" ids_article_sentences="2">Foster Farms produced the chicken in March .</sentence>
+      <sentence id="3" ids_article_sentences="5">Agency: Chicken may no longer be available for purchase but may be in consumers&amp;apost; freezers.</sentence>
+      <sentence id="4" ids_article_sentences="14">About 42,000 cases of acute salmonellosis are reported in U.S. annually, CDC says.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-08 22:27:25" annotation_time="681.2204" mapping_time_divergence="125.0">
+      <sentence id="2" ids_highlights="2">Foster Farms, based in Fresno, produced the chicken on March 8, 10 and 11, according to the U.S. Department of Agriculture&amp;apost;s Food Safety and Inspection Service.</sentence>
+      <sentence id="5" ids_highlights="3">&amp;quot;The products are mostly likely no longer available for purchase, but may be in consumers&amp;apost; freezers,&amp;quot; the federal agency said.</sentence>
+      <sentence id="9" ids_highlights="1">One health safety advocate criticized the government, claiming there are more related illnesses and that the recall should go beyond a few days in March.</sentence>
+      <sentence id="11" ids_highlights="1">&amp;quot;Consumers deserve better.&amp;quot;</sentence>
+      <sentence id="14" ids_highlights="4">About 42,000 cases of salmonellosis are reported in the United States every year, according to the CDC.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>A California company is recalling an unknown amount of boneless chicken sold in eight states over salmonella fears, federal officials said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Foster Farms, based in Fresno, produced the chicken on March 8, 10 and 11, according to the U.S. Department of Agriculture&amp;apost;s Food Safety and Inspection Service.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>It said the company shipped the products to Costco, FoodMaxx, Kroger, Safeway and other stores.</content>
+        </sentence>
+        <sentence id="4">
+          <content>The chicken ended up in Arizona, California, Colorado, Idaho, Montana, New Mexico, Nevada and Utah.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>&amp;quot;The products are mostly likely no longer available for purchase, but may be in consumers&amp;apost; freezers,&amp;quot; the federal agency said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>Last month, the Centers for Disease Control and Prevention notified the food safety agency about the salmonella Heidelberg illness linked to the consumption of boneless skinless chicken.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>The USDA&amp;apost;s Food Safety and Inspection Service said it determined a link between the illness and the boneless skinless chicken breast products from Foster Farms.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;One case-patient has been identified in California with an illness onset date of May 5, 2014,&amp;quot; the agency said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>One health safety advocate criticized the government, claiming there are more related illnesses and that the recall should go beyond a few days in March.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;We do not believe the current action taken to recall Foster Farms contaminated chicken goes far enough to protect the public&amp;apost;s health,&amp;quot; said Dr. Urvashi Rangan, the head of Consumer Reports Food Safety and Sustainability Center.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;Consumers deserve better.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="12">
+          <content>Salmonella lives in the intestinal tracts of people, animals and birds.</content>
+        </sentence>
+        <sentence id="13">
+          <content>People become infected by eating foods contaminated with animal feces.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="14">
+          <content>About 42,000 cases of salmonellosis are reported in the United States every year, according to the CDC.</content>
+        </sentence>
+        <sentence id="15">
+          <content>It estimates the number of cases is much higher -- about 1.2 million -- due to many cases not being diagnosed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="16">
+          <content>About 400 to 450 people die each year with acute salmonellosis, the CDC says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="17">
+          <content>Typical symptoms include diarrhea, abdominal pain, nausea, vomiting and fever.</content>
+        </sentence>
+        <sentence id="18">
+          <content>Most people experience symptoms within eight to 72 hours after contaminated food is ingested.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="19">
+          <content>Infections usually are resolved in three to seven days, and mild cases often do not require professional treatment.</content>
+        </sentence>
+        <sentence id="20">
+          <content>More severe cases require antibiotics.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="21">
+          <content>Salmonella infections can be life-threatening, especially for young children, pregnant women and their fetuses, the elderly, and those with weakened immune systems.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="22">
+          <content>If not treated early, infections can spread from the intestines to the bloodstream and cause death.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2923" link="http://www.cnn.com/2013/10/21/world/europe/france-nsa-spying/index.html?iref=allsearch" date_published="2013-10-21 07:17:30" category="world" author="Ed Payne and Khushbu Shah, CNN" highlights_mapped="true" mapping_error="false">
+  <title>U.S. intercepts French phone calls on a &amp;apost;massive scale&amp;apost;</title>
+  <keywords>France,National Security Agency,privacy,NSA phone call intercepts</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="30">Presidents of two nations talk about the report, White House statement says.</sentence>
+      <sentence id="2" ids_article_sentences="1">U.S. ambassador meets with French diplomats over spying allegations.</sentence>
+      <sentence id="3" ids_article_sentences="1">Le Monde: The NSA intercepted more than 70 million French phone calls over 30 days.</sentence>
+      <sentence id="4" ids_article_sentences="24">A weekend report said the NSA &amp;quot;systematically&amp;quot; eavesdropped on the Mexican government.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-18 14:54:29" annotation_time="35.516003">
+      <sentence id="1" ids_highlights="2, 3">The U.S. ambassador to France met with French diplomats Monday over allegations that the National Security Agency intercepted more than 70 million phone calls in France over a 30-day period.</sentence>
+      <sentence id="24" ids_highlights="4">The report comes a day after the German news magazine Der Spiegel said the NSA &amp;quot;systematically&amp;quot; eavesdropped on the Mexican government.</sentence>
+      <sentence id="30" ids_highlights="1">A senior U.S. State Department official told CNN that the Mexican government reached out about the report and that the two governments will be discussing it via diplomatic channels.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The U.S. ambassador to France met with French diplomats Monday over allegations that the National Security Agency intercepted more than 70 million phone calls in France over a 30-day period.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Ambassador Charles Rivkin was summoned to the French Foreign Ministry in Paris after the details of the alleged spying appeared in the French newspaper Le Monde.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;These kinds of practices between partners, that violate privacy, are totally unacceptable,&amp;quot; French Foreign Minister Laurent Fabius told reporters at an EU foreign ministers meeting in Luxembourg on Monday.</content>
+        </sentence>
+        <sentence id="4">
+          <content>&amp;quot;We must quickly assure that these practices aren&amp;apost;t repeated.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>U.S. President Barack Obama and French President Francois Hollande spoke Monday, according to a White House statement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;The President and President Hollande discussed recent disclosures in the press -- some of which have distorted our activities and some of which raise legitimate questions for our friends and allies about how these capabilities are employed,&amp;quot; the news release said.</content>
+        </sentence>
+        <sentence id="7">
+          <content>&amp;quot;The President made clear that the United States has begun to review the way that we gather intelligence, so that we properly balance the legitimate security concerns of our citizens and allies with the privacy concerns that all people share.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>A news release from Hollande&amp;apost;s office said he expresed his &amp;quot;deep disapproval with regard to these practices&amp;quot; to Obama and that such alleged activities would be unacceptable between allies and friends.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>The two presidents agreed that French and American intelligence services will cooperate on investigating the report, according to the statement from the French president&amp;apost;s office.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>Earlier, U.S. Secretary of State John Kerry, who was in Paris and met with the Qatari foreign minister, wouldn&amp;apost;t address the specifics of the report, but told reporters that France is one of the U.S.&amp;apost;s closest allies.</content>
+        </sentence>
+        <sentence id="11">
+          <content>He added that the countries work together to protect the security of their citizens, which is a &amp;quot;very complicated task&amp;quot; in today&amp;apost;s world.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>Kerry said &amp;quot;lots of countries&amp;quot; engage in intelligence activities to try to prevent terrorist attacks.</content>
+        </sentence>
+        <sentence id="13">
+          <content>He said Rivkin would would continue consultations with the French.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>Millions of calls intercepted.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="15">
+          <content>The National Security Agency monitored the phone calls made in France, Le Monde reported Monday, citing documents leaked by former NSA contractor Edward Snowden.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;Telephone communications of French citizens are intercepted on a massive scale,&amp;quot; Le Monde said in its online English edition.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="17">
+          <content>The intercepts took place from December 10, 2012, to January 8, 2013, the article reported.</content>
+        </sentence>
+        <sentence id="18">
+          <content>An NSA graph shows an average of 3 million data intercepts a day.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="19">
+          <content>According to Le Monde, this is how the system worked: &amp;quot;When a telephone number is used in France, it activates a signal which automatically triggers the recording of the call.</content>
+        </sentence>
+        <sentence id="20">
+          <content>Apparently this surveillance system also picks up SMS (text) messages and their content using key words.</content>
+        </sentence>
+        <sentence id="21">
+          <content>Finally, the NSA apparently stores the history of the connections of each target -- or the meta-data.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="22">
+          <content>It wasn&amp;apost;t immediately clear from the article if the conversations were recorded or just the data surrounding each call.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="23">
+          <content>Other spying allegations.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="24">
+          <content>The report comes a day after the German news magazine Der Spiegel said the NSA &amp;quot;systematically&amp;quot; eavesdropped on the Mexican government.</content>
+        </sentence>
+        <sentence id="25">
+          <content>It hacked the public e-mail account of former Mexican President Felipe Calderon, which was also used by Cabinet members, according to Der Spiegel.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="26">
+          <content>The magazine also quoted documents leaked by Snowden.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="27">
+          <content>&amp;quot;This practice is unacceptable, illegitimate and against Mexican and international law,&amp;quot; Mexico&amp;apost;s Foreign Ministry said in a statement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="28">
+          <content>It added that it would push for a speedy investigation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="29">
+          <content>&amp;quot;In a relationship between neighbors and partners, there is no room for the practices alleged to have taken place,&amp;quot; the ministry said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="30">
+          <content>A senior U.S. State Department official told CNN that the Mexican government reached out about the report and that the two governments will be discussing it via diplomatic channels.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="31">
+          <content>The NSA said it would not &amp;quot;comment publicly on every specific alleged intelligence activity, and as a matter of policy we have made clear that the United States gathers foreign intelligence of the type gathered by all nations.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="32">
+          <content>&amp;quot;As the President said in his speech at the U.N. General Assembly, we&amp;apost;ve begun to review the way that we gather intelligence, so that we properly balance the legitimate security concerns of our citizens and allies with the privacy concerns that all people share,&amp;quot; the agency added.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="33">
+          <content>In September, Mexico and Brazil summoned U.S. ambassadors after media reports that the United States had spied on their countries&amp;apost; presidents.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="34">
+          <content>A Brazilian news report described the alleged espionage, citing Glenn Greenwald, a Brazil-based journalist who similarly obtained documents from Snowden.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="35">
+          <content>One of the alleged NSA documents leaked to Greenwald dates from June 2012, a month before Mexican President Enrique Pena Nieto was elected.</content>
+        </sentence>
+        <sentence id="36">
+          <content>In it, the candidate talks about whom he would select for his Cabinet if elected.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="37">
+          <content>The documents did not reference any specific communications with Brazilian President Dilma Rousseff but show the methods the NSA allegedly used to track e-mails and mobile phone communications with close advisers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="38">
+          <content>&amp;quot;It was very clear in the documents that they had already carried out the spying,&amp;quot; Greenwald told Globo TV&amp;apost;s Sunday night program &amp;quot;Fantastico.&amp;quot;</content>
+        </sentence>
+        <sentence id="39">
+          <content>&amp;quot;They aren&amp;apost;t talking about something they are planning; they are celebrating their spying successes.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

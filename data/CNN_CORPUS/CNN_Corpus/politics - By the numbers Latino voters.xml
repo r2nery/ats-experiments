@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1001" link="http://edition.cnn.com/2012/06/04/politics/btn-latino-vote/index.html" date_published="2012-06-04 21:25:18" category="politics" author="Amy Roberts, CNN Library" highlights_mapped="true" mapping_error="false">
+  <title>By the numbers: Latino voters</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">50.5 million -- Latinos in the United States (out of 308.7 million people).</sentence>
+      <sentence id="2" ids_article_sentences="14">67 -- Percentage of Latino voters who voted for Barack Obama in the 2008 election.</sentence>
+      <sentence id="3" ids_article_sentences="15">31 -- Percentage who chose John McCain.</sentence>
+      <sentence id="4" ids_article_sentences="18">38.6 -- Percent of eligible voters in New Mexico who are Latino, the most of any state.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-02 20:40:50" annotation_time="18.454666">
+      <sentence id="3" ids_highlights="1">50.5 million -- Latinos in the United States (out of 308.7 million people).</sentence>
+      <sentence id="14" ids_highlights="2">67 -- Percentage of Latino voters who voted for Barack Obama in the 2008 election.</sentence>
+      <sentence id="15" ids_highlights="3">31 -- Percentage who voted for John McCain.</sentence>
+      <sentence id="18" ids_highlights="4">38.6 -- Percent of eligible voters in New Mexico who are Latino, the most of any state.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Because of their growing numbers and presence in some of the key battleground states, Latinos are expected to play a prominent role in this year&amp;apost;s battle for the White House between President Barack Obama and presumptive GOP nominee Mitt Romney.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>By the numbers, here&amp;apost;s a look at Latino voters:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>50.5 million -- Latinos in the United States (out of 308.7 million people).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>16 -- Percentage of the total U.S. population in 2010 that was Latino.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>43 -- Percent increase since the 2000 census of the Latino population in the United States, according to the 2010 census.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>29 -- Projected percentage of the U.S. population that will be Latino in 2050.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>131 million -- Total number of voters in the 2008 presidential election.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="8">
+          <content>59.4 -- Percent of Latinos who were registered voters in 2008.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="9">
+          <content>49.9 -- Percent who voted in the 2008 presidential election.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="10">
+          <content>42.7 -- Percent of the Latino population that is eligible to vote.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="11">
+          <content>22.4 -- Percent of Latinos in the U.S. who are of voting age but who are not citizens.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="12">
+          <content>63 -- Percent of the Latino population in the U.S. from Mexican origins.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="13">
+          <content>82 -- Percent population growth of Latinos in Nevada from 2000 to 2010.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="14">
+          <content>67 -- Percentage of Latino voters who voted for Barack Obama in the 2008 election.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="15">
+          <content>31 -- Percentage who voted for John McCain.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="16">
+          <content>68 -- Percent of registered Latino voters surveyed in 2011 who said they would support President Obama over Mitt Romney in a presidential match-up in 2012.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="17">
+          <content>23 -- Percent who answered that they would support Mitt Romney.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="18">
+          <content>38.6 -- Percent of eligible voters in New Mexico who are Latino, the most of any state.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="19">
+          <content>3 -- Number of states tying for lowest number of eligible voters who are Latino, 0.7%: Kentucky, South Carolina and West Virginia.</content>
+        </sentence>
+        <sentence id="20">
+          <content>See racial and ethnic breakdown for all 50 states and D.C.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="21">
+          <content>82 -- Counties with a Latino population majority, out of 3,143 total.Sources for these statistics come from the U.S. Census Bureau, the Pew Hispanic Center and the Brookings Institution.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

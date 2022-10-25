@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="890" link="http://us.cnn.com/2014/05/06/opinion/miles-save-children-mothers-day/index.html" date_published="2014-05-06 19:27:12" category="opinion" author="Carolyn Miles" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Opinion: Mothers and children bear the brunt of disasters</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="37">Carolyn Miles: Moms struggle, but especially those trying to save children in a disaster.</sentence>
+      <sentence id="2" ids_article_sentences="4">Save the Children has released its 15th annual State of the World&amp;apost;s Mothers report .</sentence>
+      <sentence id="3" ids_article_sentences="4">Miles: Report found women, children 14 times more likely to die in a disaster than men.</sentence>
+      <sentence id="4" ids_article_sentences="38">Miles: We need strong community preparedness and early response planning .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-11 10:21:29" annotation_time="37.534668" mapping_time_divergence="9.383667">
+      <sentence id="4" ids_highlights="2, 3">But, as Save the Children uncovered in its 15th annual State of the World&amp;apost;s Mothers report, released Tuesday, that devastation hurts some more than others: Women and children are at the greatest risk and are 14 times more likely to die in a disaster than men.</sentence>
+      <sentence id="37" ids_highlights="1">Whether in the United States or the Philippines, all mothers strive to ensure that their children are protected and healthy when a disaster strikes.</sentence>
+      <sentence id="38" ids_highlights="4">What we need to do is strengthen community-based preparedness and early response.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>On Mother&amp;apost;s Day, we celebrate the mothers in our lives because we know motherhood is the hardest job any woman will ever have.</content>
+        </sentence>
+        <sentence id="2">
+          <content>But some have it harder than others.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>Disasters can strike any place, any time.</content>
+        </sentence>
+        <sentence id="4">
+          <content>But, as Save the Children uncovered in its 15th annual State of the World&amp;apost;s Mothers report, released Tuesday, that devastation hurts some more than others: Women and children are at the greatest risk and are 14 times more likely to die in a disaster than men.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>I&amp;apost;ve met many of these mothers.</content>
+        </sentence>
+        <sentence id="6">
+          <content>They were huddled in a shelter in the Philippines after Super Typhoon Haiyan, one of the largest cyclones ever to hit land, destroyed their homes and livelihoods.</content>
+        </sentence>
+        <sentence id="7">
+          <content>They were also my own friends and neighbors who lost homes, businesses and belongings when Superstorm Sandy devastated parts of the East Coast.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="8">
+          <content>When President Barack Obama visited the Philippines last month, the Tacloban community had yet to be rebuilt.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Now there are devastated areas closer to home after storms across Oklahoma and Arkansas.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="10">
+          <content>The Save the Children report shows that children and mothers with the fewest resources often face the most daunting challenges during emergencies.</content>
+        </sentence>
+        <sentence id="11">
+          <content>In Sandy&amp;apost;s aftermath, it took weeks for relief efforts to reach hard-hit families living in some of New York City&amp;apost;s low-income areas, such as Far Rockaway, Queens.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;This community was nowhere on any maps for five weeks for services, and for resources, and for help,&amp;quot; said Aria Doe, executive director of the Action Center in Far Rockaway, of the struggle to get supplies and services to the many mothers, babies and children who were stranded without electricity, water, food, supplies or transportation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="13">
+          <content>In the Philippines, Haiyan swept through the central part of the island nation, killing people and ruining housing, livelihoods and infrastructure across nine of the poorest regions.</content>
+        </sentence>
+        <sentence id="14">
+          <content>It damaged or destroyed more than 2,258 health facilities, including hundreds of village health stations, which provided primary health and childbirth services to people in smaller communities.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="15">
+          <content>At the time of the typhoon, in the region it hit, 250,000 women were pregnant and almost 70,000 were expected to deliver in early 2014.</content>
+        </sentence>
+        <sentence id="16">
+          <content>The Save the Children team met Hazel Rapsing, 25, a mother of two toddlers.</content>
+        </sentence>
+        <sentence id="17">
+          <content>She went into labor at the peak of the storm as her entire neighborhood evacuated.</content>
+        </sentence>
+        <sentence id="18">
+          <content>Her baby decided to come 10 days early.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;I was scared because the typhoon was getting really strong.</content>
+        </sentence>
+        <sentence id="20">
+          <content>I was wondering whether I would be able to give birth.</content>
+        </sentence>
+        <sentence id="21">
+          <content>How long would I be in labor?&amp;quot;</content>
+        </sentence>
+        <sentence id="22">
+          <content>Rapsing said.</content>
+        </sentence>
+        <sentence id="23">
+          <content>&amp;quot;I was worried about what kind of treatment my baby would get.</content>
+        </sentence>
+        <sentence id="24">
+          <content>It was a state of emergency and everyone was busy.</content>
+        </sentence>
+        <sentence id="25">
+          <content>I was praying to God to take care of me.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="26">
+          <content>Despite the storm, an ambulance arrived and took Rapsing to a clinic, where she gave birth to a healthy baby boy named Ullicel.</content>
+        </sentence>
+        <sentence id="27">
+          <content>Rapsing&amp;apost;s home was leveled, so she and her family are staying with relatives until they are able to rebuild.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="28">
+          <content>While I cannot begin to imagine how frightening it must have been to go into labor during one of the most powerful typhoons ever recorded, having to protect your newborn as you&amp;apost;re fleeing for your life can be just as terrifying.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="29">
+          <content>Abigail Matulac had given birth to a beautiful baby girl, Kazumi, only two weeks before Typhoon Haiyan hit the shores of Sicogon Island, where she lived in an isolated, low-income community with her husband and three small children.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="30">
+          <content>Like most families there, they didn&amp;apost;t expect the storm to be as intense and waited too long to evacuate.</content>
+        </sentence>
+        <sentence id="31">
+          <content>Once they had no choice but to leave, Matulac wrapped her infant in thick cloth to keep her warm.</content>
+        </sentence>
+        <sentence id="32">
+          <content>The wind was so strong that they couldn&amp;apost;t even open the door of their house and had to climb out the window and then crawl up a mountain to find a safer place to shelter.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="33">
+          <content>&amp;quot;I&amp;apost;ve been bleeding for a while after I gave birth and was afraid that I would have a relapse from the stress,&amp;quot; she said.</content>
+        </sentence>
+        <sentence id="34">
+          <content>&amp;quot;I was breast-feeding my baby during that entire time to help keep her calm and quiet.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="35">
+          <content>The family was lucky to make it through the storm unscathed without needing medical services for the children, because about 82% of the health facilities in the storm area were damaged.</content>
+        </sentence>
+        <sentence id="36">
+          <content>Because of that, about 1.1 million people, including 163,000 children under 5, have inadequate health services.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="37">
+          <content>Whether in the United States or the Philippines, all mothers strive to ensure that their children are protected and healthy when a disaster strikes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="38">
+          <content>What we need to do is strengthen community-based preparedness and early response.</content>
+        </sentence>
+        <sentence id="39">
+          <content>In areas of recurring crises, we need contingency planning and flexible funding -- and must engage women in the planning.</content>
+        </sentence>
+        <sentence id="40">
+          <content>We need social protection programs that meet the needs of the most vulnerable.</content>
+        </sentence>
+        <sentence id="41">
+          <content>And we need to invest more in reducing the risk of disasters.</content>
+        </sentence>
+        <sentence id="42">
+          <content>This includes more funding and greater integration of risk reduction into government and donor policies and programs.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="43">
+          <content>Fortunately, our evidence also shows that we can save and dramatically improve the lives of all mothers and children, even in the most challenging places to live, if we invest in the services they need, including education.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

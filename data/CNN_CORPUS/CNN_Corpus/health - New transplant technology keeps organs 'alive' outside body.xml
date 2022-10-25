@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="317" link="http://www.cnn.com/2013/04/25/health/live-organ-transplants/index.html" date_published="2013-04-25 16:00:36" category="health" author="Jacque Wilson, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>New transplant technology keeps organs &amp;apost;alive&amp;apost; outside body</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="9">In Europe, surgeons can keep donor hearts and lungs &amp;quot;alive&amp;quot; during transport.</sentence>
+      <sentence id="2" ids_article_sentences="11">Clinical trials on the live organ transplant device are wrapping up in the United States.</sentence>
+      <sentence id="3" ids_article_sentences="16, 26">Scientists hope to increase donor pool, improve patient outcomes.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-08 22:27:53" annotation_time="74.667" mapping_time_divergence="24.889">
+      <sentence id="9" ids_highlights="1">In 2006, surgeons in Europe transplanted the first heart using the TransMedics Organ Care System, a portable device that kept the heart &amp;quot;alive&amp;quot; -- beating, with blood and oxygen flowing through it -- during transport.</sentence>
+      <sentence id="11" ids_highlights="2">While the system has been approved for use in Europe -- more than 200 live organ transplants have been completed to date -- clinical trials are still wrapping up in the United States.</sentence>
+      <sentence id="16" ids_highlights="3">That may improve patient outcomes.</sentence>
+      <sentence id="26" ids_highlights="3">Eventually, scientists may even be able to improve donor organs that would otherwise be discarded, Ardehali said.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>In every medical drama the scene is the same: The surgeon carefully places the delicate organ in a cooler filled with ice and snaps the lid shut.</content>
+        </sentence>
+        <sentence id="2">
+          <content>The transplant team then sprints toward the door, hoping to reach its patient in time.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>That speed isn&amp;apost;t just for dramatic effect.</content>
+        </sentence>
+        <sentence id="4">
+          <content>Transplant teams rush because they have less than eight hours to transport the organ to the operating room, prepare it for surgery and implant it into the recipient&amp;apost;s body.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>&amp;quot;Beyond that time, there is significant injury to the (organ), which makes it unusable,&amp;quot; said Dr. Abbas Ardehali, director of UCLA&amp;apost;s heart and lung transplant program.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>Placing healthy organs in the same container we use to keep soda cold at a picnic seems archaic.</content>
+        </sentence>
+        <sentence id="7">
+          <content>But until recently, it was the only option hospitals had.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>That changed with heart-in-a-box.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>In 2006, surgeons in Europe transplanted the first heart using the TransMedics Organ Care System, a portable device that kept the heart &amp;quot;alive&amp;quot; -- beating, with blood and oxygen flowing through it -- during transport.</content>
+        </sentence>
+        <sentence id="10">
+          <content>In 2011, doctors began successfully transplanting lungs using a similar device.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>While the system has been approved for use in Europe -- more than 200 live organ transplants have been completed to date -- clinical trials are still wrapping up in the United States.</content>
+        </sentence>
+        <sentence id="12">
+          <content>Interim results from those studies are being presented at the annual International Society for Heart and Lung Transplantation meeting in Montreal this week.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>Approximately 60% of lung recipients die in the first five years following surgery due to complications, according to the National Institutes of Health; scientists hope to change that statistic with this new technology.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>There are three potential benefits to keeping donor organs &amp;quot;alive,&amp;quot; said Ardehali, who is UCLA&amp;apost;s principal investigator for one of the studies.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>The first is obvious: Organs that are kept warm and functioning instead of being placed on ice have less damage, so the recipient&amp;apost;s body doesn&amp;apost;t have to work as hard to accept it, Ardehali said.</content>
+        </sentence>
+        <sentence id="16">
+          <content>That may improve patient outcomes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="17">
+          <content>Doctors measure a lung transplant patient&amp;apost;s &amp;quot;primary graft dysfunction&amp;quot; in the days following surgery, said Neal Beswick, vice president of global marketing for TransMedics.</content>
+        </sentence>
+        <sentence id="18">
+          <content>That&amp;apost;s basically an indicator of how well the new lungs are working.</content>
+        </sentence>
+        <sentence id="19">
+          <content>Past studies have shown that patients with high grades of graft dysfunction in the first 48 hours have a higher risk of organ rejection and early mortality later on, Beswick said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="20">
+          <content>Preliminary results from the U.S. breathing lung transplant studies suggest this new method significantly reduces primary graft dysfunction.</content>
+        </sentence>
+        <sentence id="21">
+          <content>Patients who underwent live organ transplants during the study also spent less time on a mechanical ventilator, less time in the intensive care unit and had fewer lung-related complications.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="22">
+          <content>The portable transplant system also enables doctors to keep organs outside the body longer, giving hospitals the opportunity to share them across a larger geographic region.</content>
+        </sentence>
+        <sentence id="23">
+          <content>More than 114,000 people in the United States are awaiting organ donations, according to Organdonor.gov; 18 of them die each day without a donation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="24">
+          <content>&amp;quot;We&amp;apost;d like to increase lung transplantation by a factor of three,&amp;quot; Beswick said.</content>
+        </sentence>
+        <sentence id="25">
+          <content>&amp;quot;And we think that we could double the number of heart transplants without any increase in the number of organ donors.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="26">
+          <content>Eventually, scientists may even be able to improve donor organs that would otherwise be discarded, Ardehali said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="27">
+          <content>Currently, 75 to 80% of donor lungs are rejected because they are infected or have too much damage, he said.</content>
+        </sentence>
+        <sentence id="28">
+          <content>If doctors are able to keep the lungs, or other organs, alive outside the body for several days, they may be able to clear up any infection with antibiotics or improve the organs&amp;apost; resilience.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="29">
+          <content>It&amp;apost;s a bit of &amp;quot;science fiction&amp;quot; right now, Beswick said, but doctors in the future could even use the TransMedics device to fight chronic diseases.</content>
+        </sentence>
+        <sentence id="30">
+          <content>For example, if doctors could remove the lungs of a stage IV cancer patient and attack the organs with radiation outside the body, they could potentially place the same cancer-free lungs back in the patient a few days later, effectively eliminating the need for donor lungs at all.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="31">
+          <content>&amp;quot;A lot of things become real become real if the organ can be sustained for a long period of time,&amp;quot; Beswick said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="32">
+          <content>Hospitals pay approximately 45,000 euros -- or $58,000 -- for each TransMedic Organ Care System.</content>
+        </sentence>
+        <sentence id="33">
+          <content>While the hardware can be reused, the organ chamber must be disposed of after each transplant, Beswick said.</content>
+        </sentence>
+        <sentence id="34">
+          <content>&amp;quot;It&amp;apost;s a relatively high cost per patient.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="35">
+          <content>TransMedic hopes to finish the U.S. heart trial in the next 90 days; the lung trial should be done by the end of the year.</content>
+        </sentence>
+        <sentence id="36">
+          <content>The company then hopes to submit their device to the U.S. Food and Drug Administration for approval.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

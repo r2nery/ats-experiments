@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2657" link="http://www.cnn.com/2013/04/16/world/meast/iran-pakistan-earthquake/index.html" date_published="2013-04-16 11:14:45" category="world" author="Laura Smith-Spark and Shirzad Bozorgmehr, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Quake kills 34, injures 80 in Pakistan, sources say</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">NEW: 34 people dead; 80 injured in Pakistan, sources say.</sentence>
+      <sentence id="2" ids_article_sentences="2">NEW: Army doctors and Frontier Corps forces working rescue efforts in Mashakel.</sentence>
+      <sentence id="3" ids_article_sentences="4">Six people dead and more than a dozen hurt in Balochistan province, Pakistani official says.</sentence>
+      <sentence id="4" ids_article_sentences="31">The USGS revises the quake&amp;apost;s depth to 50 miles, from initial calculation of 9.3 miles.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-03 08:24:13" annotation_time="41.737667">
+      <sentence id="1" ids_highlights="1"> At least 34 people have died and 80 are injured in Pakistan after a powerful earthquake struck near the country&amp;apost;s border with Iran, sources tell CNN.</sentence>
+      <sentence id="2" ids_highlights="2">Army doctors and Frontier Corps paramilitary forces are taking part in rescue efforts in Mashakel, according to a Pakistani official involved in relief efforts.</sentence>
+      <sentence id="4" ids_highlights="3">Akbar Hussain Durrani, home minister of Pakistan&amp;apost;s Balochistan province, confirmed that six people had died and more than a dozen were injured in the province&amp;apost;s Washuk district.</sentence>
+      <sentence id="31" ids_highlights="4">It initially said the quake had a depth of 15 kilometers (9.3 miles) but later revised that to 82 kilometers (51 miles.).</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>At least 34 people have died and 80 are injured in Pakistan after a powerful earthquake struck near the country&amp;apost;s border with Iran, sources tell CNN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Army doctors and Frontier Corps paramilitary forces are taking part in rescue efforts in Mashakel, according to a Pakistani official involved in relief efforts.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Officials earlier said that dozens more were injured in both countries.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>Akbar Hussain Durrani, home minister of Pakistan&amp;apost;s Balochistan province, confirmed that six people had died and more than a dozen were injured in the province&amp;apost;s Washuk district.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>The quake injured a dozen people in southeastern Iran, authorities said.</content>
+        </sentence>
+        <sentence id="6">
+          <content>They were treated at a hospital, the Crisis Management Office of Sistan and Baluchestan province reported.</content>
+        </sentence>
+        <sentence id="7">
+          <content>No one was killed, said Reza Arbabi, the office&amp;apost;s director.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>Sistan and Baluchestan province borders Pakistan and Afghanistan.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>Earlier Tuesday, Iran&amp;apost;s semiofficial Fars news agency quoted a politician from the province as saying that 40 people had been killed in the earthquake.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>However, Arbabi and Sistan and Baluchestan Gov.-general Hatam Narouie disputed that there were deaths.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>Fars later quoted Narouie as saying, &amp;quot;Fortunately, the quake did not cause any deaths or serious property damage.</content>
+        </sentence>
+        <sentence id="12">
+          <content>Telephone lines are now working, and water and electricity (are) normal.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>Narouie told Fars that the news outlet should rely only on information from the crisis office.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>Damage in Pakistan.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>The quake destroyed more than 50 shops in the Washuk district, Durrani said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="16">
+          <content>The U.S. Geological Survey said the earthquake was preliminarily measured at 7.8 magnitude.</content>
+        </sentence>
+        <sentence id="17">
+          <content>The Iranian Seismological Center said the earthquake had a magnitude of 7.5.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;Thank God it doesn&amp;apost;t appear that there is too much destruction,&amp;quot; a disaster official said on a broadcast by Iran&amp;apost;s IRIB from the city of Khosk.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="19">
+          <content>The official described seeing five injured people and some cracked or collapsed walls but no sign of major damage.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="20">
+          <content>The Iranian Red Crescent has dispatched five assessment teams to the region, the aid group said Tuesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="21">
+          <content>State of emergency.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="22">
+          <content>The epicenter of the quake, which struck about 3:15 p.m. local time, was about 50 miles (80 kilometers) north of the city of Saravan, according to the Iranian Seismological Center.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="23">
+          <content>A state of emergency has been declared in the Saravan area, and rescue workers have been deployed from other provinces, Iran&amp;apost;s state-run IRNA news agency reported.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="24">
+          <content>&amp;quot;Our teams have been deployed to the area for the first rapid assessment, but they have not reported back yet,&amp;quot; said Hassan Esfandiar, head of communications for the Iranian Red Crescent.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="25">
+          <content>The area is rural and sparsely populated, leading to hopes that casualty figures may not climb much higher.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="26">
+          <content>Carrieann Bedwell, a USGS seismologist, said a 7.8-magnitude quake was &amp;quot;a large event for any area&amp;quot; and could be expected to cause damage in inhabited places.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="27">
+          <content>No effects have been reported on any nuclear plants in the region.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="28">
+          <content>The earthquake caused no damage to Bushehr nuclear power facility in Iran, the Iran Nuclear Regulatory Authority told the International Atomic Energy Association.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="29">
+          <content>Aftershocks can be expected for days or weeks after a quake of that magnitude, she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="30">
+          <content>The USGS placed the epicenter 53 miles east-southeast of Khash, 103 miles northeast of Iranshahr and 123 miles southeast of Zahedan.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="31">
+          <content>It initially said the quake had a depth of 15 kilometers (9.3 miles) but later revised that to 82 kilometers (51 miles.).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="32">
+          <content>Shafiq Ahmed, an official with Pakistan&amp;apost;s meteorological department, said the tremor, which he put at magnitude 7.9, struck inside southern Iran, near the border with Pakistan.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="33">
+          <content>Tremors were felt in southern Pakistan, including the city of Karachi, and across Balochistan province from Gwadar on the southern coast to Quetta and the border with Iran.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="34">
+          <content>&amp;apost;Children were crying&amp;apost;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="35">
+          <content>Taghi Akhavan, an employee at Shaygan Hotel on the Iranian resort island of Kish, said he felt the quake about 3:30 p.m. local time.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="36">
+          <content>He said several guests also reported feeling what they described as a mild tremor, but the hotel did not evacuate guests.</content>
+        </sentence>
+        <sentence id="37">
+          <content>He said he has not seen any damage.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="38">
+          <content>Journalist Rabia Ali was among those to feel the quake in Karachi.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="34">
+      <sentences>
+        <sentence id="39">
+          <content>&amp;quot;I was at home.</content>
+        </sentence>
+        <sentence id="40">
+          <content>I was in my bed, and the bed started moving for a good 15 seconds,&amp;quot; she said.</content>
+        </sentence>
+        <sentence id="41">
+          <content>&amp;quot;We realized it was an earthquake, and we started evacuating.</content>
+        </sentence>
+        <sentence id="42">
+          <content>Everyone came out onto the street and started praying.</content>
+        </sentence>
+        <sentence id="43">
+          <content>The children were crying.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="35">
+      <sentences>
+        <sentence id="44">
+          <content>She said that she had not seen any damage in her neighborhood and that things have now calmed down.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="36">
+      <sentences>
+        <sentence id="45">
+          <content>The earthquake was felt as far away as Abu Dhabi, where buildings shook for 40 seconds or more, but it&amp;apost;s not clear what damage has been caused across the region.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="37">
+      <sentences>
+        <sentence id="46">
+          <content>The lest earthquake comes on the heels of another last week in southern Iran, which left at least 37 people dead.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="38">
+      <sentences>
+        <sentence id="47">
+          <content>That quake, centered near the city of Kaki, was measured at magnitude 6.3.</content>
+        </sentence>
+        <sentence id="48">
+          <content>It did not damage the Bushehr nuclear plant, just over 60 miles away, according to Iranian state media.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

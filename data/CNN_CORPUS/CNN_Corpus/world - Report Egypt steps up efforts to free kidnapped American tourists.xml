@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2679" link="http://edition.cnn.com/2012/07/14/world/meast/egypt-americans-kidnapped/index.html" date_published="2012-07-14 08:01:39" category="world" author=" Mohamed Fadel Fahmy and Saad Abedine, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Report: Egypt steps up efforts to free kidnapped American tourists</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="8">NEW: The son of male kidnap victim Michel Louis says his father is a diabetic.</sentence>
+      <sentence id="2" ids_article_sentences="2">EgyNews: Authorities receive confirmation that the tourists are near where they were abducted.</sentence>
+      <sentence id="3" ids_article_sentences="12">Security official: Bedouin kidnappers want the release of a relative held on drug charges.</sentence>
+      <sentence id="4" ids_article_sentences="13">Kidnappings and robberies are up since longtime dictator Hosni Mubarak was ousted last year.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-28 09:01:42" annotation_time="15.927">
+      <sentence id="2" ids_highlights="2">The push comes after authorities received confirmation that the trio was still in the area where they were abducted.</sentence>
+      <sentence id="8" ids_highlights="1">Louis&amp;apost; son, Jean, told reporters his father is a diabetic.</sentence>
+      <sentence id="12" ids_highlights="3">Bedouin kidnappers want authorities to release a relative who is in detention in Alexandria on drug charges, said Gen. Ahmed Bakr, head of security in the North Sinai.</sentence>
+      <sentence id="13" ids_highlights="4">Kidnappings and armed robberies have increased since a popular uprising ousted Egypt&amp;apost;s long-ruling dictator, Hosni Mubarak, last year.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Egyptian security services in North Sinai are intensifying efforts to get a pair of kidnapped Americans and their tour guide released, state media reported Saturday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The push comes after authorities received confirmation that the trio was still in the area where they were abducted.</content>
+        </sentence>
+        <sentence id="3">
+          <content>Their detention was intended to bargain the release of relatives in custody of Egyptian authorities, EgyNews reported.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Security sources &amp;quot;confirmed that continuous efforts are being made in order to determine the whereabouts of the Americans and the Egyptian tour guide on one hand, and to release them in coordination with tribal leaders and the families in the region,&amp;quot; EgyNews said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>The tourists and their guide were kidnapped Friday in the Sinai region of Egypt, authorities said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>The family of one of the kidnapped Americans identified their loved one as Michel Louis, a pastor from Dorchester, Massachusetts.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>Louis was traveling with a group of clergy and church members when their vehicle was stopped and he, another member and their tour guide were detained, the Louis family said in a statement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>Louis&amp;apost; son, Jean, told reporters his father is a diabetic.</content>
+        </sentence>
+        <sentence id="9">
+          <content>He thanked everyone involved in trying to secure his release and asked that people pray for his safe return, and the safe return of those with him.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;We&amp;apost;re all in good spirits because we know that the God that we serve is in control of the matter,&amp;quot; the son said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>He confirmed the identity of the other tourist, a woman, as Lisa Alphonse.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>Bedouin kidnappers want authorities to release a relative who is in detention in Alexandria on drug charges, said Gen. Ahmed Bakr, head of security in the North Sinai.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="13">
+          <content>Kidnappings and armed robberies have increased since a popular uprising ousted Egypt&amp;apost;s long-ruling dictator, Hosni Mubarak, last year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="14">
+          <content>In February, two American tourists were kidnapped and immediately released in the Sinai region.</content>
+        </sentence>
+        <sentence id="15">
+          <content>The same thing happened in June, when two American tourists were released about a day after they were abducted.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="16">
+          <content>In Friday&amp;apost;s incident, Bedouins stopped a tour bus en route to Taba and kidnapped the two tourists -- a man and a woman -- and their guide, Bakr said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="17">
+          <content>Authorities are trying to negotiate with the kidnappers, he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="18">
+          <content>In a message posted on Twitter on Friday, the U.S. Embassy in Cairo said it was &amp;quot;in close touch with Egyptian authorities, who are doing everything they can to bring about safe release of the American tourists.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

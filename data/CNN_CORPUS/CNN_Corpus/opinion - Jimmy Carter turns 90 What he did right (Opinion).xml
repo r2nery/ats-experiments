@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="833" link="http://edition.cnn.com/2014/10/01/opinion/zelizer-jimmy-carter/index.html?iid=article_sidebar" date_published="2014-10-01 11:58:36" category="opinion" author="Julian Zelizer" highlights_mapped="true" mapping_error="false">
+  <title>Jimmy Carter turns 90: What he did right (Opinion)</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">October 1 is the 90th birthday of former President Jimmy Carter .</sentence>
+      <sentence id="2" ids_article_sentences="10">Julian Zelizer: Carter&amp;apost;s campaign emphasized he would restore trust in the government .</sentence>
+      <sentence id="3" ids_article_sentences="3">He says while many Americans consider his presidency a failure, there are lessons.</sentence>
+      <sentence id="4" ids_article_sentences="31">Zelizer: Carter was right to press public officials to do more to reform our political system .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-24 13:18:18" annotation_time="48.935">
+      <sentence id="1" ids_highlights="1"> Today is the 90th birthday of former President Jimmy Carter.</sentence>
+      <sentence id="3" ids_highlights="3">Many Americans consider his presidency to be a complete failure.</sentence>
+      <sentence id="10" ids_highlights="2">The premise of Carter&amp;apost;s campaign was that he would restore trust in the federal government.</sentence>
+      <sentence id="31" ids_highlights="4">In 2014, Americans would do well to celebrate the birthday of their former President by remembering this message and pressing elected officials and candidates to do more to reform our political system.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Today is the 90th birthday of former President Jimmy Carter.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Born on October 1, 1924, the Georgian has lived a political life that is filled with controversy and turmoil.</content>
+        </sentence>
+        <sentence id="3">
+          <content>Many Americans consider his presidency to be a complete failure.</content>
+        </sentence>
+        <sentence id="4">
+          <content>It was four years during which a stagnant economy got worse and foreign policy spiraled out of control with the Iran hostage crisis.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>Since leaving Washington, Carter has remained a polarizing figure.</content>
+        </sentence>
+        <sentence id="6">
+          <content>His positions on international issues such as the conflicts in the Middle East have often caused his detractors to say that he favors one side over the other.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>Looking back, it is hard to remember what it was about Jimmy Carter that made him so appealing to voters in 1976.</content>
+        </sentence>
+        <sentence id="8">
+          <content>That year, Democrats turned away from some major heavyweights in the party, like Washington Sen. Henry &amp;quot;Scoop&amp;quot; Jackson or Indiana Sen. Birch Bayh.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Amidst the chaos of the 1970s, Democrats went for the outsider and in the general election, Carter was able to defeat President Gerald Ford.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="10">
+          <content>The premise of Carter&amp;apost;s campaign was that he would restore trust in the federal government.</content>
+        </sentence>
+        <sentence id="11">
+          <content>For Americans who had just lived through the resignation of a president, this was a message that resonated.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="12">
+          <content>Today, as we live in a period when so many Americans distrust their government and when the political system seems perpetually broken -- paralyzed by partisan gridlock and bogged down by the power of money and lobbyists -- it is worth remembering what Carter had to say during the summer and fall of 1976.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="13">
+          <content>His message was simple: &amp;quot;trust me.&amp;quot;</content>
+        </sentence>
+        <sentence id="14">
+          <content>In his acceptance speech at the Democratic Convention in Madison Square Garden, Carter proclaimed: &amp;quot;It is time for us to take a new look at our own government, to strip away the secrecy, to expose the unwarranted pressure of lobbyists ...&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="15">
+          <content>In the aftermath of Watergate, Carter understood that the way government worked was as important as the specific policies that the government produced.</content>
+        </sentence>
+        <sentence id="16">
+          <content>During the Democratic primaries and the general election, he promised to restore confidence in the government by fixing the political process and building on the reforms that Congress had passed in 1974 and 1975, such as campaign finance and sunshine laws.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="17">
+          <content>He even warned Democratic interest groups that he would refuse to blindly follow their demands out of party loyalty.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;I owe the special interests nothing,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="19">
+          <content>In a television spot called &amp;quot;secrecy,&amp;quot; he called for sunshine laws so that &amp;quot;we can understand what decisions are made about our own lives, what went on behind those locked doors.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="20">
+          <content>Carter didn&amp;apost;t abandon this message after winning.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="21">
+          <content>Although it was symbolic, Carter thrilled Americans when he and his wife stopped the limousine as it rode down Pennsylvania Avenue following his swearing-in ceremony.</content>
+        </sentence>
+        <sentence id="22">
+          <content>He and Rosalynn stepped out of the car and onto the street to join the parade on foot.</content>
+        </sentence>
+        <sentence id="23">
+          <content>When he made this decision, Carter recalled that he was thinking about the &amp;quot;angry demonstrators who had habitually confronted recent presidents and vice presidents, furious over the Vietnam War and later the revelations of Watergate.&amp;quot;</content>
+        </sentence>
+        <sentence id="24">
+          <content>A leader who was less interested in the trappings of power than actually working to represent the people elated the crowd.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="25">
+          <content>He followed through on those promises in 1978, pushing the Ethics in Government Act that created disclosure rules for the finances of public officials, lobbying restrictions for those who served in office and an Independent Counsel to investigate executive branch corruption.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="26">
+          <content>While some of the reforms didn&amp;apost;t turn out to be as effective as he hoped, and other reforms were too limited to solve the bigger problems facing the political system, the legislation was still a huge landmark in efforts to limit corruption and ethical wrongdoing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="27">
+          <content>Over time, we have forgotten about the message of the 1976 campaign and the legislation that followed.</content>
+        </sentence>
+        <sentence id="28">
+          <content>Carter&amp;apost;s legacy has been bogged down by his many failures, and the huge problems with the political system have created immense cynicism that we have ever done anything to make things better.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="29">
+          <content>But Carter was on to something important back then.</content>
+        </sentence>
+        <sentence id="30">
+          <content>He understood that until Americans could trust their elected leaders, we would never have the kind of healthy democracy that national leaders always promised.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="31">
+          <content>In 2014, Americans would do well to celebrate the birthday of their former President by remembering this message and pressing elected officials and candidates to do more to reform our political system.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="32">
+          <content>Read CNNOpinion&amp;apost;s new Flipboard magazine.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

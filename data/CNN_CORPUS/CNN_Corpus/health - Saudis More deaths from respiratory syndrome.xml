@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="351" link="http://www.cnn.com/2014/04/26/health/saudi-mers-coronavirus-new-cases/index.html" date_published="2014-04-26 14:09:03" category="health" author="Kisa Mlela Santiago and Leone Lakhani, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Saudis: More deaths from respiratory syndrome</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">14 new cases detected within a 24-hour period.</sentence>
+      <sentence id="2" ids_article_sentences="2">5 of the new patients died.</sentence>
+      <sentence id="3" ids_article_sentences="3">Total number of cases has reached 313 with 92 deaths.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-11 00:35:47" annotation_time="15.990334">
+      <sentence id="1" ids_highlights="1">At least 14 new cases of the Middle East respiratory symptom coronavirus, or MERS-CoV, have been detected in Saudi Arabia, the health ministry said in its latest statement about the condition.</sentence>
+      <sentence id="2" ids_highlights="2">Of those new cases, five of the patients died within 24 hours.</sentence>
+      <sentence id="3" ids_highlights="3">This brings the total number of known cases to 313, including 92 deaths, the ministry said Friday.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>At least 14 new cases of the Middle East respiratory symptom coronavirus, or MERS-CoV, have been detected in Saudi Arabia, the health ministry said in its latest statement about the condition.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Of those new cases, five of the patients died within 24 hours.</content>
+        </sentence>
+        <sentence id="3">
+          <content>This brings the total number of known cases to 313, including 92 deaths, the ministry said Friday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Saudi health officials continue to step up efforts to combat the virus amid news of a spike in cases.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>It is not clear why there was a sudden increase, said Dr. Abdullah Al-Asiri, assistant undersecretary at the Saudi Ministry of Health and a member of the Scientific Committee of Infectious Diseases.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;We have faced an increase in the number of cases around the same time last year at the end of winter,&amp;quot; the Saudi Press Agency quotes him as saying.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>State media reported Monday that former Minister of Health Dr. Abdullah bin Abdulaziz Al-Rabiah had stepped down after the sharp rise in cases.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>Saudi officials have called on the World Health Organization and a group of medical experts to meet at the end of this month to discuss the status of the virus.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>Ministry of Health spokesman Khalid Marghalani said recently a drug company would be arriving in Saudi Arabia to discuss the production of a vaccine to fight the virus.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="10">
+          <content>Last week, reports on social media said health care workers had refused to treat MERS-CoV patients.</content>
+        </sentence>
+        <sentence id="11">
+          <content>The government has since issued a statement saying ambulance services that refused would be suspended from work and investigated.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>MERS-CoV was discovered in September 2012.</content>
+        </sentence>
+        <sentence id="13">
+          <content>The World Health Organization reported Sunday that 250 cases have been confirmed globally with 93 deaths worldwide.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>A new cluster of the virus was reported in the United Arab Emirates earlier this week, as were the first cases in Greece and Malaysia.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>MERS-CoV comes from the same group of viruses as the common cold and attacks the respiratory system, the U.S.-based Centers for Disease Control and Prevention says.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Symptoms, which include fever, cough and shortness of breath, can lead to pneumonia and kidney failure.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="17">
+          <content>Although many of the cases have occurred on the Arabian Peninsula, people have died of the infection elsewhere, including in European countries and Tunisia in North Africa.</content>
+        </sentence>
+        <sentence id="18">
+          <content>However, all of the people involved contracted the disease in the Middle East before being diagnosed.</content>
+        </sentence>
+        <sentence id="19">
+          <content>Limited human-to-human transmission of the disease has also occurred in other countries.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="20">
+          <content>Health officials do not know exactly how the virus spreads, and they stress hygiene, such as diligent hand-washing, to limit its spread.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="21">
+          <content>The WHO has not recommended any MERS-related travel restrictions but says member countries should monitor any unusual respiratory infection patterns in travelers to the Arabian Peninsula.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

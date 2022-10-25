@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1893" link="http://edition.cnn.com/2013/04/17/us/boston-marathon-student-victim/index.html?iid=article_sidebar" date_published="2013-04-17 06:56:36" category="us" author="Ben Brumfield and Steven Jiang, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Chinese bombing victim followed passion to Boston</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="9">Lingzi Lu was a graduate student in math and statistics.</sentence>
+      <sentence id="2" ids_article_sentences="4">She had gone to the race with two friends.</sentence>
+      <sentence id="3" ids_article_sentences="12">The day she died, she posted a picture of her breakfast to a social media website.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-01 17:18:24" annotation_time="19.678999">
+      <sentence id="4" ids_highlights="2">And so she went Monday to Copley Square with two friends in tow.</sentence>
+      <sentence id="9" ids_highlights="1">Boston University identified her on Wednesday as Lingzi Lu, a graduate student in mathematics and statistics.</sentence>
+      <sentence id="12" ids_highlights="3">The day she died, she posted a picture of her breakfast to the Chinese social media website Weibo -- bread and a bowl of fruit.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Beijing Like thousands of others, the graduate student from China crowded with friends around the finish line at the Boston Marathon to cheer on the runners.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>She had moved to the city in time for the fall semester, making friends and soaking up new experiences.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The marathon was a chance to be a part of an annual ritual so cherished by Bostonians.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>And so she went Monday to Copley Square with two friends in tow.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>They were in the wrong place at the wrong time.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>Two bombs went off within 12 seconds of each other near the finish line, killing three.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>The graduate student was one of them.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="8">
+          <content>Who she was.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="9">
+          <content>Boston University identified her on Wednesday as Lingzi Lu, a graduate student in mathematics and statistics.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="10">
+          <content>The second student was in stable condition at Boston Medical Center and the third student was not hurt, BU Today said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="11">
+          <content>Her photos on Facebook show her enjoying a simple student life of home-cooked meals in modest surrounding, smiles over warm cups of coffee, laughs with friends.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="12">
+          <content>The day she died, she posted a picture of her breakfast to the Chinese social media website Weibo -- bread and a bowl of fruit.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="13">
+          <content>&amp;quot;My wonderful breakfast,&amp;quot; she commented in English with a smiley face emoticon.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="14">
+          <content>Then an explosion.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="15">
+          <content>After the two bombs ended the road race, Lu&amp;apost;s roommate posted a message on Facebook.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;God bless the Boston community,&amp;quot; wrote Li Jing, also from China.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="17">
+          <content>The blasts wounded 183 others.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="18">
+          <content>Li learned of that injury -- but didn&amp;apost;t yet know her friend had died.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;I have been unable to reach her,&amp;quot; she wrote on her Facebook page.</content>
+        </sentence>
+        <sentence id="20">
+          <content>&amp;quot;Everyone is very worried.</content>
+        </sentence>
+        <sentence id="21">
+          <content>I have reported this to BU Police.</content>
+        </sentence>
+        <sentence id="22">
+          <content>If anyone knows anything, please let me know.</content>
+        </sentence>
+        <sentence id="23">
+          <content>Thanks for everyone&amp;apost;s help.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="24">
+          <content>Friends offered suggestions on how to find her.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="25">
+          <content>&amp;quot;Li Jing, I am so sad for your roommate...I will pray for her and pray for your soul,&amp;quot; one posted on Facebook.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="26">
+          <content>Death confirmed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="27">
+          <content>Boston University&amp;apost;s president announced the graduate student&amp;apost;s death in an open letter published Tuesday on the school&amp;apost;s website and confirmed that her friend was wounded.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="28">
+          <content>&amp;quot;Our hearts and thoughts go out to the family and friends of both victims,&amp;quot; wrote college President Robert Brown.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="29">
+          <content>At first, the university declined to release Lu&amp;apost;s name at her family&amp;apost;s request, but the school later received permission from a family representative, BU spokesman Colin Riley said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="30">
+          <content>The university established the Lu Lingzi Scholarship Fund in her honor, it announced Thursday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="31">
+          <content>The Chinese consulate in New York issued a statement of condolence.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="32">
+          <content>In China, news of the death set off a wave of sympathy on social media sites.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="33">
+          <content>By Wednesday, netizens there had added more than 17,000 comments to the victim&amp;apost;s last Weibo post about her breakfast.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="34">
+          <content>&amp;quot;Wish there&amp;apost;s no pain in heaven!</content>
+        </sentence>
+        <sentence id="35">
+          <content>May the girl rest in peace!&amp;quot;</content>
+        </sentence>
+        <sentence id="36">
+          <content>WenyiqingnianHarryChen posted.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="37">
+          <content>Tuesday evening, two university chaplains held a campus vigil for her and the other victims.</content>
+        </sentence>
+        <sentence id="38">
+          <content>It was followed by a town hall-style meeting for those in search of comfort and counseling.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="39">
+          <content>The graduate student died alongside Krystle Campbell, 29, and Martin Richard, 8.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="40">
+          <content>Her friend, Zhou Danling, is on her way to recovery at a Boston hospital.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="34">
+      <sentences>
+        <sentence id="41">
+          <content>A love of math and chance.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="35">
+      <sentences>
+        <sentence id="42">
+          <content>Lu had worked hard to achieve.</content>
+        </sentence>
+        <sentence id="43">
+          <content>She won an academic scholarship to the Beijing Institute of Technology, where she received accolades for her math skills.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="36">
+      <sentences>
+        <sentence id="44">
+          <content>She went on to Boston University to pursue that passion and was working on a master&amp;apost;s degree in statistics.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="37">
+      <sentences>
+        <sentence id="45">
+          <content>She would have known how slim the chances were that something like this could happen in a crowd of thousands cheering the runners on a sunny day.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

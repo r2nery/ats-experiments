@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="17" link="http://www.cnn.com/2014/02/10/business/china-bitcoin-regulation/index.html" date_published="2014-02-10 12:02:50" category="business" author="Pauline Chiou, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Can bitcoin succeed in China?</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="9, 8">Investors flocked to the bitcoin after positive comments from U.S. policy makers, pushing bitcoin&amp;apost;s value above $1000.</sentence>
+      <sentence id="2" ids_article_sentences="10, 20">Much of the demand for bitcoin came from China, but trading volume has declined more than half since December.</sentence>
+      <sentence id="3" ids_article_sentences="17">Chinese regulators banned financial institutions from doing business in bitcoins.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-17 10:56:16" annotation_time="43.722">
+      <sentence id="8" ids_highlights="1">Late last year, investors flocked to the bitcoin after positive comments from U.S. policy makers.</sentence>
+      <sentence id="9" ids_highlights="1">That fueled a surge in the bitcoin&amp;apost;s value above $1000.</sentence>
+      <sentence id="10" ids_highlights="2">Much of that demand came from China.</sentence>
+      <sentence id="17" ids_highlights="3">In December, Chinese regulators banned financial institutions from doing business in bitcoins.</sentence>
+      <sentence id="20" ids_highlights="2">In a phone interview, CEO and co-Founder Bobby Lee acknowledged, &amp;quot;Trading volume has declined more than half since December.&amp;quot;</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Bitcoins are still a bit of a mystery to many of us.</content>
+        </sentence>
+        <sentence id="2">
+          <content>It is billed as a digital currency, but it&amp;apost;s not regulated.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>Still, more and more vendors are starting to accept it.</content>
+        </sentence>
+        <sentence id="4">
+          <content>In the U.S., the Sacramento Kings NBA team recently announced it will accept bitcoins for purchases of tickets or team merchandise.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>Online retailer Overstock.com has also started accepting bitcoins.</content>
+        </sentence>
+        <sentence id="6">
+          <content>Virgin Galactic said it welcomes bitcoins for a $250,000 ride on its future space flights.</content>
+        </sentence>
+        <sentence id="7">
+          <content>A U.S. based company has already created bitcoin ATMs and plans to install one in Hong Kong.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="8">
+          <content>Late last year, investors flocked to the bitcoin after positive comments from U.S. policy makers.</content>
+        </sentence>
+        <sentence id="9">
+          <content>That fueled a surge in the bitcoin&amp;apost;s value above $1000.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="10">
+          <content>Much of that demand came from China.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="11">
+          <content>The wild price volatility was a red flag to independent economist Andy Xie.</content>
+        </sentence>
+        <sentence id="12">
+          <content>He told me on CNN&amp;apost;s World Business Today, &amp;quot;It&amp;apost;s not a currency.</content>
+        </sentence>
+        <sentence id="13">
+          <content>People who accept it are usually selling it for real money like for U.S. dollars or the Japanese yen.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="14">
+          <content>It&amp;apost;s like you accept Chateau Lafite.</content>
+        </sentence>
+        <sentence id="15">
+          <content>There&amp;apost;s a price for Chateau Lafite everyday but that doesn&amp;apost;t make it a currency.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="16">
+          <content>The speculation surrounding this mysterious currency has led China&amp;apost;s central government to squeeze the oxygen out of the bitcoin market within China.</content>
+        </sentence>
+        <sentence id="17">
+          <content>In December, Chinese regulators banned financial institutions from doing business in bitcoins.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="18">
+          <content>Then the central bank warned third party payment processors to stop clearing transactions for Chinese bitcoin exchanges.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="19">
+          <content>This forced BTC China, one of the biggest bitcoin exchanges in the world, to create a voucher system for buyers and sellers.</content>
+        </sentence>
+        <sentence id="20">
+          <content>In a phone interview, CEO and co-Founder Bobby Lee acknowledged, &amp;quot;Trading volume has declined more than half since December.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="21">
+          <content>David Shin, an investor in a new Canadian bitcoin mine, believes China is looking to protect its own currency.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;Given their push to try and make the renminbi a global currency like the U.S. dollar, it is in their best interest not to have an outflow of renminbi into another asset class or currency like bitcoin that they can&amp;apost;t control,&amp;quot; Shin says.</content>
+        </sentence>
+        <sentence id="23">
+          <content>&amp;quot;So I view the last set of constraints that they&amp;apost;ve put on the exchanges as nothing more than speed bumps rather than &amp;apost;Do Not Enter&amp;apost; signs on the road.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="24">
+          <content>As for the exchanges themselves, Lee says he is open to meeting with Chinese government officials and actually welcomes a regulated market .</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="25">
+          <content>&amp;quot;It&amp;apost;s the confidence in bitcoin that needs to be salvaged in China....Our objective is to develop a more sustainable bitcoin market with the support of government.</content>
+        </sentence>
+        <sentence id="26">
+          <content>We don&amp;apost;t want to create a frenzied environment.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

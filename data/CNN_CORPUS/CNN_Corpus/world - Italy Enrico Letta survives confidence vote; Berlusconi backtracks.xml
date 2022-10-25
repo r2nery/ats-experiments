@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2342" link="http://www.cnn.com/2013/10/02/world/europe/italy-government-crisis/index.html" date_published="2013-10-02 10:56:03" category="world" author="Ben Wedeman. Hada Messia and Laura Smith-Spark, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Italy: Enrico Letta survives confidence vote; Berlusconi backtracks</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Prime Minister Enrico Letta handily wins a confidence vote in the Italian Senate.</sentence>
+      <sentence id="2" ids_article_sentences="4">He is also expected to win a confidence vote in the lower house of Parliament.</sentence>
+      <sentence id="3" ids_article_sentences="2">Silvio Berlusconi drops a bid to topple the government, says his party backs Letta.</sentence>
+      <sentence id="4" ids_article_sentences="18">Berlusconi could lose his Senate seat after a conviction for tax fraud was upheld.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-15 21:07:26" annotation_time="27.531">
+      <sentence id="1" ids_highlights="1">Rome Italian Prime Minister Enrico Letta&amp;apost;s coalition government survived a confidence vote Wednesday by a healthy margin, with 235 senators voting in favor to 70 against.</sentence>
+      <sentence id="2" ids_highlights="3">The threat receded shortly before the vote when former Prime Minister Silvio Berlusconi unexpectedly dropped his bid to topple the government, saying his party&amp;apost;s lawmakers would support the motion.</sentence>
+      <sentence id="4" ids_highlights="2">The lower house of parliament is still scheduled to vote on a motion of confidence in Letta&amp;apost;s government later Wednesday.</sentence>
+      <sentence id="18" ids_highlights="4">On Friday, Berlusconi will be the subject of a parliamentary committee that will consider whether he should lose his Senate seat after a conviction for tax fraud was upheld by Italy&amp;apost;s supreme court two months ago.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Rome Italian Prime Minister Enrico Letta&amp;apost;s coalition government survived a confidence vote Wednesday by a healthy margin, with 235 senators voting in favor to 70 against.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The threat receded shortly before the vote when former Prime Minister Silvio Berlusconi unexpectedly dropped his bid to topple the government, saying his party&amp;apost;s lawmakers would support the motion.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Berlusconi&amp;apost;s move came after members of his center-right People of Freedom Party signaled they would defy his orders and back the government.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>The lower house of parliament is still scheduled to vote on a motion of confidence in Letta&amp;apost;s government later Wednesday.</content>
+        </sentence>
+        <sentence id="5">
+          <content>However, the prime minister has a majority in that chamber and is not in serious danger of losing the vote.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>Before the senators voted, Letta, of the center-left Democratic Party, appealed for their backing, warning that Italy faced a &amp;quot;fatal&amp;quot; risk with the confidence vote.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>Letta, who took office five months ago, argued that the country needs political stability to help its recovery from its economic woes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;A government and political crisis would only mean more economic difficulties,&amp;quot; he told lawmakers.</content>
+        </sentence>
+        <sentence id="9">
+          <content>&amp;quot;It means not going through with the reforms needed to boost the economy and help the unemployed and the country.</content>
+        </sentence>
+        <sentence id="10">
+          <content>It means that the rest of Europe still looks at us as &amp;apost;the unfixable&amp;apost; messy country.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>The crisis was triggered when Berlusconi on Saturday ordered ministers from his party to pull out of the fragile coalition government.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>But the former prime minister&amp;apost;s political gamble appears to have divided his own party, resulting in his sudden climbdown.</content>
+        </sentence>
+        <sentence id="13">
+          <content>Italian news agency Ansa had earlier cited People of Freedom Party member Carlo Giovanardi as saying that more than 40 center-right lawmakers were willing to back Letta&amp;apost;s government.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>Observers speculate that the reported fracturing within Berlusconi&amp;apost;s party could be the beginning of the end of his checkered political career.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="15">
+          <content>&amp;quot;I definitely do not believe that this time around Mister Berlusconi can escape his fate,&amp;quot; Former Prime Minister Mario Monti told CNN&amp;apost;s Christiane Amanpour Wednesday from Rome.</content>
+        </sentence>
+        <sentence id="16">
+          <content>&amp;quot;He has been pronounced defeated and out of politics many, many times in the past.</content>
+        </sentence>
+        <sentence id="17">
+          <content>He has given proof of an incredible resilience, but I believe this time he will not.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="18">
+          <content>On Friday, Berlusconi will be the subject of a parliamentary committee that will consider whether he should lose his Senate seat after a conviction for tax fraud was upheld by Italy&amp;apost;s supreme court two months ago.</content>
+        </sentence>
+        <sentence id="19">
+          <content>He has insisted the prosecutions against him are politically motivated.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="20">
+          <content>In an apparent reference to Berlusconi&amp;apost;s legal difficulties, Letta told senators Wednesday that they must make a distinction between the judicial troubles of Berlusconi, or any other member of parliament, and the job of the executive.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="21">
+          <content>Letta said reforms to pull Italy out of recession must continue, and that political stability is the key to boosting growth and creating more jobs.</content>
+        </sentence>
+        <sentence id="22">
+          <content>Italians want to see their elected representatives govern, not indulge in political drama, he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="23">
+          <content>He appealed to the Senate to have the courage and strength to back the confidence motion, for the sake of the country.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="24">
+          <content>The formation of the coalition government in April ended weeks of uncertainty following inconclusive elections in February.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="25">
+          <content>Berlusconi, who served on and off as prime minister between 1994 and 2011, has dominated the lively history of Italian politics for the past two decades.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="26">
+          <content>For years, he has also been entangled in fraud, corruption and sex scandals that have often reached the Italian courts.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="27">
+          <content>He is currently appealing a prison sentence handed down in June for abuse of power and having sex with an underage prostitute.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

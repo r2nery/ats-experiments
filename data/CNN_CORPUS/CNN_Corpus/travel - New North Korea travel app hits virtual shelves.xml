@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1807" link="http://www.cnn.com/2014/05/06/travel/north-korea-travel-app/index.html" date_published="2014-05-06 22:38:05" category="travel" author="Kate Whitehead, for CNN" highlights_mapped="true" mapping_error="false">
+  <title>New North Korea travel app hits virtual shelves</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="4">New app features more than 350 geo-tagged North Korean attractions and history/culture info.</sentence>
+      <sentence id="2" ids_article_sentences="5">App project manager says he&amp;apost;s been banned from North Korea.</sentence>
+      <sentence id="3" ids_article_sentences="23">North Korea Travel App cost $20,000, thousands of hours to develop.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-31 23:18:28" annotation_time="96.39733">
+      <sentence id="4" ids_highlights="1">Part travel guide, part travel booking advisory, it features more than 350 places of interest.</sentence>
+      <sentence id="5" ids_highlights="2">All destinations on the North Korea Travel App are open to visitors and have been geo-tagged by Curtis Melvin, a North Korea satellite imagery expert who the company says was banned from the country after widespread news coverage of his work.</sentence>
+      <sentence id="23" ids_highlights="3">The project, which started as an idea over a drink in a pub and wasn&amp;apost;t expected to cost much money or time, has wound up taking much longer and costing far more than expected, says O&amp;apost;Carroll, noting that the group has spent $20,000 to develop the engine, along with hundreds of hours of writing and editing.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Ten years ago, the number of Western visitors to North Korea was well below a thousand a year, with Americans permitted by Pyongyang to visit only during the summer Mass Games.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The number of Western visitors has since risen to 5,000 to 6,000 a year, and Americans, who now make up 25% of Western visitors, are allowed to enter year round.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>In response to the surge of interest, London-based website Uniquely Travel has recently launched a comprehensive North Korea app.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>Part travel guide, part travel booking advisory, it features more than 350 places of interest.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>All destinations on the North Korea Travel App are open to visitors and have been geo-tagged by Curtis Melvin, a North Korea satellite imagery expert who the company says was banned from the country after widespread news coverage of his work.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>The app includes sections detailing the country&amp;apost;s history, culture and the ethics of traveling to North Korea, as well as a Tour Guide Tips section offering insights by Koryo Tours manager Simon Cockerell, who has been leading groups into the country for more than 10 years.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;The app appeals to that curiosity a lot of people have about what on Earth it&amp;apost;s like to go to a country like North Korea and is designed for armchair travelers as well as people who are actively interested in visiting,&amp;quot; says project manager Chad O&amp;apost;Carroll.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="8">
+          <content>A longtime North Korea watcher and founder and managing editor of NK News, O&amp;apost;Carroll got involved with the project last year when friends set up Uniquely Travel, a site dedicated to easing travel to countries with difficult relationships with Western governments.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="9">
+          <content>The North Korea app, developed by Magora Systems, is the first to launch.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="10">
+          <content>Guides to Iran and Libya are expected to follow.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="11">
+          <content>More than just monuments.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;Users can compare prices through the app in a similar way to Kayak.com or they can use the unique platform to put together their own itinerary and get companies to compete against each other for a custom (trip),&amp;quot; says O&amp;apost;Carroll.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="13">
+          <content>He&amp;apost;s most excited about the work done by Melvin, who&amp;apost;s been studying Google Earth images for more than five years to piece together a detailed map of North Korea.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;People think you can only go to Pyongyang and see a bunch of monuments, but that&amp;apost;s not the case,&amp;quot; says O&amp;apost;Carroll.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="15">
+          <content>&amp;quot;It&amp;apost;s interesting that they are opening places like Hoeryong, which is near a prison camp.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;With the increase in new destinations, it increases the chance that people will see more of the real North Korea.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="17">
+          <content>The 99-cent app has an offline mode so it can be used in North Korea, where Internet connectivity is difficult and expensive.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="18">
+          <content>Though tourists were once forced to hand over their mobile phones for storage when entering the country, widespread reports in early 2013 noted that government officials appear to have relaxed the rules.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="19">
+          <content>For O&amp;apost;Carroll, the app is strictly for armchair use -- he too is banned from North Korea, most likely for his work with NK News, a &amp;quot;privately owned specialist site focused on North Korea.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="20">
+          <content>Based in London, O&amp;apost;Carroll founded NK News in 2010.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="21">
+          <content>The greatest interest for the app is expected to come from the United States -- which is why it&amp;apost;s been produced in American English.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="22">
+          <content>If successful, the app may be translated into Chinese, Japanese and Korean, the other markets with strong interest in North Korea.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="23">
+          <content>The project, which started as an idea over a drink in a pub and wasn&amp;apost;t expected to cost much money or time, has wound up taking much longer and costing far more than expected, says O&amp;apost;Carroll, noting that the group has spent $20,000 to develop the engine, along with hundreds of hours of writing and editing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="24">
+          <content>&amp;quot;We just hope a nuclear test -- which is looking increasingly possible at the moment -- doesn&amp;apost;t happen to eclipse the launch,&amp;quot; he says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="25">
+          <content>The North Korea Travel App is now available on iTunes and Google Play stores.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="26">
+          <content>O&amp;apost;Carroll says the app&amp;apost;s main competition is Bradt, a travel guidebook publishing company that covers non-mainstream destinations such as Sudan, Kazakhstan and Iran.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="27">
+          <content>According to Bradt&amp;apost;s website, the company will be publishing a guide to North Korea this year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

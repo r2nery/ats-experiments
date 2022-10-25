@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="325" link="http://www.cnn.com/2013/09/26/health/obamacare-glossary/index.html?iid=article_sidebar" date_published="2013-09-26 11:42:10" category="health" author="Jen Christensen, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Obamacare: Health insurance terms most don&amp;apost;t know but should</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">In a recent survey only 14% knew common insurance terms.</sentence>
+      <sentence id="2" ids_article_sentences="4">Only 11% could calculate the cost of a hospital stay given a hypothetical plan.</sentence>
+      <sentence id="3" ids_article_sentences="10">Not knowing what terms mean can be costly .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-25 21:06:44" annotation_time="40.238667">
+      <sentence id="3" ids_highlights="1">A recent study in the Journal of Health Economics found only 14% of those polled could identify basic health insurance terms.</sentence>
+      <sentence id="4" ids_highlights="2">Only 11% of those surveyed could calculate the price of a four-day hospital visit when given a hypothetical plan.</sentence>
+      <sentence id="10" ids_highlights="3">Not knowing these terms can be expensive.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>If you don&amp;apost;t know what all those health insurance buzz-words like &amp;quot;co-pay&amp;quot; and &amp;quot;premium&amp;quot; mean, you&amp;apost;re not alone.</content>
+        </sentence>
+        <sentence id="2">
+          <content>Most Americans probably don&amp;apost;t understand all the basic health care terminology, which could be a serious disadvantage when choosing a plan during open enrollment.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>A recent study in the Journal of Health Economics found only 14% of those polled could identify basic health insurance terms.</content>
+        </sentence>
+        <sentence id="4">
+          <content>Only 11% of those surveyed could calculate the price of a four-day hospital visit when given a hypothetical plan.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>The people surveyed all had health insurance.</content>
+        </sentence>
+        <sentence id="6">
+          <content>Presumably they had some familiarity with the terms, or thought they understood their insurance.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>Now imagine what could happen when the 48 million uninsured Americans -- many of whom have never had any experience with health insurance -- are confronted with having to choose a plan to meet the requirements of Obamacare next year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;Insurance is fundamentally complicated,&amp;quot; said George Loewenstein, a professor of economics and psychology at Carnegie Mellon University and a co-author of the study.</content>
+        </sentence>
+        <sentence id="9">
+          <content>&amp;quot;I have a Ph.D. in economics and I consult with insurance companies, but there are elements I can&amp;apost;t understand, so it didn&amp;apost;t surprise when I saw the average person struggle with these terms.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>Not knowing these terms can be expensive.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;We know from other research that people make disastrously bad insurance choices because they don&amp;apost;t understand this basic language,&amp;quot; Loewenstein said.</content>
+        </sentence>
+        <sentence id="12">
+          <content>&amp;quot;I seriously hope people will ask for help and can find good advice on finding the plan that is right for them.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>Here are some terms you may want to learn before you dive into a decision about your health insurance for next year.</content>
+        </sentence>
+        <sentence id="14">
+          <content>This information is compiled from the Health and Human Services and Employee Benefits Security Administration&amp;apost;s guidance on terms.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="15">
+          <content>1.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Deductible.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="17">
+          <content>The amount you owe before your health insurance benefits kick in.</content>
+        </sentence>
+        <sentence id="18">
+          <content>For example, if your deductible is $500, your insurance won&amp;apost;t pay for anything until your costs are more than $500.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="19">
+          <content>2.</content>
+        </sentence>
+        <sentence id="20">
+          <content>Co-pay.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="21">
+          <content>A co-payment, or co-pay, is the amount the insured person pays every time he or she receives a health service.</content>
+        </sentence>
+        <sentence id="22">
+          <content>For instance, if your co-pay to see a doctor is $25, you pay that amount each time you see him or her.</content>
+        </sentence>
+        <sentence id="23">
+          <content>The insurance takes care of the rest.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="24">
+          <content>3.</content>
+        </sentence>
+        <sentence id="25">
+          <content>Co-insurance.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="26">
+          <content>Your part of the costs of a health service that is covered by insurance.</content>
+        </sentence>
+        <sentence id="27">
+          <content>It is calculated as a percentage and you pay it in addition to whatever deductible you may owe.</content>
+        </sentence>
+        <sentence id="28">
+          <content>For example if your plan allows $100 for a doctor visit and you&amp;apost;ve already met your deductible, your co-insurance payment of 20% would be $20.</content>
+        </sentence>
+        <sentence id="29">
+          <content>The insurance plan picks up the rest of the cost.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="30">
+          <content>4.</content>
+        </sentence>
+        <sentence id="31">
+          <content>Out-of-pocket maximum.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="32">
+          <content>The most you pay during the period of your policy (most policies go for a year) before your insurance plan begins to pay 100% of the allowed amount.</content>
+        </sentence>
+        <sentence id="33">
+          <content>This total does not include your balance-billed charges, your premium, or the health care services your plan doesn&amp;apost;t cover.</content>
+        </sentence>
+        <sentence id="34">
+          <content>Some plans don&amp;apost;t count the out-of-network payments, co-insurance payments, co-payments, other expenses or deductibles toward this amount, so read the plan instructions carefully.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="35">
+          <content>5.</content>
+        </sentence>
+        <sentence id="36">
+          <content>Premiums.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="37">
+          <content>The amount you must pay for your insurance plan.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="38">
+          <content>6.</content>
+        </sentence>
+        <sentence id="39">
+          <content>Claim.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="40">
+          <content>The bill you or your doctor or health care provider submits to your health insurance company.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="41">
+          <content>7.</content>
+        </sentence>
+        <sentence id="42">
+          <content>Allowed amount.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="43">
+          <content>This may also be called an &amp;quot;eligible expense&amp;quot; or &amp;quot;negotiated rate&amp;quot; or &amp;quot;payment allowance.&amp;quot;</content>
+        </sentence>
+        <sentence id="44">
+          <content>It is the maximum amount on which payment is based for health care services that are covered by your insurance.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="45">
+          <content>8.</content>
+        </sentence>
+        <sentence id="46">
+          <content>In- and out-of-network.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="47">
+          <content>An in-network provider is a health care office that has contracted with the health insurance company to provide services for people on that insurance plan.</content>
+        </sentence>
+        <sentence id="48">
+          <content>An out-of-network provider is someone who does not have such a relationship with the insurance company.</content>
+        </sentence>
+        <sentence id="49">
+          <content>Typically, insurance will only cover the cost of services from health care providers who are &amp;quot;in-network.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="50">
+          <content>9.</content>
+        </sentence>
+        <sentence id="51">
+          <content>Essential health benefits.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="52">
+          <content>This is the set of health care services that must be covered by certain plans starting in 2014.</content>
+        </sentence>
+        <sentence id="53">
+          <content>There are 10 categories in which insurance plans must provide services and items: Maternity and newborn care, prescription drugs, rehabilitative services and devices, lab services, ambulatory patient services, emergency services, hospitalization, wellness and preventive services, chronic disease management, and pediatric services that include vision and oral care.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="54">
+          <content>10.</content>
+        </sentence>
+        <sentence id="55">
+          <content>Preventive care.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="56">
+          <content>Routine health care that includes regular checkups, patient counseling and screenings to prevent disease, illness and other health complications.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

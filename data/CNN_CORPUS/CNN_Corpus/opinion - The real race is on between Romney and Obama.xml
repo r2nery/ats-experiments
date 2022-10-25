@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="942" link="http://edition.cnn.com/2012/04/10/opinion/zelizer-santorum-gop/index.html" date_published="2012-04-10 20:00:44" category="opinion" author="Julian Zelizer, CNN Contributor" highlights_mapped="true" mapping_error="false">
+  <title>The real race is on between Romney and Obama</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Rick Santorum announces he is suspending his presidential campaign.</sentence>
+      <sentence id="2" ids_article_sentences="3">Julian Zelizer: Mitt Romney will likely be the GOP candidate .</sentence>
+      <sentence id="3" ids_article_sentences="16">He says Romney ran a strong campaign and had money, plus his opponents were weak.</sentence>
+      <sentence id="4" ids_article_sentences="11">Zelizer: Romney is more skilled as a politician than he is often given credit for.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-06 08:01:46" annotation_time="44.307">
+      <sentence id="1" ids_highlights="1">Rick Santorum&amp;apost;s announcement that he is suspending his presidential campaign brings the Republican primaries closer to the end.</sentence>
+      <sentence id="3" ids_highlights="2">Mitt Romney will almost certainly be the Republican candidate who faces off against President Barack Obama in the fall.</sentence>
+      <sentence id="11" ids_highlights="4">The second lesson is that Romney is more skilled as a politician than he is often given credit for and his opponents were never as strong as they were made to appear by the media.</sentence>
+      <sentence id="16" ids_highlights="3">Nor were his opponents very strong.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Rick Santorum&amp;apost;s announcement that he is suspending his presidential campaign brings the Republican primaries closer to the end.</content>
+        </sentence>
+        <sentence id="2">
+          <content>With all the speculation about brokered conventions and last-minute turnarounds, the original predictions appear to be correct.</content>
+        </sentence>
+        <sentence id="3">
+          <content>Mitt Romney will almost certainly be the Republican candidate who faces off against President Barack Obama in the fall.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="4">
+          <content>The rebellion against Romney took on many forms since this primary season began.</content>
+        </sentence>
+        <sentence id="5">
+          <content>We saw the business conservative (Herman Cain), the ideological and slash-and-burn conservative (Newt Gingrich), the libertarian (Ron Paul), the movement conservatives (Rick Santorum and Michele Bachmann) all try to win the hearts and minds of Republican voters by claiming that they were better suited to this role than Romney.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="6">
+          <content>But in the end Romney wins.</content>
+        </sentence>
+        <sentence id="7">
+          <content>We can learn a number of lessons from this outcome.</content>
+        </sentence>
+        <sentence id="8">
+          <content>The first is that organization and money do matter.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Despite all the interest in surprise victories by his opponents in places like Iowa and South Carolina, the fact that Romney was able to put together such an extensive organizational apparatus early in this campaign, and to raise huge amounts of money to conduct his advertising, made him extraordinarily difficult to beat in several key states.</content>
+        </sentence>
+        <sentence id="10">
+          <content>Retail politics could only take his opponents so far.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="11">
+          <content>The second lesson is that Romney is more skilled as a politician than he is often given credit for and his opponents were never as strong as they were made to appear by the media.</content>
+        </sentence>
+        <sentence id="12">
+          <content>Romney proved that he had some of the survival skills needed to last through the turbulent ups and downs of the primary process.</content>
+        </sentence>
+        <sentence id="13">
+          <content>He was successful in the debates and responded well to the inevitable gaffes and misstatements that were made over these months.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="14">
+          <content>His insistence on sticking to economic issues, with some diversions to counteract Santorum, reflected an awareness of his own strengths and a resistance to remaking himself in the middle of this contest.</content>
+        </sentence>
+        <sentence id="15">
+          <content>He is disciplined on the campaign trail.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="16">
+          <content>Nor were his opponents very strong.</content>
+        </sentence>
+        <sentence id="17">
+          <content>Gingrich was a flawed candidate from the start, loaded with baggage from his political career and a well-known tendency to speak what is on his mind regardless of the political costs.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="18">
+          <content>Santorum, too, brought to the campaign his long record in Washington and a weak organizational infrastructure that did not serve him well.</content>
+        </sentence>
+        <sentence id="19">
+          <content>Others, like Herman Cain, quickly burned out when under the national spotlight.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="20">
+          <content>Finally, we learned that the anger about President Obama and the frustration over the current course of the economy is greater than any internal debates that exist in the GOP.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="21">
+          <content>While Santorum often did excite many of voters in the primaries and caucuses, he never could close the deal in terms of convincing them that he had a better chance to defeat Obama than did Romney.</content>
+        </sentence>
+        <sentence id="22">
+          <content>When faced with a choice between four more years of Obama or a middle-of-the-road Romney, it seems that Republicans prefer Romney.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="23">
+          <content>So now the real race is on.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="24">
+          <content>Follow us on Twitter @CNNOpinion.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="25">
+          <content>Join us on Facebook/CNNOpinion.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

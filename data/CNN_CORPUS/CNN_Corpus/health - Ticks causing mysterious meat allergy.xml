@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="394" link="http://edition.cnn.com/2012/06/20/health/meat-tick-bite-allergy/index.html" date_published="2012-06-20 11:18:02" category="health" author="Olivia Smith, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Ticks causing mysterious meat allergy</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="17">Alpha-gal: Sugars stuck together in the blood that lead to meat allergy.</sentence>
+      <sentence id="2" ids_article_sentences="20">All known patients who have alpha-gal have had at least one tick bite.</sentence>
+      <sentence id="3" ids_article_sentences="31">For meat lovers, especially hunters, the simplest solution is to avoid ticks.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-11 06:25:07" annotation_time="16.985">
+      <sentence id="17" ids_highlights="1">Alpha-gal is essentially a bunch of sugars stuck together in the blood, which is in the meat of all non-primate mammals, including deer, cats and dogs.</sentence>
+      <sentence id="20" ids_highlights="2">All known patients who have alpha-gal have had at least one tick bite.</sentence>
+      <sentence id="31" ids_highlights="3">For meat lovers, especially hunters, the simplest solution is to avoid ticks -- as if that&amp;apost;s an easy thing to do.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Helen Olive had her first allergy attack 11 years ago.</content>
+        </sentence>
+        <sentence id="2">
+          <content>She had gone to bed only to wake up hours later because her neck felt as if it were on fire.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;It was terrible,&amp;quot; said Olive, who is 42 and lives in North Carolina.</content>
+        </sentence>
+        <sentence id="4">
+          <content>&amp;quot;The sensation was all over my body and then I developed hives.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>A slender woman with wavy, reddish-brown hair and blue eyes, Olive might appear perfectly healthy.</content>
+        </sentence>
+        <sentence id="6">
+          <content>But waking up in the middle of the night with uncontrollable itching and nausea became a common theme in her life.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>She was driving her motorcycle around town with her husband on a hot summer day in 2008 when they decided to stop for a meal at a local restaurant.</content>
+        </sentence>
+        <sentence id="8">
+          <content>&amp;quot;I had a black and blue salad with beef tips,&amp;quot; Olive said.</content>
+        </sentence>
+        <sentence id="9">
+          <content>&amp;quot;Later I had the same reaction except the Benadryl would not work.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="10">
+          <content>As her symptoms continued to increase, she made an appointment with the Carolina Asthma and Allergy Center.</content>
+        </sentence>
+        <sentence id="11">
+          <content>Her blood test showed that she was very allergic to meat.</content>
+        </sentence>
+        <sentence id="12">
+          <content>Olive&amp;apost;s doctor informed her that a meat allergy was &amp;quot;not common.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="13">
+          <content>But two allergists at the University of Virginia have gathered data showing that the food allergy Olive has, known as galactose-alpha-1,3-galactose, or alpha-gal for short, is affecting more than 1,500 Americans.</content>
+        </sentence>
+        <sentence id="14">
+          <content>The researchers suspect there are many more unidentified cases.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="15">
+          <content>&amp;quot;The answer to the allergy is sugar,&amp;quot; said Dr. Thomas Platts-Mills, who discovered the allergy with his junior colleague Dr. Scott Commins.</content>
+        </sentence>
+        <sentence id="16">
+          <content>They first published their findings in 2009.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="17">
+          <content>Alpha-gal is essentially a bunch of sugars stuck together in the blood, which is in the meat of all non-primate mammals, including deer, cats and dogs.</content>
+        </sentence>
+        <sentence id="18">
+          <content>&amp;quot;We have seen anaphylaxis in France with horse and goat meat as well,&amp;quot; Platts-Mills said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="19">
+          <content>What causes the allergy may be surprising.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="20">
+          <content>All known patients who have alpha-gal have had at least one tick bite.</content>
+        </sentence>
+        <sentence id="21">
+          <content>Platts-Mills, who also suffers from alpha-gal, made the connection after receiving countless bites while hiking in the woods one August.</content>
+        </sentence>
+        <sentence id="22">
+          <content>As a result, his level of IgE, which measures the alpha-gal allergy in one&amp;apost;s blood, went up several-hundred points.</content>
+        </sentence>
+        <sentence id="23">
+          <content>That is when Platts-Mills concluded there is some relation to the number of tick bites one receives and how allergic one may become to alpha-gal.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="24">
+          <content>Platts-Mills and Commins said the allergic reaction is specifically related to the common lone star tick (Amblyomma americanum).</content>
+        </sentence>
+        <sentence id="25">
+          <content>These ticks cover various plains across the United States.</content>
+        </sentence>
+        <sentence id="26">
+          <content>An important distinction is that alpha-gal is not a disease like Lyme disease or Rocky Mountain spotted fever -- it is an allergy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="27">
+          <content>&amp;quot;Presumably something happened with the ticks,&amp;quot; said Platts-Mills.</content>
+        </sentence>
+        <sentence id="28">
+          <content>&amp;quot;It could possibly be a new tick spreading.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="29">
+          <content>The doctors believe the allergy could more closely be related to bites that come from tick larvae, or baby ticks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="30">
+          <content>&amp;quot;Perhaps there is an organism in the tick&amp;apost;s saliva that makes a person allergic to the alpha-gal sugar in mammalian meat,&amp;quot; Commins said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="31">
+          <content>For meat lovers, especially hunters, the simplest solution is to avoid ticks -- as if that&amp;apost;s an easy thing to do.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="32">
+          <content>And what if you&amp;apost;ve already been bitten?</content>
+        </sentence>
+        <sentence id="33">
+          <content>Olive doesn&amp;apost;t fancy the idea of eating a steak with an epinephrine auto-injector, which treats life-threatening allergic reactions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="34">
+          <content>Allergist Dr. Erin McGintee who practices in the Hamptons has seen some dangerous cases of alpha-gal in New York, including a few patients who passed out in their bathrooms.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="35">
+          <content>&amp;quot;Intellectually, it&amp;apost;s such a cool allergy on so many levels,&amp;quot; McGintee said.</content>
+        </sentence>
+        <sentence id="36">
+          <content>&amp;quot;It&amp;apost;s a sugar, not a protein, and most food allergies occur in response to a protein antigen.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="37">
+          <content>Alpha-gal is unique in that it is the first known case of delayed anaphylaxis, she said.</content>
+        </sentence>
+        <sentence id="38">
+          <content>While anaphylaxis normally occurs within minutes or seconds of eating a certain food, this is not the case with alpha-gal patients, who suffer anaphylactic shock anywhere from four to six hours after eating certain meats.</content>
+        </sentence>
+        <sentence id="39">
+          <content>Most who suffer from alpha-gal can attest that waking up in the middle of the night, not from a nightmare, but from anaphylaxis, is quite frightening.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="40">
+          <content>Alpha-gal&amp;apost;s reactions vary on a case-by-case basis, sometimes with a patient experiencing a severe reaction and other times nothing at all.</content>
+        </sentence>
+        <sentence id="41">
+          <content>Doctors advise that people who are exposed to lone star ticks should be aware of the allergy, especially if they live in the country, where it could take some time to reach a hospital.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="42">
+          <content>Jaime Johnston, 62, has lived in parts of North and South Carolina, and had her first tick bite when she was 5.</content>
+        </sentence>
+        <sentence id="43">
+          <content>She was about 46 when she became severely allergic to meat.</content>
+        </sentence>
+        <sentence id="44">
+          <content>Like many others, she had alpha-gal before it was even named.</content>
+        </sentence>
+        <sentence id="45">
+          <content>It has taken her almost 20 years to understand that her meat allergy is connected to ticks.</content>
+        </sentence>
+        <sentence id="46">
+          <content>However, she did learn early on that certain meats were her enemy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="47">
+          <content>&amp;quot;No doctor has ever taken this claim seriously,&amp;quot; Johnston said.</content>
+        </sentence>
+        <sentence id="48">
+          <content>Doctors &amp;quot;would roll their eyes and tell me to go to an allergist.</content>
+        </sentence>
+        <sentence id="49">
+          <content>I&amp;apost;ve never done this because of the anticipated costs.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="50">
+          <content>A trip to an allergist could cost a few hundred dollars without insurance.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="51">
+          <content>While some daredevils may want to risk it and enjoy a juicy steak regardless of their alpha-gal allergy, the only true way to avoid an allergy attack is to avoid the food itself.</content>
+        </sentence>
+        <sentence id="52">
+          <content>&amp;quot;There is no current medication to treat food allergies,&amp;quot; Commins said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="53">
+          <content>However, Commins did explain that if a person were to avoid tick bites for some time, he or she could become less allergic to meat.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="54">
+          <content>&amp;quot;For those lucky few who have had their (IgE) levels fall, we try a meat challenge to &amp;apost;clear&amp;apost; them to consume mammalian meat.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="55">
+          <content>Yet be warned, additional bites could once again lead to anaphylactic shock.</content>
+        </sentence>
+        <sentence id="56">
+          <content>And to some, the meat challenge just doesn&amp;apost;t seem worth it.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="57">
+          <content>&amp;quot;I don&amp;apost;t want to risk it,&amp;quot; Olive said.</content>
+        </sentence>
+        <sentence id="58">
+          <content>&amp;quot;We have six acres and some of it is woods.</content>
+        </sentence>
+        <sentence id="59">
+          <content>Ticks are really unavoidable.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

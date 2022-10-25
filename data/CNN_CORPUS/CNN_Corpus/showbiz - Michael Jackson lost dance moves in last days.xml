@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1323" link="http://www.cnn.com/2013/06/14/showbiz/jackson-death-trial/index.html" date_published="2013-06-14 21:02:58" category="showbiz" author="Alan Duke, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Michael Jackson lost dance moves in last days</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">Jurors watched a comparison of Jackson&amp;apost;s performance of &amp;quot;Billie Jean&amp;quot; in &amp;apost;01 and &amp;apost;09.</sentence>
+      <sentence id="2" ids_article_sentences="7">Show director was &amp;quot;concerned he would embarrass himself on stage, or worse yet -- get hurt&amp;quot;.</sentence>
+      <sentence id="3" ids_article_sentences="15">Jackson lawyers argue AEG Live pressured his doctor to get Jackson ready for rehearsals.</sentence>
+      <sentence id="4" ids_article_sentences="12">AEG Live lawyers argue Jackson chose and supervised Dr. Conrad Murray.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-16 17:28:36" annotation_time="16.8425">
+      <sentence id="2" ids_highlights="1">Jurors in the wrongful death trial Friday watched a comparison of Jackson&amp;apost;s performance of &amp;quot;Billie Jean&amp;quot; from 2001 with rehearsal video from June 2009, when he was preparing for his &amp;quot;This Is It&amp;quot; comeback concerts.</sentence>
+      <sentence id="7" ids_highlights="2">&amp;quot;He was a basket case and Kenny was concerned he would embarrass himself on stage, or worse yet -- get hurt,&amp;quot; Houghdahl wrote.</sentence>
+      <sentence id="12" ids_highlights="4">AEG Live lawyers argue it was Jackson who chose and supervised Murray and that their executives had no way of knowing about the dangerous propofol treatments being administered in the privacy of Jackson&amp;apost;s home.</sentence>
+      <sentence id="15" ids_highlights="3">While Jackson lawyers argue that meeting was intended to pressure Murray to make sure Jackson was ready for rehearsals, AEG lawyers contend Dr. Murray assured producers nothing was wrong with him.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Los Angeles Michael Jackson&amp;apost;s health deteriorated so badly in the last weeks of his life that he couldn&amp;apost;t perform some of his trademark dance moves, according to evidence presented in his family&amp;apost;s lawsuit against a concert promoter.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Jurors in the wrongful death trial Friday watched a comparison of Jackson&amp;apost;s performance of &amp;quot;Billie Jean&amp;quot; from 2001 with rehearsal video from June 2009, when he was preparing for his &amp;quot;This Is It&amp;quot; comeback concerts.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;I have watched him deteriorate in front of my eyes over the last 8 weeks.</content>
+        </sentence>
+        <sentence id="4">
+          <content>He was able to do multiple 360 spins back in April.</content>
+        </sentence>
+        <sentence id="5">
+          <content>He&amp;apost;d fall on his ass if he tried now,&amp;quot; production manager John &amp;quot;Bugzee&amp;quot; Houghdahl wrote in an e-mail to AEG Live CEO Randy Phillips on June 19, 2009.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>Show director Kenny Ortega sent Jackson home from a rehearsal that night because of his strange behavior.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;He was a basket case and Kenny was concerned he would embarrass himself on stage, or worse yet -- get hurt,&amp;quot; Houghdahl wrote.</content>
+        </sentence>
+        <sentence id="8">
+          <content>&amp;quot;The company is rehearsing right now, but the DOUBT is pervasive.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>The e-mail chain -- titled &amp;quot;trouble at the Front&amp;quot; -- is key evidence in the trial in which Jackson&amp;apost;s mother and three children contend AEG Live is liable for the singer&amp;apost;s death because it negligently hired, retained and supervised Dr. Conrad Murray.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>Murray, who was convicted of involuntary manslaughter in Jackson&amp;apost;s death, told police he used the surgical anesthetic propofol to treat Jackson&amp;apost;s insomnia so he could be rested for rehearsals.</content>
+        </sentence>
+        <sentence id="11">
+          <content>The coroner ruled Jackson&amp;apost;s June 25, 2009, death was caused by an overdose of propofol.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>AEG Live lawyers argue it was Jackson who chose and supervised Murray and that their executives had no way of knowing about the dangerous propofol treatments being administered in the privacy of Jackson&amp;apost;s home.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>Houghdahl&amp;apost;s e-mail came during a &amp;quot;highly charged time&amp;quot; when there was doubt the show would be ready for its London debut in July of that year, Phillips testified Friday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>Phillips met with Dr. Murray, Michael Jackson and Ortega at Jackson&amp;apost;s home a day after getting the Houghdahl e-mails, according to testimony.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="15">
+          <content>While Jackson lawyers argue that meeting was intended to pressure Murray to make sure Jackson was ready for rehearsals, AEG lawyers contend Dr. Murray assured producers nothing was wrong with him.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="16">
+          <content>AEG&amp;apost;s lawyer showed jurors a clip Thursday of Jackson performing several non-consecutive 360-degree spins while rehearsing his song &amp;quot;Billie Jean&amp;quot; on June 5, 2009.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="17">
+          <content>Phillips described them as &amp;quot;multiple 360 spins,&amp;quot; although conceding he was not a choreographer.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="18">
+          <content>Jackson lawyers, in their rebuttal Friday, showed the jurors the side-by-side comparison of the routine in 2001 and the one weeks before Jackson&amp;apost;s death that was seen in the &amp;quot;This Is It&amp;quot; documentary made from rehearsal video.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;Anywhere in the movie does it show Michael Jackson doing multiple 360 spins?&amp;quot;</content>
+        </sentence>
+        <sentence id="20">
+          <content>Jackson lawyer Brian Panish asked Phillips.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="21">
+          <content>&amp;quot;No,&amp;quot; Phillips said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

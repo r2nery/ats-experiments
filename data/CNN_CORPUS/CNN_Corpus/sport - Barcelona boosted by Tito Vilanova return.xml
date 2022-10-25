@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1427" link="http://edition.cnn.com/2013/03/25/sport/football/tito-vilanova-barcelona-football/index.html" category="sport" author="" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Barcelona boosted by Tito Vilanova return</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Barcelona coach Tito Vilanova returning to Catalonia.</sentence>
+      <sentence id="2" ids_article_sentences="2">Vilanova has been in New York for two months undergoing cancer treatment.</sentence>
+      <sentence id="3" ids_article_sentences="2">Assistant coach Jordi Roura has been in temporary charge of the team.</sentence>
+      <sentence id="4" ids_article_sentences="10">Vilanova took over from Josep Guardiola in June 2012.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-13 22:11:50" annotation_time="32.187">
+      <sentence id="1" ids_highlights="1">Barcelona have been handed a boost ahead of next week&amp;apost;s European Champions League quarterfinal tie against Paris Saint-Germain after the club confirmed coach Tito Vilanova is to return to Catalonia following cancer treatment.</sentence>
+      <sentence id="2" ids_highlights="2, 3">Vilanova has been in New York for two months undergoing treatment, with assistant coach Jordi Roura assuming first team duties on a temporary basis.</sentence>
+      <sentence id="10" ids_highlights="4">Vilanova, who was assistant to former Barca coach Josep Guardiola between 2008 and 2012, has been undergoing treatment following a recurrence of cancer of his parotid gland, which is located in the mouth.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Barcelona have been handed a boost ahead of next week&amp;apost;s European Champions League quarterfinal tie against Paris Saint-Germain after the club confirmed coach Tito Vilanova is to return to Catalonia following cancer treatment.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Vilanova has been in New York for two months undergoing treatment, with assistant coach Jordi Roura assuming first team duties on a temporary basis.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>A statement released by the four-time European champions said Vilanova, who was assistant to Josep Guardiola between 2008 and 2012, is heading home to Spain this week.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>&amp;quot;Barcelona coach Tito Vilanova will be returning home this week after being in New York for the last two months,&amp;quot; read a statement on the Spanish league leader&amp;apost;s official website.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>However the statement did not specify when Vilanova would return to the dugout for the four-time European champions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;Tito traveled to New York on January 21 for treatment and this week he will be returning home to the Catalan capital.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;Jordi Roura has been in charge of the team over the last couple of months and has been in permanent contact with Vilanova to agree on important decisions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;But Vilanova&amp;apost;s place on the bench has always been kept for him and this week the team will welcome their boss back.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Welcome home Tito.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="10">
+          <content>Vilanova, who was assistant to former Barca coach Josep Guardiola between 2008 and 2012, has been undergoing treatment following a recurrence of cancer of his parotid gland, which is located in the mouth.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="11">
+          <content>Bounced back.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="12">
+          <content>The 44-year-old Vilanova initially underwent surgery to remove a tumor in November 2011.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="13">
+          <content>For the first time since Guardiola took over Barca in 2008, recently the Catalan team have faced questions over their performances in the time Vilanova has been away.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="14">
+          <content>Barca were beaten over two legs by Real Madrid in a Copa del Rey semifinal, including a crushing 3-1 home defeat at the Nou Camp stadium, while Jose Mourinho&amp;apost;s side also beat the Catalans in the Spanish league.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="15">
+          <content>Between the two cup ties with Real, Barca were also beaten 2-0 by AC Milan in the first leg of their Champions League round of 16 tie.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="16">
+          <content>But Barca bounced back emphatically, steamrollering Milan in the second leg with a 4-0 triumph.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="17">
+          <content>The first leg of Barca&amp;apost;s last eight tie with PSG takes place in Paris on April 2, before the return fixture on April 10.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

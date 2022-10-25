@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1902" link="http://www.cnn.com/2014/06/04/us/donald-sterling-nba/index.html" date_published="2014-06-04 23:10:28" category="us" author="Brian Todd and Steve Almasy, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Donald Sterling agrees to sale of Los Angeles Clippers</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="11">NEW: Source tells CNN that Donald Sterling is going through sale agreement with lawyers.</sentence>
+      <sentence id="2" ids_article_sentences="7">Attorney for Donald Sterling says his client&amp;apost;s disputes have been resolved.</sentence>
+      <sentence id="3" ids_article_sentences="5">But a lawsuit has yet to be withdrawn.</sentence>
+      <sentence id="4" ids_article_sentences="3">Shelly Sterling, acting on behalf of the family trust, sold the team last week.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-07-25 21:44:16" annotation_time="58.248333">
+      <sentence id="3" ids_highlights="4">The Sterlings are co-owners of the team through a family trust.</sentence>
+      <sentence id="5" ids_highlights="3">The suit has yet to be withdrawn, attorneys Bobby Samini and Maxwell Blecher, said, but that likely will happen this week.</sentence>
+      <sentence id="7" ids_highlights="2">All disputes and outstanding issues have been resolved,&amp;quot; Samini said in a written statement.</sentence>
+      <sentence id="11" ids_highlights="1">The source said Sterling was in a room with his two attorneys, going through the deal.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Donald Sterling has agreed to the sale of the Los Angeles Clippers to former Microsoft CEO Steve Ballmer, Sterling&amp;apost;s attorneys told CNN on Wednesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Last week, Sterling&amp;apost;s estranged wife, Shelly, agreed to sell the franchise to Ballmer for an NBA record $2 billion.</content>
+        </sentence>
+        <sentence id="3">
+          <content>The Sterlings are co-owners of the team through a family trust.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Donald Sterling initially indicated he would fight the sale and filed a lawsuit against the National Basketball Association.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>The suit has yet to be withdrawn, attorneys Bobby Samini and Maxwell Blecher, said, but that likely will happen this week.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;Donald Sterling officially announces today, the NBA and Donald Sterling and Shelly Sterling have agreed to sell the Los Angeles Clippers to Steve Ballmer for $2 billion and various additional benefits.</content>
+        </sentence>
+        <sentence id="7">
+          <content>All disputes and outstanding issues have been resolved,&amp;quot; Samini said in a written statement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>Blecher said he thought that Sterling worked out a resolution with the league or with Shelly Sterling.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>The NBA was expected to issue a news release commenting on Wednesday&amp;apost;s developments.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>As of 8 p.m. ET, the NBA had not received a sale agreement with Donald Sterling&amp;apost;s signature, a source with detailed knowledge of the negotiations said.</content>
+        </sentence>
+        <sentence id="11">
+          <content>The source said Sterling was in a room with his two attorneys, going through the deal.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>NBA owners still have to approve the sale to Ballmer, who has indicated he would keep the team in Los Angeles.</content>
+        </sentence>
+        <sentence id="13">
+          <content>Ballmer, according to Forbes magazine, is worth $20.3 billion.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>Ballmer has tried to buy a NBA team before.</content>
+        </sentence>
+        <sentence id="15">
+          <content>Last year, he and investor Chris Hansen were set to purchase the Sacramento Kings, but the NBA nixed the deal because the duo would have moved the franchise to Seattle.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>Donald Sterling bought the team in 1981 for $12 million.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>Sterling&amp;apost;s recorded racist remarks to his companion, V. Stiviano, spawned outrage among NBA fans, players and executives.</content>
+        </sentence>
+        <sentence id="18">
+          <content>Chief among the latter was NBA Commissioner Adam Silver, who banned Sterling from the league, fined him $2.5 million and pushed through a charge to terminate all of his ownership rights in the franchise.</content>
+        </sentence>
+        <sentence id="19">
+          <content>The recording was posted online by TMZ in late April.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="20">
+          <content>In the recording, Sterling argues with Stiviano about how she posted a photo of herself with NBA legend Magic Johnson to Instagram.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="21">
+          <content>&amp;quot;In your lousy f**ing Instagrams, you don&amp;apost;t have to have yourself with -- walking with black people,&amp;quot; Sterling says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;If it&amp;apost;s white people, it&amp;apost;s OK?&amp;quot;</content>
+        </sentence>
+        <sentence id="23">
+          <content>the woman responds.</content>
+        </sentence>
+        <sentence id="24">
+          <content>&amp;quot;If it was Larry Bird, would it make a difference?&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="25">
+          <content>Bird was a Hall of Fame player who played with the Boston Celtics and was a storied rival of Johnson, who played for the Los Angeles Lakers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="26">
+          <content>He also tells her not to bring Johnson to Clippers games and not to post photos his friends could view.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="27">
+          <content>&amp;quot;Admire him, bring him here, feed him, f**k him, but don&amp;apost;t put (Magic) on an Instagram for the world to have to see so they have to call me,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

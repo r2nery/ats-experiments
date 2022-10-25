@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="67" link="http://edition.cnn.com/2012/08/08/business/pedal-generator-energy-light/index.html?iref=allsearch" category="business" author="Robyn Curnow and Teo Kermeliotis, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Harnessing pedal power to light up Africa</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="13">589 million people in Africa live without access to a public electricity facility.</sentence>
+      <sentence id="2" ids_article_sentences="5">Nuru Energy has created a pedal generator that allows light and mobile phone recharging.</sentence>
+      <sentence id="3" ids_article_sentences="8">The company says its products are more affordable and reliable than other energy solutions.</sentence>
+      <sentence id="4" ids_article_sentences="27">It has set up a network of micro entrepreneurs who sell and recharge the lights.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-09-08 11:47:49" annotation_time="76.341">
+      <sentence id="5" ids_highlights="2">Called POWERcycle, Nuru Energy says it has developed &amp;quot;the world&amp;apost;s first commercially available pedal generator&amp;quot; -- a foot or hand-powered device that can recharge up to five modular light emitting diode (LED) lamps in approximately 20 minutes, as well as power mobile phones and radios.</sentence>
+      <sentence id="8" ids_highlights="3">It also claims that its products are more affordable and reliable than other forms of off-grid offerings that have been developed in recent years, including solar lamps or home solar lighting systems.</sentence>
+      <sentence id="13" ids_highlights="1">According to Lighting Africa, a joint World Bank - IFC program developed to increase access to clean sources of energy for lighting, 589 million people in the continent live without access to a public electricity facility.</sentence>
+      <sentence id="27" ids_highlights="4">Instead, it set up a network of village-level entrepreneurs who are responsible for marketing, selling, and recharging the lights.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>When night falls over Rwanda, many rural communities far removed from the country&amp;apost;s electricity grid descend into darkness.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Unplugged from the power lines, households in these areas rely mainly on fuel-based devices such as kerosene lamps for access to light.</content>
+        </sentence>
+        <sentence id="3">
+          <content>Such lanterns, however, are polluting and costly: They emit toxic fumes, pose fire hazards and also put a strain on family budgets.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>But recently, an innovative solution has emerged to offer affordable and efficient electricity to low-income households while benefiting the communities by providing jobs to local populations.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Called POWERcycle, Nuru Energy says it has developed &amp;quot;the world&amp;apost;s first commercially available pedal generator&amp;quot; -- a foot or hand-powered device that can recharge up to five modular light emitting diode (LED) lamps in approximately 20 minutes, as well as power mobile phones and radios.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>Read also: Bamboo bikes put Zambian business on right track.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>The company says each of its portable LED lamps provides one week of light to a rural household.</content>
+        </sentence>
+        <sentence id="8">
+          <content>It also claims that its products are more affordable and reliable than other forms of off-grid offerings that have been developed in recent years, including solar lamps or home solar lighting systems.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>&amp;quot;We looked around and said, well, what is the one energy resource that&amp;apost;s untapped in this environment?</content>
+        </sentence>
+        <sentence id="10">
+          <content>And human power really came to mind,&amp;quot; says Sameer Hajee, chief executive and co-founder of Nuru Energy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;We thought, well, if we can harness human energy in a way that we can create economic opportunity and low-power electricity, wouldn&amp;apost;t that be a game changing solution?&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>Watch: Can handmade bicycles change lives?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>According to Lighting Africa, a joint World Bank - IFC program developed to increase access to clean sources of energy for lighting, 589 million people in the continent live without access to a public electricity facility.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>The group says African poor rural households and small businesses pay $10 billion per year for lighting purposes, while communities not connected to the grid spend $4.4 billion annually on kerosene.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>Read also: Pay-as-you-go solar power lights up rural Africa.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="16">
+          <content>Looking to address the issue of energy poverty, Hajee, a social entrepreneur with a lot of experience in international development, spent more than a month in Rwanda in 2008, trying to figure out what were the energy needs of the country&amp;apost;s off-grid population.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="17">
+          <content>What he found out was &amp;quot;actually quite basic [energy needs],&amp;quot; he says.</content>
+        </sentence>
+        <sentence id="18">
+          <content>&amp;quot;It&amp;apost;s light, it&amp;apost;s cooking, it&amp;apost;s mobile phone recharging and radio.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="19">
+          <content>Read also: Unplugging from the world&amp;apost;s power lines.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="20">
+          <content>With help from the World Bank, Hajee co-founded Nuru Energy and in 2009 the company started testing its products in the field.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="21">
+          <content>Hajee quickly realized, however, that innovative technology was not enough for the project to be successful in a place like rural Rwanda.</content>
+        </sentence>
+        <sentence id="22">
+          <content>His company also needed to adopt a creative approach in the distribution front.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="23">
+          <content>Read also: Rwanda&amp;apost;s B-Boys.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="24">
+          <content>&amp;quot;We couldn&amp;apost;t just sell product -- we had to actually get involved in the value chain downstream,&amp;quot; he says.</content>
+        </sentence>
+        <sentence id="25">
+          <content>&amp;quot;We thought, well, if the generator can recharge five lights so quickly, could this not be the basis of a recharging business for a local entrepreneur?&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="26">
+          <content>As a result, the company decided not to sell its products directly to customers.</content>
+        </sentence>
+        <sentence id="27">
+          <content>Instead, it set up a network of village-level entrepreneurs who are responsible for marketing, selling, and recharging the lights.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="28">
+          <content>Read also: Experts warn Africa must learn from India&amp;apost;s microfinance problems.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="29">
+          <content>Hajee says this unique model of distribution has revolutionized the lives of both micro-entrepreneurs and customers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="30">
+          <content>&amp;quot;If you look at this from the standpoint of the customer,&amp;quot; says Hajee, &amp;quot;they would purchase the light for $6 and then they would pay about 20 U.S. cents per week for lighting.</content>
+        </sentence>
+        <sentence id="31">
+          <content>This is compared to about $2 a week that they would spend on kerosene before.</content>
+        </sentence>
+        <sentence id="32">
+          <content>So it&amp;apost;s 10 times cheaper solution for them.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="33">
+          <content>&amp;quot;From the entrepreneur&amp;apost;s perspective, in 20 minutes of pedaling, they&amp;apost;re recharging five lights, earning about $1 -- any of us that work in Africa know that that&amp;apost;s much more than people make in an entire day.</content>
+        </sentence>
+        <sentence id="34">
+          <content>So it&amp;apost;s a huge value proposition for the customer and for the entrepreneur.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="35">
+          <content>Opinion: Could Africa be world&amp;apost;s next manufacturing hub?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="36">
+          <content>Hajee notes that this model can easily be emulated across rural Africa.</content>
+        </sentence>
+        <sentence id="37">
+          <content>He says that Nuru Energy, which currently focuses on East Africa and India, has already been approached by a number of potential joint venture partners to roll out the project in other parts of the continent.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="38">
+          <content>&amp;quot;I really hope that what we&amp;apost;re providing here is a stopgap solution to the immediate energy needs of...rural populations,&amp;quot; says Hajee.</content>
+        </sentence>
+        <sentence id="39">
+          <content>&amp;quot;What I would really hope is that, you know, there&amp;apost;s certainly effort needed in providing grid quality electricity to these populations.</content>
+        </sentence>
+        <sentence id="40">
+          <content>It&amp;apost;ll take some time.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

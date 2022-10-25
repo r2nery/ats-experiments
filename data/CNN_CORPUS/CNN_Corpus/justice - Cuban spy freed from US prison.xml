@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="491" link="http://www.cnn.com/2011/10/07/justice/cuban-spy-freed" date_published="2011-10-07 13:12:58" category="justice" author="Mariano Castillo and Melanie Whitley, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Cuban spy freed from U.S. prison</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="13">Rene Gonzalez wants to serve his probation in Cuba.</sentence>
+      <sentence id="2" ids_article_sentences="7">He had served about 13 years of a 15-year sentence.</sentence>
+      <sentence id="3" ids_article_sentences="8">He must serve three years of probation.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-07-27 09:29:39" annotation_time="27.918">
+      <sentence id="7" ids_highlights="2">He was behind bars for 13 years and 26 days, said his attorney, Philip Horowitz.</sentence>
+      <sentence id="8" ids_highlights="3">But he still has three years of probation to serve, said Neil Robinson, spokesman for the federal prison in Marianna, Florida.</sentence>
+      <sentence id="13" ids_highlights="1">Gonzalez will appeal the conditions of his probation so that he may serve it in Cuba instead of the United States, Horowitz said.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Rene Gonzalez, a Cuban convicted of spying in the United States, was released Friday after serving most of a 15-year sentence, a prison spokesman told CNN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Gonzalez was one of five convicted spies known as the &amp;quot;Cuban Five&amp;quot; who were arrested in 1998.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>A Miami jury in 2001 convicted members of what was called the Wasp Network on charges they had spied on prominent Cuban-American exile leaders and U.S. military bases.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>The five were Gonzalez; Ruben Campa, also known as Fernando Gonzalez; Gerardo Hernandez; Luis Medina (also known as Ramon Labanino); and Antonio Guerrero.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>Hernandez, the group&amp;apost;s leader, also was convicted of conspiracy to commit murder for engineering the shoot-down of two planes flown by the group Brothers to the Rescue in 1996.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>Gonzalez is the first of the five to be released from prison.</content>
+        </sentence>
+        <sentence id="7">
+          <content>He was behind bars for 13 years and 26 days, said his attorney, Philip Horowitz.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>But he still has three years of probation to serve, said Neil Robinson, spokesman for the federal prison in Marianna, Florida.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>Gonzalez was freed about 4 a.m., Horowitz said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;I cannot discuss or disclose what he is doing and where he is going in order to protect his personal safety,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="11">
+          <content>&amp;quot;Mr. Gonzalez is glad to be out but it is a bittersweet day because his four friends are still in prison.</content>
+        </sentence>
+        <sentence id="12">
+          <content>He wishes he could return to his family in Cuba as quickly as the judge permits.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>Gonzalez will appeal the conditions of his probation so that he may serve it in Cuba instead of the United States, Horowitz said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>Gonzalez has a 25-year-old daughter and a 13-year-old daughter who was only 4 months old when he was arrested.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>During the trial, the defendants claimed they had spied as a way to defend Cuba from hardline anti-Castro groups in Miami they feared would attack the island.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="16">
+          <content>The case has been widely followed in Cuba, where the men were regarded as heroes and whose former leader, Fidel Castro, regularly advocated their release.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="17">
+          <content>Gonzalez was born on Chicago&amp;apost;s north side in 1956, but his parents brought him to their native Cuba in 1961 so that the family could join Castro&amp;apost;s revolution.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="18">
+          <content>U.S. authorities accused the Wasp Network of spying on an American naval base in Key West, Florida, and militant anti-Castro Cuban groups in Miami.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="19">
+          <content>Throughout Cuba, Gonzalez and the four other convicted spies are considered &amp;quot;political prisoners,&amp;quot; unjustly punished in American courts.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="20">
+          <content>They are known simply as &amp;quot;Los Cinco,&amp;quot; or the Cuban Five, and their faces appear on billboards.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="21">
+          <content>State-controlled Cuban media labels them &amp;quot;terrorism fighters&amp;quot; because they infiltrated Cuban-American groups in South Florida that the Cuban government alleges was bent on terrorizing the island in the 1990s.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="22">
+          <content>That era marked severe financial difficulties for Cuba because the country lost subsidies from the collapsed Soviet Union.</content>
+        </sentence>
+        <sentence id="23">
+          <content>The Cuban government renewed its tourism sector to bring in hard cash.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="24">
+          <content>But several Cuban tourist destinations were bombed during that decade, and the Castro regime lodged a protest with the United States over what it claimed were Cuban exiles in America financing the attacks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

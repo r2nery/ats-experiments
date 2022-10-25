@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1957" link="http://www.cnn.com/2013/12/03/us/new-york-train-crash-engineer-profile/index.html" date_published="2013-12-04 03:33:03" category="us" author="Nic Robertson, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>New York train crash: Who is William Rockefeller Jr.?</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">William Rockefeller Jr. is the man at the center of New York&amp;apost;s train derailment.</sentence>
+      <sentence id="2" ids_article_sentences="2">According to a union rep, he&amp;apost;s been a locomotive engineer for almost 11 years.</sentence>
+      <sentence id="3" ids_article_sentences="6, 5, 4">&amp;quot;He&amp;apost;s a man of a lot of character. He&amp;apost;s honest. He&amp;apost;s sincere,&amp;quot; the rep says.</sentence>
+      <sentence id="4" ids_article_sentences="21">Rockefeller&amp;apost;s lawyer says his client is married, with a stepson and granddaughter.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-05 01:20:31" annotation_time="70.919" mapping_time_divergence="35.4595">
+      <sentence id="1" ids_highlights="1">New York Details started to trickle out Tuesday about the engineer at the center of Sunday&amp;apost;s New York train derailment.</sentence>
+      <sentence id="2" ids_highlights="2">William Rockefeller Jr., or Billy, has worked as a locomotive engineer for almost 11 years, according to Anthony Bottalico, a union representative who has been meeting with the man.</sentence>
+      <sentence id="4" ids_highlights="3">&amp;quot;He&amp;apost;s a man of a lot of character.</sentence>
+      <sentence id="5" ids_highlights="3">He&amp;apost;s honest.</sentence>
+      <sentence id="6" ids_highlights="3">He&amp;apost;s sincere.</sentence>
+      <sentence id="21" ids_highlights="4">He said that Rockefeller worked as a volunteer firefighter and is married, with a stepson and a granddaughter.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>New York Details started to trickle out Tuesday about the engineer at the center of Sunday&amp;apost;s New York train derailment.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>William Rockefeller Jr., or Billy, has worked as a locomotive engineer for almost 11 years, according to Anthony Bottalico, a union representative who has been meeting with the man.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>He said Rockefeller started out as a janitor at Grand Central and &amp;quot;worked his way up.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>&amp;quot;He&amp;apost;s a man of a lot of character.</content>
+        </sentence>
+        <sentence id="5">
+          <content>He&amp;apost;s honest.</content>
+        </sentence>
+        <sentence id="6">
+          <content>He&amp;apost;s sincere.</content>
+        </sentence>
+        <sentence id="7">
+          <content>He&amp;apost;s never been disciplined, that I know of, on the railroad,&amp;quot; said Bottalico.</content>
+        </sentence>
+        <sentence id="8">
+          <content>&amp;quot;He&amp;apost;s got a great attitude and he comes to work every day, and everybody&amp;apost;s very proud and honored to work with him.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="9">
+          <content>The representative described Rockefeller, who is cooperating with authorities, as a good human being, a strong person and someone who goes out of his way for others.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;I think it takes a strong man to come down and ... be honest -- and that&amp;apost;s what Billy&amp;apost;s doing.</content>
+        </sentence>
+        <sentence id="11">
+          <content>That&amp;apost;s what strong men are.</content>
+        </sentence>
+        <sentence id="12">
+          <content>You know, strong men are people who can come out and tell it like it is, and, you know, be accountable.</content>
+        </sentence>
+        <sentence id="13">
+          <content>And that&amp;apost;s what Billy is,&amp;quot; said Bottalico.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="14">
+          <content>He also said Rockefeller apparently &amp;quot;was nodding off and caught himself too late&amp;quot; before the accident that killed four people and injured 67 others.</content>
+        </sentence>
+        <sentence id="15">
+          <content>The engineer has not been charged.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;I don&amp;apost;t believe that, in my opinion, that anybody could ever ... make Billy feel worse than he&amp;apost;s making himself feel today.</content>
+        </sentence>
+        <sentence id="17">
+          <content>So Billy feels terrible.</content>
+        </sentence>
+        <sentence id="18">
+          <content>Whether it was his fault or not his fault, it&amp;apost;s his train,&amp;quot; said Bottalico.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="19">
+          <content>Also speaking on the engineer&amp;apost;s behalf Tuesday was Rockefeller&amp;apost;s lawyer, Jeffrey Chartier.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="20">
+          <content>The attorney has met with his client, police and National Transportation Safety Board representatives.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="21">
+          <content>He said that Rockefeller worked as a volunteer firefighter and is married, with a stepson and a granddaughter.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;Billy&amp;apost;s a good man and, you know, I hope he can move forward from here,&amp;quot; said Bottalico.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

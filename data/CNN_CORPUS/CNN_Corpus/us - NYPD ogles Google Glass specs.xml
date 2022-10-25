@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1960" link="http://www.cnn.com/2014/02/08/us/nypd-google-glass/index.html" date_published="2014-02-08 16:35:36" category="us" author="Ray Sanchez, CNN" highlights_mapped="true" mapping_error="false">
+  <title>NYPD ogles Google Glass specs</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">NYPD experiments with two pair of Google Glass specs.</sentence>
+      <sentence id="2" ids_article_sentences="2">The head-mounted computers feed information directly to the eye-line of the wearer .</sentence>
+      <sentence id="3" ids_article_sentences="7">A North Carolina firefighter has developed a Google Glass app .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-09-08 23:09:59" annotation_time="16.771334">
+      <sentence id="1" ids_highlights="1">New York The New York Police Department has procured two pair of Google Glass specs, the experimental head-mounted computers, to determine possible applications to police work, the department said in a statement.</sentence>
+      <sentence id="2" ids_highlights="2">The technology feeds information directly to the eye-line of the wearer, potentially saving officers time from having to stop what they&amp;apost;re doing in order to reach for a radio, smartphone, tablet or computer.</sentence>
+      <sentence id="7" ids_highlights="3">Patrick Jackson, a computer-savvy firefighter in North Carolina, has developed a Google Glass app that he hopes to expand to include useful data such as information on specific buildings -- blueprints, potential building hazards and contact information for owners.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>New York The New York Police Department has procured two pair of Google Glass specs, the experimental head-mounted computers, to determine possible applications to police work, the department said in a statement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The technology feeds information directly to the eye-line of the wearer, potentially saving officers time from having to stop what they&amp;apost;re doing in order to reach for a radio, smartphone, tablet or computer.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;As part of an ongoing interest in the advancements in the field of technology, the NYPD regularly conducts reviews of various equipment, devices, programs and other consumer products for their potential application or utility in the area of policing,&amp;quot; Deputy Commissioner Stephen Davis said in a statement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>&amp;quot;In December of 2013, the Department obtained two pairs of Google Glass and has been evaluating these devices in an attempt to determine any possible useful applications,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="5">
+          <content>&amp;quot;The devices have not been deployed in any actual field or patrol operations, but rather are being assessed as to how they may be appropriately utilized or incorporated into any existing technology-based functions.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>The devices are already being used in other areas of public safety.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>Patrick Jackson, a computer-savvy firefighter in North Carolina, has developed a Google Glass app that he hopes to expand to include useful data such as information on specific buildings -- blueprints, potential building hazards and contact information for owners.</content>
+        </sentence>
+        <sentence id="8">
+          <content>A firefighter might be able to say an address out loud or simply look at a building with the Glass camera to retrieve information.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>Other fire departments across the United States have expressed interest in Jackson&amp;apost;s app.</content>
+        </sentence>
+        <sentence id="10">
+          <content>One hopes to link a thermal imaging camera to Glass customized to work with oxygen masks, giving firefighters partial vision through smoke and darkness.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>Glass can also record the first video when fire crews arrive in order to assist in investigations.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>Similarly, the device could potentially provide law enforcement officers instant information about suspects or be used to record audio and video of interactions with the public.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>The ability of Google Glass to snap photos and record video and audio has raised privacy concerns.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>Google Glass, worn like regular glasses, has a high-resolution display and lets wearers use voice commands to access features like e-mail, text messaging, Google Maps, Google search and a handful of other apps.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>The high-tech specs are not on the market yet and are available only through the Google&amp;apost;s Glass Explorer Program, which allows organizations or individuals to test the glasses for $1,500, according to Google&amp;apost;s website.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

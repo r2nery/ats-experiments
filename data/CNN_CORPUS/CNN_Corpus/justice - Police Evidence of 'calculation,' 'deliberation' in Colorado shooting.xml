@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="601" link="http://www.cnn.com/2012/07/21/justice/colorado-theater-shooting/index.html" date_published="2012-07-21 07:06:15" category="justice" author="Tom Watkins and Dana Ford, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Police: Evidence of &amp;apost;calculation,&amp;apost; &amp;apost;deliberation&amp;apost; in Colorado shooting</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="18">NEW: President Obama is scheduled to be in Colorado Sunday to visit victims&amp;apost; families.</sentence>
+      <sentence id="2" ids_article_sentences="41">NEW: &amp;quot;Who expects to be shot in a movie theater?&amp;quot; a survivor asks.</sentence>
+      <sentence id="3" ids_article_sentences="4">James E. Holmes received a high volume of deliveries the past four months, says police chief.</sentence>
+      <sentence id="4" ids_article_sentences="7">Chief Dan Oates on the suspect&amp;apost;s home: &amp;quot;Make no mistake. This apartment was designed ... to kill&amp;quot;.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-26 15:29:23" annotation_time="229.06433">
+      <sentence id="4" ids_highlights="3">Holmes received a high volume of deliveries over the past four months to both his home and work addresses, which police believe begins to explain how he got his hands on some of the materials used in the attack and those found at his apartment, said Aurora Police Chief Daniel Oates.</sentence>
+      <sentence id="7" ids_highlights="4">&amp;quot;Make no mistake,&amp;quot; said Oates, &amp;quot;this apartment was designed ... to kill.&amp;quot;</sentence>
+      <sentence id="18" ids_highlights="1">Also Sunday, President Barack Obama is expected to be in Aurora to meet with local officials and victims&amp;apost; families.</sentence>
+      <sentence id="41" ids_highlights="2">Who expects to be shot in a movie theater?</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The man police say opened fire inside a crowded Colorado movie theater may have been planning the attack for months, the local police chief told reporters Saturday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Suspect James E. Holmes, 24, is accused of killing 12 people and wounding 58 in the suburban Denver community of Aurora.</content>
+        </sentence>
+        <sentence id="3">
+          <content>He is also alleged to have rigged his apartment with booby traps so that whoever entered it would be seriously hurt or killed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Holmes received a high volume of deliveries over the past four months to both his home and work addresses, which police believe begins to explain how he got his hands on some of the materials used in the attack and those found at his apartment, said Aurora Police Chief Daniel Oates.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>&amp;quot;What we&amp;apost;re seeing here is evidence of, I think, some calculation and deliberation,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="6">
+          <content>&amp;quot;We have the evidence of a deliberative process to commit this assault, and we have the evidence of a deliberative process in his mind to attack whoever opened the door of his apartment.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;Make no mistake,&amp;quot; said Oates, &amp;quot;this apartment was designed ... to kill.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>Authorities continued Saturday making headway on the suspect&amp;apost;s home.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>Technicians, with the help of a robot, worked to handle traps, wires and possible explosive and incendiary devices, according to Jim Yacone, a special agent with the FBI who briefed reporters alongside Oates.</content>
+        </sentence>
+        <sentence id="10">
+          <content>Two devices were intentionally detonated at the site.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>The operation proceeded with an eye toward preserving evidence, all of which will be sent to an FBI lab in Quantico, Virginia, Yacone said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>By Saturday evening, police said that &amp;quot;all hazards&amp;quot; had been removed from the suspect&amp;apost;s apartment.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>Hundreds of residents were evacuated from five buildings, including the modest, three-story brick building where Holmes told police he had rigged his top-floor, one-bedroom apartment with explosives.</content>
+        </sentence>
+        <sentence id="14">
+          <content>All occupants except those who live in the suspect&amp;apost;s building were allowed to return home Saturday night, police said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="15">
+          <content>At least 26 victims of the shooting remained hospitalized Saturday -- nine in critical condition -- in five hospitals.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="16">
+          <content>Grief counselors were staffing area high schools.</content>
+        </sentence>
+        <sentence id="17">
+          <content>And the city is planning a vigil Sunday night.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="18">
+          <content>Also Sunday, President Barack Obama is expected to be in Aurora to meet with local officials and victims&amp;apost; families.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;I think that overall the community is very, very shaken, and I think we&amp;apost;re in shock and I think we&amp;apost;re still trying to get our arms around how did such a tragedy happen to us,&amp;quot; said Rhonda Fields, a Colorado state representative.</content>
+        </sentence>
+        <sentence id="20">
+          <content>&amp;quot;There&amp;apost;s a lot of hurt.</content>
+        </sentence>
+        <sentence id="21">
+          <content>There&amp;apost;s a lot of uncertainty.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="22">
+          <content>As the identities of those who died became public Saturday, Town Center at Aurora reopened for business, though its movie house -- Century Aurora 16 -- remained shuttered.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="23">
+          <content>Police Chief Oates said he hoped his officers would be out of the theater by Monday to allow the suspect&amp;apost;s defense team in there Tuesday.</content>
+        </sentence>
+        <sentence id="24">
+          <content>Theater owners could get the auditorium back Wednesday, he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="25">
+          <content>Investigators have said little about what may have led the suspect to open fire during a premiere Friday of the Batman sequel &amp;quot;The Dark Knight Rises.&amp;quot;</content>
+        </sentence>
+        <sentence id="26">
+          <content>The sold-out theater was filled with fans, some in costume.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="27">
+          <content>The incident began unfolding late Thursday, when Holmes bought a ticket to the midnight show and entered the theater, a law enforcement source involved in the investigation told CNN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="28">
+          <content>But Holmes soon went out a rear door leading from the theater to the parking lot, leaving it propped open, the source said.</content>
+        </sentence>
+        <sentence id="29">
+          <content>He gathered weapons before re-entering through the same door, said the source, who was not authorized to release the information.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="30">
+          <content>He was back inside the theater a few minutes after the movie had begun and was dressed head-to-toe in black, authorities said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="31">
+          <content>Witnesses described him as wearing a gas mask that concealed much of his face and head.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="32">
+          <content>Holmes&amp;apost; hair had been dyed red, and he later told police he was &amp;quot;the Joker,&amp;quot; according to a federal law enforcement source with knowledge of the investigation.</content>
+        </sentence>
+        <sentence id="33">
+          <content>The source was not authorized to release details to the media.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="34">
+          <content>The federal law enforcement source&amp;apost;s information about the suspect&amp;apost;s appearance fits with a statement made to reporters by New York Police Commissioner Ray Kelly, who said he had been briefed by Colorado authorities.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="35">
+          <content>Police Chief Oates declined to release details about Holmes&amp;apost; appearance other than to describe what he was wearing: a ballistic helmet and protective gear for his legs, throat and groin, black gloves and a gas mask.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="36">
+          <content>He said he would not release the booking photo &amp;quot;for investigative reasons.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="37">
+          <content>Police said Holmes set off two gas-emitting devices before spraying the theater with bullets from an AR-15 rifle, a 12-gauge shotgun and at least one of two .40-caliber handguns that police recovered.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="38">
+          <content>&amp;quot;There was blood everywhere,&amp;quot; Christina Blache, a shooting victim, told CNN&amp;apost;s Don Lemon from her hospital bed Saturday.</content>
+        </sentence>
+        <sentence id="39">
+          <content>Her friend was one of those killed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="40">
+          <content>&amp;quot;You&amp;apost;re sitting in a movie theater trying to watch a movie with your friends.</content>
+        </sentence>
+        <sentence id="41">
+          <content>Who expects to be shot in a movie theater?</content>
+        </sentence>
+        <sentence id="42">
+          <content>None of us did,&amp;quot; she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="43">
+          <content>Holmes had bought the guns legally at stores in the Denver area over the past two months, Oates said.</content>
+        </sentence>
+        <sentence id="44">
+          <content>More than 6,000 rounds of ammunition were also purchased online, according to the police chief.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="45">
+          <content>A receipt obtained by CNN shows Holmes bought some of the tactical gear, including a vest and a magazine pouch, online on July 2.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="46">
+          <content>Holmes surrendered without resistance within seven minutes of the first 911 calls from moviegoers, Oates said.</content>
+        </sentence>
+        <sentence id="47">
+          <content>He was arrested in the theater&amp;apost;s rear parking lot.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="48">
+          <content>&amp;quot;If you think we&amp;apost;re angry, we sure as hell are angry about what has happened to our city, what has happened to these wonderful people who live here, and also what he threatened to do to one of our police officers,&amp;quot; the police chief said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="49">
+          <content>The Joker has long been a fixture in Batman comics and was famously portrayed by Heath Ledger in 2008&amp;apost;s &amp;quot;The Dark Knight,&amp;quot; the predecessor to &amp;quot;The Dark Knight Rises.&amp;quot;</content>
+        </sentence>
+        <sentence id="50">
+          <content>Ledger, who died in 2008, won a posthumous Academy Award for his portrayal of the villain who encourages anarchists to take over Gotham City.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="34">
+      <sentences>
+        <sentence id="51">
+          <content>Holmes, who is being held in Arapahoe County Jail, is scheduled to appear in court on Monday morning.</content>
+        </sentence>
+        <sentence id="52">
+          <content>The court file was sealed, according to a court order.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="35">
+      <sentences>
+        <sentence id="53">
+          <content>Are you there?</content>
+        </sentence>
+        <sentence id="54">
+          <content>Share your story with CNN iReport and post tributes to the victims.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="933" link="http://www.cnn.com/2012/12/13/opinion/syria-unreported-refugees/index.html" date_published="2012-12-13 14:24:08" category="opinion" author="Penny Sims, Special to CNN" highlights_mapped="true" mapping_error="false">
+  <title>Refugee figures fail to give true picture of Syria crisis</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">More than 500,000 registered refugees from Syria war -- but actual number is &amp;apost;far higher&amp;apost;.</sentence>
+      <sentence id="2" ids_article_sentences="10">Refugees afraid registering with officials could bring repercussions on their families.</sentence>
+      <sentence id="3" ids_article_sentences="21">Red Crescent official: It is hard for some Syrians to consider themselves as aid recipients.</sentence>
+      <sentence id="4" ids_article_sentences="49">Winter is top concern, as many families fled their homes without blankets or jackets.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-02 19:17:21" annotation_time="41.114">
+      <sentence id="1" ids_highlights="1">The U.N. reports that half a million people have registered as refugees from the Syrian civil war -- but a recently returned Red Cross worker says the true figure is far higher because those fleeing are too scared to register.</sentence>
+      <sentence id="10" ids_highlights="2">Abdul is afraid that registering as a refugee from his own country could somehow bring repercussions for him or his family.</sentence>
+      <sentence id="21" ids_highlights="3">In some cases it is pride -- coming from an entirely self-sufficient country, it has been hard for some Syrians to consider themselves as aid recipients.</sentence>
+      <sentence id="49" ids_highlights="4">Winter was the top concern when I spoke to people near the border, as many families have fled without blankets or winter clothing.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The U.N. reports that half a million people have registered as refugees from the Syrian civil war -- but a recently returned Red Cross worker says the true figure is far higher because those fleeing are too scared to register.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>&amp;quot;I don&amp;apost;t want to register as a refugee.</content>
+        </sentence>
+        <sentence id="3">
+          <content>I&amp;apost;m afraid this could mean a problem for us when we go back to Syria.</content>
+        </sentence>
+        <sentence id="4">
+          <content>I don&amp;apost;t know how, but it could be a problem.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>These are the words of one Syrian farm worker I met in the northern region of Mafraq, near Jordan&amp;apost;s border with Syria.</content>
+        </sentence>
+        <sentence id="6">
+          <content>The worker, Abdul (whose name has been changed to protect his identity), is like thousands of refugees who have made their way across this border.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>Currently around 102,000 Syrians are registered with the U.N. High Commissioner for Refugees within Jordan, and another 41,000 have &amp;apost;appointments to register&amp;apost;.</content>
+        </sentence>
+        <sentence id="8">
+          <content>However, the Jordanian government estimates an additional 100,000 people have crossed the border.</content>
+        </sentence>
+        <sentence id="9">
+          <content>More than 500,000 refugees have registered in countries across the region, including Iraq and Turkey, but the true figure is likely to be much higher.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="10">
+          <content>Abdul is afraid that registering as a refugee from his own country could somehow bring repercussions for him or his family.</content>
+        </sentence>
+        <sentence id="11">
+          <content>Any sort of officialdom makes him wary, and like many Syrians who have made the crossing, photos are a no-no.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;I am scared for the families back home.</content>
+        </sentence>
+        <sentence id="13">
+          <content>Even registering makes us fearful.</content>
+        </sentence>
+        <sentence id="14">
+          <content>This is why we don&amp;apost;t want to be photographed,&amp;quot; he told me, making a throat-slitting gesture with his finger as he spoke.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="15">
+          <content>Abdul is not alone.</content>
+        </sentence>
+        <sentence id="16">
+          <content>There is some fearfulness around giving names or details to anyone official.</content>
+        </sentence>
+        <sentence id="17">
+          <content>Registering requires the head of the family to be photographed, and to give officials the names of family members.</content>
+        </sentence>
+        <sentence id="18">
+          <content>This is an entirely normal process during a refugee crisis.</content>
+        </sentence>
+        <sentence id="19">
+          <content>But after living through an atmosphere of terror and conflict, where people can disappear for little or no reason, some people understandably find it hard to adjust to normal levels of administration.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="20">
+          <content>There are other reasons why Syrians may not want to register.</content>
+        </sentence>
+        <sentence id="21">
+          <content>In some cases it is pride -- coming from an entirely self-sufficient country, it has been hard for some Syrians to consider themselves as aid recipients.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="22">
+          <content>Colleagues from the Red Crescent give examples of parents sending a child to collect aid when the father is too ashamed of the fact he cannot provide for his family.</content>
+        </sentence>
+        <sentence id="23">
+          <content>Similarly, some people within Syria actually rejected the first distributions of aid out of pride.</content>
+        </sentence>
+        <sentence id="24">
+          <content>Although after two years of conflict, that situation has of course changed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="25">
+          <content>Lack of registration makes refugees a lot harder to find.</content>
+        </sentence>
+        <sentence id="26">
+          <content>With less than one-fifth of Syrian refugees living in the official refugee camp in Jordan, the majority are living in rented accommodation, or with relatives in overcrowded housing.</content>
+        </sentence>
+        <sentence id="27">
+          <content>In Amman, Jordan, it is not unusual to come across two, three or even four families sharing a one-bedroom apartment.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="28">
+          <content>The plight of urban refugees is a huge and under-reported issue.</content>
+        </sentence>
+        <sentence id="29">
+          <content>As people&amp;apost;s money begins to run out, some families are now in danger of eviction.</content>
+        </sentence>
+        <sentence id="30">
+          <content>Additionally, some unscrupulous landlords have put up the rent for winter, knowing this is the worst time for families to become homeless.</content>
+        </sentence>
+        <sentence id="31">
+          <content>Some families have spent cold nights sleeping outdoors, in gardens.</content>
+        </sentence>
+        <sentence id="32">
+          <content>Eventually, in desperation, they have borrowed money to pay the exorbitant rent just to get a roof over their heads.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="33">
+          <content>In Mafraq, Jordan, there are also refugees living outside of the official camps in their own tents, scattered across the countryside.</content>
+        </sentence>
+        <sentence id="34">
+          <content>The local branch of the Jordanian Red Crescent rely on local information, and go out in their own cars or in taxis to find people who may need help.</content>
+        </sentence>
+        <sentence id="35">
+          <content>Gaining people&amp;apost;s trust is hard.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="36">
+          <content>Ali Shdeifat, the head of Mafraq Red Crescent, said: &amp;quot;There are a huge number of Syrians living here but they may not have registered.</content>
+        </sentence>
+        <sentence id="37">
+          <content>Some have fear of giving their names.</content>
+        </sentence>
+        <sentence id="38">
+          <content>Life is harder for them outside the camp, but this is what they choose.</content>
+        </sentence>
+        <sentence id="39">
+          <content>We can&amp;apost;t reach everyone across the 1,000 square miles of Mafraq -- we know there are more people who need help ... these people are in need, but also I know they are scared.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="40">
+          <content>Gradually, after explaining the position of the Red Cross Red Crescent as a neutral, non-religious humanitarian agency, it has been possible to gain people&amp;apost;s trust and register some refugees locally.</content>
+        </sentence>
+        <sentence id="41">
+          <content>But there are many thousands falling through the net.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="42">
+          <content>As well as facing escalating rents and dwindling resources, these unregistered refugees are also coping with the psychological after-effects of conflict.</content>
+        </sentence>
+        <sentence id="43">
+          <content>In one suburb of Amman, the Jordanian Red Crescent have had 300 Syrians sign up for psycho-social support within just two months.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="44">
+          <content>Noura, one of the social workers, told me: &amp;quot;Some children, when they hear a flight overhead, they duck, or run and hide -- this is what they have learned from their environment.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="45">
+          <content>&amp;quot;We do outreach work to find people who may need our help, and we have open days too.</content>
+        </sentence>
+        <sentence id="46">
+          <content>After outreach work sometimes I feel really down -- there is still so much to do.</content>
+        </sentence>
+        <sentence id="47">
+          <content>There are more cases out there.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="48">
+          <content>With the cold weather setting in, locating refugees in the countries neighboring Syria -- and getting them the help they need -- is becoming increasingly urgent.</content>
+        </sentence>
+        <sentence id="49">
+          <content>Winter was the top concern when I spoke to people near the border, as many families have fled without blankets or winter clothing.</content>
+        </sentence>
+        <sentence id="50">
+          <content>Already nights are bitterly cold, and it&amp;apost;s not unusual for some areas to reach freezing or below freezing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="51">
+          <content>Red Cross and Red Crescent convoys are on their way into Syria with additional winter aid, and a &amp;quot;winterization package&amp;quot;of electric heaters, high-thermal blankets and tarpaulins will be distributed via the Turkish Red Crescent to three camps on the border.</content>
+        </sentence>
+        <sentence id="52">
+          <content>But the refugee crisis continues to grow day-by-day, and much more help will be needed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="53">
+          <content>To donate to the British Red Cross Syria Crisis Appeal, which supports people both within Syria and the border countries, please click here.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

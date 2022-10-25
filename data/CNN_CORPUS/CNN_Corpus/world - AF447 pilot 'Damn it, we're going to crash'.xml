@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2047" link="http://www.cnn.com/2011/10/14/world/americas/af447-transcript/index.html" date_published="2011-10-14 15:08:10" category="world" author="Dave Gilbert, CNN" highlights_mapped="true" mapping_error="false">
+  <title>AF447 pilot: &amp;apost;Damn it, we&amp;apost;re going to crash&amp;apost;</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">The data comes from flight recorders that lay on the sea bed for nearly two years.</sentence>
+      <sentence id="2" ids_article_sentences="6">The book &amp;quot;Erreurs de Pilotage&amp;quot; (Pilot Error) details the last two minutes of flight.</sentence>
+      <sentence id="3" ids_article_sentences="13">The BEA and Air France have both condemned publication of the transcript.</sentence>
+      <sentence id="4" ids_article_sentences="13">They say it shows a lack of respect for the victims.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-06 20:41:23" annotation_time="34.898">
+      <sentence id="3" ids_highlights="1">Data from the flight recorders that were recovered after nearly two years on the sea bed previously revealed clues about why the plane crashed on its way to France from Brazil.</sentence>
+      <sentence id="6" ids_highlights="2">But in a new book called &amp;quot;Erreurs de Pilotage&amp;quot; (Pilot Error) by aeronautics expert Jean Pierre Otelli, fresh material from the last two minutes of the flight as captured by the cockpit voice recorder reveals the panic-stricken conversations of the confused pilots.</sentence>
+      <sentence id="13" ids_highlights="3, 4">The BEA has strongly condemned the disclosure of the transcript, which it says is a violation of European regulations and shows a lack of respect for the late crew members.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Harrowing new details have emerged from the last moments of Air France Flight 447 which crashed into the Atlantic in June 2009, killing all 228 passengers and crew.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>New extracts from the cockpit voice recorder reveal that three seconds before impact, one of the crew exclaimed: &amp;quot;Damn it, we&amp;apost;re going to crash, this can&amp;apost;t be true!&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Data from the flight recorders that were recovered after nearly two years on the sea bed previously revealed clues about why the plane crashed on its way to France from Brazil.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>France&amp;apost;s Bureau of Investigation and Analysis, the BEA, has said the crisis began after problems arose with the Airbus A330&amp;apost;s devices that measure its speed, and disconnection of the autopilot.</content>
+        </sentence>
+        <sentence id="5">
+          <content>It also said the recorders revealed that the pilots failed to discuss repeated stall warnings.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>But in a new book called &amp;quot;Erreurs de Pilotage&amp;quot; (Pilot Error) by aeronautics expert Jean Pierre Otelli, fresh material from the last two minutes of the flight as captured by the cockpit voice recorder reveals the panic-stricken conversations of the confused pilots.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>The plane plunged 38,000 feet in just three minutes and 30 seconds but the recording -- as reported in the book -- illustrates that the crew didn&amp;apost;t understand why the plane was not responding.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>In one extract, a co-pilot says: &amp;quot;Climb, climb, climb.&amp;quot;</content>
+        </sentence>
+        <sentence id="9">
+          <content>But his colleague answers: &amp;quot;But I&amp;apost;ve been pulling back on the stick for a while now.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>In a computer-generated voice, the plane&amp;apost;s warning system keeps repeating the word &amp;quot;Stall!&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>The captain warns: &amp;quot;Watch out, you are pulling up.&amp;quot;</content>
+        </sentence>
+        <sentence id="12">
+          <content>A co-pilot replies: &amp;quot;Am I pulling up?&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>The BEA has strongly condemned the disclosure of the transcript, which it says is a violation of European regulations and shows a lack of respect for the late crew members.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;Any attempt at interpretation at this stage is partial and, as a result, can only fan the flames of the controversies of the last few months, which is harmful to all concerned,&amp;quot; it said in a statement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>Air France has also reacted to what it calls &amp;quot;sensationalized and unverifiable information,&amp;quot; which it says &amp;quot;impairs the memory of the crew and passengers who lost their lives.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="16">
+          <content>CNN&amp;apost;s aviation correspondent Richard Quest says the material gives a &amp;quot;dramatic insight into what was happening&amp;quot; but adds that it doesn&amp;apost;t add anything new to the ongoing investigation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="17">
+          <content>He also says the inquiry poses questions about how difficult modern airliners are to fly in extreme situations.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="18">
+          <content>The Air France statement says further work is necessary on what it calls the &amp;quot;delicate issue of human-machine interface.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="19">
+          <content>The BEA has already issued 10 new safety recommendations, including ensuring extra training for pilots on manual handling of a high-altitude stall, and says new safety recommendations will be issued in the final report on the accident, due to be published in June next year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

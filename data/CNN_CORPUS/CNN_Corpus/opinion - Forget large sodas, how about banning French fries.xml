@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="804" link="http://www.cnn.com/2012/06/04/opinion/pereira-large-drinks/index.html" date_published="2012-06-04 11:37:49" category="opinion" author="Mark A. Pereira, Special to CNN" highlights_mapped="true" mapping_error="false">
+  <title>Forget large sodas, how about banning French fries?</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">Mayor Bloomberg of New York City plans to ban sale of large sugary drinks.</sentence>
+      <sentence id="2" ids_article_sentences="39">Mark Pereira: A ban based on shaky science may be setting us up for disappointment .</sentence>
+      <sentence id="3" ids_article_sentences="5">Why target a single dietary factor among so many unhealthy foods and drinks, he asks.</sentence>
+      <sentence id="4" ids_article_sentences="31">Pereira: Eating French fries seems to have more effect on weight gain .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-31 11:03:51" annotation_time="72.875336">
+      <sentence id="3" ids_highlights="1">He&amp;apost;s planning to ban the sale of sugary drinks 16 ounces or larger in public venues such as restaurants and movie theaters.</sentence>
+      <sentence id="5" ids_highlights="3">But the bigger question is: What&amp;apost;s the rationale behind targeting a single dietary factor in the sea of unhealthy foods and drinks that barrage us every day?</sentence>
+      <sentence id="31" ids_highlights="4">Especially since the floodgates are open for selling enormous sizes of French fries and bacon double cheeseburgers, which seem to have more effect on weight gain.</sentence>
+      <sentence id="39" ids_highlights="2">However, the high profile targeting of a single dietary factor, based on shaky obesity science, may be setting us up for disappointment if there is no measurable public health impact.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Smart policies are essential to America&amp;apost;s &amp;quot;war on obesity.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The latest idea in that fight is a curious proposal from Mayor Michael Bloomberg of New York City.</content>
+        </sentence>
+        <sentence id="3">
+          <content>He&amp;apost;s planning to ban the sale of sugary drinks 16 ounces or larger in public venues such as restaurants and movie theaters.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Critics are crying that the move is an infringement on personal freedom.</content>
+        </sentence>
+        <sentence id="5">
+          <content>But the bigger question is: What&amp;apost;s the rationale behind targeting a single dietary factor in the sea of unhealthy foods and drinks that barrage us every day?</content>
+        </sentence>
+        <sentence id="6">
+          <content>Is it scientifically sound?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>A typical 16-ounce soft drink contains about 180 calories, nearly all from sugar.</content>
+        </sentence>
+        <sentence id="8">
+          <content>It doesn&amp;apost;t contain any fat.</content>
+        </sentence>
+        <sentence id="9">
+          <content>While Bloomberg&amp;apost;s ban will make it illegal to sell large-sized sugary drinks, it&amp;apost;s perfectly legal to sell plenty of other beverages (milkshakes, anyone?).</content>
+        </sentence>
+        <sentence id="10">
+          <content>and foods (how about some ice cream?).</content>
+        </sentence>
+        <sentence id="11">
+          <content>that pack far more calories per amount served as well as very high levels of fat, sodium or other laboratory-engineered chemicals.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="12">
+          <content>And what about the typical meal that goes along with a soft drink?</content>
+        </sentence>
+        <sentence id="13">
+          <content>A fast food meal contains tons of calories and is loaded with ingredients that are known to increase risks for diabetes and cardiovascular diseases.</content>
+        </sentence>
+        <sentence id="14">
+          <content>And, it is consumed in a matter of minutes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="15">
+          <content>If Bloomberg&amp;apost;s ban goes into effect, fast food restaurants can easily game his policy by offering a regularly portioned sugary drink that will likely come with free refills.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="16">
+          <content>Many academic scientists in the field of obesity prevention support Bloomberg&amp;apost;s efforts.</content>
+        </sentence>
+        <sentence id="17">
+          <content>After all, the track record looks good.</content>
+        </sentence>
+        <sentence id="18">
+          <content>New York City hit a home run when it banned the use of hydrogenated vegetable oils in restaurants.</content>
+        </sentence>
+        <sentence id="19">
+          <content>Granted, scientific evidence have consistently showed that these cooking oils are hazardous to health.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="20">
+          <content>Experts have claimed that sugary drinks are a leading cause of obesity.</content>
+        </sentence>
+        <sentence id="21">
+          <content>If you make it more difficult for people to consume excessive amounts of these drinks, then shouldn&amp;apost;t we see a drop in obesity?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="22">
+          <content>It seems so simple on the surface, but it&amp;apost;s not.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="23">
+          <content>Obesity is the result of an extremely complex interplay of factors, including dietary habits, environment, genes, etc.</content>
+        </sentence>
+        <sentence id="24">
+          <content>One of the best studies available, appearing last year in The New England Journal of Medicine, tells a more complicated picture.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="25">
+          <content>The study shows that if you increase drinking sugary beverages by one serving per day, it will lead you to gain an additional pound of body weight over four years.</content>
+        </sentence>
+        <sentence id="26">
+          <content>A similar amount of weight would be gained from eating an additional serving of red or processed meat daily for four years.</content>
+        </sentence>
+        <sentence id="27">
+          <content>But when it comes to potato chips, there seems to be a stronger relationship with weight gain (1.65 pounds).</content>
+        </sentence>
+        <sentence id="28">
+          <content>And French fries blew away the numbers (3.65 pounds).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="29">
+          <content>Does this look like good scientific evidence for banning the sale of large portions of soft drinks?</content>
+        </sentence>
+        <sentence id="30">
+          <content>Not really.</content>
+        </sentence>
+        <sentence id="31">
+          <content>Especially since the floodgates are open for selling enormous sizes of French fries and bacon double cheeseburgers, which seem to have more effect on weight gain.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="32">
+          <content>We can argue about whether a change in body weight of a quarter of a pound per year is meaningful and how much faith we can put in these studies of self-reported diet.</content>
+        </sentence>
+        <sentence id="33">
+          <content>But there have been no authoritative research showing whether consuming sugary drinks is directly linked to a rise in obesity.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="34">
+          <content>So, there is really no way to draw any conclusions about the scientific basis for Bloomberg&amp;apost;s ban.</content>
+        </sentence>
+        <sentence id="35">
+          <content>It&amp;apost;s guesswork for all we know.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="36">
+          <content>The proposal does represent a baby step into uncharted waters that should be navigated.</content>
+        </sentence>
+        <sentence id="37">
+          <content>A policy aimed at changing people&amp;apost;s level of portion size couldn&amp;apost;t hurt in our national struggle to reduce obesity.</content>
+        </sentence>
+        <sentence id="38">
+          <content>If people are going to the drive-through to pick up a fast meal and the large drink they&amp;apost;re getting is no longer as large, then they would be consuming a little bit less sugar than they would otherwise.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="39">
+          <content>However, the high profile targeting of a single dietary factor, based on shaky obesity science, may be setting us up for disappointment if there is no measurable public health impact.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

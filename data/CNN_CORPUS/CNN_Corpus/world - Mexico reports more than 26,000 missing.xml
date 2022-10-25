@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2435" link="http://edition.cnn.com/2013/02/26/world/americas/mexico-disappeared/index.html" date_published="2013-02-26 22:48:22" category="world" author="Catherine E. Shoichet, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Mexico reports more than 26,000 missing</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Mexico&amp;apost;s interior minister says 26,121 people disappeared from 2006-2012.</sentence>
+      <sentence id="2" ids_article_sentences="2">It&amp;apost;s unclear how many of the disappearances are connected with organized crime.</sentence>
+      <sentence id="3" ids_article_sentences="5">Official: Locating people &amp;quot;is a priority for this government&amp;quot;.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-11 18:04:32" annotation_time="69.25199" mapping_time_divergence="23.083998">
+      <sentence id="1" ids_highlights="1">More than 26,000 people have gone missing in Mexico over the past six years as violence surged and the country&amp;apost;s government cracked down on drug cartels.</sentence>
+      <sentence id="2" ids_highlights="2">Mexico&amp;apost;s Interior Ministry announced the staggering statistic on Tuesday but noted that authorities don&amp;apost;t have data about how many of the disappearances are connected with organized crime.</sentence>
+      <sentence id="5" ids_highlights="3">Locating people &amp;quot;is a priority for this government,&amp;quot; Limon told reporters.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>More than 26,000 people have gone missing in Mexico over the past six years as violence surged and the country&amp;apost;s government cracked down on drug cartels.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Mexico&amp;apost;s Interior Ministry announced the staggering statistic on Tuesday but noted that authorities don&amp;apost;t have data about how many of the disappearances are connected with organized crime.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The 26,121 disappearances occurred during former President Felipe Calderon&amp;apost;s six-year administration, which ended on December 1 when Enrique Pena Nieto assumed the presidency.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>Pena Nieto&amp;apost;s government has formed a special working group to focus on finding the missing, said Lia Limon, deputy secretary of legal matters and human rights for Mexico&amp;apost;s Interior Ministry.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>Locating people &amp;quot;is a priority for this government,&amp;quot; Limon told reporters.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>The release of the government statistics Tuesday comes several days after a report from Human Rights Watch said Mexican security forces were connected with the disappearances of at least 149 people during Calderon&amp;apost;s tenure.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;President Pena Nieto has inherited one of worst crises of disappearances in the history of Latin America,&amp;quot; Jose Miguel Vivanco, the organization&amp;apost;s Americas director, said in a statement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="8">
+          <content>In the northern Mexican state of Coahuila alone, officials reported nearly 2,000 disappearances between 2006 and 2012, Human Rights Watch said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="9">
+          <content>Rights groups and activists have long said that forced disappearances are among the most troubling problems Mexico faces and have cautioned that reliable statistics are hard to come by because many such cases are unreported.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="10">
+          <content>Limon said Tuesday that the data federal authorities have don&amp;apost;t specify what caused the disappearances.</content>
+        </sentence>
+        <sentence id="11">
+          <content>She said the list could include people who have emigrated out of the country or fled because of family conflicts, in addition to people who were kidnapped.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="12">
+          <content>Authorities will need several weeks to release data about the number of disappearances since Pena Nieto took office, she said, due to &amp;quot;inconsistencies&amp;quot; in the data.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="13">
+          <content>Critics have accused Mexico&amp;apost;s government of not doing enough to find the missing and punish those responsible.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="14">
+          <content>In many instances, families frustrated with a sluggish response from authorities have searched themselves for missing loved ones.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="15">
+          <content>In October 2011, Calderon said the &amp;quot;very high&amp;quot; number of missing people was a growing concern.</content>
+        </sentence>
+        <sentence id="16">
+          <content>He listed them among the victims of violence that he described as &amp;quot;open wounds&amp;quot; in Mexican society.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;We don&amp;apost;t know the size of the problem,&amp;quot; the president said during a speech inaugurating a new prosecutor&amp;apost;s office aimed at helping victims.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="18">
+          <content>Human Rights Watch said last week that it sees a ray of hope in the new administration.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;The Pena Nieto government has been very open so far about acknowledging the scale of the problem and the work that remains for them,&amp;quot; said Nik Steinberg, a Mexico researcher for the organization.</content>
+        </sentence>
+        <sentence id="20">
+          <content>&amp;quot;The real question will be: are they ready to investigate and prosecute these cases?&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

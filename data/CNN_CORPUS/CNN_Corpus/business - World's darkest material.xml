@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="152" link="http://edition.cnn.com/2014/07/17/business/worlds-darkest-marterial/index.html?hpt=hp_bn1" date_published="2014-07-17 09:45:21" category="business" author="James Frater, CNN" highlights_mapped="true" mapping_error="false">
+  <title>World&amp;apost;s darkest material</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">A British nanotech company has created what it says is the world&amp;apost;s darkest material.</sentence>
+      <sentence id="2" ids_article_sentences="5">Vantablack is designed by Surrey NanoSystems and absorbs 99.96% of all light that hits it.</sentence>
+      <sentence id="3" ids_article_sentences="16">It&amp;apost;s designed to help air-borne cameras and infrared scanning systems work more efficiently.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-09-06 09:00:23" annotation_time="87.001335">
+      <sentence id="3" ids_highlights="1">A British nanotech company has created what it says is the world&amp;apost;s darkest material.</sentence>
+      <sentence id="5" ids_highlights="2">Vantablack, made out of carbon nanotubes, is designed by Surrey NanoSystems and absorbs 99.96% of all light that hits it.</sentence>
+      <sentence id="16" ids_highlights="3">Instead, the material is designed to help air-borne cameras, telescopes and infrared scanning systems work more efficiently by reducing stray light.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Forget the new black.</content>
+        </sentence>
+        <sentence id="2">
+          <content>This is the real black.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>A British nanotech company has created what it says is the world&amp;apost;s darkest material.</content>
+        </sentence>
+        <sentence id="4">
+          <content>It is so dark the human eye can&amp;apost;t discern its shape and form, creating what has been called a black hole.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>Vantablack, made out of carbon nanotubes, is designed by Surrey NanoSystems and absorbs 99.96% of all light that hits it.</content>
+        </sentence>
+        <sentence id="6">
+          <content>Conventional black, such as black paint or fabric, absorbs between 95% and 98% of light.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>The company says Vantablack was the darkest material ever tested by the National Physical Laboratory in the UK, as well as the Institute of Standards and Technology in the U.S.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>The material is made up of millions of carbon nanotubes, each measuring two or three nanometers -- or roughly one millionth of a millimeter.</content>
+        </sentence>
+        <sentence id="9">
+          <content>It is grown on aluminium foil.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>Creases and bumps on the foil are easily picked up by the human eye.</content>
+        </sentence>
+        <sentence id="11">
+          <content>But once covered with Vantablack, all wrinkles and roughness seem to disappear.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;Some people describe it as a hole, because there is literally not enough light coming from the surface to allow the eye to discern the contours that are in that foil,&amp;quot; Surrey NanoSystem&amp;apost;s Steve Northam told CNN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>Sound like the ultimate slimming little black dress?</content>
+        </sentence>
+        <sentence id="14">
+          <content>Actually, no.</content>
+        </sentence>
+        <sentence id="15">
+          <content>A Vantablack dress would render the curves and contours of the human body invisible and cause &amp;quot;the wearer to look like a two-dimensional cardboard cut out,&amp;quot; Northam said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="16">
+          <content>Instead, the material is designed to help air-borne cameras, telescopes and infrared scanning systems work more efficiently by reducing stray light.</content>
+        </sentence>
+        <sentence id="17">
+          <content>Military clients are lining up to buy it, as is the space industry.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="18">
+          <content>The benefits, Northam said, are that &amp;quot;your systems can see fainter objects further away, you improve the sensitivity and you improve the signal to noise ratio in these systems.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="19">
+          <content>The material, whose development was backed by the UK&amp;apost;s Technology Strategy Board, was launched at this year&amp;apost;s Farnborough Airshow in southern England.</content>
+        </sentence>
+        <sentence id="20">
+          <content>According to Ben Jensen, chief technology officer of Surrey NanoSystems, it was a &amp;quot;major breakthrough by UK industry in the application of nanotechnology to optical instrumentation.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="21">
+          <content>So far, Surrey NanoSystems has only grown Vantablack on foil.</content>
+        </sentence>
+        <sentence id="22">
+          <content>It plans to grow it different materials and on three dimensional shapes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="23">
+          <content>Read more: Britain&amp;apost;s spaceport ambitions revealed Farnborough Airshow: Airbus unveils revamped A330 airliner.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

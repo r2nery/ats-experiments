@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="850" link="http://www.cnn.com/2013/06/18/opinion/mills-jfk-berlin-speech" date_published="2013-06-18 11:42:44" category="opinion" author="Nicolaus Mills, Special to CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Opinion: 50 years after JFK&amp;apost;s &amp;apost;Ich bin ein Berliner&amp;apost;</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">President Obama is to give a speech in Berlin on transatlantic alliance.</sentence>
+      <sentence id="2" ids_article_sentences="6">It comes on the eve of anniversary of JFK&amp;apost;s famous Berlin speech.</sentence>
+      <sentence id="3" ids_article_sentences="33">Kennedy used the occasion to signal his solidarity with people of West Berlin.</sentence>
+      <sentence id="4" ids_article_sentences="21">Nicolaus Mills says JFK&amp;apost;s overriding point was: When one is enslaved, all of us are not free.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-01 14:41:57" annotation_time="187.60799" mapping_time_divergence="93.80399">
+      <sentence id="1" ids_highlights="1">The White House has announced that on Wednesday, at the invitation of German Chancellor Angela Merkel, President Obama will speak in Berlin at the city&amp;apost;s landmark Brandenburg Gate.</sentence>
+      <sentence id="6" ids_highlights="2">June 26 marks the 50th anniversary of President John F. Kennedy&amp;apost;s famous &amp;quot;Ich bin ein Berliner&amp;quot; speech, praising the citizens of West Berlin for their refusal to be intimidated by the massive East German-built wall that since 1961 had divided their city.</sentence>
+      <sentence id="21" ids_highlights="4">His words paid tribute to those Germans trapped in a divided Berlin, but his overriding point was, &amp;quot;Freedom is indivisible, and when one man is enslaved, all are not free.&amp;quot;</sentence>
+      <sentence id="33" ids_highlights="3">Berlin was a different story in terms of its popular impact and a sign that Kennedy was becoming increasingly sophisticated in using his personal popularity to promote policy change.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The White House has announced that on Wednesday, at the invitation of German Chancellor Angela Merkel, President Obama will speak in Berlin at the city&amp;apost;s landmark Brandenburg Gate.</content>
+        </sentence>
+        <sentence id="2">
+          <content>The president&amp;apost;s subject will be the transatlantic alliance and the enduring bonds between the United States and Germany.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>Berlin comes as a welcome relief for Obama.</content>
+        </sentence>
+        <sentence id="4">
+          <content>It gives him a chance to put aside for the moment the difficulties he is having in the Middle East and with the National Security Agency spying scandal.</content>
+        </sentence>
+        <sentence id="5">
+          <content>The president&amp;apost;s Berlin appearance also reminds us that he is following in historic footsteps.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="6">
+          <content>June 26 marks the 50th anniversary of President John F. Kennedy&amp;apost;s famous &amp;quot;Ich bin ein Berliner&amp;quot; speech, praising the citizens of West Berlin for their refusal to be intimidated by the massive East German-built wall that since 1961 had divided their city.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>The reaction of the crowd listening to Kennedy address them in front of West Berlin&amp;apost;s City Hall was so overwhelming that, on the plane leaving Germany, he remarked to his aide, Ted Sorensen, who had written most of his speech, &amp;quot;We&amp;apost;ll never have another day like this one as long as we live.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>Kennedy is always given style points for his Berlin speech because of its easy-to-remember rhetoric.</content>
+        </sentence>
+        <sentence id="9">
+          <content>But the speech is worth recalling today because it amounted to such a profound pivot away from the prevailing nuclear logic of the Cold War.</content>
+        </sentence>
+        <sentence id="10">
+          <content>In Berlin, Kennedy recast how he believed the Cold War should be waged in the future in a way that made his thinking clear to the European and American public.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="11">
+          <content>For Kennedy, the chance to speak near the Berlin Wall two years after it was built was a major opportunity to redefine his foreign policy leadership.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>In his 1961 Vienna summit meeting with Soviet premier Nikita Khrushchev, Kennedy had gotten off to a rocky start.</content>
+        </sentence>
+        <sentence id="13">
+          <content>In 1962, during the Cuban missile crisis, he had regained his footing.</content>
+        </sentence>
+        <sentence id="14">
+          <content>He had resisted calls by some of the Joint Chiefs of Staff for a massive airstrike against Cuba and made sure he and the Soviets avoided backing each other into a nuclear exchange.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="15">
+          <content>In Berlin, Kennedy showed that he had learned from both confrontations.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Instead of treating the Cold War as simply a battle over which side had the most military power and the will to use it, he framed it as a battle that also included the fate of captive peoples and their right to self-determination.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="17">
+          <content>It was an emphasis that would bear fruit in the Prague spring of 1968, in Poland&amp;apost;s Solidarity movement and finally in Ronald Reagan&amp;apost;s 1987 Brandenburg Gate speech with its memorable line, &amp;quot;Mr. Gorbachev, tear down this wall!&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="18">
+          <content>Kennedy&amp;apost;s rhetoric in Berlin was equal to his good intentions.</content>
+        </sentence>
+        <sentence id="19">
+          <content>&amp;quot;Two thousand years ago, the proudest boast was &amp;apost;civis Romanus sum&amp;apost; (&amp;quot;I am a Roman citizen&amp;quot;).</content>
+        </sentence>
+        <sentence id="20">
+          <content>Today, in the world of freedom the proudest boast is &amp;apost;Ich bin ein Berliner,&amp;apost; &amp;quot; Kennedy declared.</content>
+        </sentence>
+        <sentence id="21">
+          <content>His words paid tribute to those Germans trapped in a divided Berlin, but his overriding point was, &amp;quot;Freedom is indivisible, and when one man is enslaved, all are not free.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="22">
+          <content>Kennedy was doing the opposite of saber-rattling.</content>
+        </sentence>
+        <sentence id="23">
+          <content>He was updating the ideas behind the Declaration of Independence so they spoke directly to contemporary Europe.</content>
+        </sentence>
+        <sentence id="24">
+          <content>When his audience heard Kennedy&amp;apost;s words, they were reminded of the Berlin Airlift of 1948, in which America responded to the Soviet ground blockade of West Berlin with an airlift that brought West Berliners the food and supplies they needed without U.S. troops firing a shot.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="25">
+          <content>Earlier in June 1963, Kennedy had established the groundwork for his Berlin speech with an address he gave at American University in Washington.</content>
+        </sentence>
+        <sentence id="26">
+          <content>There, he spoke about establishing the conditions for an &amp;quot;attainable peace&amp;quot; that was neither a Pax Americana nor a peace of the grave.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="27">
+          <content>The Soviet Union, Kennedy cautioned, needed to abandon its distorted view of an America ready to unleash a preventative nuclear war, but at the same time America needed to make sure that it did not fall into the same trap as the Soviets by seeing Russia through a distorted ideological lens.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="28">
+          <content>Ever the practical politician, Kennedy conceded that he had no &amp;quot;magic formula&amp;quot; for bringing about such a change in the world&amp;apost;s two superpowers, but it was possible, he concluded, to debate the Cold War without each side making new threats.</content>
+        </sentence>
+        <sentence id="29">
+          <content>&amp;quot;We can seek a relaxation of tensions without relaxing our guard,&amp;quot; he insisted.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="30">
+          <content>Today, the American University speech is widely praised, but at the time, the speech was seen primarily as a policy statement.</content>
+        </sentence>
+        <sentence id="31">
+          <content>The public reaction to the speech was minimal.</content>
+        </sentence>
+        <sentence id="32">
+          <content>One day later, the American University proposals were replaced as a front-page story by the highly charged racial confrontation between the Kennedy administration and Alabama Gov. George Wallace over the admission of two African-American students to the formerly all-white University of Alabama.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="33">
+          <content>Berlin was a different story in terms of its popular impact and a sign that Kennedy was becoming increasingly sophisticated in using his personal popularity to promote policy change.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="34">
+          <content>In Berlin, the still-young president took advantage of being on the global stage to make it easier for friend and foe alike to see him as a leader eager to steer America and the world away from nuclear confrontation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="35">
+          <content>His efforts were not wasted.</content>
+        </sentence>
+        <sentence id="36">
+          <content>Two months after his Berlin speech, the United States, Great Britain and the Soviet Union signed the Limited Nuclear Test Ban Treaty, the first such agreement since atomic bombs were dropped on Hiroshima and Nagasaki.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="37">
+          <content>Follow @CNNOpinion on Twitter.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="38">
+          <content>Join us at Facebook/CNNOpinion.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

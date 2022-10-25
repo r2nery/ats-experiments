@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1578" link="http://edition.cnn.com/2014/10/03/tech/innovation/second-blood-moon/index.html" date_published="2014-10-03 05:25:18" category="tech" author="Ben Brumfield, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Blood moon returns; tetrad sequence of four continues</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">A lunar eclipse will turn the moon a burnt reddish orange.</sentence>
+      <sentence id="2" ids_article_sentences="5">This blood moon will be the size of a super moon, 5.3% larger than the last blood moon.</sentence>
+      <sentence id="3" ids_article_sentences="6">It will be the second in a sequence of four -- called a tetrad.</sentence>
+      <sentence id="4" ids_article_sentences="8, 20">Tetrads can be rare; for a 300-year stretch, there were none.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-27 17:24:01" annotation_time="20.68">
+      <sentence id="3" ids_highlights="1">If you live in the western half of the United States, you&amp;apost;ll have a front-row seat on a lunar eclipse that will turn the moon a burnt reddish orange for about an hour Wednesday, creating the second blood moon in relatively short succession.</sentence>
+      <sentence id="5" ids_highlights="2">Because it happens right after the perigee, the closest point to Earth in the moon&amp;apost;s orbit, this blood moon will be nearly the size of a super moon -- appearing 5.3% larger than the previous blood moon on April 15.</sentence>
+      <sentence id="6" ids_highlights="3">It will be the second in a sequence of four -- called a tetrad -- that are occurring in roughly six-month intervals.</sentence>
+      <sentence id="8" ids_highlights="4">Tetrad a rare treat.</sentence>
+      <sentence id="20" ids_highlights="4">Before the dawn of the 20th century, there was a 300-year period when there were none, Espenak says.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Blood moon, Act II, opens soon in the heavens near you.</content>
+        </sentence>
+        <sentence id="2">
+          <content>And it will be bigger than Act I.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>If you live in the western half of the United States, you&amp;apost;ll have a front-row seat on a lunar eclipse that will turn the moon a burnt reddish orange for about an hour Wednesday, creating the second blood moon in relatively short succession.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>The full eclipse will start at 6:25 a.m. ET, NASA says, and last until 7:24 a.m. ET.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Because it happens right after the perigee, the closest point to Earth in the moon&amp;apost;s orbit, this blood moon will be nearly the size of a super moon -- appearing 5.3% larger than the previous blood moon on April 15.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>It will be the second in a sequence of four -- called a tetrad -- that are occurring in roughly six-month intervals.</content>
+        </sentence>
+        <sentence id="7">
+          <content>The next one will appear on April 4, 2015, and the last one on September 28, 2015.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>Tetrad a rare treat.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>With that frequency, one might be misled into thinking that blood moons are commonplace.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>There are about two lunar eclipses per year, NASA says.</content>
+        </sentence>
+        <sentence id="11">
+          <content>Some of them -- penumbral eclipses -- are so subtle, they are vaguely visible and go greatly unnoticed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>Other eclipses just cast a partial shadow on the moon but lend it none of that blood moon color that only total eclipses do.</content>
+        </sentence>
+        <sentence id="13">
+          <content>And they come around, on average, less than once a year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>The brilliant hue comes from the edges of the sun peeking out around the periphery of the Earth through its atmosphere in a global sunset shining on the moon, which has to be in just the right position to catch those rays.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="15">
+          <content>Lunar eclipses -- penumbral, partial or total -- occur in random order, NASA says.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Getting four total eclipses in a row is like drawing a rare lunar poker hand of four of a kind.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;The most unique thing about the 2014-2015 tetrad is that all of them are visible for all or parts of the U.S.A.,&amp;quot; said NASA eclipse expert Fred Espenak.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="18">
+          <content>People in Europe, Africa and the Middle East, for example, will not be able to see Wednesday&amp;apost;s blood moon.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="19">
+          <content>In the 21st century, there will be many such tetrads, but look back a few centuries, and you&amp;apost;ll find the opposite phenomenon, NASA says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="20">
+          <content>Before the dawn of the 20th century, there was a 300-year period when there were none, Espenak says.</content>
+        </sentence>
+        <sentence id="21">
+          <content>Zero.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="22">
+          <content>That would mean that neither Sir Isaac Newton, Mozart, Queen Anne, George Washington, Napoleon, Abraham Lincoln nor their contemporaries ever had a chance to see such a sequence.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="23">
+          <content>The stuff of mystics.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="24">
+          <content>There are those who like to veil these astral junctures in mysticism, and for them, the epilogue to Wednesday&amp;apost;s celestial theatrics could sound like this:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="25">
+          <content>Blood adorned a heavenly plate for Passover fest,.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="26">
+          <content>When sun and Earth aligned, a cooper glow to cast,.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="27">
+          <content>Upon the face of the moon as it did by Earth pass.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="28">
+          <content>It shall again, to mark another holy rite, alas!</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="29">
+          <content>It&amp;apost;s common to hang superstitions on blood moons, citing their concurrence with Jewish religious holidays.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="30">
+          <content>The first one in this tetrad fell on Passover; the current one falls on the lesser known holiday of Sukkot, four days after Yom Kippur.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="31">
+          <content>But that&amp;apost;s no reason to go loony over cosmic coincidences -- because there are none here.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="32">
+          <content>The Jewish calendar is an ancient lunar one, and holy dates are set, on purpose, to the precise clockwork of the moon&amp;apost;s phases.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="33">
+          <content>They&amp;apost;re the same predictable ones that make it easy for modern-day astronomers to exactly calculate blood moons.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="34">
+          <content>Planning to photograph the blood moon on October 8?</content>
+        </sentence>
+        <sentence id="35">
+          <content>Share your best images with CNN iReport.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1019" link="http://www.cnn.com/2012/10/23/politics/fact-check-libya-cost/index.html" date_published="2012-10-23 08:25:49" category="politics" author="the CNN Wire Staff" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>CNN Fact Check: Comparing costs of Iraq, Libya missions</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">President Obama says Libya operation cost less than two weeks of war in Iraq.</sentence>
+      <sentence id="2" ids_article_sentences="9">CRS: In 2008, Pentagon&amp;apost;s obligations in Iraq reached average of $5.12 billion every two weeks.</sentence>
+      <sentence id="3" ids_article_sentences="14, 20, 17">Pentagon, CRS say cost of U.S. portion of 2011 military operation in Libya was more than $1.6 billion.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-01 14:46:57" annotation_time="65.727" mapping_time_divergence="43.817997">
+      <sentence id="1" ids_highlights="1">President Barack Obama asserted during Monday&amp;apost;s presidential debate that it cost the United States less to help oust Libyan dictator Moammar Gadhafi than it did to run two weeks of the 2003-2011 war in Iraq.</sentence>
+      <sentence id="9" ids_highlights="2">That average rose every year through fiscal 2008, when the average two-week obligation was $5.12 billion.</sentence>
+      <sentence id="14" ids_highlights="3">The rate of U.S. military spending on the 2011 operation in Libya was significantly less.</sentence>
+      <sentence id="17" ids_highlights="3">The cost of initial operations through March 28, 2011, was estimated at $550 million, according to the CRS.</sentence>
+      <sentence id="20" ids_highlights="3">The Pentagon said its cost from April 1 through September 30 was about $1.1 billion.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>President Barack Obama asserted during Monday&amp;apost;s presidential debate that it cost the United States less to help oust Libyan dictator Moammar Gadhafi than it did to run two weeks of the 2003-2011 war in Iraq.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Obama, debating former Massachusetts Gov. Mitt Romney at Lynn University in Boca Raton, Florida, made the comment while touting his decision to involve the United States in a NATO no-fly-zone operation that helped rebels overthrow Gadhafi over seven months in 2011.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The statement: Obama: &amp;quot;Keep in mind that I, and Americans, took leadership in organizing an international coalition that made sure that we were able to -- without putting troops on the ground, at the cost of less than what we spent in two weeks in Iraq -- liberate a country that had been under the yoke of dictatorship for 40 years.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>The facts: We can attempt a comparison by examining the Defense Department&amp;apost;s spending on the two operations.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>The war in Iraq cost the Defense Department tens of billions of dollars a year, reaching a peak in fiscal 2008, when the department&amp;apost;s Iraq obligations reached a monthly average of $11.1 billion, according to the Congressional Research Service.</content>
+        </sentence>
+        <sentence id="6">
+          <content>That year covered a good portion of the 2007-2008 U.S. troop surge.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>Obama mentioned the cost at the two-week level.</content>
+        </sentence>
+        <sentence id="8">
+          <content>In fiscal 2004 -- the first full fiscal year of the war -- the department&amp;apost;s Iraq obligations averaged $2.21 billion every two weeks, according to the CRS.</content>
+        </sentence>
+        <sentence id="9">
+          <content>That average rose every year through fiscal 2008, when the average two-week obligation was $5.12 billion.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>Those are obligations -- basically the amount needed to be paid, and not the actual amount paid to date.</content>
+        </sentence>
+        <sentence id="11">
+          <content>We give you the obligations because the CRS says the Pentagon didn&amp;apost;t track actual outlays until fiscal 2009.</content>
+        </sentence>
+        <sentence id="12">
+          <content>But, the CRS&amp;apost;s report says that &amp;quot;average obligations for a fiscal year are a good indicator of ongoing operational costs.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>By fiscal 2011, which ended shortly before all U.S. troops were out of the country, the Pentagon&amp;apost;s spending had fallen to an average of $2.8 billion every two weeks, according to data from the CRS.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>The rate of U.S. military spending on the 2011 operation in Libya was significantly less.</content>
+        </sentence>
+        <sentence id="15">
+          <content>The multi-country operation to enforce a no-fly zone over Libya began on March 19, 2011, with U.S. aircraft and ships helping to disable Libya&amp;apost;s air defense network and airfields.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="16">
+          <content>The most expensive phase in Libya for the Pentagon appears to have been in March.</content>
+        </sentence>
+        <sentence id="17">
+          <content>The cost of initial operations through March 28, 2011, was estimated at $550 million, according to the CRS.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="18">
+          <content>By April, Libya&amp;apost;s air defenses were rendered pretty much useless, so the daily expense of the operation declined precipitously.</content>
+        </sentence>
+        <sentence id="19">
+          <content>NATO took over the operation in April and maintained leadership through the day of Gadhafi&amp;apost;s death in October 2011.</content>
+        </sentence>
+        <sentence id="20">
+          <content>The Pentagon said its cost from April 1 through September 30 was about $1.1 billion.</content>
+        </sentence>
+        <sentence id="21">
+          <content>That included daily military operations, munitions, the drawdown of supplies and humanitarian assistance.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="22">
+          <content>Adding the two figures, you get about $1.65 billion.</content>
+        </sentence>
+        <sentence id="23">
+          <content>Vice President Joe Biden told CNN in October 2011 that the operation &amp;quot;cost us $2 billion.&amp;quot;</content>
+        </sentence>
+        <sentence id="24">
+          <content>It&amp;apost;s not clear whether he was referring to only Pentagon expenditures.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="25">
+          <content>Conclusion: Comparing only Pentagon expenditures, two weeks of military operations in Iraq generally appear to have been more expensive than the U.S. military role in the seven-month Libya operation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

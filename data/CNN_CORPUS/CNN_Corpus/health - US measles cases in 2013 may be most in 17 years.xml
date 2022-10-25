@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="398" link="http://www.cnn.com/2013/09/12/health/worst-measles-year/index.html" date_published="2013-09-12 17:04:41" category="health" author="Elizabeth Cohen, Senior Medical Correspondent" highlights_mapped="true" mapping_error="false">
+  <title>U.S. measles cases in 2013 may be most in 17 years</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">159 cases of measles in the United States from January 1 through August 24.</sentence>
+      <sentence id="2" ids_article_sentences="5">Last highest year was 2011, when there were 222 cases.</sentence>
+      <sentence id="3" ids_article_sentences="8">Nearly two-thirds of cases happened in communities where many people don&amp;apost;t vaccinate .</sentence>
+      <sentence id="4" ids_article_sentences="13">Nearly 40% of children under the age of five who get measles have to be hospitalized.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-07-21 11:35:00" annotation_time="66.611">
+      <sentence id="3" ids_highlights="1">There were 159 cases of measles in the United States from January 1 through August 24, according to the CDC.</sentence>
+      <sentence id="5" ids_highlights="2">The number would also surpass that of 2011, when there were 222 cases.</sentence>
+      <sentence id="8" ids_highlights="3">Nearly two-thirds of the reported cases happened in three outbreaks in communities where many people don&amp;apost;t vaccinate their children for religious or philosophical reasons.</sentence>
+      <sentence id="13" ids_highlights="4">Even if complications such as pneumonia and encephalitis aren&amp;apost;t deadly, they can make children very sick; in 2011, nearly 40% of children under the age of 5 who got measles had to be treated in the hospital.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>This year is on track to be the worst for measles in more than a decade, according to new numbers released Thursday by the U.S. Centers for Disease Control and Prevention.</content>
+        </sentence>
+        <sentence id="2">
+          <content>And people who refuse to vaccinate their children are behind the increasing number of outbreaks, health officials say.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>There were 159 cases of measles in the United States from January 1 through August 24, according to the CDC.</content>
+        </sentence>
+        <sentence id="4">
+          <content>If that trend continues, there will be more cases in 2013 than in any year since 1996, when some 500 cases were reported.</content>
+        </sentence>
+        <sentence id="5">
+          <content>The number would also surpass that of 2011, when there were 222 cases.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="6">
+          <content>Measles cases in the United States numbered in the hundreds of thousands before the advent of vaccination, and dropped dramatically throughout the 1960s.</content>
+        </sentence>
+        <sentence id="7">
+          <content>The disease was thought to have been eradicated in 2000, but the numbers have recently crept back up, largely because of visitors from countries where measles is common and because of vaccine objectors within the United States.</content>
+        </sentence>
+        <sentence id="8">
+          <content>Nearly two-thirds of the reported cases happened in three outbreaks in communities where many people don&amp;apost;t vaccinate their children for religious or philosophical reasons.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="9">
+          <content>&amp;quot;This is very bad.</content>
+        </sentence>
+        <sentence id="10">
+          <content>This is horrible,&amp;quot; said Dr. Buddy Creech, a pediatric infectious disease expert at Vanderbilt University who was on a telephone briefing with the CDC Thursday morning.</content>
+        </sentence>
+        <sentence id="11">
+          <content>&amp;quot;The complications of measles are not to be toyed with, and they&amp;apost;re not altogether rare.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="12">
+          <content>According to the CDC, one to three out of every 1,000 children in the United States who get measles will die from the disease, even with the best of care.</content>
+        </sentence>
+        <sentence id="13">
+          <content>Even if complications such as pneumonia and encephalitis aren&amp;apost;t deadly, they can make children very sick; in 2011, nearly 40% of children under the age of 5 who got measles had to be treated in the hospital.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="14">
+          <content>Measles usually starts with a fever, which can get very high, followed by a cough, runny nose and red eyes.</content>
+        </sentence>
+        <sentence id="15">
+          <content>Soon a rash of tiny, red spots will start at the head and spread to the rest of the body.</content>
+        </sentence>
+        <sentence id="16">
+          <content>The rash can last a week and coughing can last for up to 10 days.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="17">
+          <content>Creech said he&amp;apost;s concerned younger physicians might not be quick to recognize the signs of measles, since there have been only pockets of the disease since 2000.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;Many young pediatricians might not know what measles looks like,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="19">
+          <content>Among those who have been stricken with measles this year, 92% were not vaccinated or had unknown vaccination status.</content>
+        </sentence>
+        <sentence id="20">
+          <content>The largest outbreak was in New York, where 58 people contracted measles in a community where many refuse to be vaccinated for religious reasons.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="21">
+          <content>Those who choose not to vaccinate put other people&amp;apost;s babies at risk, since babies cannot be vaccinated until their first birthday, and are therefore vulnerable to the disease.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;I hope that those who are vaccine hesitant or vaccine avoidant realize there are consequences to their actions,&amp;quot; Creech said.</content>
+        </sentence>
+        <sentence id="23">
+          <content>&amp;quot;None of us lives in isolation.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

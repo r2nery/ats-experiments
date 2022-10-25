@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2289" link="http://edition.cnn.com/2014/08/28/world/asia/india-meat-eating/index.html?hpt=ias_mid" date_published="2014-08-28 08:09:32" category="world" author="Mallika Kapur, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Indians turning to meat as their incomes go up</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="6">India is now one of the fastest growing markets for chicken in the world.</sentence>
+      <sentence id="2" ids_article_sentences="12">Indians are developing new tastes because their incomes have grown, says top food writer.</sentence>
+      <sentence id="3" ids_article_sentences="13">But there&amp;apost;s also a lot more food available in India these days.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-25 08:56:08" annotation_time="23.720001">
+      <sentence id="6" ids_highlights="1">India is now one of the fastest growing markets for chicken in the world.</sentence>
+      <sentence id="12" ids_highlights="2">She says Indians are developing new tastes because their incomes have grown -- India&amp;apost;s economy is slowly heading in the right direction again; people are earning more, they are traveling more and are being exposed to new, international cuisines.</sentence>
+      <sentence id="13" ids_highlights="3">There&amp;apost;s also a lot more food available in India these days.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content> I live in Malabar Hill in Mumbai, an area of the city whose residents are drawn mainly from the Jain and Gujarati communities and where vegetarianism is a big part of their cultural identity.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>I, however, eat meat.</content>
+        </sentence>
+        <sentence id="3">
+          <content>Am I an exception in my neighborhood?</content>
+        </sentence>
+        <sentence id="4">
+          <content>Not anymore.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>It turns out many more people are abandoning vegetarianism in India, which seems to run counter to what is happening in many other countries where people are turning away from meat.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>India is now one of the fastest growing markets for chicken in the world.</content>
+        </sentence>
+        <sentence id="7">
+          <content>The appetite for chicken here is growing at around 12% a year, according to India&amp;apost;s National Sample Survey Office -- that&amp;apost;s faster than any other type of meat.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>This is a big deal because India is still among the lowest meat consumers in the world.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>&amp;quot;They aren&amp;apost;t just eating it, they are also talking a lot more about it,&amp;quot; says Rushina Munshaw Ghildiyal, a popular Indian food writer and consultant.</content>
+        </sentence>
+        <sentence id="10">
+          <content>&amp;quot;It&amp;apost;s cooler to talk about being a meat lover than a vegetable lover!&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>Economy drives meat appetite.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>She says Indians are developing new tastes because their incomes have grown -- India&amp;apost;s economy is slowly heading in the right direction again; people are earning more, they are traveling more and are being exposed to new, international cuisines.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>There&amp;apost;s also a lot more food available in India these days.</content>
+        </sentence>
+        <sentence id="14">
+          <content>When I was growing up in Kolkata, food options were limited to chicken, goat meat and whatever fish was available in the Hooghly River that ran through the city.</content>
+        </sentence>
+        <sentence id="15">
+          <content>Today, I have a food delivery service that will drop off everything from tuna and salmon to sea bass.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Local grocery stores stock premium quality ham and meats.</content>
+        </sentence>
+        <sentence id="17">
+          <content>And chicken -- there are multiple companies selling chicken in all forms and cuts: chicken sausages, chicken nuggets, chicken salami.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;Business has boomed, we are growing larger and larger as the day comes,&amp;quot; says Perizaad Zorabian, marketing head of Zorabian chicken, a premium niche poultry business.</content>
+        </sentence>
+        <sentence id="19">
+          <content>It&amp;apost;s become so busy that Zorabian has put her Bollywood acting career on hold to focus on the family business.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="20">
+          <content>Healthy option?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="21">
+          <content>There are many reasons Indians are turning to chicken.</content>
+        </sentence>
+        <sentence id="22">
+          <content>Top of the list is the perception that it&amp;apost;s healthy.</content>
+        </sentence>
+        <sentence id="23">
+          <content>People are generally more conscious about eating right and eating healthy foods -- especially the younger generation, Zorabian says.</content>
+        </sentence>
+        <sentence id="24">
+          <content>Given that 100 grams of chicken gives you more protein than 100 grams of cooked lentils, many people are turning to the white meat.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="25">
+          <content>It was a chicken curry that tempted Nikhil Merchant to take his first bite.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="26">
+          <content>A vegetarian all his life, he went to a restaurant with his cousin one day.</content>
+        </sentence>
+        <sentence id="27">
+          <content>His cousin -- who eats meat -- ordered a plate of butter chicken curry.</content>
+        </sentence>
+        <sentence id="28">
+          <content>&amp;quot;It just looked so tempting,&amp;quot; Merchant says.</content>
+        </sentence>
+        <sentence id="29">
+          <content>&amp;quot;I took the first bite with a roti and I got used to it.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="30">
+          <content>He&amp;apost;s finally broken the news to his parents who maintain a strict vegetarian diet.</content>
+        </sentence>
+        <sentence id="31">
+          <content>His father tried to talk him out of his chicken eating ways but there&amp;apost;s no going back for Merchant.</content>
+        </sentence>
+        <sentence id="32">
+          <content>&amp;quot;I said it&amp;apost;s part of my life.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

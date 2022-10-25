@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="608" link="http://www.cnn.com/2014/05/21/justice/aaron-hernandez-tattoos/index.html?iid=article_sidebar" date_published="2014-05-21 21:53:19" category="justice" author="Ray Sanchez, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Prosecutors seeking tattoo artists who inked Aaron Hernandez</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="12">Prosecutors seek tattoo artists who inked former NFL star between February 2012, June 2013.</sentence>
+      <sentence id="2" ids_article_sentences="7">The artists are considered witnesses, not suspects, prosecutors say.</sentence>
+      <sentence id="3" ids_article_sentences="2">Hernandez was charged with two counts of first-degree murder in July 2012 slayings.</sentence>
+      <sentence id="4" ids_article_sentences="4">He&amp;apost;s awaiting trial in separate 2013 slaying of semipro player Odin Lloyd.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-07-27 10:20:05" annotation_time="1947.9174">
+      <sentence id="2" ids_highlights="3">Police and prosecutors have charged Hernandez, 24, with two counts of first-degree murder in the July 2012 killings of two men in Boston.</sentence>
+      <sentence id="4" ids_highlights="4">Hernandez is in jail awaiting trial in the separate 2013 slaying of Odin Lloyd.</sentence>
+      <sentence id="7" ids_highlights="2">The artists being sought for potential evidence are considered witnesses and are not accused of any wrongdoing, the statement said.</sentence>
+      <sentence id="12" ids_highlights="1">Investigators are hoping to speak with the artist or artists who inked Hernandez with specific tattoos on his right forearm between February 2012 and June 2013, the statement said.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Are clues to alleged murders hidden in tattoos on the right forearm of former New England Patriots tight end Aaron Hernandez?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Police and prosecutors have charged Hernandez, 24, with two counts of first-degree murder in the July 2012 killings of two men in Boston.</content>
+        </sentence>
+        <sentence id="3">
+          <content>They are now seeking the help of tattoo artists who may have inked him after the homicides.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Hernandez is in jail awaiting trial in the separate 2013 slaying of Odin Lloyd.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>A grand jury indicted Hernandez last week in the 2012 shooting deaths of Daniel de Abreu and Safiro Furtado, and he is to be arraigned on the new charges on May 28.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;Boston Police and Suffolk prosecutors are seeking assistance from tattoo artists who may have inked Aaron Hernandez in the aftermath of the 2012 homicides of Daniel de Abreu and Safiro Furtado,&amp;quot; the Suffolk County district attorney said in a statement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>The artists being sought for potential evidence are considered witnesses and are not accused of any wrongdoing, the statement said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>Suffolk County District Attorney Daniel Conley has said de Abreu and Furtado were &amp;quot;ambushed and executed&amp;quot; while driving home along Shawmut Avenue in Boston&amp;apost;s South End early on July 16, 2012.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>In addition to the two counts of first-degree murder, Hernandez has been charged with three counts of armed assault with intent to murder and one count of assault and battery by means of a dangerous weapon, the district attorney said.</content>
+        </sentence>
+        <sentence id="10">
+          <content>The latter four counts reflect shots fired at three people, one of whom was wounded, inside the car that de Abreu and Furtado were in, Conley said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>Conley said that Hernandez was driving an SUV that pulled up alongside de Abreu and Furtado&amp;apost;s car near a nightclub and that the former football star fired a .38-caliber revolver at them.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>Investigators are hoping to speak with the artist or artists who inked Hernandez with specific tattoos on his right forearm between February 2012 and June 2013, the statement said.</content>
+        </sentence>
+        <sentence id="13">
+          <content>During that time, Hernandez is known to have traveled to Hermosa Beach, California; Bristol, Connecticut; Palm Beach and Miami, Florida; Boston; and Rhode Island.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;In order not to taint any potential statements, authorities are not publicly describing the specific tattoos or the nature of the inquiry -- only that the artists may have made observations of evidentiary value in the pending Suffolk County murder prosecutions,&amp;quot; the statement said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>In the other case, Hernandez was charged with first-degree murder and weapons charges in connection with the shooting death of Lloyd, a 27-year-old semipro football player, in North Attleboro, Massachusetts, about a mile from Hernandez&amp;apost;s home.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Lloyd was dating a sister of Hernandez&amp;apost;s fiancee&amp;apost;s.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="17">
+          <content>Anyone with more information is asked to contact Boston Police Sgt. Detective Marc Sullivan at 617-343-5839.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="18">
+          <content>Hernandez&amp;apost;s jail visitors have included his fiancee and his cousin, Tanya Cummings Singleton, both of whom face charges in connection with the Lloyd homicide, court papers revealed in February.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="19">
+          <content>Last week, prosecutors announced that Singleton was charged with criminal contempt of court in connection with the de Abreu and Furtado slayings.</content>
+        </sentence>
+        <sentence id="20">
+          <content>She is to be arraigned June 2 on an additional indictment for criminal contempt of court.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

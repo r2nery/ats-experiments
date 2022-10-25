@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="510" link="http://www.cnn.com/2013/03/26/justice/knox-extradition/index.html" date_published="2013-03-26 18:50:59" category="justice" author="Tom Watkins, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Experts disagree over extradition for Amanda Knox</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="7">&amp;quot;Extradition should not be granted,&amp;quot; former prosecutor Sean Casey says.</sentence>
+      <sentence id="2" ids_article_sentences="16">&amp;quot;The evidence supporting a conviction is pretty strong,&amp;quot; Dershowitz says.</sentence>
+      <sentence id="3" ids_article_sentences="11">The State Department will not discuss individual cases.</sentence>
+      <sentence id="4" ids_article_sentences="42">&amp;quot;These charges still remain just as unfounded,&amp;quot; Knox&amp;apost;s lawyer says.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-05 15:42:58" annotation_time="37.22767" mapping_time_divergence="9.306917">
+      <sentence id="7" ids_highlights="1">&amp;quot;Under the treaty, extradition should not be granted.&amp;quot;</sentence>
+      <sentence id="11" ids_highlights="3">&amp;quot;We never talk about extradition from this podium in terms of individual cases.&amp;quot;</sentence>
+      <sentence id="16" ids_highlights="2">And, if retried, she &amp;quot;likely will be found guilty -- because the evidence supporting a conviction is pretty strong.&amp;quot;</sentence>
+      <sentence id="42" ids_highlights="4">&amp;quot;These charges still remain just as unfounded, just as unjust, as they were before,&amp;quot; he said.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Experts disagreed Tuesday over whether Amanda Knox is likely to be extradited to Italy, where the country&amp;apost;s highest criminal court overturned her acquittal and that of her former boyfriend in the 2007 killing of her roommate, Meredith Kercher.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Knox and Raffaele Sollecito were convicted in 2009 of murder in Kercher&amp;apost;s death, but a jury overturned the conviction in 2011.</content>
+        </sentence>
+        <sentence id="3">
+          <content>She then returned to her home city of Seattle, Washington, where she is studying creative writing at the University of Washington, according to her family&amp;apost;s spokesman, David Marriott.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>A U.S. court or the State Department would be unlikely to take up any extradition request from Italy, said Sean Casey, a former prosecutor who is now a partner at Kobre &amp;amp; Kim in New York.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>He cited an extradition treaty between the United States and Italy that states: &amp;quot;Extradition shall not be granted when the person sought has been convicted, acquitted or pardoned, or has served the sentence imposed, by the Requested Party for the same acts for which extradition is requested.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;Under U.S. law, she was once put in jeopardy and later acquitted,&amp;quot; Casey said.</content>
+        </sentence>
+        <sentence id="7">
+          <content>&amp;quot;Under the treaty, extradition should not be granted.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>In 2011, deputy State Department spokesman Mark Toner told CNN that although the United States and Italy have an extradition treaty, he was not able to answer speculative questions on extradition issues in the Knox case.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>Tuesday, State Department Acting Deputy Spokesman Patrick Ventrell noted that the matter was ongoing, and the Italian court&amp;apost;s full ruling had not been released.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;We can&amp;apost;t really comment beyond that,&amp;quot; he told reporters.</content>
+        </sentence>
+        <sentence id="11">
+          <content>&amp;quot;We never talk about extradition from this podium in terms of individual cases.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>Knox may be protected on another level, too, according to Casey.</content>
+        </sentence>
+        <sentence id="13">
+          <content>&amp;quot;Her original verdict was so terribly flawed by prosecutorial overreaching,&amp;quot; the lawyer said, noting that the appellate court that overturned the original conviction detailed those flaws in a damning report more than 100 pages in length.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>Given those errors, &amp;quot;I would expect Italian law enforcement to not seek extradition, because it would only prolong this law enforcement ordeal.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="15">
+          <content>But Harvard Law Professor Alan Dershowitz said that Italian prosecutors might very well extradite Knox.</content>
+        </sentence>
+        <sentence id="16">
+          <content>And, if retried, she &amp;quot;likely will be found guilty -- because the evidence supporting a conviction is pretty strong.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>Knox, now 25, has established a fan base in the United States &amp;quot;because she has a beautiful face and an angelic appearance,&amp;quot; Dershowitz said.</content>
+        </sentence>
+        <sentence id="18">
+          <content>&amp;quot;But remember, she originally admitted she was at the scene of the crime and she tried to blame an innocent man -- for which she was also convicted.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="19">
+          <content>After Knox and Sollecito were detained for questioning in the killing, she allegedly confessed to being at her home when Kercher was killed and implicated Patrick Lumumba, the owner of a bar where she worked.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="20">
+          <content>Lumumba was detained, but was released after two weeks when his alibi was corroborated: he had spent the night of the murder talking to a customer in his pub in Perugia, police say.</content>
+        </sentence>
+        <sentence id="21">
+          <content>He went on to sue Knox for libel, winning 40,000 euros ($54,000) in damages.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="22">
+          <content>Dershowitz said the case was not well tried the first time.</content>
+        </sentence>
+        <sentence id="23">
+          <content>&amp;quot;But at a second trial, there&amp;apost;s a very high likelihood that they may very well convict her.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="24">
+          <content>He predicted that Knox would resist any extradition attempt.</content>
+        </sentence>
+        <sentence id="25">
+          <content>But even if she were to succeed in that, &amp;quot;she remains a prisoner in the United States, because Interpol will put a warrant out for her and, if she travels anywhere outside the United States, she&amp;apost;ll be immediately arrested and turned over to Italy.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="26">
+          <content>If Knox were to lose an extradition fight and then wind up being convicted, she would go to jail, he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="27">
+          <content>If he were advising Kercher&amp;apost;s parents, Dershowitz said, he would recommend that they file a civil suit to claim the money Knox has received as an advance for a book about the case that is scheduled for publication next month.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="28">
+          <content>&amp;quot;They have a right to sue her on behalf of their dead daughter,&amp;quot; he said, noting that the standard required for conviction in civil cases is a preponderance of the evidence.</content>
+        </sentence>
+        <sentence id="29">
+          <content>&amp;quot;I think that would be easy to do.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="30">
+          <content>And the extradition treaty&amp;apost;s reference to double jeopardy may not be binding in some cases, he said.</content>
+        </sentence>
+        <sentence id="31">
+          <content>&amp;quot;In the United States, generally, when you appeal a conviction, you waive your double jeopardy rights, and we permit retrials of people who have had their convictions reversed, at least on procedural grounds,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="32">
+          <content>And what about Casey&amp;apost;s prediction that Italian law enforcement would not seek extradition?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="33">
+          <content>&amp;quot;I think he&amp;apost;s wrong,&amp;quot; Dershowitz said.</content>
+        </sentence>
+        <sentence id="34">
+          <content>&amp;quot;I think the Italian legal system will welcome a second trial.</content>
+        </sentence>
+        <sentence id="35">
+          <content>They&amp;apost;ll put new prosecutors on the case, good ones, and seek to vindicate themselves.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="36">
+          <content>&amp;quot;They will want to have a second opportunity to show that Italian justice can be pure.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="37">
+          <content>Dershowitz said purity has also eluded many members of the U.S. news media who have covered the case closely.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="38">
+          <content>&amp;quot;One issue is why the American media portrayed her in such positive terms,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="39">
+          <content>&amp;quot;At best, she was a terrible person who tried to blame it on some innocent person and she was clearly a liar, and at worst she participated in a horrible murder, and the American media focused much more on Amanda Knox than on the victim of the case because Amanda Knox was prettier and an American and an American sweetheart.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="40">
+          <content>Had she been ugly, he argued, the case would have attracted little attention.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="41">
+          <content>Knox&amp;apost;s lawyer, Ted Simon, told CNN that his client was not guilty.</content>
+        </sentence>
+        <sentence id="42">
+          <content>&amp;quot;These charges still remain just as unfounded, just as unjust, as they were before,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

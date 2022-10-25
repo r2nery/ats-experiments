@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1612" link="http://edition.cnn.com/2013/06/07/tech/zenrobotics-recycling-robot/index.html" date_published="2013-06-07 15:10:45" category="tech" author="Arion McNicoll and Stefanie Blendis, for CNN" highlights_mapped="true" mapping_error="false">
+  <title>Intelligent robot claw recycles waste</title>
+  <keywords>environment,robot,recycling,waste,garbage,technology</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">New robotic system separates recyclable materials from construction waste.</sentence>
+      <sentence id="2" ids_article_sentences="4">Construction and demolition industries produce one third of all waste worldwide.</sentence>
+      <sentence id="3" ids_article_sentences="14">Robot scans objects with weight measurement, 3-D scanning and spectrometer.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-14 15:29:07" annotation_time="22.889">
+      <sentence id="2" ids_highlights="1">The ZenRobotics Recycler (ZRR) is an intelligent robotic system which separates construction materials on a conveyer belt, plucking out recyclable materials and depositing them in bins for collection.</sentence>
+      <sentence id="4" ids_highlights="2">Worldwide, the construction and demolition sector is thought to contribute over one third of all waste.</sentence>
+      <sentence id="14" ids_highlights="3">The sensor fusion system uses a range of technologies including weight measurement, 3-D scanning, tactile assessment and spectrometer analysis, which measures how much light reflects from various different materials.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>A robotic recycling system could help address the escalating global waste problem, according to Finnish technology company ZenRobotics.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The ZenRobotics Recycler (ZRR) is an intelligent robotic system which separates construction materials on a conveyer belt, plucking out recyclable materials and depositing them in bins for collection.</content>
+        </sentence>
+        <sentence id="3">
+          <content>The system is designed to replace manual sorting, which can be dangerous and frequently prohibitively expensive.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Worldwide, the construction and demolition sector is thought to contribute over one third of all waste.</content>
+        </sentence>
+        <sentence id="5">
+          <content>The U.S. alone contributes a staggering 325 million tons of waste every year, and the UK produces another 120 million tons.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>While household and municipal waste has fallen in recent years across the developed world, Waste Watch -- a not-for-profit sustainability organization based in the UK -- suggests that over 80% of all human waste that potentially could be recycled currently goes into landfill.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>ZenRobotics founder Jufo Peltomaa notes that the problem is equally severe across the EU: &amp;quot;In the EU alone there&amp;apost;s 900 million tons of construction and demolition waste.</content>
+        </sentence>
+        <sentence id="8">
+          <content>If you were to convert that to the average sized car, the queue would go 45 times around the globe.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>Peltomaa and his team at ZenRobotics constructed the ZRR to help deal with this problem.</content>
+        </sentence>
+        <sentence id="10">
+          <content>&amp;quot;It&amp;apost;s a really difficult job for robots and machine learning systems to do,&amp;quot; says Peltomaa.</content>
+        </sentence>
+        <sentence id="11">
+          <content>&amp;quot;There are currently no such systems in the world, so our system is the first.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>The ZRR identifies different types of waste using a process called &amp;quot;sensor fusion.&amp;quot;</content>
+        </sentence>
+        <sentence id="13">
+          <content>By analysing the data, the sensors sort through objects on a conveyor belt and distribute them into surrounding chutes.</content>
+        </sentence>
+        <sentence id="14">
+          <content>The sensor fusion system uses a range of technologies including weight measurement, 3-D scanning, tactile assessment and spectrometer analysis, which measures how much light reflects from various different materials.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="15">
+          <content>ZenRobotics believes its creation will help ease the burden of the repetitive and dangerous job of waste filtration, which is currently done manually.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;Currently, construction and demolition waste is handled by manual pickers,&amp;quot; says Peltomaa.</content>
+        </sentence>
+        <sentence id="17">
+          <content>&amp;quot;That&amp;apost;s a pretty good solution, but it&amp;apost;s hazardous for your health.</content>
+        </sentence>
+        <sentence id="18">
+          <content>There are poisonous materials, sharp and heavy materials, plus asbestos etc.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="19">
+          <content>Peltomaa says that the idea for using robots for recycling came to him when he had stayed up late watching a documentary on the Discovery Channel, in which a B52 bomber was crushed and recycled.</content>
+        </sentence>
+        <sentence id="20">
+          <content>The waste was placed onto a conveyor belt attended to by &amp;quot;bored-looking&amp;quot; employees picking through the rubble.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="21">
+          <content>Peltomaa says he immediately noticed two things: &amp;quot;First of all it&amp;apost;s really dangerous to be there because the process is really hazardous (and) second that the technology (we) had was a perfect fit.</content>
+        </sentence>
+        <sentence id="22">
+          <content>So we decided to do robotic sorting.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="23">
+          <content>The ZRR&amp;apost;s sensor fusion system works through a complex analysis procedure conducted once items are put onto the conveyor belt.</content>
+        </sentence>
+        <sentence id="24">
+          <content>The system&amp;apost;s sensors gather data, which is sent across to the bespoke artificial intelligence system, christened by the team as the &amp;quot;ZenRobotics Brain.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="25">
+          <content>The brain assesses each object&amp;apost;s material (wood, metal, stone, etc.) and decides what to do with it.</content>
+        </sentence>
+        <sentence id="26">
+          <content>Commands are then issued to the robotic arm, which picks up the objects and deposits them in the appropriate bin, ready for collection.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="27">
+          <content>Renowned industrial designer Stefan Lindfors says he believes the robot could contribute to global efforts to improve recycling, but adds that the real problem is something significantly more fundamental: &amp;quot;there should be less waste for us to have to sort to begin with.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="28">
+          <content>Lindfors says that inventions such as the ZRR robot raise important questions about global waste: &amp;quot;Human beings have a lot to think about here -- how we pack things, how we wrap things up and how we use materials.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

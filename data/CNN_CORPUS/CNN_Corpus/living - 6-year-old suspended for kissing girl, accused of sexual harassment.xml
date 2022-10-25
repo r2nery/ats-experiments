@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="668" link="http://www.cnn.com/2013/12/11/living/6-year-old-suspended-kissing-girl/index.html" date_published="2013-12-11 15:39:18" category="living" author="Kelly Wallace, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>6-year-old suspended for kissing girl, accused of sexual harassment</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">6-year-old suspended for kissing a girl on the hand, CNN affiliate KRDO reports.</sentence>
+      <sentence id="2" ids_article_sentences="13">KRDO: Superintendent says behavior fits description of sexual harassment.</sentence>
+      <sentence id="3" ids_article_sentences="11">Boy was suspended before for rough-housing, kissing same girl on cheek .</sentence>
+      <sentence id="4" ids_article_sentences="9, 19">Boy&amp;apost;s mother calls school response &amp;quot;extreme,&amp;quot; wants charge removed from record.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-04 18:09:44" annotation_time="154.819" mapping_time_divergence="38.70475">
+      <sentence id="2" ids_highlights="1">A 6-year-old boy near Colorado Springs, Colorado, was suspended from school for kissing a girl on the hand.</sentence>
+      <sentence id="9" ids_highlights="4">&amp;quot;This is taking it to an extreme that doesn&amp;apost;t need to be met with a 6-year-old,&amp;quot; Saunders told KRDO.</sentence>
+      <sentence id="11" ids_highlights="3">She said Hunter had problems at school before, getting suspended for rough-housing and for kissing the same girl on the cheek.</sentence>
+      <sentence id="13" ids_highlights="2">Robin Gooldy, the superintendent of Cañon City Schools, told KRDO that Hunter&amp;apost;s record will remain within the district and that his behavior fits the school policy description of sexual harassment, which includes unwanted touching.</sentence>
+      <sentence id="19" ids_highlights="4">On Wednesday, Saunders told CNN that the boy&amp;apost;s school principal would ask the superintendent to reconsider removing the term sexual harassment from Hunter&amp;apost;s record.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>This is another one of those stories that seems absolutely hard to believe.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>A 6-year-old boy near Colorado Springs, Colorado, was suspended from school for kissing a girl on the hand.</content>
+        </sentence>
+        <sentence id="3">
+          <content>You read that correctly.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>&amp;quot;It was during class,&amp;quot; first-grader Hunter Yelton said in an interview with CNN affiliate KRDO.</content>
+        </sentence>
+        <sentence id="5">
+          <content>&amp;quot;We were doing reading group, and I leaned over and kissed her on the hand.</content>
+        </sentence>
+        <sentence id="6">
+          <content>That&amp;apost;s what happened.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>Not only did Hunter&amp;apost;s peck get him suspended from school, but the school accused him of sexual harassment, KRDO reported.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>Hunter&amp;apost;s mom, Jennifer Saunders, is outraged.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>&amp;quot;This is taking it to an extreme that doesn&amp;apost;t need to be met with a 6-year-old,&amp;quot; Saunders told KRDO.</content>
+        </sentence>
+        <sentence id="10">
+          <content>Now my son&amp;apost;s asking questions, &amp;apost;What is sex, mommy?&amp;apost;&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>She said Hunter had problems at school before, getting suspended for rough-housing and for kissing the same girl on the cheek.</content>
+        </sentence>
+        <sentence id="12">
+          <content>The family has been working with him on &amp;quot;class disruptions&amp;quot; by grounding him and giving him &amp;quot;big restrictions,&amp;quot; Saunders said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>Robin Gooldy, the superintendent of Cañon City Schools, told KRDO that Hunter&amp;apost;s record will remain within the district and that his behavior fits the school policy description of sexual harassment, which includes unwanted touching.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;Our main interest in this is having the behavior stop because the story is not just about the student that was disciplined, it is also about the student receiving the unwanted advances,&amp;quot; Gooldy told HLN.</content>
+        </sentence>
+        <sentence id="15">
+          <content>&amp;quot;We have to think about both students in the situation.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="16">
+          <content>Saunders said the girl in question was &amp;quot;fine with it&amp;quot; because Hunter and the girl consider themselves &amp;quot;boyfriend and girlfriend.&amp;quot;</content>
+        </sentence>
+        <sentence id="17">
+          <content>The girl&amp;apost;s parents have not commented publicly on the issue.</content>
+        </sentence>
+        <sentence id="18">
+          <content>But Saunders wants her son&amp;apost;s record cleared of anything suggesting sexual harassment.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="19">
+          <content>On Wednesday, Saunders told CNN that the boy&amp;apost;s school principal would ask the superintendent to reconsider removing the term sexual harassment from Hunter&amp;apost;s record.</content>
+        </sentence>
+        <sentence id="20">
+          <content>The superintendent did not return a phone call from CNN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="21">
+          <content>&amp;quot;Remove it from his record,&amp;quot; Saunders told KRDO.</content>
+        </sentence>
+        <sentence id="22">
+          <content>&amp;quot;I need to stand up and fight for him.</content>
+        </sentence>
+        <sentence id="23">
+          <content>I can&amp;apost;t just let that happen because it&amp;apost;s not the case.</content>
+        </sentence>
+        <sentence id="24">
+          <content>It&amp;apost;s not what happened at all.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="25">
+          <content>Hunter for his part said he feels &amp;quot;sorry&amp;quot; for doing something wrong and tries to be good in school.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="26">
+          <content>&amp;quot;But I just have a lot of energy.</content>
+        </sentence>
+        <sentence id="27">
+          <content>Six-year-olds, they have a lot of energy,&amp;quot; Hunter said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="28">
+          <content>They sure do, and as a parent of a 6-year-old and a 7-year-old, an innocent peck on the cheek or on the hand seems as natural for kids this age as declarations of who they plan to marry.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="29">
+          <content>They don&amp;apost;t know anything about sex or sexual harassment.</content>
+        </sentence>
+        <sentence id="30">
+          <content>So how on earth can they be accused of such behavior?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="31">
+          <content>Reaction online to Hunter&amp;apost;s story has been swift, with the majority of commenters expressing pure outrage.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="32">
+          <content>&amp;quot;The school probably traumatized the kid for life with that stupid move,&amp;quot; wrote Brenda Esselman on the Facebook page for &amp;quot;New Day.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="33">
+          <content>&amp;quot;Poor child, he&amp;apost;s (too) young to even know what sexual harassment is,&amp;quot; Ortencia Solis also wrote on Facebook.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="34">
+          <content>&amp;quot;Another example of how we are now overreacting to something as simple as a childhood crush,&amp;quot; Benny Barboza wrote.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="35">
+          <content>Eric Vetch, also on Facebook, said he kissed a girl when he was 6.</content>
+        </sentence>
+        <sentence id="36">
+          <content>His punishment?</content>
+        </sentence>
+        <sentence id="37">
+          <content>&amp;quot;I remember writing on the chalkboard &amp;apost;I will not kiss girls at school,&amp;apost; and it was a private Christian school ... go figure.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="38">
+          <content>On the other side, there are a small number of people voicing some support for the school&amp;apost;s actions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="39">
+          <content>&amp;quot;The kid shouldn&amp;apost;t go around kissing someone&amp;apost;s child.</content>
+        </sentence>
+        <sentence id="40">
+          <content>Because if it was my daughter, the parents and I would be talking.</content>
+        </sentence>
+        <sentence id="41">
+          <content>Let&amp;apost;s keep it real,&amp;quot; Russell M. Walker wrote on Facebook.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="42">
+          <content>We clearly need to hear more from the school and the school&amp;apost;s district because this might turn out to be another case where the pressure to follow set school rules gets in the way of common sense.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="43">
+          <content>We saw this recently with two other stories: the Long Island school heavily criticized for banning most ball playing and even requiring supervision of games of tag while the school yard was under construction, and in Boston, where a student who allegedly went to a party to drive a friend home who was drunk was suspended from playing on her school&amp;apost;s volleyball team.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="44">
+          <content>What do you think about this latest case of a school taking a controversial stand?</content>
+        </sentence>
+        <sentence id="45">
+          <content>Do you think a 6-year-old should be suspended and accused of sexual harassment for kissing a girl on the hand?</content>
+        </sentence>
+        <sentence id="46">
+          <content>Let us know in the comments below.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

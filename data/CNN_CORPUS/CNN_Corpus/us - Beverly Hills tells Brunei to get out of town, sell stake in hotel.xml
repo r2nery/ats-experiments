@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1877" link="http://www.cnn.com/2014/05/07/us/beverly-hills-hotel-controversy-brunei" date_published="2014-05-07 19:58:00" category="us" author="Michael Martinez and Paul Vercammen, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Beverly Hills tells Brunei to get out of town, sell stake in hotel</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Beverly Hills City Council votes 5-0 in telling Brunei to get out of town.</sentence>
+      <sentence id="2" ids_article_sentences="1">Council condemns Brunei&amp;apost;s &amp;quot;extreme and inhumane&amp;quot; Sharia laws.</sentence>
+      <sentence id="3" ids_article_sentences="1">City wants Asian country to sell off its interest in landmark Beverly Hills Hotel.</sentence>
+      <sentence id="4" ids_article_sentences="2">But hotel workers pack council chambers and say they fear for their jobs.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-08 23:53:01" annotation_time="62.930004" mapping_time_divergence="15.732501">
+      <sentence id="1" ids_highlights="1, 2, 3">Beverly Hills, California The Beverly Hills City Council has condemned the government of Brunei for its &amp;quot;extreme and inhumane&amp;quot; Sharia laws and urged the nation&amp;apost;s sultan to sell ownership of the landmark Beverly Hills Hotel and any other property the Asian country and its ruler may own in the exclusive community.</sentence>
+      <sentence id="2" ids_highlights="4">The council made the declaration in a 5-0 vote Tuesday night, despite 125 workers from the hotel packing the council chambers and expressing concern about their jobs.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Beverly Hills, California The Beverly Hills City Council has condemned the government of Brunei for its &amp;quot;extreme and inhumane&amp;quot; Sharia laws and urged the nation&amp;apost;s sultan to sell ownership of the landmark Beverly Hills Hotel and any other property the Asian country and its ruler may own in the exclusive community.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The council made the declaration in a 5-0 vote Tuesday night, despite 125 workers from the hotel packing the council chambers and expressing concern about their jobs.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Several waiters in white coats told the council they, too, didn&amp;apost;t like Brunei&amp;apost;s laws but they asked why workers should possibly suffer for the City Council&amp;apost;s vote of condemnation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>&amp;quot;It strangles our livelihood,&amp;quot; said Ann Romer, a server in the hotel&amp;apost;s Polo Lounge, a renowned gathering spot for Hollywood stars and filmmakers.</content>
+        </sentence>
+        <sentence id="5">
+          <content>&amp;quot;It causes us to be unable to support our families, my children and my sick grandmother in Vietnam.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>All the council members empathized with the workers but said they need to take a stand against the Brunei government.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;The evil is clear.</content>
+        </sentence>
+        <sentence id="8">
+          <content>The evil exists in the sultan of Brunei and others who believe as he does,&amp;quot; said Vice Mayor Julian A. Gold, who&amp;apost;s also an anesthesiologist.</content>
+        </sentence>
+        <sentence id="9">
+          <content>&amp;quot;We have 600 people who work at this hotel who are truly innocent in this and who could be collateral damage.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>The council vote came a day after Jay Leno and his wife, Mavis, led several celebrities in a demonstration across from the famed Sunset Boulevard hotel.</content>
+        </sentence>
+        <sentence id="11">
+          <content>They protested the hotel&amp;apost;s ownership, which is an investment group controlled by the Sultan of Brunei.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>In late April, the small Muslim nation on the northern coast of the island of Borneo implemented Sharia law, marked by strong punishments for those found guilty of homosexuality or adultery -- including stoning to death those convicted.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>The law was praised by the sultan, who isn&amp;apost;t just the country&amp;apost;s ruler but also a major political and cultural figure.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;We&amp;apost;re just making people aware,&amp;quot; Leno told CNN.</content>
+        </sentence>
+        <sentence id="15">
+          <content>&amp;quot;It&amp;apost;s not a political issue.</content>
+        </sentence>
+        <sentence id="16">
+          <content>This is not something that&amp;apost;s debatable.</content>
+        </sentence>
+        <sentence id="17">
+          <content>... It&amp;apost;s people being stoned to death.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="18">
+          <content>In the wake of the protest movement, a number of organizations have moved -- or threatened to move -- events scheduled for the hotel.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="19">
+          <content>The resolution approved by the Beverly Hills City Council accuses Brunei of imposing harsh penalties for homosexuality and adultery.</content>
+        </sentence>
+        <sentence id="20">
+          <content>That country&amp;apost;s recent laws also allow flogging and severing limbs for theft and other offenses, the council asserted.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="21">
+          <content>&amp;quot;The City of Beverly Hills urges the government of Brunei to divest itself of the Beverly Hills Hotel and any other properties it may own in Beverly Hills,&amp;quot; the approved resolution said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="22">
+          <content>Other celebrities including Ellen DeGeneres and mogul Richard Branson said they won&amp;apost;t patronize the hotel or other properties in the Dorchester Collection of luxury hotels, which owns and manages the Beverly Hills Hotel and the Hotel Bel-Air.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="23">
+          <content>Leno said he was well aware of how &amp;quot;a number of people are canceling events at the hotel, and it&amp;apost;s all economics,&amp;quot; he told CNN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="24">
+          <content>But Christopher Cowdray, the Dorchester Collection&amp;apost;s CEO, said the celebrities and groups protesting are taking out their anger on the wrong place.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="25">
+          <content>&amp;quot;The actions they&amp;apost;re taking are unfounded,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="26">
+          <content>&amp;quot;It&amp;apost;s going to hurt our employees and this has nothing to do with them whatsoever,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="27">
+          <content>&amp;quot;It&amp;apost;s not their fight.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="28">
+          <content>The sultan has owned the Beverly Hills Hotel since 1987.</content>
+        </sentence>
+        <sentence id="29">
+          <content>The Dorchester Collection was established in 1996 to oversee that hotel and others in its luxury portfolio, including the Hotel Bel-Air, Paris&amp;apost; Plaza Athenee and London&amp;apost;s Dorchester.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="30">
+          <content>Cowdray said that celebrities wanting to influence politics in Brunei would be better off lobbying the U.S. State Department to take action.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="31">
+          <content>At a briefing Monday, State Department spokeswoman Marie Harf said, &amp;quot;We have very serious concerns.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="32">
+          <content>The Beverly Hills Hotel has been a haven for Hollywood&amp;apost;s elite since 1912 -- two years before the City of Beverly Hills was even created.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

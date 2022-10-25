@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="838" link="http://www.cnn.com/2012/12/21/opinion/plank-autism-newtown/index.html" date_published="2012-12-21 20:58:23" category="opinion" author="Alex Plank, Special to CNN " highlights_mapped="true" mapping_error="false">
+  <title>Leave autism out of mass shootings</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Alex Plank: After Newtown shooting, some people say autism is linked to violence .</sentence>
+      <sentence id="2" ids_article_sentences="3">Plank: These speculations are needless, untrue and hurtful .</sentence>
+      <sentence id="3" ids_article_sentences="25">He says people with autism are ethical but have trouble reading social signals .</sentence>
+      <sentence id="4" ids_article_sentences="32">Plank: We don&amp;apost;t need more senseless finger-pointing at an entire community .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-06 18:27:24" annotation_time="36.5605">
+      <sentence id="1" ids_highlights="1">After the horrific shooting in Newtown, Connecticut, a parade of self-appointed experts tried to insinuate that people with autism are prone to inexplicable acts of violence because they lack the ability for empathy and social connection.</sentence>
+      <sentence id="3" ids_highlights="2">These speculations are needless, untrue and hurtful.</sentence>
+      <sentence id="25" ids_highlights="3">Most people with autism who I know of are deeply sensitive and ethical; we just have trouble reading social signals.</sentence>
+      <sentence id="32" ids_highlights="4">In the face of such terrible tragedy, we don&amp;apost;t need more senseless finger-pointing at an entire community of people.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>After the horrific shooting in Newtown, Connecticut, a parade of self-appointed experts tried to insinuate that people with autism are prone to inexplicable acts of violence because they lack the ability for empathy and social connection.</content>
+        </sentence>
+        <sentence id="2">
+          <content>This is because the shooter, Adam Lanza, had been diagnosed with Asperger&amp;apost;s syndrome, a form of autism.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>These speculations are needless, untrue and hurtful.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>I was diagnosed with Asperger&amp;apost;s syndrome when I was 9 years old.</content>
+        </sentence>
+        <sentence id="5">
+          <content>I had a lot of anxiety when I was in school, not because I have autism but because other kids would often bully and ridicule me.</content>
+        </sentence>
+        <sentence id="6">
+          <content>I was a smart kid, but I was very socially awkward.</content>
+        </sentence>
+        <sentence id="7">
+          <content>Thankfully, my parents were very supportive and helped me get through many dark days.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="8">
+          <content>I got in trouble in elementary school for flapping my hands and twirling.</content>
+        </sentence>
+        <sentence id="9">
+          <content>I even got in trouble for sitting in my chair strangely.</content>
+        </sentence>
+        <sentence id="10">
+          <content>When the Columbine High School massacre occurred, my music teacher told the class to be nicer to me because, as she said, &amp;quot;look what can happen when kids are bullied.&amp;quot;</content>
+        </sentence>
+        <sentence id="11">
+          <content>That really upset and embarrassed me.</content>
+        </sentence>
+        <sentence id="12">
+          <content>The comment made me feel as though I had more potential for violence, which is clearly false.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="13">
+          <content>In high school, I decided that I wanted to make contact with other kids who had been diagnosed with autism and were cast out by their own peer groups and looking for support.</content>
+        </sentence>
+        <sentence id="14">
+          <content>With my friend Dan Grover, we built WrongPlanet.net, a community for people who wanted to share their personal experiences with autism.</content>
+        </sentence>
+        <sentence id="15">
+          <content>We now have more than 70,000 registered members from around the world.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="16">
+          <content>After the shootings in Newtown, as I often do when a major news event occurs, I immediately went to my online community to see what other people were saying.</content>
+        </sentence>
+        <sentence id="17">
+          <content>One member asked, &amp;quot;How long before the media paints the gunman as a quiet loner with Asperger Syndrome traits?&amp;quot;</content>
+        </sentence>
+        <sentence id="18">
+          <content>As we now know, it didn&amp;apost;t take too long.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="19">
+          <content>The same thing has happened before, like in the Colorado theater shooting, when Joe Scarborough irresponsibly speculated that the shooter, James Holmes, might have been &amp;quot;on the autism scale.&amp;quot;</content>
+        </sentence>
+        <sentence id="20">
+          <content>He later clarified his comments, saying he did not mean to link autism with violent behavior.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="21">
+          <content>As the Newtown news unfolded, I noticed a huge traffic spike to our online community.</content>
+        </sentence>
+        <sentence id="22">
+          <content>When I checked the servers, I realized that people were finding the website by Googling search terms such as &amp;quot;autistic killers,&amp;quot; &amp;quot;asperger&amp;apost;s and criminal behavior&amp;quot; and &amp;quot;aspergers shooter.&amp;quot;</content>
+        </sentence>
+        <sentence id="23">
+          <content>That gave me a sick feeling in the pit of my stomach.</content>
+        </sentence>
+        <sentence id="24">
+          <content>I only hoped that the searches indicated that people wanted to find out the truth: that autism is not connected with violent acts.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="25">
+          <content>Most people with autism who I know of are deeply sensitive and ethical; we just have trouble reading social signals.</content>
+        </sentence>
+        <sentence id="26">
+          <content>Research has also shown that we are less likely to engage in criminal behavior.</content>
+        </sentence>
+        <sentence id="27">
+          <content>If anything, those with autism are more likely to be bullied or treated with scorn because we are a little different.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="28">
+          <content>Fortunately, not everyone has been listening to some of the so-called experts who are implying that autism has something to do with Lanza&amp;apost;s horrible act.</content>
+        </sentence>
+        <sentence id="29">
+          <content>A chorus of intelligent voices, including CNN&amp;apost;s Sanjay Gupta and Anderson Cooper, New York Times reporter Amy Harmon, author John Robison and Ari Ne&amp;apost;eman, the first openly autistic White House appointee, has done well to dispel the misconceptions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="30">
+          <content>But the repetition of damaging stereotypes means more needs to be done to address the myths and stigma around autism, which puts people who are already at a high risk for bullying in even more danger.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="31">
+          <content>I was really touched when I saw the photo of Dylan Hockley, a 6-year-old boy with autism who died in the arms of his special-needs aide, Anne Marie Murphy, in Newtown.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="32">
+          <content>In the face of such terrible tragedy, we don&amp;apost;t need more senseless finger-pointing at an entire community of people.</content>
+        </sentence>
+        <sentence id="33">
+          <content>We need more than ever to find our common humanity.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="34">
+          <content>Follow us on Twitter @CNNOpinion.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="35">
+          <content>Join us on Facebook/CNNOpinion.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

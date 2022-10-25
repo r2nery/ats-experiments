@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1627" link="http://www.cnn.com/2013/02/21/tech/mobile/smartphone-developments-mobile-strategy/index.html" date_published="2013-02-21 11:35:54" category="tech" author="Daniel Burrus, Special to CNN" highlights_mapped="true" mapping_error="false">
+  <title>mobile world congress future smartphone</title>
+  <keywords>mobile world congress,3d,smartphone,siri,nfc,mobile wallet,facial recognition</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">Daniel Burrus looks at six big developments that will revolutionize smartphones over the next decade.</sentence>
+      <sentence id="2" ids_article_sentences="5">Burrus predicts 3D displays will become the norm, and won&amp;apost;t require special glasses.</sentence>
+      <sentence id="3" ids_article_sentences="20, 18">Your smartphone will be your wallet and biometrics will keep your valuable information secure, he says.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-24 11:42:07" annotation_time="130.718">
+      <sentence id="3" ids_highlights="1">Here are six key technological developments that will revolutionize the smartphone over the next decade.</sentence>
+      <sentence id="5" ids_highlights="2">Your smartphone will have a 3-D display and a 3-D web browser, and you won&amp;apost;t need special glasses to view it.</sentence>
+      <sentence id="18" ids_highlights="3">However, if you&amp;apost;re doing a high-level security activity (such as banking via your smartphone), you&amp;apost;ll likely want to use multiple biometrics.</sentence>
+      <sentence id="20" ids_highlights="3">Your smartphone will become your wallet.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Today&amp;apost;s smartphones are much more than phones -- they are powerful, networked multimedia computers, and over the next 10 years they&amp;apost;ll get far more advanced.</content>
+        </sentence>
+        <sentence id="2">
+          <content>As a result, mobility is transforming many day-to-day processes -- including how we sell, communicate, collaborate, train, and educate.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>Here are six key technological developments that will revolutionize the smartphone over the next decade.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>3-D display.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Your smartphone will have a 3-D display and a 3-D web browser, and you won&amp;apost;t need special glasses to view it.</content>
+        </sentence>
+        <sentence id="6">
+          <content>So instead of just viewing web pages on your smart phone, you&amp;apost;ll be able to go into environments (or stores or showrooms) and maneuver around in them, just as you do on devices like the Xbox.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>Alternatively, you&amp;apost;ll be able to see things sticking out from the screen, again without the special glasses.</content>
+        </sentence>
+        <sentence id="8">
+          <content>So the 3-D web on your smartphone will be a game-changer for business.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>Biometric security.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>Rather than have to remember numerous passwords, you will be able to access data and sites on your smartphone using multiple biometric authentications.</content>
+        </sentence>
+        <sentence id="11">
+          <content>Advanced screen resolution and sensors on the phone will make this possible.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>For example, when you touch the screen, it will recognize you based on your fingerprint.</content>
+        </sentence>
+        <sentence id="13">
+          <content>In addition, your phone&amp;apost;s front-facing camera will use facial recognition to identify you.</content>
+        </sentence>
+        <sentence id="14">
+          <content>Everyone&amp;apost;s voice is unique, so voice recognition will also be part of the identification/security process.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="15">
+          <content>How you handle the phone -- your keystrokes and touch/maneuver patterns -- are also unique.</content>
+        </sentence>
+        <sentence id="16">
+          <content>The number of biometrics used will depend on the level of security you want based on what you are doing.</content>
+        </sentence>
+        <sentence id="17">
+          <content>For example, if you&amp;apost;re accessing your Facebook account, you may only want one biometric for authentication.</content>
+        </sentence>
+        <sentence id="18">
+          <content>However, if you&amp;apost;re doing a high-level security activity (such as banking via your smartphone), you&amp;apost;ll likely want to use multiple biometrics.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="19">
+          <content>Wireless payments.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="20">
+          <content>Your smartphone will become your wallet.</content>
+        </sentence>
+        <sentence id="21">
+          <content>Credit cards are easy, but e-wallets are easier.</content>
+        </sentence>
+        <sentence id="22">
+          <content>Currently, Google has a mobile wallet that works with Citi MasterCard, and in the future it will work with other credit cards.</content>
+        </sentence>
+        <sentence id="23">
+          <content>It is secure and enables you to make payments with your smartphone.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="24">
+          <content>In the near future, as every financial service firm gets into mobile payments, you will move very quickly from a leather wallet to a smartphone wallet.</content>
+        </sentence>
+        <sentence id="25">
+          <content>One example of an enabling technology is NFC -- near-field communications chips -- which are being built into smart phones as you read this article.</content>
+        </sentence>
+        <sentence id="26">
+          <content>They allow for secure and easy payment, so be ready for it.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="27">
+          <content>Personal concierge.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="28">
+          <content>Your ultra intelligent agent will get smarter.</content>
+        </sentence>
+        <sentence id="29">
+          <content>The first ultra intelligent agent was Apple&amp;apost;s Siri.</content>
+        </sentence>
+        <sentence id="30">
+          <content>As Siri-like agents advance, they will turn into personal assistants and will be able to search the web for you and bring back focused, highly relevant information based on how long you have used your e-agent and how well it knows you.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="31">
+          <content>In other words, your ultra intelligent agent will know your preferences, your likes, and your needs and will automatically compile, present, and share what&amp;apost;s pertinent to you.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="32">
+          <content>Additionally, your ultra intelligent agent will have a face when you are looking at the screen and a personality that you choose.</content>
+        </sentence>
+        <sentence id="33">
+          <content>You&amp;apost;ll even see celebrities licensing the rights to their digital likeness and personality to be used as ultra intelligent agents.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="34">
+          <content>No more screens.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="35">
+          <content>Some of your smartphones will be screen-less.</content>
+        </sentence>
+        <sentence id="36">
+          <content>The traditional smartphone with a screen will not go away, but you will have an option for a screen-less smartphone.</content>
+        </sentence>
+        <sentence id="37">
+          <content>This will be a very popular and highly adopted smartphone because without the screen, you get rid of much of the need for a big battery.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="38">
+          <content>Think of the screen-less smartphone like the little piece of jewelry people wore on the old &amp;quot;Star Trek&amp;quot; TV show.</content>
+        </sentence>
+        <sentence id="39">
+          <content>The screen-less smartphone will be touch and voice activated.</content>
+        </sentence>
+        <sentence id="40">
+          <content>When you tap it, you&amp;apost;ll be connected to your ultra intelligent agent, which is part of a super computer in the cloud.</content>
+        </sentence>
+        <sentence id="41">
+          <content>Whatever you need, your ultra intelligent agent will be able to verbally give you the information, such as turn-by-turn directions, reading your email to you and so on.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="42">
+          <content>Hyper-connectivity.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="43">
+          <content>Your smartphone will interface with smart surfaces.</content>
+        </sentence>
+        <sentence id="44">
+          <content>We are already seeing the beginning of using touch and voice-operated intelligent screens as tabletop computers that can access the internet.</content>
+        </sentence>
+        <sentence id="45">
+          <content>Simply by placing your smartphone on these surfaces, the two will link together.</content>
+        </sentence>
+        <sentence id="46">
+          <content>Additionally, your ultra intelligent agent will flow from your smartphone to the screen.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="47">
+          <content>This is just a small sampling of what we&amp;apost;ll see for future smartphone technology.</content>
+        </sentence>
+        <sentence id="48">
+          <content>All of these advancements are in their early stages today.</content>
+        </sentence>
+        <sentence id="49">
+          <content>So keep in mind that if it can be done, it will be done.</content>
+        </sentence>
+        <sentence id="50">
+          <content>The question is, who will be first?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

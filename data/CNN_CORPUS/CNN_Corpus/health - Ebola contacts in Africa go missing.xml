@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="233" link="http://edition.cnn.com/2014/08/25/health/ebola-contact-tracing/index.html?hpt=iaf_c1" date_published="2014-08-25 16:07:13" category="health" author="Elizabeth Cohen, Senior Medical Correspondent" highlights_mapped="true" mapping_error="false">
+  <title>Ebola contacts in Africa go missing</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="13">Preliminary data shows health officials are missing 40 to 60% of contacts for Ebola patients.</sentence>
+      <sentence id="2" ids_article_sentences="16">Many Ebola patients don&amp;apost;t want to name names out of fear.</sentence>
+      <sentence id="3" ids_article_sentences="20">Just one contract left un-traced could start new line of Ebola transmission.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-25 08:05:00" annotation_time="88.162">
+      <sentence id="13" ids_highlights="1">One of her colleagues at the CDC who&amp;apost;s worked in Liberia says preliminary data shows they could be missing 40 to 60% of the contacts of known Ebola patients.</sentence>
+      <sentence id="16" ids_highlights="2">She says she understands why Ebola patients don&amp;apost;t want to name names: There was a rumor going around the communities she worked in that getting on a contact list meant you would die -- and the deaths would happen in the same order as they appeared on the list.</sentence>
+      <sentence id="20" ids_highlights="3">Just one contact left un-traced could go on to start a whole new line of Ebola transmission.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Earlier this summer, Kelsey Mirkovic, a disease detective with the Centers for Disease Control and Prevention, entered a hut with her team in Gueckedou, Guinea, to speak with a man who had Ebola.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Their mission: to get the names of everyone he&amp;apost;d had contact with while he was ill, so that they could stop those people from spreading the disease.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;Who lives with you here?</content>
+        </sentence>
+        <sentence id="4">
+          <content>Who has eaten off the same plate as you?</content>
+        </sentence>
+        <sentence id="5">
+          <content>Who has bathed you and taken care of you?&amp;quot;</content>
+        </sentence>
+        <sentence id="6">
+          <content>they asked him.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>Just his wife, the man answered.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>Mirkovic and her team knew that wasn&amp;apost;t true.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>They knew he had children, and they knew that in West Africa, families and even neighbors eat off the same plate and bathe and care for sick people.</content>
+        </sentence>
+        <sentence id="10">
+          <content>They explained to the man how important it was to stop Ebola, and that his friends and family would be treated with respect.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>Their pleas didn&amp;apost;t work.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>Mirkovic saw this scene play out over and over again.</content>
+        </sentence>
+        <sentence id="13">
+          <content>One of her colleagues at the CDC who&amp;apost;s worked in Liberia says preliminary data shows they could be missing 40 to 60% of the contacts of known Ebola patients.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;This is one of the hardest parts of the response,&amp;quot; said Dr. Brett Petersen, a medical officer with the CDC.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>Mirkovic agrees.</content>
+        </sentence>
+        <sentence id="16">
+          <content>She says she understands why Ebola patients don&amp;apost;t want to name names: There was a rumor going around the communities she worked in that getting on a contact list meant you would die -- and the deaths would happen in the same order as they appeared on the list.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;I understand they&amp;apost;re scared,&amp;quot; she said.</content>
+        </sentence>
+        <sentence id="18">
+          <content>&amp;quot;But it&amp;apost;s very frustrating.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="19">
+          <content>The Ebola outbreak in the West African nations of Guinea, Sierra Leone, Liberia and Nigeria has killed nearly 1,500 people.</content>
+        </sentence>
+        <sentence id="20">
+          <content>Just one contact left un-traced could go on to start a whole new line of Ebola transmission.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="21">
+          <content>&amp;quot;It&amp;apost;s like fighting a forest fire.</content>
+        </sentence>
+        <sentence id="22">
+          <content>If you leave behind even one burning ember, one case undetected, it could reignite the epidemic,&amp;quot; Dr. Thomas Frieden, the director of the CDC, told reporters at a press conference earlier this summer.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="23">
+          <content>&amp;quot;Contact tracing is a formidable challenge,&amp;quot; said Dr. Margaret Chan, director-general of the World Health Organization.</content>
+        </sentence>
+        <sentence id="24">
+          <content>&amp;quot;In some areas, chains of transmission have moved underground.</content>
+        </sentence>
+        <sentence id="25">
+          <content>They are invisible.</content>
+        </sentence>
+        <sentence id="26">
+          <content>They are not being reported.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="27">
+          <content>There&amp;apost;s no solid number of how many contacts have gone missing.</content>
+        </sentence>
+        <sentence id="28">
+          <content>Petersen said the CDC arrived at the 40 to 60% number because in some communities, each sick person has only listed an average of two contacts -- and households commonly have five or six people.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="29">
+          <content>Mirkovic, an officer with the CDC&amp;apost;s epidemic intelligence service, said when she and her team felt patients weren&amp;apost;t being honest, they would try to get information from neighbors or community leaders.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="30">
+          <content>Sometimes that helped, and sometimes it didn&amp;apost;t.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="31">
+          <content>&amp;quot;Unfortunately, there&amp;apost;s nothing we can do,&amp;quot; she said.</content>
+        </sentence>
+        <sentence id="32">
+          <content>&amp;quot;We can&amp;apost;t force them&amp;quot; to give contacts.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="33">
+          <content>The World Health Organization estimates that 10% of contacts will go on to develop symptoms of Ebola.</content>
+        </sentence>
+        <sentence id="34">
+          <content>Occasionally, some of these Ebola cases go missing as well.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="35">
+          <content>&amp;quot;Many families hide infected loved ones in their homes,&amp;quot; according to a WHO press release issued Friday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="36">
+          <content>Mirkovic, who left Guinea in the end of July, said she felt that the situation might improve as health care workers gain more trust in the community.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="37">
+          <content>But there&amp;apost;s another problem with that: the availability of workers to follow up with contacts.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="38">
+          <content>For example, in Sierra Leone, there are 2,000 contacts that need following, but the group Doctors without Borders says they&amp;apost;ve only been able to follow up with about 200 of them.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="39">
+          <content>The group&amp;apost;s teams in Sierra Leone and Liberia are &amp;quot;stretched to the breaking point&amp;quot; as the epidemic is &amp;quot;spiraling out of control,&amp;quot; the group wrote in a press release.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

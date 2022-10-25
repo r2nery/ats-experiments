@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="265" link="http://www.cnn.com/2013/05/10/health/bangladesh-gupta-survival/index.html" date_published="2013-05-10 18:03:30" category="health" author="Ashley Hayes, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Gupta: How could woman survive 16 days in rubble?</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="8, 2">Sanjay Gupta: The pool of water and the air pocket the woman was in were crucial.</sentence>
+      <sentence id="2" ids_article_sentences="13">Some people can survive without food for weeks, he says.</sentence>
+      <sentence id="3" ids_article_sentences="20">The body can enter a state known as starvation ketosis.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-04 16:54:14" annotation_time="112.781006" mapping_time_divergence="37.59367">
+      <sentence id="2" ids_highlights="1">The woman, who was pulled out Friday from the remains of the garment factory, was found in that pool of water, rescue official Lt. Col. Moazzem Hossain told CNN.</sentence>
+      <sentence id="8" ids_highlights="1">The woman reportedly was in a partially collapsed room and had access to an air pocket, which Gupta said is &amp;quot;obviously, the most crucial thing.&amp;quot;</sentence>
+      <sentence id="13" ids_highlights="2">Gupta said the woman likely had some sort of access to food, although people have been known to survive a couple of weeks without it.</sentence>
+      <sentence id="20" ids_highlights="3">A body can enter a state known as starvation ketosis, Gupta said, in which it utilizes muscles and other sorts of protein to feed itself.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>A well-placed pool of water and an air pocket appear to have combined to help a young woman survive for 16 days under the rubble of a collapsed Bangladeshi building.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The woman, who was pulled out Friday from the remains of the garment factory, was found in that pool of water, rescue official Lt. Col. Moazzem Hossain told CNN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>It would have been crucial to her survival, CNN&amp;apost;s Dr. Sanjay Gupta said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>The woman, known only as Reshma, 19, was able to use an iron rod to get workers&amp;apost; attention and cry out to them, &amp;quot;I&amp;apost;m alive.</content>
+        </sentence>
+        <sentence id="5">
+          <content>Please rescue me,&amp;quot; according to Capt. Ibrahim Islam, a Bangladeshi military official outside the recovery operation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>The rescue was a bright spot against the grim recovery.</content>
+        </sentence>
+        <sentence id="7">
+          <content>The death toll from the April 24 collapse is more than 1,000.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>The woman reportedly was in a partially collapsed room and had access to an air pocket, which Gupta said is &amp;quot;obviously, the most crucial thing.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>In addition, &amp;quot;having some access to water must have happened here,&amp;quot; he noted.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>The source of the pool of water was unclear.</content>
+        </sentence>
+        <sentence id="11">
+          <content>Water may have trickled to the building&amp;apost;s basement, where Reshma was found, from recent rains and from water sprayed by rescuers.</content>
+        </sentence>
+        <sentence id="12">
+          <content>Firefighters had hosed down the area to extinguish a fire that erupted during a failed rescue attempt.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>Gupta said the woman likely had some sort of access to food, although people have been known to survive a couple of weeks without it.</content>
+        </sentence>
+        <sentence id="14">
+          <content>He said it was &amp;quot;somewhat surprising&amp;quot; that Reshma would have been able to call out to rescuers, as &amp;quot;even that requires a fair amount of energy.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>Asked how long someone can survive without food or water, Gupta said, &amp;quot;We keep redefining that a bit.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>He recalled the case of Evan Muncie, a then-28-year-old man who was pulled alive from a building in Port-au-Prince, Haiti, about four weeks after a January 2010 earthquake that leveled much of the city.</content>
+        </sentence>
+        <sentence id="17">
+          <content>It is believed Muncie had some access to food and water, although details remain murky, he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="18">
+          <content>Also, Reshma&amp;apost;s youth may have worked in her favor, he said.</content>
+        </sentence>
+        <sentence id="19">
+          <content>&amp;quot;The body can be very good at preserving itself.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="20">
+          <content>A body can enter a state known as starvation ketosis, Gupta said, in which it utilizes muscles and other sorts of protein to feed itself.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="21">
+          <content>State-run news agency Bangladesh Sangbad Sangstha (BSS) reported Reshma told her rescuers that she survived on dry food and water that was tossed into the rubble in the first days after the collapse.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;I ate biscuits and water,&amp;quot; she told rescuers, according to the news agency, &amp;quot;but the stock dwindled two days ago.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="23">
+          <content>Reshma told doctors at a military hospital, where she was taken, that she was wracked by third for the past two days.</content>
+        </sentence>
+        <sentence id="24">
+          <content>She spent the entire time in the dark between floors that had collapsed, according to the BSS report.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="25">
+          <content>While Reshma&amp;apost;s outlook is favorable, food will have to be reintroduced slowly, Gupta said, noting that Muncie had lost 30 pounds while buried under the Haitian rubble.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="26">
+          <content>&amp;quot;My guess is, she&amp;apost;s extremely weak,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="392" link="http://www.cnn.com/2014/05/21/health/missouri-hepatitis-a/index.html" date_published="2014-05-22 01:50:49" category="health" author="Matthew Stucker and Steve Almasy, CNN" highlights_mapped="false" mapping_error="false">
+  <title>Thousands may have been exposed to hepatitis A at Missouri restaurant</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="21">A Red Robin worker in Springfield, Missouri, was diagnosed with an infection.</sentence>
+      <sentence id="2" ids_article_sentences="2">The employee last worked on May 16.</sentence>
+      <sentence id="3" ids_article_sentences="18">Shot that offers protection only effective if given within two weeks of infection.</sentence>
+      <sentence id="4" ids_article_sentences="3">People who dined before May 8 may have been exposed but it&amp;apost;s too late for them to get a shot.</sentence>
+    </highlights>
+    <gold_standard annotation_time="32.605335">
+      <sentence id="2" ids_highlights="2">Red Robin said the employee last worked on May 16 and that the restaurant has been deemed safe after an inspection by the Springfield-Greene County Health Department.</sentence>
+      <sentence id="3" ids_highlights="4">The New Jersey-based restaurant chain didn&amp;apost;t say in what area of the restaurant the employee worked but told diners who ate there between May 8 and 16 to call the health department for information about what to do next.</sentence>
+      <sentence id="18" ids_highlights="3">But the shot needs to be given within two weeks of exposure for maximum protection.</sentence>
+      <sentence id="21" ids_highlights="1">CNN affiliate KYTV reported that thousands more customers might have been exposed to the virus because the infected employee worked for Red Robin for several months.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>As many as 5,000 people may have passed recently through a Missouri restaurant where an employee with hepatitis A worked while possibly contagious, health officials said Wednesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Red Robin said the employee last worked on May 16 and that the restaurant has been deemed safe after an inspection by the Springfield-Greene County Health Department.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The New Jersey-based restaurant chain didn&amp;apost;t say in what area of the restaurant the employee worked but told diners who ate there between May 8 and 16 to call the health department for information about what to do next.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>&amp;quot;It scared me because my husband has been sick,&amp;quot; Andrea Hall, a Red Robin customer, told CNN affiliate KOLR.</content>
+        </sentence>
+        <sentence id="5">
+          <content>&amp;quot;And a lot of his symptoms of his matched.</content>
+        </sentence>
+        <sentence id="6">
+          <content>A red flag just went off and I was like what do I do from here.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>Hepatitis A is usually transmitted via contaminated food or water, or by someone who&amp;apost;s infected, according to the Mayo Clinic.</content>
+        </sentence>
+        <sentence id="8">
+          <content>Frequent handwashing is recommended to limit the spread.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>The highly contagious infection inflames the liver, limiting its ability to function.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>While mild cases don&amp;apost;t require treatment and the Mayo Clinic says most of those infected recover completely with no permanent liver damage, severe cases can lead to liver failure and death, according to the World Health Organization.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>Health officials in Springfield said symptoms include fever, nausea, abdominal pain, dark urine and clay-colored bowel movements.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>Vaccination center set up.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>All workers at the Red Robin have since been innoculated with a immune globulin prophylaxis shot, the restaurant chain said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>The health department will run a two-day vaccination clinic at Remington&amp;apost;s, a venue that hosts concerts and trade shows.</content>
+        </sentence>
+        <sentence id="15">
+          <content>On its Facebook page, the entertainment complex said 4,000 doses of a vaccine were being shipped there.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="16">
+          <content>According to the Centers for Disease Control and Prevention, the incubation period for hepatitis A is between 15 and 50 days.</content>
+        </sentence>
+        <sentence id="17">
+          <content>The CDC says on its website that immune globulin offers protection for about three months for people who get the shot pre- or post-exposure.</content>
+        </sentence>
+        <sentence id="18">
+          <content>But the shot needs to be given within two weeks of exposure for maximum protection.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="19">
+          <content>Many people already have been given a two-step vaccine, which was introduced in the United States in 1995.</content>
+        </sentence>
+        <sentence id="20">
+          <content>The CDC estimates that 17,000 people contract hepatitis A each year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="21">
+          <content>CNN affiliate KYTV reported that thousands more customers might have been exposed to the virus because the infected employee worked for Red Robin for several months.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="22">
+          <content>They should watch for symptoms, the station said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="23">
+          <content>Stores may have received tainted beef.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

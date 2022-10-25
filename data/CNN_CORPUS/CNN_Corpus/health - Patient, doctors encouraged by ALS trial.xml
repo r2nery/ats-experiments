@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="336" link="http://edition.cnn.com/2011/09/28/health/early-als-trial-results-encouraging/index.html" date_published="2011-09-28 15:10:43" category="health" author="Miriam Falco, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Patient, doctors encouraged by ALS trial</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="6">Most people with ALS die from respiratory failure within three to five years of first symptoms.</sentence>
+      <sentence id="2" ids_article_sentences="9">Patients in Emory University clinical trial have neural stem cells injected into spinal cord.</sentence>
+      <sentence id="3" ids_article_sentences="23">First part of trial is designed to show injecting neural stem cells into the spine is safe.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-08 06:51:17" annotation_time="35.842">
+      <sentence id="6" ids_highlights="1">Most people with ALS die from respiratory failure within three to five years of first symptoms, according to the National Institute of Health.</sentence>
+      <sentence id="9" ids_highlights="2">Harada joined a clinical trial at Emory University in Atlanta, where doctors were injecting neural stem cells -- the precursors to nerve cells -- into the lower spinal cord of ALS patients.</sentence>
+      <sentence id="23" ids_highlights="3">The first part of the ALS study, sponsored by the Maryland-based biotech company Neuralstem, is designed to show that the surgical procedure to inject the stem cells into the spine is safe, and that the patients&amp;apost; bodies won&amp;apost;t reject them.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>A little more than two years ago, Ted Harada felt his left leg weakening, and he found himself quickly running out of breath.</content>
+        </sentence>
+        <sentence id="2">
+          <content>Doctors first thought he had asthma, but in May 2010 they told him he probably had ALS, or Lou Gehrig&amp;apost;s disease.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>In August 2010, doctors confirmed Harada, then 38, had the fatal disease, and he knew it was progressing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>&amp;quot;Every month they [doctors] could see deterioration,&amp;quot; Harada said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>ALS patients lose muscle function in the lungs until they can no longer breathe.</content>
+        </sentence>
+        <sentence id="6">
+          <content>Most people with ALS die from respiratory failure within three to five years of first symptoms, according to the National Institute of Health.</content>
+        </sentence>
+        <sentence id="7">
+          <content>The disease causes nerves to wither and the lungs to stop working.</content>
+        </sentence>
+        <sentence id="8">
+          <content>About 10% of ALS patients live 10 years or longer.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="9">
+          <content>Harada joined a clinical trial at Emory University in Atlanta, where doctors were injecting neural stem cells -- the precursors to nerve cells -- into the lower spinal cord of ALS patients.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>Before the procedure, Harada walked with a cane and would get winded just by walking to the mailbox.</content>
+        </sentence>
+        <sentence id="11">
+          <content>He had to quit his job as a manager for a shredding company.</content>
+        </sentence>
+        <sentence id="12">
+          <content>He was so tired he couldn&amp;apost;t play with his three children.</content>
+        </sentence>
+        <sentence id="13">
+          <content>He was too weak to pick up his youngest child.</content>
+        </sentence>
+        <sentence id="14">
+          <content>He couldn&amp;apost;t even open a Ziploc bag.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="15">
+          <content>Harada hoped the treatment would help, but he didn&amp;apost;t expect it to.</content>
+        </sentence>
+        <sentence id="16">
+          <content>However, two weeks after getting the stem cell injections in March, he says he started to feel better.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;It&amp;apost;s been nothing short of miraculous,&amp;quot; he says.</content>
+        </sentence>
+        <sentence id="18">
+          <content>&amp;quot;I cannot begin to explain the difference it has made.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="19">
+          <content>He hasn&amp;apost;t touched his cane in months, he says, and his breathing has improved.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="20">
+          <content>&amp;quot;I was afraid I would wake up and the improvements would be gone,&amp;quot; Harada said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="21">
+          <content>Dr. Jonathan Glass, who is overseeing the clinical trial at Emory, and Dr. Nicholas Boulis, who invented the surgical procedure used to inject the stem cells, explained to patients that participation in the trial would not cure or even benefit them personally, but it would help doctors learn more about how to treat ALS in the future.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="22">
+          <content>The first phase of any clinical trial is to prove that a treatment won&amp;apost;t injure patients, not that the treatment works, said Dr. Eva Feldman, who designed the clinical trial at Emory.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="23">
+          <content>The first part of the ALS study, sponsored by the Maryland-based biotech company Neuralstem, is designed to show that the surgical procedure to inject the stem cells into the spine is safe, and that the patients&amp;apost; bodies won&amp;apost;t reject them.</content>
+        </sentence>
+        <sentence id="24">
+          <content>According to researchers, the cells did not harm any of the 12 patients in the Emory study, nor did they accelerate the progression of their ALS.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="25">
+          <content>&amp;quot;I need to temper my excitement because it&amp;apost;s a very small patient population,&amp;quot; said Feldman, president of the American Neurological Association.</content>
+        </sentence>
+        <sentence id="26">
+          <content>But the facts are not discouraging.</content>
+        </sentence>
+        <sentence id="27">
+          <content>She presented early data from the study Monday at the neurological group&amp;apost;s annual meeting in San Diego.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="28">
+          <content>&amp;quot;We have cautious optimism that a few of the patients may have slowed in their progression of lower extremity weakness, and one patient may have improved,&amp;quot; her report said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="29">
+          <content>Of the 12 patients in the trial, two have died.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="30">
+          <content>John Cornick&amp;apost;s disease had progressed further than Harada&amp;apost;s by the time he received the stem cell injections in 2010.</content>
+        </sentence>
+        <sentence id="31">
+          <content>He was already in a wheelchair, and he knew participating in the clinical trial wouldn&amp;apost;t cure him.</content>
+        </sentence>
+        <sentence id="32">
+          <content>But he told CNN in April 2010 that the only way doctors were going to figure out how to cure ALS was to have people willing to participate in clinical trials.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="33">
+          <content>&amp;quot;For me it just seemed like the right thing to do,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="34">
+          <content>Cornick died of ALS in May.</content>
+        </sentence>
+        <sentence id="35">
+          <content>Another patient in the study, a 39-year old man, died of a heart attack.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="36">
+          <content>Feldman said the conditions of eight of the remaining 10 patients have not changed.</content>
+        </sentence>
+        <sentence id="37">
+          <content>Based on these results, she and her team in Georgia are asking the Food and Drug Administration to allow them to move to the next part of the trial: Injecting stem cells higher on the spine - into the cervical spinal cord, which is in the neck.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="38">
+          <content>Harada is optimistic that research like this will give other patients hope and lead to treatments in the future.</content>
+        </sentence>
+        <sentence id="39">
+          <content>He realizes he hasn&amp;apost;t been cured, but it&amp;apost;s like his clock has been set back, he says.</content>
+        </sentence>
+        <sentence id="40">
+          <content>He feels like he did when symptoms first started to appear in 2009.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="41">
+          <content>&amp;quot;I know I still have ALS.</content>
+        </sentence>
+        <sentence id="42">
+          <content>I am so grateful for this gift regardless of how long or short it lasts,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="43">
+          <content>&amp;quot;I can go through most days without thinking I have ALS.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2897" link="http://www.cnn.com/2014/04/22/world/meast/syria-civil-war/?hpt=bosread" date_published="2014-04-22 09:26:20" category="world" author="Holly Yan and Elise Labott, CNN " highlights_mapped="true" mapping_error="false">
+  <title>U.N. chief to Syria: Please don&amp;apost;t hold presidential elections</title>
+  <keywords>Syria civil war,Syria presidential elections</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="4">UN: Holding elections now will hinder prospects for a political solution.</sentence>
+      <sentence id="2" ids_article_sentences="7">President Bashar al-Assad&amp;apost;s family has been in power since 1971.</sentence>
+      <sentence id="3" ids_article_sentences="16">The U.S. and allies accuse the Syrian regime of another chemical weapon attack.</sentence>
+      <sentence id="4" ids_article_sentences="12">More than 100,000 people, including many civilians, have been killed in the civil war.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-10 21:10:52" annotation_time="18.310999">
+      <sentence id="4" ids_highlights="1">Having elections during the current crisis &amp;quot;will damage the political process and hamper the prospects for political solution,&amp;quot; said Ban&amp;apost;s spokesman, Stephane Dujarric.</sentence>
+      <sentence id="7" ids_highlights="2">President Bashar al-Assad&amp;apost;s family has had a tight grip on power in Syria for the past 43 years.</sentence>
+      <sentence id="12" ids_highlights="4">Well over 100,000 people, including many civilians, have been killed in Syria&amp;apost;s three-year civil war, which pits government forces against rebels trying to end al-Assad&amp;apost;s rule.</sentence>
+      <sentence id="16" ids_highlights="3">The Obama administration and U.S. allies believe the Syrian government may have used chlorine gas in a deadly attack this month on its own people, several U.S. officials and other diplomats told CNN.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Elections are usually an effective way to throw out unfavorable presidents or regimes.</content>
+        </sentence>
+        <sentence id="2">
+          <content>That is, unless you live in Syria.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>U.N. Secretary-General Ban Ki-moon urged Syria against holding presidential elections on June 3, a date the government announced Monday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Having elections during the current crisis &amp;quot;will damage the political process and hamper the prospects for political solution,&amp;quot; said Ban&amp;apost;s spokesman, Stephane Dujarric.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>He added that such elections are incompatible with the Geneva Communique -- the international plan adopted two years ago that calls for a transitional government to lead to free and fair elections.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>If history repeats itself, the upcoming elections will yield no major change in a country now devastated by civil war.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>President Bashar al-Assad&amp;apost;s family has had a tight grip on power in Syria for the past 43 years.</content>
+        </sentence>
+        <sentence id="8">
+          <content>Al-Assad succeeded his father in 2000 and won a second term in 2007, unopposed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>While countries such as Russia have backed the Syrian regime, many others want to see al-Assad go.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>And as each day passes in the civil war, dozens or scores of people are killed, dissidents say.</content>
+        </sentence>
+        <sentence id="11">
+          <content>The opposition Local Coordination Committees of Syria said 107 people, including 20 children, were killed in attacks across the country Monday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>Well over 100,000 people, including many civilians, have been killed in Syria&amp;apost;s three-year civil war, which pits government forces against rebels trying to end al-Assad&amp;apost;s rule.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>But the government maintains it is fighting armed terrorist groups bent on destabilizing the country.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>More chemical weapons suspected.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>As the death toll in Syria soars, concerns about the use of chemical weapons continues to grow.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="16">
+          <content>The Obama administration and U.S. allies believe the Syrian government may have used chlorine gas in a deadly attack this month on its own people, several U.S. officials and other diplomats told CNN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="17">
+          <content>The alleged assault that killed at least two and affected dozens of others occurred in the village of Kafr Zeita, a rebel-held area.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="18">
+          <content>While there is no firm proof so far, several U.S. officials and Western diplomats say the United States believes the al-Assad regime is responsible because it has such chemicals and the means to deliver them.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;Our assessment is it is, at a minimum, concentrated chlorine dropped from helicopters,&amp;quot; a U.S. official said.</content>
+        </sentence>
+        <sentence id="20">
+          <content>&amp;quot;That could only be the regime.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="21">
+          <content>If true, such an attack would highlight a deal brokered by Russia last fall and approved by the U.N. Security Council that requires Syria to surrender its chemical weapons to the international community.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="22">
+          <content>The agreement halted threats of U.S. military action after allegations Syria launched a chemical attack last August that killed over 1,400 people.</content>
+        </sentence>
+        <sentence id="23">
+          <content>Al-Assad and other officials have vehemently denied their forces were responsible.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="24">
+          <content>The Syrian opposition, which does not have helicopters to carry and deliver such weapons, and the regime have been trading accusations about the April 11 incident in Kafr Zeita for more than a week.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="25">
+          <content>Controversy followed video clips posted on anti-government websites showing a number of civilians, including children, appearing to have difficulty breathing and using oxygen masks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="26">
+          <content>The chemical symbol for chlorine, Cl2, is visible on the side of a canister that opposition activists say was used in the attack.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="27">
+          <content>Chlorine is not listed as a chemical Syria is expected to give up under the Security Council resolution.</content>
+        </sentence>
+        <sentence id="28">
+          <content>But its use as a weapon of war is prohibited under the 1925 Chemical Weapons Convention, of which Syria is a signatory.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

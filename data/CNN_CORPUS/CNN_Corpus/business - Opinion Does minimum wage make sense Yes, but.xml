@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="100" link="http://www.cnn.com/2014/05/22/business/opinion-minimum-wage-manning/index.html" date_published="2014-05-22 12:26:52" category="business" author="economist Alan Manning, Special to CNN " highlights_mapped="true" mapping_error="false">
+  <title>Opinion: Does minimum wage make sense? Yes, but...</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Minimum wages are at the top of the political agenda in many countries.</sentence>
+      <sentence id="2" ids_article_sentences="8">Economist Alan Manning says the concept of minimum wage is popular with voters.</sentence>
+      <sentence id="3" ids_article_sentences="15">But there is a point at which minimum wage is so high that it destroys jobs, he says.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-26 09:51:54" annotation_time="1103.3433">
+      <sentence id="1" ids_highlights="1">Minimum wages are on top of the political agenda in many countries.</sentence>
+      <sentence id="8" ids_highlights="2">So, why this widespread enthusiasm for the minimum wage?</sentence>
+      <sentence id="15" ids_highlights="3">Few dispute that there comes a point at which minimum wage is so high that it destroys jobs.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Minimum wages are on top of the political agenda in many countries.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>U.S. President Barack Obama&amp;apost;s proposal to raise the federal minimum wage from the current $7.25 to $10 per hour seems blocked by Congress, but individual states and cities are raising minimum wages within their jurisdictions -- Seattle&amp;apost;s mayor, for example, proposes a new $15 minimum.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Germany looks set to introduce a national minimum wage for the first time, after months of fierce debates.</content>
+        </sentence>
+        <sentence id="4">
+          <content>In the UK, politicians from all the main parties are falling over themselves to find some way to inject new vigor into the UK&amp;apost;s national minimum wage.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Even the free market redoubt of Hong Kong introduced a national minimum wage in 2011.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>But it&amp;apost;s not all travel in one direction.</content>
+        </sentence>
+        <sentence id="7">
+          <content>Last weekend, 76% of voters were opposed to a proposal to raise the Swiss minimum wage to what would have been the world&amp;apost;s highest, about $25 per hour.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>So, why this widespread enthusiasm for the minimum wage?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>There is both economics and politics at play.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>The main argument against the minimum wage is that it destroys jobs, harming those it sets out to help.</content>
+        </sentence>
+        <sentence id="11">
+          <content>But evidence suggests that this is often just a scare story.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>When the UK introduced its national minimum wage in 1999, critics predicted hundreds of thousands of job losses.</content>
+        </sentence>
+        <sentence id="13">
+          <content>The actual impact seemed to be zero.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>This experience and other studies have shifted the expert opinion on the minimum wage.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="15">
+          <content>Few dispute that there comes a point at which minimum wage is so high that it destroys jobs.</content>
+        </sentence>
+        <sentence id="16">
+          <content>But this does not happen at the current levels of minimum wages in many countries.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>The reason the minimum wage seems to have little effect on employment, is that total labor costs do not rise as much as one would expect as costs of turnover and absenteeism are reduced.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="18">
+          <content>Moreover, the incentive to work rises as wages rise for low-skill workers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="19">
+          <content>Most workers earning are not in sectors where they would be facing international competition so prices rise a little bit.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="20">
+          <content>And many low-paid workers are in an vulnerable economic position and are paid less than the value of what they produce.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="21">
+          <content>So yes, the minimum wage does help low-paid workers -- it raises their earnings without harming their job prospects.</content>
+        </sentence>
+        <sentence id="22">
+          <content>It helps to reduce poverty.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="23">
+          <content>But it alone cannot solve the problem of poverty.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="24">
+          <content>Many people earning minimum wage, such as students, are not living in poor households.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="25">
+          <content>And many poor households do not contain minimum wage workers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="26">
+          <content>Indeed, the poorest households are those with no-one in work.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="27">
+          <content>So why the push for higher mimum wage?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="28">
+          <content>Many people think there is something very wrong with an economic system in which someone who works hard is still unable to provide an adequate standard of living for themselves and their families.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="29">
+          <content>Such views have always been common, but are much more common after the crisis when living standards are threatened and the link between growth and people&amp;apost;s welfare seems to have been severed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="30">
+          <content>In some places, these political pressures seem likely to lead to minimum wages much higher than we have seen in recent experience, perhaps around 60% of median earnings.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="31">
+          <content>This is the point at which many economists get nervous that the negative effects on employment must surely kick in but we do not have many studies to know whether these concerns are valid.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="32">
+          <content>But it seems likely we may be about to find out.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

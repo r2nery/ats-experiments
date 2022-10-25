@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1585" link="http://edition.cnn.com/2014/03/28/tech/innovation/genetic-breakthrough/index.html?hpt=hp_mid" date_published="2014-03-28 14:00:43" category="tech" author="Ben Brumfield, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Designer genes take leap forward; geneticists make chromosome &amp;apost;synIII&amp;apost;</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">Scientists built a designer chromosome and inserted it into a yeast cell.</sentence>
+      <sentence id="2" ids_article_sentences="8">The cell survived, made use of its new genes and reproduced.</sentence>
+      <sentence id="3" ids_article_sentences="27">It took seven years and the help of 60 students to build &amp;quot;synIII&amp;quot;.</sentence>
+      <sentence id="4" ids_article_sentences="15">The breakthrough makes scientists more able to design living things.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-28 12:21:49" annotation_time="44.777">
+      <sentence id="3" ids_highlights="1">Scientists have built a designer chromosome and inserted it into a cell, geneticist Jef Boeke from New York University announced this week.</sentence>
+      <sentence id="8" ids_highlights="2">But the cell survived and made use of its new chromosome.</sentence>
+      <sentence id="15" ids_highlights="4">It makes scientists more able to alter the design of living things.</sentence>
+      <sentence id="27" ids_highlights="3">It took seven years and the help of 60 students to build synIII with the help of computer modeling.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Look miles into the future and imagine a day, when geneticists can design a flawless set of human genes in a laboratory.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>That future vision may never arrive, but it has taken a step closer.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Scientists have built a designer chromosome and inserted it into a cell, geneticist Jef Boeke from New York University announced this week.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>The chromosome was a heavily altered version, a departure from its natural counterpart.</content>
+        </sentence>
+        <sentence id="5">
+          <content>A team of scientists from around the world made 500 changes to its genetic base.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;When you change the genome, you&amp;apost;re gambling,&amp;quot; said Boeke, who led the project.</content>
+        </sentence>
+        <sentence id="7">
+          <content>&amp;quot;One wrong change can kill the cell.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>But the cell survived and made use of its new chromosome.</content>
+        </sentence>
+        <sentence id="9">
+          <content>It also reproduced, and subsequent cells carried the new chromosome forward.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>Actually, make this breakthrough a second step closer to that way-out-there future.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>Researchers were already able to duplicate a chromosome on a computer four years ago, build it in the lab, insert it into a cell and watch it work.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>It was a huge advancement that created the first synthetic bacteria cell, scientists said then.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>But, now, there&amp;apost;s been a leap forward, Boeke said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;Our research moves the needle in synthetic biology from theory to reality,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>It makes scientists more able to alter the design of living things.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="16">
+          <content>Meet yeast -- your cousin.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="17">
+          <content>The new chromosome and the cell Boeke&amp;apost;s scientist built it for are much more complex and are closer to those of a human being.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="18">
+          <content>The kind of cell Boeke used?</content>
+        </sentence>
+        <sentence id="19">
+          <content>Brewer&amp;apost;s yeast.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="20">
+          <content>Yeast cells, human cells, plant and animal cells have in common that they are &amp;quot;eukaryotes&amp;quot; -- cells with a nucleus wrapped in membrane.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="21">
+          <content>Our chromosomes, which are located in those nuclei, are made of enormously long strings of DNA.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="22">
+          <content>They are wound up like twists of yarn that take on that familiar &amp;quot;X&amp;quot; shape many associate with the genes they contain.</content>
+        </sentence>
+        <sentence id="23">
+          <content>And they are called eukaryotic chromosomes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="24">
+          <content>Boeke&amp;apost;s breakthrough represents the first report that a whole eukaryotic chromosome was constructed from scratch, NYU said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="25">
+          <content>Boeke and his team call their new designer chromosome &amp;quot;synIII.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="26">
+          <content>Mammoth knitting task.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="27">
+          <content>It took seven years and the help of 60 students to build synIII with the help of computer modeling.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="28">
+          <content>Each student put together about 1,000 genetic molecule pairs called &amp;quot;base pairs&amp;quot; to make strings of DNA.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="29">
+          <content>They were joined together to make a genetic strand 273,871 base pairs long.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="30">
+          <content>That&amp;apost;s actually shorter than the yeast&amp;apost;s natural chromosome, which contained 316,667 base pairs.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="31">
+          <content>And that&amp;apost;s where the design and manipulation come in.</content>
+        </sentence>
+        <sentence id="32">
+          <content>Broeke and his team took out 47,841 base pairs that were repeats of other pairs -- along with some &amp;quot;junk&amp;quot; DNA.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="33">
+          <content>The new designer chromosome is a cleaned up, streamlined version of the original.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="34">
+          <content>Shuffling the genetic deck.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="35">
+          <content>Yeast has about 6,000 genes and shares about a third of them with humans, although yeast is a much simpler beast.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="36">
+          <content>That makes it easier to study.</content>
+        </sentence>
+        <sentence id="37">
+          <content>In fact, its genetics are probably better known than those of any other living thing, NYU said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="38">
+          <content>Although Boeke studies human genetics, too, he is not planning to design a set of synthetic human chromosomes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="39">
+          <content>But he would like to build all 16 required for an entire yeast cell.</content>
+        </sentence>
+        <sentence id="40">
+          <content>And he has made some progress already.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="41">
+          <content>Students are figuring out how to make DNA strands 10 times as long as the ones they made the first time around.</content>
+        </sentence>
+        <sentence id="42">
+          <content>It should speed up production of subsequent chromosomes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="34">
+      <sentences>
+        <sentence id="43">
+          <content>Boeke also wants to improve upon the yeast cells in the process, now that his team can shuffle its genes around like cards in a deck.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="35">
+      <sentences>
+        <sentence id="44">
+          <content>&amp;quot;It will allow us to ask, can we make a deck of cards with a better hand for making yeast survive under any of a multitude of conditions, such as tolerating higher alcohol levels.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="36">
+      <sentences>
+        <sentence id="45">
+          <content>That might make for stronger glass of beer, but it could also have other uses: The new cells could possibly be programmed to &amp;quot;brew&amp;quot; medicines, vaccines and fuels.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

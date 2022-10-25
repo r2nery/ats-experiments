@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1" link="http://edition.cnn.com/2012/11/29/business/opinion-cerf-google-internet-freedom/index.html" date_published="2012-11-29 17:11:56" category="business" author="Vinton Cerf, Special to CNN" highlights_mapped="true" mapping_error="false">
+  <title>&amp;apost;Father of the internet&amp;apost;: Why we must fight for its freedom</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="7">Some 42 countries filter and censor content out of the 72 studied by the Open Net Initiative.</sentence>
+      <sentence id="2" ids_article_sentences="4">According to an OECD study, the net already accounts of 13% of American business output.</sentence>
+      <sentence id="3" ids_article_sentences="32">At Google, Cerf says the company sees dangers of a government-led net crackdown.</sentence>
+      <sentence id="4" ids_article_sentences="46">A state-controlled regulatory system is unnecessary and would invariably raise costs.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-02 19:56:13" annotation_time="45.237995">
+      <sentence id="4" ids_highlights="2">According to a new OECD study, the net already accounts of 13% of American business output, impacting every industry, from communications to cars, and restaurants to retail.</sentence>
+      <sentence id="7" ids_highlights="1">Some 42 countries filter and censor content out of the 72 studied by the Open Net Initiative.</sentence>
+      <sentence id="32" ids_highlights="3">At Google, we see and feel the dangers of the government-led net crackdown.</sentence>
+      <sentence id="46" ids_highlights="4">A state-controlled system of regulation is not only unnecessary, it would almost invariably raise costs and prices and interfere with the rapid and organic growth of the internet we have seen since its commercial emergence in the 1990s.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The internet empowers each one of us to speak, create, learn and share.</content>
+        </sentence>
+        <sentence id="2">
+          <content>Today, more than two billion people are online - about a third of the planet.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>The internet has become one of the motors of the 21st century economy, allowing all of us to reach a global audience at a click of a mouse and creating hundreds of thousands of businesses and millions of jobs.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>According to a new OECD study, the net already accounts of 13% of American business output, impacting every industry, from communications to cars, and restaurants to retail.</content>
+        </sentence>
+        <sentence id="5">
+          <content>Not since Johannes Gutenberg invented the printing press, or Alexander Graham Bell the telephone, has a human invention empowered so many and offered so much possibility for benefiting humankind.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>Today, this free and open net is under threat.</content>
+        </sentence>
+        <sentence id="7">
+          <content>Some 42 countries filter and censor content out of the 72 studied by the Open Net Initiative.</content>
+        </sentence>
+        <sentence id="8">
+          <content>This doesn&amp;apost;t even count serial offenders such as North Korea and Cuba.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Over the past two years, Freedom House says governments have enacted 19 new laws threatening online free expression.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="10">
+          <content>Some of these governments are trying to use a closed-door meeting of The International Telecommunication Union that opens on December 3 in Dubai to further their repressive agendas.</content>
+        </sentence>
+        <sentence id="11">
+          <content>Accustomed to media control, these governments fear losing it to the open internet.</content>
+        </sentence>
+        <sentence id="12">
+          <content>They worry about the spread of unwanted ideas.</content>
+        </sentence>
+        <sentence id="13">
+          <content>They are angry that people might use the internet to criticize their governments.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="14">
+          <content>The ITU is bringing together regulators from around the world to renegotiate a decades-old treaty that was focused on basic telecommunications, not the internet.</content>
+        </sentence>
+        <sentence id="15">
+          <content>Some proposals leaked to the WICITLeaks website from participating states could permit governments to justify censorship of legitimate speech -- or even justify cutting off internet access by reference to amendments to the International Telecommunications Regulations (ITRs).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="16">
+          <content>Several authoritarian regimes reportedly propose to ban anonymity from the web, making it easier to find and arrest dissidents.</content>
+        </sentence>
+        <sentence id="17">
+          <content>Others have proposed moving the responsibilities of the private sector system that manages domain names and internet addresses to the United Nations.</content>
+        </sentence>
+        <sentence id="18">
+          <content>Yet other proposals would require any internet content provider, small or large, to pay new tolls in order to reach people across borders.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="19">
+          <content>The upshot?</content>
+        </sentence>
+        <sentence id="20">
+          <content>The next garage-based phenomena would face a steep and probably insurmountable financial hurdle in its effort to become the next YouTube, Facebook or Skype.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="21">
+          <content>Let us be clear: We do not advocate for an end to the ITU.</content>
+        </sentence>
+        <sentence id="22">
+          <content>The UN agency has helped the world manage radio spectrum and wired and wireless telephone networks, bringing much needed investment to the developing world.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="23">
+          <content>But this inter-governmental agency is the wrong place to make decisions about the future of the internet.</content>
+        </sentence>
+        <sentence id="24">
+          <content>Only governments have a vote at the ITU.</content>
+        </sentence>
+        <sentence id="25">
+          <content>This includes governments that do not support a free and open internet.</content>
+        </sentence>
+        <sentence id="26">
+          <content>Engineers, companies, and people that build and use the web have no vote.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="27">
+          <content>The multi-stakeholder model of internet policy development that is the hallmark of the Internet Engineering Task Force, the Internet Corporation for Assigned Names and Numbers, the Internet Governance Forum, the Regional Internet Registries, among many others, is the only sensible way forward.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="28">
+          <content>Transparency and openness are keys to informed participation in policy making.</content>
+        </sentence>
+        <sentence id="29">
+          <content>The proposals for amending the ITRs are not generally available to the public or other stakeholders.</content>
+        </sentence>
+        <sentence id="30">
+          <content>The treaty conference and proposals in Dubai are formally confidential.</content>
+        </sentence>
+        <sentence id="31">
+          <content>We consider this to be a serious deficiency and an inhibitor to thoughtful policy development.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="32">
+          <content>At Google, we see and feel the dangers of the government-led net crackdown.</content>
+        </sentence>
+        <sentence id="33">
+          <content>We operate in about 150 countries around the globe.</content>
+        </sentence>
+        <sentence id="34">
+          <content>Our services - including Search, YouTube and Blogger, to Gmail and Maps - have been blocked at some point, temporarily or permanently, in more than 30 different countries.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="35">
+          <content>We&amp;apost;re not alone in standing up.</content>
+        </sentence>
+        <sentence id="36">
+          <content>Users, experts and organizations from around the world have voiced their opposition to governments justifying their regulation of the internet through the ITU&amp;apost;s International Telecommunication Regulations.</content>
+        </sentence>
+        <sentence id="37">
+          <content>These include countries not just in the West, but also African internet leaders such as Kenya and North African beacons such as Tunisia.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="38">
+          <content>In all, more than 1000 organizations from more than 160 countries have raised concerns about the upcoming closed-door meeting in Dubai.</content>
+        </sentence>
+        <sentence id="39">
+          <content>Internet lovers around the world can learn more about the issue on our website -- and if they choose to do so, can pledge their support.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="40">
+          <content>While some governments argue that the internet needs new global rules to speed its rollout in the developing world, we believe the present market-driven approach is best positioned to keep up with the net&amp;apost;s exponential growth.</content>
+        </sentence>
+        <sentence id="41">
+          <content>Broadband services are being rolled out.</content>
+        </sentence>
+        <sentence id="42">
+          <content>Service interruptions remain rare.</content>
+        </sentence>
+        <sentence id="43">
+          <content>Within a few years the net is predicted to be serving four billion users -- more than half of humanity!</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="44">
+          <content>The bottom-up, loosely-coupled, bilateral and multi-stakeholder practices that have created the network of networks we call the internet allow for a broad range of business models.</content>
+        </sentence>
+        <sentence id="45">
+          <content>The critical technical standards developed by the Internet Engineering Task Force and the World Wide Web Consortium create interoperability.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="46">
+          <content>A state-controlled system of regulation is not only unnecessary, it would almost invariably raise costs and prices and interfere with the rapid and organic growth of the internet we have seen since its commercial emergence in the 1990s.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="47">
+          <content>The net&amp;apost;s future is far from assured and history offers much warning.</content>
+        </sentence>
+        <sentence id="48">
+          <content>Within a few decades of Gutenberg&amp;apost;s creation, princes and priests moved to restrict the right to print books.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="49">
+          <content>History is rife with examples of governments taking actions to &amp;quot;protect&amp;quot; their citizens from harm by controlling access to information and inhibiting freedom of expression and other freedoms outlined in The Universal Declaration of Human Rights.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="50">
+          <content>We must make sure, collectively, that the internet avoids a similar fate.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

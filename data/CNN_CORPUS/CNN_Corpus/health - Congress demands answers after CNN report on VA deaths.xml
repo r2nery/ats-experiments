@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="210" link="http://www.cnn.com/2014/01/07/health/congress-veterans-benefits/index.html" date_published="2014-01-07 22:45:37" category="health" author="Drew Griffin, Nelli Black, Scott Bronstein, CNN Investigations" highlights_mapped="true" mapping_error="false">
+  <title>Congress demands answers after CNN report on VA deaths</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">Veterans Affairs Committee members visit VA facilities in Georgia, South Carolina.</sentence>
+      <sentence id="2" ids_article_sentences="2">CNN reported patients died as a result of delayed or denied care.</sentence>
+      <sentence id="3" ids_article_sentences="11">Committee says VA continues to stonewall and withhold information.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-09-08 16:42:23" annotation_time="88.775665">
+      <sentence id="2" ids_highlights="1, 2">The congressional delegations led by Veterans Affairs Committee Chairman Jeff Miller, R-Florida, visited the Dorn Veterans Administration Medical Center in Columbia, South Carolina, and the Charlie Norwood Medical Facility in Augusta, Georgia, after a CNN investigation that reported patients died as a result of delayed or denied care.</sentence>
+      <sentence id="11" ids_highlights="3">The Veterans Affairs Committee has been looking into problems at VA medical centers for the past year and says the VA administration continues to stonewall and withhold information the congressmen believe is critical to understanding why the VA appears to be run so poorly.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Members of Congress traveled to two Veterans Administration hospitals featured in a CNN report to visit the facilities and demand answers about why U.S. veterans needlessly died there.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The congressional delegations led by Veterans Affairs Committee Chairman Jeff Miller, R-Florida, visited the Dorn Veterans Administration Medical Center in Columbia, South Carolina, and the Charlie Norwood Medical Facility in Augusta, Georgia, after a CNN investigation that reported patients died as a result of delayed or denied care.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Six deaths have been confirmed so far, and sources tell CNN the number of veterans who are dead or dying of cancer because they had to wait too long for diagnosis or treatment could be more than 20.</content>
+        </sentence>
+        <sentence id="4">
+          <content>Thousands of veterans were forced to wait months for simple screening tests like colonoscopies, and by the time they got diagnosed, it was too late.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>The wait lists for gastrointestinal appointments at the hospitals number in the thousands and go back as far as 2010.</content>
+        </sentence>
+        <sentence id="6">
+          <content>Both hospitals say the wait list issues have been resolved, but according to the visiting members of Congress, the VA still cannot explain why or who was responsible for the poor treatment of veterans.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>Rep. John Barrow, a Georgia Democrat whose district includes the Charlie Norwood VA center, said Congress has &amp;quot;a duty to make sure that the veterans who serve get the best health care possible.</content>
+        </sentence>
+        <sentence id="8">
+          <content>And it is very obvious that for too long and for too many folks that hasn&amp;apost;t happened.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>Citing a lack of any disciplinary action and lack of ability to identify who at the VA caused the backlogs to exist, Barrow told reporters, &amp;quot;Our goal here today is to try to get to the bottom of what happened and to prevent this from ever happening again.</content>
+        </sentence>
+        <sentence id="10">
+          <content>What&amp;apost;s important (is for) folks to understand this is just one step of a multistage affair to get to the bottom of what happened and to hold accountable those who were responsible.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>The Veterans Affairs Committee has been looking into problems at VA medical centers for the past year and says the VA administration continues to stonewall and withhold information the congressmen believe is critical to understanding why the VA appears to be run so poorly.</content>
+        </sentence>
+        <sentence id="12">
+          <content>The VA has also refused CNN&amp;apost;s repeated requests to interview Secretary of Veterans Affairs Eric Shinseki or any other VA official on camera.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>Miller said the practice at the VA seems to be to hold no one accountable for errors, and instead transfer poorly performing executives and employees to other facilities instead of firing them.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>In an interview with CNN, Miller said he and his committee will continue to demand to know the names of those responsible and to demand disciplinary action.</content>
+        </sentence>
+        <sentence id="15">
+          <content>&amp;quot;That&amp;apost;s why we asked the question again today ... tell us exactly who was disciplined and how.&amp;quot;</content>
+        </sentence>
+        <sentence id="16">
+          <content>Miller said, &amp;quot;I don&amp;apost;t want to hear the excuse anymore that it was, &amp;apost;well, it was multifaceted, there were many people involved.&amp;apost;.</content>
+        </sentence>
+        <sentence id="17">
+          <content>... Well, if there were many people involved, then they all need to go.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="18">
+          <content>Miller, who said he has been reluctant to make his investigations political, did say it is time the White House starts paying attention to the deteriorating treatment of the nation&amp;apost;s veterans.</content>
+        </sentence>
+        <sentence id="19">
+          <content>He said he has been frustrated by a lack of cooperation from the Veterans Administration leadership, and that Shinseki has not paid enough attention to the medical problems at VA medical centers.</content>
+        </sentence>
+        <sentence id="20">
+          <content>Miller also said it is time President Obama pay as much attention to what is happening at VA medical centers as he does to what&amp;apost;s happening in Washington or Hawaii, a reference to the president&amp;apost;s recent vacation to his home state.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="21">
+          <content>&amp;quot;It&amp;apost;s time for him (Shinseki) to show some passion.</content>
+        </sentence>
+        <sentence id="22">
+          <content>And certainly it&amp;apost;s time to show some passion from the President.</content>
+        </sentence>
+        <sentence id="23">
+          <content>I mean, the fact that we&amp;apost;ve had veterans who have died in the very facilities that are supposed to be taking care of them, and not by natural means, by means that could have been prevented, is egregious.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="24">
+          <content>The congressman said his group has given the VA 30 days to respond to their requests for those answers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2354" link="http://cnn.com/2012/12/13/world/asia/japan-china-disputed-islands/index.html" date_published="2012-12-13 07:07:50" category="world" author="Yoko Wakatsuki and Jethro Mullen, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Japan scrambles fighter jets after Chinese plane seen near disputed islands</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="5">NEW: China says the plane was part of a joint air-sea patrol of the area.</sentence>
+      <sentence id="2" ids_article_sentences="8">NEW: The Chinese plane didn&amp;apost;t show up on Japanese military radar.</sentence>
+      <sentence id="3" ids_article_sentences="7">NEW: Japan says it sent eight F-15 jets and another plane to the area.</sentence>
+      <sentence id="4" ids_article_sentences="2">This is the first time the island dispute has involved aircraft.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-02 19:43:24" annotation_time="26.4995">
+      <sentence id="2" ids_highlights="4">This is the first time that the dispute over the islands -- which Japan calls Senkaku and China refers to as Diaoyu -- has involved aircraft, introducing a new sphere of risky encounters for the two Asian neighbors.</sentence>
+      <sentence id="5" ids_highlights="1">Analysts say that by sending its own patrols into the area, China is challenging Japan&amp;apost;s de facto control of the islands, which has been the status quo for the past 40 years.</sentence>
+      <sentence id="7" ids_highlights="3">As a result, the Japanese Self Defense Force sent eight F-15 jets and an early warning E2C plane to the area, the government said, revising up the number of planes it initially said it had deployed.</sentence>
+      <sentence id="8" ids_highlights="2">By the time the Japanese jets arrived, there was no sign of the Chinese plane, which had not shown up on military radar, the Japanese Self Defense Force said.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Tokyo Japan scrambled fighter jets after a Chinese plane was seen Thursday near small islands in the East China Sea that are claimed by both countries.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>This is the first time that the dispute over the islands -- which Japan calls Senkaku and China refers to as Diaoyu -- has involved aircraft, introducing a new sphere of risky encounters for the two Asian neighbors.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Chinese government ships have repeatedly entered the waters around the remote, rocky islands since the Japanese government announced in September it was buying several of the islands from private owners.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>Japanese Coast Guard vessels have engaged in games of cat and mouse with the Chinese ships, with both sides broadcasting messages to one another insisting they have territorial sovereignty over the area.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>Analysts say that by sending its own patrols into the area, China is challenging Japan&amp;apost;s de facto control of the islands, which has been the status quo for the past 40 years.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>On Thursday morning, a Japanese Coast Guard patrol vessel spotted the Chinese government plane in airspace around the islands, Chief Cabinet Secretary Osamu Fujimura said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>As a result, the Japanese Self Defense Force sent eight F-15 jets and an early warning E2C plane to the area, the government said, revising up the number of planes it initially said it had deployed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="8">
+          <content>By the time the Japanese jets arrived, there was no sign of the Chinese plane, which had not shown up on military radar, the Japanese Self Defense Force said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="9">
+          <content>China&amp;apost;s State Oceanic Administration said a B-3837 patrol plane had arrived in the islands&amp;apost; airspace Thursday morning in order to carry out a joint air-sea patrol with ships in the area.</content>
+        </sentence>
+        <sentence id="10">
+          <content>The patrol teams announced China&amp;apost;s territorial claim and told the Japanese ships to leave the area, it said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="11">
+          <content>Fujimura said that the Chinese plane&amp;apost;s entry into the area was &amp;quot;extremely regrettable&amp;quot; and that Japan has lodged a protest with the Chinese government through diplomatic channels.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="12">
+          <content>The Japanese government&amp;apost;s acquisition of the islands in September also set off several days of violent anti-Japanese protests across China and soured economic ties between the two Asian nations.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="13">
+          <content>The United States has said it doesn&amp;apost;t take sides in territorial disputes and urged the two sides to resolve the situation peacefully.</content>
+        </sentence>
+        <sentence id="14">
+          <content>Nonetheless, U.S. officials have admitted that the islands fall under the scope of a mutual defense treaty between Washington and Tokyo.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

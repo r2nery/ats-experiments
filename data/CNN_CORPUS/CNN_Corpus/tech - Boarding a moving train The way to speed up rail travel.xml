@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1579" link="http://www.cnn.com/2011/11/24/tech/innovation/moving-platforms/index.html" date_published="2011-11-24 12:37:29" category="tech" author="Ayesha Durgahee, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Boarding a moving train: The way to speed up rail travel?</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="4">&amp;quot;Moving Platforms&amp;quot; is an integrated tram-to-train concept.</sentence>
+      <sentence id="2" ids_article_sentences="7">Passengers would cross between tram and train without either vehicle stopping.</sentence>
+      <sentence id="3" ids_article_sentences="4">It&amp;apost;s the work of British designer Paul Priestman.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-11 10:49:28" annotation_time="177.26935" mapping_time_divergence="59.089783">
+      <sentence id="4" ids_highlights="1, 3">&amp;quot;The idea with Moving Platforms is that ... if you were going on holiday or on business for instance, you could get onto a tram on your street and then seamlessly travel from that onto the high-speed line and then get off at your destination in another city, then onto a tram and then end up at your destination without ever having gone in your car or perhaps got on a bus,&amp;quot; says Priestman.</sentence>
+      <sentence id="7" ids_highlights="2">But instead of passengers having to get off the tram at a rail station and wait for the next HSR service to arrive, the moving tram would &amp;quot;dock&amp;quot; with a moving train, allowing passengers to cross between tram and train without either vehicle ever stopping.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>London A designer has come up with a unique and futuristic solution for speeding up rail travel: he doesn&amp;apost;t want to change the engines, or the tracks -- he wants to get rid of the stations.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Determined to take rail transport into the 21st century, Paul Priestman, director of British design group Priestmangoode, is the man behind the &amp;quot;Moving Platforms&amp;quot; concept, which he believes could potentially revolutionize the rail industry.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>His scheme would see travelers served by a carousel of trams and high-speed trains that would take passengers from their homes to their destinations without them ever having to use a bus, car or taxi.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>&amp;quot;The idea with Moving Platforms is that ... if you were going on holiday or on business for instance, you could get onto a tram on your street and then seamlessly travel from that onto the high-speed line and then get off at your destination in another city, then onto a tram and then end up at your destination without ever having gone in your car or perhaps got on a bus,&amp;quot; says Priestman.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>&amp;quot;It&amp;apost;s totally integrated into a sort of larger transport system,&amp;quot; he adds.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>The idea is to have a city-wide network of trams that travel in a loop and connect with a high-speed rail service.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>But instead of passengers having to get off the tram at a rail station and wait for the next HSR service to arrive, the moving tram would &amp;quot;dock&amp;quot; with a moving train, allowing passengers to cross between tram and train without either vehicle ever stopping.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;The trams speed up and the high-speed train slows down and they join, so they dock at high speed,&amp;quot; explains Priestman.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="9">
+          <content>&amp;quot;They stay docked for the same amount of time that it would stop at a station,&amp;quot; he adds.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;There are big doors, there are wide doors, they&amp;apost;re all the same level so you can seamlessly go between the two vehicles quite peacefully; there&amp;apost;s no hurry.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;Then, when everyone&amp;apost;s done that, the doors shut and then the trains separate and the tram then goes back into the city or town and picks up more passengers and drops off passengers.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="12">
+          <content>Instead of using paper tickets to pass through a barrier, passengers would used an RFID (radio-frequency identification) system to transfer from tram to train.</content>
+        </sentence>
+        <sentence id="13">
+          <content>Similar systems that let passengers scan pre-paid smartcards are already used on many public transport networks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="14">
+          <content>While Priestman admits that it will be some time before his vision could be implemented, he says the time has come to rethink how we travel.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="15">
+          <content>&amp;quot;This idea is a far-future thought but wouldn&amp;apost;t it be brilliant to just re-evaluate and just re-think the whole process?&amp;quot;</content>
+        </sentence>
+        <sentence id="16">
+          <content>he says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

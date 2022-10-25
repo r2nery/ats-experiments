@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1631" link="http://www.cnn.com/2014/03/21/tech/mobile/cloak-app/index.html" date_published="2014-03-21 15:22:50" category="tech" author="Heather Kelly, CNN" highlights_mapped="true" mapping_error="false">
+  <title>New app helps you avoid your friends, exes</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">A new iPhone app helps you avoid running into people you&amp;apost;d rather not see.</sentence>
+      <sentence id="2" ids_article_sentences="4">It pulls location information from your Foursquare and Instagram networks.</sentence>
+      <sentence id="3" ids_article_sentences="12">Users can set up notifications for certain people they want to avoid.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-16 20:22:23" annotation_time="4872.322">
+      <sentence id="3" ids_highlights="1">So while most social apps are about connecting with friends, family or good-looking strangers, Moore began to wonder if a mobile tool could use the same readily available location information to help you avoid certain people.</sentence>
+      <sentence id="4" ids_highlights="2">That&amp;apost;s how he and Chris Baker were inspired to create Cloak, a free iPhone app that pulls in location check-ins from your contacts&amp;apost; Instagram and Foursquare accounts.</sentence>
+      <sentence id="12" ids_highlights="3">The app lets people set up push alerts for acquaintances they&amp;apost;d prefer to avoid such as exes, frenemies or annoying co-workers.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>After moving to New York, Brian Moore could not stop running into his ex-girlfriend.</content>
+        </sentence>
+        <sentence id="2">
+          <content>There were four awkward and unplanned encounters in six months, to be exact.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>So while most social apps are about connecting with friends, family or good-looking strangers, Moore began to wonder if a mobile tool could use the same readily available location information to help you avoid certain people.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>That&amp;apost;s how he and Chris Baker were inspired to create Cloak, a free iPhone app that pulls in location check-ins from your contacts&amp;apost; Instagram and Foursquare accounts.</content>
+        </sentence>
+        <sentence id="5">
+          <content>It maps out the positions of people you know based on their most recent social posts so you can give them the slip.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>Cloak&amp;apost;s tagline is &amp;quot;Incognito mode for real life.&amp;quot;</content>
+        </sentence>
+        <sentence id="7">
+          <content>You might say it&amp;apost;s an anti-social network.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>Click on a bubble on the map, and you&amp;apost;ll see a person&amp;apost;s name, his or her location and about how long ago he or she checked in there.</content>
+        </sentence>
+        <sentence id="9">
+          <content>If it was a while ago, the image will appear faded, like a ghost.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;We feel like we&amp;apost;ve reached the point of social fatigue -- too many networks with too much information, all the time,&amp;quot; Baker says.</content>
+        </sentence>
+        <sentence id="11">
+          <content>&amp;quot;It&amp;apost;s OK to turn off and pick up a copy of &amp;apost;Walden&amp;apost; and just be alone.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>The app lets people set up push alerts for acquaintances they&amp;apost;d prefer to avoid such as exes, frenemies or annoying co-workers.</content>
+        </sentence>
+        <sentence id="13">
+          <content>If someone wants to drop off the grid completely, he can set up these notifications for everyone in his social networks -- presumably while sneaking through dark alleys or hiding behind sunglasses and a hat.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="14">
+          <content>The app only works with Foursquare and Instagram for now, so it has limited usefulness if your friends aren&amp;apost;t active on those networks.</content>
+        </sentence>
+        <sentence id="15">
+          <content>But the developers hope to add Facebook soon.</content>
+        </sentence>
+        <sentence id="16">
+          <content>They say Twitter&amp;apost;s location information is still weak, but they may add that service as well someday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="17">
+          <content>Dodging friends isn&amp;apost;t necessarily an anti-social activity.</content>
+        </sentence>
+        <sentence id="18">
+          <content>Baker says there are plenty of times a person might want to avoid being seen, such as while on a first date or during a quick run to the grocery store in pajamas.</content>
+        </sentence>
+        <sentence id="19">
+          <content>Anyone playing hooky, recovering from plastic surgery or carrying on a clandestine relationship might also find the app useful.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="20">
+          <content>For some digital users, the move away from always-on oversharing is a natural progression.</content>
+        </sentence>
+        <sentence id="21">
+          <content>After years of being on our phones 24/7, getting constant updates from our social networks and broadcasting our every social outing, many of us crave a break.</content>
+        </sentence>
+        <sentence id="22">
+          <content>All that contact online can leave us wanting more privacy in real life.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="23">
+          <content>&amp;quot;Twitter and Facebook ... are like giant auditoriums where we put on &amp;apost;public performances.&amp;apost;.</content>
+        </sentence>
+        <sentence id="24">
+          <content>And those have grown exhausting.</content>
+        </sentence>
+        <sentence id="25">
+          <content>That&amp;apost;s why Snapchat felt so refreshing,&amp;quot; Moore says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="26">
+          <content>The app is still young, but Moore says users have already found creative, social ways to use it.</content>
+        </sentence>
+        <sentence id="27">
+          <content>Some are exploring Instagram images by using the map, while others have set up alerts for people they do want to see.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="28">
+          <content>In theory, someone could use the app purposefully to run into people who&amp;apost;d rather be ignored.</content>
+        </sentence>
+        <sentence id="29">
+          <content>To prevent any unwanted abuse of your location information, lock down your privacy settings and don&amp;apost;t share your whereabouts unless you&amp;apost;re comfortable with people knowing exactly where you are.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="30">
+          <content>&amp;quot;Social has had its moment in the sun.</content>
+        </sentence>
+        <sentence id="31">
+          <content>Now people are beginning to revolt,&amp;quot; Baker says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

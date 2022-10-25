@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2275" link="http://edition.cnn.com/2014/03/27/world/asia/japan-death-row-inmate-freed/index.html?hpt=hp_t3" date_published="2014-03-27 17:09:49" category="world" author="Eliott C. McLaughlin, CNN" highlights_mapped="true" mapping_error="false">
+  <title>In Japan, world&amp;apost;s longest-serving death row inmate to get retrial</title>
+  <keywords>Iwao Hakamada,longest-serving death row inmate released,Japan death row inmate</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="20">Iwao Hakamada served 48 years in prison for murders of his boss and boss&amp;apost;s family.</sentence>
+      <sentence id="2" ids_article_sentences="3">Court granted him a retrial, saying some evidence may have been fabricated.</sentence>
+      <sentence id="3" ids_article_sentences="17">Amnesty international says he was beaten and threatened into confessing in 1966.</sentence>
+      <sentence id="4" ids_article_sentences="21">78-year-old ex-boxer&amp;apost;s mental state deteriorated because of isolation, Amnesty says.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-06 22:27:03" annotation_time="40.163002">
+      <sentence id="3" ids_highlights="2">The Shizuoka District Court suspended his death sentence and released Hakamada after DNA testing indicated key evidence against him may have been fabricated, reported NHK, the Japanese public broadcasting organization.</sentence>
+      <sentence id="17" ids_highlights="3">He retracted the confession during the trial and told the court that police had beaten and threatened him,&amp;quot; Amnesty said.</sentence>
+      <sentence id="20" ids_highlights="1">Like most death row inmates in Japan, Hakamada was largely held in solitary confinement during his 48 years in prison.</sentence>
+      <sentence id="21" ids_highlights="4">His mental health has deteriorated as a result of the decades he spent isolated, Amnesty said.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Iwao Hakamada holds the most dubious of records: Convicted of a 1966 quadruple murder, he is the world&amp;apost;s longest-serving death row inmate, according to Amnesty International.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>That record was capped Thursday when, after almost 48 years, a local court reopened Hakamada&amp;apost;s case, Amnesty and Japanese media reported.</content>
+        </sentence>
+        <sentence id="3">
+          <content>The Shizuoka District Court suspended his death sentence and released Hakamada after DNA testing indicated key evidence against him may have been fabricated, reported NHK, the Japanese public broadcasting organization.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>The court said keeping him detained any longer would be unjust, NHK reported.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Prosecutors have four days to appeal the court&amp;apost;s ruling, but Amnesty International&amp;apost;s East Asia research director said it would be &amp;quot;most callous and unfair&amp;quot; to challenge the court&amp;apost;s decision.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;Time is running out for Hakamada to receive the fair trial he was denied more than four decades ago,&amp;quot; Roseann Rife said.</content>
+        </sentence>
+        <sentence id="7">
+          <content>&amp;quot;If ever there was a case that merits a retrial, this is it.</content>
+        </sentence>
+        <sentence id="8">
+          <content>Hakamada was convicted on the basis of a forced confession, and there remain unanswered questions over recent DNA evidence.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>NHK video showed several men in blue uniforms, some wearing surgical masks, escorting the 78-year-old former pro boxer out of a Tokyo detention center Thursday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>Hunched forward and wearing a yellow, short-sleeved button-down, Hakamada entered a silver van.</content>
+        </sentence>
+        <sentence id="11">
+          <content>He was accompanied by his sister, Hideko Hakamada, who earlier attended a rally outside the court in which several dozen supporters broke into emphatic applause when a man unfurled a sign saying, &amp;quot;Retrial granted.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>An emotional Hideko Hakamada told the crowd, &amp;quot;Thank you very much.</content>
+        </sentence>
+        <sentence id="13">
+          <content>I am very pleased.</content>
+        </sentence>
+        <sentence id="14">
+          <content>I am very thankful with everyone&amp;apost;s support,&amp;quot; according to the NHK footage.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="15">
+          <content>Iwao Hakamada was convicted in 1966 of killing his boss at a soybean processing company, along with the boss&amp;apost;s wife and two children, Amnesty said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;Hakamada &amp;apost;confessed&amp;apost; after 20 days of interrogation by police.</content>
+        </sentence>
+        <sentence id="17">
+          <content>He retracted the confession during the trial and told the court that police had beaten and threatened him,&amp;quot; Amnesty said.</content>
+        </sentence>
+        <sentence id="18">
+          <content>&amp;quot;According to his lawyers, recent forensic tests show no match between Hakamada&amp;apost;s DNA and samples taken from clothing the prosecution alleges was worn by the murderer.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="19">
+          <content>District Court Judge Hiroaki Murayama, who handled the retrial proceeding, said DNA test results indicated blood found on five items of clothing allegedly worn by the culprit was not Hakamada&amp;apost;s, according to Kyodo News.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="20">
+          <content>Like most death row inmates in Japan, Hakamada was largely held in solitary confinement during his 48 years in prison.</content>
+        </sentence>
+        <sentence id="21">
+          <content>His mental health has deteriorated as a result of the decades he spent isolated, Amnesty said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="22">
+          <content>Hakamada&amp;apost;s case marks the sixth time a death row inmate in Japan has earned a retrial, and courts overturned death sentences in four of the five previous cases, NHK reported.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="23">
+          <content>Hakamada&amp;apost;s case comes just weeks after Louisiana&amp;apost;s longest-serving inmate, Glenn Ford, left the State Penitentiary at Angola after almost 30 years in prison.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

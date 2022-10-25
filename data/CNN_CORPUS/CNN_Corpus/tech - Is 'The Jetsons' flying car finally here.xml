@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1615" link="http://edition.cnn.com/2014/04/07/tech/are-flying-cars-finally-becoming-a-reality/index.html?iid=article_sidebar" date_published="2014-04-07 10:55:12" category="tech" author="Teo Kermeliotis, for CNN" highlights_mapped="true" mapping_error="false">
+  <title>Is &amp;apost;The Jetsons&amp;apost; flying car finally here?</title>
+  <keywords>terraflying,Terrafugia,Terrafugia boston,Carl Dietrich,Carl Dietrich terrafugia,terrafugia Carl Dietrich,flying car,are flying cars finally becoming a reality,where&amp;apost;s my flying car,2025,TF-X 2025,TF-X,TF-X,terrafugia TF-X</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="6">Aerospace company Terrafugia is working on the concept of a flying electric car.</sentence>
+      <sentence id="2" ids_article_sentences="6">Called TF-X, the vehicle is designed to be capable of vertical take-offs and landings.</sentence>
+      <sentence id="3" ids_article_sentences="24">The goal is to make personal aviation accessible to a broader segment of the population.</sentence>
+      <sentence id="4" ids_article_sentences="28">The company estimates a period of 8-12 years before it&amp;apost;s able to develop TF-X.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-07-26 11:19:38" annotation_time="217.1405">
+      <sentence id="6" ids_highlights="1, 2">Thus, Boston -based Terrafugia announced last May it had started working on the concept of TF-X, a four-seat, plug-in hybrid electric car that can do vertical take-offs and landings.</sentence>
+      <sentence id="24" ids_highlights="3">With its new prototype, however, Terrafugia believes that just five hours would be enough for users to learn how to operate the TF-X vehicle, appealing to a broader segment of the population.</sentence>
+      <sentence id="28" ids_highlights="4">&amp;quot;It&amp;apost;s hard to say exactly, but we estimate eight to12 years,&amp;quot; says Dietrich, who admits that even if Terrafugia had all the capital required to develop TF-X -- which it doesn&amp;apost;t -- the realization of the project depends on technological developments as well as regulators changing the way aircraft are currently certified.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Ever since the early 1960s when we were glued to the animated sitcom &amp;quot;The Jetsons&amp;quot;, whimsical visions of a futuristic space utopia filled our imaginations leaving people asking themselves: &amp;quot;Where&amp;apost;s my flying car?&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Point taken, but perhaps now, as our childhood dreams move slowly closer to reality, we should also start pondering this: if a flying car was here today, in the real world and not in the realm of science fiction, would we feel comfortable controlling it safely while cruising thousands of feet up in the air?</content>
+        </sentence>
+        <sentence id="3">
+          <content>Would we possess the technical skills required to even get it off the ground, let alone land it without a scratch?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Before you dash to the door and sprint to your nearest pilot school to sign up for flight lessons, take a moment to meet Carl Dietrich, the chief executive and co-founder of aerospace company Terrafugia.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Dietrich and his team are working to bring consumers closer to the prospect of a practical flying car, envisioning a vehicle that does not require its operator to be a trained pilot.</content>
+        </sentence>
+        <sentence id="6">
+          <content>Thus, Boston -based Terrafugia announced last May it had started working on the concept of TF-X, a four-seat, plug-in hybrid electric car that can do vertical take-offs and landings.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>Who makes the calls?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>Although not driverless, Dietrich says the TF-X could increase the level of so-called &amp;quot;human directed local autonomy,&amp;quot; a term he describes as a &amp;quot;big fancy phrase&amp;quot; that essentially means that the vehicle&amp;apost;s operator won&amp;apost;t need to have the knowledge or skills of a pilot.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>&amp;quot;They don&amp;apost;t need to know those things because the computer is plugged in to a data network that automatically helps them plan the flight path, avoid other air traffic and air space restrictions, things of that nature,&amp;quot; says Dietrich.</content>
+        </sentence>
+        <sentence id="10">
+          <content>He explains that operators would still have to make high-level, critical decisions, like determining whether it&amp;apost;s safe to take off and land or approve the landing zone in advance.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;Anything that happens on the ground, the person is going to make a call,&amp;quot; says Dietrich.</content>
+        </sentence>
+        <sentence id="12">
+          <content>&amp;quot;Once you&amp;apost;re flying, the actual operation of all the flight control surfaces is going to be computer controlled because, frankly, the computer can do it better than a pilot.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>Yet, if you have the vision that the semi-autonomous vehicle would help you escape annoying traffic jams by simply taking off the ground, you&amp;apost;d better think again.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;That&amp;apost;s science fiction and that will always be science fiction,&amp;quot; says Dietrich, explaining that vertical liftoffs require a lot of air to be blown down which is not practical and can cause damages to neighboring vehicles.</content>
+        </sentence>
+        <sentence id="15">
+          <content>Instead, TF-X would be able to take off in airports and helipads, as well as specially designed spaces -- the size of a tennis court -- that would be devoid of street lights, road signs and power lines.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>From dreams to reality.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>Yet, the TF-X concept is not Terrafugia&amp;apost;s first attempt to take to the skies.</content>
+        </sentence>
+        <sentence id="18">
+          <content>Founded in 2006, the company made headlines in recent years with Transition, a street legal airplane that can be flown in and out of general aviation airports.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="19">
+          <content>More like a driveable plane than a flying car, the two-seat vehicle can fold up its wings -- just like putting the top down into a convertible car -- and fly with a cruise speed of 100 miles per hour; it can also be parked inside a single car garage, driven on the road on a highway speed and run on automotive gasoline.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="20">
+          <content>Terrafugia has been flying prototypes of Transition since 2009 and is now very close to getting it to the market.</content>
+        </sentence>
+        <sentence id="21">
+          <content>&amp;quot;We have over 100 orders for Transition,&amp;quot; says Dietrich, adding that Transition costs $279,000.</content>
+        </sentence>
+        <sentence id="22">
+          <content>&amp;quot;We are expecting to ship the first products to customers in the second quarter of 2016.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="23">
+          <content>But in order for users to be able to fly the Transition, they would need to have at least a sport pilot&amp;apost;s license, which requires 20 hours of flight time -- most sport pilots take 30-35 hours to get their sport pilot certificates.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="24">
+          <content>With its new prototype, however, Terrafugia believes that just five hours would be enough for users to learn how to operate the TF-X vehicle, appealing to a broader segment of the population.</content>
+        </sentence>
+        <sentence id="25">
+          <content>Dietrich says all operators will need to know is how to interface with the vehicle, how to determine if it&amp;apost;s to safe to take off and land and what to do on the event of an emergency -- in those cases, operators would be able to pull a handle which would be able to activate a parachute system for the entire vehicle by pulling a handle.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="26">
+          <content>Future is now?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="27">
+          <content>So, how far away are we from our first ever TF-X air cruise?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="28">
+          <content>&amp;quot;It&amp;apost;s hard to say exactly, but we estimate eight to12 years,&amp;quot; says Dietrich, who admits that even if Terrafugia had all the capital required to develop TF-X -- which it doesn&amp;apost;t -- the realization of the project depends on technological developments as well as regulators changing the way aircraft are currently certified.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="29">
+          <content>Dietrich says Terrafugia is &amp;quot;heavily involved&amp;quot; with international committees to write new certification standards that account for some of the new technologies that are increasingly coming to the market for manned and unmanned aircraft, and which also apply to TF-X --- things like electric motors and batteries for general aviation aircraft.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="30">
+          <content>&amp;quot;Those sort of things have never been certified before so we don&amp;apost;t know how long it will take for regulatory bodies to adapt to the new technology,&amp;quot; he says.</content>
+        </sentence>
+        <sentence id="31">
+          <content>&amp;quot;The rules are all very old, the rules need to be updated,&amp;quot; adds Dietrich.</content>
+        </sentence>
+        <sentence id="32">
+          <content>&amp;quot;If the rules are successfully updated then we see the possibility for somebody to get what we call a TF-X operator&amp;apost;s permit in as little as five hours.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="33">
+          <content>Ultimately, Dietrich says, the goal of the whole TF-X program &amp;quot;is to make the idea of the flying car a reality.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="34">
+          <content>&amp;quot;In order to do that, we have to lower the barrier entry to aviation,&amp;quot; he adds.</content>
+        </sentence>
+        <sentence id="35">
+          <content>&amp;quot;We have to make it easier, we have to make it safer, we have to make it faster than driving your car, and we have to make it significantly more convenient than operating an airplane today,&amp;quot; continues Dietrich.</content>
+        </sentence>
+        <sentence id="36">
+          <content>&amp;quot;It&amp;apost;s going to take a while to get there, but that&amp;apost;s the goal.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

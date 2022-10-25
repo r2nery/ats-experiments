@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="363" link="http://edition.cnn.com/2012/02/09/health/us-cancer-drug-alzheimers/index.html" date_published="2012-02-09 22:18:44" category="health" author="Elizabeth Cohen, Senior Medical Correspondent" highlights_mapped="true" mapping_error="false">
+  <title>Skin cancer drug reverses Alzheimer&amp;apost;s in mice</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">&amp;quot;They saw very positive and robust ... effects in the mice,&amp;quot; an Alzheimer&amp;apost;s official says.</sentence>
+      <sentence id="2" ids_article_sentences="14">Researchers found improvements in mice&amp;apost;s memories after they got the drug.</sentence>
+      <sentence id="3" ids_article_sentences="7">The lead researcher cautions that not all good results in mice are seen in humans.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-12 12:20:21" annotation_time="17.580666">
+      <sentence id="3" ids_highlights="1">&amp;quot;They saw very positive and robust behavior effects in the mice.&amp;quot;</sentence>
+      <sentence id="7" ids_highlights="3">Gary Landreth, the lead researcher at Case Western, cautioned that even though his results were impressive in mice, it may turn out not to work in people.</sentence>
+      <sentence id="14" ids_highlights="2">Researchers tested the memories of mice with Alzheimer&amp;apost;s both before and after giving them bexarotene.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Scientists say they &amp;quot;serendipitously&amp;quot; discovered that a drug used to treat a type of cancer quickly reversed Alzheimer&amp;apost;s disease in mice.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>&amp;quot;It&amp;apost;s really exciting,&amp;quot; said Maria Carrillo, senior director for medical and scientific relations for the Alzheimer&amp;apost;s Association.</content>
+        </sentence>
+        <sentence id="3">
+          <content>&amp;quot;They saw very positive and robust behavior effects in the mice.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>In the study, researchers at Case Western Reserve University School of Medicine gave mice mega-doses of bexarotene, a drug used to treat a type of skin cancer called cutaneous T-cell lymphoma.</content>
+        </sentence>
+        <sentence id="5">
+          <content>Within 72 hours, the mice showed dramatic improvements in memory and more than 50% of amyloid plaque -- a hallmark of Alzheimer&amp;apost;s disease -- had been removed from the brain.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>The study was published Thursday in the journal Science.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>Gary Landreth, the lead researcher at Case Western, cautioned that even though his results were impressive in mice, it may turn out not to work in people.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;I want to say as loudly and clearly as possible that this was a study in mice, not in humans,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="9">
+          <content>&amp;quot;We&amp;apost;ve fixed Alzheimer&amp;apost;s in mice lots of times, so we need to move forward expeditiously but cautiously.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>Mice -- and humans -- with Alzheimer&amp;apost;s have high levels of a substance called amyloid beta in their brain.</content>
+        </sentence>
+        <sentence id="11">
+          <content>Pathology tests on the mice showed bexarotene lowered the levels of amyloid beta and raised the levels of apolipoprotein E, which helps keep amyloid beta levels low.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>Landreth said he hopes to try the drug out in healthy humans within two months, to see if it has the same effect.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>Those participating in the trial would be given the standard dose that cancer patients are usually given.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>Researchers tested the memories of mice with Alzheimer&amp;apost;s both before and after giving them bexarotene.</content>
+        </sentence>
+        <sentence id="15">
+          <content>For example, the Alzheimer&amp;apost;s mice walked right into a cage where they&amp;apost;d previously been given a painful electrical shock, but after treatment with bexarotene, the mice remembered the shock and refused to enter the cage.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>In another test, the scientists put tissue paper in a cage.</content>
+        </sentence>
+        <sentence id="17">
+          <content>Normal mice instinctively use tissues in their cage to make a nest, but mice with Alzheimer&amp;apost;s can&amp;apost;t figure out what to do with the tissues.</content>
+        </sentence>
+        <sentence id="18">
+          <content>After treatment with the drug, the Alzheimer&amp;apost;s mice made a nest with the paper.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="19">
+          <content>Carrillo said one of the major advantages of bexarotene is that it&amp;apost;s already been approved by the Food and Drug Administration for use in humans, which means the researchers can move into human trials sooner than if it were a completely new drug.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="20">
+          <content>The Alzheimer&amp;apost;s Association is funding Case Western&amp;apost;s next phase of research, which will involve using bexarotene at the levels used on cancer patients, Landreth said.</content>
+        </sentence>
+        <sentence id="21">
+          <content>Since the drug does have some side effects -- it can increase cholesterol, for example -- he hopes to use it in even lower levels as the study goes on.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="22">
+          <content>Landreth said his lab had been working on other drugs for Alzheimer&amp;apost;s for 10 years when a graduate student, Paige Cramer, decided to try bexarotene, which works on a receptor involved in amyloid beta clearance.</content>
+        </sentence>
+        <sentence id="23">
+          <content>Some other drugs that worked in mice were too toxic to use in humans.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="24">
+          <content>&amp;quot;We&amp;apost;re really lucky that bexarotene is a great drug with an acceptable safety profile,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="25">
+          <content>&amp;quot;This doesn&amp;apost;t happen very many times in life&amp;apost;&amp;quot;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

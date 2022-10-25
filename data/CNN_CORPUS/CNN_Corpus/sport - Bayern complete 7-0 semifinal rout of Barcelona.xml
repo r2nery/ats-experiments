@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1427" link="http://edition.cnn.com/2013/05/01/sport/football/football-champions-league-bayern-barcelona/index.html" date_published="2013-05-01 20:53:15" category="sport" author="Paul Gittings, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Bayern complete 7-0 semifinal rout of Barcelona</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Bayern Munich into Champions League final with 3-0 win over Barcelona .</sentence>
+      <sentence id="2" ids_article_sentences="3">Arjen Robben, a Gerard Pique own goal and Thomas Mueller second half scores.</sentence>
+      <sentence id="3" ids_article_sentences="1">Aggregate 7-0 win over Barcelona who left injured Lionel Messi on the bench.</sentence>
+      <sentence id="4" ids_article_sentences="7">All-Bundesliga final between Bayern and Borussia Dortmund on May 25.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-01 15:38:27" annotation_time="58.035664" mapping_time_divergence="14.508916">
+      <sentence id="1" ids_highlights="1, 3">Bayern Munich joined fellow German side Borussia Dortmund in the final of the European Champions League by completing a crushing 7-0 aggregate win over Barcelona in the Nou Camp Wednesday.</sentence>
+      <sentence id="3" ids_highlights="2">After a goalless first half, a fine Arjen Robben strike, a Gerard Pique own goal and a Thomas Mueller header ended any lingering hopes of a Barca comeback in a 3-0 victory for the visitors.</sentence>
+      <sentence id="7" ids_highlights="4">The previous two appearances have seen defeat to Inter Milan in 2010 and Chelsea last year but they will start favorites at Wembley on May 25 against Dortmund.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Bayern Munich joined fellow German side Borussia Dortmund in the final of the European Champions League by completing a crushing 7-0 aggregate win over Barcelona in the Nou Camp Wednesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Leading 4-0 from the semifinal first leg in the Allianz Arena, Bayern ruthlessly pulled apart a Barcelona side missing their talisman Lionel Messi, who sat out the second leg on the bench.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>After a goalless first half, a fine Arjen Robben strike, a Gerard Pique own goal and a Thomas Mueller header ended any lingering hopes of a Barca comeback in a 3-0 victory for the visitors.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>Home coach Tito Vilanova decided against risking his star asset Messi despite him scoring in the weekend win over Athletic Bilbao.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>Messi injured his hamstring in their quarterfinal tie against Paris St Germain and has been nursing the problem the last few weeks, cutting an often forlorn figure in Munich in the first leg.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>Without his creative influence, the La Liga champions in waiting were first kept in check then dismantled by a Bayern side reaching their third Champions League final in the past four years.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>The previous two appearances have seen defeat to Inter Milan in 2010 and Chelsea last year but they will start favorites at Wembley on May 25 against Dortmund.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="8">
+          <content>With the Bundesliga title already wrapped up and an appearance in the German Cup final against Stuttgart on June 1, coach Jupp Heynckes will be looking to sign off as Bayern coach with a treble triumph.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="9">
+          <content>Former Barcelona coach Pep Guardiola takes over at Bayern next season, doubtless relishing the task on the evidence of their comprehensive defeat of his former charges in the semifinal.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="10">
+          <content>Robben came close to breaking the deadlock in the first half, but delayed his shot.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="11">
+          <content>When given a second chance just after the break the Dutch international, a former Real Madrid player, cut inside to beat Valdes with a curling shot.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="12">
+          <content>Franck Ribery set up the further goals, first bursting clear down the left in the 72nd minute to see his cross turned clumsily into his own net by Pique.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="13">
+          <content>Four minutes later a similar run left Mueller to head home at the far post and complete the rout.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="14">
+          <content>All the time Messi sat glumly on the bench as the task became hopeless even for his genius.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="15">
+          <content>Teammate Pique reflected on one of the worst reverses in the history of a proud club.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;Perhaps it was the bitterest night I have had at Barcelona,&amp;quot; he told Spanish Canal Plus television.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;We tried but they scored a goal very early in the second half and this left us broken.</content>
+        </sentence>
+        <sentence id="18">
+          <content>The last 25 minutes were very difficult.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="19">
+          <content>Robben, by contrast, is already looking forward to the final against their arch German rivals.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="20">
+          <content>&amp;quot;To win 4-0 and 3-0 away, especially the 3-0 here, it is amazing,&amp;quot; he told Sky Sports.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="21">
+          <content>&amp;quot;Now we are in the final for the third time in four years and it is time to win this thing now.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="267" link="http://www.cnn.com/2013/04/09/health/halle-berry-pregnant" date_published="2013-04-09 11:21:47" category="health" author="Jen Christensen and Jacque Wilson, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Halle Berry joins growing group of older moms</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="5">Pregnant women in their 40s have a higher risk for certain disease.</sentence>
+      <sentence id="2" ids_article_sentences="4">By 40, a woman&amp;apost;s chance is less than 5% per cycle of becoming pregnant.</sentence>
+      <sentence id="3" ids_article_sentences="20">Women in their 40s have seen the highest rate of pregnancies in decades.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-09-15 18:02:33" annotation_time="81.215">
+      <sentence id="4" ids_highlights="2">By 40, a woman&amp;apost;s reproductive chance is less than 5% per cycle, so a natural pregnancy is rare.</sentence>
+      <sentence id="5" ids_highlights="1">And pregnant women in their 40s face increased risks for several health issues, including gestational diabetes, high blood pressure, breast cancer and miscarriages.</sentence>
+      <sentence id="20" ids_highlights="3">Macones has seen a significant increase in the number of older patients he sees.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Actress Halle Berry has joined a growing group of celebrity and real-life moms who are getting pregnant after 40.</content>
+        </sentence>
+        <sentence id="2">
+          <content>Berry recently announced she is carrying her second child at the age of 46.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>While birth rates for almost all other age groups are at historic lows, according to a 2012 report from the National Center for Health Statistics, the rate for women in their late 30s and early 40s is on the rise.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>By 40, a woman&amp;apost;s reproductive chance is less than 5% per cycle, so a natural pregnancy is rare.</content>
+        </sentence>
+        <sentence id="5">
+          <content>And pregnant women in their 40s face increased risks for several health issues, including gestational diabetes, high blood pressure, breast cancer and miscarriages.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>But Dr. Petra M. Casey said those risks vary significantly from patient to patient.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;Underlying health is a huge factor in the outcome of pregnancy,&amp;quot; she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>Casey, an associate professor of obstetrics and gynecology at the Mayo Clinic, gave birth to her two children at age 38 and at 41.</content>
+        </sentence>
+        <sentence id="9">
+          <content>&amp;quot;I don&amp;apost;t, unfortunately, look anything like Halle Berry,&amp;quot; she joked.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;Some women are incredibly healthy at 40; some are sick at 20,&amp;quot; she said.</content>
+        </sentence>
+        <sentence id="11">
+          <content>&amp;quot;That all makes a huge difference in the challenges they may face in being pregnant.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>Berry looks healthy and has less body fat than most Americans.</content>
+        </sentence>
+        <sentence id="13">
+          <content>She also makes a great salary, so she can afford to pay for good medical care.</content>
+        </sentence>
+        <sentence id="14">
+          <content>All of those elements are factors in her favor.</content>
+        </sentence>
+        <sentence id="15">
+          <content>But one factor she can&amp;apost;t change is the age of her eggs.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;Aging eggs cannot be helped and are a risk factor for anyone her age,&amp;quot; Casey said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="17">
+          <content>Doctors have several tests available to see whether the child will have any kind of chromosomal problem that could come with aging eggs.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;In terms of risk with women who are a little bit older and the potential genetic problems the baby may have, we pay closer attention to that for sure,&amp;quot; said Dr. George Macones, chairman of the department of obstetrics and gynecology at Washington University in St. Louis.</content>
+        </sentence>
+        <sentence id="19">
+          <content>&amp;quot;If someone is healthy, though, and doesn&amp;apost;t have medical problems other than the genetic issues, there shouldn&amp;apost;t be a lot to worry about.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="20">
+          <content>Macones has seen a significant increase in the number of older patients he sees.</content>
+        </sentence>
+        <sentence id="21">
+          <content>&amp;quot;I believe my oldest patient was 54.</content>
+        </sentence>
+        <sentence id="22">
+          <content>She was incredibly fit as a competitive athlete and everything went fantastic with her pregnancy and birth,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="23">
+          <content>Dr. Carla Roberts, a reproductive endocrinology and infertility specialist and the chief of service at Emory University Hospital Midtown in Atlanta, said she is always mindful about the age of her patients.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="24">
+          <content>&amp;quot;I tell any patient over the age of 40 that they need to be as proactive as possible through their pregnancy.</content>
+        </sentence>
+        <sentence id="25">
+          <content>We screen them for diabetes and high blood pressure, test for lipids and HDL and LDL, blood sugars and run EKGs to monitor how the heart is.</content>
+        </sentence>
+        <sentence id="26">
+          <content>We want a mammogram that is up to date and want a talk with a genetics counselor.</content>
+        </sentence>
+        <sentence id="27">
+          <content>It&amp;apost;s a multidisciplinary team effort to talk about risks and how best to proceed.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="28">
+          <content>Any woman who is borderline for a disease such as hypertension that might not otherwise have developed until her 60s could be more at risk, due to the huge influx of hormones that comes with being pregnant, Roberts said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="29">
+          <content>&amp;quot;It could hasten the development of disease, and no matter how good you are with your diet, there is always increased weight that often comes with pregnancy,&amp;quot; Roberts said.</content>
+        </sentence>
+        <sentence id="30">
+          <content>&amp;quot;An extra 10 to 15 pounds after pregnancy increases the risk of heart disease and hypertension.</content>
+        </sentence>
+        <sentence id="31">
+          <content>High levels of estrogen and progesterone can lead to increased blood pressure and worsen cholesterol levels.</content>
+        </sentence>
+        <sentence id="32">
+          <content>So these are all elements we watch carefully.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="33">
+          <content>But, as Casey reminded us, &amp;quot;Halle Berry has probably never been called average, not by a long shot&amp;quot; -- so she should be in good shape.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

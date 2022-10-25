@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="237" link="http://www.cnn.com/2014/06/26/health/ebola-outbreak-west-africa/index.html" date_published="2014-06-26 22:43:22" category="health" author="Danielle Dellorto, Miriam Falco, and Jen Christensen, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Ebola virus outbreak: &amp;apost;Drastic action is needed&amp;apost;</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">At least 759 cases have been reported since March.</sentence>
+      <sentence id="2" ids_article_sentences="4">WHO is going to send teams to help locals fight the epidemic.</sentence>
+      <sentence id="3" ids_article_sentences="14">Ebola virus outbreaks are usually confined to remote areas, but this one is different.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-12 12:16:44" annotation_time="16.130333">
+      <sentence id="2" ids_highlights="1">The World Health Organization reports there have been 759 cases, including 467 deaths in Guinea, Sierra Leone and Liberia since the outbreak began in March, according to a statement the organization released on Tuesday.</sentence>
+      <sentence id="4" ids_highlights="2">It has sent teams of experts to help locals deal with the epidemic.</sentence>
+      <sentence id="14" ids_highlights="3">Ebola outbreaks usually are confined to remote areas, making the disease easier to contain.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The Ebola epidemic isn&amp;apost;t getting any better in Africa.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The World Health Organization reports there have been 759 cases, including 467 deaths in Guinea, Sierra Leone and Liberia since the outbreak began in March, according to a statement the organization released on Tuesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The World Health Organization has said &amp;quot;drastic action is needed&amp;quot; to stop the deadly outbreak in West Africa.</content>
+        </sentence>
+        <sentence id="4">
+          <content>It has sent teams of experts to help locals deal with the epidemic.</content>
+        </sentence>
+        <sentence id="5">
+          <content>WHO will meet this week to discuss how to contain it.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>Relief workers on the ground said the epidemic has hit unprecedented proportions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;The epidemic is out of control,&amp;quot; said Dr. Bart Janssens, director of operations for Doctors Without Borders.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>Complicating matters, the countries hit hardest by the epidemic have major medical infrastructure challenges.</content>
+        </sentence>
+        <sentence id="9">
+          <content>There is also a real sense of mistrust toward health workers from communities.</content>
+        </sentence>
+        <sentence id="10">
+          <content>In Sierra Leone and Guinea, WHO has said that community members have thrown stones at health care workers trying to investigate the outbreak.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>In April, CNN Chief Medical Correspondent Dr. Sanjay Gupta traveled to Conakry, Guinea, to report on what was being done to treat patients and contain the outbreak.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;It took only moments to feel the impact of what was happening here,&amp;quot; Gupta wrote after landing in Conakry.</content>
+        </sentence>
+        <sentence id="13">
+          <content>&amp;quot;There is a lot we know about Ebola, and it scares us almost as much as what we don&amp;apost;t know.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>Ebola outbreaks usually are confined to remote areas, making the disease easier to contain.</content>
+        </sentence>
+        <sentence id="15">
+          <content>But this outbreak is different; patients have been identified in 60 locations in Guinea, Sierra Leone and Liberia.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="16">
+          <content>Officials believe the wide footprint of this outbreak is partly because of the proximity between the jungle where the virus was first identified and cities such as Conakry.</content>
+        </sentence>
+        <sentence id="17">
+          <content>The capital in Guinea has a population of 2 million and an international airport.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="18">
+          <content>People are traveling without realizing they&amp;apost;re carrying the deadly virus.</content>
+        </sentence>
+        <sentence id="19">
+          <content>It can take between two and 21 days after exposure for someone to feel sick.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="20">
+          <content>Ebola is a violent killer.</content>
+        </sentence>
+        <sentence id="21">
+          <content>The symptoms, at first, mimic the flu: headache, fever, fatigue.</content>
+        </sentence>
+        <sentence id="22">
+          <content>What comes next sounds like something out of a horror movie: significant diarrhea and vomiting, while the virus shuts off the blood&amp;apost;s ability to clot.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="23">
+          <content>As a result, patients often suffer internal and external hemorrhaging.</content>
+        </sentence>
+        <sentence id="24">
+          <content>Many die in an average of 10 days.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="25">
+          <content>Doctors Without Borders, also known as Médecins Sans Frontières, has been working to fight the epidemic since March.</content>
+        </sentence>
+        <sentence id="26">
+          <content>The group has sent more than 300 staff members and 40 tons of equipment and supplies to the region to help fight the epidemic.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="27">
+          <content>Still, the group warns, it&amp;apost;s not enough.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="28">
+          <content>&amp;quot;Despite the human resources and equipment deployed by MSF in the three affected countries, we are no longer able to send teams to the new outbreak sites.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="29">
+          <content>The good news is that Ebola isn&amp;apost;t as easily spread as one may think.</content>
+        </sentence>
+        <sentence id="30">
+          <content>A patient isn&amp;apost;t contagious -- meaning they can&amp;apost;t spread the virus to other people -- until they are already showing symptoms.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="31">
+          <content>Serious protective measures.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="32">
+          <content>Inside the isolation treatment areas in Conakry, doctors focus on keeping the patients hydrated with IV drips and other liquid nutrients.</content>
+        </sentence>
+        <sentence id="33">
+          <content>Health officials have urged residents to seek treatment at the first sign of flu-like symptoms.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="34">
+          <content>There is no cure or vaccine to treat Ebola, but MSF has shown it doesn&amp;apost;t have to be a death sentence if it&amp;apost;s treated early.</content>
+        </sentence>
+        <sentence id="35">
+          <content>Ebola typically kills 90% of patients.</content>
+        </sentence>
+        <sentence id="36">
+          <content>This outbreak, the death rate has dropped to roughly 60%.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="37">
+          <content>The outbreak will be considered contained after 42 days -- twice the incubation period -- with no new Ebola cases.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

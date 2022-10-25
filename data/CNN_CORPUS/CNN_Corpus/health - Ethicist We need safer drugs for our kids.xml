@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="241" link="http://edition.cnn.com/2012/05/03/health/ethicist-safer-drugs-children/index.html" date_published="2012-05-03 13:45:54" category="health" author="Harriet A. Washington, Special to CNN" highlights_mapped="true" mapping_error="false">
+  <title>Ethicist: We need safer drugs for our kids</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">Report: Four of every five kids hospitalized treated with drugs that haven&amp;apost;t been tested.</sentence>
+      <sentence id="2" ids_article_sentences="9">Drug trials conducted in kids are too few and are often of poor quality, writer says.</sentence>
+      <sentence id="3" ids_article_sentences="33">When the pharmaceutical industry funds research, the findings exhibit a bias, she says .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-09-08 16:43:03" annotation_time="51.469334">
+      <sentence id="3" ids_highlights="1">Four of every five kids hospitalized in the United States are treated with drugs that have never been tested in them, according to Bourgeois&amp;apost; report in this week&amp;apost;s Pediatrics journal.</sentence>
+      <sentence id="9" ids_highlights="2">A child is not a Mini-Me, but according to Bourgeois&amp;apost; report, we tend to act as if kids are because drug trials conducted in children are too few, of poor quality and too often focus on medications that are important for disorders of adults, not children.</sentence>
+      <sentence id="33" ids_highlights="3">When research is funded by the pharmaceutical industry, the medical journal findings exhibit a bias toward the interests of the sponsoring company.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>What if most of the drugs your doctor gave you were untested, forcing him or her to guess at the correct medication and dosage -- making you an unwitting research subject whenever you took a pill?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Dr. Florence Bourgeois and her colleagues at Harvard University have just reminded us that today, this very situation confronts the world&amp;apost;s children.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Four of every five kids hospitalized in the United States are treated with drugs that have never been tested in them, according to Bourgeois&amp;apost; report in this week&amp;apost;s Pediatrics journal.</content>
+        </sentence>
+        <sentence id="4">
+          <content>They are approved by the Food and Drug Administration only for adults.</content>
+        </sentence>
+        <sentence id="5">
+          <content>And outside the hospital, one-third of all children take such medications.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>Doctors can legally use such drugs, but determining a safe, effective dose -- if there is one -- can be a matter of guesswork, because little ones can metabolize drugs very differently than adults.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>For instance, the cheap broad-spectrum antibiotic chloramphenicol, used most frequently in low-income countries, can debilitate infants, causing vomiting, low blood pressure and impaired heart function in a rare but often fatal &amp;quot;gray-baby syndrome.&amp;quot;</content>
+        </sentence>
+        <sentence id="8">
+          <content>And debate rages over whether antipsychotic drugs that mute the ravages of mental illness in adults can damage the developing brains of children to whom they are prescribed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>A child is not a Mini-Me, but according to Bourgeois&amp;apost; report, we tend to act as if kids are because drug trials conducted in children are too few, of poor quality and too often focus on medications that are important for disorders of adults, not children.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>Why don&amp;apost;t drug companies test more medications in children?</content>
+        </sentence>
+        <sentence id="11">
+          <content>Bourgeois suggests that the small size of the market and the difficulties of meeting heightened ethical constraints for children may play a role.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>It&amp;apost;s true that children typically lack the comprehension and judgment needed to give informed consent, so parents and guardians must render consent for them.</content>
+        </sentence>
+        <sentence id="13">
+          <content>Also, healthy children cannot be legally enrolled in studies that pose more than a minimal risk.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>But in practice these have not proved to be a barrier for research because parents tend to give consent even when they don&amp;apost;t properly understand studies; and &amp;quot;minimal risk&amp;quot; has been defined quite liberally, including the administration of drugs such as fenfluramine, which has have been shown to induce heart injury in adults.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>It is more likely, suggests an analysis by the European Molecular Biology Organization, that drug companies don&amp;apost;t test drugs in children because it is not cost-effective: They already sell plenty of adult drugs for use in children, and the expense of mounting clinical trials for these drugs would not raise their profits.</content>
+        </sentence>
+        <sentence id="16">
+          <content>(Moreover, companies stand to lose income should the test reveal some special vulnerability in children that makes their drug unsuitable.).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="17">
+          <content>Instead, adult medicines gradually find their way into pediatric practice as more pediatricians experiment with giving them to their patients.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="18">
+          <content>This hazard is well-known among doctors, but the Pediatrics report is important because it &amp;quot;quantifies the shortcomings,&amp;quot; Bourgeois says.</content>
+        </sentence>
+        <sentence id="19">
+          <content>Using the research registry Clinicaltrials.gov, she reports that although children suffer 59% of disease, only 12% of clinical trials are pediatric; medications needed by children in developing countries are the least likely to be tested; and that 65% of all adult trials are funded by industry funding, as opposed to 41% of pediatric trials.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="20">
+          <content>The study does children and their doctors an important service.</content>
+        </sentence>
+        <sentence id="21">
+          <content>However, it also expresses concern that the makers of drugs need to take a key role in testing.</content>
+        </sentence>
+        <sentence id="22">
+          <content>Bourgeois&amp;apost; paper invokes the dire straits of children in poor countries, who are least likely to have access to properly tested drugs, and makes a case for promoting pharmaceutical-industry leadership in the needed drug testing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="23">
+          <content>Yet according to the New England Journal of Medicine, one in three clinical trials funded by the pharmaceutical industry are now conducted abroad in developing countries, where they are completed more cheaply, more quickly and at a higher level of quality than those conducted in the United States and Europe.</content>
+        </sentence>
+        <sentence id="24">
+          <content>A top-tier academic medical center in India charges about $1,500 per subject, compared with the $20,000 charged by second-rate centers in the United States, largely due to the cheaper labor of the Third World, according to the journal.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="25">
+          <content>So the pharmaceutical industry already conducts many studies abroad because it is in their financial interests to do so.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="26">
+          <content>Yet the Pediatrics report urges industry incentives to make pediatric drug research lucrative despite its &amp;quot;small market share.&amp;quot;</content>
+        </sentence>
+        <sentence id="27">
+          <content>This plea ignores the fact that pharmaceutical companies already reap financial rewards for conducting pediatric research.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="28">
+          <content>Under the Best Pharmaceuticals for Children Act of 2002, a company that conducts successful clinical trials in children, will receive an additional six months of patent life for the medication.</content>
+        </sentence>
+        <sentence id="29">
+          <content>When Claritin was so tested, it garnered more than $500,000 in sales for its maker.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="30">
+          <content>Pharmaceutical companies explain the reluctance to clinical trials by pointing to a 2001 Tufts University study that claims each approved drug costs them $800 million to test, and more recent studies have said that total is upward of $2 billion for each new pill.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="31">
+          <content>However, experts have contested this assertion, including financial writer Merrill Goozner, who points out in his book &amp;quot;The $800 Million Pill: The Truth Behind the Cost of New Drugs,&amp;quot; that this figure in fictitious, inflated by the selection of expensive but rare and unrepresentative drug studies; the figure fails to account for the drug industry&amp;apost;s hefty tax rebates and uses an inappropriate economic device called the &amp;quot;opportunity cost&amp;quot; that doubled the figure, he writes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="32">
+          <content>But can the pharmaceutical industry best guide children&amp;apost;s medical research?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="33">
+          <content>When research is funded by the pharmaceutical industry, the medical journal findings exhibit a bias toward the interests of the sponsoring company.</content>
+        </sentence>
+        <sentence id="34">
+          <content>A study in the Journal of the American Medical Association by Drs. Paul M. Ridker and Jose Torres found that 67% of industry-sponsored trials published between 2000 and 2005 in the most influential publications favored the sponsoring company&amp;apost;s drugs and devices.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="35">
+          <content>By contrast, trials funded by nonprofits were as likely to support the drugs or devices as to oppose them, and studies that combined industry funding with nonprofit support fell between the two on the spectrum, with 57% offering favorable results.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="36">
+          <content>Bourgeois warns that this doesn&amp;apost;t mean industry studies are biased and unreliable: &amp;quot;There are a number of other factors that could explain this: Perhaps it is the selection of trials they fund.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="37">
+          <content>Given this history, can we trust industry to put the welfare of children ahead of the bottom line?</content>
+        </sentence>
+        <sentence id="38">
+          <content>It is my belief that leadership would better come from organizations such as the Global Alliance for Vaccines and Immunisation, the World Health Organization, the U.N. Foundation and the Gates Foundation, which have demonstrated that they are able to work with industry to address the developing world&amp;apost;s need for better medicines.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="39">
+          <content>These nonprofits should lead new research initiatives as well because the health of the world&amp;apost;s children is too important to be bought and sold.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

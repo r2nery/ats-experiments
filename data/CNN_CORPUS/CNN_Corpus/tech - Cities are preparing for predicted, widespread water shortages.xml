@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1581" link="http://www.cnn.com/2014/05/26/tech/city-tomorrow-desalination/index.html" date_published="2014-05-26 15:20:34" category="tech" author="Brandon Griggs, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Cities are preparing for predicted, widespread water shortages.</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="20">There are 16,000 desalination plants on the planet, and their numbers are rising.</sentence>
+      <sentence id="2" ids_article_sentences="10">A huge desalination plant is under construction in Carlsbad, California.</sentence>
+      <sentence id="3" ids_article_sentences="11">When completed it will be the largest such facility in the Western Hemisphere.</sentence>
+      <sentence id="4" ids_article_sentences="46">Water expert: Ocean water is &amp;quot;a seemingly inexhaustible supply&amp;quot;.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-14 15:52:06" annotation_time="37.837666">
+      <sentence id="10" ids_highlights="2">This is why a huge desalination plant is under construction in Carlsbad, California, some 30 miles north of San Diego.</sentence>
+      <sentence id="11" ids_highlights="3">When completed in 2016, it will be the largest such facility in the Western Hemisphere and create 50 million gallons of freshwater a day.</sentence>
+      <sentence id="20" ids_highlights="1">There are some 16,000 desalination plants on the planet, and their numbers are rising.</sentence>
+      <sentence id="46" ids_highlights="4">&amp;quot;You can&amp;apost;t get all your water from one source and have that source be hundreds of miles away,&amp;quot; said Peter MacLaggan, senior vice president at Poseidon Resources Corporation, which is leading development of the Carlsbad plant.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>It&amp;apost;s been a cruel irony for ancient mariners and any thirsty person who has ever gazed upon a sparkling blue ocean: Water, water everywhere, and not a drop to drink.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>But imagine a coastal city of the future, say in 2035.</content>
+        </sentence>
+        <sentence id="3">
+          <content>Along with basic infrastructure such as a port, roads, sewer lines and an electrical grid, it&amp;apost;s increasingly likely this city by the sea will contain a newer feature.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>A desalination plant.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Thanks to improved technology, turning ocean water into freshwater is becoming more economically feasible.</content>
+        </sentence>
+        <sentence id="6">
+          <content>And a looming global water crisis may make it crucial to the planet&amp;apost;s future.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>The United Nations predicts that by 2025, two-thirds of the world&amp;apost;s population will suffer water shortages, especially in the developing world and the parched Middle East.</content>
+        </sentence>
+        <sentence id="8">
+          <content>Scientists say climate change is making the problem worse.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Even in the United States, demand for water in drought-ravaged California and the desert Southwest is outpacing supply.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>This is why a huge desalination plant is under construction in Carlsbad, California, some 30 miles north of San Diego.</content>
+        </sentence>
+        <sentence id="11">
+          <content>When completed in 2016, it will be the largest such facility in the Western Hemisphere and create 50 million gallons of freshwater a day.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;Whenever a drought exacerbates freshwater supplies in California, people tend to look toward the ocean for an answer,&amp;quot; said Jennifer Bowles, executive director of the California-based Water Education Foundation.</content>
+        </sentence>
+        <sentence id="13">
+          <content>&amp;quot;It is, after all, a seemingly inexhaustible supply.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="14">
+          <content>A growing trend.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="15">
+          <content>Most desalination technology follows one of two methods: distillation through thermal energy or the use of membranes to filter salt from water.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="16">
+          <content>In the distillation process, saltwater is heated to produce water vapor, which is then condensed and collected as freshwater.</content>
+        </sentence>
+        <sentence id="17">
+          <content>The other method employs reverse osmosis to pump seawater through semi-permeable membranes -- paper-like filters with microscopic holes -- that trap the salt while allowing freshwater molecules to pass through.</content>
+        </sentence>
+        <sentence id="18">
+          <content>The remaining salty water is then pumped back into the ocean.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="19">
+          <content>Officials at the Carlsbad plant say they can covert two gallons of seawater into one gallon of freshwater by filtering out 99.9% of the salt.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="20">
+          <content>There are some 16,000 desalination plants on the planet, and their numbers are rising.</content>
+        </sentence>
+        <sentence id="21">
+          <content>The amount of desalted water produced around the world has more than tripled since 2000, according to the Center for Inland Desalination Systems at the University of Texas at El Paso.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;Desalination is growing in arid regions,&amp;quot; said Tom Davis, director of the center.</content>
+        </sentence>
+        <sentence id="23">
+          <content>&amp;quot;We are making progress in the USA, but the countries around the Persian Gulf are way ahead in the use of desalination, primarily because they have no alternative supplies of freshwater.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="24">
+          <content>Israel, in an arid region with a coastline on the Mediterranean, meets half its freshwater needs through desalination.</content>
+        </sentence>
+        <sentence id="25">
+          <content>Australia, Algeria, Oman, Saudi Arabia and the United Arab Emirates also rely heavily on the ocean for their municipal water.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="26">
+          <content>In the United States, desalination projects are concentrated in coastal states such as California, Florida and Texas.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="27">
+          <content>Some environmentalists are wary of desalination, which consumes large amounts of energy, produces greenhouse gases and kills vital marine organisms that are sucked into intake pipes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="28">
+          <content>But proponents believe the technology offers a long-term, sustainable solution to the globe&amp;apost;s water shortages.</content>
+        </sentence>
+        <sentence id="29">
+          <content>One entrepreneur has even built an experimental solar desalination plant in California&amp;apost;s San Joaquin Valley.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="30">
+          <content>&amp;quot;When other freshwater sources are depleted, desalination will be our best choice,&amp;quot; said Davis, a UTEP professor of engineering.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="31">
+          <content>California dreaming.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="32">
+          <content>Within the United States, the water crisis is especially severe in California, which has been stricken by drought over the last three years.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="33">
+          <content>California&amp;apost;s biggest source of freshwater is the snow that falls in the Sierras and other mountains, where it slowly melts into creeks and makes its way into aquifers and reservoirs.</content>
+        </sentence>
+        <sentence id="34">
+          <content>But if the planet continues to grow warmer, snow will increasingly fall as rain and will be harder to collect because it will swell creeks faster and create more flooding, said Bowles of the Water Education Foundation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="35">
+          <content>Seventeen desalination plants are being built or planned along the state&amp;apost;s 840-mile coastline.</content>
+        </sentence>
+        <sentence id="36">
+          <content>City officials in Santa Barbara recently voted to reactivate their desalination plant, which was built in 1991 but shut after heavy rains filled nearby reservoirs in the early 1990s.</content>
+        </sentence>
+        <sentence id="37">
+          <content>Another $200 million facility has been proposed for the Bay Area, although construction won&amp;apost;t likely begin for several years.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="38">
+          <content>&amp;quot;The key question with ocean desalination is how much are you willing to pay for it?</content>
+        </sentence>
+        <sentence id="39">
+          <content>The amount of energy required to desalt ocean water can be daunting,&amp;quot; said Bowles, adding that operating costs at the Santa Barbara plant alone are estimated at $5 million per year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="40">
+          <content>But advocates believe the price of desalination will continue to decrease as the process improves.</content>
+        </sentence>
+        <sentence id="41">
+          <content>This will be true of the massive Carlsbad plant, said Bob Yamada, water resources manager with the San Diego County Water Authority.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="42">
+          <content>&amp;quot;The cost for this water will be about double what it costs us to import water into San Diego,&amp;quot; Yamada said.</content>
+        </sentence>
+        <sentence id="43">
+          <content>&amp;quot;However, over time we expect that the cost of desalinated water will equal, and be less than, the cost of imported water.</content>
+        </sentence>
+        <sentence id="44">
+          <content>That may take 15 or 20 years, but we expect that to occur.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="45">
+          <content>Ultimately, experts say, municipalities will need to balance desalination projects with conservation and water from more traditional sources, such as rivers, reservoirs and recycled wastewater.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="46">
+          <content>&amp;quot;You can&amp;apost;t get all your water from one source and have that source be hundreds of miles away,&amp;quot; said Peter MacLaggan, senior vice president at Poseidon Resources Corporation, which is leading development of the Carlsbad plant.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="47">
+          <content>&amp;quot;When and if the drought does come, and you don&amp;apost;t have enough snowpack in the Sierras -- after 12 dry years the Rockies are seeing the impact of that today -- you&amp;apost;ve got (water) sources here within the boundaries of San Diego County,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="48">
+          <content>&amp;quot;We have a $190 billion economy in this region.</content>
+        </sentence>
+        <sentence id="49">
+          <content>It&amp;apost;s dependent on water to sustain that economy.</content>
+        </sentence>
+        <sentence id="50">
+          <content>So the question you need to consider, is &amp;apost;What&amp;apost;s the cost of not having enough water?&amp;apost;&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

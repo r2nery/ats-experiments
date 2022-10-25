@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1982" link="http://www.cnn.com/2014/07/07/us/california-shark-attack/index.html" date_published="2014-07-07 04:17:26" category="us" author="Holly Yan and Michaela Pereira, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Shark attack victim describes getting chewed</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">A great white shark bit Steven Robles near Manhattan Beach, California.</sentence>
+      <sentence id="2" ids_article_sentences="6">The 7-foot shark was agitated by a fisherman&amp;apost;s hook .</sentence>
+      <sentence id="3" ids_article_sentences="13">Robles: The bite feels like a sting penetrating &amp;quot;deeper and deeper into the bone&amp;quot;.</sentence>
+      <sentence id="4" ids_article_sentences="22">There were 72 unprovoked shark attacks on humans in 2013.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-07-23 14:59:21" annotation_time="151.488">
+      <sentence id="1" ids_highlights="1">Soon after the great white shark chomped into his torso, Steven Robles thought everything was over.</sentence>
+      <sentence id="6" ids_highlights="2">On Saturday, a 7-foot-long shark near Manhattan Beach, California, became agitated by a fisherman&amp;apost;s hook.</sentence>
+      <sentence id="13" ids_highlights="3">&amp;quot;The bite mark&amp;apost;s like a jellyfish sting that just keeps penetrating deeper and deeper into the bone,&amp;quot; Robles said.</sentence>
+      <sentence id="22" ids_highlights="4">But the ISAF says there were 72 unprovoked shark attacks on humans in 2013 -- the lowest number of global attacks since 2009, when 67 attacks occurred.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Soon after the great white shark chomped into his torso, Steven Robles thought everything was over.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>&amp;quot;I really thought that that might be it.</content>
+        </sentence>
+        <sentence id="3">
+          <content>I thought I might be dying,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Instead, the long-distance swimmer is recovering from the wounds -- but might never return to the water.</content>
+        </sentence>
+        <sentence id="5">
+          <content>The trauma of the attack is still too vivid.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>On Saturday, a 7-foot-long shark near Manhattan Beach, California, became agitated by a fisherman&amp;apost;s hook.</content>
+        </sentence>
+        <sentence id="7">
+          <content>It apparently took out its frustration on Robles, who was swimming nearby.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;We saw each other.</content>
+        </sentence>
+        <sentence id="9">
+          <content>It did a sharp left turn and then it lunged right at me, didn&amp;apost;t even hesitate,&amp;quot; Robles said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;I could feel the vibration of this entire shark gnawing into my skin,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="11">
+          <content>&amp;quot;You could feel the whole body shaking as it&amp;apost;s digging into my torso.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>The burning sensation of the bite is hard to forget.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>&amp;quot;The bite mark&amp;apost;s like a jellyfish sting that just keeps penetrating deeper and deeper into the bone,&amp;quot; Robles said.</content>
+        </sentence>
+        <sentence id="14">
+          <content>&amp;quot;It was terrifying.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="15">
+          <content>He grabbed the shark&amp;apost;s nose with his hand and tried to pry him off.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Fortunately, the shark left on his own and darted away.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="17">
+          <content>A witness&amp;apost;s cell phone video posted by CNN affiliate KTLA showed Robles screaming loudly as fellow swimmers tried to help him to shore.</content>
+        </sentence>
+        <sentence id="18">
+          <content>Witnesses on the pier screamed that the shark was still close by.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="19">
+          <content>All the swimmers in the water made it to shore safely.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="20">
+          <content>Police closed down the Manhattan Beach Pier, and it will remain closed until Tuesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="21">
+          <content>While shark attacks are rare, they have increased at a steady rate since 1900 &amp;quot;with each decade having more attacks than the previous,&amp;quot; according to the International Shark Attack File based in Gainesville, Florida.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="22">
+          <content>But the ISAF says there were 72 unprovoked shark attacks on humans in 2013 -- the lowest number of global attacks since 2009, when 67 attacks occurred.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="23">
+          <content>The group emphasized that an increasing number of shark attacks doesn&amp;apost;t mean the rate of attacks is increasing.</content>
+        </sentence>
+        <sentence id="24">
+          <content>ISAF research shows people are spending more time at sea, which increases the interactions between humans and sharks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="25">
+          <content>Robles said even though he thought he might be dying, his survival instincts kicked in.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="26">
+          <content>&amp;quot;My life was just a half a second from ending, and I had to fight for my life,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="27">
+          <content>Just before the attack, Robles said he was planning another long-distance swim.</content>
+        </sentence>
+        <sentence id="28">
+          <content>But now he says he might never swim in the open water again.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

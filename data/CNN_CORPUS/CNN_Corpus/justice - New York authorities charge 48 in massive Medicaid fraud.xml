@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="596" link="http://edition.cnn.com/2012/07/18/justice/new-york-drug-scheme/index.html" category="justice" author=" Chris Boyette, CNN " highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>New York authorities charge 48 in massive Medicaid fraud</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="4">Medicaid beneficiaries sold the drugs to other buyers, who in turn marketed them to wholesalers .</sentence>
+      <sentence id="2" ids_article_sentences="5">Scheme targets expensive medications - some at a cost of more than $1,000 a bottle .</sentence>
+      <sentence id="3" ids_article_sentences="2">It costs tax payers $500 million, prosecutors say .</sentence>
+      <sentence id="4" ids_article_sentences="6">&amp;quot;These defendants ran a black market ... involving a double-dip,&amp;quot; official says .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-06 11:58:35" annotation_time="34.14">
+      <sentence id="2" ids_highlights="3">The scheme cost tax payers $500 million, prosecutors said Tuesday.</sentence>
+      <sentence id="4" ids_highlights="1">Once Medicaid beneficiaries sold the drugs to other buyers, the latter marketed the pills to pharmacies and other wholesale prescription drug companies in New York, New Jersey, Pennsylvania, Florida, Texas, Massachusetts, Utah, Nevada, Louisiana and Alabama, according to authorities.</sentence>
+      <sentence id="5" ids_highlights="2">The scheme targeted expensive medications - some at a cost of more than $1,000 a bottle - for illnesses such as asthma and HIV, authorities said.</sentence>
+      <sentence id="6" ids_highlights="4">&amp;quot;These defendants ran a black market in prescription pills involving a double-dip fraud of gigantic proportions,&amp;quot; said Preet Bharara, the U.S. attorney for the southern district of New York.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>New York Federal prosecutors have charged 48 people in a massive fraud that allegedly bought HIV medications and other prescription drugs from Medicaid recipients and sold them to unsuspecting buyers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The scheme cost tax payers $500 million, prosecutors said Tuesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Prosecutors said Medicaid beneficiaries in New York, including AIDS patients and others suffering from illnesses requiring expensive drugs, sold their prescriptions to some of the defendants for cash instead of using them for treatment.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>Once Medicaid beneficiaries sold the drugs to other buyers, the latter marketed the pills to pharmacies and other wholesale prescription drug companies in New York, New Jersey, Pennsylvania, Florida, Texas, Massachusetts, Utah, Nevada, Louisiana and Alabama, according to authorities.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>The scheme targeted expensive medications - some at a cost of more than $1,000 a bottle - for illnesses such as asthma and HIV, authorities said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;These defendants ran a black market in prescription pills involving a double-dip fraud of gigantic proportions,&amp;quot; said Preet Bharara, the U.S. attorney for the southern district of New York.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;It worked a fraud on Medicaid -- in some cases, two times over -- a fraud on pharmaceutical companies, a fraud on legitimate pharmacies, a fraud on patients who unwittingly bought second-hand drugs, and ultimately, a fraud on the entire health care system.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="8">
+          <content>Defendants made money off the difference between the often negligible Medicaid cost to the patient, and the hundreds of dollars per bottle they charged the pharmacies that sold the second-hand prescriptions to unwitting customers, authorities said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="9">
+          <content>&amp;quot;The scheme posed serious health risks at both the collection and distribution ends,&amp;quot; said Janice K. Fedarcyk, FBI assistant director.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;People with real ailments were induced to sell their medications on the cheap rather than take them as prescribed, while end-users of the diverted drugs were getting second-hand medicine that may have been mishandled, adulterated, improperly stored, repackaged and expired.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="11">
+          <content>The FBI said it seized more than $16 million worth of prescription drugs -- 33,000 bottles and more than 250,000 loose pills, &amp;quot;kept in uncontrolled and sometimes egregious conditions&amp;quot; by some of the suspects.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;It&amp;apost;s one thing when people sell their blood for money; it&amp;apost;s another when they sell their drugs, especially when the diversion compromises the pharmaceutical supply with tainted and outdated drugs,&amp;quot; said Raymond W. Kelly, commissioner of the New York City Police Department.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="13">
+          <content>E-mails obtained by a search warrant revealed that some defendants bought and sold more than $62 million worth of second-hand prescription drugs during an approximately 12-month time frame.</content>
+        </sentence>
+        <sentence id="14">
+          <content>The deals were meticulously documented through purchase orders and receipts scanned onto their computers and uploaded into e-mail accounts.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="15">
+          <content>Anyone who purchased second-hand prescription drugs or was victimized by the scheme is urged to call the FBI hot line at 212-384-3555.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

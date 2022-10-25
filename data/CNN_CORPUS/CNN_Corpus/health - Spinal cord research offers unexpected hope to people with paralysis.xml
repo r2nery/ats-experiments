@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="366" link="http://www.cnn.com/2014/04/08/health/paralysis-breakthrough-spinal-cord" date_published="2014-04-08 04:02:22" category="health" author="Elizabeth Cohen, Senior Medical Correspondent" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Spinal cord research offers unexpected hope to people with paralysis</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="5">Susan Harkema was sending electricity down broken spinal cord to study nerve pathways.</sentence>
+      <sentence id="2" ids_article_sentences="3, 2">She was the one who got a shock when her patient called out: &amp;quot;I can move my toe!&amp;quot;.</sentence>
+      <sentence id="3" ids_article_sentences="16">Harkema: First time stimulation directly to spinal cord has shown voluntary activity.</sentence>
+      <sentence id="4" ids_article_sentences="17">Technique is another piece of the puzzle toward helping paralyzed people walk again.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-11 10:16:24" annotation_time="42.040665" mapping_time_divergence="10.510166">
+      <sentence id="2" ids_highlights="2">&amp;quot;Hey Susie, look at this,&amp;quot; the patient called out to her.</sentence>
+      <sentence id="3" ids_highlights="2">&amp;quot;I can move my toe!&amp;quot;</sentence>
+      <sentence id="5" ids_highlights="1">The purpose of her study, which involves sending electrical stimulation to broken spinal cords, was to learn more about nerve pathways, not to actually make patients move.</sentence>
+      <sentence id="16" ids_highlights="3">It&amp;apost;s not the first time electrical stimulation has made paralyzed patients move, but Harkema says it&amp;apost;s the first time electrical stimulation directly to the spinal cord has shown voluntary activity.</sentence>
+      <sentence id="17" ids_highlights="4">Experts say this new technique is another piece of the puzzle toward helping paralyzed people walk again.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>At her research lab at the University of Louisville, neuroscientist Susan Harkema turned her back to her study subject to check a reading on a computer screen.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>&amp;quot;Hey Susie, look at this,&amp;quot; the patient called out to her.</content>
+        </sentence>
+        <sentence id="3">
+          <content>&amp;quot;I can move my toe!&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Startled, Harkema spun around.</content>
+        </sentence>
+        <sentence id="5">
+          <content>The purpose of her study, which involves sending electrical stimulation to broken spinal cords, was to learn more about nerve pathways, not to actually make patients move.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>That must be an involuntary spasm, she thought.</content>
+        </sentence>
+        <sentence id="7">
+          <content>She asked the patient, Rob Summers, to lie down and close his eyes and follow her commands.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;Move your left toe,&amp;quot; she said to him -- and he did.</content>
+        </sentence>
+        <sentence id="9">
+          <content>&amp;quot;Move your right toe,&amp;quot; she asked -- and he did.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;Holy s***!&amp;quot;</content>
+        </sentence>
+        <sentence id="11">
+          <content>she yelled out loud.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>Over the next five years, Harkema&amp;apost;s team applied electrical stimulation to three more paralyzed men, and all four developed movement, and not just small movements.</content>
+        </sentence>
+        <sentence id="13">
+          <content>In addition to wiggling their big toes, they can lift and swing their legs, move their ankles and sit up without support.</content>
+        </sentence>
+        <sentence id="14">
+          <content>Two patients can even do situps.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="15">
+          <content>Their study, funded in part by the Christopher &amp;amp; Dana Reeve Foundation, is being published Tuesday in the journal Brain.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="16">
+          <content>It&amp;apost;s not the first time electrical stimulation has made paralyzed patients move, but Harkema says it&amp;apost;s the first time electrical stimulation directly to the spinal cord has shown voluntary activity.</content>
+        </sentence>
+        <sentence id="17">
+          <content>Experts say this new technique is another piece of the puzzle toward helping paralyzed people walk again.</content>
+        </sentence>
+        <sentence id="18">
+          <content>And it&amp;apost;s another avenue doctors can go down to try to help these patients.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;This is a breakthrough,&amp;quot; says Dr. Barth Green, co-founder of The Miami Project to Cure Paralysis at the University of Miami, who was not involved in the research.</content>
+        </sentence>
+        <sentence id="20">
+          <content>&amp;quot;It shows you can have a living spinal cord under the layer of their injury.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="21">
+          <content>More than 1,700 paralyzed people have inquired about using this technology, which involves surgically implanting a stimulator and giving it directions with an external remote control.</content>
+        </sentence>
+        <sentence id="22">
+          <content>The stimulator creates a small, slightly visible bulge in the lower abdomen and is connected to wires that send electrical pulses to the spinal cord.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="23">
+          <content>But patients shouldn&amp;apost;t expect that the stimulator will help them walk -- at least not now and maybe not ever.</content>
+        </sentence>
+        <sentence id="24">
+          <content>The stimulator can only make one leg work at a time.</content>
+        </sentence>
+        <sentence id="25">
+          <content>Patients have to turn the stimulator off and then back on again to make the other leg work or to make another set of muscles such as their torsos work.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="26">
+          <content>Even though he can&amp;apost;t walk, the stimulator has had other benefits.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="27">
+          <content>Dustin Shillcox, the fourth patient to try the device, said he has dramatically improved bladder, bowel and sexual function.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="28">
+          <content>&amp;quot;That&amp;apost;s a difficult thing to go through life not having,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="29">
+          <content>&amp;quot;It just changed my entire life.</content>
+        </sentence>
+        <sentence id="30">
+          <content>It&amp;apost;s extraordinary and amazing.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="31">
+          <content>Plus, tests showed the patients, who could finally move their legs and torsos after years of paralysis, became healthier in general with improved heart and respiratory function.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="32">
+          <content>&amp;quot;If you can change health and wellness and life expectancy, to me that&amp;apost;s a home run,&amp;quot; Green says.</content>
+        </sentence>
+        <sentence id="33">
+          <content>&amp;quot;Remember, Christopher Reeve died from complications of immobility,&amp;quot;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="34">
+          <content>The researchers are pretty much stumped as to exactly why electrical stimulation to the spinal cord created the movement on demand -- after all, they didn&amp;apost;t touch the patients&amp;apost; brains.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="35">
+          <content>Perhaps, Harkema says, the spinal cord in a way has a brain of its own.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="36">
+          <content>&amp;quot;Maybe the spinal cord makes the decision to move on its own and then executes the movement,&amp;quot; Harkema says.</content>
+        </sentence>
+        <sentence id="37">
+          <content>&amp;quot;Otherwise I don&amp;apost;t know how you would see what we see today.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="38">
+          <content>The Louisville researchers now have funding to implant the device in eight more patients.</content>
+        </sentence>
+        <sentence id="39">
+          <content>They hope a device company will help them come up with a way to stimulate more than one muscle group at the time.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="40">
+          <content>&amp;quot;I think what&amp;apost;s incredibly exciting is we&amp;apost;ve opened up a realm of possibilities of what we can do now with people who are paralyzed, and we&amp;apost;ve just scratched the surface,&amp;quot; she says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="41">
+          <content>Harkema says she hopes to have more &amp;quot;holy s***&amp;quot; moments in her research.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="42">
+          <content>&amp;quot;I&amp;apost;ll never live that down, and now it&amp;apost;s the mantra of the lab,&amp;quot; she says with a laugh.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

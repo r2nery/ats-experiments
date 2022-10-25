@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="178" link="http://edition.cnn.com/2014/09/26/health/five-medical-studies/index.html?hpt=hp_c6" date_published="2014-09-26 14:36:06" category="health" author="Jen Christensen, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Beer may be good for your brain</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="5">A flavonoid found in beer improved memory function in mice.</sentence>
+      <sentence id="2" ids_article_sentences="41">The greater majority of heart attacks in men are preventable.</sentence>
+      <sentence id="3" ids_article_sentences="29">Peanut allergies may come from the dry roasting process.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-06 07:45:06" annotation_time="29.668">
+      <sentence id="5" ids_highlights="1">Scientists discovered that xanthohumol, a type of flavonoid found in beer, seems to help cognitive function, at least in young mice.</sentence>
+      <sentence id="29" ids_highlights="3">Scientists suggest this may explain why so many people in the West, where peanuts are often dry roasted, show signs for peanut allergies when people who live in Asia don&amp;apost;t.</sentence>
+      <sentence id="41" ids_highlights="2">Most heart attacks in men are preventable.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Here&amp;apost;s a roundup of five medical studies published this week that might give you new insights into your health.</content>
+        </sentence>
+        <sentence id="2">
+          <content>Remember, correlation is not causation -- so if a study finds a connection between two things, it doesn&amp;apost;t mean that one causes the other.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>Beer may be good for your brain.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>You may not guess it stopping by your average neighborhood fraternity party, but an element in beer may be good for your brain.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Scientists discovered that xanthohumol, a type of flavonoid found in beer, seems to help cognitive function, at least in young mice.</content>
+        </sentence>
+        <sentence id="6">
+          <content>They tested this hypothesis in a study that ran in Behavioral Brain Research this week.</content>
+        </sentence>
+        <sentence id="7">
+          <content>Xanthohumol did not have the same impact on older mice.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>The dose they gave the mice was quite high -- so high that if you were in this study, you&amp;apost;d actually have to drink 2,000 liters of beer a day to equal what the mice consumed.</content>
+        </sentence>
+        <sentence id="9">
+          <content>So scientists don&amp;apost;t suggest you run out and buy a six-pack before work.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>The research does suggest that this flavonoid and others should be studied closer.</content>
+        </sentence>
+        <sentence id="11">
+          <content>The researchers believe it and others, like the ones found in red wine, blueberries and dark chocolate, may play a role in helping you form memories.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>Switching to e-cigarettes may not be the answer.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>There&amp;apost;s a big debate over whether doctors should recommend that people try e-cigarettes to help them quit smoking.</content>
+        </sentence>
+        <sentence id="14">
+          <content>E-cigarettes contain nicotine, but they don&amp;apost;t have all the cancer-causing additives that a regular cigarette has.</content>
+        </sentence>
+        <sentence id="15">
+          <content>Studies earlier this year showed they are more effective than the patch or gum in helping quit.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="16">
+          <content>A new study, published in the journal Cancer, disagrees.</content>
+        </sentence>
+        <sentence id="17">
+          <content>Researchers concluded that e-cigarette users were no more likely to quit smoking successfully than regular cigarette smokers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="18">
+          <content>Of regular cigarette smokers enrolled in the study, 44.4% resisted the temptation to smoke for seven days, compared to 43.1% of e-cigarette users.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="19">
+          <content>The study looked at 1,074 patients who had cancer and who were enrolled in a smoking cessation program in a cancer treatment center.</content>
+        </sentence>
+        <sentence id="20">
+          <content>Mirroring their growing popularity, there was a threefold increase in the number of participants who switched to e-cigarettes between 2012 and 2013.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="21">
+          <content>The study found that the e-cigarette users actually were more dependent on nicotine than regular smokers.</content>
+        </sentence>
+        <sentence id="22">
+          <content>The e-cigarette users tried to quit more times than the regular smokers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="23">
+          <content>The scientists who did the study said they would like to try it with the general population to see if they found the same results.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="24">
+          <content>Peanut allergies made worse by dry roasting.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="25">
+          <content>Scientists trying to understand what makes people so highly allergic to peanuts may now have an idea.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="26">
+          <content>The research is in early stages, but a study that ran in the Journal of Allergy and Clinical Immunology this week found that dry-roasted peanuts caused a stronger allergic reaction in mice than raw peanuts.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="27">
+          <content>Scientists theorize that the dry roasting causes chemical changes in the nuts.</content>
+        </sentence>
+        <sentence id="28">
+          <content>If a person&amp;apost;s immune system is picking up on that change, it may be getting the body ready for an allergic response.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="29">
+          <content>Scientists suggest this may explain why so many people in the West, where peanuts are often dry roasted, show signs for peanut allergies when people who live in Asia don&amp;apost;t.</content>
+        </sentence>
+        <sentence id="30">
+          <content>In Asian countries, peanuts are often served raw or boiled.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="31">
+          <content>Next researchers will try to figure out what chemical changes are happening in the dry roasting process that trigger the attacks, particularly in humans.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="32">
+          <content>You drink more alcohol on days you exercise.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="33">
+          <content>Scientists say you are lifting more than weights on the days you hit the gym -- you&amp;apost;re throwing back a few cocktails, too.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="34">
+          <content>In a study that ran in the latest edition of Health Psychology, the American Psychologial Association&amp;apost;s journal, researchers found that people typically exercise more on Thursdays and Sundays, when they&amp;apost;re also drinking more.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="35">
+          <content>The study looked at 150 people between the age of 18 and 89.</content>
+        </sentence>
+        <sentence id="36">
+          <content>Participants recorded their fitness activities, as well as their alcohol use at the end of the day using their smartphones.</content>
+        </sentence>
+        <sentence id="37">
+          <content>They did this for a period of 21 days at a time, at three different times of the year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="38">
+          <content>Scientists next want to study what the link is between exercise and drinking.</content>
+        </sentence>
+        <sentence id="39">
+          <content>Maybe they should focus on the link between drinking and the weekend.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="40">
+          <content>Most heart attacks in men are avoidable.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="41">
+          <content>Most heart attacks in men are preventable.</content>
+        </sentence>
+        <sentence id="42">
+          <content>A new study suggests there are five behaviors that can help you lower your risk: Eat a better diet, exercise more, stay fit, avoid smoking and drink moderately.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="43">
+          <content>The study ran in the Journal of the American College of Cardiology.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="44">
+          <content>For the study, scientists monitored 20,000 healthy men in Sweden who were between the ages of 45 and 79 in 1997.</content>
+        </sentence>
+        <sentence id="45">
+          <content>They followed the men&amp;apost;s health through 2009.</content>
+        </sentence>
+        <sentence id="46">
+          <content>Only 1% of the men followed all five recommended healthy behaviors.</content>
+        </sentence>
+        <sentence id="47">
+          <content>Of those 1%, only three had heart attacks.</content>
+        </sentence>
+        <sentence id="48">
+          <content>Some 8% didn&amp;apost;t do any of the five, and 166 had heart attacks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="49">
+          <content>Scientists concluded that clean living can prevent 80% of heart attacks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

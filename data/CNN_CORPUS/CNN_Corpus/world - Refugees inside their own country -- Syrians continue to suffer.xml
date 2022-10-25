@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2670" link="http://www.cnn.com/2013/10/03/world/meast/syria-civilians-displaced/index.html" date_published="2013-10-03 11:59:33" category="world" author="Bharati Naik and Atika Shubert, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Refugees inside their own country -- Syrians continue to suffer</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">The United Nations estimates that 4.25 million people are internally displaced in Syria.</sentence>
+      <sentence id="2" ids_article_sentences="5">Many people are now heavily relying on aid agencies to provide basic amenities. .</sentence>
+      <sentence id="3" ids_article_sentences="34">The U.N. says that for 2013 alone, aid of $1.4 billion is needed to deal with the crisis.</sentence>
+      <sentence id="4" ids_article_sentences="18">The WHO says more than 50% of hospitals have been damaged or are non-operational. .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-09-02 10:05:52" annotation_time="61.67833">
+      <sentence id="3" ids_highlights="1">According to the United Nations (U.N), an estimated 4.25 million people are homeless inside the country -- half of whom are believed to be children.</sentence>
+      <sentence id="5" ids_highlights="2">Without adequate shelter, food and medical care, many people are now heavily relying on aid agencies to provide basic amenities.</sentence>
+      <sentence id="18" ids_highlights="4">According to the World Health Organization (WHO), more than 50% of Syrian hospitals have been destroyed or are non-operational.</sentence>
+      <sentence id="34" ids_highlights="3">The U.N. body for assistance in Syria -- the Office for the Coordination of Humanitarian Affairs -- estimates that for 2013 alone aid of $1.4 billion is needed to deal with the growing humanitarian crisis inside the country.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The ongoing violence in Syria has left millions of people displaced.</content>
+        </sentence>
+        <sentence id="2">
+          <content>And while many Syrians fled to neighboring countries to escape the bloodshed, others have remained despite being in harm&amp;apost;s way, though they have been forced from their homes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>According to the United Nations (U.N), an estimated 4.25 million people are homeless inside the country -- half of whom are believed to be children.</content>
+        </sentence>
+        <sentence id="4">
+          <content>Hundreds of thousands of men, women and children have been left vulnerable after being forced to relocate from their homes, often multiple times.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>Without adequate shelter, food and medical care, many people are now heavily relying on aid agencies to provide basic amenities.</content>
+        </sentence>
+        <sentence id="6">
+          <content>The family of Ayesha (not her real name) is among them.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>Ayesha says she fled her hometown in northern Syria after a bomb destroyed her home, killing two of her teenage children.</content>
+        </sentence>
+        <sentence id="8">
+          <content>She now lives in an abandoned building site with her remaining children and grandchildren and she fears for her family&amp;apost;s safety, which is why she has asked not to use her real name.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="9">
+          <content>Her four-year-old granddaughter carries a physical scar of the ongoing conflict -- after being burned during shelling.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>Recalling the days she lived in her own house and farmland, Ayesha says: &amp;quot;You have five people being killed, at times six or 10 and 15.</content>
+        </sentence>
+        <sentence id="11">
+          <content>Every day they targeted us with bombs, missiles and snipers.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>Ayesha is one among the 6.8 million people the U.N. deems to be in urgent need of protection and assistance.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>The destruction of homes and land has forced many others to abandon their old lives.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>Zenat (not her real name), a young mother, says she fled after her house was bombed.</content>
+        </sentence>
+        <sentence id="15">
+          <content>Her four-year-old son suffers from burns from that day.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;He was burned while he was at the house, they bombed the house, which collapsed on him, and there is no available treatment for him,&amp;quot; she says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="17">
+          <content>Syria&amp;apost;s medical system has suffered a heavy blow in this nearly three-year-old conflict.</content>
+        </sentence>
+        <sentence id="18">
+          <content>According to the World Health Organization (WHO), more than 50% of Syrian hospitals have been destroyed or are non-operational.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="19">
+          <content>That means, for a mother like Zenat, immediate medical care is unavailable even in dire situations.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="20">
+          <content>&amp;quot;We did not get any help, there are no doctors, where shall we take him?</content>
+        </sentence>
+        <sentence id="21">
+          <content>My heart burned where I saw him this way, it was very hard feeling for me,&amp;quot; she recalls.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="22">
+          <content>According to data given to the WHO by Syrian health authorities, as of July 2013, 60% of the 91 public hospitals across the country have been affected by the conflict.</content>
+        </sentence>
+        <sentence id="23">
+          <content>Of those, 20 have been damaged, and 35 are out of service.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="24">
+          <content>Many Syrian doctors have also fled the country and for aid agencies trying to provide medical relief to the needy, Syria remains one of the most dangerous places to work.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="25">
+          <content>Some of the heavily damaged towns in Syria have even less access to healthcare.</content>
+        </sentence>
+        <sentence id="26">
+          <content>Syria&amp;apost;s health ministry estimates that in the governorates of Deir-ez-Zo, Idleb and Aleppo, 70% of health centers are either damaged or out of service, the WHO said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="27">
+          <content>Aid needed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="28">
+          <content>The United Nations Security Council is trying to ensure aid reaches those suffering inside Syria -- calling on the government to allow cross-border deliveries and on all combatants to agree on humanitarian pauses in fighting for aid convoys.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="29">
+          <content>Regardless of the dangers of operating in the middle of a battlefield, several Non-Governmental Organizations (NGOs) are trying to establish medical care, with some hospitals even operated secretly.</content>
+        </sentence>
+        <sentence id="30">
+          <content>British-Syrian run charity Hand in Hand for Syria is one of them.</content>
+        </sentence>
+        <sentence id="31">
+          <content>It helps operates 37 clinics and hospitals within Syria, supported largely by donated medical supplies and volunteer doctors.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="32">
+          <content>In a makeshift clinic in Idleb province, Doctor Mohammed Abdul Salam, a pediatrician and medical director of a children&amp;apost;s clinic run by the charity says: &amp;quot;There were no incubators in areas outside the government&amp;apost;s control for premature babies.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="33">
+          <content>&amp;quot;In besieged areas, private hospitals used to charge high prices and people could not afford the costs of care, and that&amp;apost;s why there was high infant mortality.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="34">
+          <content>The U.N. body for assistance in Syria -- the Office for the Coordination of Humanitarian Affairs -- estimates that for 2013 alone aid of $1.4 billion is needed to deal with the growing humanitarian crisis inside the country.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="35">
+          <content>Destabilization of Syria&amp;apost;s population will have an impact for many, many years to come.</content>
+        </sentence>
+        <sentence id="36">
+          <content>But for now, immediate assistance is needed for millions living under dire conditions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

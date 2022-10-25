@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2555" link="http://cnn.com/2014/02/05/world/meast/syria-barrel-bomb" date_published="2014-02-05 09:54:33" category="world" author="Saad Abedine, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Opposition: Fresh barrel bomb attack kills 15 in Aleppo</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">Barrel bombs are drums packed with explosives and shrapnel.</sentence>
+      <sentence id="2" ids_article_sentences="13">26 people were killed Monday; 126 over the weekend .</sentence>
+      <sentence id="3" ids_article_sentences="21">&amp;quot;Oh God, we&amp;apost;ve had enough,&amp;quot; one man sobbed.</sentence>
+      <sentence id="4" ids_article_sentences="9, 8">Kerry says al-Assad has strengthened his hand, but he&amp;apost;s &amp;quot;still not winning&amp;quot;.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-11 18:20:40" annotation_time="32.655666" mapping_time_divergence="8.163917">
+      <sentence id="2" ids_highlights="1">Barrel bombs are drums packed with explosives and shrapnel, which are then dropped from the sky.</sentence>
+      <sentence id="8" ids_highlights="4">&amp;quot;It&amp;apost;s fair to say that Assad has improved his position a little bit, yes,&amp;quot; Kerry said.</sentence>
+      <sentence id="9" ids_highlights="4">&amp;quot;But he&amp;apost;s still not winning.</sentence>
+      <sentence id="13" ids_highlights="2">And over the weekend, barrel bombs killed 126 people there.</sentence>
+      <sentence id="21" ids_highlights="3">One man, standing in front of a child&amp;apost;s body, sobbed, &amp;quot;Oh God, we&amp;apost;ve had enough.&amp;quot;</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>At least 15 boys were killed when Syrian forces dropped a barrel bomb on a mosque operating as a makeshift school in Aleppo, the opposition Syrian Coalition said Wednesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Barrel bombs are drums packed with explosives and shrapnel, which are then dropped from the sky.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Tuesday&amp;apost;s attack is the second barrel bomb raid in two days in the northern Syrian city, which has become a flashpoint of the country&amp;apost;s civil war.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>&amp;quot;Each and every day that the barrel-bombing of Aleppo continues, the Assad regime reminds the world of its true colors,&amp;quot; U.S. Secretary of State John Kerry said in a statement after the attack.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>&amp;quot;Each and every barrel bomb filled with metal shrapnel and fuel launched against innocent Syrians underscores the barbarity of a regime that has turned its country into a super magnet for terror.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>Later, Kerry defended U.S. policy toward Syria in an exclusive interview on CNN&amp;apost;s &amp;quot;The Lead with Jake Tapper.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>However, he did not dispute entirely a U.S. intelligence assessment that Syrian President Bashar al-Assad has regained some footing since agreeing to turn over chemical weapons to the international community to avoid possible military action against his regime.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;It&amp;apost;s fair to say that Assad has improved his position a little bit, yes,&amp;quot; Kerry said.</content>
+        </sentence>
+        <sentence id="9">
+          <content>&amp;quot;But he&amp;apost;s still not winning.</content>
+        </sentence>
+        <sentence id="10">
+          <content>This is a stalemate.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>Barrel bomb toll.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>On Monday, 26 people were killed, the UK-based Syrian Observatory for Human Rights said.</content>
+        </sentence>
+        <sentence id="13">
+          <content>And over the weekend, barrel bombs killed 126 people there.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;The mosque was being used as a school after all schools in the area were either hit or brimming with internally displaced civilians,&amp;quot; Khalid Saleh of the Syrian Coalition said about Tuesday&amp;apost;s attack.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>&amp;quot;Giving up on learning was not an option for these children, but the hatred of the Assad regime was blind enough to deprive them not only from their right to education but also from their right to live.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;apost;Children, there are children&amp;apost;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="17">
+          <content>Opposition groups have blamed the attacks on al-Assad.</content>
+        </sentence>
+        <sentence id="18">
+          <content>The Syrian government has previously said that military operations are targeting &amp;quot;terrorist groups&amp;quot; in neighborhoods of the city.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="19">
+          <content>Videos posted online after the attack on the Othman Bin Affan mosque Tuesday showed angry residents, arms raised to the sky, cursing at al-Assad.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="20">
+          <content>&amp;quot;Children, there are children,&amp;quot; some shouted.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="21">
+          <content>One man, standing in front of a child&amp;apost;s body, sobbed, &amp;quot;Oh God, we&amp;apost;ve had enough.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;Why us,&amp;quot; a child told an activist who filmed the aftermath of the attack.</content>
+        </sentence>
+        <sentence id="23">
+          <content>&amp;quot;We are not rebel fighters, we are children.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="24">
+          <content>CNN cannot independently verify the death tolls or the authenticity of the videos.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="25">
+          <content>The United Nations says more than 100,000 people have been killed in Syria since fighting began in 2011.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

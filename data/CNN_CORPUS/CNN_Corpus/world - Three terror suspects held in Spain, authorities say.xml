@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2835" link="http://www.cnn.com/2012/08/02/world/europe/spain-terror-arrests/index.html?hpt=hp_t3" date_published="2012-08-02 12:16:52" category="world" author="Paul Cruickshank and Nic Robertson, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Three terror suspects held in Spain, authorities say</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="9">NEW: Security services: Men were most likely plotting attacks on U.S., British targets.</sentence>
+      <sentence id="2" ids_article_sentences="12">NEW: They say the men also may have been planning an attack in France.</sentence>
+      <sentence id="3" ids_article_sentences="14">NEW: Police found explosives in the apartment of one of the men.</sentence>
+      <sentence id="4" ids_article_sentences="23">The suspects had information about remote-controlled airplanes, authorities say.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-01 16:03:59" annotation_time="18.87">
+      <sentence id="9" ids_highlights="1">The investigation is in its early stages, but Spanish security services say the men were most likely plotting to attack the joint U.S.-Spanish naval base at Rota or British interests in Gibraltar, according to Fernando Reinares, a senior international terrorism analyst at The Elcano Royal Institute in Madrid who was briefed by Spanish security services on the investigation.</sentence>
+      <sentence id="12" ids_highlights="2">According to Reinares, Spanish security services believe the alleged cell might have also been plotting a terrorist attack in France, leading to the two arrests on the bus to France.</sentence>
+      <sentence id="14" ids_highlights="3">Explosives were found in the apartment of one of the suspects in the area of San Roque, just across the border from Gibraltar, and security services believe more explosives were removed from the apartment in the past two days, Reinares said.</sentence>
+      <sentence id="23" ids_highlights="4">Spain&amp;apost;s interior minister said the suspects had information about remote-controlled airplanes, and some of them &amp;quot;have experience producing explosives and car bombs and training in shooting.&amp;quot;</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>In what the interior minister calls one of Spain&amp;apost;s largest operations against al Qaeda, security services said Thursday they arrested three suspected terrorists who might have been plotting attacks on U.S. or British targets.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Two of the men were arrested Wednesday and the third Thursday, Spanish Interior Minister Jorge Fernandez Diaz said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The Interior Ministry said the men were &amp;quot;ready to act in Spain and Europe.&amp;quot;</content>
+        </sentence>
+        <sentence id="4">
+          <content>One of the men is Turkish, and the other two are believed to be of Russian-Chechen origin.</content>
+        </sentence>
+        <sentence id="5">
+          <content>Police sources said they had gathered enough explosives to &amp;quot;blow up a bus.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>The two men arrested Wednesday were on a bus traveling to France when police detained them, and Diaz said they &amp;quot;resisted fiercely.&amp;quot;</content>
+        </sentence>
+        <sentence id="7">
+          <content>Police sources said they were stopped in Almuradiel, a town about midway between Madrid and the country&amp;apost;s southern coast.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>The third was held in the province of Cadiz on Spain&amp;apost;s southern coast.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>The investigation is in its early stages, but Spanish security services say the men were most likely plotting to attack the joint U.S.-Spanish naval base at Rota or British interests in Gibraltar, according to Fernando Reinares, a senior international terrorism analyst at The Elcano Royal Institute in Madrid who was briefed by Spanish security services on the investigation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>They base their belief on a number of factors: The group&amp;apost;s capabilities; the proximity of the targets -- Rota is in Cadiz and Gibraltar is adjacent to it; and the fact that several of the men had mastered flying motorized paragliders, which leads investigators to believe the group may have been plotting to launch an attack from the air.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>The Turkish man also worked in Gibraltar, Reinares said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>According to Reinares, Spanish security services believe the alleged cell might have also been plotting a terrorist attack in France, leading to the two arrests on the bus to France.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>Security services don&amp;apost;t rule out the possibility they had planned an attack elsewhere in Europe, though no intelligence indicates they were a threat to the London Olympics, Reinares said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>Explosives were found in the apartment of one of the suspects in the area of San Roque, just across the border from Gibraltar, and security services believe more explosives were removed from the apartment in the past two days, Reinares said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>Spanish police are still searching for explosives in the neighboring town of San Roque, where they suspect the men had stored bombs and documents.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Wiretaps indicate that the Turkish citizen&amp;apost;s wife had &amp;quot;removed evidence from the house&amp;quot; before the arrest.</content>
+        </sentence>
+        <sentence id="17">
+          <content>They are also analyzing the computers and files on a laptop that belonged to one of the arrested men.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="18">
+          <content>One of the Chechen suspects was a &amp;quot;true specialist in chemicals,&amp;quot; security services told Reinares.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="19">
+          <content>Authorities did not release the men&amp;apost;s names, but a police source gave the Chechen suspects&amp;apost; initials as A.A.A. and M.A., and the Turkish suspect&amp;apost;s initials as C.Y.</content>
+        </sentence>
+        <sentence id="20">
+          <content>The source said the men were carrying no documentation when they were arrested.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="21">
+          <content>Spanish security services suspect the alleged terrorist cell of having ties to the Pakistani terror group Lashkar-e-Tayyiba, Reinares told CNN, and they believe one or more of the trio received terrorist training in Afghanistan and Pakistan.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="22">
+          <content>The alleged cell was first detected in Spain around a month ago but had been previously tracked by other Western intelligence agencies, according to the Spanish Interior Ministry.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="23">
+          <content>Spain&amp;apost;s interior minister said the suspects had information about remote-controlled airplanes, and some of them &amp;quot;have experience producing explosives and car bombs and training in shooting.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="24">
+          <content>Reinares said the alleged terrorist cell&amp;apost;s operation was different from other recent terrorist plots in Spain that were the work of &amp;quot;self-starting, self-radicaling&amp;quot; Islamist militants.</content>
+        </sentence>
+        <sentence id="25">
+          <content>He said Spanish investigators believe this cell was dispatched from overseas to carry out a terrorist attack.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="26">
+          <content>Reinares said this was not the first alleged terrorist cell linked to Lashkar-e-Tayyiba to be arrested in Spain.</content>
+        </sentence>
+        <sentence id="27">
+          <content>A group linked to a militant with ties to Lashkar-e-Tayyiba who had trained in Kashmir was arrested in Barcelona in 2004.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="28">
+          <content>Indian and Western intelligence officials suspect that Lashkar-e-Tayyiba is responsible for the 2008 Mumbai terrorist attacks and that it has established closer ties with al Qaeda in recent years.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="29">
+          <content>One of its members was David Headley, a U.S. citizen of Pakistani descent, who was convicted of helping to plan the Mumbai attacks and plotting to attack a Danish newspaper that had published cartoons of the Prophet Mohammed.</content>
+        </sentence>
+        <sentence id="30">
+          <content>According to court documents, Lashkar-e-Tayyiba commissioned Headley to research targeting the newspaper, but the group never went through with the plot.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="31">
+          <content>A jihadist website associated with al Qaeda posted a request earlier this year asking for &amp;quot;lone wolves living among the enemy&amp;quot; who could speak Spanish, a request that Spanish police interpret as a call for suicide bombers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

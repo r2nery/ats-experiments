@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2228" link="http://www.cnn.com/2012/09/29/world/americas/canada-guantanamo-release/index.html" date_published="2012-09-29 13:37:12" category="world" author="Paula Newton, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Guantanamo detainee back in Canada to serve out sentence</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Guantanamo detainee Omar Khadr is transported back to Canada.</sentence>
+      <sentence id="2" ids_article_sentences="8, 7">He pleaded guilty to murder and other charges under a plea deal in 2010.</sentence>
+      <sentence id="3" ids_article_sentences="7">He admitted throwing a grenade that killed a U.S. soldier in 2002.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-01 15:59:21" annotation_time="28.13967" mapping_time_divergence="9.3798895">
+      <sentence id="1" ids_highlights="1">Ottawa, Canada Guantanamo detainee Omar Khadr has been transferred to his homeland of Canada to serve the remainder of his sentence, Canada&amp;apost;s Public Safety Minister Vic Toews said Saturday.</sentence>
+      <sentence id="7" ids_highlights="2, 3">Under a plea deal with military prosecutors in October 2010, Khadr admitted to throwing a grenade during a 2002 firefight in Afghanistan that killed Sgt. First Class Christopher Speer, a member a U.S. Army Special Forces Unit.</sentence>
+      <sentence id="8" ids_highlights="2">He pleaded guilty to murder, attempted murder, providing material support for terrorism, spying and conspiracy.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Ottawa, Canada Guantanamo detainee Omar Khadr has been transferred to his homeland of Canada to serve the remainder of his sentence, Canada&amp;apost;s Public Safety Minister Vic Toews said Saturday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Khadr boarded a military plane at the Guantanamo Naval base in Cuba and arrived at a military airbase in Trenton, Ontario.</content>
+        </sentence>
+        <sentence id="3">
+          <content>He will serve the rest of his sentence at Millhaven Prison in Bath, Ontario, about 130 miles east of Toronto.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>The case and the prisoner&amp;apost;s legal fate have sparked controversy among Canadians.</content>
+        </sentence>
+        <sentence id="5">
+          <content>Many think his sentence has been too lenient.</content>
+        </sentence>
+        <sentence id="6">
+          <content>Others, noting his capture at age 15, think he should have been treated as a child soldier and point to alleged mistreatment while in custody.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>Under a plea deal with military prosecutors in October 2010, Khadr admitted to throwing a grenade during a 2002 firefight in Afghanistan that killed Sgt. First Class Christopher Speer, a member a U.S. Army Special Forces Unit.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>He pleaded guilty to murder, attempted murder, providing material support for terrorism, spying and conspiracy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>&amp;quot;This transfer occurs following a process initiated by the United States government and determined in accordance with Canadian law,&amp;quot; Toews said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;I am satisfied the Correctional Service of Canada can administer Omar Khadr&amp;apost;s sentence in a manner which recognizes the serious nature of the crimes that he has committed and ensure the safety of Canadians is protected during incarceration,&amp;quot; he said, adding that the Canadian government would have no say in parole proceedings.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>As part the plea deal, Khadr received an eight-year sentence with no credit for time served.</content>
+        </sentence>
+        <sentence id="12">
+          <content>Khadr&amp;apost;s lawyers say Khadr agreed to the plea deal under the condition that he would serve most of the sentence in Canada.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>Khadr&amp;apost;s lawyers say the transfer was delayed for months as the Canadian government seemed to drag its feet.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>Earlier this year, U.S. Defense Secretary Leon Panetta told CNN that Khadr&amp;apost;s repatriation would mark a significant step forward in eventually closing Guantanamo.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="15">
+          <content>Two senior Obama administration officials said it took about a year to work out arrangements with Canadians for the transfer.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="16">
+          <content>Negotiations were a very long and complicated process, and there were extensive conversations with Canadians, one of the officials said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="17">
+          <content>There were a lot of legal hurdles on the U.S. side and clearly hesitation on the part of Canadian government to do this because the public is polarized about Khadr, the official said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="18">
+          <content>Khadr was the only remaining Western detainee at Guantanamo.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="19">
+          <content>His repatriation in Canada is highly controversial, due in large part to the views held by his family members.</content>
+        </sentence>
+        <sentence id="20">
+          <content>His father, Ahmed Khadr was a close associate of Osama Bin Laden and openly said he believed it was his Islamic duty to train his children in jihad.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="21">
+          <content>Human rights groups around the world have denounced Khadr&amp;apost;s capture at the age of 15 and his 10-year detention at Guantanamo.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;Given the Obama administration&amp;apost;s glacial pace towards closing the U.S.-controlled detention center, little and late though it is, today&amp;apost;s news represents progress,&amp;quot; Amnesty International USA&amp;apost;s Executive Director Suzanne Nossel said in a statement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="23">
+          <content>Canada should conduct a full investigation into Khadr&amp;apost;s allegations of torture and &amp;quot;remedy for the human rights violations he suffered,&amp;quot; she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="24">
+          <content>The Pentagon said that currently 166 detainees remain in detention at Guantanamo Bay.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

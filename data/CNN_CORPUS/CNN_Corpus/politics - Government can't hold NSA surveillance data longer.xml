@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1061" link="http://edition.cnn.com/2014/03/07/politics/nsa-surveillance-extend/index.html?iid=article_sidebar" date_published="2014-03-07 22:12:46" category="politics" author="Bill Mears, CNN Senior Producer" highlights_mapped="true" mapping_error="false">
+  <title>Government can&amp;apost;t hold NSA surveillance data longer</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">Judge with secret FISA court said the government has not overcome privacy concerns.</sentence>
+      <sentence id="2" ids_article_sentences="8">Current law requires the government to purge surveillance records within five years.</sentence>
+      <sentence id="3" ids_article_sentences="2">The Justice Department argued that the data had to be preserved due to litigation.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-01 19:12:52" annotation_time="33.852337">
+      <sentence id="2" ids_highlights="3">The Justice Department had argued several pending lawsuits over the bulk data collection program require it to preserve the records for a longer period of time.</sentence>
+      <sentence id="3" ids_highlights="1">Judge Reggie Walton, who presides over the Foreign Intelligence Surveillance Court, concluded on Friday the government had not overcome larger privacy concerns.</sentence>
+      <sentence id="8" ids_highlights="2">Current surveillance court orders require the National Security Agency or telecommunication companies that gathered the phone records to purge the material within five years.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>A federal judge with a secret court has refused the Obama administration&amp;apost;s request to extend storage of classified National Security Agency telephone surveillance data beyond the current five-year limit.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The Justice Department had argued several pending lawsuits over the bulk data collection program require it to preserve the records for a longer period of time.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Judge Reggie Walton, who presides over the Foreign Intelligence Surveillance Court, concluded on Friday the government had not overcome larger privacy concerns.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>&amp;quot;The amended procedures would further infringe on the privacy interests of United States persons whose telephone records were acquired in vast numbers and retained by the government to aid in national security investigations,&amp;quot; said Walton, whose main duties are as a Washington-based federal district court judge.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>&amp;quot;The great majority of these individuals have never been the subject of investigations by the FBI to protect against international terrorism or clandestine intelligence activities.</content>
+        </sentence>
+        <sentence id="6">
+          <content>The government seeks to retain these records, not for national security reasons, but because some of them may be relevant in civil litigation in which the destruction of those very same records is being requested.</content>
+        </sentence>
+        <sentence id="7">
+          <content>However, the civil plaintiffs potentially interested in preserving the (telecom) metadata have expressed no desire to acquire the records.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>Current surveillance court orders require the National Security Agency or telecommunication companies that gathered the phone records to purge the material within five years.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>&amp;quot;The government makes no attempt to explain why it believes the records that are subject to destruction are relevant to the civil cases,&amp;quot; said Walton in his 12-page order.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>There was no immediate reaction to the order from the Justice Department.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>Intelligence leaker Edward Snowden last June revealed a secret surveillance court order approving government collection of mass amounts of metadata from telecom giant Verizon.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>It includes phone numbers called and their location.</content>
+        </sentence>
+        <sentence id="13">
+          <content>The exact percentage of metadata being collected has not been revealed publicly.</content>
+        </sentence>
+        <sentence id="14">
+          <content>Monitoring of actual conversations requires a separate warrant.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="15">
+          <content>President Barack Obama in January cited privacy concerns when announcing that such data should no longer be held by the government, but instead be turned over to the domestic telecoms or a private third party.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="16">
+          <content>NSA would still have access to the calls to track potential terror connections.</content>
+        </sentence>
+        <sentence id="17">
+          <content>He ordered the intelligence community to formulate such a plan by March 28.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="18">
+          <content>The mission of the FISA court, named after the Foreign Intelligence Surveillance Act that created it, is to decide whether to grant certain types of government requests -- wiretapping, data analysis, and other monitoring for &amp;quot;foreign intelligence purposes&amp;quot; of suspected terrorists and spies operating in the United States.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="19">
+          <content>The once-secret approval of collecting bits and pieces of information from electronic communications comes quarterly from judges at the court.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="20">
+          <content>To collect the information, the government has to demonstrate to a judge that it is &amp;quot;relevant&amp;quot; to an international terrorism investigation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="21">
+          <content>There were 1,856 applications in 2012 to the FISA Court for electronic surveillance and physical searches for &amp;quot;foreign intelligence purposes,&amp;quot; the Justice Department said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="22">
+          <content>The current case is In re: Application of the FBI for an Order Requiring the Production of Tangible Things (BR 14-01).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

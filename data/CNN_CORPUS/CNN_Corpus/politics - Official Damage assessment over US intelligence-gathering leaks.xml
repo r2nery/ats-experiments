@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1103" link="http://www.cnn.com/2013/06/08/politics/nsa-data-mining/index.html" date_published="2013-06-09 02:43:16" category="politics" author="Chelsea J. Carter and Jessica Yellin, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Official: Damage assessment over U.S. intelligence-gathering leaks</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="4">&amp;quot;Currently, there&amp;apost;s a review underway to understand&amp;quot; potential damage, official says.</sentence>
+      <sentence id="2" ids_article_sentences="1">National Intelligence Director James Clapper declassified details of the PRISM program.</sentence>
+      <sentence id="3" ids_article_sentences="6">PRISM is a computer system that manages foreign intelligence, according to the material.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-20 09:57:22" annotation_time="73.261">
+      <sentence id="1" ids_highlights="2">Rancho Mirage, California Following the furor over revelations the U.S. government is collecting telephone records and data mining popular online services, National Intelligence Director James Clapper took the unusual step Saturday of declassifying some details about the programs.</sentence>
+      <sentence id="4" ids_highlights="1">&amp;quot;...Currently, there&amp;apost;s a review underway to understand what potential damage may be done.&amp;quot;</sentence>
+      <sentence id="6" ids_highlights="3">Among the details made public: The National Security Agency&amp;apost;s PRISM program -- the program that reportedly allows the government to access online services -- is an internal government computer system that is used to manage foreign intelligence collected from online providers and services.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Rancho Mirage, California Following the furor over revelations the U.S. government is collecting telephone records and data mining popular online services, National Intelligence Director James Clapper took the unusual step Saturday of declassifying some details about the programs.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>In doing so, Clapper reiterated President Barack Obama&amp;apost;s position that the programs are necessary to fight terrorism, while one of his deputies said the administration was looking into possible repercussions caused by leaks to the media about programs.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;We are doing an assessment of the damage that has been done to U.S. national security by the revelation of this information,&amp;quot; Deputy National Security Adviser Ben Rhodes told reporters during a news briefing in Rancho Mirage, California, where President Barack Obama was meeting with Chinese President Xi Jinping.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>&amp;quot;...Currently, there&amp;apost;s a review underway to understand what potential damage may be done.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>Clapper&amp;apost;s declassification of some details is the most comprehensive explanation by the government to date of how the programs work and what information they collect.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>Among the details made public: The National Security Agency&amp;apost;s PRISM program -- the program that reportedly allows the government to access online services -- is an internal government computer system that is used to manage foreign intelligence collected from online providers and services.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;Over the last week we have seen reckless disclosures of intelligence community measures used to keep Americans safe,&amp;quot; Clapper said in a statement distributed along with a two-and-a-half pages of details about the programs.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;In a rush to publish, media outlets have not given the full context -- including the extent to which these programs are overseen by all three branches of government.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="9">
+          <content>The release of the declassified material comes as the government is under fire following revelations about the surveillance and intelligence programs that have seen privacy advocates call for reforms and elected officials question the expansive nature of the intelligence-gathering activities.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="10">
+          <content>The revelations began Wednesday, when a British newspaper, the Guardian, published a top secret order from an intelligence court that required Verizon Business Network Services to give telephone records detailing the time, location and telephone numbers involved in domestic calls from April 25 to July 19.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="11">
+          <content>Revelation opens political Pandora&amp;apost;s box.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="12">
+          <content>That was followed a day later by a report from The Washington Post that the government was using a program called PRISM that reportedly allows NSA analysts access to computers at Microsoft, Google, Apple and other companies to extract details of customer activities, including &amp;quot;audio and video chats, photographs, e-mails, documents&amp;quot; and other materials.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="13">
+          <content>Clapper said the surveillance activities published in the Guardian and The Washington Post are &amp;quot;lawful and conducted under authorities widely known and discussed, and fully debated and authorized by Congress&amp;quot; since its inception in 2008.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

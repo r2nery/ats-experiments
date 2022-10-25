@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2704" link="http://www.cnn.com/2012/12/04/world/europe/royal-baby-announcement-saunders/index.html" date_published="2012-12-04 13:00:02" category="world" author="Mark Saunders, Special to CNN" highlights_mapped="true" mapping_error="false">
+  <title>Royal baby announcement marks dramatic break with tradition</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">Palace forced to announce Duchess of Cambridge&amp;apost;s pregnancy after hospital trip.</sentence>
+      <sentence id="2" ids_article_sentences="14">Unclear when senior members of royal family, including the queen, were told.</sentence>
+      <sentence id="3" ids_article_sentences="15">Saunders: Pregnancy could be one of most significant in the UK royal history.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-09-02 10:08:55" annotation_time="72.67434">
+      <sentence id="3" ids_highlights="1">Buckingham Palace were forced to make the announcement only after Catherine was taken to hospital suffering from acute morning sickness.</sentence>
+      <sentence id="14" ids_highlights="2">It is unclear when senior members of the royal family, including the queen, were told about the pregnancy -- but a palace insider says Catherine&amp;apost;s parents were already aware their eldest daughter was expecting because she was taken ill whilst staying at their family home in Berkshire this weekend.</sentence>
+      <sentence id="15" ids_highlights="3">Catherine&amp;apost;s pregnancy could turn out to be one of the most significant in the history of the British royal family, for the child will accede to the throne even if she is a girl.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The news the Duchess of Cambridge is expecting a child marks a dramatic departure from previous royal pregnancies.</content>
+        </sentence>
+        <sentence id="2">
+          <content>For it is believed even the queen may not have been given the happy news.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>Buckingham Palace were forced to make the announcement only after Catherine was taken to hospital suffering from acute morning sickness.</content>
+        </sentence>
+        <sentence id="4">
+          <content>Usually proclamations of royal births are posted on the gates at Buckingham Palace only after the 12th week of pregnancy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>But knowing it would be impossible to keep Catherine&amp;apost;s visit to hospital a secret, Buckingham Palace took the unusual step of pre-empting press speculation and revealing the news immediately.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>The announcement is in stark contrast to Princess Diana&amp;apost;s first pregnancy, which was announced some six weeks after the queen had been informed, and after months of intense press speculation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>Royal advisors are being surprisingly open about Catherine&amp;apost;s condition, despite recent intrusions into her private life, including the publication of topless photos, which were condemned by Buckingham Palace.</content>
+        </sentence>
+        <sentence id="8">
+          <content>It is believed a new spirit of openness has been embraced by William and Catherine in an attempt to prevent the massive press interest and speculation that surrounded Princess Diana.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>Prince William drove his wife to hospital earlier today and spent hours by her bedside.</content>
+        </sentence>
+        <sentence id="10">
+          <content>He left tonight looking tense but happy.</content>
+        </sentence>
+        <sentence id="11">
+          <content>Catherine is expected to stay in hospital for several days.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>Sources said the couple are &amp;quot;incredibly happy but nervous.&amp;quot;</content>
+        </sentence>
+        <sentence id="13">
+          <content>In a statement on their website William and Catherine said they were &amp;quot;delighted with the news.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="14">
+          <content>It is unclear when senior members of the royal family, including the queen, were told about the pregnancy -- but a palace insider says Catherine&amp;apost;s parents were already aware their eldest daughter was expecting because she was taken ill whilst staying at their family home in Berkshire this weekend.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="15">
+          <content>Catherine&amp;apost;s pregnancy could turn out to be one of the most significant in the history of the British royal family, for the child will accede to the throne even if she is a girl.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="16">
+          <content>The child will not be subject to the centuries old law of primogeniture, which puts male heirs ahead of women.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="17">
+          <content>Britain&amp;apost;s Prime Minister David Cameron has agreed a deal to change the rules on the royal line of succession, which means male heirs will no longer be given priority.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="18">
+          <content>News of the pregnancy was met with joy throughout the UK.</content>
+        </sentence>
+        <sentence id="19">
+          <content>Within minutes of the announcement being published on the royal couple&amp;apost;s website it had crashed under the weight of traffic.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

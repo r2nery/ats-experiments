@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="611" link="http://www.cnn.com/2013/08/02/justice/hernandez-fan-letter/index.html?iid=article_sidebar" date_published="2013-08-02 23:40:35" category="justice" author="Erinn Cawthon, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Report: Ex-NFL star Hernandez responds from jail to fan letter</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Aaron Hernandez is being held on a murder charge.</sentence>
+      <sentence id="2" ids_article_sentences="1">Former NFL star responds to fan letter, according to report.</sentence>
+      <sentence id="3" ids_article_sentences="5">He says: World makes things from &amp;quot;false accusations&amp;quot;.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-11 10:38:06" annotation_time="74.626" mapping_time_divergence="24.875334">
+      <sentence id="1" ids_highlights="1, 2">Former New England Patriots tight end Aaron Hernandez, jailed on a murder charge, declared his innocence as he responded to a fan letter, saying that &amp;quot;all the people who turned on me will feel like crap,&amp;quot; according to a report.</sentence>
+      <sentence id="5" ids_highlights="3">In the letter, Hernandez responded to the fan, &amp;quot;The world just makes things out of false accusations and it will all die down especially when they say NOT GUILTY......&amp;quot;</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Former New England Patriots tight end Aaron Hernandez, jailed on a murder charge, declared his innocence as he responded to a fan letter, saying that &amp;quot;all the people who turned on me will feel like crap,&amp;quot; according to a report.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>TMZ, which on Thursday published the letter online, said it has independently verified its authenticity with authorities.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Massachusetts authorities have accused the fallen NFL star of orchestrating the June 17 shooting death of Odin Lloyd, the 27-year-old boyfriend of Hernandez&amp;apost;s fiancée&amp;apost;s sister.</content>
+        </sentence>
+        <sentence id="4">
+          <content>Hernandez has pleaded not guilty to murder and is being held without bail.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>In the letter, Hernandez responded to the fan, &amp;quot;The world just makes things out of false accusations and it will all die down especially when they say NOT GUILTY......&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>At the end of the letter, Hernandez pleads for the letter not to be leaked to social media.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>The fan, who does not want to be named, sold the letter to Sportsworld in Saugus, Massachusetts, according to Phil Castinetti, owner of the memorabilia shop.</content>
+        </sentence>
+        <sentence id="8">
+          <content>Sportsworld then sold the letter to TMZ for $18,000, according to the shop&amp;apost;s Brendan Brennan, who declined to say how much the business paid the fan for the letter.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>So much for keeping it off social media.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>But the fan said he sold the letter for good reason.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;I wanted to show him that I&amp;apost;m supporting him,&amp;quot; the fan told CNN on Friday.</content>
+        </sentence>
+        <sentence id="12">
+          <content>&amp;quot;I don&amp;apost;t think it&amp;apost;s right because people haven&amp;apost;t heard his side of the story.</content>
+        </sentence>
+        <sentence id="13">
+          <content>All you see is Twitter and Facebook saying bad things.</content>
+        </sentence>
+        <sentence id="14">
+          <content>People need to see that he took his time to write somebody a letter back,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>Although he is supporting Hernandez, the fan still sympathizes for the family of the victim.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>The fan wrote the letter two weeks ago, but said he didn&amp;apost;t expect to hear back.</content>
+        </sentence>
+        <sentence id="17">
+          <content>The fan mentioned in the letter his own troubles with the law and how he was able to turn his life around.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="18">
+          <content>He added to the letter photos of Hernandez, his fiancée and their daughter, which Hernandez now has on his wall in the cell, as &amp;quot;something to look at beside those four walls,&amp;quot; according to the fan.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="19">
+          <content>CNN cannot independently confirm this account.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="20">
+          <content>&amp;quot;I know there is a reason I&amp;apost;m going thru this and I will figure it out through my relationship with the Lord,&amp;quot; continued Hernandez in the letter, according to TMZ.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="21">
+          <content>Bristol County Sheriff Tom Hodgson told CNN that the envelope and stationery came from Bristol County House of Corrections, but could not confirm whether Hernandez actually wrote it.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="22">
+          <content>However, the name &amp;quot;Aaron Hernandez,&amp;quot; the identification number, unit and room number were listed on the outgoing envelope.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="23">
+          <content>A spokesperson for a law firm representing Hernandez declined to comment.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="24">
+          <content>At the bottom, after his signature, Hernandez said &amp;quot;Can&amp;apost;t wait to sign this again when I&amp;apost;m playing again and prove all the haters and [....] talkers WRONG.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

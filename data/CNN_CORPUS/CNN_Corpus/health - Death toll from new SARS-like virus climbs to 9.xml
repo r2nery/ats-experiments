@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="216" link="http://www.cnn.com/2013/03/13/health/new-coronavirus-case/index.html" date_published="2013-03-13 06:07:39" category="health" author="Saad Abedine, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Death toll from new SARS-like virus climbs to 9</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">So far, there have been 15 confirmed cases.</sentence>
+      <sentence id="2" ids_article_sentences="10">The virus can potentially lead to kidney failure.</sentence>
+      <sentence id="3" ids_article_sentences="18">Doctor says it is &amp;quot;very difficult to acquire&amp;quot;.</sentence>
+      <sentence id="4" ids_article_sentences="29">WHO has not recommended travel or trade restrictions.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-18 13:12:19" annotation_time="38.588333">
+      <sentence id="3" ids_highlights="1">So far, WHO has recorded 15 confirmed cases of the novel coronavirus, including nine deaths, since the fall.</sentence>
+      <sentence id="10" ids_highlights="2">And it could lead potentially to pneumononia and kidney failure.</sentence>
+      <sentence id="18" ids_highlights="3">Fortunately, he added, the virus is &amp;quot;very difficult to acquire.&amp;quot;</sentence>
+      <sentence id="29" ids_highlights="4">It did not recommend travel or trade restrictions for countries where the virus has been found.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>There has been another confirmed case of a mysterious new SARS-like virus.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The Saudi health ministry informed the World Health Organization that a 39-year-old man was hospitalized with the novel coronavirus on February 28 and died two days later.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>So far, WHO has recorded 15 confirmed cases of the novel coronavirus, including nine deaths, since the fall.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>The Saudi patient did not appear to have had any contact with anyone who was already infected.</content>
+        </sentence>
+        <sentence id="5">
+          <content>As a result, WHO is investigating other potential exposure sources.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>Symptoms.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>The novel coronavirus is in the same family as SARS.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>SARS, or Severe Acute Respiratory Syndrome, virus sickened 8,000 people and killed 774 between 2002 and 2003.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>Symptoms of the novel coronavirus include an acute respiratory infection, fever and a cough.</content>
+        </sentence>
+        <sentence id="10">
+          <content>And it could lead potentially to pneumononia and kidney failure.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>The first cases were found to have occurred in an Amman, Jordan, hospital, according to the Centers for Disease Control and Prevention.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>Cases.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="13">
+          <content>Most of the people who&amp;apost;ve caught the virus have been in the Middle East.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="14">
+          <content>But there have been cases reported in the United Kingdom as well.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="15">
+          <content>One of the U.K. patients had traveled to Saudi Arabia.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Upon return, he infected two other family members.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;Once it gets you, it&amp;apost;s a very serious infection,&amp;quot; said Dr. William Schaffner, an infectious disease specialist at Vanderbilt University Medical Center in Nashville.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="18">
+          <content>Fortunately, he added, the virus is &amp;quot;very difficult to acquire.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="19">
+          <content>While the SARS epidemic was going on, many of those caring for patients were infected too.</content>
+        </sentence>
+        <sentence id="20">
+          <content>The fact that this hasn&amp;apost;t been seen with these cases so far is a good sign, Schaffer said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="21">
+          <content>Origin.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="22">
+          <content>It&amp;apost;s suspected that, like SARS, the virus originated in animals.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="23">
+          <content>A study published in November found that genetically, the new coronavirus was most closely related to viruses found in bats.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="24">
+          <content>While no cases have popped up in the United States, doctors say they won&amp;apost;t be shocked if it did.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="25">
+          <content>&amp;quot;It could happen,&amp;quot; said Dr. Susan Gerber, a medical epidemiologist in the CDC&amp;apost;s Division of Viral Diseases.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="26">
+          <content>&amp;quot;That&amp;apost;s why the CDC is working closely with the World Health Organization and other international partners.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="27">
+          <content>Spread.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="28">
+          <content>WHO has asked member states to keep an eye out for severe acute respiratory infections and review them for unusual patterns.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="29">
+          <content>It did not recommend travel or trade restrictions for countries where the virus has been found.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="30">
+          <content>Dr. Susan Gerber, a medical epidemiologist in the CDC&amp;apost;s Division of Viral Diseases, agrees.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="31">
+          <content>There&amp;apost;s no evidence of sustained human-to-human transmission, she said, &amp;quot;where you see a chain of many cases going person to person to person.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="32">
+          <content>&amp;quot;People shouldn&amp;apost;t freak out,&amp;quot; she added.</content>
+        </sentence>
+        <sentence id="33">
+          <content>&amp;quot;There&amp;apost;s no evidence that this virus is easily spread, say, across a room.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

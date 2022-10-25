@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="215" link="http://edition.cnn.com/2012/08/07/health/crohns-disease-explained/index.html" date_published="2012-08-07 11:21:05" category="health" author="Debbi Wynn, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Crohn&amp;apost;s disease means lifelong battle</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="6">More than 1 million people in the United States have Crohn&amp;apost;s.</sentence>
+      <sentence id="2" ids_article_sentences="31">Patients face ever-changing complications.</sentence>
+      <sentence id="3" ids_article_sentences="2, 1">Those with Crohn&amp;apost;s include Olympian Carrie Johnson.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-05 12:58:19" annotation_time="83.48133" mapping_time_divergence="27.82711">
+      <sentence id="1" ids_highlights="3">Carrie Johnson is representing the United States at the 2012 Olympics in pursuit of the gold medal in women&amp;apost;s kayaking.</sentence>
+      <sentence id="2" ids_highlights="3">But while she battles for the gold, Johnson is fighting another battle: with Crohn&amp;apost;s disease, one of the two most common inflammatory bowel diseases, according to the U.S. Centers for Disease Control and Prevention.</sentence>
+      <sentence id="6" ids_highlights="1">More than 1 million people currently suffer from Crohn&amp;apost;s disease, and thousands more are diagnosed each year.</sentence>
+      <sentence id="31" ids_highlights="2">A diagnosis of Crohn&amp;apost;s disease often brings more questions than answers, and patients can face a long list of ever-changing complications.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Carrie Johnson is representing the United States at the 2012 Olympics in pursuit of the gold medal in women&amp;apost;s kayaking.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>But while she battles for the gold, Johnson is fighting another battle: with Crohn&amp;apost;s disease, one of the two most common inflammatory bowel diseases, according to the U.S. Centers for Disease Control and Prevention.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>In a recent SI.com interview, Johnson talked openly about her illness.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>One of the first things she did after being diagnosed in 2003, she said, was &amp;quot;take to the Internet and library to read about the disease.&amp;quot;</content>
+        </sentence>
+        <sentence id="5">
+          <content>She had to -- like many people, she had heard of Crohn&amp;apost;s disease but had little understanding of it.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>More than 1 million people currently suffer from Crohn&amp;apost;s disease, and thousands more are diagnosed each year.</content>
+        </sentence>
+        <sentence id="7">
+          <content>However, many suffer in silence, as the effects of Crohn&amp;apost;s are often not openly discussed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>About seven of every 100,000 people in the United States are diagnosed, most of them between the ages of 15 and 30, according to the Crohn&amp;apost;s and Colitis Foundation of America.</content>
+        </sentence>
+        <sentence id="9">
+          <content>There is no cure for the chronic condition.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>Crohn&amp;apost;s disease is named after Dr. Burrill Crohn who, along with two colleagues, recognized and documented the symptoms in 1932.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>Those diagnosed with it include some well-known personalities such as former President Dwight D. Eisenhower; Mike McCready, guitarist for Pearl Jam; former Miss America Mary Ann Mobley; and actress Shannen Doherty.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>Crohn&amp;apost;s disease is an autoimmune disease of the digestive tract that most often affects the small or large intestines, and sometimes both.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>According to the CDC, Crohn&amp;apost;s is &amp;quot;a condition of chronic inflammation potentially involving any location of the gastrointestinal tract, but it frequently affects the end of the small bowel and the beginning of the large bowel.</content>
+        </sentence>
+        <sentence id="14">
+          <content>In Crohn&amp;apost;s disease, all layers of the intestine may be involved and there can be normal healthy bowel between patches of diseased bowel.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="15">
+          <content>In a healthy body, the immune system creates an infection-fighting protein called tumor necrosis factor.</content>
+        </sentence>
+        <sentence id="16">
+          <content>When Crohn&amp;apost;s disease is present, TNF is produced in excess as the immune system mistakenly identifies healthy bacteria as a foreign presence.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>This causes the body to launch an attack and begin fighting the excess TNF, which leads to more inflammation, which results in more TNF.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="18">
+          <content>As this internal battle takes place, it causes severe pain, abdominal swelling, cramping, bleeding, diarrhea and deterioration of the affected portion of the intestinal tract.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="19">
+          <content>Dr. Dennis Choat, a board-certified colon and rectal surgeon with the Georgia Colon and Rectal Surgical Associates, is all too familiar with the effects of Crohn&amp;apost;s on patients.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="20">
+          <content>&amp;quot;Crohn&amp;apost;s is a chronic, lifelong disease for which there is no cure,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="21">
+          <content>&amp;quot;Because its cause is unknown, and because flare-ups happen without warning, those diagnosed with Crohn&amp;apost;s face a life of challenges and uncertainties.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;For some, treatment will bring about favorable results.</content>
+        </sentence>
+        <sentence id="23">
+          <content>For others, treatment will have little or no effect.</content>
+        </sentence>
+        <sentence id="24">
+          <content>Each patient is different, and treatment is a trial-and-error process.</content>
+        </sentence>
+        <sentence id="25">
+          <content>The only certainty is that it is a lifelong battle.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="26">
+          <content>The cause of Crohn&amp;apost;s is not known, but the National Institutes of Health notes that it can run in families and have a genetic component.</content>
+        </sentence>
+        <sentence id="27">
+          <content>Unknown triggers can also be caused by the environment.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="28">
+          <content>Early treatments for Crohn&amp;apost;s disease primarily centered on steroid drugs such as prednisone, which relieved the inflammation but did little more.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="29">
+          <content>In recent years, there has been significant success in treating symptoms, and in some cases bringing about remission, with the use of newer anti-TNF drugs such as Remicade, Humira and Cimzia.</content>
+        </sentence>
+        <sentence id="30">
+          <content>However, they too have their own set of complications and side effects.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="31">
+          <content>A diagnosis of Crohn&amp;apost;s disease often brings more questions than answers, and patients can face a long list of ever-changing complications.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="32">
+          <content>In addition to pain, bleeding and bowel changes, they have difficulty absorbing nutrition and often deal with malnourishment, anemia and crippling fatigue.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="33">
+          <content>Left untreated, Crohn&amp;apost;s spreads throughout the intestinal tract, causing more severe symptoms and a bleaker prognosis.</content>
+        </sentence>
+        <sentence id="34">
+          <content>The disease itself is not classified as a terminal illness, but the complications that arise from it can sometimes be life-threatening.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="35">
+          <content>Crohn&amp;apost;s patients face another stark reality: In spite of their and their doctor&amp;apost;s best efforts, the disease can stop responding to medication.</content>
+        </sentence>
+        <sentence id="36">
+          <content>When that happens, surgery becomes a last resort.</content>
+        </sentence>
+        <sentence id="37">
+          <content>According to the Crohn&amp;apost;s and Colitis Foundation of America, about 70% of Crohn&amp;apost;s sufferers eventually require surgery.</content>
+        </sentence>
+        <sentence id="38">
+          <content>About 30% of patients who have surgery for Crohn&amp;apost;s disease experience a recurrence of their symptoms within three years, and up to 60% will have a recurrence within 10 years.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="39">
+          <content>The two most common surgeries for Crohn&amp;apost;s disease are bowel resection surgery, which involves removal of the deteriorated portion of intestine, and fistula repair surgery.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="40">
+          <content>Fistulas can result from Crohn&amp;apost;s disease permeating the intestinal wall, leaving an opening or &amp;quot;hole&amp;quot; in the intestinal tract.</content>
+        </sentence>
+        <sentence id="41">
+          <content>This is one of the most serious complications of Crohn&amp;apost;s.</content>
+        </sentence>
+        <sentence id="42">
+          <content>Developing infection during the healing process is not uncommon, and often leads to temporary ostomies and lengthy periods of intravenous feeding.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="43">
+          <content>Crohn&amp;apost;s will always bring about a change in the quality of life, but recent studies are painting a picture for a more hopeful future.</content>
+        </sentence>
+        <sentence id="44">
+          <content>Medical research funding is critical, and raising funds presents a challenge in the current economic environment.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="45">
+          <content>&amp;quot;It&amp;apost;s not a matter of if we find cures; it&amp;apost;s a matter of when, and that&amp;apost;s determined by available funding,&amp;quot; said Richard Geswell, president of the Crohn&amp;apost;s &amp;amp; Colitis Foundation of America.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="46">
+          <content>The foundation is the largest voluntary nonprofit health organization dedicated to finding cures for inflammatory bowel diseases, a classification that includes Crohn&amp;apost;s and colitis.</content>
+        </sentence>
+        <sentence id="47">
+          <content>It is one source of funding for studies across the country and has chapters nationwide.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="48">
+          <content>The foundation&amp;apost;s website allows patients to become part of online study groups by sharing their symptoms, progress and complications.</content>
+        </sentence>
+        <sentence id="49">
+          <content>This allows the patient to develop an understanding of his or her individual case, and allows the foundation to have access to more patient histories for use in its research.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

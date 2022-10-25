@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2616" link="http://www.cnn.com/2014/01/04/world/europe/spain-pope-nuns-message" date_published="2014-01-04 11:38:06" category="world" author="Radina Gigova and Al Goodman, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Pope Francis leaves New Year&amp;apost;s voice mail for nuns in Spain</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="8, 1">Pope Francis calls while nuns at a Spanish convent are praying, leaves voice mail.</sentence>
+      <sentence id="2" ids_article_sentences="3">&amp;quot;What are the nuns doing that they can&amp;apost;t answer?&amp;quot; he asks jokingly.</sentence>
+      <sentence id="3" ids_article_sentences="13">Eventually Francis calls back, talks with the nuns on speakerphone.</sentence>
+      <sentence id="4" ids_article_sentences="17">&amp;quot;The message from Pope Francis was to never lose hope,&amp;quot; says prioress.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-20 17:22:01" annotation_time="96.37" mapping_time_divergence="48.185">
+      <sentence id="1" ids_highlights="1">Madrid The nuns in a Carmelite community in Lucena, Spain, received a voice-mail message on New Year&amp;apost;s Eve that they had to share with the world.</sentence>
+      <sentence id="3" ids_highlights="2">&amp;quot;What are the nuns doing that they can&amp;apost;t answer?&amp;quot;</sentence>
+      <sentence id="8" ids_highlights="1">The nuns were praying when Francis called shortly before noon, and so didn&amp;apost;t answer, the radio network said.</sentence>
+      <sentence id="13" ids_highlights="3">They consulted with their local bishop and tried to call Francis back, without success, the radio network said.</sentence>
+      <sentence id="17" ids_highlights="4">&amp;quot;The message from Pope Francis was to never lose hope, because sadness leads to spiritual sloth and hopelessness,&amp;quot; said Sister Adriana.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Madrid The nuns in a Carmelite community in Lucena, Spain, received a voice-mail message on New Year&amp;apost;s Eve that they had to share with the world.</content>
+        </sentence>
+        <sentence id="2">
+          <content>The caller was Pope Francis.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;What are the nuns doing that they can&amp;apost;t answer?&amp;quot;</content>
+        </sentence>
+        <sentence id="4">
+          <content>the Pope said jokingly.</content>
+        </sentence>
+        <sentence id="5">
+          <content>&amp;quot;I am Pope Francis, I wish to greet you in this end of the year, I will see if I can call you later.</content>
+        </sentence>
+        <sentence id="6">
+          <content>May God bless you!&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="7">
+          <content>The nuns passed the audio message to the Spanish radio network COPE, which is linked to the body that runs the Roman Catholic Church in Spain.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="8">
+          <content>The nuns were praying when Francis called shortly before noon, and so didn&amp;apost;t answer, the radio network said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="9">
+          <content>When they played the voice mail back, they got a surprise.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>The prioress of the convent, Sister Adriana, told the radio network she &amp;quot;literally wanted to die&amp;quot; when she first heard the message.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;Our friendship goes back 15 years but we never thought the pope would remember to think of us,&amp;quot; she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>After the nuns realized that they had missed a phone call from the Pope, they didn&amp;apost;t know what to do.</content>
+        </sentence>
+        <sentence id="13">
+          <content>They consulted with their local bishop and tried to call Francis back, without success, the radio network said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>The nuns decided simply to wait in hope of another call.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>Hours later, the phone rang again -- and this time they answered.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>Francis talked with the community&amp;apost;s five nuns, three of whom hail from his native Argentina, on speakerphone, COPE said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;The message from Pope Francis was to never lose hope, because sadness leads to spiritual sloth and hopelessness,&amp;quot; said Sister Adriana.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="18">
+          <content>She added she had known Pope Francis for years and admires his simplicity and closeness to people.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="19">
+          <content>The pontiff&amp;apost;s call came on the 400th anniversary of the community.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="20">
+          <content>The popularity of Francis, the first pope from Latin America, is sky-high, a CNN/ORC International poll released last month showed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="21">
+          <content>Since being elected in March, he has made headlines by embracing a humble way of life, caring for the poor and people with disabilities, and reaching out to the gay community.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

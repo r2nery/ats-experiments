@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2220" link="http://www.cnn.com/2012/08/20/world/asia/pakistan-girl-blasphemy/index.html" date_published="2012-08-20 06:15:46" category="world" author="Katie Hunt and Nasir Habib, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Girl held in Pakistan, accused of burning Quran pages</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">A girl, 11, is arrested for allegedly burning pages of a Quran.</sentence>
+      <sentence id="2" ids_article_sentences="4, 3">Media reports say the girl has Down syndrome, but a police official denies it.</sentence>
+      <sentence id="3" ids_article_sentences="9">Fearing a backlash, local Christian families have fled .</sentence>
+      <sentence id="4" ids_article_sentences="10">The president says the blasphemy law must not be misused.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-25 09:31:08" annotation_time="32.07033" mapping_time_divergence="8.017583">
+      <sentence id="1" ids_highlights="1">An 11-year-old Christian girl has been arrested after being accused of blasphemy by burning pages of the Quran in Pakistan&amp;apost;s capital, Islamabad.</sentence>
+      <sentence id="3" ids_highlights="2">Local media reports said the girl has Down syndrome.</sentence>
+      <sentence id="4" ids_highlights="2">CNN was unable to confirm these reports, and a local police official said they are not true.</sentence>
+      <sentence id="9" ids_highlights="3">Other Christian families living in the area have fled fearing a backlash, he added.</sentence>
+      <sentence id="10" ids_highlights="4">The statement from President Asif Ali Zardari said he has called for an urgent report on the incident and added that vulnerable sections of society must be protected &amp;quot;from any misuse of the blasphemy law.&amp;quot;</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>An 11-year-old Christian girl has been arrested after being accused of blasphemy by burning pages of the Quran in Pakistan&amp;apost;s capital, Islamabad.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>According to a statement released by the president&amp;apost;s office Sunday, the girl, identified as Ramsha, was accused by a local resident of burning pages of the Muslim holy text after she gathered paper as fuel for cooking.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Local media reports said the girl has Down syndrome.</content>
+        </sentence>
+        <sentence id="4">
+          <content>CNN was unable to confirm these reports, and a local police official said they are not true.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Qasim Niazi, the police officer in charge of the station near where the incident took place, said the girl does not have a mental disorder but is illiterate and has not attended school.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>The accused girl had told him she had no idea there were pages of the Quran inside the documents she burned, he added.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>Niazi said that 150 people had gathered on Friday where the neighborhood&amp;apost;s Christian population lives and threatened to burn down their houses.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;The mob wanted to burn the girl to give her a lesson,&amp;quot; he told CNN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>Other Christian families living in the area have fled fearing a backlash, he added.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="10">
+          <content>The statement from President Asif Ali Zardari said he has called for an urgent report on the incident and added that vulnerable sections of society must be protected &amp;quot;from any misuse of the blasphemy law.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;Blasphemy by anyone cannot be condoned but no one will be allowed to misuse blasphemy law for settling personal scores,&amp;quot; said the president&amp;apost;s spokesman, Farhatullah Babar.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="12">
+          <content>Critics of the controversial law say it is being used to persecute religious minorities.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="13">
+          <content>Politician and former international cricketer Imran Khan tweeted: &amp;quot;Shameful!</content>
+        </sentence>
+        <sentence id="14">
+          <content>Sending an 11yr old girl to prison is against the very spirit of Islam which is all about being Just and Compassionate.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="15">
+          <content>&amp;quot;Poor child is already suffering from Down Syndrome.</content>
+        </sentence>
+        <sentence id="16">
+          <content>State should care for its children not torment them.</content>
+        </sentence>
+        <sentence id="17">
+          <content>We demand her immed release,&amp;quot; said Khan, who now leads the political party Pakistan Tehreek-e-Insaf.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="18">
+          <content>The legislation makes it a crime punishable by death to insult Islam, the Quran or the Prophet Mohammed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="19">
+          <content>Pakistan is home to about 2 million Christians, who make up more than 1% of Islamic nation&amp;apost;s population, according to government statistics.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

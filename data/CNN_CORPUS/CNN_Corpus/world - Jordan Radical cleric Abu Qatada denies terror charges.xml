@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2365" link="http://www.cnn.com/2013/07/07/world/europe/uk-jordan-radical-cleric/index.html" date_published="2013-07-07 13:36:00" category="world" author="Chelsea J. Carter, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Jordan: Radical cleric Abu Qatada denies terror charges</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="13">Legal sources: Abu Qatada appears in court, denies the charges against him.</sentence>
+      <sentence id="2" ids_article_sentences="2">He was convicted of two counts of conspiracy to cause explosions.</sentence>
+      <sentence id="3" ids_article_sentences="6">Britain had been trying to deport Abu Qatada since 2005.</sentence>
+      <sentence id="4" ids_article_sentences="12">Videos of his sermons were found in an apartment used by some involved in 9/11 attacks.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-10 13:26:10" annotation_time="15.649666">
+      <sentence id="2" ids_highlights="2">Abu Qatada was tried and convicted in absentia in Jordan in 1999 on two charges of conspiracy to cause explosions, court documents say.</sentence>
+      <sentence id="6" ids_highlights="3">Britain had been trying to deport Abu Qatada since 2005, but his legal appeals kept him there.</sentence>
+      <sentence id="12" ids_highlights="4">Videos of his preaching were found in a German apartment used by some of those involved in the 9/11 attacks on the United States, including ringleader Mohammed Atta.</sentence>
+      <sentence id="13" ids_highlights="1">Abu Qatada has denied the allegations against him.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Hours after he was deported from the United Kingdom to Jordan on Sunday, radical cleric Abu Qatada denied the terror charges against him in Jordan, legal sources close to the case told CNN Arabic.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Abu Qatada was tried and convicted in absentia in Jordan in 1999 on two charges of conspiracy to cause explosions, court documents say.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Jordan will hold a fair trial for Abu Qatada for alleged terrorist attacks in 1999 and 2000, government spokesman Mohammed Al-Momani told the official Petra News Agency.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>The constitution will guarantee respect for human rights, he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>Abu Qatada&amp;apost;s deportation early Sunday ended a years-long legal battle to force the Jordanian national to leave the country.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>Britain had been trying to deport Abu Qatada since 2005, but his legal appeals kept him there.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;His departure marks the conclusion of efforts to remove him since 2001 and I believe this will be welcomed by the British public,&amp;quot; Home Secretary Theresa May said in a written statement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;I am glad that this government&amp;apost;s determination to see him on a plane has been vindicated and that we have at last achieved what previous governments, Parliament and the British public have long called for.</content>
+        </sentence>
+        <sentence id="9">
+          <content>This dangerous man has now been removed from our shores to face the courts in his own country.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="10">
+          <content>In January 2012, the European Court of Human Rights blocked Britain from sending him to Jordan because of fears that evidence obtained by torture could be used against him at the trial planned by the Middle Eastern country.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="11">
+          <content>UK authorities accuse Abu Qatada of raising funds for terrorist groups, including organizations linked to the late al Qaeda leader Osama bin Laden, and say he has publicly supported the violent activities of those groups.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="12">
+          <content>Videos of his preaching were found in a German apartment used by some of those involved in the 9/11 attacks on the United States, including ringleader Mohammed Atta.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="13">
+          <content>Abu Qatada has denied the allegations against him.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="14">
+          <content>Also known as Omar Othman, Abu Qatada arrived in the UK in 1993 and applied for asylum on the grounds that he had been tortured by Jordanian authorities.</content>
+        </sentence>
+        <sentence id="15">
+          <content>He came to Britain on a forged United Arab Emirates passport, according to court documents, and claimed asylum for himself, his wife and their three children.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="16">
+          <content>He was ordered back to prison in April after evidence suggested he had violated his bail conditions.</content>
+        </sentence>
+        <sentence id="17">
+          <content>These include an order that prohibits him from allowing cell phones to be turned on in his house, and a ban on devices such as rewritable CDs and flash drives.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

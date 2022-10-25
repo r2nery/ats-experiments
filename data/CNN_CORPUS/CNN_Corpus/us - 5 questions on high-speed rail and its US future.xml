@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1862" link="http://www.cnn.com/2013/07/25/us/spain-high-speed-rail-5-questions" date_published="2013-07-25 19:37:58" category="us" author="Eliott C. McLaughlin, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>5 questions on high-speed rail and its U.S. future</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="7">High-speed rail can range in speed from 110 kph to more than 300 kph.</sentence>
+      <sentence id="2" ids_article_sentences="12">Some countries have trains that can exceed speeds of 420 kph (261 mph).</sentence>
+      <sentence id="3" ids_article_sentences="13">Train involved in Spain crash was not the country&amp;apost;s fastest class of train.</sentence>
+      <sentence id="4" ids_article_sentences="28">White House has pushed for high-speed rail, but plans beset with problems.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-08 23:50:43" annotation_time="123.62933" mapping_time_divergence="61.814667">
+      <sentence id="7" ids_highlights="1">The term can also be used for trains that move at speeds between 110 kph and 180 kph (68 mph to 112 mph) in certain circumstances, such as the need to avoid &amp;quot;noise and nuisance,&amp;quot; or the need to traverse long tunnels or bridges.</sentence>
+      <sentence id="12" ids_highlights="2">In March, Korea&amp;apost;s HEMU-430X hit a speed of 421.4 kph (261.8 mph) in a test run, making Korea the fourth country -- behind France, China and Japan -- to develop a train capable of topping 420 kph (261 mph).</sentence>
+      <sentence id="13" ids_highlights="3">Spain has high-speed trains, known as AVEs, that move at speeds up to 310 kph (193 mph), according to Railway Gazette, but the train involved in this week&amp;apost;s wreck was not an AVE. It had a max speed of 250 kph (155 mph).</sentence>
+      <sentence id="28" ids_highlights="4">In California, billions of federal dollars were pledged for high-speed rail, and voters OK&amp;apost;d $9 billion in bonds for a bullet train between San Diego and San Francisco, but the project has been set back by myriad issues.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>A train crash in Santiago de Compostela, Spain, that killed at least 80 people and injured 178 more Wednesday poses many questions for investigators, who are homing in on what role the train&amp;apost;s speed may have played in the crash.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The issue of high-speed rail may raise more questions for the public at large, specifically in the United States, where high-speed trains are rare.</content>
+        </sentence>
+        <sentence id="3">
+          <content>Here are some basics on this speedy mode of transportation:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>What is high-speed rail?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>It depends where you are, but the International Union of Railways says the term is reserved for systems (not just trains) designed for speeds of more than 250 kph (155 mph) if the lines are new and speeds up to 220 kph (137 mph) if the lines are upgraded.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>Certain trains in China and the European Union can exceed 300 kph (186 mph), while a handful around the world can top 400 kph (249 mph).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>The term can also be used for trains that move at speeds between 110 kph and 180 kph (68 mph to 112 mph) in certain circumstances, such as the need to avoid &amp;quot;noise and nuisance,&amp;quot; or the need to traverse long tunnels or bridges.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>How is high-speed rail different from nation to nation?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>As stated above, China and the EU have trains that can exceed 300 kph (186 mph), which means, in China, trains can zip between Beijing and Wuhan in about five hours.</content>
+        </sentence>
+        <sentence id="10">
+          <content>The regular train route takes twice as long, and you&amp;apost;d be lucky to finish the journey in a car in 13 hours.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>In Japan, the Shinkansen bullet trains typically travel at between 270 kph (169 mph) and 320 kph (199 mph), while Korea Train Express cars can travel up to 305 kph (190 mph).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>In March, Korea&amp;apost;s HEMU-430X hit a speed of 421.4 kph (261.8 mph) in a test run, making Korea the fourth country -- behind France, China and Japan -- to develop a train capable of topping 420 kph (261 mph).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="13">
+          <content>Spain has high-speed trains, known as AVEs, that move at speeds up to 310 kph (193 mph), according to Railway Gazette, but the train involved in this week&amp;apost;s wreck was not an AVE. It had a max speed of 250 kph (155 mph).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="14">
+          <content>Is high-speed rail available in the United States?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="15">
+          <content>Amtrak operates a service in the northeastern United States called Acela Express that is capable of speeds up to 241 kph (150 mph) and can travel between New York City and Washington in about 96 minutes.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Other stops on the route include Boston, Philadelphia, Baltimore and New Haven, Connecticut.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="17">
+          <content>Responding to critics who say Acela is too slow and too infrequently reaches its top speed, Amtrak announced in September that it plans to run test trains at 266 kph (165 mph) in Delaware, Maryland, New Jersey, Rhode Island and Massachusetts.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="18">
+          <content>What does the future hold for high-speed rail in the U.S.?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="19">
+          <content>Early in the Obama administration, federal transportation officials called on states to spend money to develop faster rail systems using existing lines.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="20">
+          <content>The plan identified 10 potential high-speed corridors for federal funding, and the White House proposed spending $53 billion over 25 years to create the national network.</content>
+        </sentence>
+        <sentence id="21">
+          <content>Among the corridors: California, the Pacific Northwest, the Midwest, the Southeast, the Gulf Coast, Pennsylvania, Florida, New York and New England.</content>
+        </sentence>
+        <sentence id="22">
+          <content>The blueprint envisioned some trains traveling at top speeds of more than 150 mph.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="23">
+          <content>But there have been many snafus.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="24">
+          <content>In 2010, Transportation Secretary Roy LaHood redirected $810 million from Wisconsin and $400 million from Ohio after those states&amp;apost; governors cited opposition to the projects.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="25">
+          <content>The tussle over budget cuts further hampered funding in 2011.</content>
+        </sentence>
+        <sentence id="26">
+          <content>That same year, Florida Gov. Rick Scott rejected a plan to run high-speed rail between Tampa and Orlando (and eventually spread to Miami and Jacksonville).</content>
+        </sentence>
+        <sentence id="27">
+          <content>Florida subsequently lost $2.4 billion in federal funding, and 24 states submitted requests for portions of Florida&amp;apost;s allotted money.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="28">
+          <content>In California, billions of federal dollars were pledged for high-speed rail, and voters OK&amp;apost;d $9 billion in bonds for a bullet train between San Diego and San Francisco, but the project has been set back by myriad issues.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="29">
+          <content>Are there safeguards in place in the U.S. that would help prevent a disaster like the one in Spain?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="30">
+          <content>Yes.</content>
+        </sentence>
+        <sentence id="31">
+          <content>In fact, those safety regulations may be at the core of why it&amp;apost;s difficult for high-speed rail to proliferate in the United States.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="32">
+          <content>According to a June report from the Competitive Enterprise Institute, a libertarian think tank, the Federal Railroad Administration &amp;quot;has strict crash safety regulation for passenger railcars which trains in Europe -- where passenger rail is well established and remarkably safe -- do not have to meet.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="33">
+          <content>While the U.S. requires the undercarriage of a train to withstand 800,000 pounds of force without &amp;quot;permanent deformation,&amp;quot; Europe designs &amp;quot;trains to gracefully deform in a controlled manner&amp;quot; so that crumple zones absorb the energy of the crash, an approach known as crash-energy management.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="34">
+          <content>The &amp;quot;buff-strength&amp;quot; for European trains is 337,200 pounds of force, according to the think tank.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="35">
+          <content>The FRA has other requirements not present in European safety regulations, including requiring that the end of the train have the resistive strength of a half-inch plate of steel and an &amp;quot;anti-climbing mechanism&amp;quot; that prevents train cars from telescoping and mounting each other.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="36">
+          <content>&amp;quot;The requirements force Amtrak and transit authorities across the country to purchase custom-made trains that are unnecessarily expensive, underperform and do not meet the best safety practices of the rest of the world,&amp;quot; the CEI report said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

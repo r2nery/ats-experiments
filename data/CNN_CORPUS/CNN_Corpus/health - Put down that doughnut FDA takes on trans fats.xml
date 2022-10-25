@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="344" link="http://www.cnn.com/2013/11/07/health/fda-trans-fats/index.html" date_published="2013-11-07 14:43:01" category="health" author="Ashley Hayes, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Put down that doughnut: FDA takes on trans fats</title>
+  <keywords>trans fat,Food and Drug Administration,FDA trans fat rule,partially hydrogenated oil</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">The FDA takes a first step toward eliminating artificial trans fat in the food supply.</sentence>
+      <sentence id="2" ids_article_sentences="2">The agency says partially hydrogenated oils are not &amp;quot;generally recognized as safe&amp;quot;.</sentence>
+      <sentence id="3" ids_article_sentences="5">The oils can be found in processed foods including desserts and coffee creamer.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-07-21 11:24:13" annotation_time="132.7505">
+      <sentence id="2" ids_highlights="1, 2">The Food and Drug Administration on Thursday took a first step toward potentially eliminating most trans fat from the food supply, saying it has made a preliminary determination that a major source of trans fats -- partially hydrogenated oils -- is no longer &amp;quot;generally recognized as safe.&amp;quot;</sentence>
+      <sentence id="5" ids_highlights="3">Trans fat can be found in processed foods including desserts, microwave popcorn products, frozen pizza, margarine and coffee creamer, and has been linked to an increased risk of heart disease.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>So long, margarine: Artificial trans fat in foods may eventually become a thing of the past.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The Food and Drug Administration on Thursday took a first step toward potentially eliminating most trans fat from the food supply, saying it has made a preliminary determination that a major source of trans fats -- partially hydrogenated oils -- is no longer &amp;quot;generally recognized as safe.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>If the preliminary determination is finalized, according to the FDA, then partially hydrogenated oils will become food additives that could not be used in food without approval.</content>
+        </sentence>
+        <sentence id="4">
+          <content>Foods with unapproved additives cannot legally be sold.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Trans fat can be found in processed foods including desserts, microwave popcorn products, frozen pizza, margarine and coffee creamer, and has been linked to an increased risk of heart disease.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>Partially hydrogenated oil is formed when hydrogen is added to liquid oils to make solid fats, like shortening and margarine.</content>
+        </sentence>
+        <sentence id="7">
+          <content>It increases the shelf life and the flavor of foods.</content>
+        </sentence>
+        <sentence id="8">
+          <content>Partially hydrogenated vegetable oil, or shortening, was used in American kitchens as early as 1911.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>However, in recent years many food manufacturers have taken steps to limit or eliminate trans fat from their products.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>McDonald&amp;apost;s, for instance, stopped cooking its french fries in trans fat more than a decade ago.</content>
+        </sentence>
+        <sentence id="11">
+          <content>The company&amp;apost;s website says all its fried menu items are free of trans fat.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>New York City in 2007 adopted a regulation banning partially hydrogenated vegetable oils and spreads in restaurants.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>Mayor Michael Bloomberg said Thursday that he was encouraged by the FDA&amp;apost;s move.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;The groundbreaking public health policies we have adopted here in New York City have become a model for the nation for one reason: They&amp;apost;ve worked.</content>
+        </sentence>
+        <sentence id="15">
+          <content>Today, New Yorkers&amp;apost; life expectancy is far higher than the national average, and we&amp;apost;ve achieved dramatic reductions in disease, including heart disease.</content>
+        </sentence>
+        <sentence id="16">
+          <content>The FDA deserves great credit for taking this step, which will help Americans live longer, healthier lives,&amp;quot; Bloomberg said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="17">
+          <content>Trans fat intake among American consumers decreased from 4.6 grams per day in 2003 to about a gram a day in 2012, according to the FDA.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="18">
+          <content>However, &amp;quot;current intake remains a significant public health concern,&amp;quot; FDA Commissioner Margaret Hamburg said in a written statement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="19">
+          <content>There is no safe level of consumption of trans fat, Hamburg said.</content>
+        </sentence>
+        <sentence id="20">
+          <content>It has been shown to raise the &amp;quot;bad,&amp;quot; or LDL, cholesterol.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="21">
+          <content>&amp;quot;Through our efforts at product reformulation and the development of suitable alternatives, trans fats that are not naturally occurring have been drastically reduced in the food supply,&amp;quot; the Grocery Manufacturers Association, which represents more than 300 food, beverage and consumer product companies, said in a prepared statement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;Since 2005, food manufacturers have voluntarily lowered the amounts of trans fats in their food products by over 73%.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="23">
+          <content>Other countries are also working to reduce trans fat in the food supply.</content>
+        </sentence>
+        <sentence id="24">
+          <content>Policies in Brazil, Costa Rica, Denmark, the Netherlands, South Korea and the United States have proved effective over the past two decades, the World Health Organization said in April.</content>
+        </sentence>
+        <sentence id="25">
+          <content>The WHO has called for eliminating trans fat from the global food supply.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="26">
+          <content>The FDA has opened a 60-day comment period on the determination &amp;quot;to collect additional data and to gain input on the time potentially needed for food manufacturers to reformulate products that currently contain artificial trans fat should this determination be finalized,&amp;quot; the agency said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="27">
+          <content>There are two phases to the process, FDA officials said Thursday.</content>
+        </sentence>
+        <sentence id="28">
+          <content>The agency will evaluate the comments and evidence received during the comment period.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="29">
+          <content>&amp;quot;If we finalize our conclusion, then we are inviting comments from industry on what would be an appropriate phaseout,&amp;quot; said Michael Taylor, the agency&amp;apost;s deputy commissioner for foods.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="30">
+          <content>&amp;quot;The timeline would be based on the comments we get.</content>
+        </sentence>
+        <sentence id="31">
+          <content>Given the public health impact, we want to move as quickly as we can.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="32">
+          <content>The National Restaurant Association noted in a statement the industry&amp;apost;s &amp;quot;tremendous strides&amp;quot; in reducing or eliminating trans fats.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="33">
+          <content>&amp;quot;We plan to discuss the impact of this proposal on the industry and submit comments, and we will continue to work with our members and the manufacturing supply chain to address any new federal standards that may arise out of this process,&amp;quot; said Joan McGlockton, the association&amp;apost;s vice president of industry affairs and food policy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="34">
+          <content>Hamburg called Thursday&amp;apost;s move &amp;quot;an important step toward protecting more Americans from the potential dangers of trans fat.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="35">
+          <content>The American Heart Association, the American Medical Association and the Center for Science in the Public Interest were among those praising the move.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="36">
+          <content>&amp;quot;The scientific evidence is clear -- eating food with trans fat increases production of &amp;apost;bad&amp;apost; cholesterol, which is a risk factor for heart disease,&amp;quot; the AHA said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="37">
+          <content>So what should consumers do in the meantime?</content>
+        </sentence>
+        <sentence id="38">
+          <content>Choose products that have the lowest combined amount of saturated fat, cholesterol and trans fat, the FDA said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="39">
+          <content>Under current regulations, companies can claim their food has 0 grams of trans fat if the food contains less than 0.5 grams of trans fat per serving, according to Mical Honigfort, a consumer safety officer at the FDA.</content>
+        </sentence>
+        <sentence id="40">
+          <content>But if partially hydrogenated oil is listed in the ingredients, there may still be a small amount of trans fat present.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="41">
+          <content>Nancy Brown, the Heart Association&amp;apost;s CEO, said she hopes the FDA goes a step further and revises labels for foods that are trans fat free.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="42">
+          <content>The preliminary determination was based on &amp;quot;available scientific evidence and the findings of expert scientific panels,&amp;quot; the FDA said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="43">
+          <content>The determination covers only partially hydrogenated oils, not trans fat that naturally occurs in some meat and dairy products.</content>
+        </sentence>
+        <sentence id="44">
+          <content>Trans fat is also present at very low levels in other edible oils, such as fully hydrogenated oils, where it is &amp;quot;unavoidably produced during the manufacturing process,&amp;quot; according to the FDA.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="45">
+          <content>Avoiding foods containing artificially produced trans fat could prevent 10,000 to 20,000 heart attacks and 3,000 to 7,000 coronary heart disease deaths each year, according to one study from the U.S. Centers for Disease Control and Prevention.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="46">
+          <content>&amp;quot;Artificial trans fat is a uniquely powerful promoter of heart disease, and today&amp;apost;s announcement will hasten its eventual disappearance from the food supply,&amp;quot; said Michael Jacobson, the Center for Science in the Public Interest&amp;apost;s executive director.</content>
+        </sentence>
+        <sentence id="47">
+          <content>&amp;quot;Not only is artificial trans fat not safe, it&amp;apost;s not remotely necessary.</content>
+        </sentence>
+        <sentence id="48">
+          <content>Many companies, large and small, have switched to healthier oils over the past decade.</content>
+        </sentence>
+        <sentence id="49">
+          <content>I hope that those restaurants and food manufacturers that still use this harmful ingredient see the writing on the wall and promptly replace it.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2012" link="http://edition.cnn.com/2014/07/15/us/immigrant-refugee-definition/index.html?hpt=hp_t4" date_published="2014-07-15 23:31:00" category="us" author="Michael Martinez and Miguel Marquez, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>What&amp;apost;s the difference between immigrant and refugee?</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">The distinction can determine deportation from U.S. or the chance to stay under asylum.</sentence>
+      <sentence id="2" ids_article_sentences="4">An immigrant chooses to resettle to another country.</sentence>
+      <sentence id="3" ids_article_sentences="13">A refugee is forced to flee his or her home country.</sentence>
+      <sentence id="4" ids_article_sentences="15, 14">Getting asylum in the United States isn&amp;apost;t easy and could take years.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-19 10:37:05" annotation_time="50.87" mapping_time_divergence="12.7175">
+      <sentence id="2" ids_highlights="1">The distinction is significant and could determine whether the migrants are subject to deportation to their home country or eligible to remain in the United States under asylum.</sentence>
+      <sentence id="4" ids_highlights="2">An immigrant is someone who chooses to resettle to another country.</sentence>
+      <sentence id="13" ids_highlights="3">A refugee is someone who has been forced to flee his or her home country.</sentence>
+      <sentence id="14" ids_highlights="4">As such, refugees can apply for asylum in the United States, a process that could take years.</sentence>
+      <sentence id="15" ids_highlights="4">Getting refugee status isn&amp;apost;t easy.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The Central Americans crossing the U.S. border in massive waves have been described as immigrants or refugees.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The distinction is significant and could determine whether the migrants are subject to deportation to their home country or eligible to remain in the United States under asylum.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>What is an immigrant?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>An immigrant is someone who chooses to resettle to another country.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>The United States has a legal process for that immigrant to seek legal residency and eventually citizenship.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>Many immigrants, however, don&amp;apost;t have such legal status and are thus undocumented.</content>
+        </sentence>
+        <sentence id="7">
+          <content>As such, they are subject to &amp;quot;removal&amp;quot; or deportation from the United States.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>There are 11 million undocumented immigrants in the United States -- a problem that has led Democrats and Republicans alike to declare the U.S. immigration system as &amp;quot;broken.&amp;quot;</content>
+        </sentence>
+        <sentence id="9">
+          <content>Congress has been deadlocked for years on how to reform immigration laws.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;Migrants, especially economic migrants, choose to move in order to improve the future prospects of themselves and their families,&amp;quot; the U.N. High Commissioner for Refugees says.</content>
+        </sentence>
+        <sentence id="11">
+          <content>&amp;quot;Refugees have to move if they are to save their lives or preserve their freedom.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>What is a refugee?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>A refugee is someone who has been forced to flee his or her home country.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>As such, refugees can apply for asylum in the United States, a process that could take years.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>Getting refugee status isn&amp;apost;t easy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="16">
+          <content>The applicants have to prove that if they return to their home country, they&amp;apost;ll be injured because of their race, religion, nationality, membership in a particular social group or their political opinion.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;Refugees are generally people outside of their country who are unable or unwilling to return home because they fear serious harm,&amp;quot; the U.S. Citizenship and Immigration Services says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="18">
+          <content>The Central Americans overwhelming the U.S.-Mexican border are Hondurans, Guatemalans and Salvadorans.</content>
+        </sentence>
+        <sentence id="19">
+          <content>Many are fleeing drug- and gang-fueled violence back home.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="20">
+          <content>Is the violence -- any kind -- grounds for a refugee claim?</content>
+        </sentence>
+        <sentence id="21">
+          <content>Not necessarily.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="22">
+          <content>The violence has to be targeted to a person specifically, and that&amp;apost;s where things get complicated.</content>
+        </sentence>
+        <sentence id="23">
+          <content>Every case is different, and because of a law signed by President George W. Bush in 2008, children fall into a special class.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="24">
+          <content>The William Wilberforce Trafficking Victims Protection Action Act, named after a 19th century British abolitionist, is designed to crack down on the global child slave trade.</content>
+        </sentence>
+        <sentence id="25">
+          <content>The U.S. law ensured that children who came to the country got a full immigration hearing instead of being turned away or sent back.</content>
+        </sentence>
+        <sentence id="26">
+          <content>The hearing would determine whether the children had a valid claim for asylum.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="27">
+          <content>The law is now cited as one cause behind a projected 90,000 children from Central America and Mexico who will cross the U.S. border alone or with other children this year, a huge increase over the 39,000 that the Border Patrol detained last year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="28">
+          <content>Asylum is a protection available to people who are already in the United States or are seeking admission at the U.S. border.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

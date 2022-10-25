@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="931" link="http://edition.cnn.com/2012/03/12/opinion/matalin-gop-primary/index.html" date_published="2012-03-12 21:56:26" category="opinion" author="Mary Matalin, CNN Contributor" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Primaries are good for the GOP</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">Mary Matalin: With each contest, Americans become more engaged with the GOP.</sentence>
+      <sentence id="2" ids_article_sentences="10">In 2008, Barack Obama won the general election after a long primary battle.</sentence>
+      <sentence id="3" ids_article_sentences="27">Gallup says that Republicans are more enthusiastic about voting in this election.</sentence>
+      <sentence id="4" ids_article_sentences="15">Matalin: A competitive primary can strengthen a party and lead to victories .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-19 10:21:57" annotation_time="293.7123" mapping_time_divergence="146.85616">
+      <sentence id="3" ids_highlights="1">More voters become engaged with the Republican Party.</sentence>
+      <sentence id="10" ids_highlights="2">Not only did Barack Obama win the White House, but Democrats rode his coattails to larger majorities in the House of Representatives and the Senate.</sentence>
+      <sentence id="15" ids_highlights="4">But the lesson from 2008 turned out to be this: a competitive primary can strengthen a party.</sentence>
+      <sentence id="27" ids_highlights="3">According to Gallup, Republican and Republican-leaning voters are more enthusiastic about voting in this election.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The primary process is good for the Republican Party - and our country.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>With each contest, more Americans have the chance to cast a vote against President Obama.</content>
+        </sentence>
+        <sentence id="3">
+          <content>More voters become engaged with the Republican Party.</content>
+        </sentence>
+        <sentence id="4">
+          <content>And the media can continue to focus on the Republican candidates and their solutions to the problems created by President Obama, rather than the empty promises of the Obama re-election campaign.</content>
+        </sentence>
+        <sentence id="5">
+          <content>In short, the primaries add momentum and enthusiasm for the GOP as we draw closer to the general election.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="6">
+          <content>Some may argue otherwise, but remember 2008?</content>
+        </sentence>
+        <sentence id="7">
+          <content>Sen. John McCain quickly wrapped up the Republican nomination by early March.</content>
+        </sentence>
+        <sentence id="8">
+          <content>But the Democrats continued fighting it out well into June, which had the effect of engaging Democrats and first time voters.</content>
+        </sentence>
+        <sentence id="9">
+          <content>The country&amp;apost;s attention was on the Democrats, and that propelled them to victory in November.</content>
+        </sentence>
+        <sentence id="10">
+          <content>Not only did Barack Obama win the White House, but Democrats rode his coattails to larger majorities in the House of Representatives and the Senate.</content>
+        </sentence>
+        <sentence id="11">
+          <content>At that time, many thought that a long primary would be a drag.</content>
+        </sentence>
+        <sentence id="12">
+          <content>A New York Times headline declared it &amp;quot;a present for McCain.&amp;quot;</content>
+        </sentence>
+        <sentence id="13">
+          <content>Sen. Christopher Dodd said it was &amp;quot;undermining (Democrats&amp;apost;) ability to win an election.&amp;quot;</content>
+        </sentence>
+        <sentence id="14">
+          <content>The Boston Globe reported, &amp;quot;McCain media adviser says Democrats hurting themselves.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="15">
+          <content>But the lesson from 2008 turned out to be this: a competitive primary can strengthen a party.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="16">
+          <content>The same was true in 1980 -- the last time Republicans defeated a sitting president.</content>
+        </sentence>
+        <sentence id="17">
+          <content>Ronald Reagan did not win the nomination until May 20, but in November he won 489 electoral votes to President Carter&amp;apost;s 49.</content>
+        </sentence>
+        <sentence id="18">
+          <content>In 2004, by comparison, Democrats were challenging an incumbent president, and Sen. John Kerry was effectively the nominee by March 2.</content>
+        </sentence>
+        <sentence id="19">
+          <content>President George W. Bush went on to defeat him in the general election by a margin larger than his 2000 victory.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="20">
+          <content>Every primary process is unique.</content>
+        </sentence>
+        <sentence id="21">
+          <content>There are different candidates, different issues and different circumstances.</content>
+        </sentence>
+        <sentence id="22">
+          <content>But if history is any guide, then it appears that while competitive primaries can be good, quick primaries are not always as advantageous as they seem.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="23">
+          <content>In 2010, analysts thought that the spirited and competitive primaries in important swing states like Wisconsin, Ohio and Florida would undermine the Republicans&amp;apost; general election prospects.</content>
+        </sentence>
+        <sentence id="24">
+          <content>Today, there are Republican governors in each of those states, leading the way with far reaching reforms and economic progress for their citizens.</content>
+        </sentence>
+        <sentence id="25">
+          <content>The rigors of those primaries made them stronger competitors in the general election of 2010 and better public servants.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="26">
+          <content>Likewise, Republicans have undoubtedly benefited from the primary over the last two months.</content>
+        </sentence>
+        <sentence id="27">
+          <content>According to Gallup, Republican and Republican-leaning voters are more enthusiastic about voting in this election.</content>
+        </sentence>
+        <sentence id="28">
+          <content>That&amp;apost;s critical.</content>
+        </sentence>
+        <sentence id="29">
+          <content>Enthusiasm translates into voter turnout.</content>
+        </sentence>
+        <sentence id="30">
+          <content>The Republican enthusiasm, it seems, results from a higher level of engagement in the primary process.</content>
+        </sentence>
+        <sentence id="31">
+          <content>According to Gallup, &amp;quot;more Republicans than Democrats - 70% vs. 58% - say they have given quite a lot of thought to the election.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="32">
+          <content>There is, of course, one other factor galvanizing support for Republicans: President Obama.</content>
+        </sentence>
+        <sentence id="33">
+          <content>As his policies continue to disappoint Americans, they are turning increasingly to Republicans.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="34">
+          <content>America cannot afford four more years of high unemployment, large deficits, rising gas prices, increased poverty and bloated government.</content>
+        </sentence>
+        <sentence id="35">
+          <content>President Obama has put us on an unsustainable trajectory, with no plan to change course.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="36">
+          <content>Republicans, though, stand ready to lead.</content>
+        </sentence>
+        <sentence id="37">
+          <content>One of our four candidates will emerge from the primary ready to take on President Obama directly and contrast Republicans&amp;apost; vision for a more prosperous future with the failed policies of the past three years.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="38">
+          <content>Until then, our party will continue to build momentum, generate enthusiasm and offer Americans a new direction that we so desperately need.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="39">
+          <content>Follow us on Twitter @CNNOpinion.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="40">
+          <content>Join us on Facebook/CNNOpinion.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

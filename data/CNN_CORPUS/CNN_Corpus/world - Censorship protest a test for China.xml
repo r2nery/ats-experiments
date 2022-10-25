@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2107" link="http://edition.cnn.com/2013/01/08/world/asia/china-censorship-florcruz" date_published="2013-01-08 08:25:52" category="world" author="Jaime A. FlorCruz, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Censorship protest a test for China</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="5">Protesters are angry at alleged government censorship at the Southern Weekly in China.</sentence>
+      <sentence id="2" ids_article_sentences="11">They claim editorial calling for political reform was re-written as tribute to Communist Party.</sentence>
+      <sentence id="3" ids_article_sentences="21">Government censorship has never stopped and most media groups are still owned by state.</sentence>
+      <sentence id="4" ids_article_sentences="31">Chinese officials say government protects press freedom according to the law.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-17 14:40:24" annotation_time="64.2705">
+      <sentence id="5" ids_highlights="1">They were referring to the wave of anger this week against alleged government censorship at the Southern Weekly, a newspaper based in the southern Chinese city of Guangzhou.</sentence>
+      <sentence id="11" ids_highlights="2">They demanded the resignation of Tuo Zhen, the Communist Party propaganda chief in the southern province of Guangdong, amid claims that an editorial calling for political reform was re-written as a tribute to Communist Party rule.</sentence>
+      <sentence id="21" ids_highlights="3">But government censorship has never stopped and most media groups are still owned and run by the state.</sentence>
+      <sentence id="31" ids_highlights="4">On Friday, foreign ministry spokeswoman Hua Chunying insisted there was no press censorship in China and the government protects press freedom according to the law.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Beijing The rundown of recommended stories on some popular Chinese social media sites showed nothing extraordinary this week until users looked a little more closely.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>On the Sohu Weibo platform for example, the characters on the homepage had been arranged to read &amp;quot;Hang in there, Southern Weekly,&amp;quot; but only if read vertically, from top down.</content>
+        </sentence>
+        <sentence id="3">
+          <content>Another site, 163.</content>
+        </sentence>
+        <sentence id="4">
+          <content>com, structured its homepage in a way that the first character of the top six rows of news combined to read &amp;quot;Go Southern Weekly Go!&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>They were referring to the wave of anger this week against alleged government censorship at the Southern Weekly, a newspaper based in the southern Chinese city of Guangzhou.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>For two days, journalists at the paper and hundreds of their supporters have gathered in front of the Southern Weekly offices holding posters calling for free speech and condemning press censorship.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;This is an attack and suppression of press freedom and the people&amp;apost;s right to know the truth.</content>
+        </sentence>
+        <sentence id="8">
+          <content>It is not right,&amp;quot; said one unnamed protester.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>&amp;quot;I came over here to say the Southern Weekly is not alone,&amp;quot; explained another.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>Some of the mostly young protesters carried flowers as a symbol of grief, while one woman came with a face mask plastered with Chinese characters explaining it was a &amp;quot;biyantao,&amp;quot; or a condom to prevent speech.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>They demanded the resignation of Tuo Zhen, the Communist Party propaganda chief in the southern province of Guangdong, amid claims that an editorial calling for political reform was re-written as a tribute to Communist Party rule.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>This rare protest poses a test for Xi Jinping, the newly installed Communist Party chief, who is just beginning to define his agenda as the paramount leader governing a massive country in a state of flux.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>It also represents a serious dilemma for the Communist Party in an era of social media and micro-blogging.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>It started with a posting on Weibo, China&amp;apost;s Twitter-like social media site, complaining that the Propaganda Department in southern Guangdong province had rewritten the paper&amp;apost;s annual New Year&amp;apost;s editorial without the knowledge of the editors.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>It was originally titled &amp;quot;China&amp;apost;s Dream of Constitutionalism,&amp;quot; but when it was printed it was revised to read &amp;quot;Chasing the Dream,&amp;quot; which echoed the official Communist Party line.</content>
+        </sentence>
+        <sentence id="16">
+          <content>The censors also added text that contained factual errors.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="17">
+          <content>Soon enough China&amp;apost;s social media witnessed a torrent of postings condemning Party censorship and supporting the Southern Weekly.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="18">
+          <content>The controversy brings to light the role of propaganda czars who supervise the flow of information in China.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="19">
+          <content>To be sure, Chinese media has become more diverse in the past three decades, thanks to China&amp;apost;s gradual reforms and opening up.</content>
+        </sentence>
+        <sentence id="20">
+          <content>Over the years, the local press has been given a bit more room to report about different topics and to do so differently, especially on non-political issues.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="21">
+          <content>But government censorship has never stopped and most media groups are still owned and run by the state.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="22">
+          <content>The Propaganda Department regularly issues written or oral directives about what news should or should not be reported and how this should be done.</content>
+        </sentence>
+        <sentence id="23">
+          <content>So one can only imagine the frustrations editors and journalists endure when faced with censorship.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="24">
+          <content>The Southern Weekly is not new to censorship-related controversy.</content>
+        </sentence>
+        <sentence id="25">
+          <content>Over the years, it has shown a liberal leaning.</content>
+        </sentence>
+        <sentence id="26">
+          <content>Within the allowed space, it produces stories that are relatively fresh, probing and even daring.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="27">
+          <content>&amp;quot;Some of our essays, exposes and muck-raking stories have tried to push the margin,&amp;quot; said a former reporter, who requested anonymity.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="28">
+          <content>&amp;quot;We call them &amp;apost;edge-ball&amp;apost; stories, just like playing table tennis, when you make points not with hard smashes but with slight, subtle hits.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="29">
+          <content>For that, some of its editors and reporters have gotten into trouble with the propaganda czars.</content>
+        </sentence>
+        <sentence id="30">
+          <content>For that, too, it has earned respect and attracted a loyal following, especially among the youth, urbanites, and intellectuals.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="31">
+          <content>On Friday, foreign ministry spokeswoman Hua Chunying insisted there was no press censorship in China and the government protects press freedom according to the law.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="32">
+          <content>But there are apparent attempts to rein in the media, especially popular micro-blogging services, which are used to expose problems and abuses that may embarrass the government.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="33">
+          <content>Meanwhile, search terms related to Southern Weekly are being blocked.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="34">
+          <content>Just how big a threat the demonstrations pose to Xi&amp;apost;s new regime remains unclear.</content>
+        </sentence>
+        <sentence id="35">
+          <content>It is also unclear where Xi stands on the issue of press censorship and free speech.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="36">
+          <content>Some analysts wonder whether Xi or the central government supported the actions of Guangdong officials.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="37">
+          <content>Some blame the row squarely on Tuo Zhen, the newly appointed provincial propaganda chief.</content>
+        </sentence>
+        <sentence id="38">
+          <content>One observer in Guangdong blamed his &amp;quot;behavior and work style&amp;quot; for causing the row.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="39">
+          <content>But others see the controversy as bigger than just the Guangdong Propaganda Department versus the Southern Weekly.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="40">
+          <content>&amp;quot;It is a publicity crisis for Xi Jinping&amp;apost;s new administration,&amp;quot; said Xiao Qiang, a founder and editor-in-chief of China Digital Times, a U.S.-based site monitoring China&amp;apost;s Internet and media issues.</content>
+        </sentence>
+        <sentence id="41">
+          <content>&amp;quot;Its political credibility and ability to lead is now being tested.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="42">
+          <content>&amp;quot;When the top leadership seems not resolute and clear, a smaller event moves into the national public sphere, and the state even just slightly loses control of the message in the media and Internet space.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="43">
+          <content>For the Global Times, however, the message is clear.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="44">
+          <content>&amp;quot;No matter how the Chinese media is regulated, they will never become the same as their Western counterparts,&amp;quot; the government-backed media group said in an editorial.</content>
+        </sentence>
+        <sentence id="45">
+          <content>&amp;quot;This should be the basic judgment of Chinese media professionals.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="46">
+          <content>&amp;quot;China&amp;apost;s political system differs from the West&amp;apost;s, and the media cannot separate itself from a country&amp;apost;s political reality.</content>
+        </sentence>
+        <sentence id="47">
+          <content>The only way that fits the development of Chinese media is one that can suit the country&amp;apost;s development path.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="34">
+      <sentences>
+        <sentence id="48">
+          <content>According to the China Digital Times, the Central Propaganda Department has issued an urgent directive telling media groups at all levels that:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="35">
+      <sentences>
+        <sentence id="49">
+          <content>-- State-run media is an unswerving basic principle.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="36">
+      <sentences>
+        <sentence id="50">
+          <content>-- The &amp;quot;mishap&amp;quot; at Southern Weekly has nothing to do with Guangdong propaganda chief Tuo Zhen.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="37">
+      <sentences>
+        <sentence id="51">
+          <content>-- The incident&amp;apost;s development is due to the &amp;quot;meddling by hostile forces&amp;quot;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="38">
+      <sentences>
+        <sentence id="52">
+          <content>The directive told all editors, reporters and staff to discontinue voicing their support for the Southern Weekly and ordered all media sites to prominently republish the Global Times editorial.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

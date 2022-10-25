@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2030" link="http://www.cnn.com/2014/07/04/world/americas/brazil-world-cup-overpass-collapse/index.html" date_published="2014-07-04 12:53:30" category="world" author="Michael Martinez, CNN" highlights_mapped="true" mapping_error="false">
+  <title>2 dead in overpass collapse in World Cup host city</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="6">Overpass construction was supposed to have been completed for World Cup.</sentence>
+      <sentence id="2" ids_article_sentences="5">Overpass is almost 4 miles from a stadium where World Cup is played.</sentence>
+      <sentence id="3" ids_article_sentences="1">Brazilian firefighters say two people dead.</sentence>
+      <sentence id="4" ids_article_sentences="12">Belo Horizonte, Brazil, will host Tuesday&amp;apost;s semifinal match in the World Cup.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-17 14:20:54" annotation_time="110.315">
+      <sentence id="1" ids_highlights="3">Two people were killed and 22 injured when an overpass bridge under construction collapsed Thursday in Belo Horizonte, Brazil, one of the host cities for the ongoing World Cup, firefighters said on Twitter.</sentence>
+      <sentence id="5" ids_highlights="2">The overpass traverses a major thoroughfare and is almost four miles from the 58,170-seat Estadio Mineirao, where some World Cup games are being played in Belo Horizonte.</sentence>
+      <sentence id="6" ids_highlights="1">The overpass was supposed to have been completed in time for the World Cup, which began last month and continues through next weekend.</sentence>
+      <sentence id="12" ids_highlights="4">Belo Horizonte will host Tuesday&amp;apost;s semifinal match between the winner of the France-Germany match and the winner of the Brazil-Colombia game.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Two people were killed and 22 injured when an overpass bridge under construction collapsed Thursday in Belo Horizonte, Brazil, one of the host cities for the ongoing World Cup, firefighters said on Twitter.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Two buses were also damaged in the collapse, said CNN affiliate TV Record, which cited firefighters.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Images that circulated on social media showed a bus trapped by the collapsed concrete structure.</content>
+        </sentence>
+        <sentence id="4">
+          <content>Another photo showed at least one car was crushed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>The overpass traverses a major thoroughfare and is almost four miles from the 58,170-seat Estadio Mineirao, where some World Cup games are being played in Belo Horizonte.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>The overpass was supposed to have been completed in time for the World Cup, which began last month and continues through next weekend.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>Killed were Hanna Cristina Santos, 24, and Charlys Federico Moreira do Nascimento, 25, firefighters said.</content>
+        </sentence>
+        <sentence id="8">
+          <content>The latter died in a vehicle, according to firefighters.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>Brazil&amp;apost;s preparations for the World Cup have been controversial.</content>
+        </sentence>
+        <sentence id="10">
+          <content>Some critics say the spending was lavish at the expense of schools, public services and hospitals.</content>
+        </sentence>
+        <sentence id="11">
+          <content>Also, many of the country&amp;apost;s 12 venues struggled to meet construction schedules in time for the games, and several workers died on World Cup stadium construction sites.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>Belo Horizonte will host Tuesday&amp;apost;s semifinal match between the winner of the France-Germany match and the winner of the Brazil-Colombia game.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>The city has so far hosted five World Cup games since June 14, when Colombia beat Greece 3-0.</content>
+        </sentence>
+        <sentence id="14">
+          <content>Tuesday&amp;apost;s game will be the last to be hosted by the city in this year&amp;apost;s World Cup.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>The U.S. team did not compete there this year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>Most recently, Brazil and Chile played to a 1-1 tie in Belo Horizonte on Saturday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>Estadio Mineirao is one of the most historic venues in Brazilian soccer and was overhauled for the games: The pitch surface was lowered, accessibility improved, and a system installed to capture and store rainwater for reuse.</content>
+        </sentence>
+        <sentence id="18">
+          <content>The facility&amp;apost;s official name is Estadio Governador Magalhaes Pinto, but it&amp;apost;s commonly known as the Mineirao.</content>
+        </sentence>
+        <sentence id="19">
+          <content>The stadium is home to Atletico Mineiro and Cruzeiro, both former national champions in Brazil.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

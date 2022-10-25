@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="175" link="http://www.cnn.com/2014/05/22/health/kids-sleep-tips" date_published="2014-05-22 15:42:06" category="health" author="Dr. Jennifer Shu, Special to CNN " highlights_mapped="true" mapping_error="false">
+  <title>Are your kids getting enough sleep?</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="9, 1">Teens need 9 to 10 hours of sleep a night; preschoolers need 11 to 12.</sentence>
+      <sentence id="2" ids_article_sentences="16, 14">Make sleep a priority by not scheduling activities around bedtime.</sentence>
+      <sentence id="3" ids_article_sentences="25">Kids should exercise earlier in the day .</sentence>
+      <sentence id="4" ids_article_sentences="28">Keep computers, phones, tablets and TVs out of your child&amp;apost;s bedroom.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-17 11:03:11" annotation_time="130.446">
+      <sentence id="1" ids_highlights="1">Everyone needs sleep.</sentence>
+      <sentence id="9" ids_highlights="1">Children fall somewhere in between, with teens needing nine to 10 hours per day and preschoolers 11 to 12 (this amount can include naps).</sentence>
+      <sentence id="14" ids_highlights="2">Make sleep a priority.</sentence>
+      <sentence id="16" ids_highlights="2">Avoid scheduling activities such as music lessons, sports, social events, etc. at times that would delay bedtime (or nap time for younger children).</sentence>
+      <sentence id="25" ids_highlights="3">Experts recommend kids get at least an hour of exercise per day every day.</sentence>
+      <sentence id="28" ids_highlights="4">Avoid keeping screens such as computers or TVs in your child&amp;apost;s bedroom, and keep portable ones (phones, tablets, handheld games) out as much as possible.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Everyone needs sleep.</content>
+        </sentence>
+        <sentence id="2">
+          <content>Getting enough is crucial to everything from attention and memory to mood moderation.</content>
+        </sentence>
+        <sentence id="3">
+          <content>How many of us get crabby, anxious or downright depressed when we don&amp;apost;t get enough sleep?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="4">
+          <content>The CDC calls insufficient sleep a &amp;quot;health epidemic&amp;quot; based on data that nearly 30% of adults average less than six hours of sleep nightly and only 31% of teens get at least eight hours per school night.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>Children are also at risk.</content>
+        </sentence>
+        <sentence id="6">
+          <content>Research published this week in the journal Pediatrics suggest poor sleep in children under age 7 can lead to weight problems and can have general negative effects on their physical, emotional and social health.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>Is your child getting enough sleep?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>While adults generally require about seven to nine hours of sleep, newborns need more than 16 hours per day.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Children fall somewhere in between, with teens needing nine to 10 hours per day and preschoolers 11 to 12 (this amount can include naps).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>One quick rule of thumb I tell parents: If your child wakes up fairly happy and easily in the morning and does not have a meltdown in the late afternoon from being over-tired, he or she is probably well-rested.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>How to get more sleep.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>Here are some tips I give to my patients&amp;apost; parents and caregivers.</content>
+        </sentence>
+        <sentence id="13">
+          <content>While most of the strategies focus on children, many of the principles apply to people of all ages.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>Make sleep a priority.</content>
+        </sentence>
+        <sentence id="15">
+          <content>Quite possibly the simplest thing parents can do is to make sleep a priority in their children&amp;apost;s lives.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Avoid scheduling activities such as music lessons, sports, social events, etc. at times that would delay bedtime (or nap time for younger children).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="17">
+          <content>It can be more challenging with older children who deal with heavy homework loads or relatively early school start times.</content>
+        </sentence>
+        <sentence id="18">
+          <content>That&amp;apost;s why many advocates are pushing for school days that begin later.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="19">
+          <content>Create routine.</content>
+        </sentence>
+        <sentence id="20">
+          <content>It&amp;apost;s easier for kids to wind down if there&amp;apost;s a predictable bedtime routine to follow.</content>
+        </sentence>
+        <sentence id="21">
+          <content>For example, in our book &amp;quot;Food Fights,&amp;quot; my co-author Dr. Laura Jana and I suggest the 4 B&amp;apost;s of bedtime: bathing, brushing teeth, books, and bedtime.</content>
+        </sentence>
+        <sentence id="22">
+          <content>Even for adults, curling up with a good book can often mean that slumber will follow close behind.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="23">
+          <content>It can also be helpful for kids to keep sleep and wake times roughly the same (within an hour or so) each day, even on weekends.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="24">
+          <content>Exercise earlier.</content>
+        </sentence>
+        <sentence id="25">
+          <content>Experts recommend kids get at least an hour of exercise per day every day.</content>
+        </sentence>
+        <sentence id="26">
+          <content>While daytime exercise can contribute to sleeping better at night, vigorous exercise too close to bedtime may just keep kids awake, so try to plan your child&amp;apost;s physical activity accordingly.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="27">
+          <content>Shut off electronics.</content>
+        </sentence>
+        <sentence id="28">
+          <content>Avoid keeping screens such as computers or TVs in your child&amp;apost;s bedroom, and keep portable ones (phones, tablets, handheld games) out as much as possible.</content>
+        </sentence>
+        <sentence id="29">
+          <content>It can be helpful to have a central charging station where all of the family&amp;apost;s electronics spend the night.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="30">
+          <content>Exciting or violent programming in particular can make it difficult for children to fall asleep.</content>
+        </sentence>
+        <sentence id="31">
+          <content>Bright screens (or brightly lit rooms) can delay melatonin release and, as a result, the onset of sleep.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="32">
+          <content>Setting the stage for good sleep now is an important habit that can make a difference in your child&amp;apost;s future health.</content>
+        </sentence>
+        <sentence id="33">
+          <content>If you have concerns, talk to a pediatrician, or check out the National Institutes of Health&amp;apost;s guide to healthy sleep.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

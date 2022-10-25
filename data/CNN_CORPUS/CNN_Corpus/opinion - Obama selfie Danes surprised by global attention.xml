@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="845" link="http://www.cnn.com/2013/12/11/opinion/denmark-selfie/index.html" date_published="2013-12-11 17:14:06" category="opinion" author="Antonia Mortensen, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Obama selfie: Danes surprised by global attention</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Danish PM makes headlines after snapping selfie at Mandela memorial.</sentence>
+      <sentence id="2" ids_article_sentences="8">Many Danes seem not to have taken the whole thing as seriously as other media.</sentence>
+      <sentence id="3" ids_article_sentences="10">Some Danes are bemused by the global reaction to the selfie.</sentence>
+      <sentence id="4" ids_article_sentences="16">It shows human side to our leaders, Danes say.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-08 07:12:04" annotation_time="21.941">
+      <sentence id="1" ids_highlights="1">Denmark&amp;apost;s Prime Minister Helle Thorning-Schmidt made headlines after snapping a selfie of herself nestled in between UK Prime Minister David Cameron and U.S. President Barack Obama at Mandela&amp;apost;s memorial service on Tuesday.</sentence>
+      <sentence id="8" ids_highlights="2">Many Danes seem not to have taken the whole thing as seriously as some of the newspapers in Britain.</sentence>
+      <sentence id="10" ids_highlights="3">Some Danes are bemused by the global reaction to the selfie -- as it hasn&amp;apost;t hit their front pages yet -- perhaps reflecting a more laid-back approach in general, as was displayed by their PM in Johannesburg.</sentence>
+      <sentence id="16" ids_highlights="4">And some have even said that it shows a human side to our leaders, who after all are not robots.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Denmark&amp;apost;s Prime Minister Helle Thorning-Schmidt made headlines after snapping a selfie of herself nestled in between UK Prime Minister David Cameron and U.S. President Barack Obama at Mandela&amp;apost;s memorial service on Tuesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The &amp;quot;selfie&amp;quot; went viral online almost immediately.</content>
+        </sentence>
+        <sentence id="3">
+          <content>But you could be forgiven for not knowing who this blonde beauty taking a photo with a smartphone of herself with two political power houses is, unless you are Danish, like myself, or up to date on your current affairs.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Many newspapers are calling into question whether it was appropriate for &amp;quot;Gucci Helle,&amp;quot; as she is called by many Danes for her sense of style, to take a &amp;quot;selfie&amp;quot; during Tuesday&amp;apost;s memorial service.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>The Times wrote that Obama tested the limits of &amp;quot;funeral etiquette&amp;quot; (despite the memorial not being a funeral) with the self-portrait.</content>
+        </sentence>
+        <sentence id="6">
+          <content>Although they may have been acting less than gracefully at the moment the snap was taken, they did seem to be enjoying each other&amp;apost;s company and Thorning-Schmidt just couldn&amp;apost;t resist the urge to document the moment for herself.</content>
+        </sentence>
+        <sentence id="7">
+          <content>She may after all never have the opportunity again.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>Many Danes seem not to have taken the whole thing as seriously as some of the newspapers in Britain.</content>
+        </sentence>
+        <sentence id="9">
+          <content>As fellow Scandinavian Yerco Sanchez put it when reacting to the photo: &amp;quot;More Scandi style in politics would do the world a lot of good.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>Some Danes are bemused by the global reaction to the selfie -- as it hasn&amp;apost;t hit their front pages yet -- perhaps reflecting a more laid-back approach in general, as was displayed by their PM in Johannesburg.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>The general consensus seems to be among Danes that the leaders were serious when they needed to be, and the brief moment of levity was unrepresentative of their behavior throughout the whole ceremony.</content>
+        </sentence>
+        <sentence id="12">
+          <content>Danish media has commented on the attention the selfie has drawn in the British media, where its appropriateness has been questioned.</content>
+        </sentence>
+        <sentence id="13">
+          <content>The Danes after all are known for being down to earth and their country is one of the most equal societies in the world.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="14">
+          <content>And it seems that Thorning-Schmidt was far from being intimidated by the power couple she was seated between, and seemed to be enjoying their company: Maybe doing her bit for transatlantic relations?</content>
+        </sentence>
+        <sentence id="15">
+          <content>Those people shocked at politicians having fun in a situation like a memorial should remember the leaders were not the only ones taking selfies at the memorial.</content>
+        </sentence>
+        <sentence id="16">
+          <content>And some have even said that it shows a human side to our leaders, who after all are not robots.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="17">
+          <content>This was not the Danish leader&amp;apost;s first meeting with the U.S. president: Obama welcomed Thorning-Schmidt to the White House in February 2012 and she met him again in Stockholm while Obama was on a trip there.</content>
+        </sentence>
+        <sentence id="18">
+          <content>At the time of her visit to Washington she had only been prime minister for four months; the first woman to hold the post.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="19">
+          <content>So who says you can&amp;apost;t have it all?</content>
+        </sentence>
+        <sentence id="20">
+          <content>Thorning-Schmidt certainly seems to: Beauty, brains, family, power and she seems to be enjoying it at the same time.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="21">
+          <content>Thorning-Schmidt is married to Briton Stephen Kinnock, son of the former Labour leader Neil Kinnock.</content>
+        </sentence>
+        <sentence id="22">
+          <content>The couple met while she was studying at the European College in Bruges.</content>
+        </sentence>
+        <sentence id="23">
+          <content>They wed in 2006 and have two daughters together.</content>
+        </sentence>
+        <sentence id="24">
+          <content>They were investigated in 2010 over allegations of tax avoidance, but were both later cleared.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="25">
+          <content>No one has yet seen a copy of the &amp;quot;selfie&amp;quot; taken by the PM.</content>
+        </sentence>
+        <sentence id="26">
+          <content>Maybe it was sent to Snapchat -- a photo-messaging app in which photos self-destruct after a certain period -- or maybe it&amp;apost;s one for her personal album.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

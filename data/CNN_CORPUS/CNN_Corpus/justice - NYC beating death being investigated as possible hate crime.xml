@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="584" link="http://www.cnn.com/2013/09/10/justice/new-york-hate-crime-death/index.html" date_published="2013-09-10 17:55:10" category="justice" author="Susan Candiotti, CNN" highlights_mapped="true" mapping_error="false">
+  <title>NYC beating death being investigated as possible hate crime</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="18">Victim&amp;apost;s 94-year-old mother refused to leave his bedside.</sentence>
+      <sentence id="2" ids_article_sentences="3">Witnesses say the suspect wanted to hit &amp;quot;the first white guy&amp;quot; he saw.</sentence>
+      <sentence id="3" ids_article_sentences="5">Martin Redrick is charged with three counts of assault, one of them a felony.</sentence>
+      <sentence id="4" ids_article_sentences="16">Babbitt was always doing favors for people, a neighbor says.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-11 09:38:25" annotation_time="26.527">
+      <sentence id="3" ids_highlights="2">Witnesses said the suspect, identified by police as Martin Redrick, 40, struck Babbitt so hard that bystanders could hear the force of his head hitting the cement.</sentence>
+      <sentence id="5" ids_highlights="3">Redrick, who police say uses several aliases, including Lashawn Marten, has been charged with three counts of assault -- one of them a felony.</sentence>
+      <sentence id="16" ids_highlights="4">&amp;quot;He was the kind of guy who always was doing favors for people.</sentence>
+      <sentence id="18" ids_highlights="1">Neighbors say Babbitt also cared for his 94-year-old mother, Lucille, who refused to leave her son&amp;apost;s bedside in the hospital.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>New York A Manhattan grand jury is investigating the beating death of a man in New York&amp;apost;s Union Square as a possible hate crime, New York Police Department Deputy Commissioner John McCarthy told CNN Tuesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Jeffrey Babbitt, 62, was pronounced dead Monday, five days after being beaten by a man who allegedly said, &amp;quot;I&amp;apost;m gonna punch out the first white guy I see,&amp;quot; according to police commissioner Ray Kelly.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Witnesses said the suspect, identified by police as Martin Redrick, 40, struck Babbitt so hard that bystanders could hear the force of his head hitting the cement.</content>
+        </sentence>
+        <sentence id="4">
+          <content>Two other men were also assaulted in the September 4 attack as they tried to help Babbitt, police said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Redrick, who police say uses several aliases, including Lashawn Marten, has been charged with three counts of assault -- one of them a felony.</content>
+        </sentence>
+        <sentence id="6">
+          <content>He made an appearance in court Tuesday and was appointed a new lawyer.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>Attorney Michael Croce was not in court Tuesday and hasn&amp;apost;t yet met his client.</content>
+        </sentence>
+        <sentence id="8">
+          <content>He told CNN Redrick has not had a psychiatric evaluation and has not been asked to undergo such an examination.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>&amp;quot;I&amp;apost;m not aware of any reason why he should receive one, but I&amp;apost;ve not ruled anything out,&amp;quot; Croce said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>No additional charges were filed, but the grand jury is considering evidence being gathered by the NYPD&amp;apost;s hate crimes task force and may decide to upgrade the charge to a hate crime, which could include manslaughter.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;The murder or manslaughter charge is a charge that requires far more on the part of the prosecution to prove his intent to inflict that type of injury,&amp;quot; Redrick&amp;apost;s attorney said.</content>
+        </sentence>
+        <sentence id="12">
+          <content>&amp;quot;They must show intent to cause serious injury.... It needs to be explored more as to whether they have enough evidence to prove intent to kill based on one punch.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>Redrick was paroled from state prison in 2001 after a 1998 attempted assault conviction for throwing a glass bottle that hit someone in the head, according New York&amp;apost;s Department of Corrections spokeswoman Linda Foglia.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>Redrick has been arrested and charged with aggravated harassment, assault, trespass and drug possession, a law enforcement source told CNN, but the outcomes of those cases were unclear.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="15">
+          <content>Robert Pizzimenti, a neighbor of Babbitt&amp;apost;s, described the man as &amp;quot;a lovable guy.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;He was the kind of guy who always was doing favors for people.</content>
+        </sentence>
+        <sentence id="17">
+          <content>If you needed a ride to an appointment, you could call Jeff and he&amp;apost;d say, &amp;apost;Yeah, I&amp;apost;ll take you,&amp;apost;&amp;quot; Pizzimenti said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="18">
+          <content>Neighbors say Babbitt also cared for his 94-year-old mother, Lucille, who refused to leave her son&amp;apost;s bedside in the hospital.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;I called her on the phone, I said, &amp;apost;Lu, come home.&amp;apost;.</content>
+        </sentence>
+        <sentence id="20">
+          <content>She said &amp;apost;I&amp;apost;m not leaving my son,&amp;apost;&amp;quot; Pizzimenti said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

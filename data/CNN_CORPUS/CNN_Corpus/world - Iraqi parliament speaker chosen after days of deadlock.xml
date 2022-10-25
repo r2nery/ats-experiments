@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2310" link="http://edition.cnn.com/2014/07/15/world/meast/iraq-crisis/index.html?hpt=hp_t2" date_published="2014-07-15 12:09:33" category="world" author="Arwa Damon and Hamdi Alkhshali, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Iraqi parliament speaker chosen after days of deadlock</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Iraq elects a Sunni politician as parliament speaker.</sentence>
+      <sentence id="2" ids_article_sentences="1">It marks first real step to form new government after lawmakers convened, failed to make a move.</sentence>
+      <sentence id="3" ids_article_sentences="12">Iraq is facing a powerful insurgency from the Islamic State in Iraq and Syria.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-02 19:43:07" annotation_time="59.5585">
+      <sentence id="1" ids_highlights="1, 2">Iraqi lawmakers elected a Sunni politician as parliament speaker Tuesday, finally taking a step to form a new government after two weeks of deadlock while the country faces a powerful Islamist militant insurgency.</sentence>
+      <sentence id="12" ids_highlights="3">The quagmire persists even as fighters with the Islamic State in Iraq and Syria, or ISIS -- a Sunni-dominated al Qaeda splinter group -- have overtaken large swaths of Iraq and Syria.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Iraqi lawmakers elected a Sunni politician as parliament speaker Tuesday, finally taking a step to form a new government after two weeks of deadlock while the country faces a powerful Islamist militant insurgency.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Lawmakers elected Salim al-Jabouri, the head of a Sunni coalition, as speaker of Iraq&amp;apost;s Council of Representatives.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The Iraqi Constitution mandated that the job go to a Sunni Muslim.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>The same goes for the other top government positions.</content>
+        </sentence>
+        <sentence id="5">
+          <content>Each has a designated faction.</content>
+        </sentence>
+        <sentence id="6">
+          <content>The President must be Kurdish and the Prime Minister a Shiite.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>The body had convened July 1 to elect a new speaker, but the session quickly descended into bickering between members of different parties and had to be rescheduled for July 8.</content>
+        </sentence>
+        <sentence id="8">
+          <content>That session was delayed, and more arguing erupted.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>Under the constitution, the parliament has 75 days from when it convenes to pick a Prime Minister.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>While lawmakers are under pressure to act quickly, the political body has had trouble moving swiftly in the past.</content>
+        </sentence>
+        <sentence id="11">
+          <content>The last time parliament met to pick a Prime Minister, it took nearly 10 months.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>The quagmire persists even as fighters with the Islamic State in Iraq and Syria, or ISIS -- a Sunni-dominated al Qaeda splinter group -- have overtaken large swaths of Iraq and Syria.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>The militants want to establish an Islamic state spanning both countries.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>President Barack Obama has authorized 300 military advisers in Iraq, 210 of which are there now.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="15">
+          <content>Obama has ordered an assessment of Iraqi security forces, which was given Monday to Defense Secretary Chuck Hagel and Gen. Martin Dempsey, chairman of the Joint Chiefs of Staff, a Pentagon spokesman said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="16">
+          <content>Pentagon officials will review the report that evaluates the capabilities, training, morale, leadership and command and control of Iraqi forces and then hand it to the President and give Obama their recommendations for the best next steps in supporting Iraq.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="17">
+          <content>Many Iraqi troops abandoned their posts and fled when faced with attacks from ISIS.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="18">
+          <content>Two U.S. officials told CNN this week that the administration is concerned about the overwhelming sectarianism among members of Iraq&amp;apost;s security forces.</content>
+        </sentence>
+        <sentence id="19">
+          <content>American commanders are concerned if the United States moves into a direct advisory role of Iraqi government forces, it will be perceived as taking sides with the Iranian-backed Shiite elements inside Iraqi units.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="20">
+          <content>In Syria, ISIS continues to gain ground.</content>
+        </sentence>
+        <sentence id="21">
+          <content>As of Monday, the group controlled about 95% of the eastern province of Deir Ezzor, which borders Iraq, according to the UK-based opposition group Syrian Observatory for Human Rights.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2748" link="http://edition.cnn.com/2014/01/19/world/europe/russia-putin-sochi" date_published="2014-01-19 15:42:59" category="world" author="Laura Smith-Spark and Catherine E. Shoichet, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Sochi Winter Olympics: Video threat emerges amid security concerns</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="25">NEW: U.S. lawmakers say they&amp;apost;re concerned about security at the Olympics.</sentence>
+      <sentence id="2" ids_article_sentences="1">A video on a well-known Jihadi website threatens the Winter Olympic Games.</sentence>
+      <sentence id="3" ids_article_sentences="2">Russia will do its utmost to keep Sochi visitors safe, says President Vladimir Putin.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-18 09:43:13" annotation_time="38.188663">
+      <sentence id="1" ids_highlights="2">A video surfaces threatening the Winter Olympics.</sentence>
+      <sentence id="2" ids_highlights="3">Russia&amp;apost;s President vows the Games will be safe.</sentence>
+      <sentence id="25" ids_highlights="1">U.S. lawmakers: Games aren&amp;apost;t safe.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>A video surfaces threatening the Winter Olympics.</content>
+        </sentence>
+        <sentence id="2">
+          <content>Russia&amp;apost;s President vows the Games will be safe.</content>
+        </sentence>
+        <sentence id="3">
+          <content>Some U.S. lawmakers warn that they won&amp;apost;t be.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="4">
+          <content>One thing was clear as debate over the situation surged on Sunday: security is a top concern, less than three weeks away from the competition.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>&amp;quot;It&amp;apost;s a very serious fear,&amp;quot; Sen. Angus King, I-Maine, told CNN&amp;apost;s State of the Union Sunday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>Russian President Vladimir Putin acknowledged that the Games, like any high-profile event, could be a target for terrorists.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>But, he said, Russia has a &amp;quot;perfect understanding&amp;quot; of the threat and how to stop it.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>As a transcript of his interview with half a dozen national and international broadcasters was posted on the Kremlin website Sunday, a video that surfaced online again highlighted the security situation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>In the video, posted on a well-known Jihadi forum website, two young men believed to have been suicide bombers in last month&amp;apost;s back-to-back bombings in the Russian city of Volgograd speak of those attacks and make an ominous promise.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;We&amp;apost;ve prepared a present for you and all tourists who&amp;apost;ll come over,&amp;quot; the video says.</content>
+        </sentence>
+        <sentence id="11">
+          <content>&amp;quot;If you will hold the Olympics, you&amp;apost;ll get a present from us for the Muslim blood that&amp;apost;s been spilled.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>Attack on transit hub fuels concerns.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>In the video, the men are dressed in black and standing in front of a black banner with religious verse that is typically associated with al Qaeda-linked extremists.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>Last month&amp;apost;s attacks in Volgograd, a major transit hub about 650 kilometers (400 miles) away from Sochi, sparked concerns over security as the Olympics approach.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>The explosions targeted a train station and a trolley bus and claimed the lives of more than 30 people.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="16">
+          <content>In addition to the Volgograd attacks, there has also been violence in recent days in the southern republic of Dagestan -- the latest unrest linked to a long-running Islamist insurgency in the North Caucasus region.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="17">
+          <content>Putin pledges stepped up security.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="18">
+          <content>Putin has pledged that visitors to Sochi for the Winter Olympics will be kept safe.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;We will try to make certain that the security measures are not intrusive or too conspicuous, so they are not too noticeable for the athletes, the Olympics&amp;apost; guests or journalists,&amp;quot; Putin said, according to the interview transcript.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="20">
+          <content>&amp;quot;But at the same time, we will do our utmost to ensure that they are effective.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="21">
+          <content>Russia has plenty of experience in keeping international events secure, Putin said, pointing to the G8 and G20 summits as examples.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;Security is to be ensured by some 40,000 law enforcement and special services officers,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="23">
+          <content>&amp;quot;Of course, we will draw on the experience acquired during similar events held in other regions of the world and in other countries.</content>
+        </sentence>
+        <sentence id="24">
+          <content>It means that we will protect our air and sea space, as well as the mountain cluster.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="25">
+          <content>U.S. lawmakers: Games aren&amp;apost;t safe.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="26">
+          <content>But several U.S. lawmakers offered a different take Sunday on CNN&amp;apost;s State of the Union.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="27">
+          <content>King, a member of the Senate Intelligence Committee, said he wouldn&amp;apost;t go to the games himself, &amp;quot;and I don&amp;apost;t think I would send my family.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="28">
+          <content>Rep. Mike Rogers, chairman of the House Intelligence Committee, also called on the Russian government to be more cooperative with the United States on intelligence sharing ahead of the games.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="29">
+          <content>&amp;quot;Their level of concern is great, but we don&amp;apost;t seem to be getting all of the information we need to protect our athletes in the Games.</content>
+        </sentence>
+        <sentence id="30">
+          <content>I think this needs to change, and it should change soon,&amp;quot; Rogers said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="31">
+          <content>When asked whether he thought Americans would be safe at the Games, former CIA and NSA director Michael Hayden said he trusts Russia&amp;apost;s ability to provide security.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="32">
+          <content>&amp;quot;I think Americans will be quite safe,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="33">
+          <content>Putin: &amp;apost;No danger&amp;apost; for gay visitors.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="34">
+          <content>Russia&amp;apost;s stance on gay rights has been another area of concern for many visitors.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="35">
+          <content>Russia has come under international pressure since its parliament passed a law last summer outlawing &amp;quot;gay propaganda.&amp;quot;</content>
+        </sentence>
+        <sentence id="36">
+          <content>The legislation makes it illegal to tell children about gay equality and has been widely criticized by Western leaders, who have called it archaic and discriminatory.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="37">
+          <content>But Putin defended it before journalists Friday, saying that the law was about protecting children.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="38">
+          <content>&amp;quot;We have just recently passed a law prohibiting propaganda, and not of homosexuality, but of homosexuality and child abuse, child sexual abuse.</content>
+        </sentence>
+        <sentence id="39">
+          <content>But this has nothing to do with persecuting individuals for their sexual orientation,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="40">
+          <content>&amp;quot;So there is no danger for people of such nontraditional sexual orientation who are planning to come to the Games as guests or participants.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="41">
+          <content>Russia has also been criticized over the limitations placed on freedom of speech at Sochi.</content>
+        </sentence>
+        <sentence id="42">
+          <content>The official protest site is about a 30-minute drive from the Olympic village and is difficult to find.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="34">
+      <sentences>
+        <sentence id="43">
+          <content>But Putin said no visitors should fear problems if they protest, for example, over gay rights.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="35">
+      <sentences>
+        <sentence id="44">
+          <content>Putin: No corruption.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="36">
+      <sentences>
+        <sentence id="45">
+          <content>The Russian leader also dismissed claims that corruption has pushed up the cost of the games, saying there was no proof that had occurred.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="37">
+      <sentences>
+        <sentence id="46">
+          <content>When it won the bid in 2007, Russia said the Winter Games would cost $12 billion, but the government&amp;apost;s website now cites the total cost as 1.5 trillion rubles ($45 billion.).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="38">
+      <sentences>
+        <sentence id="47">
+          <content>&amp;quot;I do not see serious corruption instances for the moment, but there is a problem with overestimation of construction volumes,&amp;quot; Putin said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="39">
+      <sentences>
+        <sentence id="48">
+          <content>He suggested the problem was a universal one, where companies underestimate costs in the tendering process in order to win the project, and then push the price back up.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="40">
+      <sentences>
+        <sentence id="49">
+          <content>But, he said, there was no evidence of anything that could be considered corruption, or &amp;quot;theft of public funds with the help of state officials in whose hands these funds fall,&amp;quot; in Sochi.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="41">
+      <sentences>
+        <sentence id="50">
+          <content>&amp;quot;If anyone has such information, give it to us, please.</content>
+        </sentence>
+        <sentence id="51">
+          <content>I repeat once again, we will be grateful.</content>
+        </sentence>
+        <sentence id="52">
+          <content>But so far there was nothing but talks,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="42">
+      <sentences>
+        <sentence id="53">
+          <content>Putin put the cost of preparations for the Winter Olympics at only 214 billion rubles ($6.4 billion) but acknowledged that the total sum, including the cost of major infrastructure projects, was much higher.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="43">
+      <sentences>
+        <sentence id="54">
+          <content>The total price tag of $45 billion outstrips the $40 billion China is thought to have spent on the Beijing Summer Games and is more than three times the cost of the London Games in 2012.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="44">
+      <sentences>
+        <sentence id="55">
+          <content>Boris Nemtsov, former deputy prime minister of Russia and a vocal critic of Putin, published a report last year describing the Sochi games as one of the most &amp;quot;outrageous swindles&amp;quot; in recent Russian history.</content>
+        </sentence>
+        <sentence id="56">
+          <content>He claimed that up to 60% of the final cost -- or $30 billion -- has been embezzled.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

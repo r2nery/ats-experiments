@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2546" link="http://edition.cnn.com/2013/08/15/world/americas/new-mammal-smithsonian/index.html" date_published="2013-08-15 14:57:48" category="world" author="Elizabeth Landau, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Olinguito the newest rare mammal species discovery</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="30">The olinguito weighs about 2 pounds and is 2.5 feet long.</sentence>
+      <sentence id="2" ids_article_sentences="32">This creature lives in cloud forests in Ecuador and Colombia.</sentence>
+      <sentence id="3" ids_article_sentences="35">Previously it was mistaken for its sister species, the olingo.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-28 09:00:50" annotation_time="19.588">
+      <sentence id="30" ids_highlights="1">At about 2.5 feet long from nose tip to tail tip, the olinguito weighs about 2 pounds and is a little smaller than a house cat.</sentence>
+      <sentence id="32" ids_highlights="2">The olinguito&amp;apost;s misty high-elevation habitats in Colombia and Ecuador, and the tendency for the animal to stay in the trees, have helped keep the species relatively obscure to scientists until now, Helgen said.</sentence>
+      <sentence id="35" ids_highlights="3">Prior to the olinguito, the most recent mammal to be discovered in the Americas was a small weasel from the Andes -- the same area and habitat where the olinguitos live, he said.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>A small mammal with fluffy red-orange fur, a short bushy tail, and an adorable rounded face has leapt onto the raccoon family tree.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Scientists at the Smithsonian in Washington announced Thursday the discovery of a new species of mammal called the olinguito (pronounced oh-lin-GHEE-toe).</content>
+        </sentence>
+        <sentence id="3">
+          <content>If you&amp;apost;re a fan of long technical names, this one is Bassaricyon neblina.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Such a discovery is rare.</content>
+        </sentence>
+        <sentence id="5">
+          <content>The olinguito is the first mammalian carnivore species to be newly identified in the Americas in 35 years, according to Kristofer Helgen, curator of mammals at the Smithsonian&amp;apost;s National Museum of Natural History.</content>
+        </sentence>
+        <sentence id="6">
+          <content>His research group&amp;apost;s study on the creature is being published in the journal ZooKeys.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>Researchers argue that the olinguito should be considered the smallest living member of the raccoon family, which includes other animals that make us go &amp;quot;awww&amp;quot; such as coatis and kinkajous.</content>
+        </sentence>
+        <sentence id="8">
+          <content>The Smithsonian describes the olinguito&amp;apost;s appearance as a cross between a house cat and a teddy bear.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Cats, bears, and olinguitos belong to the Carnivora order.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="10">
+          <content>This animal had been seen before by humans, Helgen said, but it had been &amp;quot;a case of mistaken identity.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;It was in museums, it&amp;apost;s been in zoos, and its DNA had even been sequenced, but no one had connected the pieces and looked close enough to realize, basically, the significance of this remarkable and this beautiful animal,&amp;quot; Helgen said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>Previously, scientists had assumed that olinguitos were members of their sister species, the olingos, Helgen said.</content>
+        </sentence>
+        <sentence id="13">
+          <content>Olingos are larger, less furry and have longer faces than the newly discovered species.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="14">
+          <content>Tracking the olinguito.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="15">
+          <content>Helgen began his detective work in pursuit of the new species when he set out about a decade ago to comprehensive study of olingos.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="16">
+          <content>Behind the scenes at the Chicago Field Museum in 2003, he remembers pulling out a drawer of skins and skulls that didn&amp;apost;t look like any animal he had ever seen before, or that had been reported by zoologists.</content>
+        </sentence>
+        <sentence id="17">
+          <content>The teeth and skull were smaller and shaped differently than olingos, and the coat was denser.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="18">
+          <content>Records indicated to Helgen that such specimens came from the northern Andes about 5,000 to 9,000 feet above sea level, which is much higher than olingo habitats.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="19">
+          <content>Helgen and colleagues worked with Miguel Pinto, a zoologist in Ecuador, who had shot a few seconds of video that appeared to depict the animal.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="20">
+          <content>They teamed up in Ecuador in 2006, using Pinto&amp;apost;s knowledge of cloud forest habitats to pick the best spots to investigate.</content>
+        </sentence>
+        <sentence id="21">
+          <content>Cloud forests are &amp;quot;cloaked in fog,&amp;quot; Helgen said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="22">
+          <content>On their very first night on the pursuit, the team found a real, living olinguito.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="23">
+          <content>Seeing the fluffy tree-dweller for the first time, Helgen felt &amp;quot;sheer elation, just incredible excitement but at the same time almost disbelief.</content>
+        </sentence>
+        <sentence id="24">
+          <content>This animal had been missed by everyone.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="25">
+          <content>Even people who live in the Andes had the same confusion about olinguitos being olingos, because humans don&amp;apost;t hunt them and the creatures stay in the trees, Helgen said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="26">
+          <content>How it lives.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="27">
+          <content>The researchers found out that the olinguito primarily eats fruits, but also insects and nectar, and its activity is mostly at night.</content>
+        </sentence>
+        <sentence id="28">
+          <content>The animal lives in the trees and can jump from one to another.</content>
+        </sentence>
+        <sentence id="29">
+          <content>Mothers raise a single baby at a time.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="30">
+          <content>At about 2.5 feet long from nose tip to tail tip, the olinguito weighs about 2 pounds and is a little smaller than a house cat.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="31">
+          <content>DNA analysis confirmed that while olinguitos and olingos both belong to the raccoon family, they are &amp;quot;sister groups,&amp;quot; in the same way that humans are closely related to chimpanzees.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="32">
+          <content>The olinguito&amp;apost;s misty high-elevation habitats in Colombia and Ecuador, and the tendency for the animal to stay in the trees, have helped keep the species relatively obscure to scientists until now, Helgen said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="33">
+          <content>It turns out, according to Helgen, there are four subspecies of olinguitos, differing in color -- shades of reds, orange and browns -- and size and living in various sections of the Andes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="34">
+          <content>New species of mice, bats and shrews are more commonly discovered, but these animals are tiny and hard to tell apart, Helgen said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="35">
+          <content>Prior to the olinguito, the most recent mammal to be discovered in the Americas was a small weasel from the Andes -- the same area and habitat where the olinguitos live, he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="36">
+          <content>&amp;quot;It shows us that there&amp;apost;s a long way to go to exploring the whole world, but especially maybe these cloud forests,&amp;quot; Helgen said.</content>
+        </sentence>
+        <sentence id="37">
+          <content>More olinguitos may be found in other South American countries with cloud forests in the future, according to the Smithsonian.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="38">
+          <content>The olinguito is not yet considered an endangered species, but there are threats to its home environment, Helgen said.</content>
+        </sentence>
+        <sentence id="39">
+          <content>Many have such forests been chopped down.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="40">
+          <content>&amp;quot;We also kind of hope that in telling this story to the world about the olinguito, that this beautiful new animal serves as something of an ambassador for those embattled cloud forest habitats.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="41">
+          <content>The zoo olinguito.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="42">
+          <content>Helgen&amp;apost;s group has &amp;quot;discovered&amp;quot; the olinguito, but it been evolving as an independent species for about 3 to 4 million years, he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="43">
+          <content>One olinguito whose history Helgen&amp;apost;s group studied was exhibited in the United States during its lifetime as if it were an olingo.</content>
+        </sentence>
+        <sentence id="44">
+          <content>The creature came from the mountains of Colombia to the Louisville Zoo in 1967, courtesy of a German couple with a love of raccoon family members, Helgen said.</content>
+        </sentence>
+        <sentence id="45">
+          <content>It was also in the Smithsonian National Zoo in Washington and the Bronx Zoo, where it passed away.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="46">
+          <content>DNA from this olinguito shows that it is clearly not an olingo, Helgen said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="47">
+          <content>The wife of the animal&amp;apost;s keeper told Helgen, &amp;quot;We always thought there was something strange about that olingo,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="48">
+          <content>She told Helgen this particular animal moved from zoo to zoo because she wouldn&amp;apost;t breed with the olingos around her.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="34">
+      <sentences>
+        <sentence id="49">
+          <content>&amp;quot;It wasn&amp;apost;t because she was fussy, it was because she was not at all even the same species,&amp;quot; Helgen said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="35">
+      <sentences>
+        <sentence id="50">
+          <content>With the olinguito research announcement, the oddball animal&amp;apost;s aloofness has been vindicated.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="36">
+      <sentences>
+        <sentence id="51">
+          <content>Follow Elizabeth Landau on Twitter and Google+.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

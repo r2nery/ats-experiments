@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1947" link="http://www.cnn.com/2013/12/06/us/new-york-train-derailment/index.html" date_published="2013-12-06 19:57:44" category="us" author="Ray Sanchez and Elizabeth Landers, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Metro-North Railroad slapped with emergency order after New York crash</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Federal Railroad Administration issues emergency order after deadly Metro-North crash.</sentence>
+      <sentence id="2" ids_article_sentences="2">Railroad is ordered to take &amp;quot;immediate steps&amp;quot; to ensure speed limits are obeyed .</sentence>
+      <sentence id="3" ids_article_sentences="4">The derailment, in which four people died and 67 were injured, involved a speeding train.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-09-08 23:07:59" annotation_time="117.05601">
+      <sentence id="1" ids_highlights="1">New York The Federal Railroad Administration issued an emergency order Friday requiring Metro-North railroad to take &amp;quot;immediate steps to ensure its train crews do not exceed speed limitations&amp;quot; in the wake of Sunday&amp;apost;s deadly derailment in New York.</sentence>
+      <sentence id="2" ids_highlights="2">The order -- a routine step after a major accident -- requires the railroad to &amp;quot;modify its existing signal system to ensure speed limits are obeyed and to provide two qualified railroad employees to operate trains where major speed restrictions are in place until the signal system is updated.&amp;quot;</sentence>
+      <sentence id="4" ids_highlights="3">In addition to the four dead, at least 67 people were hurt.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>New York The Federal Railroad Administration issued an emergency order Friday requiring Metro-North railroad to take &amp;quot;immediate steps to ensure its train crews do not exceed speed limitations&amp;quot; in the wake of Sunday&amp;apost;s deadly derailment in New York.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The order -- a routine step after a major accident -- requires the railroad to &amp;quot;modify its existing signal system to ensure speed limits are obeyed and to provide two qualified railroad employees to operate trains where major speed restrictions are in place until the signal system is updated.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>All seven coaches and the locomotive came off the tracks in the Sunday morning crash on Metro-North Hudson line in the Bronx.</content>
+        </sentence>
+        <sentence id="4">
+          <content>In addition to the four dead, at least 67 people were hurt.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>The train jumped the tracks while barreling into a curve at 82 mph, nearly three times the 30-mph limit for the curve, according to the National Transportation Safety Board.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>The engineer, William Rockefeller Jr., apparently &amp;quot;was nodding off and caught himself too late&amp;quot; before the accident, a union representative who met with the man has told CNN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>Rockefeller&amp;apost;s lawyer, Jeffrey Chartier, characterized what happened as &amp;quot;highway hypnosis.&amp;quot;</content>
+        </sentence>
+        <sentence id="8">
+          <content>He said his client had had a full night&amp;apost;s sleep before the crash, and that Rockefeller had no disciplinary record.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>According to NTSB representatives, results from alcohol breath tests for the train engineer were negative, and both the brake and signal systems appeared to be working.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;Safety is our highest priority, and we must do everything we can to learn from this tragic crash and help prevent future derailments,&amp;quot; U.S. Transportation Secretary Anthony Foxx said in a statement Friday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>In a statement, Marjorie Anders, a spokeswoman for the Metropolitan Transportation Authority, which operates the railroad, said the agency was &amp;quot;working closely with the Federal Railroad Administration to review our policies and procedures in light of Sunday&amp;apost;s tragic derailment.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;We will of course comply with whatever requirements the FRA directs us to follow,&amp;quot; she added.</content>
+        </sentence>
+        <sentence id="13">
+          <content>&amp;quot;We are examining many other possible steps we can take to improve the safety of our railroad operations, and will continue making every effort to enhance customer and employee safety.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>The emergency order requires that Metro-North provide a list by Tuesday of main track locations where there is a reduction of more than 20 mph in the &amp;quot;maximum authorized passenger train speed.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>The railroad also is ordered to identify appropriate modifications to its existing &amp;quot;automatic train control system or other signal systems to enable adequate advance warning of and adherence to such speed restrictions,&amp;quot; the FRA statement said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;These modifications will help prevent another over-the-speed-limit event if a locomotive engineer fails to take actions to appropriately slow or stop a passenger train,&amp;quot; the agency said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="17">
+          <content>Anders said the MTA&amp;apost;s vice president of operations will lead the implementation of the new guidelines.</content>
+        </sentence>
+        <sentence id="18">
+          <content>The agency will work over the weekend to meet the first of the deadlines Tuesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="19">
+          <content>Metro-North, meanwhile, must operate trains with two qualified train crew members in the controlling locomotive cab or passenger car control compartment at the locations where speed limits change by 20 mph or more until the signal work is complete.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="20">
+          <content>In addition, the statement said, the railroad must submit an action plan ensuring safe operations for passengers and employees by Dec. 31, including target dates and milestones for implementing signal system modifications.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="21">
+          <content>Steven Ditmeyer, a former FRA official who teaches at Michigan State University, told CNN on Friday that the order are routine after major accidents.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;Having two people in the cab?</content>
+        </sentence>
+        <sentence id="23">
+          <content>I&amp;apost;d have to look at the control cab on one of these Metro-North commuter cars to see if two people can get in it,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="24">
+          <content>&amp;quot;On the locomotive, no question.</content>
+        </sentence>
+        <sentence id="25">
+          <content>But on the inbound runs with the control cab in the lead, this is going to be a little difficult to do.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="26">
+          <content>The FRA said the order is mandatory and failure to comply would result in enforcement actions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="27">
+          <content>The FRA had increased its oversight of Metro-North after a May 2013 crash, including additional inspections of its lines and audits of operations and compliance with federal regulations.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

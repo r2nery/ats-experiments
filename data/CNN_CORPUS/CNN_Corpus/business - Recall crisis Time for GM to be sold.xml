@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="104" link="http://www.cnn.com/2014/04/04/business/opinion-gm-foxall/index.html?iid=article_sidebar" date_published="2014-04-04 14:53:01" category="business" author="James Foxall, motoring journalist, Special to CNN" highlights_mapped="true" mapping_error="false">
+  <title>Recall crisis: Time for GM to be sold?</title>
+  <keywords>GM recall</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="13">James Foxall says General Motors has multiple problems and none of them is new.</sentence>
+      <sentence id="2" ids_article_sentences="14">Lack of positive image and identity is one of them, he writes.</sentence>
+      <sentence id="3" ids_article_sentences="44">General Motors could be run properly by a foreign company, James Foxall says.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-25 08:00:18" annotation_time="54.407">
+      <sentence id="13" ids_highlights="1">General Motors has multiple problems and none of them is new.</sentence>
+      <sentence id="14" ids_highlights="2">Lack of positive image and identity is one.</sentence>
+      <sentence id="44" ids_highlights="3">It&amp;apost;s not too big to be run properly by a foreign company.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>General Motors is under fire following its delayed decision to recall 2.6 million cars over a faulty ignition switch.</content>
+        </sentence>
+        <sentence id="2">
+          <content>The automotive giant&amp;apost;s CEO says she is &amp;quot;deeply sorry&amp;quot; for 13 deaths caused by the defect.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>In isolation that&amp;apost;s bad enough.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>But it&amp;apost;s been exacerbated by another recall, this time of 1.3 million vehicles beset by a potentially dangerous power steering problem.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Critics might say it&amp;apost;s hardly unexpected from a company that took a $49.5 billion U.S. Government bailout in 2008 and ended up costing the US tax payer $10.5 billion.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>Apologists claim that if General Motors had been allowed to wither and die, it would have cost the US in the region of $66 billion.</content>
+        </sentence>
+        <sentence id="7">
+          <content>Probably more important is the potential human toll -- an industrial apocalypse like this would have wreaked on GM&amp;apost;s 212,000-strong global work force.</content>
+        </sentence>
+        <sentence id="8">
+          <content>Then there are the millions of employees working for the various suppliers who would also have suffered.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>But was saving General Motors, and thereby condemning it to more of the same, really the triumph that some (mainly blinkered GM management) claimed?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>In 2013, General Motors&amp;apost; global sales were up 4% compared with the previous year.</content>
+        </sentence>
+        <sentence id="11">
+          <content>That&amp;apost;s in a market of worldwide vehicle sales that was up 7%.</content>
+        </sentence>
+        <sentence id="12">
+          <content>GM&amp;apost;s big rival Ford&amp;apost;s global sales increased by 12% over the same period.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>General Motors has multiple problems and none of them is new.</content>
+        </sentence>
+        <sentence id="14">
+          <content>Lack of positive image and identity is one.</content>
+        </sentence>
+        <sentence id="15">
+          <content>Hear the words General and Motors together in the UK and it&amp;apost;s usually because of mass redundancies or a factory being shut.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="16">
+          <content>Of its brands, Vauxhalls are insipid and to sell in the required volumes they are heavily discounted and sold to rental firms, a killer for models&amp;apost; retained values that increasingly savvy consumers now consider.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="17">
+          <content>Then there&amp;apost;s Chevrolet.</content>
+        </sentence>
+        <sentence id="18">
+          <content>The decision to import the latest iterations of Camaros and Corvettes -- cars more worthy of the bowtie badge than the Sparks and Aveos we&amp;apost;ve currently got, coincided with a GM directive to withdraw Chevrolet from the UK by the end of 2015.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="19">
+          <content>To calm a nervy dealer network, prices in January were slashed by up to 42%.</content>
+        </sentence>
+        <sentence id="20">
+          <content>You could buy a Chevy Captiva seven-seat SUV for £12,295 ($20,460), the sort of money that barely buys a decently equipped three-door Volkswagen Polo.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="21">
+          <content>Unsurprisingly at that sort of money dealers haven&amp;apost;t struggled.</content>
+        </sentence>
+        <sentence id="22">
+          <content>Chevrolet&amp;apost;s February sales were up 114% proving what Korean firms have known all along: workmanlike products will sell if priced correctly.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="23">
+          <content>Such business blunders abound.</content>
+        </sentence>
+        <sentence id="24">
+          <content>Twenty years ago, General Motors became the first major car manufacturer in the modern era to mass produce an electric car.</content>
+        </sentence>
+        <sentence id="25">
+          <content>It wanted to prove the viability of the project by inviting drivers to become one of 50 to lease the Impact electric vehicle.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="26">
+          <content>The project leader anticipated 80 applicants.</content>
+        </sentence>
+        <sentence id="27">
+          <content>In Los Angeles there were 10,000.</content>
+        </sentence>
+        <sentence id="28">
+          <content>In New York 14,000.</content>
+        </sentence>
+        <sentence id="29">
+          <content>There was evidently an appetite for electric cars.</content>
+        </sentence>
+        <sentence id="30">
+          <content>GM shelved the Impact.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="31">
+          <content>Management admits that now its zero and low emissions vehicle technologies have fallen behind rivals.</content>
+        </sentence>
+        <sentence id="32">
+          <content>Defeat from the jaws of victory and symptomatic of a company lacking the vision now required to compete at the cutting edge of car manufacturing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="33">
+          <content>GM used to own Swedish car firm Saab.</content>
+        </sentence>
+        <sentence id="34">
+          <content>In 2008 it finished development on the 9-4X, a competent SUV designed primarily for the US market.</content>
+        </sentence>
+        <sentence id="35">
+          <content>It was the sort of car that should turn a decent profit margin, perfect to help re-fill a cash-strapped company&amp;apost;s depleted coffers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="36">
+          <content>GM didn&amp;apost;t launch the car until 2011.</content>
+        </sentence>
+        <sentence id="37">
+          <content>Three years can be more than half a car&amp;apost;s life: the 9-4X was past-it before anyone outside GM and Saab even drove it.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="38">
+          <content>You can almost hear the mirth from boardrooms in Germany, Japan, Korea and even China.</content>
+        </sentence>
+        <sentence id="39">
+          <content>But could that be GM&amp;apost;s salvation?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="40">
+          <content>As a Brit who has watched an entire car industry slip into foreign hands I can tell you overseas ownership hasn&amp;apost;t been too bad at making viable businesses out of MINI, Rolls-Royce, Jaguar, Land Rover and Bentley.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="41">
+          <content>A fresh culture could be equally positive for GM.</content>
+        </sentence>
+        <sentence id="42">
+          <content>Successive American management teams have had their chance and at least 13 people have lost their lives.</content>
+        </sentence>
+        <sentence id="43">
+          <content>GM might be too big to die.</content>
+        </sentence>
+        <sentence id="44">
+          <content>It&amp;apost;s not too big to be run properly by a foreign company.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

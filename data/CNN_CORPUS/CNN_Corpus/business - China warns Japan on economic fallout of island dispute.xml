@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="26" link="http://edition.cnn.com/2012/09/14/business/china-japan-island-dispute-economy/index.html" date_published="2012-09-14 06:08:04" category="business" author="Kevin Voigt, CNN" highlights_mapped="true" mapping_error="false">
+  <title>China warns Japan on economic fallout of island dispute</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Chinese official warns island dispute will hurt economic relations with Japan.</sentence>
+      <sentence id="2" ids_article_sentences="13">Beijing is Tokyo&amp;apost;s largest trading partner, accounting for nearly 20% of Japanese exports.</sentence>
+      <sentence id="3" ids_article_sentences="6">Sales of Japanese automobiles are down, despite booming car purchases in China.</sentence>
+      <sentence id="4" ids_article_sentences="4">Control of the disputed islands would allow for commercial rights to the surrounding waters.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-08 06:42:36" annotation_time="122.624">
+      <sentence id="1" ids_highlights="1">A Chinese official warned Thursday that Tokyo&amp;apost;s move to &amp;quot;buy&amp;quot; a disputed island chain in the East China Sea would hurt trade between Asia&amp;apost;s two largest economies.</sentence>
+      <sentence id="4" ids_highlights="4">Ownership of the chain would allow exclusive commercial rights to the seas surrounding the islands.</sentence>
+      <sentence id="6" ids_highlights="3">Despite booming auto sales in China, sales of Japanese car brands are down 2% in China compared to a year ago, according to the China Association of Automobile Manufacturers.</sentence>
+      <sentence id="13" ids_highlights="2">China is Japan&amp;apost;s largest trading partner.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>A Chinese official warned Thursday that Tokyo&amp;apost;s move to &amp;quot;buy&amp;quot; a disputed island chain in the East China Sea would hurt trade between Asia&amp;apost;s two largest economies.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The battle over ownership of the island chain, called Diaoyu by China and Senkaku by Japan, will &amp;quot;inevitably&amp;quot; have a negative impact on Sino-Japan economic ties, Vice Minister of Commerce Jiang Zengwei said Thursday, state-run Xinhua reported.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The islands sit among popular fishing waters and are also believed to be rich in oil resources.</content>
+        </sentence>
+        <sentence id="4">
+          <content>Ownership of the chain would allow exclusive commercial rights to the seas surrounding the islands.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>There are signs the dispute is already hurting Japanese companies.</content>
+        </sentence>
+        <sentence id="6">
+          <content>Despite booming auto sales in China, sales of Japanese car brands are down 2% in China compared to a year ago, according to the China Association of Automobile Manufacturers.</content>
+        </sentence>
+        <sentence id="7">
+          <content>Meanwhile, sales of car brands from other foreign countries, including Germany, the U.S., South Korea and France, are up 25%, 19%, 12% and 4% respectively.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>Luo Lei, deputy secretary-general of China Automobile Dealers Association, said earlier this week that Toyota purchases have fallen 15% while Mazda sales are down 6% year over year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>Tensions between China and Japan -- the world&amp;apost;s second and third largest economies, respectively -- escalated on Friday as Chinese surveillance vessels entered the disputed area to begin patrols and &amp;quot;law enforcement,&amp;quot; according to Chinese state-run media.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>China dispatched the ships after the Japanese government bought several of the islands from a private Japanese owner earlier this week.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>The Chinese vessels entered Japan&amp;apost;s territorial waters despite warnings from the Japanese Coast Guard, said Shinichi Gega, a spokesman for Japan&amp;apost;s 11th Regional Coast Guard Headquarters.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>Meanwhile Japanese Prime Minister Yoshihiko Noda said Tokyo would &amp;quot;take all possible measures to ensure security&amp;quot; of the islands, located between Okinawa and Taiwan.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>China is Japan&amp;apost;s largest trading partner.</content>
+        </sentence>
+        <sentence id="14">
+          <content>Nearly 20% of Japanese exports last year were sold to mainland China, compared to 15.3% exported to the U.S., according to figures from the Japan External Trade Organization.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="15">
+          <content>At a meeting Tuesday, the Japanese government approved the purchase for 2.05 billion yen ($26.2 million) the group of small islands from the Kurihara family, a private Japanese owner, according to Chief Cabinet Secretary Osamu Fujimura.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="16">
+          <content>China says its claim to the islands goes back hundreds of years.</content>
+        </sentence>
+        <sentence id="17">
+          <content>However Japan says it saw no trace of Chinese control of the islands in an 1885 survey, so formally recognized them as Japanese sovereign territory in 1895.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="18">
+          <content>Japan sold the islands in 1932 to descendants of the original settlers.</content>
+        </sentence>
+        <sentence id="19">
+          <content>The islands were administered by the U.S. occupation force after World War II.</content>
+        </sentence>
+        <sentence id="20">
+          <content>But in 1972, Washington returned them to Japan as part of its withdrawal from Okinawa.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

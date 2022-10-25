@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="368" link="http://www.cnn.com/2013/10/30/health/sequist-lung-cancer-stigma/index.html" date_published="2013-10-30 11:02:45" category="health" author="Dr. Lecia V. Sequist, Special to CNN" highlights_mapped="true" mapping_error="false">
+  <title>Stigma lingers for deadliest cancer</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="10">Lung cancer is responsible for 25% of cancer deaths.</sentence>
+      <sentence id="2" ids_article_sentences="30">Lung cancer patients often struggle with shame and stigma.</sentence>
+      <sentence id="3" ids_article_sentences="14">It&amp;apost;s not just smokers who get lung cancer.</sentence>
+      <sentence id="4" ids_article_sentences="22">The stigma translates into fewer research dollars.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-30 12:46:49" annotation_time="60.23366">
+      <sentence id="10" ids_highlights="1">Lung cancer is the deadliest cancer, responsible for more than 25% of all cancer deaths.</sentence>
+      <sentence id="14" ids_highlights="3">In short, anyone with lungs -- anyone who breathes -- can get lung cancer.</sentence>
+      <sentence id="22" ids_highlights="4">Unfortunately, the stigma associated with lung cancer has translated to a massive inequality in research funding.</sentence>
+      <sentence id="30" ids_highlights="2">By rejecting the tendency to blame lung cancer patients for their disease, you can help lift the crushing weight of stigma and guilt that for some can be as bad as the cancer itself.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>My patient, &amp;quot;Judy,&amp;quot; is one of more than 228,000 Americans this year who will be diagnosed with lung cancer.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>And like most of her fellow lung cancer patients, she is struggling not only to learn all she can about her diagnosis and treatment options, but also to adjust to the overwhelming burden of shame and stigma that plagues this disease.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>When asked who is providing her with support, Judy said she is ashamed to admit her metastatic, incurable cancer diagnosis to loved ones, and that she is bearing the burden alone.</content>
+        </sentence>
+        <sentence id="4">
+          <content>Because one of the strongest risk factors for lung cancer is smoking, our society has come to the conclusion that people diagnosed with lung cancer somehow deserve it, that it was brought on by their own &amp;quot;bad&amp;quot; behavior.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Tell a friend or colleague that your aunt just found out she has lung cancer.</content>
+        </sentence>
+        <sentence id="6">
+          <content>Almost always the response will be, &amp;quot;Did she smoke?&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>Then tell someone else that your aunt just found out she has breast cancer, or colon cancer, or any other type of cancer you can think of.</content>
+        </sentence>
+        <sentence id="8">
+          <content>This time the response will be pure sympathy, without any blame attached.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>The feeling that lung cancer patients should somehow be held liable for their cancer diagnosis is often the only notion people have about lung cancer.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>Lung cancer is the deadliest cancer, responsible for more than 25% of all cancer deaths.</content>
+        </sentence>
+        <sentence id="11">
+          <content>It kills roughly twice as many women as breast cancer, and almost three times as many men as prostate cancer.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>What many people don&amp;apost;t realize is that about 60% of all new lung cancer diagnoses are among people who have never smoked or are former smokers, many of whom quit several decades ago.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>For the first time, the World Health Organization recently declared air pollution as a leading cause of lung cancer.</content>
+        </sentence>
+        <sentence id="14">
+          <content>In short, anyone with lungs -- anyone who breathes -- can get lung cancer.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>Researchers are on the verge of a seismic shift in our ability to diagnose and treat lung cancer, and more funding is desperately needed to bring these promising new therapies to fruition.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>In the last five years, researchers have learned that some lung cancers are remarkably sensitive to a new type of treatment, one that comes in a pill and is targeted specifically toward the genetic defects that make that particular cancer &amp;quot;tick.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>In clinics across the country, oncologists are testing their lung cancer patients to find out which type of gene the cancer carries so they can know which type of targeted therapy will work best.</content>
+        </sentence>
+        <sentence id="18">
+          <content>As a result, some patients are living longer, with fewer side effects and improved quality of life compared to traditional therapies.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="19">
+          <content>In addition, in the last two years researchers have started to learn how to harness the immune system to attack lung cancer, and have seen some patients with advanced disease go into prolonged remission, sometimes lasting long after the immune therapy is stopped.</content>
+        </sentence>
+        <sentence id="20">
+          <content>These types of successes in lung cancer treatments would have been unimaginable 10 years ago.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="21">
+          <content>Scientists are deeply committed to broadening and improving therapy options until there is an effective treatment for all lung cancer patients.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="22">
+          <content>Unfortunately, the stigma associated with lung cancer has translated to a massive inequality in research funding.</content>
+        </sentence>
+        <sentence id="23">
+          <content>When analyzing the combined 2012 cancer research dollars granted by federal organizations, for every woman who dies of breast cancer, more than $26,000 in federal research funding is devoted to breast cancer research.</content>
+        </sentence>
+        <sentence id="24">
+          <content>But for every woman who dies of lung cancer, just over 1,000 federal dollars are invested.</content>
+        </sentence>
+        <sentence id="25">
+          <content>The difference is staggering.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="26">
+          <content>November is national lung cancer awareness month.</content>
+        </sentence>
+        <sentence id="27">
+          <content>Scientists don&amp;apost;t have millions of dollars to spend on marketing to call attention to the need for research dollars.</content>
+        </sentence>
+        <sentence id="28">
+          <content>If they did, they would spend that money on research.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="29">
+          <content>You can help by spreading the word about the need for lung cancer research to family and friends.</content>
+        </sentence>
+        <sentence id="30">
+          <content>By rejecting the tendency to blame lung cancer patients for their disease, you can help lift the crushing weight of stigma and guilt that for some can be as bad as the cancer itself.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="31">
+          <content>With increased research, more lives will be saved.</content>
+        </sentence>
+        <sentence id="32">
+          <content>Please join me this November and talk about lung cancer, for Judy, and patients everywhere who are too ashamed to mention it.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

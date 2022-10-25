@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2035" link="http://edition.cnn.com/2014/02/24/world/oldest-earth-fragment/index.html?iid=article_sidebar" date_published="2014-02-24 22:34:17" category="world" author="Elizabeth Landau, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>4.4 billion-year-old crystal is oldest piece of Earth</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="13">Earth is about 4.5 billion years old.</sentence>
+      <sentence id="2" ids_article_sentences="7">The oldest piece was found in 2001 in Australia.</sentence>
+      <sentence id="3" ids_article_sentences="17">Earth could have had oceans very early in its history.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-09 18:40:14" annotation_time="32.443333" mapping_time_divergence="10.814445">
+      <sentence id="7" ids_highlights="2">The crystal was found in an arid region north of Perth, Australia, in a low range of hills called the Jack Hills, in 2001.</sentence>
+      <sentence id="13" ids_highlights="1">Our planet is thought to be about 4.5 billion years old, but the oldest fossils are about 3.5 billion years old.</sentence>
+      <sentence id="17" ids_highlights="3">The leading theory is that Earth was bombarded by meteors in its early history.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>From a sheep ranch in Western Australia comes the oldest slice of Earth we know.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Scientists say they have dated an ancient crystal called a zircon to about 4.4 billion years, making it the earliest confirmed piece of the planet&amp;apost;s crust.</content>
+        </sentence>
+        <sentence id="3">
+          <content>The findings -- the first to describe the zircon -- were published in the journal Nature Geoscience on Sunday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>&amp;quot;This is the oldest and the best dated of all the crystals that have been reported,&amp;quot; said John Valley, lead study author and professor in the Department of Geoscience at the University of Wisconsin-Madison.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>This crystal is a translucent red, Valley said, but glows blue when bombarded with electrons.</content>
+        </sentence>
+        <sentence id="6">
+          <content>At 400 micrometers long, its biggest dimension is just a tad larger than a house dust mite, or about four human hairs.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>The crystal was found in an arid region north of Perth, Australia, in a low range of hills called the Jack Hills, in 2001.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>Scientists say the crystal&amp;apost;s chemistry -- specifically, the ratio of oxygen isotopes within it -- suggests that the temperatures on Earth 4.4 billion years ago would have supported liquid water, and therefore perhaps life.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Two isotopes of an element are considered different if they contain different numbers of neutrons.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;What we&amp;apost;ve learned is that the Earth cooled much more quickly that people had thought,&amp;quot; Valley said.</content>
+        </sentence>
+        <sentence id="11">
+          <content>&amp;quot;The surface formed a crust much more quickly than people thought.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>A brief history of Earth.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>Our planet is thought to be about 4.5 billion years old, but the oldest fossils are about 3.5 billion years old.</content>
+        </sentence>
+        <sentence id="14">
+          <content>That doesn&amp;apost;t necessarily mean that no life existed before that time, but no direct evidence has been found yet.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>The first rocks that have been found deposited by water are about 3.8 billion years old, Valley said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>But very little is known about the first 600 million years or so of the planet&amp;apost;s history, known as the &amp;quot;Hadean Eon&amp;quot; because it was thought to be &amp;quot;hell-like,&amp;quot; Valley said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>The leading theory is that Earth was bombarded by meteors in its early history.</content>
+        </sentence>
+        <sentence id="18">
+          <content>It took a big hit from an object the size of Mars about 4.5 billion years ago, leading to the formation of the moon.</content>
+        </sentence>
+        <sentence id="19">
+          <content>These impacts vaporized the Earth&amp;apost;s crust and formed a super-hot magma ocean.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="20">
+          <content>Evidence including this zircon suggests that within the first 100 million to 200 million years of its existence, our planet cooled enough to make crust.</content>
+        </sentence>
+        <sentence id="21">
+          <content>Steam from the atmosphere condensed to make oceans.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;Once you know that there were oceans, it&amp;apost;s very reasonable that there would have been life that early&amp;quot; -- even when it was only 200 million years old, Valley said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="23">
+          <content>How they did the study.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="24">
+          <content>Valley and colleagues reported on a different crystal from early Earth in 2001 from the same Jack Hills area.</content>
+        </sentence>
+        <sentence id="25">
+          <content>But there had been an open question regarding that crystal and others about how to determine the age.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="26">
+          <content>The standard method of dating such rocks involves looking at the radioactive decay of uranium atoms to lead.</content>
+        </sentence>
+        <sentence id="27">
+          <content>But if the lead has moved within the crystal over time, this could lead to a faulty estimate of age.</content>
+        </sentence>
+        <sentence id="28">
+          <content>If lead has migrated away from the area of the rock being tested, that could make the rock appear younger than it is, or older if lead has concentrated itself.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="29">
+          <content>In this new study, researchers used a technique called atom-probe tomography, which allows scientists to image single atoms of lead and determine the isotope ratio.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="30">
+          <content>Scientists found that clumps of lead atoms had formed 1 billion years after the zircon crystallized.</content>
+        </sentence>
+        <sentence id="31">
+          <content>These clusters are tiny, about 5 to 10 nanometers in diameter.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="32">
+          <content>All that means that the lead atoms hadn&amp;apost;t moved enough to thwart scientist&amp;apost;s existing methods of determining the crystal&amp;apost;s age, Valley said.</content>
+        </sentence>
+        <sentence id="33">
+          <content>They determined that age to be 4.4 billion years old.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="34">
+          <content>&amp;quot;Although incredibly laborious, their analytical technique can be applied to not only additional terrestrial zircons but also to zircons from meteorites and lunar samples, to perhaps tease out a detailed thermal history of magmatism and impacts,&amp;quot; Samuel Bowring, professor of geology at Massachusetts Institute of Technology, wrote in an accompanying article in Nature Geoscience.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="35">
+          <content>Meanwhile, on Mars.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="36">
+          <content>Earth and Mars formed around the same time in the solar system.</content>
+        </sentence>
+        <sentence id="37">
+          <content>Just as scientists are analyzing the chemical composition of rocks on Earth to learn about our planet&amp;apost;s history, NASA&amp;apost;s Curiosity rover is doing the same on Mars.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="38">
+          <content>But one can only do so much via robot.</content>
+        </sentence>
+        <sentence id="39">
+          <content>NASA is planning a 2020 rover mission that may be able to collect samples for later delivery to Earth.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="40">
+          <content>There, we may find even more extraordinary gems -- red or otherwise.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

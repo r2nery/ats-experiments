@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2690" link="http://edition.cnn.com/2012/01/27/world/asia/japan-zone-resident/index.html" date_published="2012-01-27 08:28:20" category="world" author="Kyung Lah, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Resident defiant in Japan&amp;apost;s exclusion zone</title>
+  <keywords>Japan Fukushima</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="12">Matsumura didn&amp;apost;t want to leave neighborhood&amp;apost;s animals behind to die.</sentence>
+      <sentence id="2" ids_article_sentences="16">Weeks into the evacuation, most of the cows starved to death.</sentence>
+      <sentence id="3" ids_article_sentences="22">Matsumura recalls seeing a cow, perhaps afraid of death, kicking its calf away.</sentence>
+      <sentence id="4" ids_article_sentences="28">Seeing the cow and her calf dead and other scenes like it makes him furious.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-06 22:47:29" annotation_time="42.3925">
+      <sentence id="12" ids_highlights="1">He started to feed them too and decided he couldn&amp;apost;t leave them behind to die.</sentence>
+      <sentence id="16" ids_highlights="2">Weeks into the evacuation, most of the cows starved to death, tied up in pens without any food.</sentence>
+      <sentence id="22" ids_highlights="3">The mother kicked the calf, perhaps afraid of death, if it fed the calf, Matsumura recalled.</sentence>
+      <sentence id="28" ids_highlights="4">Repeatedly seeing scenes like this, Matsumura said, made him furious.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Tomioka, Japan In the shadow of the Fukushima nuclear plant, one man&amp;apost;s quiet defiance echoes through the contaminated, empty streets of Tomioka, Japan.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Tomioka, 10 miles (16 kilometers) away from the disaster, is inside the 12.4 mile (20-kilometer) radius of the government-mandated evacuation zone.</content>
+        </sentence>
+        <sentence id="3">
+          <content>But that hasn&amp;apost;t stopped Naoto Matsumura, 52, a life-long resident and fifth generation farmer, from refusing to heed the mandatory evacuation since the nuclear meltdown.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>&amp;quot;I&amp;apost;m full of rage,&amp;quot; says Matsumura.</content>
+        </sentence>
+        <sentence id="5">
+          <content>&amp;quot;That&amp;apost;s why I&amp;apost;m still here.</content>
+        </sentence>
+        <sentence id="6">
+          <content>I refuse to leave and let go of this anger and grief.</content>
+        </sentence>
+        <sentence id="7">
+          <content>I weep when I see my hometown.</content>
+        </sentence>
+        <sentence id="8">
+          <content>The government and the people in Tokyo don&amp;apost;t know what&amp;apost;s really happening here.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="9">
+          <content>His defiance began with a simple desire to feed the animals on his farm.</content>
+        </sentence>
+        <sentence id="10">
+          <content>The government evacuated 78,000 residents around the exploding plant without a plan to rescue pets and valuable livestock.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="11">
+          <content>As Matsumura began to feed his own animals, the neighborhood&amp;apost;s desperate cats and dogs started showing up.</content>
+        </sentence>
+        <sentence id="12">
+          <content>He started to feed them too and decided he couldn&amp;apost;t leave them behind to die.</content>
+        </sentence>
+        <sentence id="13">
+          <content>When Matsumura ran out of food, he slipped out of the exclusion zone and bought dog and cat food and then snuck back into town.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="14">
+          <content>Weeks turned into months and now nearly a year.</content>
+        </sentence>
+        <sentence id="15">
+          <content>Conditions are growing worse by the day, says Matsumura.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="16">
+          <content>Weeks into the evacuation, most of the cows starved to death, tied up in pens without any food.</content>
+        </sentence>
+        <sentence id="17">
+          <content>Maggots and flies covered their bodies, and a putrid smell came from most of the barns.</content>
+        </sentence>
+        <sentence id="18">
+          <content>But one of the worst scenes Matsumura remembers happened at a neighbor&amp;apost;s farm.</content>
+        </sentence>
+        <sentence id="19">
+          <content>He found a cow and her calf alive.</content>
+        </sentence>
+        <sentence id="20">
+          <content>The cow was so thin from hunger it was just skin and bones, says Matsumura.</content>
+        </sentence>
+        <sentence id="21">
+          <content>The calf was crying, trying to approach its mother for milk.</content>
+        </sentence>
+        <sentence id="22">
+          <content>The mother kicked the calf, perhaps afraid of death, if it fed the calf, Matsumura recalled.</content>
+        </sentence>
+        <sentence id="23">
+          <content>The calf kept trying to approach for milk, but the mother kept kicking it away.</content>
+        </sentence>
+        <sentence id="24">
+          <content>The calf, dazed and hungry, stumbled away.</content>
+        </sentence>
+        <sentence id="25">
+          <content>It crawled into a corner, crying.</content>
+        </sentence>
+        <sentence id="26">
+          <content>The calf was sucking on straw as if it were the mother&amp;apost;s teat, says Matsumura.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="27">
+          <content>He went back the next day and found the cow and her calf dead.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="28">
+          <content>Repeatedly seeing scenes like this, Matsumura said, made him furious.</content>
+        </sentence>
+        <sentence id="29">
+          <content>He began doing interviews with foreign correspondents, saying the Japanese press wasn&amp;apost;t covering the heartbreak in the exclusion zone.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="30">
+          <content>&amp;quot;The government and Tepco are not doing anything at all,&amp;quot; says Matsumura.</content>
+        </sentence>
+        <sentence id="31">
+          <content>&amp;quot;We&amp;apost;re the victims.</content>
+        </sentence>
+        <sentence id="32">
+          <content>The government and Tepco, they&amp;apost;re the perpetrators but they don&amp;apost;t treat us as victims.</content>
+        </sentence>
+        <sentence id="33">
+          <content>They pretend they&amp;apost;re doing something, but they don&amp;apost;t do anything inside the 20 km zone.</content>
+        </sentence>
+        <sentence id="34">
+          <content>I ask the lawmakers to help but they keep saying that&amp;apost;s the 20 km zone.</content>
+        </sentence>
+        <sentence id="35">
+          <content>But something needs to be done now.</content>
+        </sentence>
+        <sentence id="36">
+          <content>They are hopeless.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="37">
+          <content>Matsumura wants the cleanup of the contamination to speed up.</content>
+        </sentence>
+        <sentence id="38">
+          <content>There are a few signs that the work has begun in Tomioka, with contaminated soil sitting under blue tarps in a neighborhood park.</content>
+        </sentence>
+        <sentence id="39">
+          <content>But at this pace, Matsumura said, he&amp;apost;ll never live to see Tomioka&amp;apost;s people return.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="40">
+          <content>Matsumura hopes as the one year anniversary of this nuclear disaster approaches, the international community will remember the risks of nuclear energy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="41">
+          <content>&amp;quot;You see what can happen.</content>
+        </sentence>
+        <sentence id="42">
+          <content>U.S., Russia, Japan -- this is the third nuclear accident, the third time something we created ended up hurting us.</content>
+        </sentence>
+        <sentence id="43">
+          <content>This is the third time, but we haven&amp;apost;t learned our lesson yet.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="44">
+          <content>Matsumura lives without electricity and gets water from a nearby well.</content>
+        </sentence>
+        <sentence id="45">
+          <content>He slips out of the exclusion zone only for food and then returns to feed any animals he can.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="46">
+          <content>He&amp;apost;s been tested for radiation contamination, and results show his body is &amp;quot;completely contaminated,&amp;quot; he says.</content>
+        </sentence>
+        <sentence id="47">
+          <content>But he&amp;apost;ll stay, he pledges, as the sole citizen of Tomioka to keep tabs on the government.</content>
+        </sentence>
+        <sentence id="48">
+          <content>&amp;quot;We have to decontaminate this area or else this town will die.</content>
+        </sentence>
+        <sentence id="49">
+          <content>I will stay to make sure it&amp;apost;s done.</content>
+        </sentence>
+        <sentence id="50">
+          <content>I want to die in my hometown.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

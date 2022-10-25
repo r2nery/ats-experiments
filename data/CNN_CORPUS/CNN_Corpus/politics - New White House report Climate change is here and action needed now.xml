@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1087" link="http://www.cnn.com/2014/05/06/politics/white-house-climate-energy/index.html" date_published="2014-05-06 12:33:12" category="politics" author="Kevin Liptak, Jethro Mullen and Tom Cohen, CNN" highlights_mapped="false" mapping_error="false">
+  <title>New White House report: Climate change is here and action needed now</title>
+  <keywords>White House climate change report,global warming</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="4">NEW: President Obama says climate change happening now.</sentence>
+      <sentence id="2" ids_article_sentences="6">A new government report outlines how climate change already affects the country.</sentence>
+      <sentence id="3" ids_article_sentences="11">Administration officials &amp;quot;fanning out&amp;quot; across the country to publicize the report .</sentence>
+      <sentence id="4" ids_article_sentences="18">Republicans criticize proposed government steps on climate change.</sentence>
+    </highlights>
+    <gold_standard annotation_time="27.697334">
+      <sentence id="4" ids_highlights="1">Those are the take-home messages of a new White House report released Tuesday that is part of President Barack Obama&amp;apost;s second-term effort to prepare the nation for the impacts of a changing climate such as rising sea levels and increasingly erratic weather.</sentence>
+      <sentence id="6" ids_highlights="2">&amp;quot;This is not some distant problem of the future,&amp;quot; Obama told NBC, while John Holdren, who directs the White House Office of Science and Technology Policy, said climate change &amp;quot;already is affecting every region of the country and key sectors of the economy.&amp;quot;</sentence>
+      <sentence id="11" ids_highlights="3">John Podesta, a Democratic operative who now counsels the President, told reporters that Obama will kick off a broad campaign this week to publicize the report, while Cabinet members and other administration officials would be &amp;quot;fanning out&amp;quot; across the country to spread the word about how climate change impacts specific regions.</sentence>
+      <sentence id="18" ids_highlights="4">&amp;quot;Public awareness has been going up and will continue to go up,&amp;quot; Holdren told reporters, predicting increased public support for government action to reduce U.S. carbon emissions and for America to take a leadership role on climate change in the international arena.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Washington Climate change is here and will only worsen.</content>
+        </sentence>
+        <sentence id="2">
+          <content>Get used to more flooding, wildfires and drought, depending on where you live.</content>
+        </sentence>
+        <sentence id="3">
+          <content>Cities and states across America already are spending lots of money to respond.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="4">
+          <content>Those are the take-home messages of a new White House report released Tuesday that is part of President Barack Obama&amp;apost;s second-term effort to prepare the nation for the impacts of a changing climate such as rising sea levels and increasingly erratic weather.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>The National Climate Assessment update said evidence of human-made climate change &amp;quot;continues to strengthen&amp;quot; and that &amp;quot;Americans are noticing changes all around them.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;This is not some distant problem of the future,&amp;quot; Obama told NBC, while John Holdren, who directs the White House Office of Science and Technology Policy, said climate change &amp;quot;already is affecting every region of the country and key sectors of the economy.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>The Obama administration wants the report to ignite awareness of the need for government and communities to respond now to climate change in the face of fierce political opposition, mostly from conservatives.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>Unrelenting political opposition.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>A relentless campaign backed by the fossil fuel industry and its allies challenges whether climate change is real, and if so, whether human activity such as increased carbon emissions from power plants, factories and cars contributes to it.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>In a statement coinciding with the report&amp;apost;s publication, the White House said the findings &amp;quot;underscore the need for urgent action to combat the threats from climate change, protect American citizens and communities today, and build a sustainable future for our kids and grandkids.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>John Podesta, a Democratic operative who now counsels the President, told reporters that Obama will kick off a broad campaign this week to publicize the report, while Cabinet members and other administration officials would be &amp;quot;fanning out&amp;quot; across the country to spread the word about how climate change impacts specific regions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>Republican critics immediately pounced on new report as a political tool for Obama to try to impose a regulatory agenda that would hurt the economy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="13">
+          <content>Senate Republican leader Mitch McConnell of Kentucky mocked what he described as the hypocritical stance of &amp;quot;liberal elites&amp;quot; who demand strong action on climate change while failing to reduce their own carbon footprint.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;Even if we were to enact the kind of national energy regulations the President seems to want so badly, it would be unlikely to meaningfully impact global emissions anyway unless other major industrial nations do the same thing,&amp;quot; McConnell said in arguing against proposals to reduce industrial pollution.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="15">
+          <content>He called the debate &amp;quot;cynical&amp;quot; because Obama knew that &amp;quot;much of the pain of imposing such regulations would be borne by our own middle class.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="16">
+          <content>Changing attitudes?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="17">
+          <content>To Podesta and Holdren, the reality of climate change will win out over opponents of new energy policies to combat it.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;Public awareness has been going up and will continue to go up,&amp;quot; Holdren told reporters, predicting increased public support for government action to reduce U.S. carbon emissions and for America to take a leadership role on climate change in the international arena.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="19">
+          <content>Recent polling indicates most Americans believe human activities cause climate change, but also shows the issue is less important to the public than the economy and other topics.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="20">
+          <content>A Gallup poll in March found that 34% of respondents think climate change, called global warming in the poll, posed a &amp;quot;serious threat&amp;quot; to their way of life, compared to 64% who responded &amp;quot;no.&amp;quot;</content>
+        </sentence>
+        <sentence id="21">
+          <content>At the same time, more than 60% of respondents believed global warming was happening or would happen in their lifetime.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="22">
+          <content>More than 300 experts helped produce the report over several years, updating a previous assessment published in 2009.</content>
+        </sentence>
+        <sentence id="23">
+          <content>Podesta called it &amp;quot;actionable science&amp;quot; for policymakers and the public to use in forging a way forward.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="24">
+          <content>Scientists categorize the response to climate change into two strategies -- minimizing the effects by reducing the cause, which is known as mitigation, and preparing for impacts already occurring or certain to occur, which is called adaptation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="25">
+          <content>The report breaks the country down by region and identifies specific threats should climate change continue.</content>
+        </sentence>
+        <sentence id="26">
+          <content>Major concerns cited by scientists involved in creating the report include rising sea levels along America&amp;apost;s coasts, drought in the Southwest and prolonged fire seasons.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="27">
+          <content>Sea levels rising.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="28">
+          <content>It predicts sea levels will rise at least a foot by the end of the century and perhaps as much as four feet, depending on how much of the Greenland and Antarctic ice shelf melts.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="29">
+          <content>Such an outcome could be catastrophic for millions of people living along the ocean, submerging tropical islands and encroaching on coastal areas.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="30">
+          <content>Low-lying U.S. cities already experience high flooding, with Miami planning to spend hundreds of millions of dollars to address the problem, noted Jerry Melillo of Marine Biological Laboratory, who chaired the advisory committee that produced the new assessment.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="31">
+          <content>The Great Plains could experience heavier droughts and heat waves with increasing frequency, while more wildfires in the West could threaten agriculture and residential communities, the report notes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="32">
+          <content>Obama&amp;apost;s week-long focus on climate change continues Wednesday, when the White House convenes a summit focused on green building tactics.</content>
+        </sentence>
+        <sentence id="33">
+          <content>Later in the week, Obama will announce new solar power initiatives, according to Podesta.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="34">
+          <content>In his first term, the President faced opposition by Republicans and some Democrats from states with major fossil fuel industries such as coal production to significant climate change legislation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="35">
+          <content>He pledged to renew his efforts on the issue in his final four years, including using executive actions that bypass Congress.</content>
+        </sentence>
+        <sentence id="36">
+          <content>Obama has introduced new regulations on vehicle emissions and created &amp;quot;climate hubs&amp;quot; that help businesses prepare for the effects of climate change.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="37">
+          <content>A major upcoming issue is a proposal under consideration by the Obama administration to build the Keystone XL pipeline, which would transport tar sands oil from Canada to the Gulf of Mexico.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="38">
+          <content>Environmental groups say the project would contribute to climate change because tar sands oil is dirtier than conventionally drilled crude, and importing it would maintain the country&amp;apost;s dependence on fossil fuels.</content>
+        </sentence>
+        <sentence id="39">
+          <content>Republicans and some Democrats from oil industry states want the pipeline approved to create jobs and bolster exports from a strategic ally and U.S. neighbor.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="40">
+          <content>The new assessment calls for continued mitigation steps including regulations and programs to reduce carbon emissions, as well as necessary planning and investment to deal with the known impacts.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="41">
+          <content>Melillo cited some adaptation measures already underway, noting a &amp;quot;terrific plan for extreme heat events&amp;quot; by the city of Philadelphia.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="34">
+      <sentences>
+        <sentence id="42">
+          <content>&amp;quot;Things are starting to happen,&amp;quot; Melillo said, adding that the continued efforts over time will &amp;quot;ultimately present a very positive picture&amp;quot; about Americans taking action on climate change.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="499" link="http://www.cnn.com/2013/05/13/justice/pennsylvania-abortion-doctor-trial/index.html" date_published="2013-05-13 14:47:39" category="justice" author="Sarah Hoye and Sunny Hostin, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Doctor found guilty of murder in Philadelphia abortion case</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="10">Defense attorney: &amp;quot;The jury spoke and we respect the jury&amp;apost;s verdict&amp;quot;.</sentence>
+      <sentence id="2" ids_article_sentences="2">Dr. Kermit Gosnell is convicted of three counts of first-degree murder.</sentence>
+      <sentence id="3" ids_article_sentences="12">A jury also finds him guilty of involuntary manslaughter .</sentence>
+      <sentence id="4" ids_article_sentences="2">The first-degree murder conviction means Gosnell could face the death penalty.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-01 16:46:26" annotation_time="39.75033">
+      <sentence id="2" ids_highlights="2, 4">The conviction on three counts of first-degree murder means Dr. Kermit Gosnell, 72, could be sentenced to death.</sentence>
+      <sentence id="10" ids_highlights="1">&amp;quot;But the jury spoke, and we respect the jury&amp;apost;s verdict.&amp;quot;</sentence>
+      <sentence id="12" ids_highlights="3">In that case, the jury found him guilty of involuntary manslaughter.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>A Philadelphia abortion provider who killed babies by cutting their spinal cords with scissors was found guilty of first-degree murder on Monday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The conviction on three counts of first-degree murder means Dr. Kermit Gosnell, 72, could be sentenced to death.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Assistant District Attorney Joanne Pescatore sobbed after the verdict in the high-profile case was announced.</content>
+        </sentence>
+        <sentence id="4">
+          <content>Gosnell appeared shocked.</content>
+        </sentence>
+        <sentence id="5">
+          <content>He let out a sigh and shook his head back and forth.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>Defense attorney Jack McMahon told CNN it&amp;apost;s too soon to tell whether he will appeal the conviction.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;We were disappointed.</content>
+        </sentence>
+        <sentence id="8">
+          <content>We put on a vigorous defense.</content>
+        </sentence>
+        <sentence id="9">
+          <content>We think it went well for us in the courtroom,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="10">
+          <content>&amp;quot;But the jury spoke, and we respect the jury&amp;apost;s verdict.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="11">
+          <content>Gosnell also was accused in the death of Karnamaya Mongar, 41, who died of an anesthetic overdose during a second-trimester abortion at his West Philadelphia clinic.</content>
+        </sentence>
+        <sentence id="12">
+          <content>In that case, the jury found him guilty of involuntary manslaughter.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="13">
+          <content>Gosnell, who is not a board-certified obstetrician or gynecologist, was also found guilty of 21 counts of abortion of the unborn, 24 weeks or older.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="14">
+          <content>In Pennsylvania, abortions past 24 weeks are illegal unless the health of the mother is at stake.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="15">
+          <content>The case next moves to the penalty phase, when jurors will weigh whether to give Gosnell a death sentence.</content>
+        </sentence>
+        <sentence id="16">
+          <content>It&amp;apost;s possible the doctor will testify, said William Brennan, an attorney who represented Gosnell earlier in the case.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;I would think there would be a lot of mitigation in this case and I think probably, and this is a guess, but probably at that time the jury would hear from Dr. Gosnell,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="18">
+          <content>Earlier Monday, the jury, after deliberating for two weeks, said it was hung on two counts, and the judge instructed them to continue trying to reach a verdict on them.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="19">
+          <content>Judge Jeffrey P. Minehart also told jurors that their progress showed they were &amp;quot;considering the evidence seriously.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="20">
+          <content>Gosnell&amp;apost;s co-defendant, Eileen O&amp;apost;Neill, 56, was found guilty of conspiracy to operate a corrupt organization and two counts of theft by deception for operating without a license to practice medicine.</content>
+        </sentence>
+        <sentence id="21">
+          <content>O&amp;apost;Neill, a medical school graduate, was not charged with performing illegal abortions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="22">
+          <content>Both pleaded not guilty.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="23">
+          <content>Eight people involved in Gosnell&amp;apost;s clinic, called the Women&amp;apost;s Medical Society, have pleaded guilty to various charges, including four to murder.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="24">
+          <content>The grand jury report from 2011 says the &amp;quot;people who ran this sham medical practice included no doctors other than Gosnell himself, and not even a single nurse,&amp;quot; yet they still made diagnoses, performed procedures and administered drugs.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="25">
+          <content>McMahon, in an impassioned, 2½-hour closing argument, said that none of the infants was killed; rather, he said, they were already dead as a result of Gosnell administering the drug Digoxin, which can cause abortion.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="26">
+          <content>Gosnell also was accused of reusing unsanitary instruments; performing procedures in filthy rooms, including some in which litter boxes and animals allegedly were present at the time; and allowing unlicensed employees -- including a teenage high school student -- to perform operations and administer anesthesia.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="27">
+          <content>The remains of aborted fetuses were stored in water jugs, pet food containers and a freezer at the clinic, the city&amp;apost;s chief medical examiner Sam Gulino testified.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="28">
+          <content>Former employee Kareema Cross said Gosnell regularly performed illegal late-term abortions that he routinely recorded as &amp;quot;24.5 weeks.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="29">
+          <content>McMahon, who called no witnesses, accused prosecutors of &amp;quot;the most extraordinary hype and exaggeration in the history of the criminal justice system,&amp;quot; even adding that they are &amp;quot;elitist&amp;quot; and &amp;quot;racist.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="30">
+          <content>Gosnell has been accused by authorities of preying on low-income, minority women.</content>
+        </sentence>
+        <sentence id="31">
+          <content>McMahon argued that Gosnell offered access to health care for people who were poor and without health insurance.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="32">
+          <content>During his closing remarks, Philadelphia Assistant District Attorney Edward Cameron turned to Gosnell and yelled, &amp;quot;Are you human?&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="33">
+          <content>Gosnell smirked at Cameron without speaking.</content>
+        </sentence>
+        <sentence id="34">
+          <content>Cameron then continued, declaring, &amp;quot;It&amp;apost;s time for us to extinguish the fire he created.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="35">
+          <content>The doctor was first charged in January 2011.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="36">
+          <content>The case has drawn national attention and sharp criticism from anti-abortion activists.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="37">
+          <content>But that doesn&amp;apost;t mean it sets a precedent, CNN legal analyst Paul Callan said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="38">
+          <content>&amp;quot;The testimony in this case was so graphic and so horrific.</content>
+        </sentence>
+        <sentence id="39">
+          <content>It was described literally as a house of horrors taking place in this Philadelphia clinic,&amp;quot; Callan said.</content>
+        </sentence>
+        <sentence id="40">
+          <content>&amp;quot;So I think that most objective observers will say that ultimately this will be an isolated case, hopefully, and that it&amp;apost;s simply a case where prosecutors had to act.</content>
+        </sentence>
+        <sentence id="41">
+          <content>It had nothing to do with being pro- or anti-abortion.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="42">
+          <content>After Monday&amp;apost;s verdict, the leader of one anti-abortion group said justice had been served.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="43">
+          <content>&amp;quot;Even as we celebrate this verdict, we honor and mourn as well those among our nation&amp;apost;s weakest children who did not receive &amp;apost;their day in court&amp;apost; -- and we must remember that Gosnell is not an outlier within the abortion industry,&amp;quot; Lila Rose, president of Live Action, said in a written statement.</content>
+        </sentence>
+        <sentence id="44">
+          <content>&amp;quot;We cannot allow these &amp;apost;guilty&amp;apost; verdicts, welcome as they are, to make us complacent when it comes to the continuing abuses happening even now in abortion facilities throughout our nation.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="45">
+          <content>More restrictions on abortions will lead to more cases like the Women&amp;apost;s Medical Society, not fewer, abortion rights advocates argue.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="46">
+          <content>&amp;quot;We thought we had said goodbye to back-alley abortionists,&amp;quot; said Jessica Arons, head of the Women&amp;apost;s Health and Rights Program at the Center for American Progress.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="47">
+          <content>&amp;quot;Legal access to abortion helps counteract &amp;quot;predators&amp;quot; who &amp;quot;prey on vulnerable women,&amp;quot; Arons said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="34">
+      <sentences>
+        <sentence id="48">
+          <content>&amp;quot;It&amp;apost;s not that we need more laws or stricter laws,&amp;quot; she said.</content>
+        </sentence>
+        <sentence id="49">
+          <content>&amp;quot;Pennsylvania just didn&amp;apost;t do its job in enforcing the laws against him earlier.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

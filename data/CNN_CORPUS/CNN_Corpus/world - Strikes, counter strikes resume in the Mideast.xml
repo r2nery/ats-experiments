@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2771" link="http://edition.cnn.com/2014/08/20/world/meast/mideast-crisis/index.html?hpt=hp_t3" date_published="2014-08-20 06:39:32" category="world" author="Saeed Ahmed, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Strikes, counter strikes resume in the Mideast</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="7">NEW: Gaza Health Ministry: 19 people have been killed in renewed Israeli strikes.</sentence>
+      <sentence id="2" ids_article_sentences="8">Hamas: Airstrike targets head of its armed wing, the Qassam Brigades.</sentence>
+      <sentence id="3" ids_article_sentences="16">Each side blames the other for the breakdown of the truce.</sentence>
+      <sentence id="4" ids_article_sentences="22">Peace talks in Cairo tried to achieve difficult goals.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-14 19:45:48" annotation_time="32.6145">
+      <sentence id="7" ids_highlights="1">The attacks have killed 19 people and injured more than 130, the Gaza Health Ministry said Wednesday.</sentence>
+      <sentence id="8" ids_highlights="2">Hamas said one such strike targeted Mohammed Deif, the head of its armed wing, the Qassam Brigades.</sentence>
+      <sentence id="16" ids_highlights="3">Israel blamed Gaza militants for breaking the truce.</sentence>
+      <sentence id="22" ids_highlights="4">The talks were bound to be difficult because of what they tried to achieve.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Strikes and counter strikes between Israel and Hamas resumed as talks aimed at agreeing to a longer-term truce fell apart.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Since midnight, when the truce that crumbled Tuesday was due to end, 87 rockets were fired on Israel from Gaza.</content>
+        </sentence>
+        <sentence id="3">
+          <content>The Israeli military said 59 exploded and 12 were intercepted.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Sirens warning of rocket fire repeatedly wailed above Israeli communities Wednesday.</content>
+        </sentence>
+        <sentence id="5">
+          <content>One rocket struck a home in the Ashkelon area but no injuries were reported.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>Israel has retaliated with airstrikes on Gaza, attacking some 80 suspected militant sites.</content>
+        </sentence>
+        <sentence id="7">
+          <content>The attacks have killed 19 people and injured more than 130, the Gaza Health Ministry said Wednesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>Hamas said one such strike targeted Mohammed Deif, the head of its armed wing, the Qassam Brigades.</content>
+        </sentence>
+        <sentence id="9">
+          <content>But it killed Deif&amp;apost;s wife and 7-month-old-son instead, the Gaza Health Ministry said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>The Israeli military said it was looking into the claim.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>Sami Abu Zuhri, a senior spokesman for Hamas, posted on Twitter that Israel would &amp;quot;pay a heavy price&amp;quot; for its &amp;quot;crimes against Palestinian civilians.&amp;quot;</content>
+        </sentence>
+        <sentence id="12">
+          <content>He said the conflict around Gaza would not end unless Deif decided it should and unless Israel committed to halting violence and lifting its siege of the territory.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>The blame game.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>As has been the case throughout the conflict, each side blamed the other.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>Palestinian negotiators placed the blame for the lack of progress in peace talks on the Israelis.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Israel blamed Gaza militants for breaking the truce.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="17">
+          <content>But it was unclear exactly what happened.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="18">
+          <content>In one interpretation, the Israelis left Cairo, the venue for the talks, after they gave up on negotiations.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="19">
+          <content>In another interpretation, the Israelis took the newest proposal home with them to share with their government.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="20">
+          <content>&amp;quot;The chances of an agreement are very slim, and the situation is very difficult,&amp;quot; said a Palestinian leader, Izzat Risheq.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="21">
+          <content>Difficult bargain.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="22">
+          <content>The talks were bound to be difficult because of what they tried to achieve.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="23">
+          <content>Israel wanted Gaza to be demilitarized, demanding that Hamas, which controls the territory, and other militant groups lay down their arms.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="24">
+          <content>Risheq said Monday that the group&amp;apost;s weapons were &amp;quot;for self-defense&amp;quot; against Israel.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="25">
+          <content>&amp;quot;But when we have our own Palestinian state with its own national army to protect its citizens, there will be no need for any party to carry any kind of weapons,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="26">
+          <content>Palestinians wanted Israel&amp;apost;s blockade to end, saying it is throttling the economy of the small, impoverished strip of land and the lives of its inhabitants.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="27">
+          <content>Among their demands are the rebuilding and reopening of Gaza&amp;apost;s airport and the establishment of a seaport.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="28">
+          <content>But Israeli authorities -- who retain control of Gaza&amp;apost;s airspace, Mediterranean waters and their shared border -- say releasing their grip on what goes into and out of the territory isn&amp;apost;t feasible while Hamas and other groups are still building up their arsenals of weapons.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="29">
+          <content>The latest conflict, which began in early July, has killed more than 2,000 Palestinians, leaving entire Gaza neighborhoods in rubble.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="30">
+          <content>The violence has killed 67 people on the Israeli side, with militants in Gaza firing roughly 3,500 rockets toward Israel.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

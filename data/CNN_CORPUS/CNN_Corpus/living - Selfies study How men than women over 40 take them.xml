@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="732" link="http://www.cnn.com/2014/02/26/living/parents-selfies-women-over-40-study/index.html" date_published="2014-02-27 01:24:11" category="living" author="Kelly Wallace, CNN " highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Selfies study: How men than women over 40 take them</title>
+  <keywords>selfie,aging,self-image,midlife crisis</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="13">More women than men, on average, take selfies, according to a new research project.</sentence>
+      <sentence id="2" ids_article_sentences="13">But after age 40, more men than women take and post selfies .</sentence>
+      <sentence id="3" ids_article_sentences="21">Women over 40 may not take selfies because of insecurities about how they look .</sentence>
+      <sentence id="4" ids_article_sentences="27">Another theory: Men over 40 are looking for more external reassurance than women .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-05 15:50:24" annotation_time="148.73167" mapping_time_divergence="37.18292">
+      <sentence id="13" ids_highlights="1, 2">While they found that women, on average, take more selfies than men, the situation reverses itself after age 40.</sentence>
+      <sentence id="21" ids_highlights="3">&amp;quot;Women over 40 are probably more insecure about how they look (over 40) than men are,&amp;quot; said Jenny Dean Schmidt, host of &amp;quot;The Channelmom Show&amp;quot; in Denver, on Facebook.</sentence>
+      <sentence id="27" ids_highlights="4">She believes selfies might be more about getting external reassurance, and that men over 40 might need it more than women.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>When it comes to aging, I know I am lucky, at least so far, because usually when I tell people how old I am (47!).</content>
+        </sentence>
+        <sentence id="2">
+          <content>, they&amp;apost;re surprised.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>On the one hand they&amp;apost;re saying they don&amp;apost;t think I look my age, which could be considered a compliment.</content>
+        </sentence>
+        <sentence id="4">
+          <content>But on the other hand, they are clearly thinking, &amp;quot;Wow, I didn&amp;apost;t realize she&amp;apost;s so old.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>&amp;quot;Hey, 47 isn&amp;apost;t ancient!&amp;quot;</content>
+        </sentence>
+        <sentence id="6">
+          <content>I want to say, but never do.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>But who am I to criticize?</content>
+        </sentence>
+        <sentence id="8">
+          <content>I had the same preconceptions around age when I was younger.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="9">
+          <content>Will our attitudes about aging -- especially the differences in how aging men and women are viewed -- ever change?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>A new research project about, of all things, the &amp;quot;selfie,&amp;quot; shows we women may have a long way to go.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>The project called Selfiecity, backed by the City University of New York, California Institute of Telecommunication and Information, and the Andrew W. Mellon Foundation, is exploring the impact of the selfie on our society.</content>
+        </sentence>
+        <sentence id="12">
+          <content>Researchers looked at selfies shared on Instagram in five major international cities, Bangkok, Berlin, Moscow, New York and Sao Paulo, over six months.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>While they found that women, on average, take more selfies than men, the situation reverses itself after age 40.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>Men are more likely than women after hitting the big 4-0 to take and post selfies on Instagram than women.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>Ladies, why is this so?</content>
+        </sentence>
+        <sentence id="16">
+          <content>I am only half-seriously asking the question because I think I know the answer.</content>
+        </sentence>
+        <sentence id="17">
+          <content>It&amp;apost;s the reason I don&amp;apost;t love taking selfies myself.</content>
+        </sentence>
+        <sentence id="18">
+          <content>Who wants to see my laugh lines -- that&amp;apost;s what I call them!</content>
+        </sentence>
+        <sentence id="19">
+          <content>-- up close and personal, or the big bags under my eyes?</content>
+        </sentence>
+        <sentence id="20">
+          <content>I know I&amp;apost;m aging and I&amp;apost;m generally OK with it, but why do I need a reminder of it on my iPhone?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="21">
+          <content>&amp;quot;Women over 40 are probably more insecure about how they look (over 40) than men are,&amp;quot; said Jenny Dean Schmidt, host of &amp;quot;The Channelmom Show&amp;quot; in Denver, on Facebook.</content>
+        </sentence>
+        <sentence id="22">
+          <content>&amp;quot;I&amp;apost;m over 40, so I know.</content>
+        </sentence>
+        <sentence id="23">
+          <content>I&amp;apost;d probably be snapping away if I was 22.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="24">
+          <content>&amp;quot;Obviously guys are looking better over 40.</content>
+        </sentence>
+        <sentence id="25">
+          <content>Or at least that&amp;apost;s what they think,&amp;quot; said Lela Davidson, award-winning author of &amp;quot;Blacklisted from the PTA&amp;quot; and &amp;quot;Who Peed on My Yoga Mat?&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="26">
+          <content>But Amanda Rodriguez, who hasn&amp;apost;t reached the 40 milestone just yet, had another take.</content>
+        </sentence>
+        <sentence id="27">
+          <content>She believes selfies might be more about getting external reassurance, and that men over 40 might need it more than women.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="28">
+          <content>Selfies &amp;quot;are something people do to garner attention of others, so people who desire or require that maybe post them more?&amp;quot;</content>
+        </sentence>
+        <sentence id="29">
+          <content>suggested Rogriguez, host of the blog Dude Mom.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="30">
+          <content>&amp;quot;Maybe guys over 40 are having a mid life crisis and use the selfie to see if women are still interested in them?&amp;quot;</content>
+        </sentence>
+        <sentence id="31">
+          <content>said Kelly Glover of the plus size blog Big Curvy Love.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="32">
+          <content>&amp;quot;As for women dropping back in the selfie stakes after 40, maybe they&amp;apost;ve just grown out of it and the men haven&amp;apost;t,&amp;quot; said Glover.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="33">
+          <content>I have to admit I never thought about it that way.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="34">
+          <content>I&amp;apost;m still thinking one of the bigger reasons more men than women take selfies is because women are less welcoming of the aging process.</content>
+        </sentence>
+        <sentence id="35">
+          <content>Just consider the impact it could have on all of us if we aging women made ourselves much more visible in this world -- and yes, took more selfies.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="36">
+          <content>NBC&amp;apost;s &amp;quot;Today&amp;quot; show gathered a group of women in their 40s and above this week as part of a series called &amp;quot;Love Your Selfie.&amp;quot;</content>
+        </sentence>
+        <sentence id="37">
+          <content>The women talked about the body parts they despised, how they feel invisible in this world and how they don&amp;apost;t love the way they look in selfies.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="38">
+          <content>But then, as part of the shoot, they took selfies and unbeknownst to them, &amp;quot;Today&amp;quot; showcased their selfies on a large billboard in midtown Manhattan directly across from where the interview was taking place.</content>
+        </sentence>
+        <sentence id="39">
+          <content>Their reactions were priceless.</content>
+        </sentence>
+        <sentence id="40">
+          <content>They were first freaked, but then they laughed and cheered each other on.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="41">
+          <content>They looked beautiful.</content>
+        </sentence>
+        <sentence id="42">
+          <content>Each and every one of them.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="43">
+          <content>Diane Smith, an Emmy Award winning television journalist, radio talk show host, author and speaker, told me via e-mail that after age 50 and a career on television, she rarely takes selfies.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="44">
+          <content>&amp;quot;I need good lighting, hair and makeup to see myself the way I imagine myself,&amp;quot; said Smith, who co-authored the New York Times bestseller &amp;quot;Obsessed-America&amp;apost;s Food Addiction and My Own&amp;quot; with Mika Brzezinski of MSNBC.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="45">
+          <content>Asked what it will take for women in their 40s, 50s and beyond to love the way they look, she said that&amp;apost;ll happen when society &amp;quot;stops holding up women in their 20s and 30s as the only ones with sex appeal, and beauty.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="46">
+          <content>&amp;quot;I think we need to accept that women are beautiful at all ages, and that the wrinkles, laugh lines etc. that are on my face are telling the story of a life well lived ... not a life with no value left.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="47">
+          <content>I couldn&amp;apost;t agree more.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="48">
+          <content>So how about us 40 and above women start a movement of sorts?</content>
+        </sentence>
+        <sentence id="49">
+          <content>Let&amp;apost;s take more selfies than our male contemporaries and post them, embracing the laugh lines, bags and age spots, knowing we really do get more beautiful with age.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="50">
+          <content>Will differences in how aging men and women are viewed in society ever change?</content>
+        </sentence>
+        <sentence id="51">
+          <content>Chime in below in comments or tell Kelly Wallace on Twitter and CNN Living on Facebook.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

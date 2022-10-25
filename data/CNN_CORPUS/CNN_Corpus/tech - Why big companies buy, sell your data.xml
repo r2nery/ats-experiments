@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1675" link="http://www.cnn.com/2012/08/23/tech/web/big-data-acxiom/index.html" date_published="2012-08-23 19:52:46" category="tech" author="Jason Morris and Ed Lavandera, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Why big companies buy, sell your data</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="8">Data is now a $300 billion-a-year industry and employs 3 million people in the U.S.</sentence>
+      <sentence id="2" ids_article_sentences="9">Acxiom Chief Executive Officer Scott Howe agreed to speak with CNN .</sentence>
+      <sentence id="3" ids_article_sentences="20">Howe believes detailed marketing information helps breathe success into business.</sentence>
+      <sentence id="4" ids_article_sentences="23">Critics of data-brokering companies say they pose privacy risks.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-01 13:08:49" annotation_time="23.712667">
+      <sentence id="8" ids_highlights="1">Data is now a $300 billion-a-year industry and employs 3 million people in the United States alone, according to the McKinsey Global Institute.</sentence>
+      <sentence id="9" ids_highlights="2">Acxiom Chief Executive Officer Scott Howe agreed to speak with CNN in his first television interview since taking the top job at the company a year ago.</sentence>
+      <sentence id="20" ids_highlights="3">He said this detailed marketing information is critical in breathing success into business.</sentence>
+      <sentence id="23" ids_highlights="4">Critics of data-brokering companies say that the average consumer has no idea that their intimate personal details are up for sale on these sites.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Little Rock, Arkansas They know your name, your phone number, where you live, your buying habits and, in many cases, what you are interested in buying -- sometimes even before you do.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Meet Acxiom, sometimes described as &amp;quot;the biggest company you&amp;apost;ve never heard of.&amp;quot;</content>
+        </sentence>
+        <sentence id="3">
+          <content>But they&amp;apost;ve heard a lot about you.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Acxiom is one of the largest data-brokering firms in the world.</content>
+        </sentence>
+        <sentence id="5">
+          <content>It is just one of hundreds of companies who are peering into your personal life, collecting data that is generated from everything you do online, and much of what you do in the real world.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>The company recorded $1.1 billion in sales last year offering &amp;quot;analytical services&amp;quot; on 144 million households.</content>
+        </sentence>
+        <sentence id="7">
+          <content>And that&amp;apost;s just a fraction of the evolving -- some say loosely regulated -- big-data industry.</content>
+        </sentence>
+        <sentence id="8">
+          <content>Data is now a $300 billion-a-year industry and employs 3 million people in the United States alone, according to the McKinsey Global Institute.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="9">
+          <content>Acxiom Chief Executive Officer Scott Howe agreed to speak with CNN in his first television interview since taking the top job at the company a year ago.</content>
+        </sentence>
+        <sentence id="10">
+          <content>The former Microsoft executive wants to &amp;quot;demystify&amp;quot; what companies like Acxiom do and how they collect information.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;Companies like Acxiom are trying to get intelligent about what you might be interested in and who you are.</content>
+        </sentence>
+        <sentence id="12">
+          <content>Such that we can deliver more relevant advertising to you, and we can deliver offers and products and services in which you might have interest,&amp;quot; Howe told CNN.</content>
+        </sentence>
+        <sentence id="13">
+          <content>&amp;quot;All the information we collect and utilize is secure, appropriate, and legal.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="14">
+          <content>Howe said Acxiom&amp;apost;s clients range from small businesses to large Fortune 500 companies.</content>
+        </sentence>
+        <sentence id="15">
+          <content>He envisions &amp;quot;Big Data&amp;quot; companies helping consumers by helping to eliminate the spam that clogs our inboxes and the ads that clutter websites.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;I don&amp;apost;t think there is a person in the world who wouldn&amp;apost;t agree that data generates tremendous value for both people and for businesses,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="17">
+          <content>Howe said he believes his company&amp;apost;s marketing platform has a dramatic impact on the economy, both for consumers and for businesses.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;I get access to free content, relevant offers.</content>
+        </sentence>
+        <sentence id="19">
+          <content>Advertising is more like education, all useful and relevant,&amp;quot; Howe said.</content>
+        </sentence>
+        <sentence id="20">
+          <content>He said this detailed marketing information is critical in breathing success into business.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="21">
+          <content>&amp;quot;We collect things like contact information, demographics and your preferences on things.</content>
+        </sentence>
+        <sentence id="22">
+          <content>And we&amp;apost;ll aggregate that information to try to discern a picture of what people want,&amp;quot; Howe explains.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="23">
+          <content>Critics of data-brokering companies say that the average consumer has no idea that their intimate personal details are up for sale on these sites.</content>
+        </sentence>
+        <sentence id="24">
+          <content>They argue that having this information one click away could be a privacy risk.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="25">
+          <content>&amp;quot;The other side of the coin is that important decisions are being made about you, the real you, based on the virtual &amp;apost;you&amp;apost; that&amp;apost;s made up of all this data,&amp;quot; said Sarah Downey, a privacy analyst with Abine.com, an online-privacy company based in Boston.</content>
+        </sentence>
+        <sentence id="26">
+          <content>&amp;quot;Decisions like your credit score, your insurance rates, or even if you get a job.</content>
+        </sentence>
+        <sentence id="27">
+          <content>And these things are serious, they have serious import in people&amp;apost;s lives and sometimes they are wrong.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="28">
+          <content>There are hundreds of companies specializing in collecting marketing data and creating profiles of millions of consumers across the country.</content>
+        </sentence>
+        <sentence id="29">
+          <content>But unlike the national Do Not Call List, which gives consumers a one-stop location to have their telephone numbers removed from telemarketing databases, data marketing does not have a universal opt-out system.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="30">
+          <content>Abine.com created a subscription service called &amp;quot;Delete Me&amp;quot; that removes people&amp;apost;s information from the web.</content>
+        </sentence>
+        <sentence id="31">
+          <content>For $99 per year, they will coordinate to remove all of your information from data-broker sites.</content>
+        </sentence>
+        <sentence id="32">
+          <content>It&amp;apost;s a tremendous amount of work because each data broker site has a different procedure to remove personal information: phone calls, e-mails, faxes, and/or certified letters.</content>
+        </sentence>
+        <sentence id="33">
+          <content>And many times these companies require users to submit more personal information just to opt out.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="34">
+          <content>Don Jackson, a security researcher for Dell SecureWorks, warns that data mining could open the door to hacking, identity theft and stalking.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="35">
+          <content>&amp;quot;I don&amp;apost;t think anybody is being intentionally malicious, but from a security standpoint you want to know how the data is being used, Jackson said.</content>
+        </sentence>
+        <sentence id="36">
+          <content>&amp;quot;That information becomes powerful at that point, and it can be misused.</content>
+        </sentence>
+        <sentence id="37">
+          <content>We have seen cases where just basic information, just very few pieces from social networks, can lead predators to potential victims, for example.</content>
+        </sentence>
+        <sentence id="38">
+          <content>That&amp;apost;s a common scenario, actually.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="39">
+          <content>Currently, there is no comprehensive federal regulation for data brokers.</content>
+        </sentence>
+        <sentence id="40">
+          <content>Last March, the Federal Trade Commission issued a report on protecting consumer privacy in which they recommended that Congress consider legislation overseeing online privacy, data security and breach notification, and data brokers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="41">
+          <content>President Barack Obama has said updates to U.S. laws are urgently needed to keep pace with the many threats that Americans face in cyberspace.</content>
+        </sentence>
+        <sentence id="42">
+          <content>But the Senate&amp;apost;s most recent cybersecurity legislation stalled this summer on a procedural vote.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="43">
+          <content>Howe says Acxiom supports effective regulation, and that his was the first data-brokering company to employ a chief privacy officer.</content>
+        </sentence>
+        <sentence id="44">
+          <content>But &amp;quot;if regulation has unintended consequences, it can be really damaging to our economy,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="45">
+          <content>Clearly, the collection of big data is raising big questions.</content>
+        </sentence>
+        <sentence id="46">
+          <content>And even though Acxiom knows a lot about you, Howe isn&amp;apost;t convinced you need to know a lot about them.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="47">
+          <content>&amp;quot;Do people need to know who Acxiom is?</content>
+        </sentence>
+        <sentence id="48">
+          <content>I don&amp;apost;t know.</content>
+        </sentence>
+        <sentence id="49">
+          <content>I withdrew money from the ATM this morning and I didn&amp;apost;t know who made the ATM.</content>
+        </sentence>
+        <sentence id="50">
+          <content>But that didn&amp;apost;t mean that I didn&amp;apost;t trust I wasn&amp;apost;t going to get my money,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="51">
+          <content>&amp;quot;I think people are far more concerned with, &amp;apost;does this generate value for them?&amp;apost;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="52">
+          <content>&amp;quot;Is the world a better place due to data?</content>
+        </sentence>
+        <sentence id="53">
+          <content>I can&amp;apost;t see there being any debate about the fact that data is good.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

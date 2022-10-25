@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="224" link="http://www.cnn.com/2013/08/26/health/raise-smoking-age-proposal" date_published="2013-08-26 18:50:04" category="health" author="Leslie Wade, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Doctors support raising the smoking age</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">New York proposal would raise the legal age to buy any form of tobacco from 18 to 21.</sentence>
+      <sentence id="2" ids_article_sentences="4">Approximately 90% of smokers have already started smoking by age 18.</sentence>
+      <sentence id="3" ids_article_sentences="10">Co-author of a commentary argues teens need help to avoid picking up the habit.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-02 20:01:38" annotation_time="16.391666">
+      <sentence id="2" ids_highlights="1">The proposal would raise the legal age to buy any form of tobacco from 18 to 21.</sentence>
+      <sentence id="4" ids_highlights="2">Approximately 90% of smokers have already started smoking by age 18, according to the Surgeon General.</sentence>
+      <sentence id="10" ids_highlights="3">But Steinberg argues teens need help to avoid picking up the habit.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Teenagers looking to buy cigarettes in New York may have to look elsewhere if a city council proposal is approved and signed by Mayor Michael Bloomberg.</content>
+        </sentence>
+        <sentence id="2">
+          <content>The proposal would raise the legal age to buy any form of tobacco from 18 to 21.</content>
+        </sentence>
+        <sentence id="3">
+          <content>But will it be effective in limiting smoking among young people?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="4">
+          <content>Approximately 90% of smokers have already started smoking by age 18, according to the Surgeon General.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>&amp;quot;Of every three young smokers, only one will quit, and one of the remaining smokers will die from tobacco-related causes,&amp;quot; according to the Surgeon General&amp;apost;s 2012 report, &amp;quot;Preventing Tobacco Use Among Youth and Young Adults.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>The key is to &amp;quot;try to reduce the number of young people who ever try a cigarette,&amp;quot; said Dr. Michael Steinberg, director of the Tobacco Dependence Program at Rutgers University in New Brunswick, New Jersey.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>Steinberg is the co-author of a commentary published Monday in the Annals of Internal Medicine that looks at the pros and cons of the New York proposal.</content>
+        </sentence>
+        <sentence id="8">
+          <content>Critics say small businesses will suffer, and the city will lose tax revenue.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Others say the proposed law will be hard to enforce and will impinge upon individual rights.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>But Steinberg argues teens need help to avoid picking up the habit.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;I think a 21-year-old is much more likely, based on their maturity and life experiences, to be able to make an informed rational decision about a behavior that might affect the rest of their life than, say, an 18-year-old,&amp;quot; Steinberg said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>He said that an 18-year-old is not necessarily thinking about the risks associated with smoking.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>&amp;quot;Cigarettes and tobacco contain some of the most addictive chemicals in our society,&amp;quot; said Steinberg.</content>
+        </sentence>
+        <sentence id="14">
+          <content>&amp;quot;Smoking a cigarette delivers more nicotine more efficiently to your brain than if you were to inject nicotine intravenously.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>The New York proposal was introduced in April by Dr. Thomas A. Farley, the city&amp;apost;s health commissioner, and Christine C. Quinn, City Council speaker and a mayoral candidate.</content>
+        </sentence>
+        <sentence id="16">
+          <content>A vote on the proposal is expected to take place this fall, according to a spokesperson from the City Council&amp;apost;s office.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="17">
+          <content>Federal law prohibits the sale of tobacco to people under the age of 18.</content>
+        </sentence>
+        <sentence id="18">
+          <content>Alaska, Alabama, Utah and New Jersey require people to be 19.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="19">
+          <content>Officials in New York estimate that raising the purchasing age to 21 will cut tobacco use by 55% among 18- to 20-year-olds and lead to a 67% drop among teens aged 14 to 17 years.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="20">
+          <content>Steinberg knows that limiting access to tobacco is not the only strategy for reducing youth smoking, but it&amp;apost;s a start.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="21">
+          <content>&amp;quot;It&amp;apost;s not going to fix the problem in and of itself,&amp;quot; said Steinberg.</content>
+        </sentence>
+        <sentence id="22">
+          <content>&amp;quot;You also need educational programs.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="23">
+          <content>The U.S. Preventive Services Task Force, a panel of health care experts, now recommends that primary care physicians offer patients interventions, education and counseling to prevent tobacco use among children and adolescents.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="24">
+          <content>Their reasoning?</content>
+        </sentence>
+        <sentence id="25">
+          <content>If teens never light up, they may never get hooked.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

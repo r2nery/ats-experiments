@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2732" link="http://edition.cnn.com/2014/09/18/world/europe/scotland-independence-vote/index.html?iid=article_sidebar" date_published="2014-09-18 04:10:51" category="world" author="Laura Smith-Spark and Nic Robertson, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Scotland votes in independence referendum</title>
+  <keywords>Scottish independence vote,Scotland independence</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="11">First Minister Alex Salmond casts his vote, as does former PM Gordon Brown.</sentence>
+      <sentence id="2" ids_article_sentences="1">Scotland is holding a referendum on independence from the United Kingdom.</sentence>
+      <sentence id="3" ids_article_sentences="2">Voters face the question: Should Scotland be an independent country?.</sentence>
+      <sentence id="4" ids_article_sentences="3">Turnout is expected to be high, with a record number of people registered to vote.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-01 13:01:40" annotation_time="74.231">
+      <sentence id="1" ids_highlights="2">[Breaking news alert, 6:23 a.m. GMT (01:23 a.m. ET)].</sentence>
+      <sentence id="2" ids_highlights="3">There, they will face a straightforward yes/no question: Should Scotland be an independent country?</sentence>
+      <sentence id="3" ids_highlights="4">More than 4.2 million people have registered to vote, the largest electorate ever in Scotland, and turnout in the referendum is expected to be high.</sentence>
+      <sentence id="11" ids_highlights="1">Scotland&amp;apost;s First Minister Alex Salmond, who has led the pro-independence &amp;quot;Yes Scotland&amp;quot; campaign, cast his ballot Friday morning in the village of Strichen, Aberdeenshire.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>[Breaking news alert, 6:23 a.m. GMT (01:23 a.m. ET)].</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>There, they will face a straightforward yes/no question: Should Scotland be an independent country?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>More than 4.2 million people have registered to vote, the largest electorate ever in Scotland, and turnout in the referendum is expected to be high.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>A vote for independence would mean Scotland, with its population of about 5.3 million, splits from the rest of the United Kingdom, made up of England, Wales and Northern Ireland.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>Voting can take place from 7 a.m. until 10 p.m. local time (2 a.m. to 5 p.m. ET) at more than 5,500 polling stations across 32 districts nationwide, from the remote highlands and islands to the big cities of Edinburgh and Glasgow.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>Voting was brisk at one polling station in Glasgow as the polls opened, with many people voting on the way to work or before taking their children to school.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>Results from the different areas will come in overnight into Friday morning local time, with Chief Counting Officer Mary Pitcaithly expected to announce the outcome &amp;quot;around breakfast time.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="8">
+          <content>Bad weather or the sheer volume of votes cast could slow down the counting process.</content>
+        </sentence>
+        <sentence id="9">
+          <content>However, the weather forecast appears good so far -- important when some ballot boxes must be collected by helicopter, plane or boat from polling stations on distant islands.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="10">
+          <content>A simple majority is needed for either side to claim victory.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="11">
+          <content>Scotland&amp;apost;s First Minister Alex Salmond, who has led the pro-independence &amp;quot;Yes Scotland&amp;quot; campaign, cast his ballot Friday morning in the village of Strichen, Aberdeenshire.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="12">
+          <content>Labour lawmaker Alistair Darling, who has headed the pro-union &amp;quot;Better Together&amp;quot; campaign -- backed by the main parties in Westminster -- voted in Edinburgh, while former Prime Minister Gordon Brown, another pro-union campaigner, voted in the town of Kirkcaldy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="13">
+          <content>For the first time, the vote has been extended to 16- and 17-year-olds living in Scotland.</content>
+        </sentence>
+        <sentence id="14">
+          <content>Nearly 110,000 people younger than 18 have registered to vote.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="15">
+          <content>Voters in the referendum do not have to be British citizens; Commonwealth, Irish and EU citizens who live in Scotland and are registered to vote there can cast a ballot.</content>
+        </sentence>
+        <sentence id="16">
+          <content>However, Scots living outside Scotland do not have a say.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="17">
+          <content>Nearly 790,000 people applied for a postal vote -- the largest volume of registration for postal votes ever in Scotland.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="18">
+          <content>CNN, like other broadcasters, is following rules that restrict reporting on details of campaigning until after the polls close.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

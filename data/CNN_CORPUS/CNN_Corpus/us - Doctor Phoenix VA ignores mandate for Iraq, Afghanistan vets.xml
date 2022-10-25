@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1901" link="http://www.cnn.com/2014/05/21/us/va-phoenix-whistle-blower/index.html" date_published="2014-05-22 00:17:00" category="us" author="Scott Bronstein, Drew Griffin and Chelsea J. Carter, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Doctor: Phoenix VA ignores mandate for Iraq, Afghanistan vets</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="4">Dr. Katherine Mitchell says injured war veterans can wait up to 10 months to be seen.</sentence>
+      <sentence id="2" ids_article_sentences="6">&amp;quot;We&amp;apost;re talking about people that were injured by being blown up by IEDs,&amp;quot; she says.</sentence>
+      <sentence id="3" ids_article_sentences="10">Mitchell says she reported alleged practice to the VA&amp;apost;s Office of Inspector General.</sentence>
+      <sentence id="4" ids_article_sentences="11">The VA did not directly comment, referring CNN to Eric Shinseki&amp;apost;s Senate testimony.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-01 14:55:56" annotation_time="24.125334" mapping_time_divergence="6.0313334">
+      <sentence id="4" ids_highlights="1">Wait lists in Phoenix for veterans injured in combat in Iraq and Afghanistan can be &amp;quot;six months, nine months or longer,&amp;quot; Mitchell said.</sentence>
+      <sentence id="6" ids_highlights="2">&amp;quot;We&amp;apost;re talking about people that were injured by being blown up by IEDs.</sentence>
+      <sentence id="10" ids_highlights="3">The doctor said she reported the alleged practice to the VA&amp;apost;s Office of the Inspector General.</sentence>
+      <sentence id="11" ids_highlights="4">The VA did not directly respond to Mitchell&amp;apost;s allegations, referring CNN instead to the testimony of Veterans Affairs Secretary Eric Shinseki before a Senate committee looking into the allegations: &amp;quot;It is important to allow OIG&amp;apost;s independent and objective review to proceed until completion, and OIG has advised VA against providing information that could potentially compromise their ongoing review.&amp;quot;</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Phoenix Some veterans injured in combat in Iraq and Afghanistan are being made to wait for months in the Phoenix Veterans Affairs Health Care System despite a national mandate they be given priority access to medical care, a VA doctor told CNN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Dr. Katherine Mitchell, medical director of the Phoenix VA&amp;apost;s post-deployment clinic, outlined the allegations in a report that aired Wednesday night on CNN&amp;apost;s &amp;quot;AC 360°.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>She accused the Phoenix VA -- up until at least three weeks ago -- of not following a mandate that the highest priority be given to new or injured veterans for scheduling appointments.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>Wait lists in Phoenix for veterans injured in combat in Iraq and Afghanistan can be &amp;quot;six months, nine months or longer,&amp;quot; Mitchell said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>&amp;quot;People that are 100% service-connected that are polytrauma were waiting anywhere from six to 10 months to get into a new appointment when I found out about &amp;apost;em,&amp;quot; she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;We&amp;apost;re talking about people that were injured by being blown up by IEDs.</content>
+        </sentence>
+        <sentence id="7">
+          <content>We&amp;apost;re talking about people who had a mental breakdown and have severe PTSD and ...are having trouble functioning.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>Mitchell told CNN that in some instances because of those wait times, case managers in her clinic and patient advocates ask: &amp;quot;This guy can&amp;apost;t wait.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Can you see him?&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>The doctor said she reported the alleged practice to the VA&amp;apost;s Office of the Inspector General.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>The VA did not directly respond to Mitchell&amp;apost;s allegations, referring CNN instead to the testimony of Veterans Affairs Secretary Eric Shinseki before a Senate committee looking into the allegations: &amp;quot;It is important to allow OIG&amp;apost;s independent and objective review to proceed until completion, and OIG has advised VA against providing information that could potentially compromise their ongoing review.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>Mitchell&amp;apost;s claims are the latest in a rapidly unfolding scandal amid allegations of scheduling tricks and secret lists to hide monthslong waits for care.</content>
+        </sentence>
+        <sentence id="13">
+          <content>These accusations have mushroomed since CNN first reported the problem in November in an investigation examining several VA hospitals.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>The most disturbing problems emerged at the Phoenix VA, with sources revealing details of a secret waiting list.</content>
+        </sentence>
+        <sentence id="15">
+          <content>According to the sources, at least 40 American veterans died while waiting for care at the VA there.</content>
+        </sentence>
+        <sentence id="16">
+          <content>The allegations have been followed by news of investigations at more than two dozen facilities across the nation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>The problem, according to Mitchell, has to do with the VA not having enough medical providers to care for veterans.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="18">
+          <content>There are a few reasons for this, she said: low pay, lack of qualified professionals applying to work at the VA and a slow hiring process.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;As a result, you&amp;apost;ve got a lot of patients and not enough providers,&amp;quot; she said.</content>
+        </sentence>
+        <sentence id="20">
+          <content>&amp;quot;It&amp;apost;s not just Phoenix VA.</content>
+        </sentence>
+        <sentence id="21">
+          <content>It&amp;apost;s across the country, which is why everyone is hiding a backlog.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="22">
+          <content>Mitchell&amp;apost;s allegations came the same day President Barack Obama vowed to hold accountable anyone who manipulated or falsified records at VA facilities.</content>
+        </sentence>
+        <sentence id="23">
+          <content>He also said he was sending his deputy chief of staff, Rob Nabors, to visit the Phoenix facility and interview the VA office&amp;apost;s interim director.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="24">
+          <content>Mitchell said she has not dealt with a veteran patient who subsequently died, but she said she was aware of a disturbing trend of suicides.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="25">
+          <content>&amp;quot;These guys who committed suicide, who were successful suicide completions, would have benefited from more intense mental health treatment,&amp;quot; she said.</content>
+        </sentence>
+        <sentence id="26">
+          <content>&amp;quot;And those appointments weren&amp;apost;t available.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

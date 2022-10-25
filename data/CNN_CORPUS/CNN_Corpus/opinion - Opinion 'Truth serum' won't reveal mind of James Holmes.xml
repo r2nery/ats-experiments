@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="849" link="http://www.cnn.com/2013/03/21/opinion/caplan-truth-serum/index.html" date_published="2013-03-21 11:46:39" category="opinion" author="Arthur Caplan, Special to CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Opinion: &amp;apost;Truth serum&amp;apost; won&amp;apost;t reveal mind of James Holmes</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="12">Judge in Aurora shootings approved use of drugs for competency evaluation.</sentence>
+      <sentence id="2" ids_article_sentences="28">Arthur Caplan: No drug can shed light on mindset of shooting suspect Holmes.</sentence>
+      <sentence id="3" ids_article_sentences="12">He says &amp;quot;truth serum,&amp;quot; or sodium pentothal, is used as anesthesia for surgeries .</sentence>
+      <sentence id="4" ids_article_sentences="11">Caplan: Only Hollywood likes the idea of &amp;quot;truth serum,&amp;quot; not scientists .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-19 10:18:14" annotation_time="197.90901" mapping_time_divergence="49.477253">
+      <sentence id="11" ids_highlights="4">The judge in charge of the mass murder trial of James Holmes seems to think Hollywood was onto something with its fascination with truth serums.</sentence>
+      <sentence id="12" ids_highlights="1, 3">He has approved the use of a &amp;quot;narcoanalytic interview&amp;quot; -- such as a &amp;quot;truth serum&amp;quot; like sodium pentothal -- as part of a competency evaluation to determine whether Holmes was legally insane at the time he allegedly went on a rampage in a theater in Aurora, Colorado.</sentence>
+      <sentence id="28" ids_highlights="2">There is no drug that is going to shed trustworthy light on Holmes&amp;apost; state of mind last year when, police say, he donned a gas mask as well as full body armor and grabbed a rifle, a pump-action 12-gauge shotgun and at least one .40-caliber semiautomatic pistol to launch a heinous attack.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Back in the 1950s, Hollywood fell in love with the idea of truth serum.</content>
+        </sentence>
+        <sentence id="2">
+          <content>All manner of spies, murderers and other bad guys were given a needle containing sodium pentothal on the big screen and soon were babbling away uncontrollably as to their guilt or complicity with Red China or the Soviet Union.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>As recently as 2004 in &amp;quot;Meet the Fockers,&amp;quot; a former CIA agent played by Robert De Niro injects his would-be son-in-law, played by Ben Stiller, with the stuff to get the lowdown on his love life.</content>
+        </sentence>
+        <sentence id="4">
+          <content>Stiller&amp;apost;s character confesses, in a foreshadowing of Arnold Schwarzenegger&amp;apost;s amorous ways, to having had a child with his housekeeper, although whether he did or not is far from clear.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>Harry Potter knew all about truth serum.</content>
+        </sentence>
+        <sentence id="6">
+          <content>Veritaserum was used on a variety of miscreants and by evildoers.</content>
+        </sentence>
+        <sentence id="7">
+          <content>It was so powerful and feared that its use was strictly controlled by the Ministry of Magic.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="8">
+          <content>In reality, magical thinking is all it really is.</content>
+        </sentence>
+        <sentence id="9">
+          <content>There is no such thing as truth serum.</content>
+        </sentence>
+        <sentence id="10">
+          <content>But that news has apparently not reached Colorado.</content>
+        </sentence>
+        <sentence id="11">
+          <content>The judge in charge of the mass murder trial of James Holmes seems to think Hollywood was onto something with its fascination with truth serums.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="12">
+          <content>He has approved the use of a &amp;quot;narcoanalytic interview&amp;quot; -- such as a &amp;quot;truth serum&amp;quot; like sodium pentothal -- as part of a competency evaluation to determine whether Holmes was legally insane at the time he allegedly went on a rampage in a theater in Aurora, Colorado.</content>
+        </sentence>
+        <sentence id="13">
+          <content>Holmes is charged with killing 12 people and injuring many more.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="14">
+          <content>Sodium pentothal -- the original &amp;quot;truth serum&amp;quot; -- was discovered in 1936 by Ernest H. Volwiler and Donalee L. Tabern working in Chicago at Abbott Laboratories.</content>
+        </sentence>
+        <sentence id="15">
+          <content>They were trying to create an injectable drug for use in general anesthesia.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Their discovery was a success and had a huge impact on surgery.</content>
+        </sentence>
+        <sentence id="17">
+          <content>Sodium pentothal is still used today to knock out patients before they are given another, longer-lasting anesthetic to keep them unconscious during surgery.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="18">
+          <content>Sodium pentothal made surgery far less painful.</content>
+        </sentence>
+        <sentence id="19">
+          <content>It also has an interesting side effect.</content>
+        </sentence>
+        <sentence id="20">
+          <content>People under its influence lose their inhibitions and babble on about all sorts of things, leading to some amusing moments for surgical teams.</content>
+        </sentence>
+        <sentence id="21">
+          <content>This loss of inhibition gave a few researchers hope that the drug or something like it could be used to get the truth out of people in police stations, security interrogations or trials.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="22">
+          <content>But outside of Hollywood, no drug passes muster as a potion capable of getting accurately at the truth.</content>
+        </sentence>
+        <sentence id="23">
+          <content>People do get uninhibited and talk more freely, but they don&amp;apost;t necessarily stop lying or fantasizing.</content>
+        </sentence>
+        <sentence id="24">
+          <content>They also grow more compliant, tending to agree with those asking them leading questions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="25">
+          <content>There is no solid evidence that what is said under the influence of a &amp;quot;truth&amp;quot; drug correlates reliably with the truth.</content>
+        </sentence>
+        <sentence id="26">
+          <content>For the most part, people yammer away.</content>
+        </sentence>
+        <sentence id="27">
+          <content>If anything, they behave as if they were drunk rather than diligently affirming the sober truth.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="28">
+          <content>There is no drug that is going to shed trustworthy light on Holmes&amp;apost; state of mind last year when, police say, he donned a gas mask as well as full body armor and grabbed a rifle, a pump-action 12-gauge shotgun and at least one .40-caliber semiautomatic pistol to launch a heinous attack.</content>
+        </sentence>
+        <sentence id="29">
+          <content>No drug can tell us what he was really thinking.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="30">
+          <content>In giving permission to use drugs, the judge has opened the door to a line of defense in which Holmes&amp;apost; lawyers can argue that if drugged, he is being forced to testify against himself against his will.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="31">
+          <content>As much as some might hope for a thing such as a truth serum, none exists.</content>
+        </sentence>
+        <sentence id="32">
+          <content>Whether Holmes was bad or mad when he allegedly caused so much misery to so many people will not get resolved by a technique beloved by Hollywood movie directors but not by scientists.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="33">
+          <content>Follow @CNNOpinion on Twitter.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="34">
+          <content>Join us at Facebook/CNNOpinion.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

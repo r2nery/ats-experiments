@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="170" link="http://www.cnn.com/2013/02/05/health/mental-health-alabama-hostage/index.html" date_published="2013-02-05 21:23:25" category="health" author="Elizabeth Landau, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>After being kidnapped, the recovery ahead</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="24">Adults should provide a supportive, safe environment for children who experience trauma.</sentence>
+      <sentence id="2" ids_article_sentences="35">Children may need extra help in school, and may show behavior changes.</sentence>
+      <sentence id="3" ids_article_sentences="43">Returning to a routine is important, especially for anyone with an autism spectrum disorder.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-01 15:38:10" annotation_time="24.379667" mapping_time_divergence="8.126555">
+      <sentence id="24" ids_highlights="1">Parents and other adults in the community should provide a stable, strong and supportive environment for a child who has experienced trauma, he said.</sentence>
+      <sentence id="35" ids_highlights="2">Together, these symptoms may bring down performance in school, so children who go through this may need extra help with homework.</sentence>
+      <sentence id="43" ids_highlights="3">Having a daily routine is especially important with autism spectrum disorders generally, she said.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>It&amp;apost;s impossible to know how any given individual is going to respond to trauma.</content>
+        </sentence>
+        <sentence id="2">
+          <content>Many children do fine if they return to a safe environment, experts say.</content>
+        </sentence>
+        <sentence id="3">
+          <content>But some have difficulty coping, and the effects may linger.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="4">
+          <content>A 5-year-old boy named Ethan was kidnapped from a school bus in Midland City, Alabama, on January 29.</content>
+        </sentence>
+        <sentence id="5">
+          <content>His abductor, Jimmy Lee Dykes, also killed bus driver Charles Poland, who was blocking the aisle while other children escaped from the back of the bus, authorities said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="6">
+          <content>After being held in an underground bunker for six days, Ethan is safe and his captor is dead.</content>
+        </sentence>
+        <sentence id="7">
+          <content>The boy is currently &amp;quot;doing fine,&amp;quot; FBI Special Agent in Charge Steve Richardson said Monday; he is &amp;quot;laughing, joking, playing, eating.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="8">
+          <content>What lies ahead in terms of how this will affect him mentally is unclear, but a support structure is crucial for anyone who has experienced a traumatic event like this, experts say.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="9">
+          <content>His situation resonates with victims of a bus kidnapping that happened more than three decades ago.</content>
+        </sentence>
+        <sentence id="10">
+          <content>Jennifer Hyde was 9 years old when she and 25 other children were on a school bus that was hijacked in 1976 in Chowchilla, California.</content>
+        </sentence>
+        <sentence id="11">
+          <content>The children and the bus driver were forced into a buried vehicle, where they remained for 16 hours before escaping.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;You couldn&amp;apost;t just go on and have a normal childhood when you faced a life-threatening situation like that.</content>
+        </sentence>
+        <sentence id="13">
+          <content>You just can&amp;apost;t go on and be carefree,&amp;quot; she told CNN&amp;apost;s Don Lemon on Sunday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="14">
+          <content>Hyde remembers having nightmares about her own death after it happened.</content>
+        </sentence>
+        <sentence id="15">
+          <content>These days, she still sleeps with a nightlight on, and won&amp;apost;t ride a subway or go anywhere underground.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="16">
+          <content>Ethan&amp;apost;s situation is distinct in many ways: He was the only child held captive, and was kept alone for six days with the man who murdered his bus driver.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="17">
+          <content>But other victims of trauma can empathize.</content>
+        </sentence>
+        <sentence id="18">
+          <content>Lynda Carrejo-Labendeira, who was on the same hijacked bus as Hyde, told CNN affiliate KFSN: &amp;quot;It&amp;apost;s going to take the whole community, people who know him when he comes by.</content>
+        </sentence>
+        <sentence id="19">
+          <content>Just a smile, a hug or a pat on the back letting him know he&amp;apost;s OK and it&amp;apost;s not his fault.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="20">
+          <content>Mental health professionals not involved in Ethan&amp;apost;s care emphasized that a supportive environment is essential for recovery.</content>
+        </sentence>
+        <sentence id="21">
+          <content>That also applies to any of the children who were on the bus -- who may have witnessed Ethan&amp;apost;s abduction or Poland&amp;apost;s death -- or who live in that community.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;There&amp;apost;s a ripple effect for that event that touches many lives, and certainly that community was impacted as well,&amp;quot; said Robin Gurwitch, psychologist at Duke University Medical Center.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="23">
+          <content>A child in this kind of situation will &amp;quot;have to redevelop a sense that the world&amp;apost;s a safe place, and the only people who can be able to provide that feeling for him are the adults in his life,&amp;quot; said Dr. Charles Raison, CNN Health&amp;apost;s mental health expert and associate professor of psychiatry at the University of Arizona in Tucson.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="24">
+          <content>Parents and other adults in the community should provide a stable, strong and supportive environment for a child who has experienced trauma, he said.</content>
+        </sentence>
+        <sentence id="25">
+          <content>The adults should also make sure that they are getting the help that they need.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="26">
+          <content>The big questions in children&amp;apost;s minds after events like these are often: &amp;quot;Am I going to be OK?&amp;quot;</content>
+        </sentence>
+        <sentence id="27">
+          <content>, &amp;quot;Can this happen again?&amp;quot;</content>
+        </sentence>
+        <sentence id="28">
+          <content>and &amp;quot;Will the people I care about be OK?&amp;quot;</content>
+        </sentence>
+        <sentence id="29">
+          <content>Gurwitch said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="30">
+          <content>Adults should assure children that they are doing everything they know how to do to keep them safe so that it doesn&amp;apost;t happen again, she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="31">
+          <content>Children&amp;apost;s behavior may change in response to trauma, she said.</content>
+        </sentence>
+        <sentence id="32">
+          <content>Some may become withdrawn, while others may have temper tantrums or become more defiant.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="33">
+          <content>Some children may experience disturbed sleeping habits and appetite.</content>
+        </sentence>
+        <sentence id="34">
+          <content>Attention and concentration may also be affected.</content>
+        </sentence>
+        <sentence id="35">
+          <content>Together, these symptoms may bring down performance in school, so children who go through this may need extra help with homework.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="36">
+          <content>Although adults may also be stressed because of the situation, they&amp;apost;ll need to have extra patience with children who have been touched by a traumatic event, and pay a little more attention to them.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="37">
+          <content>&amp;quot;They need that extra love to know there&amp;apost;s somebody there that actually is going to take care of them and care about what happens to them,&amp;quot; Gurwitch said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="38">
+          <content>In addition to having experienced kidnapping, Ethan also has diagnoses of Asperger&amp;apost;s syndrome and attention deficit disorder, State Rep. Steve Clouse told CNN.</content>
+        </sentence>
+        <sentence id="39">
+          <content>Asperger&amp;apost;s syndrome is a high-functioning form of autism characterized by difficulties in socializing and communicating.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="40">
+          <content>It&amp;apost;s unclear how these conditions would affect a child&amp;apost;s response to trauma, Raison said.</content>
+        </sentence>
+        <sentence id="41">
+          <content>There is not enough research to support a generalization about how any given child with these conditions would likely react to situation such as Ethan&amp;apost;s.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="42">
+          <content>Regardless, it&amp;apost;s important for any child who has been through trauma to return to normal routines, said Anna McConnell, state autism coordinator in Alabama.</content>
+        </sentence>
+        <sentence id="43">
+          <content>Having a daily routine is especially important with autism spectrum disorders generally, she said.</content>
+        </sentence>
+        <sentence id="44">
+          <content>Children with these diagnoses tend to find comfort in consistency and familiarity.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="45">
+          <content>&amp;quot;Get the child back to the things that they loved and enjoyed,&amp;quot; said Elana Newman, professor of psychology at the University of Tulsa.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="46">
+          <content>Separations and reunions may be difficult after experiencing this kind of trauma, she said, which involved a child being isolated from one&amp;apost;s community.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="47">
+          <content>There are several kinds of therapy that have been shown to be effective in helping children through traumatic situations.</content>
+        </sentence>
+        <sentence id="48">
+          <content>They include trauma-focused cognitive behavioral therapy, a specific type of psychological therapy that targets thinking and behaviors.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="49">
+          <content>Other interventions involve both young children and their parents.</content>
+        </sentence>
+        <sentence id="50">
+          <content>The Child &amp;amp; Family Traumatic Stress Intervention program, developed at Yale University, aims to increase communication between parents and children and prevent longer-term disorders.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="51">
+          <content>Hyde said she recently had a reunion with other women who had been on the Chowchilla bus in 1976, and they realized that they struggled with some of the same issues.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="52">
+          <content>&amp;quot;I think for me personally, the fact that I was able to discuss it all these years has helped me tremendously in my recovery,&amp;quot; Hyde said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

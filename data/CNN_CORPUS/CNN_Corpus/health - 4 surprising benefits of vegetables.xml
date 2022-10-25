@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="161" link="http://www.cnn.com/2014/06/19/health/benefits-of-vegetables/index.html" date_published="2014-06-19 11:40:28" category="health" author="The Nutrition Twins, Special to CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>4 surprising benefits of vegetables</title>
+  <keywords>vegetables</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">Vegetables can help reduce bloating, dietitians say.</sentence>
+      <sentence id="2" ids_article_sentences="20">Many vegetables are 85% to 95% water, which helps hydrate the skin .</sentence>
+      <sentence id="3" ids_article_sentences="41">Study: Consuming tomatoes is connected to bone health.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-01 15:31:15" annotation_time="19.727999" mapping_time_divergence="6.5759997">
+      <sentence id="2" ids_highlights="1">You know that vegetables can help you lose weight and fend off chronic diseases.</sentence>
+      <sentence id="20" ids_highlights="2">Many vegetables are 85% to 95% water, which helps hydrate the skin and reduce wrinkles.</sentence>
+      <sentence id="41" ids_highlights="3">Tomatoes in particular have recently been connected to bone health.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>You&amp;apost;ve seen Meatless Mondays, vegan restaurants and green drinks become all the rage.</content>
+        </sentence>
+        <sentence id="2">
+          <content>You know that vegetables can help you lose weight and fend off chronic diseases.</content>
+        </sentence>
+        <sentence id="3">
+          <content>Yet if you&amp;apost;re like most Americans, you probably still aren&amp;apost;t eating enough of them.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="4">
+          <content>If you need a little motivation to get your share, here are four surprising reasons to increase your vegetable intake:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>1.</content>
+        </sentence>
+        <sentence id="6">
+          <content>They fight bloat.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>Although you may associate vegetables with creating a bloated belly, most vegetables actually do the opposite.</content>
+        </sentence>
+        <sentence id="8">
+          <content>Vegetables are rich in fiber, which flushes out waste and gastric irritants and prevents constipation by keeping the digestive tract moving.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="9">
+          <content>Vegetables can also help you look leaner by counteracting bloat caused by salt.</content>
+        </sentence>
+        <sentence id="10">
+          <content>Most American adults get nearly twice the recommended sodium limit.</content>
+        </sentence>
+        <sentence id="11">
+          <content>Eating a bacon and egg biscuit, a typical restaurant meal, or instant soup means consuming nearly an entire day&amp;apost;s sodium allotment.</content>
+        </sentence>
+        <sentence id="12">
+          <content>Vegetables are rich in both potassium and water, which help flush excess sodium out of the body while restoring the body&amp;apost;s normal fluid balance.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="13">
+          <content>To ease that full feeling in your stomach, try eating fennel, cucumbers, summer squash, romaine lettuce, red leaf lettuce or tomatoes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="14">
+          <content>If you experience gas when you start to add more fiber and vegetables to your diet, choose steamed vegetables rather than raw ones.</content>
+        </sentence>
+        <sentence id="15">
+          <content>The heat from cooking breaks down some of the fiber and will keep gastric distress to a minimum as your body adjusts to consuming the fiber you need.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="16">
+          <content>2.</content>
+        </sentence>
+        <sentence id="17">
+          <content>They create a youthful glow.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="18">
+          <content>Want younger-looking skin?</content>
+        </sentence>
+        <sentence id="19">
+          <content>Vegetables prevent unwanted signs of aging and keep skin young and supple thanks to phytonutrients, vitamin C and high water content.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="20">
+          <content>Many vegetables are 85% to 95% water, which helps hydrate the skin and reduce wrinkles.</content>
+        </sentence>
+        <sentence id="21">
+          <content>And phytonutrients, found in all vegetables, can guard against premature aging by preventing cell damage from stress, the sun, pollution and other environmental toxins.</content>
+        </sentence>
+        <sentence id="22">
+          <content>Vitamin C aids in collagen formation, according to studies.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="23">
+          <content>Choose brightly colored red and orange vegetables and you&amp;apost;ll get an added boost of beta carotene, which can give you a healthy glow as it protects skin from sun damage.</content>
+        </sentence>
+        <sentence id="24">
+          <content>Similarly, lycopene, found in red vegetables such as tomatoes, also has been shown to act as a natural sunscreen.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="25">
+          <content>Eat vegetables like tomatoes, cucumbers, bell peppers, broccoli and potatoes for vitamin C, and carrots, sweet potatoes, butternut squash and other orange produce for beta carotene.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="26">
+          <content>3.</content>
+        </sentence>
+        <sentence id="27">
+          <content>They reduce stress.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="28">
+          <content>Stress can make you tired and moody, hindering your ability to make healthy nutrition choices.</content>
+        </sentence>
+        <sentence id="29">
+          <content>The result is emotional overeating and binges.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="30">
+          <content>Meanwhile, nutrients like magnesium and vitamin C are quickly depleted during stressful times.</content>
+        </sentence>
+        <sentence id="31">
+          <content>Luckily, many vegetables contain these very nutrients, as well as tension-reducing omega-3 fatty acids and B vitamins that fight anxiety and depression.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="32">
+          <content>The potassium and magnesium found in some vegetables can also calm you on the inside as they relax blood vessels and keep your blood pressure down, according to research.</content>
+        </sentence>
+        <sentence id="33">
+          <content>And fiber keeps blood sugar levels stable, preventing dips in energy and the associated mood swings.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="34">
+          <content>To reduce stress, eat any vegetable.</content>
+        </sentence>
+        <sentence id="35">
+          <content>Mushrooms, leafy greens, squash, potatoes, bell peppers, spinach, bok choy, fennel, string beans and edamame are especially good sources of several vitamins and minerals.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="36">
+          <content>For a no-fuss way to consume more vegetables and combat stress, add leafy greens, mushrooms and peppers to your sandwiches, wraps, soups, pizza, tomato sauce and omelets.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="37">
+          <content>4.</content>
+        </sentence>
+        <sentence id="38">
+          <content>They protect your bones.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="39">
+          <content>Most people think of dairy foods as the bone protectors, thanks to their high calcium and vitamin D content.</content>
+        </sentence>
+        <sentence id="40">
+          <content>But some vegetables also have these same nutrients in addition to bone-building vitamin K, magnesium, potassium and prebiotic fiber.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="41">
+          <content>Tomatoes in particular have recently been connected to bone health.</content>
+        </sentence>
+        <sentence id="42">
+          <content>A study found that when you remove lycopene-rich foods like tomatoes from the diet, women are at increased risk of osteoporosis.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="43">
+          <content>Eat strong-spined, dark leafy greens like collard greens, turnip greens, kale, spinach (cooked for more calcium!).</content>
+        </sentence>
+        <sentence id="44">
+          <content>, broccoli and green peas for calcium and vitamin K. Mushrooms contain vitamin D while asparagus, chard, kale, artichokes, onions, garlic and leeks are full of prebiotic fiber.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

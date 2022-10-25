@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1743" link="http://edition.cnn.com/2014/02/27/travel/american-airlines-bereavement-fares" date_published="2014-02-27 20:44:33" category="travel" author="Katia Hetter, CNN" highlights_mapped="true" mapping_error="false">
+  <title>American Airlines ends bereavement fares</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="5">American isn&amp;apost;t the first airline to end bereavement fares.</sentence>
+      <sentence id="2" ids_article_sentences="18">Southwest Airlines and JetBlue Airways never had such discounts.</sentence>
+      <sentence id="3" ids_article_sentences="13">Delta Air Lines and United Airlines are keeping bereavement policies in place.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-24 13:35:31" annotation_time="39.121334">
+      <sentence id="5" ids_highlights="1">In the wake of its merger with US Airways, American Airlines this week became the latest major U.S. airline to end its policy of offering bereavement fares.</sentence>
+      <sentence id="13" ids_highlights="3">Delta Air Lines and United Airlines are keeping their current bereavement policies in place.</sentence>
+      <sentence id="18" ids_highlights="2">Discount carriers Southwest Airlines (and its AirTran brand) and JetBlue Airways have never offered bereavement fares.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The bereavement fare was once the airline industry&amp;apost;s gift to the traveler, an acknowledgement that a customer was flying for the saddest of reasons: a medical emergency or death in the family.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The last thing anyone wanted to worry about was the cost of an airplane ticket.</content>
+        </sentence>
+        <sentence id="3">
+          <content>And so many airlines offered discounts to help ease the pain of the journey.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Not so much anymore.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>In the wake of its merger with US Airways, American Airlines this week became the latest major U.S. airline to end its policy of offering bereavement fares.</content>
+        </sentence>
+        <sentence id="6">
+          <content>US Airways didn&amp;apost;t offer the special fares before the merger, and American&amp;apost;s new chief executive officer, Douglas Parker, came from the ranks of US Airways.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;We remain committed to doing all we can to relieve the burden of travel for our customers in times of need.</content>
+        </sentence>
+        <sentence id="8">
+          <content>With the advent of more choices, lower cost carriers and larger networks, the industry has started to move away from bereavement fares because walk-up fares are generally lower than in the past, and customers now have more opportunities to find affordable fares at the last minute,&amp;quot; American spokesman Matt Miller said in a statement.</content>
+        </sentence>
+        <sentence id="9">
+          <content>&amp;quot;American is moving toward that industry trend and the airline offers customers changeable and refundable options with the ability to apply future reservations to bereavement travel without change fees.</content>
+        </sentence>
+        <sentence id="10">
+          <content>We believe this policy is a cost-effective solution for customers in need of bereavement travel.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="11">
+          <content>Except for possibly waiving the change fee, the new policy doesn&amp;apost;t sound so different from what American offers other customers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>But not every carrier is going the way of American, at least not yet.</content>
+        </sentence>
+        <sentence id="13">
+          <content>Delta Air Lines and United Airlines are keeping their current bereavement policies in place.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;apost;Better service&amp;apost; for consumers promised.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="15">
+          <content>Before the US Airways-American merger was approved last year, Parker, then the US Airways CEO, testified before Congress that consumers would benefit from such consolidation.</content>
+        </sentence>
+        <sentence id="16">
+          <content>&amp;quot;By putting these two airlines together we&amp;apost;re able to provide better service, more efficient service, to consumers,&amp;quot; Parker said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="17">
+          <content>It remains to be seen if consumers will agree with his sentiments, but American isn&amp;apost;t breaking new ground with this particular policy change.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="18">
+          <content>Discount carriers Southwest Airlines (and its AirTran brand) and JetBlue Airways have never offered bereavement fares.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;Offering bereavement or emergency fares would make it necessary to offset these discounts by charging higher ticket prices and reducing the amount of sale fares we currently offer,&amp;quot; Southwest spokesman Dan Landson said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="20">
+          <content>Southwest doesn&amp;apost;t charge fees to change an existing reservation, just the price difference between the current and new tickets, Landson said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="21">
+          <content>Cheaper online fares can be found.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="22">
+          <content>Frequent travelers know that better fares can usually be found online for last-minute emergency travel, according to travel blogger Johnny &amp;quot;Jet&amp;quot; DiScala.</content>
+        </sentence>
+        <sentence id="23">
+          <content>That&amp;apost;s why he said the change won&amp;apost;t have much of an impact.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="24">
+          <content>&amp;quot;It does make the airlines look heartless,&amp;quot; DiScala said.</content>
+        </sentence>
+        <sentence id="25">
+          <content>&amp;quot;I&amp;apost;ve known people who didn&amp;apost;t travel to a loved one&amp;apost;s funeral because they couldn&amp;apost;t afford the last-minute ticket.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="26">
+          <content>Consumers Union aviation consultant William McGee, who testified before Congress last year on the potential impact of the USAirways-American merger, said he isn&amp;apost;t surprised by the policy change.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="27">
+          <content>&amp;quot;It&amp;apost;s a natural outgrowth of a shrinking industry since consolidation leads to fewer choices, higher fares, and less service,&amp;quot; McGee wrote via e-mail.</content>
+        </sentence>
+        <sentence id="28">
+          <content>&amp;quot;Unfortunately, consumers should expect this trend to continue as the domestic airline industry rapidly consolidates through mergers and acquisitions.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="29">
+          <content>Discounts at United, Delta.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="30">
+          <content>Still, Delta and United remain holdouts.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="31">
+          <content>Delta&amp;apost;s bereavement policy, which &amp;quot;offers additional flexibility on the best published fare,&amp;quot; lists the documentation required and the types of relatives who qualify on its website.</content>
+        </sentence>
+        <sentence id="32">
+          <content>The airline reminds customers that lower promotional fares may be available through its website or airline reservations service.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="33">
+          <content>United offers a 5% discount on one-way and round-trip fares in the event of the death or serious illness (requiring hospitalization or hospice care) of an immediate family member.</content>
+        </sentence>
+        <sentence id="34">
+          <content>Its website lists the airline&amp;apost;s requirements to qualify for the airfare.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="35">
+          <content>Five percent off a $1,000 ticket still isn&amp;apost;t much -- $50 -- so it&amp;apost;s possible that consumers would still be better off searching online for the best deals.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="36">
+          <content>But even with such a small benefit as United&amp;apost;s, maybe it&amp;apost;s the thought that airlines recognize their grieving customers that counts.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="37">
+          <content>CNN first learned about this story via Twitter.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="38">
+          <content>What do you think of American changing its bereavement policy?</content>
+        </sentence>
+        <sentence id="39">
+          <content>Please tell us in the comments section below.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

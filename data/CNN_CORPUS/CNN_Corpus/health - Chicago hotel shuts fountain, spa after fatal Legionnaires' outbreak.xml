@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="198" link="http://www.cnn.com/2012/08/31/health/chicago-hotel-legionnaires-disease/index.html" date_published="2012-09-01 02:27:14" category="health" author="the CNN Wire Staff" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Chicago hotel shuts fountain, spa after fatal Legionnaires&amp;apost; outbreak</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Outbreak has killed three people and sickened seven others.</sentence>
+      <sentence id="2" ids_article_sentences="1">The bacteria was traced to the hotel&amp;apost;s fountain and parts of its spa.</sentence>
+      <sentence id="3" ids_article_sentences="2">There is no longer a health risk at the hotel.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-01 15:12:21" annotation_time="60.45" mapping_time_divergence="20.15">
+      <sentence id="1" ids_highlights="1, 2">The JW Marriott Chicago hotel said Friday it has removed its lobby fountain and closed parts of its luxury spa after health authorities determined them to be the likely source of a Legionnaires&amp;apost; disease outbreak that has now killed three people.</sentence>
+      <sentence id="2" ids_highlights="3">Health authorities said Friday there is no longer a health risk at the landmark hotel, but they urge people to seek medical attention if they stayed at the hotel during the affected dates of July 16 to August 15 and are now experiencing flu-like symptoms.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The JW Marriott Chicago hotel said Friday it has removed its lobby fountain and closed parts of its luxury spa after health authorities determined them to be the likely source of a Legionnaires&amp;apost; disease outbreak that has now killed three people.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Health authorities said Friday there is no longer a health risk at the landmark hotel, but they urge people to seek medical attention if they stayed at the hotel during the affected dates of July 16 to August 15 and are now experiencing flu-like symptoms.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;We are secure in the testing results reported by (the Illinois Department of Public Health) that have informed this investigation and are encouraged by the hotels&amp;apost; cooperation and remediation plan,&amp;quot; said Dr. Kathy Ritger of the Chicago Department of Public Health.</content>
+        </sentence>
+        <sentence id="4">
+          <content>&amp;quot;We believe there is no ongoing public health risk at the hotel at this time.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Health officials have confirmed 10 cases of Legionnaires&amp;apost; disease, including the three deaths.</content>
+        </sentence>
+        <sentence id="6">
+          <content>All of the victims visited or stayed at the hotel during the monthlong affected period.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>The disease is a severe form of pneumonia and is contracted by breathing in small water droplets, whether from mist or vapor, contaminated with the Legionella bacteria.</content>
+        </sentence>
+        <sentence id="8">
+          <content>It is not transmitted from person to person.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>Samples taken from the hotel&amp;apost;s fountain as well as the women&amp;apost;s locker room, men&amp;apost;s locker room, swimming pool, and whirlpool located in the hotel&amp;apost;s spa all tested positive for the same species of Legionella as were found in the ill patients, the Chicago Department of Public Health said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>Shower heads in guest rooms tested negative for the bacteria, the health department said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>Legionella are present at low levels in most water systems, the health department said, but they can flourish and pose a significant health risk when proper water quality is not maintained, even for a short period of time.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>The health department said the hotel is following recommendations to remediate the &amp;quot;possible exposure settings&amp;quot; in its environment, and Marriott said it is now working with a water safety consulting company to install new clean water systems.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>The disease usually develops two to 14 days after exposure to the bacteria and often begins with a headache, high fever, and chills, the health department says.</content>
+        </sentence>
+        <sentence id="14">
+          <content>By the second to third day, a person may develop symptoms of pneumonia like cough, chest pain, and shortness of breath.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="15">
+          <content>Most victims recover, but between 5% and 30% of people who get the disease die, according to the U.S. Centers for Disease Control.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="16">
+          <content>An outbreak of the disease in Philadelphia in 1976, largely among people attending a convention of the American Legion, led to its name.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="17">
+          <content>An average of 30 cases of Legionnaires&amp;apost; disease is reported each year in Chicago, the city&amp;apost;s health department said.</content>
+        </sentence>
+        <sentence id="18">
+          <content>There were 44 cases, including 1 death, in 2011.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

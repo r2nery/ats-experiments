@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="986" link="http://www.cnn.com/2013/08/06/politics/benghazi-attack-timeline/index.html" date_published="2013-08-06 04:19:46" category="politics" author="CNN&amp;apost;s &amp;quot;Erin Burnett OutFront&amp;quot;" highlights_mapped="true" mapping_error="false">
+  <title>Benghazi attack timeline</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">Ambassador Christopher Stevens was in Benghazi to talk to officials about weapons stockpiles.</sentence>
+      <sentence id="2" ids_article_sentences="8">Stevens and information officer holed up in safe room in compound.</sentence>
+      <sentence id="3" ids_article_sentences="23">Two Navy SEALs were killed while fighting off attack on other Americans in Benghazi.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-09-08 22:20:46" annotation_time="22.604668">
+      <sentence id="3" ids_highlights="1">Ambassador Christopher Stevens was in Benghazi that day to meet with officials over the hunt for ousted dictator Moammar Ghadafi&amp;apost;s weapons stockpiles and to open a cultural center.</sentence>
+      <sentence id="8" ids_highlights="2">Stevens and information officer Sean Smith run to a safe room with one security agent.</sentence>
+      <sentence id="23" ids_highlights="3">Navy SEALs Glen Doherty and Tyrone Woods are killed in the attack.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>September 11, 2012, in America was a day of solemn remembrance.</content>
+        </sentence>
+        <sentence id="2">
+          <content>In Libya, it was a day of violence that ended with four Americans killed, starting a debate over whether the Obama administration should have better protected them and whether it tried to cover its tracks after the debacle.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>Ambassador Christopher Stevens was in Benghazi that day to meet with officials over the hunt for ousted dictator Moammar Ghadafi&amp;apost;s weapons stockpiles and to open a cultural center.</content>
+        </sentence>
+        <sentence id="4">
+          <content>Here is how events played out that day (all times local):.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>9:40 p.m.: Gunfire is heard outside the Benghazi diplomatic mission, then a loud explosion.</content>
+        </sentence>
+        <sentence id="6">
+          <content>Dozens of armed militiamen charge the main gate and set fire to a barracks building as they make for the ambassador&amp;apost;s residence.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>10 p.m.: Attackers breach the mission walls and make for the ambassador&amp;apost;s residence.</content>
+        </sentence>
+        <sentence id="8">
+          <content>Stevens and information officer Sean Smith run to a safe room with one security agent.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="9">
+          <content>An alert is sent to the CIA security team at an annex about a mile away, the State Department and the U.S. Embassy in Tripoli.</content>
+        </sentence>
+        <sentence id="10">
+          <content>Stevens calls deputy mission chief Gregory Hicks at the embassy and tells him, &amp;quot;Greg, we&amp;apost;re under attack.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="11">
+          <content>10:30 p.m.: Stevens and Smith have taken refuge behind a fortified door with heavy metal bars that keeps the attackers from breaking in, but they set fire to the villa with diesel fuel.</content>
+        </sentence>
+        <sentence id="12">
+          <content>Within minutes, Stevens and Smith are overwhelmed by smoke.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="13">
+          <content>At about the same time, six U.S. security agents leave the CIA annex for the main building.</content>
+        </sentence>
+        <sentence id="14">
+          <content>They and 16 Libyan security guards regain control over the compound and start searching for Stevens and Smith.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="15">
+          <content>Shortly after 11 p.m.: A U.S. surveillance drone arrives over Benghazi.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Then-Defense Secretary Leon Panetta and Joint Chiefs Chairman Martin Dempsey meet with President Barack Obama.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="17">
+          <content>12:07 a.m., September 12: The State Department sends an e-mail to the White House, the Pentagon and the FBI indicating the Islamic militant group Ansar al-Sharia claimed credit for the attack.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="18">
+          <content>1:15 a.m.: A rescue team from Tripoli arrives in Benghazi.</content>
+        </sentence>
+        <sentence id="19">
+          <content>About 30 Americans have been rescued from the consulate building and are holed up with the Stevens at the CIA annex.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="20">
+          <content>2 a.m.: Hicks informs Secretary of State Hillary Clinton that they need to evacuate all Americans from Benghazi.</content>
+        </sentence>
+        <sentence id="21">
+          <content>At about the same time, an eyewitness captures on video Stevens being pulled from the smoke-filled building.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="22">
+          <content>4 a.m.: The attackers launch a full-on assault against the annex, dropping mortars on the roof.</content>
+        </sentence>
+        <sentence id="23">
+          <content>Navy SEALs Glen Doherty and Tyrone Woods are killed in the attack.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="24">
+          <content>10 a.m.: The bodies of Stevens, Smith, Doherty and Woods are put on the last plane out of Benghazi.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

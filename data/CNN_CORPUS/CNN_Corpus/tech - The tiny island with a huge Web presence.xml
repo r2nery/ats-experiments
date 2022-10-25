@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1659" link="http://edition.cnn.com/2012/06/13/tech/web/tokelau-domain-name-holder/index.html" date_published="2012-06-13 17:05:16" category="tech" author="Tommy Andres, CNN Radio" highlights_mapped="true" mapping_error="false">
+  <title>The tiny island with a huge Web presence</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="47">Tokelau is only 4 square miles, but 9 million websites have the country&amp;apost;s domain.</sentence>
+      <sentence id="2" ids_article_sentences="67">No planes fly to Tokelau, and the islands have four phone lines and one satellite.</sentence>
+      <sentence id="3" ids_article_sentences="22">Only about 1,300 people live in Tokelau, which has the smallest economy in the world.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-27 17:25:09" annotation_time="7.161">
+      <sentence id="22" ids_highlights="3">Tokelau is home to only about 1,300 people.</sentence>
+      <sentence id="47" ids_highlights="1">Now, more than 9 million websites have .</sentence>
+      <sentence id="67" ids_highlights="2">&amp;quot;They had four phone lines, and that was basically it,&amp;quot; he said.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>If you&amp;apost;re among the companies vying for one of the nearly 2,000 new generic top-level domains, or gTLDs, you&amp;apost;ve got big pockets.</content>
+        </sentence>
+        <sentence id="2">
+          <content>The application alone costs about $185,000.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>But if you&amp;apost;re just an average Joe building your own website or blog, there are much cheaper options out there.</content>
+        </sentence>
+        <sentence id="4">
+          <content>One of the most popular is .</content>
+        </sentence>
+        <sentence id="5">
+          <content>tk.</content>
+        </sentence>
+        <sentence id="6">
+          <content>It&amp;apost;s a country code top-level domain, similar to .</content>
+        </sentence>
+        <sentence id="7">
+          <content>ca for Canada or .</content>
+        </sentence>
+        <sentence id="8">
+          <content>fr for France.</content>
+        </sentence>
+        <sentence id="9">
+          <content>But .</content>
+        </sentence>
+        <sentence id="10">
+          <content>tk stands for a country you&amp;apost;ve probably never heard of.</content>
+        </sentence>
+        <sentence id="11">
+          <content>It&amp;apost;s called Tokelau.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="12">
+          <content>Places don&amp;apost;&amp;apost;t get much more remote than Tokelau.</content>
+        </sentence>
+        <sentence id="13">
+          <content>It would make a great backdrop for a desert-island television series.</content>
+        </sentence>
+        <sentence id="14">
+          <content>The only problem would be getting the crew there.</content>
+        </sentence>
+        <sentence id="15">
+          <content>What appears on a map as three tiny pinpoints in the midst of the Pacific Ocean are the country&amp;apost;s tiny atolls, bringing the total size of Tokelau to a whopping 4 square miles.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="16">
+          <content>If you want to get there, you will start in Los Angeles and fly to Hawaii.</content>
+        </sentence>
+        <sentence id="17">
+          <content>From Hawaii, you&amp;apost;ll fly to American Samoa.</content>
+        </sentence>
+        <sentence id="18">
+          <content>From American Samoa, you&amp;apost;ll take a small plane to Samoa, where you might wait two weeks for a boat.</content>
+        </sentence>
+        <sentence id="19">
+          <content>The boat ride is 48 hours, and there&amp;apost;s no cabin, so you&amp;apost;ll sleep on the deck.</content>
+        </sentence>
+        <sentence id="20">
+          <content>The boat will get you close to Tokelau, but the sea is too rough and the coral too dangerous to approach, so you&amp;apost;ll hop in a canoe and paddle to shore.</content>
+        </sentence>
+        <sentence id="21">
+          <content>Now, you&amp;apost;re ready to start your island holiday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="22">
+          <content>Tokelau is home to only about 1,300 people.</content>
+        </sentence>
+        <sentence id="23">
+          <content>But a recent report (PDF) released by Verisign, the global registry operator for .</content>
+        </sentence>
+        <sentence id="24">
+          <content>com and .</content>
+        </sentence>
+        <sentence id="25">
+          <content>net, found that .</content>
+        </sentence>
+        <sentence id="26">
+          <content>tk is the third-most popular country code top-level domain (or ccTLD) behind only Germany (.</content>
+        </sentence>
+        <sentence id="27">
+          <content>de) and the United Kingdom (.</content>
+        </sentence>
+        <sentence id="28">
+          <content>uk).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="29">
+          <content>It&amp;apost;s all thanks to a man who literally lives on the other side of the planet from Tokelau: Joost Zuurbier of Amsterdam.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="30">
+          <content>Around 2000, Zuurbier says, he and a friend looked at Hotmail as inspiration for a business model of their own.</content>
+        </sentence>
+        <sentence id="31">
+          <content>If Hotmail could make money providing free e-mail, couldn&amp;apost;t money be made offering free domains?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="32">
+          <content>&amp;quot;At that moment, there were no free domain names yet,&amp;quot; Zuurbier said.</content>
+        </sentence>
+        <sentence id="33">
+          <content>&amp;quot;So we were shopping around for a registry that wanted to play along, and in the end, we founded .</content>
+        </sentence>
+        <sentence id="34">
+          <content>tk, which didn&amp;apost;t exist at the time.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="35">
+          <content>Zuurbier says it wasn&amp;apost;t easy.</content>
+        </sentence>
+        <sentence id="36">
+          <content>The Tokelauans were not only unaware of their entitlement to their own country code domain, no one on the island had ever seen a webpage before.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="37">
+          <content>&amp;quot;We had to explain to them what they had and what the Internet was in order to get things going,&amp;quot; Zuurbier said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="38">
+          <content>There was also another small problem.</content>
+        </sentence>
+        <sentence id="39">
+          <content>ICANN, the group responsible for doling out ccTLDs, didn&amp;apost;t believe that Tokelau really existed.</content>
+        </sentence>
+        <sentence id="40">
+          <content>Luckily for Zuurbier, an ICANN board member informed the rest of the group that he had installed the island&amp;apost;s first shortwave radio equipment there in the late 1970s.</content>
+        </sentence>
+        <sentence id="41">
+          <content>So the two sides agreed to the deal.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="42">
+          <content>After some handshakes in New Zealand, Zuurbier took the long, faithful journey to Tokelau with satellite equipment in tow.</content>
+        </sentence>
+        <sentence id="43">
+          <content>It took more than two weeks to get there, and he had to keep the equipment dry.</content>
+        </sentence>
+        <sentence id="44">
+          <content>Otherwise he risked having to repeat the long, expensive and exhausting journey.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="45">
+          <content>After six years of hurdles and complicated setup, Freedom Registry launched its .</content>
+        </sentence>
+        <sentence id="46">
+          <content>tk domain in 2006.</content>
+        </sentence>
+        <sentence id="47">
+          <content>Now, more than 9 million websites have .</content>
+        </sentence>
+        <sentence id="48">
+          <content>tk domains, and Zuurbier says there&amp;apost;s been a recent explosion of popularity, with about a million added each month.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="49">
+          <content>&amp;quot;We have never seen such enormous growth,&amp;quot; Zuurbier said.</content>
+        </sentence>
+        <sentence id="50">
+          <content>&amp;quot;The growth is coming especially from emerging economies like China, Brazil, Russia, Peru, Vietnam.</content>
+        </sentence>
+        <sentence id="51">
+          <content>These countries also have local ccTLD&amp;apost;s like .</content>
+        </sentence>
+        <sentence id="52">
+          <content>pe or .</content>
+        </sentence>
+        <sentence id="53">
+          <content>vn or .</content>
+        </sentence>
+        <sentence id="54">
+          <content>cn, but these are very hard to register for the local communities there, so they go to .</content>
+        </sentence>
+        <sentence id="55">
+          <content>tk.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="56">
+          <content>Freedom Registry makes money through ads on expired domains.</content>
+        </sentence>
+        <sentence id="57">
+          <content>Zuurbier says registration and renewal are free for users, but when they abandon the site or don&amp;apost;t meet the minimum requirements of 25 unique visitors every 90 days, the domain gets &amp;quot;parked.&amp;quot;</content>
+        </sentence>
+        <sentence id="58">
+          <content>That means the URL still exists, but the content is replaced with ads tailored to the original site.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="59">
+          <content>&amp;quot;If your website was about your trip to Mexico, we have spiders that go through all of the live websites, and the moment the live website expires, we take the domain name back,&amp;quot; Zuurbier said.</content>
+        </sentence>
+        <sentence id="60">
+          <content>&amp;quot;We then put ads on there that are relevant to the content that was there before.</content>
+        </sentence>
+        <sentence id="61">
+          <content>In this case, your trip to Mexico.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="62">
+          <content>Freedom Registry gives a cut of the money it earns to the people of Tokelau.</content>
+        </sentence>
+        <sentence id="63">
+          <content>In fact, one-sixth of their economy comes from the sale of .</content>
+        </sentence>
+        <sentence id="64">
+          <content>tk domains.</content>
+        </sentence>
+        <sentence id="65">
+          <content>Tokelau, however, has the smallest GDP in the world: about $1.2 million a year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="66">
+          <content>Through Freedom Registry, Zuurbier didn&amp;apost;t just bring hard cash to the people of Tokelau, he brought connectivity.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="67">
+          <content>&amp;quot;They had four phone lines, and that was basically it,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="68">
+          <content>&amp;quot;They had dial-up, but there was such a slow bandwidth, they could only use it for e-mails without any attachments.</content>
+        </sentence>
+        <sentence id="69">
+          <content>If there was any attachment, they had to actually make a call to New Zealand to remove the attachment, because otherwise, the e-mail wouldn&amp;apost;t get through.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="70">
+          <content>Besides the annual license fees, Freedom Registry provides Internet service to Tokelau with that satellite equipment Zuurbier brought with him.</content>
+        </sentence>
+        <sentence id="71">
+          <content>He says it costs about $2,000 a month for the same connection that would cost about $10 in the U.S.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="72">
+          <content>&amp;quot;We brought them the connectivity, and now there are 120 computers on the island, mostly laptops, because the power goes off at 10 p.m.,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="73">
+          <content>Though it still may be almost impossible to find, Tokelau&amp;apost;s profile has been raised, thanks to Freedom Registry.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="74">
+          <content>And now with new investment in his company, Zuurbier hopes to do the same in Africa.</content>
+        </sentence>
+        <sentence id="75">
+          <content>He spoke from a train bound for Paris, where he was to meet with representatives of seven countries.</content>
+        </sentence>
+        <sentence id="76">
+          <content>Zuurbier won&amp;apost;t say which ones, but he says that in the next two months, the first one will go live.</content>
+        </sentence>
+        <sentence id="77">
+          <content>That means that not only will there be a few new top-level domains, there will probably be more than a few people in those countries seeing a website for the first time.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

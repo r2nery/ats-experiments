@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="416" link="http://www.cnn.com/2013/04/15/health/meat-drugs/index.html" date_published="2013-04-15 21:33:09" category="health" author="Jen Christensen, CNN" highlights_mapped="true" mapping_error="false">
+  <title>What government tests found in your meat</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="4">Antibiotic-resistant bacteria found in raw meat.</sentence>
+      <sentence id="2" ids_article_sentences="28">A microbiologist notes the levels are low.</sentence>
+      <sentence id="3" ids_article_sentences="10">More than 31 million pounds of antibiotics are sold for animal use.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-01 16:41:22" annotation_time="74.998665">
+      <sentence id="4" ids_highlights="1">Antibiotic-resistant bacteria were found in some 69% of pork chops, 55% of ground beef and 39% of chicken.</sentence>
+      <sentence id="10" ids_highlights="3">Some 29.9 million pounds of antibiotics were sold in 2011 for meat and poultry production, compared with the 7.7 million sold for human use, according to the Pew Charitable Trusts, and that number has been on the rise.</sentence>
+      <sentence id="28" ids_highlights="2">The American Meat Institute noted in a statement that bacteria on meat and poultry products are declining.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>When you shop for turkey burgers for dinner tonight, you may be buying more than meat.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>A recently released report from Food and Drug Administration found that of all the raw ground turkey tested, 81% was contaminated with antibiotic-resistant bacteria.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Also, according to the National Antimicrobial Resistance Monitoring System, or NARMS, Retail Meat Annual Report, ground turkey wasn&amp;apost;t the only problem.</content>
+        </sentence>
+        <sentence id="4">
+          <content>Antibiotic-resistant bacteria were found in some 69% of pork chops, 55% of ground beef and 39% of chicken.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>In the meat NARMS tested, scientists found significant amounts of salmonella and Campylobacter -- bacteria that cause millions of cases of food poisoning a year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>Of the chicken tested, 53% was tainted with an antibiotic-resistant form of E.coli, the report said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>Certain strains of E.coli can cause urinary tract infections, pneumonia and other illnesses.</content>
+        </sentence>
+        <sentence id="8">
+          <content>Antibiotic resistance means if you were to become ill, doctors would have fewer drug options to treat you.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>Antibiotics are used in livestock to prevent disease, but they are also used as a protectant and to help growth.</content>
+        </sentence>
+        <sentence id="10">
+          <content>Some 29.9 million pounds of antibiotics were sold in 2011 for meat and poultry production, compared with the 7.7 million sold for human use, according to the Pew Charitable Trusts, and that number has been on the rise.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;Antibiotic use in animals is out of hand,&amp;quot; said Dr. Gail Hansen, a veterinarian and senior officer for the Pew Campaign on Human Health and Industrial Farming, a project aimed at phasing out overuse of antibiotics in food production.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;We feed antibiotics to sick animals, which is completely appropriate, but we also put antibiotics in their feed and in their water to help them grow faster and to compensate for unhygienic conditions.</content>
+        </sentence>
+        <sentence id="13">
+          <content>If you have to keep the animals healthy with drugs, I would argue you need to re-examine the system.</content>
+        </sentence>
+        <sentence id="14">
+          <content>You don&amp;apost;t take antibiotics preventively when you go out into the world.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>Dawn Undurraga, a nutritionist who works with the Environmental Working Group, an organization that released its own analysis of the report Monday, would agree.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>Undurraga is particularly concerned about the NARMS findings because it means the consumption of meat is adding to what the director-general of the World Health Organization, Dr. Margaret Chan, last year called a &amp;quot;post-antibiotic era&amp;quot; in which antibiotics will no longer work to fight disease because too many bacteria have developed resistance to it.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;While we are always concerned when we see antimicrobial resistance, we believe the EWG report oversimplifies the NARMS data,&amp;quot; FDA spokesman Jalil Isa said in an e-mail, adding the report &amp;quot;does not take into account the differences in the public health importance of different bacteria and antibiotics.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="18">
+          <content>The Environmental Working Group would like the FDA to regulate antibiotic use in meat better.</content>
+        </sentence>
+        <sentence id="19">
+          <content>Currently, the FDA only offers suggested guidelines, according to the group.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="20">
+          <content>&amp;quot;We need to end usage for growth promotion and feed efficiency and think about what we are doing for the long term,&amp;quot; Undurraga said.</content>
+        </sentence>
+        <sentence id="21">
+          <content>&amp;quot;We also need more data.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="22">
+          <content>However, Isa said, that the &amp;quot;FDA believes that these drugs are important for the prevention, control and treatment of disease in animals.</content>
+        </sentence>
+        <sentence id="23">
+          <content>It is the nonjudicious use -- for growth promotion and feed efficiency -- that concerns FDA.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="24">
+          <content>The agency recommends that use of &amp;quot;medically important antimicrobial drugs&amp;quot; in food-producing animals be restricted to situations where they are necessary to ensure animal health, and used under veterinary supervision, Isa said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="25">
+          <content>Working with the industry in a &amp;quot;collaborative approach is the quickest way to achieve the greatest degree of public health protection, and it does not prevent FDA from issuing regulations in the future, if the agency finds it necessary.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="26">
+          <content>Currently, the law tracks only how many antibiotics are sold; it does not mandate data collection on how many animals are given the drugs or how much.</content>
+        </sentence>
+        <sentence id="27">
+          <content>Without that information, it is hard to know where antibiotics are used.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="28">
+          <content>The American Meat Institute noted in a statement that bacteria on meat and poultry products are declining.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="29">
+          <content>&amp;quot;The industry&amp;apost;s shift away from the use of antibiotics for growth promotion at the request of the (FDA) last year should provide further reassurance that we are committed to meeting government and customer expectations and to producing meat and poultry products that are as safe as we can make them,&amp;quot; said spokeswoman Janet Riley.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="30">
+          <content>The American Health Institute, the association that represents large agriculture and pharmaceutical industries, supports the NARMS monitoring program as &amp;quot;it provides an important early warning system on the potential for the emergence of antibiotic resistance bacteria,&amp;quot; said Ron Phillips, vice president for legislative and public affairs, in an e-mail.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="31">
+          <content>&amp;quot;NARMS is comprised of three arms that track resistant bacteria in humans, animals and retail meat.</content>
+        </sentence>
+        <sentence id="32">
+          <content>Based on historic data, there have been no discernible trends or patterns found between antibiotic resistance and the numbers reported in each group.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="33">
+          <content>Mike Doyle, a microbiologist with the University of Georgia and the director for the university&amp;apost;s Center for Food Safety, said, &amp;quot;We need to put these tests in perspective.</content>
+        </sentence>
+        <sentence id="34">
+          <content>It&amp;apost;s no surprise that you would find salmonella and Campylobacter and E. coli, but if you look at the numbers, these are low levels and in the case of salmonella, for instance, we are seeing a decrease in multidrug-resistant strains in humans.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="35">
+          <content>Doyle said farmers should use fewer antibiotics with their livestock, which he believes has happened over the past few years.</content>
+        </sentence>
+        <sentence id="36">
+          <content>&amp;quot;I predict within the next five years, the concept of using antibiotics as a prophylactic with animals is not going to continue.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="37">
+          <content>Federal safety guidelines suggest handling meat with care.</content>
+        </sentence>
+        <sentence id="38">
+          <content>Thorough cooking can kill bacteria, and washing your hands before and after touching meat can prevent the spread of disease.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="39">
+          <content>&amp;quot;My husband teases me that I&amp;apost;m too vigilant when I buy turkey and put it in a plastic bag and put it on the bottom shelf of the grocery cart, away from everything else,&amp;quot; Undurraga said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="40">
+          <content>But, she noted, studies have shown a risk factor for salmonella in children riding in shopping carts near raw meat or poultry.</content>
+        </sentence>
+        <sentence id="41">
+          <content>&amp;quot;I think you can&amp;apost;t be too careful,&amp;quot; she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

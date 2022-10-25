@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1660" link="http://edition.cnn.com/2014/04/08/tech/innovation/universe-expansion-astronomers/index.html?iid=article_sidebar" date_published="2014-04-08 15:55:16" category="tech" author="Elizabeth Landau, CNN" highlights_mapped="true" mapping_error="false">
+  <title>The universe is expanding, but how quickly?</title>
+  <keywords>science,astronomy,space,sloan</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="26">Scientists used quasars to measure the universe&amp;apost;s expansion.</sentence>
+      <sentence id="2" ids_article_sentences="20">Dark energy is responsible for the universe&amp;apost;s accelerating expansion.</sentence>
+      <sentence id="3" ids_article_sentences="34">Now, it takes 140 million years for the universe to expand by 1%.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-08 23:44:23" annotation_time="29.947668">
+      <sentence id="20" ids_highlights="2">We think that dark energy is a force that pushes matter apart and that it makes up about 71% of the universe.</sentence>
+      <sentence id="26" ids_highlights="1">For that time, the expansion rate scientists have measured using quasars is 68 kilometers (42 miles) per second per million light-years.</sentence>
+      <sentence id="34" ids_highlights="3">&amp;quot;Today, it takes 140 million years to get bigger by 1%,&amp;quot; he said.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>You can&amp;apost;t see it happening on Earth, but space itself is stretching.</content>
+        </sentence>
+        <sentence id="2">
+          <content>Ever since the Big Bang happened 13.8 billion years ago, the universe has been getting bigger.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;If you go into the distant future, everything that we see in the universe right now will expand away from us so much that we won&amp;apost;t be able to see it anymore,&amp;quot; said David Schlegel of the Lawrence Berkeley National Laboratory.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>The universe grows every year, and by an increasingly larger amount.</content>
+        </sentence>
+        <sentence id="5">
+          <content>Now, scientists have measured for the first time how fast the universe was expanding 10.8 billion years ago with unprecedented precision.</content>
+        </sentence>
+        <sentence id="6">
+          <content>The data come from that time period because scientists were looking at very distant celestial objects, whose light has been traveling for that long.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>Results were presented at this week&amp;apost;s American Physical Society meeting in Savannah, Georgia.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;What is impressive, in my opinion, is that we measure the expansion with a better accuracy (than the expansion today), even though we are looking further in time,&amp;quot; said Andreu Font-Ribera of the Lawrence Berkeley National Laboratory, lead author of a new study, in an e-mail.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>Studying quasars.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>Font-Ribera and colleagues used the Baryon Oscillation Spectroscopic Survey, part of the Sloan Digital Sky Survey, to look at quasars.</content>
+        </sentence>
+        <sentence id="11">
+          <content>Quasars are very bright galaxy cores, powered by supermassive black holes, emitting massive amounts of energy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>Hydrogen gas in space partly absorbs light from distant quasars; when this happens, the gas gets imprinted with a ring-like pattern from a phenomenon called baryon acoustic oscillations.</content>
+        </sentence>
+        <sentence id="13">
+          <content>This is a marker of how matter is distributed.</content>
+        </sentence>
+        <sentence id="14">
+          <content>Patches in the gas that are denser absorb more light.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="15">
+          <content>From the principles of physics, scientists can determine how big these imprints should be and compare that with their maps incorporating data observed with BOSS.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="16">
+          <content>Two groups of scientists have analyzed data from more than 100,000 quasars, looking for hints of how matter is distributed.</content>
+        </sentence>
+        <sentence id="17">
+          <content>One study was led by Timothee Delubac of Centre de Saclay in France (PDF), the other by Font-Ribera.</content>
+        </sentence>
+        <sentence id="18">
+          <content>Collectively, their results establish an expansion rate of the universe.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="19">
+          <content>What&amp;apost;s driving the accelerated expansion of the universe is a mysterious entity that exists only in theory: dark energy.</content>
+        </sentence>
+        <sentence id="20">
+          <content>We think that dark energy is a force that pushes matter apart and that it makes up about 71% of the universe.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="21">
+          <content>&amp;quot;The aim is to understand something more about dark energy and what it&amp;apost;s doing to the universe,&amp;quot; Schlegel said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="22">
+          <content>A brief history of expansion.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="23">
+          <content>Less than a trillionth of a second after the Big Bang, scientists believe, the universe expanded faster than the speed of light in an event called inflation.</content>
+        </sentence>
+        <sentence id="24">
+          <content>This theory was recently supported by a landmark study.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="25">
+          <content>But then, because of the force of gravity, the universe&amp;apost;s expansion decelerated and was in a slowing-down period 10.8 billion years ago.</content>
+        </sentence>
+        <sentence id="26">
+          <content>For that time, the expansion rate scientists have measured using quasars is 68 kilometers (42 miles) per second per million light-years.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="27">
+          <content>Then, about 7 billion years ago, the expansion rate of the universe sped up again.</content>
+        </sentence>
+        <sentence id="28">
+          <content>Scientists attribute this mysterious rebound to dark energy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="29">
+          <content>We are currently on an upswing.</content>
+        </sentence>
+        <sentence id="30">
+          <content>The expansion rate is increasing again, and right now it&amp;apost;s similar to what was measured 10.8 billion years ago.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="31">
+          <content>In relative terms, however, the universe is not expanding as much today with respect to its size, Font-Ribera said.</content>
+        </sentence>
+        <sentence id="32">
+          <content>That&amp;apost;s because the universe is so much bigger today than it was 10.8 billion years ago.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="33">
+          <content>When the universe was a few billion years old, it was getting bigger in every dimension by 1% for every 44 million years that passed, Schlegel said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="34">
+          <content>&amp;quot;Today, it takes 140 million years to get bigger by 1%,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="35">
+          <content>Our galaxy&amp;apost;s future.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="36">
+          <content>The universe&amp;apost;s expansion doesn&amp;apost;t have a big effect on the space between planets within our solar system because gravity is a dominant force holding everything together.</content>
+        </sentence>
+        <sentence id="37">
+          <content>But someday, all of the galaxies that we can currently see with telescopes will all have drifted beyond the horizon of our view, Schlegel said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="38">
+          <content>Don&amp;apost;t worry; that won&amp;apost;t happen for a long, long time.</content>
+        </sentence>
+        <sentence id="39">
+          <content>Incidentally, 6 billion years from now, our galaxy will have completely merged with Andromeda, so ultimately that combined galaxy will exist out of view of any other galaxy as spacetime expands.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="40">
+          <content>It will be a lonely galactic neighborhood, but we won&amp;apost;t be here to see it.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

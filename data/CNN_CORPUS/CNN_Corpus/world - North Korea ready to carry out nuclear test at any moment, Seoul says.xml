@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2516" link="http://www.cnn.com/2012/05/24/world/asia/north-korea-nuclear" date_published="2012-05-24 04:02:10" category="world" author="K.J. Kwon, CNN" highlights_mapped="true" mapping_error="false">
+  <title>North Korea ready to carry out nuclear test at any moment, Seoul says</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">An analysis of satellite images shows increased activity at North Korea&amp;apost;s nuclear site.</sentence>
+      <sentence id="2" ids_article_sentences="6">South Korea says the images suggest the North is ready to conduct the test at any time.</sentence>
+      <sentence id="3" ids_article_sentences="7">North Korea is &amp;quot;awaiting a political decision&amp;quot; on the test, Seoul says.</sentence>
+      <sentence id="4" ids_article_sentences="13">The U.S. has warned Pyongyang that such a test would be &amp;quot;a serious miscalculation&amp;quot;.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-02 20:54:32" annotation_time="22.511667">
+      <sentence id="2" ids_highlights="1">The comment follows an analysis of recent commercial satellite images by the defense publication IHS Janes, which suggested activity was being ramped up at North Korea&amp;apost;s nuclear test site.</sentence>
+      <sentence id="6" ids_highlights="2">&amp;quot;This means they can conduct a nuclear test any time.&amp;quot;</sentence>
+      <sentence id="7" ids_highlights="3">He said North Korea was &amp;quot;awaiting a political decision&amp;quot; on whether or not to go ahead with the test, the prospect of which has strained relations between Pyongyang and other countries.</sentence>
+      <sentence id="13" ids_highlights="4">The top U.S. envoy for North Korea, Glyn Davies, had warned Pyongyang on Monday that a possible third nuclear test would be &amp;quot;a serious miscalculation and mistake.&amp;quot;</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>North Korea appears to be ready to carry out a nuclear test whenever leaders of the reclusive state give the green light, a spokesman for the South Korean Defense Ministry said Thursday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The comment follows an analysis of recent commercial satellite images by the defense publication IHS Janes, which suggested activity was being ramped up at North Korea&amp;apost;s nuclear test site.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Mining carts and excavation equipment at the tunneling area of the North&amp;apost;s Punggye-ri site can be seen in satellite images taken by Digital Globe and GeoEye in the past month.</content>
+        </sentence>
+        <sentence id="4">
+          <content>Earth and debris are being removed from the tunnel in the largest quantities seen so far, according to the Janes assessment.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>&amp;quot;Based on the sand piles from the commercial satellites, we are assuming that they have put necessary devices for a nuclear test inside the shaft,&amp;quot; Kim Min-seok, spokesperson for South Korea&amp;apost;s defense ministry said in a regular briefing Thursday.</content>
+        </sentence>
+        <sentence id="6">
+          <content>&amp;quot;This means they can conduct a nuclear test any time.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>He said North Korea was &amp;quot;awaiting a political decision&amp;quot; on whether or not to go ahead with the test, the prospect of which has strained relations between Pyongyang and other countries.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>Many analysts assume an atomic test by North Korea is just a matter of time following the failure of a controversial rocket launch last month.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Two previous rocket launches in 2006 and 2009 were followed weeks or months later by nuclear tests.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>A satellite image from mid-April cited by Janes shows a full mining train, including an engine and several carts, outside of the tunnel at the nuclear site.</content>
+        </sentence>
+        <sentence id="11">
+          <content>And a more recent shot on May 9 reveals new road networks at the site along with carts and a vehicle at the facility.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>North Korea said Tuesday that it would press on with its nuclear program as a response to what it described as hostility from the United States.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>The top U.S. envoy for North Korea, Glyn Davies, had warned Pyongyang on Monday that a possible third nuclear test would be &amp;quot;a serious miscalculation and mistake.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>An unidentified North Korean Foreign Ministry official suggested that a nuclear test had not originally been part of the regime&amp;apost;s plans.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="15">
+          <content>&amp;quot;We did not envisage such a military measure as a nuclear test as we planned to launch a scientific and technical satellite for peaceful purposes,&amp;quot; he said in a report Tuesday by the state-run Korean Central News Agency.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="16">
+          <content>But the statement concluded with a vague threat: &amp;quot;If the U.S. persists in its moves to ratchet up sanctions and pressure upon us despite our peace-loving efforts, we will be left with no option but to take counter-measures for self-defense.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="17">
+          <content>North Korea launched a rocket on April 13, which failed less than two minutes into the flight.</content>
+        </sentence>
+        <sentence id="18">
+          <content>It said the launch was to put a satellite into orbit, but much of the international community saw it as a cover up for testing its ballistic missile technology.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="19">
+          <content>The move torpedoed a deal reached in February under which Pyongyang agreed to suspend its nuclear activities in exchange for food aid shipments from the United States.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="20">
+          <content>The rocket launch in April was timed to coincide with the 100th anniversary of the birth of Kim Il Sung, the founder and longtime leader of North Korea.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="21">
+          <content>It also came a few months after the death in December of Kim Jong Il, who had headed the secretive regime since 1994.</content>
+        </sentence>
+        <sentence id="22">
+          <content>His son and chosen successor, Kim Jong Un, has taken over as &amp;quot;supreme leader&amp;quot; of the nation, but the level of his influence on policy decisions remains unclear.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

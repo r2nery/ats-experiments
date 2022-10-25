@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="908" link="http://www.cnn.com/2013/07/30/opinion/watts-beck-guns-starbucks/index.html" date_published="2013-07-30 18:46:45" category="opinion" author="Shannon Watts and Kate Beck, Special to CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Opinion: Starbucks, loaded guns and lattes</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">Starbucks refuses to ban loaded guns from its shops in 43 states that allow open carry.</sentence>
+      <sentence id="2" ids_article_sentences="6, 5">Writers: Thousands of mothers want Starbucks to ban guns; nobody needs to be armed.</sentence>
+      <sentence id="3" ids_article_sentences="24">They say chain bans smoking in front of any store; is smoke riskier than loaded guns?.</sentence>
+      <sentence id="4" ids_article_sentences="26">Writers: Many businesses in open carry states ban guns to keep workers, customers safe .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-11 10:22:21" annotation_time="60.869995" mapping_time_divergence="30.434998">
+      <sentence id="3" ids_highlights="1">Starbucks refuses to ban loaded guns from its coffee shops in the 43 states that allow people to openly carry loaded weapons.</sentence>
+      <sentence id="5" ids_highlights="2">Nobody needs to be armed to get a cup of coffee.</sentence>
+      <sentence id="6" ids_highlights="2">And that&amp;apost;s why thousands of moms across the nation are asking Starbucks to put the safety of its customers first.</sentence>
+      <sentence id="24" ids_highlights="3">Starbucks also claims that banning guns from its stores would put its employees in a &amp;quot;potentially unsafe position&amp;quot; if they had to ask a gun-wielding customer to leave.</sentence>
+      <sentence id="26" ids_highlights="4">In fact, these companies have banned guns in order to keep employees and customers safe.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Starbucks lauds itself as a company committed to operating responsibly and ethically, and many of its policies reflect a strong corporate conscience.</content>
+        </sentence>
+        <sentence id="2">
+          <content>But when it comes to responsible gun policy, Starbucks has lost its moral compass.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>Starbucks refuses to ban loaded guns from its coffee shops in the 43 states that allow people to openly carry loaded weapons.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>As mothers, we wonder why the company is willing to put children and families in so much danger.</content>
+        </sentence>
+        <sentence id="5">
+          <content>Nobody needs to be armed to get a cup of coffee.</content>
+        </sentence>
+        <sentence id="6">
+          <content>And that&amp;apost;s why thousands of moms across the nation are asking Starbucks to put the safety of its customers first.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>We&amp;apost;ve started a petition asking Starbucks to ban guns from its stores.</content>
+        </sentence>
+        <sentence id="8">
+          <content>In response, Starbucks has referred concerned moms to a statement on its website, a statement last updated in March 2010, about 90,000 American gun deaths ago.</content>
+        </sentence>
+        <sentence id="9">
+          <content>The statement reads, &amp;quot;The political, policy and legal debates around these issues belong in the legislatures and courts, not in our stores.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="10">
+          <content>Starbucks spokesman Zack Hutson recently told Seattle Weekly that it is a legal strategy.</content>
+        </sentence>
+        <sentence id="11">
+          <content>&amp;quot;In communities that permit open carry, we abide by local laws.</content>
+        </sentence>
+        <sentence id="12">
+          <content>Where these laws don&amp;apost;t exist, openly carrying weapons in our stores is prohibited.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="13">
+          <content>Moms don&amp;apost;t want a gun debate with our coffee either.</content>
+        </sentence>
+        <sentence id="14">
+          <content>But when children are shot in schools, in movie theaters and even at Fourth of July parades, we can no longer keep the debate in the places where they &amp;quot;belong.&amp;quot;</content>
+        </sentence>
+        <sentence id="15">
+          <content>As the debate on guns spreads to town hall meetings nationwide in August, do we really have to have one in Starbucks too?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="16">
+          <content>Starbucks&amp;apost; refusal to ban guns from its stores has made it a nationwide venue for pro-gun rallies, where customers toting loaded weapons gather over coffee.</content>
+        </sentence>
+        <sentence id="17">
+          <content>There have even been accidental shootings: earlier this year a woman shot another customer when she dropped her purse and a loaded weapon inside discharged.</content>
+        </sentence>
+        <sentence id="18">
+          <content>A pro-gun site called I Love Guns and Coffee sells a coin that looks like the Starbucks logo, except the mermaid is wielding handguns.</content>
+        </sentence>
+        <sentence id="19">
+          <content>On Sunday, for example, 60 pro-gun activists carried handguns, semi-automatic rifles and shotguns into a Starbucks in Sioux Falls, South Dakota.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="20">
+          <content>Starbucks claims its open carry policy simply follows state laws and local ordinances.</content>
+        </sentence>
+        <sentence id="21">
+          <content>However, the company is willing to overlook those in other instances; it recently announced a smoking ban within 25 feet of any store.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="22">
+          <content>Why is Starbucks willing take a public health stand on smoking, but not gun violence, which kills more than 55 children and teens a week in America?</content>
+        </sentence>
+        <sentence id="23">
+          <content>Since when is second-hand smoke more dangerous than second-hand bullets?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="24">
+          <content>Starbucks also claims that banning guns from its stores would put its employees in a &amp;quot;potentially unsafe position&amp;quot; if they had to ask a gun-wielding customer to leave.</content>
+        </sentence>
+        <sentence id="25">
+          <content>This alleged concern has not stopped other companies -- including Disney, California Pizza Kitchen, AMC Theaters, Toys R Us, and even Starbucks competitor Peet&amp;apost;s Coffee &amp;amp; Tea -- from prohibiting guns in their stores in states where open carry is legal.</content>
+        </sentence>
+        <sentence id="26">
+          <content>In fact, these companies have banned guns in order to keep employees and customers safe.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="27">
+          <content>Starbucks bans guns from its corporate headquarters in Seattle, where open carry is perfectly legal.</content>
+        </sentence>
+        <sentence id="28">
+          <content>This same protection should be afforded to the millions of unarmed customers Starbucks serves each week.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="29">
+          <content>An overwhelming majority of Americans want common-sense gun reforms.</content>
+        </sentence>
+        <sentence id="30">
+          <content>But it&amp;apost;s not just Congress and state legislatures that impact society; business policies also affect our safety.</content>
+        </sentence>
+        <sentence id="31">
+          <content>Shame on Congress for failing to act, but that&amp;apost;s no excuse for companies like Starbucks to fail to lead.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="32">
+          <content>We never saw ourselves becoming activists.</content>
+        </sentence>
+        <sentence id="33">
+          <content>But like so many mothers on December 14th, we were horrified by the Sandy Hook shootings.</content>
+        </sentence>
+        <sentence id="34">
+          <content>The realization that our country&amp;apost;s lax gun laws led to the massacre of 20 innocent children shook both of us to the core.</content>
+        </sentence>
+        <sentence id="35">
+          <content>As mothers, we cannot and will not abide politics and policies that needlessly put our children and other children in danger.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="36">
+          <content>Moms Demand Action has become a rallying point for mothers across the nation who refuse to tolerate the inaction over the epidemic of gun violence.</content>
+        </sentence>
+        <sentence id="37">
+          <content>We will not stop until gun reforms and responsible policies are in place at the federal level, in our states and at American businesses.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="38">
+          <content>We have the most important reason of all for never backing down -- our kids.</content>
+        </sentence>
+        <sentence id="39">
+          <content>Risking their safety isn&amp;apost;t worth a nonfat misto at Starbucks.</content>
+        </sentence>
+        <sentence id="40">
+          <content>Women make the vast majority of spending decisions in America; you can be sure we&amp;apost;ll spend those dollars with companies that value the safety of our families.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

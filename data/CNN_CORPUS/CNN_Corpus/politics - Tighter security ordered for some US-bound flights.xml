@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1131" link="http://edition.cnn.com/2014/07/02/politics/aviation-security/index.html" date_published="2014-07-02 17:52:04" category="politics" author="Jim Sciutto and Evan Perez, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Tighter security ordered for some U.S.-bound flights</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="12">NEW: UK government confirms it is stepping up aviation security measures.</sentence>
+      <sentence id="2" ids_article_sentences="2">Homeland Security imposing enhanced security measures at certain overseas airports.</sentence>
+      <sentence id="3" ids_article_sentences="8">Passengers could see added shoe inspections, closer explosives screening.</sentence>
+      <sentence id="4" ids_article_sentences="10">The steps are related to new intelligence on terror groups and bomb making.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-16 16:55:01" annotation_time="126.02699">
+      <sentence id="2" ids_highlights="2">Homeland Security Secretary Jeh Johnson said in a statement that he has directed the Transportation Security Administration to &amp;quot;implement enhanced security measures in the coming days&amp;quot; at selected overseas airports.</sentence>
+      <sentence id="8" ids_highlights="3">But passengers may see additional inspections of shoes and electronics, additional use of scanners designed to detect trace amounts of explosives, and another stage of screening at boarding gates, in some cases, the official said.</sentence>
+      <sentence id="10" ids_highlights="4">The changes came about based on new intelligence on terror groups trying to build new types of improvised explosives that are harder to detect, the official told CNN.</sentence>
+      <sentence id="12" ids_highlights="1">The UK Department for Transport confirmed Wednesday that it is stepping up some of its aviation security measures.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The Obama administration is stepping up security for some flights headed to the United States from Europe and the Middle East, reflecting heightened concern that terrorists are developing more sophisticated bombs designed to avoid airport screening.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Homeland Security Secretary Jeh Johnson said in a statement that he has directed the Transportation Security Administration to &amp;quot;implement enhanced security measures in the coming days&amp;quot; at selected overseas airports.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;We will work to ensure these necessary steps pose as few disruptions to travelers as possible,&amp;quot; Johnson said in a statement.</content>
+        </sentence>
+        <sentence id="4">
+          <content>&amp;quot;We are sharing recent and relevant information with our foreign allies and are consulting the aviation industry.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Specific steps or airports were not disclosed.</content>
+        </sentence>
+        <sentence id="6">
+          <content>A homeland security official said that TSA would work with airlines and security agencies overseas and that the changes will primarily focus on airports in Europe and the Middle East.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>The effort does not involve changes to what travelers can take aboard flights.</content>
+        </sentence>
+        <sentence id="8">
+          <content>But passengers may see additional inspections of shoes and electronics, additional use of scanners designed to detect trace amounts of explosives, and another stage of screening at boarding gates, in some cases, the official said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>The measures do not involve U.S. domestic flights, and passengers could see changes as early as next week.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>The changes came about based on new intelligence on terror groups trying to build new types of improvised explosives that are harder to detect, the official told CNN.</content>
+        </sentence>
+        <sentence id="11">
+          <content>There was no specific plot.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>The UK Department for Transport confirmed Wednesday that it is stepping up some of its aviation security measures.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>&amp;quot;For obvious reasons we will not be commenting in detail on those changes.</content>
+        </sentence>
+        <sentence id="14">
+          <content>The majority of passengers should not experience significant disruption,&amp;quot; a spokesman said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>&amp;quot;The UK has some of the most robust aviation security measures and we will continue to take all the steps necessary to ensure that public safety is maintained.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>Since hardening cockpit doors and taking other measures after the 9/11 al Qaeda attacks, the U.S. aviation security focus has shifted primarily from hijackings to plastic and other explosives that can be carried aboard a plane or hidden in baggage.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>The United States has particularly been focused on efforts by al Qaeda in the Arabian Peninsula to develop undetectable explosives since the unsuccessful attempt by the so-called &amp;quot;underwear bomber&amp;quot; to bring down a Delta Air Lines jet over Detroit in 2009.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

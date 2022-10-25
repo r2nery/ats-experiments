@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2037" link="http://www.cnn.com/2013/03/14/world/pope-5-things/index.html" date_published="2013-03-14 06:37:13" category="world" author="Holly Yan, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>5 things to know about Pope Francis</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="10">Pope Francis took his name from St. Francis, a servant to the poor.</sentence>
+      <sentence id="2" ids_article_sentences="19">The Argentinian is not the first pope from outside Europe.</sentence>
+      <sentence id="3" ids_article_sentences="36">He uses public transportation and refused to elevate himself on a platform above cardinals.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-09 18:41:09" annotation_time="53.429333" mapping_time_divergence="35.619556">
+      <sentence id="10" ids_highlights="1">The pope wanted to honor St. Francis of Assisi, an admirer of nature and a servant to the poor and destitute.</sentence>
+      <sentence id="19" ids_highlights="2">He&amp;apost;s not actually the first pope from outside Europe.</sentence>
+      <sentence id="36" ids_highlights="3">The pontiff broke with another tradition by refusing to use a platform to elevate himself above the cardinals standing with him as he was introduced to the world as Pope Francis.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>From the Vatican to Buenos Aires, Catholics worldwide rejoiced when Cardinal Jorge Bergoglio became the new pope.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>He&amp;apost;s the first Jesuit and the first Latin American in modern times to lead the world&amp;apost;s 1.2 billion Catholics.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>But in some ways, he&amp;apost;s just a normal guy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>Here are five things to know about Pope Francis:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>1.</content>
+        </sentence>
+        <sentence id="6">
+          <content>His name says a lot about him.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>Unlike other recent pontiffs -- John Paul II, Benedict XVI -- Pope Francis doesn&amp;apost;t have a numeral after his name.</content>
+        </sentence>
+        <sentence id="8">
+          <content>That&amp;apost;s because he&amp;apost;s the first to take the name Francis.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>Why Francis?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>The pope wanted to honor St. Francis of Assisi, an admirer of nature and a servant to the poor and destitute.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>St. Francis of Assisi was born the son of a rich cloth merchant.</content>
+        </sentence>
+        <sentence id="12">
+          <content>But he lived in rags among beggars at St. Peter&amp;apost;s Basilica in Rome.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>Those close to Pope Francis see similarities between the two men.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;Francis of Assisi is ... someone who turned his back on the wealth of his family and the lifestyle he had, and bonded with lepers and the poor,&amp;quot; said the Rev. Thomas Rosica, the Vatican&amp;apost;s deputy spokesman.</content>
+        </sentence>
+        <sentence id="15">
+          <content>&amp;quot;Here&amp;apost;s this pope known for his care for AIDS patients and people who are very sick.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Who is known for his concern with single mothers whose babies were refused to be baptized by priests in his diocese.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;He scolded those priests last year and said, &amp;apost;How can you turn these people away when they belong to us? &amp;apost;&amp;quot;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="18">
+          <content>2.</content>
+        </sentence>
+        <sentence id="19">
+          <content>He&amp;apost;s not actually the first pope from outside Europe.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="20">
+          <content>Sure, Francis is the first non-European pope in modern times.</content>
+        </sentence>
+        <sentence id="21">
+          <content>But back in the 8th century, a Syrian -- Pope St. Gregory III -- led the church from 731 to 741 A.D.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="22">
+          <content>We&amp;apost;ve also had popes from Bethlehem (St. Evaristus, from 97 to 105 A.D.), Jerusalem (Pope Theodore I, from 642 to 649) and modern-day Libya (Saint Victor I, from 189 to 199).</content>
+        </sentence>
+        <sentence id="23">
+          <content>Several other Syrians have also been pontiff in the last few millennia.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="24">
+          <content>Of course, the majority of popes have been Italian.</content>
+        </sentence>
+        <sentence id="25">
+          <content>But with Francis&amp;apost; appointment, the tide could be shifting to outside Europe.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="26">
+          <content>3.</content>
+        </sentence>
+        <sentence id="27">
+          <content>He&amp;apost;s a pope of the people.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="28">
+          <content>In some ways, Pope Francis is just a normal guy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="29">
+          <content>&amp;quot;The new pope is a very humble man,&amp;quot; said the Rev. Eduardo Mangiarotti, an Argentine priest.</content>
+        </sentence>
+        <sentence id="30">
+          <content>&amp;quot;He takes public transport every day.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="31">
+          <content>He also chose to live in an apartment instead of the archbishop&amp;apost;s palace, passed on a chauffeured limousine and cooked his own meals, CNN Vatican analyst John Allen wrote in a profile published by National Catholic Reporter.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="32">
+          <content>In his first public act as pontiff, Pope Francis broke with tradition by asking the estimated 150,000 people packed into St. Peter&amp;apost;s Square to pray for him, rather than him blessing the crowd first.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="33">
+          <content>&amp;quot;He is a very simple man,&amp;quot; said Luis R. Zarama, auxiliary bishop of Atlanta.</content>
+        </sentence>
+        <sentence id="34">
+          <content>&amp;quot;It&amp;apost;s very clear from the way he approached the people and asked them to bless him and pray for him.</content>
+        </sentence>
+        <sentence id="35">
+          <content>It&amp;apost;s a beautiful sign of closeness and humility.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="36">
+          <content>The pontiff broke with another tradition by refusing to use a platform to elevate himself above the cardinals standing with him as he was introduced to the world as Pope Francis.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="37">
+          <content>&amp;quot;He said I&amp;apost;ll stay down here,&amp;quot; said Cardinal Timothy Dolan, archbishop of New York and the president of the U.S. Conference of Catholic Bishops.</content>
+        </sentence>
+        <sentence id="38">
+          <content>&amp;quot;He met each of us on our own level.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="39">
+          <content>4.</content>
+        </sentence>
+        <sentence id="40">
+          <content>He comes with a side of controversy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="41">
+          <content>Francis opposes same-sex marriage and abortion, which isn&amp;apost;t surprising as leader of the socially conservative Catholic church.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="42">
+          <content>But as a cardinal, Francis clashed with the government of Argentine President Cristina Fernandez de Kirchner over his opposition to gay marriage and free distribution of contraceptives.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="43">
+          <content>His career as a priest in Argentina coincided with the so-called Dirty War -- and some say the church didn&amp;apost;t do enough to confront the military dictatorship.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="44">
+          <content>As many as 30,000 people died or disappeared during the seven-year period that began with a coup in 1976.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="45">
+          <content>Francis, in particular, was accused in a complaint of complicity in the 1976 kidnapping of two liberal Jesuit priests, Allen wrote.</content>
+        </sentence>
+        <sentence id="46">
+          <content>Francis denied the charge.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="47">
+          <content>&amp;quot;The best evidence that I know of that this was all a lie and a series of salacious attacks was that Amnesty International who investigated that said that was all untrue,&amp;quot; said Jim Nicholson, former U.S. Ambassador to the Holy See.</content>
+        </sentence>
+        <sentence id="48">
+          <content>&amp;quot;These were unfair accusations of this fine priest.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="49">
+          <content>But Amnesty International said it did not investigate any individual for their specific involvement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="50">
+          <content>&amp;quot;Our research focused on the plight of the disappeared,&amp;quot; said Susanna Flood, media director for Amnesty International.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="34">
+      <sentences>
+        <sentence id="51">
+          <content>5.</content>
+        </sentence>
+        <sentence id="52">
+          <content>He faces a host of challenges ahead.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="35">
+      <sentences>
+        <sentence id="53">
+          <content>Francis takes the helm of a church that has been rocked in recent years by sex abuse by priests and claims of corruption and infighting among the church hierarchy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="36">
+      <sentences>
+        <sentence id="54">
+          <content>He may need to find a way to draw new Catholics into the church where it is in decline, said Phillip M. Thompson, executive director of the Aquinas Center of Theology at Emory University.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="37">
+      <sentences>
+        <sentence id="55">
+          <content>And he&amp;apost;ll also need to find ways of working with shifting viewpoints among Catholics.</content>
+        </sentence>
+        <sentence id="56">
+          <content>In the United States, for example, 90% of Catholics are using contraception and 82% think it is morally permissible.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="38">
+      <sentences>
+        <sentence id="57">
+          <content>&amp;quot;The church has conservative positions on human sexuality, bioethics, etc., but liberal positions on issues such as economic regulation, the death penalty and immigration,&amp;quot; Thompson said.</content>
+        </sentence>
+        <sentence id="58">
+          <content>&amp;quot;A church divided against itself seems unlikely to renew our political or cultural structures.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

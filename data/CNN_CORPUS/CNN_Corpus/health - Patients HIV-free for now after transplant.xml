@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="337" link="http://www.cnn.com/2013/07/03/health/hiv-patients/index.html" date_published="2013-07-03 14:30:32" category="health" author="Saundra Young, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Patients HIV-free for now after transplant</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Two men show no sign of HIV after bone marrow transplants.</sentence>
+      <sentence id="2" ids_article_sentences="2">But experts say it&amp;apost;s too early to know if the two are cured.</sentence>
+      <sentence id="3" ids_article_sentences="2">The transplant isn&amp;apost;t a viable option for the vast majority of patients.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-20 13:40:40" annotation_time="37.955">
+      <sentence id="1" ids_highlights="1">Two more HIV patients have no signs of the virus in their blood following bone marrow transplants, according to the Boston researchers who treated them.</sentence>
+      <sentence id="2" ids_highlights="2, 3">However, experts stopped short of calling the two cured and said the treatment is not a viable option for the majority of HIV patients.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Two more HIV patients have no signs of the virus in their blood following bone marrow transplants, according to the Boston researchers who treated them.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>However, experts stopped short of calling the two cured and said the treatment is not a viable option for the majority of HIV patients.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The findings were presented Wednesday at the International AIDS Society Conference in Kuala Lumpur, Malaysia.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>The two men, whose identities are being withheld, had been on antiretroviral (ARV) drug therapy for years before being diagnosed with lymphoma, a cancer of the lymph nodes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>Both underwent intensive chemotherapy followed by bone marrow transplants to treat the cancer.</content>
+        </sentence>
+        <sentence id="6">
+          <content>They remained on antiretroviral therapy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>Approximately four months after the transplant doctors were still able to detect HIV in their blood, but six to nine months later, all traces of the virus were gone.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;Because of those findings, we thought it was justified to take the patients off of their therapy to see what happens,&amp;quot; said Dr. Timothy Henrich, who conducted the clinical trial.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>&amp;quot;Now, in a normal person who has HIV, who has been on long-term antiretroviral therapy for years, usually the virus comes back within two to four weeks after stopping therapy, it comes right back. &amp;quot;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="10">
+          <content>Some patients make it up to eight weeks before the virus returns, said Henrich, a researcher at Harvard Medical School and Brigham and Women&amp;apost;s Hospital in Boston, but the virus returns eight to 10 weeks after therapy is stopped in the vast majority of patients.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="11">
+          <content>Not so for these two, however.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;We are now recording 15 weeks after therapy and eight weeks after therapy for our two patients, and to date we are unable to detect HIV rebounding in the bloodstream after we stopped the therapy,&amp;quot; Henrich said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="13">
+          <content>&amp;quot;We do weekly monitoring, as well.</content>
+        </sentence>
+        <sentence id="14">
+          <content>We&amp;apost;ve been looking at the virus in the blood and the cells in the blood essentially every week since we&amp;apost;ve taken them off therapy, and we have not been able to detect virus at this time.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="15">
+          <content>The two men are being compared to Timothy Ray Brown, also known as the &amp;quot;Berlin Patient.&amp;quot;</content>
+        </sentence>
+        <sentence id="16">
+          <content>Brown is thought to be the first person ever &amp;quot;cured&amp;quot; of HIV/AIDS.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="17">
+          <content>In 2007, Brown had a stem cell transplant to treat his leukemia.</content>
+        </sentence>
+        <sentence id="18">
+          <content>His doctor searched for a donor with a rare genetic mutation called CCR5 delta32 that makes stem cells naturally resistant to HIV infection.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="19">
+          <content>Today, the virus is still undetectable in Brown&amp;apost;s blood, and he is still considered to be &amp;quot;functionally cured.&amp;quot;</content>
+        </sentence>
+        <sentence id="20">
+          <content>A functional cure means the virus is controlled and will not be transmitted to others.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="21">
+          <content>The stem cell transplant procedure, however, is very dangerous because a patient&amp;apost;s immune system has to be wiped out in order to accept the transplant.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="22">
+          <content>Using a bone marrow transplant to treat HIV is not a feasible treatment for most patients, and only 1% of Caucasians -- mostly Northern Europeans -- and no African-Americans or Asians have the CCR5 delta32 mutation, researchers say.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="23">
+          <content>The transplant is still not a practical strategy for the majority of HIV patients, and the risk of mortality is up to 20%, Henrich says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="24">
+          <content>Dr. Anthony Fauci, director of the National Institute of Allergy and Infectious Diseases at the National Institutes of Health, agreed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="25">
+          <content>&amp;quot;This is not a practical approach for someone who does not need a stem cell transplant since the transplant and its preparation and its subsequent need for chronic immunosuppression is a risky procedure,&amp;quot; Fauci said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="26">
+          <content>&amp;quot;If you have an underlying neoplasm (tumor) like these patients had, then the risk outweighs the benefit,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="27">
+          <content>&amp;quot;However, if you are doing well on ARVs and you merely want to get off antiretroviral therapy, then the risk seems greater than the benefit.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="28">
+          <content>Even though the two patients showed a reduction of the virus in the blood, it could still be in some tissue -- the brain or gastrointestinal tract, for instance, Henrich said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="29">
+          <content>The virus &amp;quot;could certainly return,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="30">
+          <content>&amp;quot;It&amp;apost;s possible, again, that the virus could return in a week, it could return in a month -- in fact, some mathematical modeling predicts that virus could even return one to two years after we stop antiretroviral therapy, so we really don&amp;apost;t know what the long-term or full effects of stem cell transplantation and viral persistence is.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="31">
+          <content>Still, he feels the information will help move the curative field of HIV research forward.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="32">
+          <content>&amp;quot;We&amp;apost;re going to learn different strategies about how we can attack the viral reservoir, how we can harness the immune system better and what exactly caused the lack of virus in the two patients at least in the short term.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="33">
+          <content>Earlier this year, researchers said an HIV-positive baby in Mississippi was given high doses of three antiretroviral drugs within 30 hours of her birth, with doctors hoping that would control the virus.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="34">
+          <content>Two years later, there is no sign of HIV in the child&amp;apost;s blood, making her the first child to be &amp;quot;functionally cured&amp;quot; of HIV.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="35">
+          <content>The Foundation for AIDS Research, or amfAR, helped fund the study.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="36">
+          <content>&amp;quot;These findings clearly provide important new information that might well alter the current thinking about HIV and gene therapy,&amp;quot; said amfAR CEO Kevin Robert Frost.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="37">
+          <content>&amp;quot;While stem cell transplantation is not a viable option for people with HIV on a broad scale because of its costs and complexity, these new cases could lead us to new approaches to treating, and ultimately even eradicating, HIV.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="38">
+          <content>&amp;quot;Dr. Henrich is charting new territory in HIV eradication research,&amp;quot; said Dr. Rowena Johnston, amfAR vice president and director of research.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="39">
+          <content>&amp;quot;Whatever the outcome, we will have learned more about what it will take to cure HIV.</content>
+        </sentence>
+        <sentence id="40">
+          <content>We believe amfAR&amp;apost;s continued investments in HIV cure-based research are beginning to show real results and will ultimately lead us to a cure in our lifetime.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="34">
+      <sentences>
+        <sentence id="41">
+          <content>In the meantime, Henrich says he and other groups are actively enrolling patients for these types of studies.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

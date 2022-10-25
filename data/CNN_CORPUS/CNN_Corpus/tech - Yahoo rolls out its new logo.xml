@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1681" link="http://www.cnn.com/2013/09/05/tech/web/new-yahoo-logo/index.html" date_published="2013-09-05 05:47:30" category="tech" author="Heather Kelly, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Yahoo rolls out its new logo</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">After 30 days of teasers, Yahoo has unveiled its new logo.</sentence>
+      <sentence id="2" ids_article_sentences="3, 2">The font is different but much of the logo, including exclamation point, are the same.</sentence>
+      <sentence id="3" ids_article_sentences="23">The logo is part of a larger rebranding effort by the company.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-28 12:32:23" annotation_time="95.283">
+      <sentence id="1" ids_highlights="1">After an extensive, month-long buildup, Yahoo has finally unveiled its new logo.</sentence>
+      <sentence id="2" ids_highlights="2">Overall the look is cleaner and thinner, and it is a new sans-serif typeface created by Yahoo.</sentence>
+      <sentence id="3" ids_highlights="2">The logo is still purple, though a shade darker, and features all the usual uppercase letters in the same order finished off by the signature exclamation point, which dances around in some versions.</sentence>
+      <sentence id="23" ids_highlights="3">&amp;quot;The logo is only part of a brand new branding and image campaign.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>After an extensive, month-long buildup, Yahoo has finally unveiled its new logo.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Overall the look is cleaner and thinner, and it is a new sans-serif typeface created by Yahoo.</content>
+        </sentence>
+        <sentence id="3">
+          <content>The logo is still purple, though a shade darker, and features all the usual uppercase letters in the same order finished off by the signature exclamation point, which dances around in some versions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Yahoo posted two flavors of the new look to its Tumblr at midnight on Thursday.</content>
+        </sentence>
+        <sentence id="5">
+          <content>One is white text on a purple background, the other purple text on white background.</content>
+        </sentence>
+        <sentence id="6">
+          <content>Both have a slight beveled effect, though it&amp;apost;s more noticeable on the purple text.</content>
+        </sentence>
+        <sentence id="7">
+          <content>It has already replaced the logo that appears on the top left corner of Yahoo.com.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;We knew we wanted a logo that reflected Yahoo - whimsical, yet sophisticated.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Modern and fresh, with a nod to our history.</content>
+        </sentence>
+        <sentence id="10">
+          <content>Having a human touch, personal.</content>
+        </sentence>
+        <sentence id="11">
+          <content>Proud.,&amp;quot; wrote CEO Marissa Mayer in a blog post on Tumblr, which Yahoo bought earlier this year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;We didn&amp;apost;t want to have any straight lines in the logo.</content>
+        </sentence>
+        <sentence id="13">
+          <content>Straight lines don&amp;apost;t exist in the human form and are extremely rare in nature, so the human touch in the logo is that all the lines and forms all have at least a slight curve,&amp;quot; Mayer added in her post, which goes into exhaustive detail about the thinking behind the logo.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="14">
+          <content>In a recent internal poll of Yahoo employees, 87% wanted the logo changed, Mayer said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="15">
+          <content>Yahoo managed to turn a simple rebranding into an impressive marketing push by dragging it out for 30 days.</content>
+        </sentence>
+        <sentence id="16">
+          <content>For the past month, the company has rotated out the logo on its homepage daily with one of the runnersup.</content>
+        </sentence>
+        <sentence id="17">
+          <content>Some of the 29 logos were a lot more unusual than the final choice, perhaps to make fans appreciate the reserved simplicity of the final look.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;Sharing these logo variations prepares people for change, so there&amp;apost;s less risk of what happened to Gap,&amp;quot; said David Airey, a graphic designer specializing in brand identity.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="19">
+          <content>When Gap tried changing its logo in 2010, there was an outcry among Gap loyalists and logo enthusiasts.</content>
+        </sentence>
+        <sentence id="20">
+          <content>The clothing company eventually caved and switched back to its old logo.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="21">
+          <content>Yahoo&amp;apost;s logo redesign was headed up by an in-house branding group and product designers, according to AdAge.</content>
+        </sentence>
+        <sentence id="22">
+          <content>It is likely just one of the more noticeable elements of a larger rebranding effort for the struggling company, which Mayer has re-energized since becoming CEO last year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="23">
+          <content>&amp;quot;The logo is only part of a brand new branding and image campaign.</content>
+        </sentence>
+        <sentence id="24">
+          <content>It signals to consumers, investors and employees that change is coming,&amp;quot; said Columbia business school professor Bernd Schmitt.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="25">
+          <content>The new logo is probably not different enough to raise much ire (or eyebrows) among Yahoo users, although some Internet critics were unimpressed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="26">
+          <content>On Twitter, the reaction to the logo was less than enthusiastic.</content>
+        </sentence>
+        <sentence id="27">
+          <content>&amp;quot;The new Yahoo logo looks like it got run through Alien Skin Eye Candy on Photoshop 4.0.</content>
+        </sentence>
+        <sentence id="28">
+          <content>,&amp;quot; said Justin Williams.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="29">
+          <content>&amp;quot;A bad logo is all it took for Yahoo!</content>
+        </sentence>
+        <sentence id="30">
+          <content>to make everyone talk about it,&amp;quot; tweeted Preshit Deorukhkar, editor of design publication Beautiful Pixels.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="31">
+          <content>Yahoo hasn&amp;apost;t updated its logo since 2009, and it has been mostly the same since 1995.</content>
+        </sentence>
+        <sentence id="32">
+          <content>The move to change it now is logical given its Mayer&amp;apost;s recent attempts to breathe new life into the brand.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="33">
+          <content>&amp;quot;More often than not, when a company&amp;apost;s identity looks a little tired (or more likely when new leadership wants to put their own stamp on things), what&amp;apost;s already in place won&amp;apost;t need to be thrown out.</content>
+        </sentence>
+        <sentence id="34">
+          <content>It&amp;apost;ll just need to be freshened up,&amp;quot; said Airey.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2777" link="http://www.cnn.com/2014/01/05/world/europe/spain-terror-arrest/?hpt=bosread" date_published="2014-01-05 16:33:58" category="world" author="Al Goodman, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Suspected militant returning from war in Syria arrested in Spain</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">Suspect is a Spanish national .</sentence>
+      <sentence id="2" ids_article_sentences="2">The suspect is tied to an al Qaeda-linked group.</sentence>
+      <sentence id="3" ids_article_sentences="1">The arrest took place at Malaga airport.</sentence>
+      <sentence id="4" ids_article_sentences="18">Sadik Mohamed will be arraigned at the National Court in Madrid,.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-20 20:36:27" annotation_time="32.324" mapping_time_divergence="8.081">
+      <sentence id="1" ids_highlights="3">Madrid, Spain A suspected Islamic militant returning to Europe from the war in Syria was arrested on Sunday at Malaga airport in southern Spain as a potential &amp;quot;threat to national security,&amp;quot; the Interior Ministry said in a statement.</sentence>
+      <sentence id="2" ids_highlights="2">The suspect, Abdeluahid Sadik Mohamed, belongs to an al Qaeda-linked group, Islamic State of Iraq and Syria, the statement said.</sentence>
+      <sentence id="3" ids_highlights="1">A spokesman for the Ministry confirmed Sadik Mohamed is a Spanish national born in Ceuta, the Spanish enclave on Morocco&amp;apost;s north coast.</sentence>
+      <sentence id="18" ids_highlights="4">Sadik Mohamed will be arraigned at the National Court in Madrid, the Interior Ministry statement said.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Madrid, Spain A suspected Islamic militant returning to Europe from the war in Syria was arrested on Sunday at Malaga airport in southern Spain as a potential &amp;quot;threat to national security,&amp;quot; the Interior Ministry said in a statement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The suspect, Abdeluahid Sadik Mohamed, belongs to an al Qaeda-linked group, Islamic State of Iraq and Syria, the statement said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>A spokesman for the Ministry confirmed Sadik Mohamed is a Spanish national born in Ceuta, the Spanish enclave on Morocco&amp;apost;s north coast.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>He had spent months alongside Islamic militants fighting in Syria and in Iraq since last May, arriving to the region from Casablanca, Morocco.</content>
+        </sentence>
+        <sentence id="5">
+          <content>He was arrested at Malaga airport on a flight from Istanbul, Turkey, the statement said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>Spanish terrorism experts have repeatedly said that authorities are closely tracking the movements of Islamic militants who have fought in Syria, Iraq or Afghanistan when they come to Europe for the threat they pose as potential &amp;quot;lone wolves&amp;quot; or in group terrorist actions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>Sadik Mohamed was allegedly involved in terrorist training camps in Syria and Iraq, the statement said.</content>
+        </sentence>
+        <sentence id="8">
+          <content>The Interior Ministry did not immediately reveal his age.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>He was a suspect in a partially dismantled Spanish and Moroccan network of Islamic militants that recruited, indoctrinated, trained and financed militants to be sent to the battlefronts in Syria.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>The network was based in Ceuta and and in the nearby Moroccan city of Fnideq.</content>
+        </sentence>
+        <sentence id="11">
+          <content>Ten militants allegedly linked to this network have been jailed on pretrial charges of terrorism, including the alleged leader who was arrested September 17 after escaping detention in June.</content>
+        </sentence>
+        <sentence id="12">
+          <content>Eight other suspected colleagues were rounded up at that time.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>In a court order issued in June, Judge Ismael Moreno of Spain&amp;apost;s National Court wrote that the suspected cell in Ceuta was &amp;quot;a structure based in Spain, with connections in Morocco, Belgium, Turkey and Syria, dedicated to radicalizing, recruiting and sending mujahedeen (fighters) to Syria with the aim of conducting jihad and achieving martyrdom.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>The group has connections to the Jabhat al-Nusra front, described as an active al Qaeda group in and around Syria, and to the Islamic State of Iraq and Syria , but &amp;quot;there are increasing references to carrying out jihad at home,&amp;quot; the judge warned at the time, referring to potential attacks in Spain.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="15">
+          <content>The group had sent at least 12 Spanish or Moroccan males, from both Ceuta and Morocco, to fight in Syria, the judge wrote.</content>
+        </sentence>
+        <sentence id="16">
+          <content>At least five died in suicide attacks in Syria that caused numerous casualties.</content>
+        </sentence>
+        <sentence id="17">
+          <content>One of the males was a minor; it was not immediately clear if he was among those who had died.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="18">
+          <content>Sadik Mohamed will be arraigned at the National Court in Madrid, the Interior Ministry statement said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

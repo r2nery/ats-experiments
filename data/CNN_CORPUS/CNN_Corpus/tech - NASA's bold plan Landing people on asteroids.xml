@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1629" link="http://www.cnn.com/2014/05/13/tech/nasa-asteroid-landing/index.html" date_published="2014-05-13 08:35:54" category="tech" author="Jethro Mullen, CNN" highlights_mapped="true" mapping_error="false">
+  <title>NASA&amp;apost;s bold plan: Landing people on asteroids</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">NASA wants to land astronauts on an asteroid in the 2020s.</sentence>
+      <sentence id="2" ids_article_sentences="14">Its strategy is to capture an asteroid and put it in orbit around the moon.</sentence>
+      <sentence id="3" ids_article_sentences="5">Two astronauts have been simulating an asteroid landing at a space center.</sentence>
+      <sentence id="4" ids_article_sentences="16">Rock samples from an asteroid may garner information about the solar system.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-16 17:41:57" annotation_time="74.5215">
+      <sentence id="3" ids_highlights="1">But NASA says it&amp;apost;s working on plans to send astronauts into space to land on an asteroid.</sentence>
+      <sentence id="5" ids_highlights="3">That isn&amp;apost;t stopping astronauts from simulating an asteroid landing in a 40-foot-deep swimming pool at a Space Center in Houston.</sentence>
+      <sentence id="14" ids_highlights="2">NASA says it&amp;apost;s already trying to pick out an asteroid that a robotic mission could reach, capture and bring into an orbit around the moon.</sentence>
+      <sentence id="16" ids_highlights="4">Material from the asteroid&amp;apost;s core could contain information about the age and formation of the solar system.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>This isn&amp;apost;t a real-life recreation of &amp;quot;Armageddon.&amp;quot;</content>
+        </sentence>
+        <sentence id="2">
+          <content>There&amp;apost;s no clear and present threat to Earth.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>But NASA says it&amp;apost;s working on plans to send astronauts into space to land on an asteroid.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>The NASA mission isn&amp;apost;t planned to take place until the 2020s.</content>
+        </sentence>
+        <sentence id="5">
+          <content>That isn&amp;apost;t stopping astronauts from simulating an asteroid landing in a 40-foot-deep swimming pool at a Space Center in Houston.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;We&amp;apost;re working on the techniques and tools we might use someday to explore a small asteroid that was captured from an orbit around the sun and brought back by a robotic spacecraft to orbit around the moon,&amp;quot; said Stan Love, one of the astronauts participating in the tests.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>Testing tools.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;When it&amp;apost;s there, we can send people there to take samples and take a look at it up close,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="9">
+          <content>&amp;quot;That&amp;apost;s our main task; we&amp;apost;re looking at tools we&amp;apost;d use for that, how we&amp;apost;d take those samples.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>Love and his colleague Steve Bowen, who between them have clocked up more than 62 hours on real spacewalks, took a dip in the swimming pool at NASA&amp;apost;s Johnson Space Center last week to practice climbing out of a mockup of the Orion spacecraft onto a fake asteroid.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>Being underwater creates the lack of gravity that allows astronauts to practice walking in space.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>The two men were working with engineers to try out tools that might be used, like a pneumatic hammer, as well as the type of spacesuit that might be worn on the asteroid.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>Searching for targets.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>NASA says it&amp;apost;s already trying to pick out an asteroid that a robotic mission could reach, capture and bring into an orbit around the moon.</content>
+        </sentence>
+        <sentence id="15">
+          <content>Astronauts would then travel on the Orion spacecraft to explore the asteroid and collect samples.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="16">
+          <content>Material from the asteroid&amp;apost;s core could contain information about the age and formation of the solar system.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="17">
+          <content>The agency says the approach &amp;quot;makes good use of capabilities NASA already has, while also advancing a number of technologies needed for longer-term plans: sending humans to Mars in the 2030s.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="18">
+          <content>Study: Solar system full of &amp;apost;rogue&amp;apost; asteroids.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

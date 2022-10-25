@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1572" link="http://edition.cnn.com/2013/09/04/tech/innovation/dna-face-sculptures/index.html?iid=article_sidebar" date_published="2013-09-04 14:54:01" category="tech" author="Natalie Angley, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Artist creates faces from DNA left in public</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">Heather Dewey-Hagborg extracts DNA from material and turns that into 3-D faces.</sentence>
+      <sentence id="2" ids_article_sentences="4">Her project, &amp;quot;Stranger Visions,&amp;quot; fashions the DNA into portrait sculptures .</sentence>
+      <sentence id="3" ids_article_sentences="14">&amp;quot;From a cigarette butt, I can learn where someone&amp;apost;s ancestors likely came from ...&amp;quot; she says.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-31 16:15:53" annotation_time="24.360334">
+      <sentence id="3" ids_highlights="1">New York artist Heather Dewey-Hagborg might pick it up, extract the DNA and create a 3-D face that could look like you.</sentence>
+      <sentence id="4" ids_highlights="2">Her project, &amp;quot;Stranger Visions,&amp;quot; fashions portrait sculptures from bits of genetic material collected in public places.</sentence>
+      <sentence id="14" ids_highlights="3">&amp;quot;From a cigarette butt, I can learn where someone&amp;apost;s ancestors likely came from, their gender, eye color, hair color, complexion, freckles, their tendency to be overweight and a handful of dimensions of the face as well with a certain likelihood,&amp;quot; she said.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>We leave genetic traces of ourselves wherever we go -- in a strand of hair left on the subway or in saliva on the side of a glass at a cafe.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>So you may want to think twice the next time you spit out your gum or drop a cigarette butt in public.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>New York artist Heather Dewey-Hagborg might pick it up, extract the DNA and create a 3-D face that could look like you.</content>
+        </sentence>
+        <sentence id="4">
+          <content>Her project, &amp;quot;Stranger Visions,&amp;quot; fashions portrait sculptures from bits of genetic material collected in public places.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>&amp;quot;The idea for the project came from this fascination with a single hair,&amp;quot; Dewey-Hagborg told CNN.</content>
+        </sentence>
+        <sentence id="6">
+          <content>&amp;quot;This turned into a research project for me exploring exactly what I could discover about someone from an artifact they left behind.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>As it turns out, she could discover a whole lot.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>Her process starts with finding a sample in a public place -- a strand of hair, a cigarette butt or a chewed piece of gum -- anything that might contain cells from a person&amp;apost;s body.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>&amp;quot;You want something that is relatively fresh,&amp;quot; she said.</content>
+        </sentence>
+        <sentence id="10">
+          <content>&amp;quot;Nothing that has been stepped on or that looks like it&amp;apost;s been sitting around for ages.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>Dewey-Hagborg takes the sample to a community biotechnology lab in Brooklyn called Genspace.</content>
+        </sentence>
+        <sentence id="12">
+          <content>There she uses a standard DNA extraction protocol to mine the DNA, purify it and use it in polymerase chain reactions.</content>
+        </sentence>
+        <sentence id="13">
+          <content>The technical process is outlined on her blog.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;From a cigarette butt, I can learn where someone&amp;apost;s ancestors likely came from, their gender, eye color, hair color, complexion, freckles, their tendency to be overweight and a handful of dimensions of the face as well with a certain likelihood,&amp;quot; she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>Once she obtains the sequencing information, she takes the traits she&amp;apost;s gathered from the individual&amp;apost;s DNA and feeds it into a computer program to generate a 3-D model of a face.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;The way that I use code is a lot like how a sketch artist would use a pencil,&amp;quot; she said.</content>
+        </sentence>
+        <sentence id="17">
+          <content>&amp;quot;I&amp;apost;ll take the code, and then I&amp;apost;ll generate different versions of a face.</content>
+        </sentence>
+        <sentence id="18">
+          <content>I&amp;apost;ll use the code to enhance certain facial features or decrease them based on what I find in the DNA.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="19">
+          <content>It takes about eight hours to print one of Dewey-Hagborg&amp;apost;s faces in 3-D at NYU&amp;apost;s Advanced Media Studio.</content>
+        </sentence>
+        <sentence id="20">
+          <content>Once it&amp;apost;s printed in what looks like a block of powder, the face is dug out, baked and hardened with a superglue-like substance.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="21">
+          <content>But there are limitations.</content>
+        </sentence>
+        <sentence id="22">
+          <content>The faces are not exact replicas of the stranger who left the DNA behind.</content>
+        </sentence>
+        <sentence id="23">
+          <content>Dewey-Hagborg considers it more of a family resemblance.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="24">
+          <content>&amp;quot;It&amp;apost;s important to understand that these portraits are a general likeness.</content>
+        </sentence>
+        <sentence id="25">
+          <content>They&amp;apost;re not exact reconstructions,&amp;quot; she said.</content>
+        </sentence>
+        <sentence id="26">
+          <content>&amp;quot;They&amp;apost;ll have things in common with the person, but they won&amp;apost;t look exactly like the person.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="27">
+          <content>She is also unable to determine ages from the DNA samples.</content>
+        </sentence>
+        <sentence id="28">
+          <content>So all of her faces look around 30.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="29">
+          <content>Dewey-Hagborg started the &amp;quot;Stranger Visions&amp;quot; project with her own self-portrait about two years ago.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="30">
+          <content>&amp;quot;Even though I was the one developing the code and training the system, I wasn&amp;apost;t really sure how much it would end up looking like me,&amp;quot; she said.</content>
+        </sentence>
+        <sentence id="31">
+          <content>&amp;quot;I was particularly impressed with how much the overall facial shape resembled me.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="32">
+          <content>Reaction to the project has been mostly positive, although some observers feel her work raises thorny ethical questions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="33">
+          <content>&amp;quot;This is very creepy,&amp;quot; wrote a commenter on a Smithsonian blog post.</content>
+        </sentence>
+        <sentence id="34">
+          <content>&amp;quot;We need to pursue our privacy post haste, if this is what is available to the public.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="35">
+          <content>Dewey-Hagborg said she understands that some people could be put off by the portraits or consider them an intrusion of privacy.</content>
+        </sentence>
+        <sentence id="36">
+          <content>But that&amp;apost;s also the point.</content>
+        </sentence>
+        <sentence id="37">
+          <content>She wants her work to raise questions about genetic surveillance and privacy issues.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="38">
+          <content>&amp;quot;If people find it to be a little creepy, that&amp;apost;s OK,&amp;quot; she said.</content>
+        </sentence>
+        <sentence id="39">
+          <content>&amp;quot;It&amp;apost;s meant to make you aware of these issues and make you aware that this is possible.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="40">
+          <content>After all, &amp;quot;Stranger Visions&amp;quot; is an art project.</content>
+        </sentence>
+        <sentence id="41">
+          <content>And most conceptual art produces more questions than answers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="42">
+          <content>&amp;quot;It&amp;apost;s meant to be an exploration at the intersection of art and technology and science,&amp;quot; she said.</content>
+        </sentence>
+        <sentence id="43">
+          <content>&amp;quot;And it&amp;apost;s meant to be a provocation.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

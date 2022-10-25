@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2653" link="http://www.cnn.com/2012/05/07/world/europe/russia-putin/index.html" date_published="2012-05-07 07:45:43" category="world" author="Phil Black, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Putin returns as Russia&amp;apost;s president amid protests</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="11">NEW: Vladimir Putin is sworn in for a six-year term as Russia&amp;apost;s president.</sentence>
+      <sentence id="2" ids_article_sentences="4">NEW: &amp;quot;The next few years will define the future of Russia,&amp;quot; Putin says in speech.</sentence>
+      <sentence id="3" ids_article_sentences="1">Putin won controversial elections in March amid allegations of fraud.</sentence>
+      <sentence id="4" ids_article_sentences="12">Hundreds have been arrested in anti-Putin protests.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-11 18:23:05" annotation_time="123.55433" mapping_time_divergence="61.777164">
+      <sentence id="1" ids_highlights="3">Moscow Vladimir Putin, who has dominated Russian politics for more than a decade, was sworn in Monday as the country&amp;apost;s president two months after winning back the job in an election clouded by allegations of widespread fraud.</sentence>
+      <sentence id="4" ids_highlights="2">The next few years will define the future of Russia for decades ahead.&amp;quot;</sentence>
+      <sentence id="11" ids_highlights="1">Under Russia&amp;apost;s newly amended constitution, Putin will serve a six-year term and, if re-elected, could remain in power until 2024 -- the longest of any Russian leader since Joseph Stalin, according to Ria Novosti.</sentence>
+      <sentence id="12" ids_highlights="4">On Sunday, hundreds of people, including opposition leaders and a popular blogger, were arrested in anti-Putin protests.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Moscow Vladimir Putin, who has dominated Russian politics for more than a decade, was sworn in Monday as the country&amp;apost;s president two months after winning back the job in an election clouded by allegations of widespread fraud.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>&amp;quot;We&amp;apost;re entering a new stage in our national development,&amp;quot; Putin said in his inauguration speech.</content>
+        </sentence>
+        <sentence id="3">
+          <content>&amp;quot;We&amp;apost;ll have to address tasks that are of a totally different level and scale.</content>
+        </sentence>
+        <sentence id="4">
+          <content>The next few years will define the future of Russia for decades ahead.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>About 2,000 people attended the inauguration under tight security, while nearby, police arrested about 120 people protesting against the return of Putin to the presidency, according to the state-run Ria Novosti news service.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>Putin held the presidency for eight years before term limits forced him to step down in 2008.</content>
+        </sentence>
+        <sentence id="7">
+          <content>He then became prime minister under his hand-picked successor, Dmitry Medvedev.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>One of Putin&amp;apost;s first tasks was to nominate Medvedev to become prime minister, according to Ria Novosti.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>Putin, a former KGB officer who has worked to stabilize Russia&amp;apost;s economy and curtail dissent, won the March presidential election with nearly 65% of the vote.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>International observers said there was legitimate uncertainty about the vote, and chess champion-turned-opposition activist Garry Kasparov accused Putin&amp;apost;s supporters of &amp;quot;massive fraud.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>Under Russia&amp;apost;s newly amended constitution, Putin will serve a six-year term and, if re-elected, could remain in power until 2024 -- the longest of any Russian leader since Joseph Stalin, according to Ria Novosti.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>On Sunday, hundreds of people, including opposition leaders and a popular blogger, were arrested in anti-Putin protests.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>Many chanted slogans such as &amp;quot;Russia without Putin&amp;quot; and &amp;quot;Putin is a thief.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>The protest turned violent when a large number of demonstrators veered off the agreed route of the march, and some protesters fought with police.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>Clashes broke out, with some protesters throwing objects -- including sticks and at least one flare -- at police.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="16">
+          <content>Authorities responded by &amp;quot;clubbing demonstrators&amp;quot; who briefly broke through police lines, the RIA Novosti news agency reported.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="17">
+          <content>One of its correspondents saw &amp;quot;a male protester out cold after clashing with officers,&amp;quot; while another reported eight officers arresting one demonstrator &amp;quot;for the apparent crime of wearing a Guy Fawkes mask,&amp;quot; the symbol of the vigilante hacking group Anonymous.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="18">
+          <content>More than 250 people were arrested, including leading opposition figure Boris Nemtsov, leftist radical group leader Sergei Udaltsov and popular blogger Alexei Navalny, Moscow police said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="19">
+          <content>Twenty officers were injured and three hospitalized in the clashes, according to RIA Novosti.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

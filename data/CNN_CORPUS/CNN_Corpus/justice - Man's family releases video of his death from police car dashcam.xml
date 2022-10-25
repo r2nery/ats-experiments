@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="565" link="http://www.cnn.com/2013/09/20/justice/florida-police-run-over-man/index.html" date_published="2013-09-21 00:37:17" category="justice" author="Kim Segal, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Man&amp;apost;s family releases video of his death from police car dashcam</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">Marlon Brown died on May 8 after he was run over by a DeLand, Florida, police officer.</sentence>
+      <sentence id="2" ids_article_sentences="5">The police officer was fired, but a grand jury decided not to indict him.</sentence>
+      <sentence id="3" ids_article_sentences="1">Outraged, his family released dashcam video of his death.</sentence>
+      <sentence id="4" ids_article_sentences="1">The family want the police officer to face criminal charges.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-02 21:32:29" annotation_time="26.685667">
+      <sentence id="1" ids_highlights="3, 4">The family of a Florida man has released video of his death, hoping to get criminal charges filed against the police officer who ran him over.</sentence>
+      <sentence id="2" ids_highlights="1">On May 8, Marlon Brown was being chased by DeLand police because they allegedly saw that he was not wearing a seatbelt.</sentence>
+      <sentence id="5" ids_highlights="2">Last week, a grand jury decided not to indict officer James Harris on a criminal charge of vehicular manslaughter.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The family of a Florida man has released video of his death, hoping to get criminal charges filed against the police officer who ran him over.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>On May 8, Marlon Brown was being chased by DeLand police because they allegedly saw that he was not wearing a seatbelt.</content>
+        </sentence>
+        <sentence id="3">
+          <content>At a dead-end road, Brown stopped his car and started running.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>One of the police cars hit and ran him over, its dashcam video recording the entire incident.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Last week, a grand jury decided not to indict officer James Harris on a criminal charge of vehicular manslaughter.</content>
+        </sentence>
+        <sentence id="6">
+          <content>That&amp;apost;s when the family decided to go public, and release the video.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;We knew it wasn&amp;apost;t going to be an easy video to watch,&amp;quot; says Krystal Brown the ex-wife and mother of Brown&amp;apost;s children, &amp;quot;but in order to obtain justice, and that&amp;apost;s what we&amp;apost;re looking for, we knew it was something that we had to do.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>Justice, the family says, would be criminal charges against Harris for killing Marlon Brown.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Harris, who has been fired as a result of the incident, could not be reached for comment.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>The dashcam video shows Harris&amp;apost; police car following two other police cars as they drive down a residential street into a grass lot.</content>
+        </sentence>
+        <sentence id="11">
+          <content>The two other vehicles stop but the one with the camera continues to chase after Brown.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>As the police car approaches, Brown stumbles and falls.</content>
+        </sentence>
+        <sentence id="13">
+          <content>While on the ground, Brown turns and faces the chasing vehicle and within seconds, his face disappears under the hood of Harris&amp;apost; police car.</content>
+        </sentence>
+        <sentence id="14">
+          <content>A thud is heard and the car stops.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="15">
+          <content>&amp;quot;I think he&amp;apost;s underneath the (expletive) car,&amp;quot; a voice off camera can be heard saying.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="16">
+          <content>The city of DeLand has already paid the family $550,000 in a settlement but the city did not admit any wrongdoing, according to Krystal Brown.</content>
+        </sentence>
+        <sentence id="17">
+          <content>The family decided to go public with their story and the video in hopes of triggering public outrage that would result in pressure for officials to file criminal charges for Brown&amp;apost;s death.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;We&amp;apost;re just asking for justice, nothing extra,&amp;quot; Krystal Brown said, &amp;quot;nothing no one else would want for their family member. &amp;quot;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="19">
+          <content>State Attorney for Florida&amp;apost;s 7th judicial district R.J. Larizza decided to present the evidence to the grand jury instead of filing charges, which he could have done if he felt a crime had been committed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="20">
+          <content>Larizza stood by his decision at a news conference last week, following the grand jury&amp;apost;s decision not to return charges after two days of testimony.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="21">
+          <content>&amp;quot;This has been a controversial situation and this has been a case that has been a challenge since the beginning,&amp;quot; Larizza said at the news conference.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;I wanted the most possible folks involved, people that were in the community, people that live here, people that care about this community to make the decision,&amp;quot; said Larizza, adding, &amp;quot;and I was confident and comfortable that they would do so.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="23">
+          <content>Krystal Brown said the family was &amp;quot;disappointed&amp;quot; and &amp;quot;felt let down by the criminal justice department&amp;quot; even before seeing the video, adding that they believe a vehicular manslaughter charge was appropriate.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="24">
+          <content>&amp;quot;Just knowing what the charge entails, it doesn&amp;apost;t have to show intent -- it only has to show reckless driving,&amp;quot; she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="25">
+          <content>The video alone prompted DeLand Police Chief William Ridgway to fire Harris.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="26">
+          <content>&amp;quot;The actions taken by Officer Harris that night are not consistent with our department&amp;apost;s training, directives, or accepted practices or techniques,&amp;quot; Ridgway told CNN, in a prepared statement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="27">
+          <content>DeLand police are conducting an internal review of the incident.</content>
+        </sentence>
+        <sentence id="28">
+          <content>This week, law enforcement officials have been going over more than 2,000 documents to determine whether appropriate tactics were used, whether police policies were followed and if those policies reflect the best way to deal with similar situations.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="29">
+          <content>Brown&amp;apost;s family believes the video speaks for itself.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="30">
+          <content>&amp;quot;We would have had no problem getting a call that morning saying, &amp;apost;OK Marlon ran from the police and we had to tase him&amp;apost; or &amp;apost;the dogs bit him&amp;apost; or something more along the lines of not using excessive force,&amp;quot; says Krystal Brown.</content>
+        </sentence>
+        <sentence id="31">
+          <content>&amp;quot;But to get the call that he has been ran down with a vehicle for running from the police?</content>
+        </sentence>
+        <sentence id="32">
+          <content>That doesn&amp;apost;t fit.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

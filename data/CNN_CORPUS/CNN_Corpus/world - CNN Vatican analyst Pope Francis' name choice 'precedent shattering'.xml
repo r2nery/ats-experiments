@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2136" link="http://www.cnn.com/2013/03/13/world/pope-name/index.html" date_published="2013-03-13 19:46:11" category="world" author="Michael Martinez, CNN" highlights_mapped="true" mapping_error="false">
+  <title>CNN Vatican analyst: Pope Francis&amp;apost; name choice &amp;apost;precedent shattering&amp;apost;</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">NEW: Pope Francis names himself in honor of St. Francis of Assisi, Vatican says.</sentence>
+      <sentence id="2" ids_article_sentences="9">The name &amp;quot;Francis&amp;quot; is a first in the Roman Catholic Church, an analyst says.</sentence>
+      <sentence id="3" ids_article_sentences="10">The new pope sends a signal &amp;quot;this will not be business as usual,&amp;quot; the analyst adds.</sentence>
+      <sentence id="4" ids_article_sentences="8">Namesake St. Francis of Assisi is a most venerated figure.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-14 15:55:30" annotation_time="32.45767">
+      <sentence id="3" ids_highlights="1">Pope Francis chose his name in honor of St. Francis of Assisi because he is a lover of the poor, said Vatican deputy spokesman Thomas Rosica.</sentence>
+      <sentence id="8" ids_highlights="4">Figures of such stature as St. Francis of Assisi seem &amp;quot;irrepeatable -- that there can be only one Francis,&amp;quot; he added.</sentence>
+      <sentence id="9" ids_highlights="2">The name symbolizes &amp;quot;poverty, humility, simplicity and rebuilding the Catholic Church,&amp;quot; Allen said.</sentence>
+      <sentence id="10" ids_highlights="3">&amp;quot;The new pope is sending a signal that this will not be business as usual.&amp;quot;</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Cardinal Jorge Bergoglio of Argentina, the new pope, is breaking historic ground by choosing the name Francis.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>It&amp;apost;s the first time the name is being used by a pope, said CNN Vatican expert John Allen.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Pope Francis chose his name in honor of St. Francis of Assisi because he is a lover of the poor, said Vatican deputy spokesman Thomas Rosica.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>&amp;quot;Cardinal Bergoglio had a special place in his heart and his ministry for the poor, for the disenfranchised, for those living on the fringes and facing injustice,&amp;quot; Rosica said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>St. Francis, one of the most venerated figures in the Roman Catholic Church, was known for connecting with fellow Christians, Rosica added.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>Allen described the name selection as &amp;quot;the most stunning&amp;quot; choice and &amp;quot;precedent shattering.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;There are cornerstone figures in Catholicism,&amp;quot; such as St. Francis, Allen said.</content>
+        </sentence>
+        <sentence id="8">
+          <content>Figures of such stature as St. Francis of Assisi seem &amp;quot;irrepeatable -- that there can be only one Francis,&amp;quot; he added.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>The name symbolizes &amp;quot;poverty, humility, simplicity and rebuilding the Catholic Church,&amp;quot; Allen said.</content>
+        </sentence>
+        <sentence id="10">
+          <content>&amp;quot;The new pope is sending a signal that this will not be business as usual.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>In 2010, Pope Benedict XVI recounted how St. Francis was born in 1181 or 1182 as the son of a rich Italian cloth merchant, according to the Vatican website.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>After &amp;quot;a carefree adolescence and youth,&amp;quot; Francis joined the military and was taken prisoner.</content>
+        </sentence>
+        <sentence id="13">
+          <content>He was freed after becoming ill, and when he returned to Assisi, Italy, a spiritual conversion began.</content>
+        </sentence>
+        <sentence id="14">
+          <content>He abandoned his worldly lifestyle.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="15">
+          <content>In a famous episode, Christ on the Cross came to life three times in the small Church of St. Damian and told him: &amp;quot;Go, Francis, and repair my Church in ruins,&amp;quot; Pope Benedict XVI said, according to the Vatican&amp;apost;s website.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;At that moment St. Francis was called to repair the small church, but the ruinous state of the building was a symbol of the dramatic and disquieting situation of the Church herself,&amp;quot; Pope Benedict XVI said.</content>
+        </sentence>
+        <sentence id="17">
+          <content>&amp;quot;At that time the Church had a superficial faith which did not shape or transform life, a scarcely zealous clergy, and a chilling of love.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="18">
+          <content>Pope Francis succeeds Benedict, who retired.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

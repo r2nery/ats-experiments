@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="665" link="http://www.cnn.com/2011/12/11/living/cnn-heroes/index.html?iid=article_sidebar" date_published="2011-12-12 03:00:07" category="living" author="Kyle Almond, CNN" highlights_mapped="false" mapping_error="false">
+  <title>&amp;apost;Mother Robin&amp;apost; wins CNN Hero of the Year</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Robin Lim was named the 2011 CNN Hero of the Year on Sunday night.</sentence>
+      <sentence id="2" ids_article_sentences="1">She has helped thousands of poor Indonesian women have a healthy pregnancy and birth.</sentence>
+      <sentence id="3" ids_article_sentences="13">The annual show honors the Top 10 CNN Heroes and names one of them Hero of the Year.</sentence>
+    </highlights>
+    <gold_standard annotation_time="6.471333">
+      <sentence id="1" ids_highlights="1, 2">Los Angeles Robin Lim, an American woman who has helped thousands of poor Indonesian women have a healthy pregnancy and birth, was named the 2011 CNN Hero of the Year on Sunday night.</sentence>
+      <sentence id="13" ids_highlights="3">The CNN Hero of the Year was chosen by the public after an 11-week vote on CNN.com.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Los Angeles Robin Lim, an American woman who has helped thousands of poor Indonesian women have a healthy pregnancy and birth, was named the 2011 CNN Hero of the Year on Sunday night.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Through her Bumi Sehat health clinics, &amp;quot;Mother Robin,&amp;quot; or &amp;quot;Ibu Robin&amp;quot; as she is called by the locals, offers free prenatal care, birthing services and medical aid in Indonesia, where many families cannot afford care.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;Every baby&amp;apost;s first breath on Earth could be one of peace and love.</content>
+        </sentence>
+        <sentence id="4">
+          <content>Every mother should be healthy and strong.</content>
+        </sentence>
+        <sentence id="5">
+          <content>Every birth could be safe and loving.</content>
+        </sentence>
+        <sentence id="6">
+          <content>But our world is not there yet,&amp;quot; Lim said during &amp;quot;CNN Heroes: An All-Star Tribute,&amp;quot; which took place at the Shrine Auditorium in Los Angeles and recognized Lim and the other top 10 CNN Heroes of 2011.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>Many women in the developing world do not have access to contraception or maternal care.</content>
+        </sentence>
+        <sentence id="8">
+          <content>According to the United Nations Population Fund, three out of five women giving birth in South Asia do so without a skilled birth attendant on hand.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="9">
+          <content>In Indonesia, the average family earns the equivalent of $8 a day, according to the International Monetary Fund.</content>
+        </sentence>
+        <sentence id="10">
+          <content>But a baby delivery costs about $70 at a hospital, and a Caesarian section can cost as much as $700.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="11">
+          <content>Lim believes Indonesia&amp;apost;s high maternal and infant mortality rates are caused in part by these costs, which many women cannot meet.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;The situation is bad ... babies are unattended, deliveries have become commercialized, and mothers die from hemorrhage after childbirth because they can&amp;apost;t afford proper care,&amp;quot; Lim told CNN earlier this year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>The CNN Hero of the Year was chosen by the public after an 11-week vote on CNN.com.</content>
+        </sentence>
+        <sentence id="14">
+          <content>For being named Hero of the Year, Lim will receive $250,000 for her cause.</content>
+        </sentence>
+        <sentence id="15">
+          <content>That&amp;apost;s in addition to the $50,000 that she and the rest of the top 10 Heroes each received for making the top 10.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="16">
+          <content>This is the fifth year that CNN, with the help of entertainers and other celebrities, have honored everyday people changing the world.</content>
+        </sentence>
+        <sentence id="17">
+          <content>Among this year&amp;apost;s presenters were comedians Jerry Seinfeld and George Lopez; actors J.R. Martinez and Chris Colfer; musical artists Ice Cube and will.i.am; model Christy Turlington Burns; former NFL quarterback Kurt Warner; and actresses Laura Dern, Mary-Louise Parker and Sofia Vergara.</content>
+        </sentence>
+        <sentence id="18">
+          <content>(Photos: Scenes from the night).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="19">
+          <content>Kid Rock performed the song &amp;quot;Care&amp;quot; from his platinum-selling album &amp;quot;Born Free,&amp;quot; while Miley Cyrus sang her triple-platinum hit &amp;quot;The Climb.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="20">
+          <content>Turlington Burns introduced Lim&amp;apost;s video tribute during Sunday&amp;apost;s show, before the Hero of the Year announcement.</content>
+        </sentence>
+        <sentence id="21">
+          <content>As founder of Every Mother Counts, she is also a passionate advocate for maternal health around the world.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;Eight years ago, after giving birth to my first child, Grace, I felt what could have been a life-threatening complication,&amp;quot; she told the audience of nearly 5,000.</content>
+        </sentence>
+        <sentence id="23">
+          <content>&amp;quot;It suddenly got very scary, very fast.</content>
+        </sentence>
+        <sentence id="24">
+          <content>If I hadn&amp;apost;t received the expert care in the hospital birthing center I was in, then I may have not been so fortunate.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="25">
+          <content>&amp;quot;My wish is that every mother all over the world has the same chance surviving childbirth I had.</content>
+        </sentence>
+        <sentence id="26">
+          <content>My friend Robin Lim shares that wish and she spends her days and nights making it so.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="27">
+          <content>Turlington Burns recently made the trip to Indonesia to meet Lim and see her work firsthand.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="28">
+          <content>Lim became a midwife after her sister -- and her sister&amp;apost;s baby -- died from complications during pregnancy several years ago.</content>
+        </sentence>
+        <sentence id="29">
+          <content>She and her husband then sold their home in Hawaii and moved to Bali to &amp;quot;reinvent their lives,&amp;quot; she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="30">
+          <content>&amp;quot;It was there she learned she could make a difference,&amp;quot; Turlington Burns said.</content>
+        </sentence>
+        <sentence id="31">
+          <content>&amp;quot;She opened a clinic, Bumi Sehat, so poor mothers can give birth safely and be treated with dignity and respect.</content>
+        </sentence>
+        <sentence id="32">
+          <content>She has delivered thousands of babies, and that is why they call her &amp;apost;Ibu&amp;apost; -- Mother.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="33">
+          <content>After being announced as the CNN Hero of the Year, a tearful Lim accepted the award from host Anderson Cooper and made an impassioned plea for help.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="34">
+          <content>&amp;quot;Today on our Earth, 981 mothers in the prime of their life will die -- and tomorrow again and yesterday,&amp;quot; she said.</content>
+        </sentence>
+        <sentence id="35">
+          <content>&amp;quot;And I&amp;apost;m asking you to help change that.</content>
+        </sentence>
+        <sentence id="36">
+          <content>We don&amp;apost;t even know how many babies are lost, but all of us can help change that.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="37">
+          <content>Here are the other top 10 CNN Heroes of 2011, in alphabetical order:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="38">
+          <content>Eddie CanalesEddie Canales&amp;apost; son was paralyzed during a high school football game in 2001.</content>
+        </sentence>
+        <sentence id="39">
+          <content>Today, Canales&amp;apost; nonprofit, Gridiron Heroes, provides emotional and financial support to high school football players who&amp;apost;ve sustained life-changing spinal cord injuries.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="40">
+          <content>Taryn Davis Taryn Davis was just 21 when her husband, an Army corporal, was killed in Iraq.</content>
+        </sentence>
+        <sentence id="41">
+          <content>In 2007, she created the American Widow Project.</content>
+        </sentence>
+        <sentence id="42">
+          <content>To date, her nonprofit has provided a community of support to more than 900 young military widows.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="43">
+          <content>Sal Dimiceli Sal Dimiceli has spent decades helping people get back on their feet.</content>
+        </sentence>
+        <sentence id="44">
+          <content>Through a local newspaper column and his nonprofit, The Time Is Now To Help, Dimiceli assists about 500 people a year with food, rent, utilities and other necessities.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="45">
+          <content>Derreck Kayongo Derreck Kayongo&amp;apost;s Global Soap Project collects partially used hotel soap and reprocesses it to save lives.</content>
+        </sentence>
+        <sentence id="46">
+          <content>Since 2009, the Atlanta-based nonprofit has provided about 150,000 bars of soap for communities in 10 countries.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="47">
+          <content>Diane Latiker Surrounded by gang violence in her Chicago neighborhood, Diane Latiker opened her home to area youth and started a community program called Kids Off the Block.</content>
+        </sentence>
+        <sentence id="48">
+          <content>Since 2003, her program has helped more than 1,500 young people.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="49">
+          <content>Patrice Millet After being stricken with cancer, Patrice Millet dedicated his life to helping children in his native Haiti.</content>
+        </sentence>
+        <sentence id="50">
+          <content>His nonprofit youth soccer program provides free equipment, coaching and food to hundreds of participants from the slums and teaches them to become responsible citizens.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="51">
+          <content>Bruno Serato Since 2005, chef Bruno Serato has been serving free pasta dinners to children, many of whom are poor and live in motels with their families.</content>
+        </sentence>
+        <sentence id="52">
+          <content>Today, Serato provides dinner seven days a week to more than 300 children at the Boys &amp;amp; Girls Club in Anaheim, California.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="53">
+          <content>Richard St. DenisSince 2008, Richard St. Denis and his organization, World Access Project, have provided hundreds of wheelchairs and mobility aids to people living with disabilities in rural Mexico.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="54">
+          <content>Amy Stokes Amy Stokes is redefining &amp;quot;family&amp;quot; for South African children affected by HIV/AIDS and poverty.</content>
+        </sentence>
+        <sentence id="55">
+          <content>Her organization, Infinite Family, has connected almost 500 teenage &amp;quot;Net Buddies&amp;quot; with nearly 300 volunteer mentors from all over the world via the Internet.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

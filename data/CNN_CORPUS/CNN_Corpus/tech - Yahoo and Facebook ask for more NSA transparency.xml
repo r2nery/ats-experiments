@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1680" link="http://www.cnn.com/2013/09/11/tech/web/zuckerberg-mayer-nsa-disrupt" date_published="2013-09-12 02:39:47" category="tech" author="Heather Kelly, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Yahoo and Facebook ask for more NSA transparency</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="28, 1">Marissa Mayer and Mark Zuckerberg want to share more information about NSA requests.</sentence>
+      <sentence id="2" ids_article_sentences="2">The Yahoo and Facebook CEO speak at the TechCrunch Disrupt conference on Wednesday.</sentence>
+      <sentence id="3" ids_article_sentences="27">Both companies have filed lawsuits against the U.S. government.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-20 18:29:03" annotation_time="28.365334" mapping_time_divergence="9.4551115">
+      <sentence id="1" ids_highlights="1">Mark Zuckerberg and Marissa Mayer are limited in what they can say about their companies&amp;apost; dealings with the NSA, but one thing is clear: They want more transparency from the U.S. government.</sentence>
+      <sentence id="2" ids_highlights="2">On stage at the TechCrunch Disrupt conference on Wednesday, the Facebook and Yahoo CEOs both expressed frustration toward the government for the way it has handled National Security Agency requests and the secrecy it requires.</sentence>
+      <sentence id="27" ids_highlights="3">Yahoo, Google, Microsoft and Facebook have filed lawsuits against the Foreign Intelligence Surveillance Court -- Facebook just last week and the other companies in June.</sentence>
+      <sentence id="28" ids_highlights="1">They want the U.S. government to allow tech companies to divulge more information about its requests for user data.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Mark Zuckerberg and Marissa Mayer are limited in what they can say about their companies&amp;apost; dealings with the NSA, but one thing is clear: They want more transparency from the U.S. government.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>On stage at the TechCrunch Disrupt conference on Wednesday, the Facebook and Yahoo CEOs both expressed frustration toward the government for the way it has handled National Security Agency requests and the secrecy it requires.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;I think the government blew it,&amp;quot; said Zuckerberg.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>After information about the NSA and its PRISM program were made public, the government attempted to reassure people by saying it was only collecting information on people outside the United States.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>&amp;quot;That&amp;apost;s really helpful to companies who are trying to serve people around the world,&amp;quot; said Zuckerberg sarcastically.</content>
+        </sentence>
+        <sentence id="6">
+          <content>&amp;quot;I think that was really bad.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>The U.S. government requests information on foreign users from companies like Google, Facebook and Yahoo through national security related orders like those from the Foreign Intelligence Surveillance Court.</content>
+        </sentence>
+        <sentence id="8">
+          <content>A gag order prevents the companies from sharing any information about the requests, including, until recently, that they even existed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>Asked why she didn&amp;apost;t refuse the government&amp;apost;s orders or discuss the national security requests publicly, Mayer said she couldn&amp;apost;t talk about those things because they are classified.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;If you don&amp;apost;t comply, it&amp;apost;s treason,&amp;quot; said Mayer.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>Releasing classified information would generally result in incarceration, she added.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;That is definitely not treason,&amp;quot; Kurt Opsahl, a senior staff attorney with the Electronic Frontier Foundation, told CNN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="13">
+          <content>Revealing classified information or disobeying an order from the FISA Court would most likely fall under the espionage act, Opsahl said.</content>
+        </sentence>
+        <sentence id="14">
+          <content>They could be found in contempt of court and there would be a fine, but the penalties would probably be directed at the company, not the executives.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>Whatever the potential punishment, Mayer said Yahoo has taken a different but still aggressive approach to dealing with the U.S. government.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;It makes sense for us to work within the system,&amp;quot; Mayer said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="17">
+          <content>In 2007, Yahoo was one of the first major tech companies to file a lawsuit against the Patriot Act and parts of PRISM and FISA, though the company lost.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;I&amp;apost;m proud to be part of an organization that, from the very beginning ... has been skeptical and has scrutinized those requests,&amp;quot; Mayer said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="19">
+          <content>Yahoo reviews each government request for information, and Mayer said the company pushes back against inquiries &amp;quot;a lot.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="20">
+          <content>On Friday, Yahoo joined Google, Twitter, Microsoft and Facebook and released its first government transparency report detailing the number of requests it had fielded from countries around the world.</content>
+        </sentence>
+        <sentence id="21">
+          <content>It complied with 98% of requests from the U.S. government.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="22">
+          <content>Transparency reports list aggregate numbers of government requests for account data, often broken down by country and the number of individual accounts affected.</content>
+        </sentence>
+        <sentence id="23">
+          <content>But companies want to be able to show how many requests were national security related versus common criminal investigations and other situations in which there was a warrant or subpoena.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="24">
+          <content>Facebook also recently released its first transparency report for the first six months of 2013, and while it could say there were 9,000 requests from the U.S. government for user data, it couldn&amp;apost;t specify how many were for the NSA.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="25">
+          <content>&amp;quot;We&amp;apost;ve been pushing just to get more transparency on this and I actually think we&amp;apost;ve made a big difference,&amp;quot; said Zuckerberg.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="26">
+          <content>Tech companies are flexing some legal muscle to get around the gag orders.</content>
+        </sentence>
+        <sentence id="27">
+          <content>Yahoo, Google, Microsoft and Facebook have filed lawsuits against the Foreign Intelligence Surveillance Court -- Facebook just last week and the other companies in June.</content>
+        </sentence>
+        <sentence id="28">
+          <content>They want the U.S. government to allow tech companies to divulge more information about its requests for user data.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="29">
+          <content>&amp;quot;I think it&amp;apost;s my job and our job to protect everyone who uses Facebook and all the information they share with us.</content>
+        </sentence>
+        <sentence id="30">
+          <content>It&amp;apost;s the government&amp;apost;s job to protect all of us,&amp;quot; said Zuckerberg.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="31">
+          <content>&amp;quot;I think they did a bad job of balancing those things here.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

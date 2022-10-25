@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="865" link="http://www.cnn.com/2014/05/04/opinion/boehner-afghanistan/index.html" date_published="2014-05-05 02:40:51" category="opinion" author="John Boehner" highlights_mapped="true" mapping_error="false">
+  <title>Opinion: Don&amp;apost;t repeat Iraq mistakes in Afghanistan</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="8">House Speaker John Boehner says the U.S. needs to finish the job right in Afghanistan.</sentence>
+      <sentence id="2" ids_article_sentences="15">The progress, he says, has been significant, but the country will continue to have setbacks.</sentence>
+      <sentence id="3" ids_article_sentences="26">He argues that there is a shared, bipartisan legacy in Washington for Afghanistan.</sentence>
+      <sentence id="4" ids_article_sentences="27">Boehner: History will judge us not on whether we ended wars, but how we ended them.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-07-27 11:27:08" annotation_time="63.62633">
+      <sentence id="8" ids_highlights="1">The responsibility is on leaders in Washington to remind the American people why finishing the job right in Afghanistan remains important.</sentence>
+      <sentence id="15" ids_highlights="2">The progress has been significant, but the country will continue to have setbacks.</sentence>
+      <sentence id="26" ids_highlights="3">There is a shared, bipartisan legacy in Washington for Afghanistan.</sentence>
+      <sentence id="27" ids_highlights="4">I am convinced history will judge both the executive branch and the legislative branch not on whether we ended wars, but how we ended them.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Three weeks ago, I had the privilege of visiting our civilian leaders and military commanders, as well as our troops, in Afghanistan.</content>
+        </sentence>
+        <sentence id="2">
+          <content>It was my fourth trip to the country and a vastly different one than my first visit in 2007.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>Flying over Kabul at night, I was struck by the changes: Electric lights and even traffic are visible throughout the valley.</content>
+        </sentence>
+        <sentence id="4">
+          <content>I was encouraged by what I saw and by what I heard from Ambassador James Cunningham and General Joseph F. Dunford, Jr.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>The Afghans are taking the lead for their own security, and now they are poised to successfully transition to a new government for the first time in their history.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>After 13 years, I am often asked why Afghanistan still matters.</content>
+        </sentence>
+        <sentence id="7">
+          <content>The world is growing more complicated by the day, and, in my view, more dangerous.</content>
+        </sentence>
+        <sentence id="8">
+          <content>The responsibility is on leaders in Washington to remind the American people why finishing the job right in Afghanistan remains important.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="9">
+          <content>The explanation is straightforward: Not only was it the location from which the 9/11 attack that killed 3,000 Americans was planned, but the country also remains uniquely vulnerable to becoming a terrorist stronghold again if we don&amp;apost;t complete our work to empower the Afghan people, security forces and government to protect their own country.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>Our mission quite simply is to prevent another terrorist attack.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>And, there&amp;apost;s another reason we don&amp;apost;t talk about much, but it remains equally important.</content>
+        </sentence>
+        <sentence id="12">
+          <content>Both friends and foes are watching to see whether America has the resolve to complete its task or if we will fall short of our mark out of fatigue or political expediency.</content>
+        </sentence>
+        <sentence id="13">
+          <content>This has ramifications not just for Afghanistan but other critical areas where America has strategic national security interests.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="14">
+          <content>Make no mistake, Afghanistan remains a tough fight.</content>
+        </sentence>
+        <sentence id="15">
+          <content>The progress has been significant, but the country will continue to have setbacks.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Violence, like the recent tragic shooting at a Kabul hospital, is going to continue.</content>
+        </sentence>
+        <sentence id="17">
+          <content>Terrorist organizations will continue to attempt high-profile attacks to break our resolve.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="18">
+          <content>But because of the courage and sacrifices of our deployed men and women, both military and civilian, I am optimistic that we can achieve our mission successfully if Washington doesn&amp;apost;t squander this progress.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="19">
+          <content>At the time of my visit, I said that I hoped Washington and Kabul would always be worthy of the shared sacrifice and effort that our troops, the international community, and the Afghan people have made.</content>
+        </sentence>
+        <sentence id="20">
+          <content>The biggest takeaway from my visit is that of all the challenges facing our strategy for Afghanistan, the most potentially damaging and completely avoidable is quitting just short of the goal line.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="21">
+          <content>It&amp;apost;s essential that we do not repeat the same mistakes in Afghanistan that we made in Iraq.</content>
+        </sentence>
+        <sentence id="22">
+          <content>Before the end of this year, the Obama administration must reach a bilateral security agreement with the Afghan government that reinforces our commitment to the Afghan people and its security forces.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="23">
+          <content>With input from our commanders on the ground, this will likely require retaining a credible, residual troop presence to help continue to thwart terrorist networks as well as provide appropriate levels of training and advice to the Afghan security forces as they continue to grow and mature into an effective, independent fighting force.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="24">
+          <content>As a former small business man, I like an analogy I heard on our efforts to train and assist the Afghan Security Forces: we&amp;apost;ve helped them open for business, and now we need to ensure they have the processes and logistics in place to stay in business.</content>
+        </sentence>
+        <sentence id="25">
+          <content>Our military has a clear, understandable plan to put themselves out of business at the end of this process.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="26">
+          <content>There is a shared, bipartisan legacy in Washington for Afghanistan.</content>
+        </sentence>
+        <sentence id="27">
+          <content>I am convinced history will judge both the executive branch and the legislative branch not on whether we ended wars, but how we ended them.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="28">
+          <content>It is increasingly apparent that the United States left Iraq too soon, and it is with heavy hearts that we see the black flags flying in areas of Iraq where the United States expended our most precious treasure, the blood of our fellow citizens.</content>
+        </sentence>
+        <sentence id="29">
+          <content>We cannot let that happen in Afghanistan.</content>
+        </sentence>
+        <sentence id="30">
+          <content>A bilateral security agreement is critical if we&amp;apost;re going to successfully complete the work that has been accomplished to date and to help ensure that the gains we have made are not jeopardized like they have been in Iraq.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="31">
+          <content>America&amp;apost;s foes, both state and non-state actors, are watching with great interest how we leave Afghanistan, watching to see whether we leave after securing our interests and honoring our commitments, or if we just leave.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="32">
+          <content>And over the last year, our commander-in-chief has often talked more about leaving Afghanistan than how we are going to achieve our mission.</content>
+        </sentence>
+        <sentence id="33">
+          <content>We all want to bring our remaining troops home as soon as possible, but succeeding in Afghanistan is vital to our national security interests and it must take priority over any calendar dates.</content>
+        </sentence>
+        <sentence id="34">
+          <content>The President has an obligation to better make that case to the American people.</content>
+        </sentence>
+        <sentence id="35">
+          <content>And if he does, I will support him.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="36">
+          <content>For more than a decade, our troops and civilian personnel have fought to bring peace and security to Afghanistan -- and to ensure it can never again be used as a safe haven for terrorists to attack the United States.</content>
+        </sentence>
+        <sentence id="37">
+          <content>Many Americans have sacrificed to secure these goals, and far too many have lost their lives or suffered life-altering wounds.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="38">
+          <content>Washington and Kabul must work together to secure the gains we have made together and complete our mission.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

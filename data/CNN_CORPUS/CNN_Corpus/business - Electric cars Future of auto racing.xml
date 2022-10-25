@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="45" link="http://edition.cnn.com/2012/09/21/business/formula-e-agag/index.html?iid=article_sidebar" date_published="2012-09-21 17:30:58" category="business" author="Nina Dos Santos, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Electric cars: Future of auto racing?</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="8">Formula E races will be held in city centers rather than on race tracks to highlight practicality.</sentence>
+      <sentence id="2" ids_article_sentences="12">Rio de Janeiro is first to have confirmed its willingness to host an Electric Grand Prix in 2014.</sentence>
+      <sentence id="3" ids_article_sentences="17">The electric cars will be capable of speeds over 200km per hour and will seat one person.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-11 14:49:52" annotation_time="9.128667">
+      <sentence id="8" ids_highlights="1">Staging the races in city centers rather than on traditional race tracks will highlight the practicality of using battery-powered vehicles in urban areas.</sentence>
+      <sentence id="12" ids_highlights="2">Brazil&amp;apost;s Rio de Janeiro has already signaled its willingness to host an Electric Grand Prix in 2014.</sentence>
+      <sentence id="17" ids_highlights="3">The Formula E cars will be capable of speeds over 200 kilometers an hour, and rather than substituting tire at a pit stop, the driver will change cars instead.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The power of fuel will be overtaken by electric energy in a new global auto race being used to showcase eco-friendly cars.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The Formula E series, set to launch in 2014, is aiming to rival Formula 1 -- but with electric cars.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Formula E chief executive Alejandro Agag believes the future of the automotive industry, particularly in cities, is electric.</content>
+        </sentence>
+        <sentence id="4">
+          <content>He hopes the auto race will help promote the wider use of electric cars.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Agag wants the Formula E series to take place in &amp;quot;the heart&amp;quot; of the world&amp;apost;s leading towns.</content>
+        </sentence>
+        <sentence id="6">
+          <content>It will be showcased in &amp;quot;cities committed to clean mobility and sustainability,&amp;quot; Agag told CNN&amp;apost;s Quest Means Business.</content>
+        </sentence>
+        <sentence id="7">
+          <content>&amp;quot;We think we can be of help to those cities that are promoting the use of the electric car, by making it more popular.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>Staging the races in city centers rather than on traditional race tracks will highlight the practicality of using battery-powered vehicles in urban areas.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>Formula E representatives are in talks with major cities around the world about the contest, with a particular focus on emerging economies and Asia.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;We believe that cities are the natural environment for electric cars,&amp;quot; added Agag.</content>
+        </sentence>
+        <sentence id="11">
+          <content>&amp;quot;The extended use of the electric vehicle will play a very important part in reducing city air pollution.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>Brazil&amp;apost;s Rio de Janeiro has already signaled its willingness to host an Electric Grand Prix in 2014.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>Over the next four years the Brazilian city will be a global hub of sport as it hosts the soccer World Cup in two years and the Olympic Games in 2016.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;Rio is a city with a special commitment to sustainability, as the recent global environment summit has shown,&amp;quot; added Agag, referring to Rio+20.</content>
+        </sentence>
+        <sentence id="15">
+          <content>&amp;quot;We will be proud to race there from 2014 onwards.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>He noted: &amp;quot;In Mexico we are coordinating with key figures including Carlos Slim (Telmex&amp;apost;s CEO and the richest person in the world) and Federico Alaman (Mexico City promoter), to identify the best locations in the country.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>The Formula E cars will be capable of speeds over 200 kilometers an hour, and rather than substituting tire at a pit stop, the driver will change cars instead.</content>
+        </sentence>
+        <sentence id="18">
+          <content>The plan for Formula E&amp;apost;s inaugural season is to have 10 teams and 20 drivers, with the possibility of adding more teams in future.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="19">
+          <content>The auto championship will work in partnership with the Fédération Internationale de l&amp;apost;Automobile (FIA) -- motorsport&amp;apost;s governing body -- for the promotion of clean mobility and sustainability.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="20">
+          <content>Agag wants to use racing to promote research into electric vehicles with a focus on younger generations, in an effort to push the message of sustainable energy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="21">
+          <content>He added: &amp;quot;To make people believe that they need an electric car and a more sustainable lifestyle... We want to show everyone what these cars can do.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

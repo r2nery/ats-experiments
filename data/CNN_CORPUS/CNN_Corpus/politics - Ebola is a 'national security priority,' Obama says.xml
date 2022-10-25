@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1047" link="http://edition.cnn.com/2014/09/07/politics/ebola-national-security-obama/index.html?hpt=iaf_c1" date_published="2014-09-08 00:48:22" category="politics" author="Betsy Klein, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Ebola is a &amp;apost;national security priority,&amp;apost; Obama says</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">President Barack Obama: &amp;quot;We have to mobilize the international community&amp;quot;.</sentence>
+      <sentence id="2" ids_article_sentences="7">On &amp;quot;Meet the Press,&amp;quot; he warns inaction could have dire consequences down the road.</sentence>
+      <sentence id="3" ids_article_sentences="5">The president of Doctors Without Borders has criticized the U.S. response.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-20 16:23:59" annotation_time="51.849335">
+      <sentence id="3" ids_highlights="1">We have to mobilize the international community, get resources in there,&amp;quot; the President said to Chuck Todd on NBC&amp;apost;s &amp;quot;Meet the Press.&amp;quot;</sentence>
+      <sentence id="5" ids_highlights="3">Obama&amp;apost;s comments come after sharp criticism from Dr. Joanne Liu, president of Doctors Without Borders, last week.</sentence>
+      <sentence id="7" ids_highlights="2">Obama cautioned that inaction could have dire consequences.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Washington President Barack Obama on Sunday signaled for the first time that he is likely to dispatch U.S. military resources to help fight the serious outbreak of Ebola in several countries in West Africa.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>&amp;quot;We have to make this a national security priority.</content>
+        </sentence>
+        <sentence id="3">
+          <content>We have to mobilize the international community, get resources in there,&amp;quot; the President said to Chuck Todd on NBC&amp;apost;s &amp;quot;Meet the Press.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>&amp;quot;We&amp;apost;re going to have to get U.S. military assets just to set up, for example, isolation units and equipment there, to provide security for public health workers surging from around the world.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Obama&amp;apost;s comments come after sharp criticism from Dr. Joanne Liu, president of Doctors Without Borders, last week.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;States with the required capacity have a political and humanitarian responsibility to come forward and offer a desperately needed, concrete response to the disaster unfolding in front of the world&amp;apost;s eyes ... rather than limit their response to the potential arrival of an infected patient in their countries,&amp;quot; Liu said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>Obama cautioned that inaction could have dire consequences.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;If we don&amp;apost;t make that effort now, and this spreads not just through Africa but other parts of the world, there&amp;apost;s the prospect then that the virus mutates.</content>
+        </sentence>
+        <sentence id="9">
+          <content>It becomes more easily transmittable.</content>
+        </sentence>
+        <sentence id="10">
+          <content>And then it could be a serious danger to the United States,&amp;quot; Obama said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>American Ebola survivor Dr. Keith Brantly pleaded for help from the international community in a recent op-ed for Time.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;The national governments of West Africa are overwhelmed,&amp;quot; Brantly said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>&amp;quot;This is a global problem, and it requires the action of national governments around the world.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>Obama echoed Brantly&amp;apost;s sentiments, arguing that U.S. leadership is necessary for a health crisis of this magnitude.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>&amp;quot;When I go before Congress, and I say, &amp;apost;Let&amp;apost;s give some public health aid to countries like Liberia, so that they can set up hospitals and nurses and vaccinations, et cetera,&amp;apost; you know, sometimes, you know, the American public says, &amp;apost;Why are we wasting money on them?&amp;apost; &amp;quot;</content>
+        </sentence>
+        <sentence id="16">
+          <content>Obama said, explaining, &amp;quot;When we make those short-term investments now, it really pays a lot of dividends in the future.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="17">
+          <content>The Ebola outbreak has been centered in Guinea, Sierra Leone and Liberia, with a handful of cases in Nigeria.</content>
+        </sentence>
+        <sentence id="18">
+          <content>The overall fatality rate is 50%, WHO said, ranging from 39% in Sierra Leone to 64% in Guinea, according to the latest figures.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="975" link="http://edition.cnn.com/2012/03/12/politics/texas-voter-law/index.html" date_published="2012-03-12 15:40:43" category="politics" author="Bill Mears, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Administration blocks Texas voter ID law</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="15">NEW: Texas Gov. Rick Perry describes Obama&amp;apost;s move as an example of &amp;quot;federal overreach&amp;quot;.</sentence>
+      <sentence id="2" ids_article_sentences="16">The law requires people to show a photo ID at the polling place.</sentence>
+      <sentence id="3" ids_article_sentences="6, 5">The Justice Department says there is little evidence of &amp;quot;in-person voter impersonation&amp;quot;.</sentence>
+      <sentence id="4" ids_article_sentences="13">The department blocked a similar voter ID law in South Carolina in December.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-24 13:23:02" annotation_time="61.819">
+      <sentence id="5" ids_highlights="3">The department concluded there is little evidence of voter fraud in Texas warranting the legislative changes.</sentence>
+      <sentence id="6" ids_highlights="3">&amp;quot;We note that the state&amp;apost;s submission did not include evidence of significant in-person voter impersonation not already addressed by the state&amp;apost;s existing laws,&amp;quot; said Thomas Perez, assistant attorney general.</sentence>
+      <sentence id="13" ids_highlights="4">A similar voter ID law in South Carolina was blocked by the Obama administration in December.</sentence>
+      <sentence id="15" ids_highlights="1">Texas Gov. Rick Perry released a statement soon after the Justice Department&amp;apost;s decision was announced, slamming it as &amp;quot;yet another example of the Obama administration&amp;apost;s continuing and pervasive federal overreach.&amp;quot;</sentence>
+      <sentence id="16" ids_highlights="2">&amp;quot;The DOJ has no valid reason for rejecting this important law, which requires nothing more extensive than the type of photo identification necessary to receive a library card or board an airplane,&amp;quot; he said.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Washington A controversial new Texas law requiring voters to present personal identification before going to the polls has been blocked by the Obama administration.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>In a letter Monday to state officials, the Justice Department said the legislation could have a discriminatory effect on Hispanics and other minorities.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Texas is among eight states to require official photo identification in an effort to stop what officials say is voter fraud.</content>
+        </sentence>
+        <sentence id="4">
+          <content>Opponents of the laws say they disenfranchise poor, minority and disabled voters.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>The department concluded there is little evidence of voter fraud in Texas warranting the legislative changes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;We note that the state&amp;apost;s submission did not include evidence of significant in-person voter impersonation not already addressed by the state&amp;apost;s existing laws,&amp;quot; said Thomas Perez, assistant attorney general.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>The landmark Voting Rights Act of 1965 gives the federal government the power to oversee any changes in voting procedures in states and jurisdictions with a history of voter discrimination.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>Texas&amp;apost; new voting boundaries for congressional and legislative seats are also being challenged separately in federal court.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>The Justice Department, relying on statistics provided by the state, said Hispanics in particular would be negatively affected by the Texas law.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;Under the data provided in January, Hispanics make up only 21.8% of all registered voters, but fully 38.2% of the registered voters who lack these forms of identification.</content>
+        </sentence>
+        <sentence id="11">
+          <content>Thus, we conclude that the total number of registered voters who lack a driver&amp;apost;s license or personal identification card issued by (the state Department of Public Safety) could range from 603,892 to 795,955,&amp;quot; Perez said in the letter, addressed to the director of elections for the Texas secretary of state.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;Even using the data most favorable to the state, Hispanics disproportionately lack either a driver&amp;apost;s license or a personal identification card ... and that disparity is statistically significant,&amp;quot; Perez said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="13">
+          <content>A similar voter ID law in South Carolina was blocked by the Obama administration in December.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="14">
+          <content>Texas and South Carolina now have the option of asking a federal court in Washington to review the laws, and allow them to be enforced this election year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="15">
+          <content>Texas Gov. Rick Perry released a statement soon after the Justice Department&amp;apost;s decision was announced, slamming it as &amp;quot;yet another example of the Obama administration&amp;apost;s continuing and pervasive federal overreach.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;The DOJ has no valid reason for rejecting this important law, which requires nothing more extensive than the type of photo identification necessary to receive a library card or board an airplane,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="17">
+          <content>Texas Attorney General Greg Abbott has defended the law, saying it imposes &amp;quot;minor inconveniences on exercising the right to vote.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="18">
+          <content>Voters in the state would be required to present one of seven types of government-issued photo identification, including a driver&amp;apost;s license, a passport or a concealed handgun permit.</content>
+        </sentence>
+        <sentence id="19">
+          <content>Those lacking the ID would be given a provisional ballot, but the voter would have to present an approved document to the registrar&amp;apost;s office within six days after the election.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="20">
+          <content>Those lacking an acceptable identification would be given a free voter identification card.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="21">
+          <content>Section 5 of the Voting Rights Act has been used by federal authorities for decades to oversee election changes in 16 states or selected areas, including parts of New York City.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="22">
+          <content>Texas and other jurisdictions have chafed at the requirements, saying there has been no recent government effort to discriminate.</content>
+        </sentence>
+        <sentence id="23">
+          <content>They argue they should not continue to have the burden of showing that any voting changes would not burden or interfere with someone&amp;apost;s ability to vote.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="24">
+          <content>Opponents of the voter ID law in Texas have said minority voter turnout could be suppressed 3% to 5% at a time when the Hispanic population there is growing rapidly.</content>
+        </sentence>
+        <sentence id="25">
+          <content>There have also been complaints the new law has not been sufficiently publicized.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="26">
+          <content>&amp;quot;Texas&amp;apost; voter ID law would prevent countless Latinos, African-Americans, elderly citizens and others from casting their ballot,&amp;quot; said Katie O&amp;apost;Connor, a staff attorney with the ACLU&amp;apost;s Voting Rights Project.</content>
+        </sentence>
+        <sentence id="27">
+          <content>&amp;quot;We&amp;apost;re pleased the Department of Justice has recognized the harms this discriminatory law would have on people&amp;apost;s fundamental right to vote.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="28">
+          <content>The Justice Department said Hispanic registered voters in Texas are 46.5% to 120% more likely than a non-Hispanic registered voter to lack the required identification.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="29">
+          <content>The nation&amp;apost;s second largest state has a population of 25.1 million, an increase of 4.3 million in the past decade.</content>
+        </sentence>
+        <sentence id="30">
+          <content>That explosive growth ensures Texas will gain four congressional seats, requiring new voting boundaries that are still being litigated in court.</content>
+        </sentence>
+        <sentence id="31">
+          <content>The Supreme Court in January ordered a special federal court in Texas to reconsider its rejection of the maps approved by the state&amp;apost;s Republican majority.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

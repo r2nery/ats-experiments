@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1746" link="http://edition.cnn.com/2013/06/23/travel/dreamliner-diverted/index.html" date_published="2013-06-24 03:38:05" category="travel" author="Dave Alsup and AnneClaire Stapleton, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Another 787 Dreamliner diverted for mechanical problem</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">A United Airlines 787 Dreamliner is forced to fly back to Houston.</sentence>
+      <sentence id="2" ids_article_sentences="3">The cause of the problem: an issue with the brake indicator.</sentence>
+      <sentence id="3" ids_article_sentences="5">On Tuesday, another Dreamliner flight made an unscheduled landing.</sentence>
+      <sentence id="4" ids_article_sentences="10">Spokeswoman: &amp;quot;We know it will continue to receive heightened attention&amp;quot;.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-01 13:57:53" annotation_time="45.861668">
+      <sentence id="2" ids_highlights="1">United Flight 94 was on its way to Denver early Sunday when it was forced to fly back to the Houston airport where the flight had originated, United Airlines said.</sentence>
+      <sentence id="3" ids_highlights="2">The cause: an issue with the brake indicator.</sentence>
+      <sentence id="5" ids_highlights="3">On Tuesday, another United Airlines Dreamliner flight made an unscheduled landing.</sentence>
+      <sentence id="10" ids_highlights="4">&amp;quot;The 787 is a great airplane and we know it will continue to receive heightened attention when reliability events occur in service,&amp;quot; Boeing spokeswoman Yvonne Leach said Sunday.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>A United Airlines 787 Dreamliner was diverted due to a mechanical problem, the third such incident for Dreamliners in six days.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>United Flight 94 was on its way to Denver early Sunday when it was forced to fly back to the Houston airport where the flight had originated, United Airlines said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The cause: an issue with the brake indicator.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>The plane landed without incident and with no passenger injuries, said Boeing, which makes the Dreamliner.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>On Tuesday, another United Airlines Dreamliner flight made an unscheduled landing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>That flight was on its way from Denver to Tokyo, when it was diverted to Seattle because of an indicated problem with its oil filter.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>On Thursday a third United 787 flight was diverted to Newark&amp;apost;s Liberty International Airport in New Jersey, United said, due to a &amp;quot;low oil indication.&amp;quot;</content>
+        </sentence>
+        <sentence id="8">
+          <content>That Dreamliner -- which was en route from London to Houston, also landed safely.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>The incidents come six months after the Federal Aviation Administration and other officials grounded the Dreamliner worldwide due to troubles with its battery system.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;The 787 is a great airplane and we know it will continue to receive heightened attention when reliability events occur in service,&amp;quot; Boeing spokeswoman Yvonne Leach said Sunday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="11">
+          <content>Additional Dreamliners.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="12">
+          <content>The 787 Dreamliner began service in the U.S. in 2012.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="13">
+          <content>The entire global fleet of 50 Dreamliners was grounded in January after two battery overheating incidents triggered concerns among safety officials.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="14">
+          <content>Among the Dreamliner&amp;apost;s innovative new designs is a battery system that uses new, lighter lithium-ion batteries.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="15">
+          <content>In April, the FAA ordered all 787 operators to make specific modifications.</content>
+        </sentence>
+        <sentence id="16">
+          <content>United has been flying its fleet of six 787s since May 20.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="17">
+          <content>United is the sole domestic operator of the airplane, which boasts high fuel efficiency due to the light-weight carbon-composite materials used in its wings and fuselage.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="18">
+          <content>In an apparent show of confidence in the new airliner, United announced Tuesday it is ordering 20 additional Dreamliners, specifically the 787-10 model, which is a longer version of the plane.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="19">
+          <content>The plane represents a new generation of efficient wide-body, long-range airliners, helping to make it among the world&amp;apost;s most watched aircraft.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="20">
+          <content>Airlines worldwide have committed to buy the plane, and hundreds of millions of dollars are riding on Dreamliner&amp;apost;s success.</content>
+        </sentence>
+        <sentence id="21">
+          <content>Boeing&amp;apost;s rival Airbus flew a similar airliner, its highly anticipated A350 XWB, for the first time on June 14 at its facility in Toulouse, France.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

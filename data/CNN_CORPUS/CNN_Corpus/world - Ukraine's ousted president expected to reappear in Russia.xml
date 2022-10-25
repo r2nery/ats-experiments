@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2891" link="http://www.cnn.com/2014/02/27/world/europe/ukraine-yanukovych-president" date_published="2014-02-27 17:15:39" category="world" author="Elizabeth Landau, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Ukraine&amp;apost;s ousted president expected to reappear in Russia</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="4">Ousted President Viktor Yanukovych issued a statement condemning interim government.</sentence>
+      <sentence id="2" ids_article_sentences="7">Ukrainian authorities issued a warrant for Yanukovych&amp;apost;s arrest last week.</sentence>
+      <sentence id="3" ids_article_sentences="12">Ukraine gained independence in 1991.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-20 16:28:44" annotation_time="34.705">
+      <sentence id="4" ids_highlights="1">The fugitive president issued a statement to Russian news agencies condemning the country&amp;apost;s interim government and alleging that recent actions in the Ukrainian Parliament are illegitimate.</sentence>
+      <sentence id="7" ids_highlights="2">Ukrainian authorities issued a warrant for Yanukovych&amp;apost;s arrest last week over civilian deaths during the protests.</sentence>
+      <sentence id="12" ids_highlights="3">Ukraine gained independence in 1991; before that, it had, like Russia, been part of the Soviet Union.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Ukraine&amp;apost;s ousted President Viktor Yanukovych went missing in the midst of upheaval in his country, but his whereabouts probably won&amp;apost;t be secret for long -- assuming he shows up at his own news conference Friday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Yanukovych will hold the conference at 5 p.m. Friday in the Russian city of Rostov-on-Don, Russian state news agency Itar-Tass said Thursday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Ria Novosti, another state news agency, reported that anonymous government sources said Thursday that Yanukovych was in Russia and that Russian authorities accepted his request for security.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>The fugitive president issued a statement to Russian news agencies condemning the country&amp;apost;s interim government and alleging that recent actions in the Ukrainian Parliament are illegitimate.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>Months of anti-government protests reached a bloody climax last week, when street clashes between demonstrators and security forces left more than 80 dead.</content>
+        </sentence>
+        <sentence id="6">
+          <content>The protesters&amp;apost; anger was focused on Yanukovych.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>Ukrainian authorities issued a warrant for Yanukovych&amp;apost;s arrest last week over civilian deaths during the protests.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>Meanwhile, lawmakers in Kiev approved opposition leader Arseniy Yatsenyuk of the Batkivschina, or Fatherland, Party as prime minister.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>Yanukovych wouldn&amp;apost;t be the first controversial figure facing criminal charges to find safe haven in Russia.</content>
+        </sentence>
+        <sentence id="10">
+          <content>U.S. National Security Agency whistleblower Edward Snowden has been there since June, having been granted a one-year asylum.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>Russia has strong ties to Ukraine that extend beyond the supply lines providing most of the country&amp;apost;s natural gas.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>Ukraine gained independence in 1991; before that, it had, like Russia, been part of the Soviet Union.</content>
+        </sentence>
+        <sentence id="13">
+          <content>More historically, most ethnic Ukrainian territory had been part of the Russian Empire.</content>
+        </sentence>
+        <sentence id="14">
+          <content>Russian language is spoken by 24% of the population, according to the CIA World Factbook.</content>
+        </sentence>
+        <sentence id="15">
+          <content>About 17% of the Ukrainian population is ethnic Russian.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>During the Soviet era, in 1954, Russia gave Ukraine a region called Crimea, which has since been in the south of Ukraine and is experiencing unrest this week.</content>
+        </sentence>
+        <sentence id="17">
+          <content>Dozens of armed men seized the regional government administration building and parliament there Thursday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="18">
+          <content>Many ethnic Russians still live in Crimea, where support for Russia is strong.</content>
+        </sentence>
+        <sentence id="19">
+          <content>Part of Russia&amp;apost;s navy is based in Crimea; a base in the city of Sevastopol that has been there for 230 years.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="20">
+          <content>The eastern part of Ukraine is also heavily influenced by Russia in terms of language, culture and business.</content>
+        </sentence>
+        <sentence id="21">
+          <content>CNN&amp;apost;s Fred Pleitgen reported this week that many pro-Russians there &amp;quot;are very afraid of what might happen next, who are afraid that their culture, their heritage are in danger, who feel that the Russian language -- which has always had a special status here in Ukraine -- might be in danger of becoming marginalized as well.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

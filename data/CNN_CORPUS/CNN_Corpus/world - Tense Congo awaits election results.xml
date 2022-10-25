@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2814" link="http://edition.cnn.com/2011/12/08/world/africa/congo-election/index.html" date_published="2011-12-08 07:29:25" category="world" author="Faith Karimi, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Tense Congo awaits election results</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">Congo&amp;apost;s election commission postponed announcing the results Tuesday .</sentence>
+      <sentence id="2" ids_article_sentences="7">The opposition has accused the election commission of conducting a botched poll.</sentence>
+      <sentence id="3" ids_article_sentences="18">The polls are critical in the central African nation struggling to rebuild years after a conflict.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-28 09:03:48" annotation_time="11.692">
+      <sentence id="2" ids_highlights="1">On Tuesday, Congo&amp;apost;s election commission announced that it was postponing announcing the results by 48 hours.</sentence>
+      <sentence id="7" ids_highlights="2">Opposition leaders have accused the election commission of conducting a botched poll after preliminary results showed incumbent President Joseph Kabila in the lead.</sentence>
+      <sentence id="18" ids_highlights="3">Analysts fear the election outcome could plunge the nation into chaos again years after a 1998-2003 conflict that left 5 million dead as a result of fighting, diseases and starvation.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The Democratic Republic of Congo is scheduled to release election results Thursday after a two-day delay that has intensified tensions between the government and opposition leaders.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>On Tuesday, Congo&amp;apost;s election commission announced that it was postponing announcing the results by 48 hours.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;People stayed up until after midnight early Thursday waiting for the results,&amp;quot; said Herman Nzeza, the Congo representative of FreeFair DRC, a nonpartisan group that raises awareness of the election.</content>
+        </sentence>
+        <sentence id="4">
+          <content>&amp;quot;They normally announce them at night, so the streets were empty.</content>
+        </sentence>
+        <sentence id="5">
+          <content>People were waiting for them to be announced on state television.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>Nzeza, who is based in the capital of Kinshasa, said there is no set time frame for the announcement, but citizens expect it before midnight local time.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>Opposition leaders have accused the election commission of conducting a botched poll after preliminary results showed incumbent President Joseph Kabila in the lead.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>Etienne Tshisekedi, the main challenger, has warned that the opposition will not accept the election outcome amid claims of ballot stuffing and manipulated voter lists.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>Kabila, 40, took over after his father&amp;apost;s assassination in 2001 and was later elected in Congo&amp;apost;s first democratic election five years later.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>Frontrunner Tshisekedi, 78, has gained popularity in the sprawling capital of Kinshasa for speaking out against the nation&amp;apost;s autocracies and has been a fixture in the nation&amp;apost;s politics for three decades.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>The election commission said Tuesday that Kabila was leading with 49% while Tshisekedi had 34% with nearly 90% of the vote counted, according to Nzeza.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;Expectations are high.</content>
+        </sentence>
+        <sentence id="13">
+          <content>Tensions are very high,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="14">
+          <content>&amp;quot;The opposition wants to win.</content>
+        </sentence>
+        <sentence id="15">
+          <content>It&amp;apost;s now or never.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Tshisekedi is already considering himself president.</content>
+        </sentence>
+        <sentence id="17">
+          <content>We don&amp;apost;t know how all sides will react, if their candidates don&amp;apost;t win.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="18">
+          <content>Analysts fear the election outcome could plunge the nation into chaos again years after a 1998-2003 conflict that left 5 million dead as a result of fighting, diseases and starvation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="19">
+          <content>Clashes have erupted after the vote, with at least 18 people killed in a week of election-related violence, Human Rights Watch said Friday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="20">
+          <content>Stability in Congo -- which borders nine mostly vulnerable countries -- is vital to Africa&amp;apost;s Great Lakes region.</content>
+        </sentence>
+        <sentence id="21">
+          <content>The years of war affected at least six neighboring nations, some of which are still battling rebel movements spawned during the conflict.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="22">
+          <content>Despite Congo&amp;apost;s vast resources including cobalt, gold, copper and tantalum, the fledgling democracy is mired in poverty and conflict especially in its eastern region, a hot spot for the so-called &amp;quot;conflict minerals&amp;quot; that activists say are used to fund rebel movements in the area.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

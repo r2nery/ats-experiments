@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1637" link="http://www.cnn.com/2012/02/21/tech/mobile/privacy-info-kids-apps/index.html" date_published="2012-02-21 13:33:54" category="tech" author=" Amy Gahran, Special to CNN" highlights_mapped="true" mapping_error="false">
+  <title>Parents need more privacy info about kids&amp;apost; apps, feds say</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">A great majority of mobile apps intended for kids offer no privacy information, feds say.</sentence>
+      <sentence id="2" ids_article_sentences="17">There is a lack of enforcement on developers having to disclose the information their apps collect.</sentence>
+      <sentence id="3" ids_article_sentences="41">Always review the permissions an app requests before your kid downloads and installs.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-09 10:10:11" annotation_time="31.215">
+      <sentence id="3" ids_highlights="1">According to a new Federal Trade Commission report, the vast majority of the thousands of mobile apps intended for children offer no privacy information, which makes it hard for parents to make informed decisions about which apps are safe to let their kids use.</sentence>
+      <sentence id="17" ids_highlights="2">According to the FTC: &amp;quot;Although the app store developer agreements require developers to disclose the information their apps collect, the app stores do not appear to enforce these requirements.</sentence>
+      <sentence id="41" ids_highlights="3">In general, it&amp;apost;s a good idea to always review the permissions an app requests before you download and install it.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Is that app you just downloaded surreptitiously gathering data to push targeted ads to your 6-year-old?</content>
+        </sentence>
+        <sentence id="2">
+          <content>Quite possibly.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>According to a new Federal Trade Commission report, the vast majority of the thousands of mobile apps intended for children offer no privacy information, which makes it hard for parents to make informed decisions about which apps are safe to let their kids use.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>In July, FTC staff searched Apple&amp;apost;s and Google&amp;apost;s app marketplaces for the term &amp;quot;kids&amp;quot; and found nearly 12,000 apps.</content>
+        </sentence>
+        <sentence id="5">
+          <content>They then randomly selected 200 kids&amp;apost; apps from each store and examined the information provided in the store about each app.</content>
+        </sentence>
+        <sentence id="6">
+          <content>They also visited developers&amp;apost; web pages for the apps.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>According to the FTC, in most cases &amp;quot;staff was unable to determine from the promotion pages whether the apps collected any data at all -- let alone the type of data collected, the purpose of the collection, and who collected or obtained access to the data.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>Specifically, the promotion pages for Apple apps contained almost no relevant language regarding app data collection or sharing.</content>
+        </sentence>
+        <sentence id="9">
+          <content>In the Android market, only three of the app pages examined offered even minimal information beyond the general &amp;quot;permission&amp;quot; statements Google requires.</content>
+        </sentence>
+        <sentence id="10">
+          <content>And even those only mentioned that the app provided information to an ad network -- without identifying which information was being collected, by whom, how it was to be used and whether it&amp;apost;s shared with other parties.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="11">
+          <content>This is an issue not just for smartphone apps, but for tablets as well.</content>
+        </sentence>
+        <sentence id="12">
+          <content>According to new Nielsen Company research, 70% of adults who own tablets and who also have children under 12 report that their kids use their tablet.</content>
+        </sentence>
+        <sentence id="13">
+          <content>Of these, 77% said their kids play games downloaded to the tablet, and 57% report that their kids use educational tablet apps.</content>
+        </sentence>
+        <sentence id="14">
+          <content>Also, tablets help keep kids quiet and content: 55% of tablet-owning parents report that their tablet keeps kids entertained while traveling, and 41% let their kids entertain themselves on the tablet in restaurants.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="15">
+          <content>Don&amp;apost;t Apple and Google require developers to disclose that information about their apps?</content>
+        </sentence>
+        <sentence id="16">
+          <content>Apparently, not really.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="17">
+          <content>According to the FTC: &amp;quot;Although the app store developer agreements require developers to disclose the information their apps collect, the app stores do not appear to enforce these requirements.</content>
+        </sentence>
+        <sentence id="18">
+          <content>This lack of enforcement provides little incentive to app developers to provide such disclosures and leaves parents without the information they need.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="19">
+          <content>What types of mobile privacy incursions most concern FTC as far as kids are concerned?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="20">
+          <content>First, there&amp;apost;s the ability to make purchases within an app.</content>
+        </sentence>
+        <sentence id="21">
+          <content>&amp;quot;For example, a storybook application may come with a single story, but then allow the app user to purchase additional stories without having to leave the app.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="22">
+          <content>Connecting with social media also can be an issue, especially with games that allow kids to share their scores on Facebook or other social networks.</content>
+        </sentence>
+        <sentence id="23">
+          <content>(Yes, you&amp;apost;re supposed to be at least 13 years old to have a Facebook account, but last year a study found that more than half of kids age 10-14 had a Facebook account by age 12.).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="24">
+          <content>Some mobile apps can also access geolocation or contact information stored on a phone.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="25">
+          <content>But the most likely privacy issues for app-using kids involve advertising.</content>
+        </sentence>
+        <sentence id="26">
+          <content>FTC identified a few main concerns: &amp;quot;First, parents may want to limit the data collected by advertisers and ad networks about their children.</content>
+        </sentence>
+        <sentence id="27">
+          <content>Second, even if the advertising is not based on any information collected by the user, parents may want to limit their children&amp;apost;s exposure to ads.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="28">
+          <content>One of the most common permissions that mobile apps request is the ability to connect to the Internet.</content>
+        </sentence>
+        <sentence id="29">
+          <content>There are many legitimate reasons for apps -- even an app for kids -- to do this.</content>
+        </sentence>
+        <sentence id="30">
+          <content>However, this can also be the conduit for sharing information back to app developers, ad networks, or even criminals who plant trojan-infected apps in app markets.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="31">
+          <content>Also, the FTC notes that &amp;quot;ads running inside an app may incorporate various capabilities allowing the user to do things like directly call phone numbers or visit websites appearing in the ad.&amp;quot;</content>
+        </sentence>
+        <sentence id="32">
+          <content>These options can even incur extra charges on your phone bill.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="33">
+          <content>In general, mobile advertising has been getting more aggressive.</content>
+        </sentence>
+        <sentence id="34">
+          <content>One of the most annoying recent trends is the push ad -- which mainly affects Android phones.</content>
+        </sentence>
+        <sentence id="35">
+          <content>Some apps include advertising from mobile ad networks that can actually make ads appear in your phone&amp;apost;s notification bar, place ad-enabled search icons on your home screen, or even modify settings in your mobile browser.</content>
+        </sentence>
+        <sentence id="36">
+          <content>It can be difficult to tell which apps are causing these problems.</content>
+        </sentence>
+        <sentence id="37">
+          <content>Lookout Mobile Security recently debuted a Push Ad Detector to help Android users figure out which apps might be the culprit.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="38">
+          <content>FTC staff did not download or test these apps.</content>
+        </sentence>
+        <sentence id="39">
+          <content>Nor did they view the app information via a mobile device; this research was all conducted on desktop computers.</content>
+        </sentence>
+        <sentence id="40">
+          <content>The information available through the mobile interface to an app marketplace can be different from what you&amp;apost;d see on a computer.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="41">
+          <content>In general, it&amp;apost;s a good idea to always review the permissions an app requests before you download and install it.</content>
+        </sentence>
+        <sentence id="42">
+          <content>For instance, should a &amp;quot;cute kitties&amp;quot; mobile game really need access to your phone&amp;apost;s contact list or location data?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="43">
+          <content>The FTC notes that both Apple and Google offer some controls that allow parents to restrict which apps can be downloaded onto their kids&amp;apost; mobile devices.</content>
+        </sentence>
+        <sentence id="44">
+          <content>These are based on app content ratings, which probably would not catch most privacy issues related to mobile advertising.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="45">
+          <content>Furthermore, the Apple iOS mobile operating systems lets parents password-protect access to specific apps and mobile websites (such as the mobile Safari Web browser or YouTube) -- or even the App Store itself, as well as the camera, location sharing and in-app purchase mechanisms.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="46">
+          <content>Android doesn&amp;apost;t have built-in parental controls, but several Android apps offer various types of parental controls.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="47">
+          <content>If Apple and Google (and other app markets, such as those for Amazon&amp;apost;s Kindle Fire tablet and the Barnes &amp;amp; Noble Nook Color) don&amp;apost;t start requiring more privacy information from app developers and making it easier for parents to find and understand, it&amp;apost;s possible the FTC might start cracking down on app developers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="48">
+          <content>In September 2011, the FTC settled its first legal action against a mobile app developer in enforcement of the Children&amp;apost;s Online Privacy Protection Act.</content>
+        </sentence>
+        <sentence id="49">
+          <content>According to the consent decree, the developer (W3 Innovations, which also has done business under the name &amp;quot;Broken Thumbs Apps&amp;quot;) was ordered to start publishing information about the kinds of data collected via their apps and how that data is shared, to get parental consent before collecting any new data, and to delete all the data they had collected so far -- plus pay a $50,000 fine.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="50">
+          <content>The opinions expressed in this post are solely those of Amy Gahran.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

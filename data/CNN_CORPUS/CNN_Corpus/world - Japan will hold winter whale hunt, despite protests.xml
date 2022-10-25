@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2357" link="http://edition.cnn.com/2011/10/04/world/asia/japan-whale-hunting/index.html" date_published="2011-10-04 17:34:41" category="world" author="Brad Lendon, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Japan will hold winter whale hunt, despite protests</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="4">Japan&amp;apost;s hunt last winter was cut short 2 months due to activists.</sentence>
+      <sentence id="2" ids_article_sentences="5">Anti-whaling group says it saved 800 whales.</sentence>
+      <sentence id="3" ids_article_sentences="16">Australia&amp;apost;s attorney general wants Japan&amp;apost;s whaling to stop.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-10 13:25:54" annotation_time="22.179">
+      <sentence id="4" ids_highlights="1">Last winter, Japan cut short its planned December-to-April hunt by two months after anti-whaling activists from the Sea Shepherd Conservation Society repeatedly interfered with the whaling vessels.</sentence>
+      <sentence id="5" ids_highlights="2">Sea Shepherd claims it saved 800 whales by its actions during last season&amp;apost;s hunt.</sentence>
+      <sentence id="16" ids_highlights="3">&amp;quot;Australia believes Japan&amp;apost;s whaling is contrary to international law and should stop,&amp;quot; Australian Attorney General Robert McClelland said.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Japan says it will hunt whales in the Southern Ocean this winter and will send a Fisheries Agency ship to guard its whalers against promised intervention by a conservation group.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>&amp;quot;The Fisheries Agency will send a patrol boat and take increased measures to strengthen the protection given to the research whaling ships,&amp;quot; Fisheries Minister Michihiko Kano said at a news conference Tuesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>At its annual meeting in July, the International Whaling Commission passed a resolution calling on its member countries &amp;quot;to cooperate to prevent and suppress actions that risk human life and property at sea.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>Last winter, Japan cut short its planned December-to-April hunt by two months after anti-whaling activists from the Sea Shepherd Conservation Society repeatedly interfered with the whaling vessels.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>Sea Shepherd claims it saved 800 whales by its actions during last season&amp;apost;s hunt.</content>
+        </sentence>
+        <sentence id="6">
+          <content>Japanese whalers killed 171 minke whales and two fin whales during the Antarctic hunt, according to IWC figures.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>In a statement issued last Friday, Sea Shepherd vowed to take on the whaling vessels again.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;They will have to kill us to prevent us from intervening once again.</content>
+        </sentence>
+        <sentence id="9">
+          <content>... We will undertake whatever risks to our lives will be required to stop this invasion of arrogant greed into what is an established sanctuary for the whales,&amp;quot; Sea Shepherd&amp;apost;s leader, Paul Watson, said in a statement on the organization&amp;apost;s website.</content>
+        </sentence>
+        <sentence id="10">
+          <content>Sea Shepherd will have more than 100 people in the Southern Ocean to block the Japanese whaling fleet, according to the statement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>Kano said Japan wants to continue research whaling with the aim of establishing that whale stocks are sufficient to resume a full commercial hunt in the future, according to Japanese media reports.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>Sea Shepherd contends that the research hunts are a sham, with meat from the hunts being sold to consumers and served in restaurants.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>Australia&amp;apost;s government condemned Japan&amp;apost;s decision to resume its research hunt and its plans for future commercial hunts.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;The Australian government remains opposed to all commercial whaling, including so-called &amp;apost;scientific whaling.&amp;apost;.</content>
+        </sentence>
+        <sentence id="15">
+          <content>We will keep working to achieve a permanent end to all commercial whaling,&amp;quot; Environment Minister Tony Burke said in a statement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;Australia believes Japan&amp;apost;s whaling is contrary to international law and should stop,&amp;quot; Australian Attorney General Robert McClelland said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;That is why Australia is taking our case in the International Court of Justice to bring to an end Southern Ocean whaling permanently.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="18">
+          <content>Japan also hunts whales in the Northern Pacific, taking 100 sei whales, 50 Bryde&amp;apost;s, 119 minke and three sperm whales last season, according to the IWC.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="19">
+          <content>Iceland and Norway also conduct whale hunts.</content>
+        </sentence>
+        <sentence id="20">
+          <content>Aboriginal whale hunts are permitted in the Danish territory of Greenland, the United States, Russia, and St. Vincent and the Grenadines.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

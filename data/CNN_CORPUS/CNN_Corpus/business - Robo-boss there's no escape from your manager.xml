@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="106" link="http://edition.cnn.com/2013/06/19/business/telepresence-office-robots/index.html" date_published="2013-06-20 03:50:11" category="business" author="Vanessa Ko, for CNN" highlights_mapped="true" mapping_error="false">
+  <title>Robo-boss: there&amp;apost;s no escape from your manager</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">Robotic telepresence takes teleconferencing to the next level, allowing users to freely move through a remote workplace.</sentence>
+      <sentence id="2" ids_article_sentences="9">The robots are designed so the executives&amp;apost; faces appear through a camera on its video screen.</sentence>
+      <sentence id="3" ids_article_sentences="11">So far, such robots have been used more extensively in hospitals.</sentence>
+      <sentence id="4" ids_article_sentences="10">The practical idea behind robotic telepresence is to put managers physically in two places at the same time.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-12 12:03:47" annotation_time="48.202667">
+      <sentence id="3" ids_highlights="1">The technology, called robotic telepresence, is already under development by dozens of companies and takes teleconferencing to the next level by allowing users to freely move through a remote workplace via a robot.</sentence>
+      <sentence id="9" ids_highlights="2">These robots are designed so executives&amp;apost; faces appear through a camera on the video screen, which sits on a stand that often can be adjusted by the user to be at the right height, depending on the interaction.</sentence>
+      <sentence id="10" ids_highlights="4">The practical idea behind robotic telepresence is to put managers in two places at the same time, providing both cost and time saving in an increasingly global work environment.</sentence>
+      <sentence id="11" ids_highlights="3">So far, such robots have been used more extensively in hospitals, where the expertise of doctors on the other side of the country, or the world, can be crucial for patients.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Over the next few years, offices will start to have robots roaming around on wheels, controlled by managers sitting halfway around the world, with their faces appearing on a video screen.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>And it will seem entirely normal, robotics developers say.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The technology, called robotic telepresence, is already under development by dozens of companies and takes teleconferencing to the next level by allowing users to freely move through a remote workplace via a robot.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>This means executives can monitor and manage teams from any location, switch their presence among branch offices thousands of miles apart, and visit and interact with colleagues in their work space -- all while navigating robotic avatars.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>&amp;quot;Telepresence or visual collaboration is a powerful tool, however historically it&amp;apost;s been in a fixed environment, either in a conference room or desktop,&amp;quot; said Youssef Saleh, the vice president and general manager of iRobot&amp;apost;s remote presence business unit, based in Bedford, Massachusetts.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;With robotic telepresence, that really opens the door for total freedom.</content>
+        </sentence>
+        <sentence id="7">
+          <content>Now you could be at any location at any time, anywhere.</content>
+        </sentence>
+        <sentence id="8">
+          <content>It&amp;apost;s not limited to just a limited set of conference rooms or offices.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>These robots are designed so executives&amp;apost; faces appear through a camera on the video screen, which sits on a stand that often can be adjusted by the user to be at the right height, depending on the interaction.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>The practical idea behind robotic telepresence is to put managers in two places at the same time, providing both cost and time saving in an increasingly global work environment.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>So far, such robots have been used more extensively in hospitals, where the expertise of doctors on the other side of the country, or the world, can be crucial for patients.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>Use in corporate offices is still at a very early stage.</content>
+        </sentence>
+        <sentence id="13">
+          <content>But those in the industry say it is just the next step in making long-distance communication feel more realistic.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>Compared to videoconferencing, interacting with a robot has shown to be more similar to face-to-face interaction, according to Cory Kidd, who has a doctorate in human-robot interaction from the MIT Media Lab in the United States.</content>
+        </sentence>
+        <sentence id="15">
+          <content>He is also chief executive of Intuitive Automata, a robotics company.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="16">
+          <content>Kidd says that while robotic teleconference technology is improving month to month right now, many people still find the robots awkward and intrusive - a response that is often seen with new ways of doing things.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;If you look at any sort of new communication technology, there is always backlash against it shortly after it comes out,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="18">
+          <content>Videoconferencing and even telephones were seen as strange and unusual when they were first introduced, Kidd pointed out, and as with any new technology that may go mainstream, it will take getting used to.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;The telephone was going to destroy society because it was so intrusive and changes our lives,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="20">
+          <content>Researchers are also trying to find ways to make the human-robot interaction seem more like the users are really present.</content>
+        </sentence>
+        <sentence id="21">
+          <content>At the Chinese University of Hong Kong, for example, researchers are developing a telepresence robot that can also convey body language through robotic arms.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;When we communicate, we also observe body motions to understand meaning,&amp;quot; said Lam Tin-lun, a research fellow at the university&amp;apost;s Advanced Robotics Lab who is heading the project.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="23">
+          <content>Lam says while the technology might seem strange at first, it does not take much time to adapt to an office with colleagues moving around as robots.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="24">
+          <content>When a prototype of his model was tested in an office, he said, after a week or two, the sight of the robot going about its business was no longer a novelty and workers ceased to be surprised by it.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="25">
+          <content>&amp;quot;They stopped looking at the robot and just did what they always needed to do,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="26">
+          <content>As the technology advances over the next few years, prices will also go down, meaning greater accessibility for companies that will not have to sink a huge investment into the systems.</content>
+        </sentence>
+        <sentence id="27">
+          <content>RoboDynamics, a robotics maker in Santa Monica, California, has said it will sell telepresence robots for about US$1,000 two years from now.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="28">
+          <content>One area that developers say will most likely undergo improvements is the interface - what the user&amp;apost;s control buttons will look like while directing the robot.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="29">
+          <content>iRobot recently launched a new model, in collaboration with Cisco, that does not need manual driving.</content>
+        </sentence>
+        <sentence id="30">
+          <content>When first deployed in a work environment, the model would go all around the office to map the place.</content>
+        </sentence>
+        <sentence id="31">
+          <content>Then the user would only have to indicate whose desk or office to go to, using an iPad app, and the robot would drive itself there while avoiding obstacles or people.</content>
+        </sentence>
+        <sentence id="32">
+          <content>It also knows how to go back to its charging station when no longer in use.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="33">
+          <content>But one contentious issue that still needs to be worked out is etiquette.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="34">
+          <content>&amp;quot;As you start seeing these in offices and other work environments, people have to get used to it, and there are all these social norms in terms of how you fit in,&amp;quot; Kidd said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="35">
+          <content>&amp;quot;Can a robot walk up and interrupt a conversation you&amp;apost;re having?</content>
+        </sentence>
+        <sentence id="36">
+          <content>Or should the robot wait because the person is remote?</content>
+        </sentence>
+        <sentence id="37">
+          <content>Does it matter who it is on the other end and how do you convey that?</content>
+        </sentence>
+        <sentence id="38">
+          <content>So there are a lot of social questions that over the long term are really going to determine the success and the failure of this technology.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

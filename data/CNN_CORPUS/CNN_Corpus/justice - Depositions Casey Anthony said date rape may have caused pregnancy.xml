@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="495" link="http://edition.cnn.com/2012/01/11/justice/florida-casey-anthony/index.html" date_published="2012-01-12 01:27:44" category="justice" author="the CNN Wire Staff" highlights_mapped="true" mapping_error="false">
+  <title>Depositions: Casey Anthony said date rape may have caused pregnancy</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="21">Casey Anthony said she was victim of rape or date rape.</sentence>
+      <sentence id="2" ids_article_sentences="27">Her account is mentioned in depositions released Wednesday.</sentence>
+      <sentence id="3" ids_article_sentences="6">Anthony is at an undisclosed location while serving a 1-year probation sentence.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-19 21:15:03" annotation_time="170977.55">
+      <sentence id="6" ids_highlights="3">She is living at an undisclosed location in Florida while she serves a one-year probation sentence for her 2010 conviction on check fraud charges.</sentence>
+      <sentence id="21" ids_highlights="1">Reading from his notes, the psychiatrist described Anthony&amp;apost;s account: &amp;quot;&amp;apost;He was yelling at me, your fault, can&amp;apost;t believe you did this&amp;apost; ... She said he came out and said, &amp;apost;Daddy is going to take care of it, the same thing he used to say to me.</sentence>
+      <sentence id="27" ids_highlights="2">The father&amp;apost;s attorney released a statement Wednesday after the depositions were released.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Casey Anthony told a psychiatrist and a psychologist she believed she was drugged at a 2004 party and became pregnant with her daughter, Caylee, in whose death four years later she was tried and acquitted.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>&amp;quot;Took two beers, possibly given another drug,&amp;quot; said Dr. Jeffrey Danziger, reading notes of his conversations with Anthony, who was 18 at the time of the party.</content>
+        </sentence>
+        <sentence id="3">
+          <content>&amp;quot;Woke up passed out.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>The psychiatrist and William A. Weitz, a psychologist, gave depositions to lawyers in early 2011, but never testified at Anthony&amp;apost;s trial last year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Anthony, 25, was acquitted last summer of murder charges in the 2008 death of Caylee, 2, but was convicted of four counts of lying to authorities investigating the child&amp;apost;s disappearance.</content>
+        </sentence>
+        <sentence id="6">
+          <content>She is living at an undisclosed location in Florida while she serves a one-year probation sentence for her 2010 conviction on check fraud charges.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>The depositions were released Wednesday by Orange County Chief Judge Belvin Perry Jr. , who presided over the murder trial.</content>
+        </sentence>
+        <sentence id="8">
+          <content>The Orlando Sentinel asked for release of the documents.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>Anthony said she did not know who Caylee&amp;apost;s father was, Weitz told attorneys in April 2011.</content>
+        </sentence>
+        <sentence id="10">
+          <content>&amp;quot;She felt that she was drugged and that there was a question in her mind that she may have been raped or date raped.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>The woman never considered abortion, Weitz said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;She was going to have the child, she was going to be a responsible mother, and there were no alternatives in terms of who would parent he child,&amp;quot; Weitz said in the deposition.</content>
+        </sentence>
+        <sentence id="13">
+          <content>&amp;quot;Glad that she had Caylee.</content>
+        </sentence>
+        <sentence id="14">
+          <content>She immediately had love for her child.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="15">
+          <content>Weitz also described what he termed Anthony&amp;apost;s &amp;quot;unemotional and detached&amp;quot; manner, but said that she did not fit the criteria of having mental disorders.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="16">
+          <content>Casey Anthony&amp;apost;s defense attorneys maintained that Caylee was not murdered at all.</content>
+        </sentence>
+        <sentence id="17">
+          <content>They said the child drowned in the Anthonys&amp;apost; above-ground pool in 2008, and that Casey Anthony and her father, George Anthony, panicked upon finding her there and covered up the death.</content>
+        </sentence>
+        <sentence id="18">
+          <content>George Anthony denied that in his testimony.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="19">
+          <content>Danziger described what Casey Anthony said happened the day Caylee died.</content>
+        </sentence>
+        <sentence id="20">
+          <content>She told him she couldn&amp;apost;t find Caylee when she woke up, went out to check the pool and found her father holding Caylee&amp;apost;s wet body.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="21">
+          <content>Reading from his notes, the psychiatrist described Anthony&amp;apost;s account: &amp;quot;&amp;apost;He was yelling at me, your fault, can&amp;apost;t believe you did this&amp;apost; ... She said he came out and said, &amp;apost;Daddy is going to take care of it, the same thing he used to say to me.</content>
+        </sentence>
+        <sentence id="22">
+          <content>He left the house with the child.</content>
+        </sentence>
+        <sentence id="23">
+          <content>That&amp;apost;s the last time I saw her.&amp;apost;&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="24">
+          <content>Defense attorneys explained Casey Anthony&amp;apost;s behavior in the month before Caylee&amp;apost;s disappearance was reported to police by saying that she had been sexually abused by her father from the age of 8 and had been taught to conceal her pain.</content>
+        </sentence>
+        <sentence id="25">
+          <content>According to Danziger, Anthony said the sexual abuse by her father ended when she was 11.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="26">
+          <content>George Anthony denied that claim in testimony, saying, &amp;quot;I would never do anything like that to my daughter.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="27">
+          <content>The father&amp;apost;s attorney released a statement Wednesday after the depositions were released.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="28">
+          <content>&amp;quot;George Anthony was made aware of these statements in the deposition prior to the trial of his daughter in 2011 and no new information has been disclosed today,&amp;quot; attorney Mark Lippman said.</content>
+        </sentence>
+        <sentence id="29">
+          <content>&amp;quot;As he has repeatedly said prior to the trial, during the trial and after the trial he never molested any member of his family including Casey Anthony and he had nothing to do with the death of Caylee Marie Anthony including what happened to her remains after she allegedly drowned.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

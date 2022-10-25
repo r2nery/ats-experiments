@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="917" link="http://www.cnn.com/2013/09/25/opinion/carroll-obamacare-insurance/index.html?iid=article_sidebar" date_published="2013-09-25 14:37:57" category="opinion" author="Aaron Carroll, Special to CNN" highlights_mapped="true" mapping_error="false">
+  <title>Opinion: There are tradeoffs to Obamacare</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">Lower-cost insurance could come at the cost of fewer choices of health care providers.</sentence>
+      <sentence id="2" ids_article_sentences="11">Aaron Carroll: Insurance companies have been doing this for years to keep costs down .</sentence>
+      <sentence id="3" ids_article_sentences="47, 44, 9">He says just as there&amp;apost;s no policy that is perfect, there are tradeoffs to Obamacare .</sentence>
+      <sentence id="4" ids_article_sentences="50">Carroll: One way to fix this is to have a public option, which might have a larger network .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-19 21:46:26" annotation_time="192.154">
+      <sentence id="3" ids_highlights="1">This week, the New York Times published an article explaining that the savings many people hope to see in lower-cost insurance could come at the cost of fewer choices with respect to health care providers.</sentence>
+      <sentence id="9" ids_highlights="3">But Obamacare no longer allows that.</sentence>
+      <sentence id="11" ids_highlights="2">In the past, insurance companies could have tried to issue policies that didn&amp;apost;t cover as much.</sentence>
+      <sentence id="44" ids_highlights="3">No policy is perfect.</sentence>
+      <sentence id="47" ids_highlights="3">This is one of those situations.</sentence>
+      <sentence id="50" ids_highlights="4">One way might be to have a public option, run by the government, which might have a larger network.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>It seems difficult to open a paper, turn on TV or visit a website these days without hearing some awful new &amp;quot;discovery&amp;quot; about Obamacare and how it&amp;apost;s going to end the world.</content>
+        </sentence>
+        <sentence id="2">
+          <content>More often than not, these claims are overblown, designed to get attention and score political points.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>This week, the New York Times published an article explaining that the savings many people hope to see in lower-cost insurance could come at the cost of fewer choices with respect to health care providers.</content>
+        </sentence>
+        <sentence id="4">
+          <content>This is very true.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>If we want to be realistic about health care reform, we have to acknowledge that everything comes with a tradeoff.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>In order to make insurance cost less, private insurance companies have to make use of the tools available to them.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>In the past, they could have tried preferentially to cover healthier people and refuse coverage to those with chronic conditions.</content>
+        </sentence>
+        <sentence id="8">
+          <content>That leaves a cheaper risk pool, which results in lower premiums.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>But Obamacare no longer allows that.</content>
+        </sentence>
+        <sentence id="10">
+          <content>If we want guaranteed issue and community ratings (so that no one can be denied insurance and no one can be charged more for being sick), then insurance companies must use other strategies to save money.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>In the past, insurance companies could have tried to issue policies that didn&amp;apost;t cover as much.</content>
+        </sentence>
+        <sentence id="12">
+          <content>Policies with skimpier benefits are cheaper, too.</content>
+        </sentence>
+        <sentence id="13">
+          <content>But Obamacare sets minimums with respect to what qualifies as comprehensive coverage.</content>
+        </sentence>
+        <sentence id="14">
+          <content>So that tool was taken away as well.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="15">
+          <content>In the past, insurance companies could have set lower annual or lifetime limits, which confines their risk and allows them to sell insurance at a lower price.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Or, they could have set really high deductibles or out-of-pocket maximums.</content>
+        </sentence>
+        <sentence id="17">
+          <content>These, too, are now more tightly regulated.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="18">
+          <content>So what&amp;apost;s left?</content>
+        </sentence>
+        <sentence id="19">
+          <content>How can insurance companies make health care cheaper so that they can deliver lower premiums to people and attract more business?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="20">
+          <content>Well, one thing they could do is limit their administrative costs.</content>
+        </sentence>
+        <sentence id="21">
+          <content>But if you ask insurance companies, they tell you that they are already running pretty lean.</content>
+        </sentence>
+        <sentence id="22">
+          <content>They also like to make a nice profit, and they like to pay their executives well.</content>
+        </sentence>
+        <sentence id="23">
+          <content>So they are left with one really good option: Pay less for care.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="24">
+          <content>How do they do this?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="25">
+          <content>One way they&amp;apost;ve been doing it for years is to contract with certain doctors and hospitals to provide care for their beneficiaries for less money.</content>
+        </sentence>
+        <sentence id="26">
+          <content>Providers will agree to this because it guarantees them a certain amount of business.</content>
+        </sentence>
+        <sentence id="27">
+          <content>Insurance companies like it because it means they can pay less, charge lower premiums and sell more policies.</content>
+        </sentence>
+        <sentence id="28">
+          <content>And that is how many plans in the health care exchanges will compete for your business.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="29">
+          <content>Please understand that this is nothing new with respect to health insurance.</content>
+        </sentence>
+        <sentence id="30">
+          <content>At my job, there are a number of different plans offered to employees.</content>
+        </sentence>
+        <sentence id="31">
+          <content>The most expensive plan allows us to see the widest range of physicians.</content>
+        </sentence>
+        <sentence id="32">
+          <content>There&amp;apost;s a cheaper plan available, but my kids&amp;apost; pediatrician (whom we revere) isn&amp;apost;t in that network.</content>
+        </sentence>
+        <sentence id="33">
+          <content>So we pay for the more expensive plan.</content>
+        </sentence>
+        <sentence id="34">
+          <content>That&amp;apost;s a choice we make as informed consumers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="35">
+          <content>Problems will arise if people don&amp;apost;t understand what they are getting into.</content>
+        </sentence>
+        <sentence id="36">
+          <content>There&amp;apost;s no such thing as a free lunch.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="37">
+          <content>If you buy the cheapest plan, it may not include the doctor you want.</content>
+        </sentence>
+        <sentence id="38">
+          <content>If choice is your No. 1 goal, then you will probably have to pay for it.</content>
+        </sentence>
+        <sentence id="39">
+          <content>What makes this a problem for Obamacare, though, is that some health exchanges aren&amp;apost;t offering a choice.</content>
+        </sentence>
+        <sentence id="40">
+          <content>For instance, in New Hampshire, only one insurance company is offering exchange plans, and it has a rather limited network.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="41">
+          <content>If you were previously uninsured, then the most straightforward argument is that the plan you&amp;apost;re getting, probably with subsidies to make it cheaper, is better than nothing.</content>
+        </sentence>
+        <sentence id="42">
+          <content>But some people, who might have had individually issued policies before Obamacare with larger networks, will not be happy with their new plans.</content>
+        </sentence>
+        <sentence id="43">
+          <content>They may be cheaper, but they may have preferred to pay more for choice, and now they won&amp;apost;t be able to.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="44">
+          <content>No policy is perfect.</content>
+        </sentence>
+        <sentence id="45">
+          <content>On the whole, I believe far more people will benefit from Obamacare than will be hurt by it.</content>
+        </sentence>
+        <sentence id="46">
+          <content>Any change will inevitably make someone unhappy.</content>
+        </sentence>
+        <sentence id="47">
+          <content>This is one of those situations.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="48">
+          <content>We shouldn&amp;apost;t ignore this deficiency.</content>
+        </sentence>
+        <sentence id="49">
+          <content>We should fix it.</content>
+        </sentence>
+        <sentence id="50">
+          <content>One way might be to have a public option, run by the government, which might have a larger network.</content>
+        </sentence>
+        <sentence id="51">
+          <content>Medicare has perhaps the largest national network in the country, as more doctors accept it than just about any other form of insurance.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="52">
+          <content>So it&amp;apost;s totally possible to offer more choice.</content>
+        </sentence>
+        <sentence id="53">
+          <content>But that will require politicians to work together to amend the law to make it better.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="54">
+          <content>It will be instructive to watch how people react to news like this.</content>
+        </sentence>
+        <sentence id="55">
+          <content>If they are truly concerned about fixing this problem, then they will seek solutions to do so.</content>
+        </sentence>
+        <sentence id="56">
+          <content>If they use this issue only to demagogue against the entire law, though, it&amp;apost;s likely that they care more about politics than policy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="57">
+          <content>Follow us on Twitter @CNNOpinion.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="58">
+          <content>Join us on Facebook/CNNOpinion.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

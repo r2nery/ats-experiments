@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="396" link="http://www.cnn.com/2014/06/24/health/improve-memory-brain/index.html" date_published="2014-06-24 11:36:36" category="health" author="Jayatri Das, Special to CNN" highlights_mapped="true" mapping_error="false">
+  <title>To improve memory, exercise your brain</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="5">June is Alzheimer&amp;apost;s &amp;amp; Brain Awareness Month.</sentence>
+      <sentence id="2" ids_article_sentences="14, 13">The 86 billion neurons in your head use 20% of your body&amp;apost;s energy to function.</sentence>
+      <sentence id="3" ids_article_sentences="26">Exercising and eating well are important to brain health.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-07-27 09:27:57" annotation_time="88.06467">
+      <sentence id="5" ids_highlights="1">In honor of Alzheimer&amp;apost;s &amp;amp; Brain Awareness Month, spend some time getting to know your brain a little better.</sentence>
+      <sentence id="13" ids_highlights="2">The 86 billion neurons in your head are constantly active.</sentence>
+      <sentence id="14" ids_highlights="2">Even though the brain doesn&amp;apost;t account for much of your body weight, it uses 20% of your body&amp;apost;s energy to function.</sentence>
+      <sentence id="26" ids_highlights="3">Exercising and eating a healthy diet may sound as trite as &amp;quot;an apple a day,&amp;quot; but repeated studies have shown how these practices help the brain at a cellular level.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>From the outside, the human brain might not be much to look at.</content>
+        </sentence>
+        <sentence id="2">
+          <content>What makes it fascinating is hidden within, in the complicated circuitry of neurons that makes you who you are.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>Scientists are trying to understand this complex network and find the key to staying sharp as we age.</content>
+        </sentence>
+        <sentence id="4">
+          <content>In the meantime, use what they do know: that exercising these neurons can improve your memory and possibly stave off dementia.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>In honor of Alzheimer&amp;apost;s &amp;amp; Brain Awareness Month, spend some time getting to know your brain a little better.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>The basic building blocks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>Neurons, the functional building blocks of your brain, communicate using a combination of electrical and chemical signals.</content>
+        </sentence>
+        <sentence id="8">
+          <content>How and when do they fire?</content>
+        </sentence>
+        <sentence id="9">
+          <content>How are they wired together?</content>
+        </sentence>
+        <sentence id="10">
+          <content>How does that wiring change?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="11">
+          <content>Understanding these fundamental mechanisms isn&amp;apost;t just a trip back to biology class.</content>
+        </sentence>
+        <sentence id="12">
+          <content>This knowledge is essential to understanding how you can keep your brain healthy, and why these different strategies work.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="13">
+          <content>The 86 billion neurons in your head are constantly active.</content>
+        </sentence>
+        <sentence id="14">
+          <content>Even though the brain doesn&amp;apost;t account for much of your body weight, it uses 20% of your body&amp;apost;s energy to function.</content>
+        </sentence>
+        <sentence id="15">
+          <content>It&amp;apost;s a matter of gray and white.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="16">
+          <content>Gray matter, which contains the parts of neurons that carry out thought processing, uses most of this energy.</content>
+        </sentence>
+        <sentence id="17">
+          <content>White matter is more efficient.</content>
+        </sentence>
+        <sentence id="18">
+          <content>It contains the long axons of neurons that relay signals and coordinate different areas of the brain.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="19">
+          <content>However, it&amp;apost;s not enough for your brain cells simply to fire in the same patterns over and over.</content>
+        </sentence>
+        <sentence id="20">
+          <content>From moment to moment, throughout your life, your neurons need to rewire themselves based on your genes and experiences.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="21">
+          <content>The differences in the connections between neurons are what make each of our brains unique, but characterizing those differences is among the biggest challenges facing scientists today.</content>
+        </sentence>
+        <sentence id="22">
+          <content>Even if scientists could record the network of a whole brain in an instant, it would only capture a single frame of a lifelong movie.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="23">
+          <content>Keep your brain strong.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="24">
+          <content>There are things you can do on a daily basis to help your brain stay sharp.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="25">
+          <content>Most importantly, stay in good physical health.</content>
+        </sentence>
+        <sentence id="26">
+          <content>Exercising and eating a healthy diet may sound as trite as &amp;quot;an apple a day,&amp;quot; but repeated studies have shown how these practices help the brain at a cellular level.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="27">
+          <content>Exercise improves cognitive functions ranging from math to memory across the lifespan, and it can even benefit brain function during the early stages of Alzheimer&amp;apost;s disease.</content>
+        </sentence>
+        <sentence id="28">
+          <content>Exercise enhances the growth and survival of new neurons in the hippocampus -- a region of the brain essential for long-term memory -- which may be able to replace others that degenerate as a result of the disease.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="29">
+          <content>Blueberries, kale, coffee and nuts often get a lot of attention as good &amp;quot;brain foods&amp;quot; because of their high levels of antioxidants.</content>
+        </sentence>
+        <sentence id="30">
+          <content>Why?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="31">
+          <content>Negatively charged oxygen compounds are produced as a byproduct of your body&amp;apost;s normal metabolism.</content>
+        </sentence>
+        <sentence id="32">
+          <content>They can set off chemical chain reactions that eventually damage or kill cells.</content>
+        </sentence>
+        <sentence id="33">
+          <content>Because your neurons are so active, your brain is particularly susceptible, and antioxidants can prevent those chain reactions from occurring.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="34">
+          <content>Give your brain an active lifestyle.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="35">
+          <content>You know you need to workout to keep your body in shape.</content>
+        </sentence>
+        <sentence id="36">
+          <content>Your mind is no different.</content>
+        </sentence>
+        <sentence id="37">
+          <content>Learning and practicing any challenging skill -- for example, a second language, reading, or even juggling -- can change the structure of your brain for the better.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="38">
+          <content>This type of mental stimulation can delay cognitive decline associated with Alzheimer&amp;apost;s disease, although there&amp;apost;s evidence that once the symptoms of dementia begin, they progress faster.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="39">
+          <content>Also, stay connected with friends and family -- as long as it doesn&amp;apost;t create more stress!</content>
+        </sentence>
+        <sentence id="40">
+          <content>Several studies have shown that being part of a larger social network can reduce the cognitive effects of Alzheimer&amp;apost;s disease.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="41">
+          <content>Accept the things you cannot change.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="42">
+          <content>The fact that the brain is always changing gives us the opportunity to shape those neural connections through our behavior and environment.</content>
+        </sentence>
+        <sentence id="43">
+          <content>But beneath all of those factors lies the unchangeable role of genetics.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="44">
+          <content>How do genes and your environment interact in normal aging, let alone result in diseases such as Alzheimer&amp;apost;s?</content>
+        </sentence>
+        <sentence id="45">
+          <content>Neuroscientists are still looking at the effects of lifestyle choices, finding genes associated with elevated risk of disease, and studying the molecular mechanisms through which plaques and tangles of proteins damage neurons.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="46">
+          <content>So far, however, the advances we are making are merely laying the groundwork for a future set of questions.</content>
+        </sentence>
+        <sentence id="47">
+          <content>We can only hope that someday, in a future June, we&amp;apost;ll be celebrating a cure for Alzheimer&amp;apost;s instead.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

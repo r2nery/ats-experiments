@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="962" link="http://www.cnn.com/2013/10/29/politics/obamacare-states-scrap-insurance-plans/index.html?iref=allsearch" date_published="2013-10-30 01:21:32" category="politics" author="Chris Frates, CNN" highlights_mapped="true" mapping_error="false">
+  <title>3 states tell insurers to scrap plans that don&amp;apost;t comply with Obamacare</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">Virginia, Kentucky and Idaho tell insurers to end non-compliant plans .</sentence>
+      <sentence id="2" ids_article_sentences="4">&amp;quot;It was easier just to start from scratch,&amp;quot; rather than fixing old plans, one official says.</sentence>
+      <sentence id="3" ids_article_sentences="13">Some customers with old plans may pay more for new ones; others may get subsidies .</sentence>
+      <sentence id="4" ids_article_sentences="14">White House stand by assertion that customers could keep their insurance plans.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-24 13:22:00" annotation_time="138.773">
+      <sentence id="2" ids_highlights="1">Virginia, Kentucky and Idaho have told insurance companies that they must scrap insurance plans that don&amp;apost;t meet the minimum coverage requirements laid out in the Affordable Care Act.</sentence>
+      <sentence id="4" ids_highlights="2">But these three states have determined that with so many changes required under Obamacare, it&amp;apost;s easier to start over than to try to bring existing plans into compliance.</sentence>
+      <sentence id="13" ids_highlights="3">Others might qualify for subsidies and pay less for their insurance.</sentence>
+      <sentence id="14" ids_highlights="4">White House spokesman Jay Carney on Tuesday defended the president&amp;apost;s promise, arguing that anyone who has a plan that predates the Affordable Care Act can keep that plan -- as long as its terms have not changed in the interim.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>President Obama may have promised Americans that they can keep their insurance if they like it, but that&amp;apost;s not the case in at least three states where insurance companies are required to discontinue plans that don&amp;apost;t meet Obamacare&amp;apost;s new coverage standards.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Virginia, Kentucky and Idaho have told insurance companies that they must scrap insurance plans that don&amp;apost;t meet the minimum coverage requirements laid out in the Affordable Care Act.</content>
+        </sentence>
+        <sentence id="3">
+          <content>Some states allow insurers to amend their current plans to include the new benefits, such as maternity care and prescription drug coverage, required under Obamacare.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>But these three states have determined that with so many changes required under Obamacare, it&amp;apost;s easier to start over than to try to bring existing plans into compliance.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Ronda Sloan, a spokeswoman for the Kentucky Department of Insurance, explained the policy this way: &amp;quot;In this case, you&amp;apost;re talking about an entirely new product.</content>
+        </sentence>
+        <sentence id="6">
+          <content>They had to file a completely new policy.</content>
+        </sentence>
+        <sentence id="7">
+          <content>... It was easier just to start from scratch.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>That means that about half of the roughly 600,000 people in Kentucky&amp;apost;s private insurance market will have their current insurance plans discontinued by the end of next year.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Private insurance only makes up part of the state&amp;apost;s insurance market, which also includes employer-based coverage, and Medicare and Medicaid.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>Virginia Bureau of Insurance spokesman Ken Schrad said insurance companies could offer customers with discontinued plans similar coverage, but it also has to include the new mandated Obamacare benefits.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>But, he cautioned, &amp;quot;it is virtually impossible to compare what you have to what you&amp;apost;re going to have because of all the new provisions.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>Indeed, some people may find the new plans cost more.</content>
+        </sentence>
+        <sentence id="13">
+          <content>Others might qualify for subsidies and pay less for their insurance.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>White House spokesman Jay Carney on Tuesday defended the president&amp;apost;s promise, arguing that anyone who has a plan that predates the Affordable Care Act can keep that plan -- as long as its terms have not changed in the interim.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>&amp;quot;The president was clear about a basic fact: If you had insurance that you liked on the individual market, and you wanted to keep that insurance through 2010, &amp;apost;11, &amp;apost;12, &amp;apost;13 and in perpetuity if you wanted it and it was available, you could.</content>
+        </sentence>
+        <sentence id="16">
+          <content>You were grandfathered in,&amp;quot; Carney said at the White House briefing Tuesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="17">
+          <content>In practice, insurance companies are loath to leave their plans unchanged, so grandfathered plans are disappearing.</content>
+        </sentence>
+        <sentence id="18">
+          <content>Numbers for how many grandfathered plans are hard to come by, and insurers don&amp;apost;t seem to be looking back.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;Health plans want to keep their customers.</content>
+        </sentence>
+        <sentence id="20">
+          <content>In notifying consumers about changes to their existing coverage, health plans are educating them about their new coverage options, including the benefits and assistance that are available through the new marketplaces, and helping them enroll,&amp;quot; said Robert Zirkelbach, a spokesman for America&amp;apost;s Health Insurance Plans.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="21">
+          <content>But even having to enroll in a new plan could leave some people confused and upset, particularly after the president assured them repeatedly that that wouldn&amp;apost;t be the case.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

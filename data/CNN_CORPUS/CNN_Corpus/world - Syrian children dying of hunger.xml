@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2791" link="http://www.cnn.com/2014/02/05/world/syria-children-dying-hunger/index.html" date_published="2014-02-05 21:16:48" category="world" author="Salma Abdelaziz" highlights_mapped="true" mapping_error="false">
+  <title>Syrian children dying of hunger</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="16">Many are starving in suburbs south of Damascus, Syria.</sentence>
+      <sentence id="2" ids_article_sentences="28">Infants are particularly vulnerable, doctors say.</sentence>
+      <sentence id="3" ids_article_sentences="45">Many say Syrian government is purposely starving opposition areas.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-01 13:25:00" annotation_time="112.787">
+      <sentence id="16" ids_highlights="1">At National Hospital South of Damascus, near Yarmouk, 43 people have died of starvation, 22 of them children, the youngest just 23 days old, with most of the deaths occurring this past month, a dramatic increase, according to hospital staff.</sentence>
+      <sentence id="28" ids_highlights="2">Infants are particularly vulnerable.</sentence>
+      <sentence id="45" ids_highlights="3">Many say the blockades are used by the Syrian government as collective punishment against opposition areas.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Her almond-shaped brown eyes shine through her sunken face as a doctor lifts her sweater to reveal a tiny rib cage pushing against her skin.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Little more than a year old, Israa al Masri wastes away at the National Hospital in the besieged Damascus suburbs just a few miles from the medical supplies needed to save her.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Slowly, painfully, organs shut down one by one as her muscles atrophy until, barley breathing.</content>
+        </sentence>
+        <sentence id="4">
+          <content>On January 12, the toddler&amp;apost;s heart stops.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>The cause of death: hunger.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>Starvation is the Syrian government&amp;apost;s newest and cruelest weapon against opposition neighborhoods leaving infants with swollen heads and distended bodies, their mothers dry of breast milk, and their elders skeletal and dehydrated, according to activists and doctors.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>In one of the earliest cases, 1-year-old Farah Atout arrived at the Maliha medical center weak and whimpering as doctors struggled to find veins to feed her intravenously.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;I remember this child very well she was about a year old and she weighed only 4 kilograms,&amp;quot; said Dr. Mazin Ramadan, who treated Atout last November.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Her destitute family fled their village with just the clothes on their back, leaving them with little access to food, Ramadan said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;They arrived and put this child between my hands and imagined with a shot or some medicine her strength would come back and the ordeal would be over,&amp;quot; said Ramadan, one of the few pediatricians in the area.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>After just 48 hours, nothing remained of the baby but a skeletal frame with tubes bandaged to a yellowed face frozen in anguish.</content>
+        </sentence>
+        <sentence id="12">
+          <content>But what appeared at the time a unique horror, now repeats itself over and over in the Damascus suburbs, doctors and activists told CNN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>Parents often risk death by sniper fire, simply to forage for nutrition.</content>
+        </sentence>
+        <sentence id="14">
+          <content>A nurse, who did not wish to be identified for fear of reprisal, in the besieged Yarmouk Palestinian Refugee Camp on the outskirts of Damascus told Amnesty International that around four people a day arrive with gunshot wounds from snipers targeting civilians as they pick plants and shrubs from nearby fields.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="15">
+          <content>Established in 1957, Yarmouk, an unofficial refugee camp, has been home for decades to thousands of Palestinians displaced by Arab-Israeli wars.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="16">
+          <content>At National Hospital South of Damascus, near Yarmouk, 43 people have died of starvation, 22 of them children, the youngest just 23 days old, with most of the deaths occurring this past month, a dramatic increase, according to hospital staff.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;Sometimes I get a case due to malnutrition or lack of medicine and, I feel utter desperation because I cannot help the child.</content>
+        </sentence>
+        <sentence id="18">
+          <content>We have reached a state where this is normal -- that every two to three days a child dies.</content>
+        </sentence>
+        <sentence id="19">
+          <content>It just feels like there is no nutrition.</content>
+        </sentence>
+        <sentence id="20">
+          <content>What can we do?&amp;quot;</content>
+        </sentence>
+        <sentence id="21">
+          <content>said a doctor at the hospital who did not wish to be identified out of fear of Syrian forces.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="22">
+          <content>Parents sometimes crumble in the face of despair and very few options.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="23">
+          <content>&amp;quot;I had a 2-year-old patient just a few days ago, and she was diagnosed with a life threatening condition and when her father found out he said &amp;apost;OK.</content>
+        </sentence>
+        <sentence id="24">
+          <content>I will take her home to die.&amp;apost;.</content>
+        </sentence>
+        <sentence id="25">
+          <content>Just like that -- without hesitation.</content>
+        </sentence>
+        <sentence id="26">
+          <content>He said &amp;apost;What am I to do?</content>
+        </sentence>
+        <sentence id="27">
+          <content>There is no food and no medicine,&amp;apost; &amp;quot; the doctor said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="28">
+          <content>Infants are particularly vulnerable.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="29">
+          <content>&amp;quot;The first 1000 days of life, from conception to 2 years are absolutely critical as far as nutrition and the developmental foundations of life are concerned.</content>
+        </sentence>
+        <sentence id="30">
+          <content>If the child in the womb of a pregnant mother, and the mother isn&amp;apost;t getting the food she needs and there is this obstacle in the way of getting access to this kind of vital nutrients they need to grow.</content>
+        </sentence>
+        <sentence id="31">
+          <content>They are not going to recover.</content>
+        </sentence>
+        <sentence id="32">
+          <content>That is a real tragedy,&amp;quot; said Greg Barrow a spokesman for the United Nations World Food Programme.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="33">
+          <content>In a video widely viewed on YouTube of a skeletal 10-year-old named Bashar Kaboush in the eastern Ghouta town of Jisreen, a distraught man who CNN has confirmed is a relative of the child shouts: &amp;quot;Is this acceptable to God?</content>
+        </sentence>
+        <sentence id="34">
+          <content>Look at this child.</content>
+        </sentence>
+        <sentence id="35">
+          <content>Is this acceptable to world?</content>
+        </sentence>
+        <sentence id="36">
+          <content>Does the look like a human body?</content>
+        </sentence>
+        <sentence id="37">
+          <content>Is this the arm of a child?</content>
+        </sentence>
+        <sentence id="38">
+          <content>He is just 10 years old.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="39">
+          <content>Mohammed Abu al Rgaa an activist in Jisreen told CNN that residents fear Kaboush and dozens of others may soon die of hunger.</content>
+        </sentence>
+        <sentence id="40">
+          <content>Rgaa shared with CNN the case of 8-month-old Mohamad Faissal from the same town who recently died from lack of infant milk and proper medical care.</content>
+        </sentence>
+        <sentence id="41">
+          <content>Shocking online video of Faissal&amp;apost;s lifeless body bore the hallmarks of starvation such as a swollen abdomen and protruding ribs, doctors said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="42">
+          <content>The cause of crisis is clear.</content>
+        </sentence>
+        <sentence id="43">
+          <content>The once thriving agriculture belt to the east of the capital and the collection of towns and neighborhoods to the south wilted under a government siege blocking food staples from those areas.</content>
+        </sentence>
+        <sentence id="44">
+          <content>Opposition-controlled farmland lies desolate after nearly two years of warfare that has destroyed crops and livestock, leaving little more than stores of grain for thousands trapped behind government tanks.</content>
+        </sentence>
+        <sentence id="45">
+          <content>Many say the blockades are used by the Syrian government as collective punishment against opposition areas.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="46">
+          <content>Hostilities make it difficult to gain a clear view of the scope and scale of malnutrition in the area, but the WFP estimates at least 800,000 civilians remain under siege.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="47">
+          <content>&amp;quot;This underlines exactly why humanitarian agencies like the WFP have been calling for more access.</content>
+        </sentence>
+        <sentence id="48">
+          <content>To really see with their eyes: What is the scale of the problem?</content>
+        </sentence>
+        <sentence id="49">
+          <content>Who is most vulnerable?</content>
+        </sentence>
+        <sentence id="50">
+          <content>What kind of assistance do they need?</content>
+        </sentence>
+        <sentence id="51">
+          <content>And how can we get it in fast?</content>
+        </sentence>
+        <sentence id="52">
+          <content>That is absolutely critical,&amp;quot; Barrow said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="53">
+          <content>Amnesty International has been more direct: &amp;quot;The Syrian government is cruelly punishing civilians living in opposition-held areas.</content>
+        </sentence>
+        <sentence id="54">
+          <content>Starving civilians as a method of warfare is a war crime.</content>
+        </sentence>
+        <sentence id="55">
+          <content>The blockades must be lifted immediately and access to humanitarian aid must never be used to score military or political gains,&amp;quot; said Philip Luther, Amnesty International&amp;apost;s Middle East and North Africa director.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="56">
+          <content>Syrian officials failed to respond to CNN requests for comment on this story, but have said in general terms that &amp;quot;foreign-backed terrorists&amp;quot; catapulted the country into a spiral of violence that has triggered Syrian army efforts to expel opposition fighters from the Damascus suburbs.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="57">
+          <content>Perhaps most disturbingly, packed aid convoys ready and willing to deliver assistance to those in need are barred from doing so -- mainly by Syrian government troops.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="58">
+          <content>&amp;quot;The road to political stability and confidence building in Syria starts with an important step: ensuring no one dies because of a lack of food or medicine or from the cold when humanitarian workers are nearby but are not allowed in&amp;quot; said Ertharin Cousin, WFP&amp;apost;s executive director.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="59">
+          <content>Geneva II peace talks secured an agreement for some aid to enter the Yarmouk Palestinian Refugee Camp this week, but several hundred food parcels and limited medical evacuations are simply not enough to stave off malnutrition.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="60">
+          <content>&amp;quot;To make any progress in addressing these needs, UNRWA&amp;apost;s presence and humanitarian assistance work must be permitted to continue and expand over a period of months, not days,&amp;quot; Chris Gunness, Spokesman for the U.N. Relief and Works Agency for Palestine Refugees said in a statement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="61">
+          <content>&amp;quot;If the siege does not end, I expect even I will be dead,&amp;quot; Assaf said over a crackly Skype connection.</content>
+        </sentence>
+        <sentence id="62">
+          <content>&amp;quot;If the siege is not broken these cases will increase and there will be mass death.</content>
+        </sentence>
+        <sentence id="63">
+          <content>To be honest this is what I would expect: mass death.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

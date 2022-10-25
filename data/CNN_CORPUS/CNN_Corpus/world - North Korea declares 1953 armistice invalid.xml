@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2512" link="http://www.cnn.com/2013/03/11/world/asia/north-korea-armistice/index.html" date_published="2013-03-11 09:55:14" category="world" author="Madison Park, CNN" highlights_mapped="true" mapping_error="false">
+  <title>North Korea declares 1953 armistice invalid</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="7">The agreement ended the three-year war between the North and South.</sentence>
+      <sentence id="2" ids_article_sentences="10">The North has nullified the agreement on several occasions.</sentence>
+      <sentence id="3" ids_article_sentences="41">Diplomacy between North and South has zigzagged from conciliatory to bellicose.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-03 05:17:55" annotation_time="19.095331">
+      <sentence id="7" ids_highlights="1">The armistice agreement, signed in 1953, ended the three-year war between North and South Korea in a truce.</sentence>
+      <sentence id="10" ids_highlights="2">However, the North has nullified the agreement on several occasions in the past.</sentence>
+      <sentence id="41" ids_highlights="3">In the last 60 years, diplomacy between North and South has zigzagged from conciliatory to bellicose.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Hong Kong The North Korean army has declared invalid the armistice agreement that ended the Korean War in 1953, the official newspaper of the country&amp;apost;s ruling Workers&amp;apost; Party said Monday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Since last week, North Korea had been threatening to scrap the armistice after the U.N. Security Council passed tougher sanctions against it in response to its February 12 nuclear test.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>On Monday, the Rodong Sinmun newspaper reported that the Supreme Command of North Korea&amp;apost;s army had done so.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>&amp;quot;The U.S. has reduced the armistice agreement to a dead paper,&amp;quot; the newspaper said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>North Korea also cut off direct phone links with South Korea at the inter-Korean border village of Panmunjom, according to South Korea&amp;apost;s Yonhap news agency.</content>
+        </sentence>
+        <sentence id="6">
+          <content>The phone line was the emergency link for quick, two-way communication between the two sides.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>The armistice agreement, signed in 1953, ended the three-year war between North and South Korea in a truce.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>Since the two sides remain technically at war, it remains to be seen whether the invalidation means that either side can resume hostilities.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>The Rodong Sinmun reported the Supreme Command saying that it can now make a &amp;quot;strike of justice at any target anytime, not bound to the armistice agreement and achieve the national reunification, the cherished desire of the Korean nation.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="10">
+          <content>However, the North has nullified the agreement on several occasions in the past.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="11">
+          <content>A look back at the history of the armistice.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="12">
+          <content>What is the armistice agreement?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="13">
+          <content>It is the agreement that ended the war between North and South Korea.</content>
+        </sentence>
+        <sentence id="14">
+          <content>It is a truce, rather than a peace treaty.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="15">
+          <content>Has the North ended the armistice before?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="16">
+          <content>Yes.</content>
+        </sentence>
+        <sentence id="17">
+          <content>In 2003, Pyonyang&amp;apost;s official Korean Central News Agency (KCNA) announced that it may have &amp;quot;no option&amp;quot; but to stop honoring the armistice because of the United State&amp;apost;s &amp;quot;persistent war moves.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="18">
+          <content>In 2009, North Korea said its military would no longer be bound by the agreement because South Korea was joining a U.S.-led anti-proliferation plan.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="19">
+          <content>Part of the reason for the latest move are the joint exercises between the United States and South Korea.</content>
+        </sentence>
+        <sentence id="20">
+          <content>A bigger reason is tougher sanctions passed in the U.N. Security Council against North Korea in response to its nuclear test on February 12.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="21">
+          <content>Pyongyang carried out its third nuclear test, despite international condemnation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="22">
+          <content>What caused the division of Korea?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="23">
+          <content>For most of the first half of the 20th century, Japan controlled the Korean peninsula as its colony.</content>
+        </sentence>
+        <sentence id="24">
+          <content>By the end of the World War II as Japan neared defeat, the allies agreed to an independent Korea.</content>
+        </sentence>
+        <sentence id="25">
+          <content>The United States and Soviet Union divided postwar occupation of Korea along the 38th parallel and the two sides were ideologically opposite.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="26">
+          <content>Why did war break out?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="27">
+          <content>On June 25, 1950, a surprise attack by North Korean soldiers who crossed the 38th parallel easily overwhelmed South Korean forces.</content>
+        </sentence>
+        <sentence id="28">
+          <content>The United States leapt to the defense of the South.</content>
+        </sentence>
+        <sentence id="29">
+          <content>As South Korean, U.S. and U.N. forces fought back and gained ground into North Korea, Chinese forces joined the war on the North&amp;apost;s side later that year.</content>
+        </sentence>
+        <sentence id="30">
+          <content>To this day, China remains a crucial ally of North Korea and the U.S. of South Korea.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="31">
+          <content>What toll did the war take?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="32">
+          <content>The toll of the war included about 1.2 million deaths in South Korea, 1 million deaths in North Korea, 36,500 deaths for U.S. troops and 600,000 deaths for Chinese soldiers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="33">
+          <content>What are the lasting effects of the war?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="34">
+          <content>The brutal war separated thousands of families, and created the world&amp;apost;s most heavily fortified border.</content>
+        </sentence>
+        <sentence id="35">
+          <content>It also drew the alliances that exist today.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="36">
+          <content>When was the armistice signed?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="37">
+          <content>The armistice was signed in July 1953.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="38">
+          <content>What were its terms?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="39">
+          <content>The terms of the armistice included the creation of the Demilitarized Zone, aheavily fortified 155-mile long (250 kilometers) 2.5-mile wide line separating the two countries.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="40">
+          <content>How have relations between the North and South been since then?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="41">
+          <content>In the last 60 years, diplomacy between North and South has zigzagged from conciliatory to bellicose.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="42">
+          <content>During more friendly times, the two countries arranged emotional family reunions for those separated by the war in 2000, their leaders shook hands in a 2007 Pyongyang summit and ran freight trains across the border.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="43">
+          <content>But periods of rapprochement have been counterpointed by flareups.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="34">
+      <sentences>
+        <sentence id="44">
+          <content>More recently, the North shelled the South Korean island of Yeonpyeong leaving two marines and two civilians dead.</content>
+        </sentence>
+        <sentence id="45">
+          <content>Pyongyang claimed Seoul provoked the 2010 attack by holding a military drill off their shared coast in the Yellow Sea.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="35">
+      <sentences>
+        <sentence id="46">
+          <content>That same year, North Korea was also accused of sinking a South Korean warship, killing more than 40 sailors.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="36">
+      <sentences>
+        <sentence id="47">
+          <content>Without an armistice, what can happen?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="37">
+      <sentences>
+        <sentence id="48">
+          <content>The two sides can resume hostilities if they so choose.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="38">
+      <sentences>
+        <sentence id="49">
+          <content>What are the risks of a military clash?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="39">
+      <sentences>
+        <sentence id="50">
+          <content>A military clash could risk drawing in the United States, which has about 28,500 troops stationed in South Korea as part of the security alliance between the two countries.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

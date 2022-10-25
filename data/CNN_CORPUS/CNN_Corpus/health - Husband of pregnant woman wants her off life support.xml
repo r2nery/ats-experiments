@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="282" link="http://www.cnn.com/2013/12/23/health/pregnant-life-support-texas/index.html" date_published="2013-12-23 21:11:02" category="health" author="Elizabeth Landau, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Husband of pregnant woman wants her off life support</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="21">Marlise Munoz fell unconscious on November 26.</sentence>
+      <sentence id="2" ids_article_sentences="27">Her husband said she would not want to be on life support.</sentence>
+      <sentence id="3" ids_article_sentences="9">Texas law prohibits withdrawing life-sustaining treatment from a pregnant patient.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-13 09:16:30" annotation_time="31.5445">
+      <sentence id="9" ids_highlights="3">Texas state law prohibits withdrawing or withholding life-sustaining treatment from a pregnant patient, regardless of her wishes.</sentence>
+      <sentence id="21" ids_highlights="1">Erick Munoz found his wife unconscious on November 26, around 2 a.m.</sentence>
+      <sentence id="27" ids_highlights="2">He told WFAA that his wife had said she would not want to be kept alive by machine, and said he has reached &amp;quot;the point where you wish that your wife&amp;apost;s body would stop.&amp;quot;</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Erick Munoz wants to see his wife&amp;apost;s wish fulfilled this holiday season, but it&amp;apost;s one that carries ethical and legal challenges: To be taken off of life support.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Marlise Munoz, 33, is in serious condition in the intensive care unit at John Peter Smith Hospital in Fort Worth, Texas, hospital officials said.</content>
+        </sentence>
+        <sentence id="3">
+          <content>She is unconscious and on a ventilator, her husband told CNN affiliate WFAA, but she wouldn&amp;apost;t have wanted her life sustained by a machine.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>&amp;quot;We talked about it.</content>
+        </sentence>
+        <sentence id="5">
+          <content>We&amp;apost;re both paramedics,&amp;quot; he told WFAA.</content>
+        </sentence>
+        <sentence id="6">
+          <content>&amp;quot;We&amp;apost;ve seen things out in the field.</content>
+        </sentence>
+        <sentence id="7">
+          <content>We both knew that we both didn&amp;apost;t want to be on life support.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="8">
+          <content>Complicating an already difficult situation is that Munoz is also pregnant, about 18 weeks along, WFAA reported.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Texas state law prohibits withdrawing or withholding life-sustaining treatment from a pregnant patient, regardless of her wishes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="10">
+          <content>Patients can indicate their future wishes about medical treatment, in the event that they are unable to communicate them, through forms called advance directives.</content>
+        </sentence>
+        <sentence id="11">
+          <content>But in Texas, under the Health and Safety Code, such a form includes the provision &amp;quot;I understand that under Texas law this Directive has no effect if I have been diagnosed as pregnant.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="12">
+          <content>Erick Munoz told WFAA doctors said his wife may have suffered a pulmonary embolism, which happens when blood clots travel to the lungs from elsewhere in the body.</content>
+        </sentence>
+        <sentence id="13">
+          <content>They do not know how long the baby went without nutrients and oxygen.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="14">
+          <content>The hospital would not release specific details about Marlise Munoz&amp;apost;s condition, but officials said the hospital would follow Texas law regarding care during pregnancy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="15">
+          <content>&amp;quot;We have a responsibility as a good corporate citizen here in Tarrant County to also provide the highest quality care we can for all of our patients,&amp;quot; said J.R. Labbe, vice president of communications and community affairs for JPS Health Network, in a statement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;But at all times, we will follow the law as it is applicable to health care in the state of Texas.</content>
+        </sentence>
+        <sentence id="17">
+          <content>And state law here says you cannot withhold or withdraw life sustaining treatment for a pregnant patient.</content>
+        </sentence>
+        <sentence id="18">
+          <content>It&amp;apost;s that clear.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="19">
+          <content>The husband and wife, both paramedics in the Tarrant County area, have a 14-month-old son named Mateo.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="20">
+          <content>Erick Munoz and Marlise Munoz&amp;apost;s mother did not immediately respond to requests for comment from CNN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="21">
+          <content>Erick Munoz found his wife unconscious on November 26, around 2 a.m.</content>
+        </sentence>
+        <sentence id="22">
+          <content>He performed CPR on her and then called 911, WFAA reported.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="23">
+          <content>Since that day, the pregnant woman has been on life support, her husband said.</content>
+        </sentence>
+        <sentence id="24">
+          <content>Tests have shown that the fetus has a normal heart beat, he said.</content>
+        </sentence>
+        <sentence id="25">
+          <content>At 24 weeks, doctors may know more about when the fetus can be taken out, Munoz&amp;apost;s family told WFAA.</content>
+        </sentence>
+        <sentence id="26">
+          <content>Doctors have also discussed the possibility of taking the fetus to full term.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="27">
+          <content>He told WFAA that his wife had said she would not want to be kept alive by machine, and said he has reached &amp;quot;the point where you wish that your wife&amp;apost;s body would stop.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="28">
+          <content>Munoz wears his wife&amp;apost;s pink and blue bracelets on his wrist, WFAA reported.</content>
+        </sentence>
+        <sentence id="29">
+          <content>Her wedding ring is on his pinkie.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="30">
+          <content>When Munoz walks in the door, he said his son Mateo is waiting for his mother to show up.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="31">
+          <content>&amp;quot;You can see it in his eyes,&amp;quot; Munoz said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

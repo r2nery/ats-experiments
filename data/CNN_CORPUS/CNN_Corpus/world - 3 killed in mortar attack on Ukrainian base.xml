@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2031" link="http://www.cnn.com/2014/06/28/world/europe/ukraine-crisis/index.html" date_published="2014-06-28 15:45:40" category="world" author="Victoria Butenko, CNN" highlights_mapped="true" mapping_error="false">
+  <title>3 killed in mortar attack on Ukrainian base</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Three people were killed and four injured in attack on Ukrainian military base.</sentence>
+      <sentence id="2" ids_article_sentences="2">The attack comes after extension of a cease-fire with separatists .</sentence>
+      <sentence id="3" ids_article_sentences="15">The deadly assault is the latest example of violence despite the cease-fire.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-21 16:44:41" annotation_time="21.792">
+      <sentence id="1" ids_highlights="1"> Three people were killed and four others were injured Saturday when mortars were fired during an attack on a Ukrainian military base in Slovyansk by pro-Russia separatists, the Ukrainian Counter-Terrorist Operation office said Saturday.</sentence>
+      <sentence id="2" ids_highlights="2">The attack comes after a cease-fire between Ukrainian government forces and separatists was extended through 10 p.m. local time Monday, according to Ukrainian President Petro Poroshenko&amp;apost;s office.</sentence>
+      <sentence id="15" ids_highlights="3">Yet, Saturday&amp;apost;s attack on the Ukrainian military base in Slovyansk by pro-Russia separatists was just the latest example of violence since the original cease-fire was declared.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Three people were killed and four others were injured Saturday when mortars were fired during an attack on a Ukrainian military base in Slovyansk by pro-Russia separatists, the Ukrainian Counter-Terrorist Operation office said Saturday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The attack comes after a cease-fire between Ukrainian government forces and separatists was extended through 10 p.m. local time Monday, according to Ukrainian President Petro Poroshenko&amp;apost;s office.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The cease-fire extension suggested that Ukraine may be moving back from the brink of full-fledged civil war.</content>
+        </sentence>
+        <sentence id="4">
+          <content>However, the situation remains volatile, with continued violence and the constant fear of more unrest, cease-fire or not.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>The crisis has its roots in former President Viktor Yanukovych&amp;apost;s decision to shun a European Union Association Agreement last year and work with Russia instead.</content>
+        </sentence>
+        <sentence id="6">
+          <content>The move unleashed deadly strife that led to Yanukovych&amp;apost;s ouster, Ukraine&amp;apost;s loss of Crimea and a pro-Russia separatist rebellion.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>Poroshenko seeks a commitment to negotiations with Russian separatists, the release of hostages, a mutual cease-fire and the withdrawal of Russian-backed forces from Ukraine.</content>
+        </sentence>
+        <sentence id="8">
+          <content>He has insisted that the Russian annexation of Crimea, which has an ethnic Russian majority, cannot stand.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>Russia and Ukraine have been engaged in a tense standoff since the annexation in March when Russia also massed troops along its western border with Ukraine.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>Poroshenko&amp;apost;s office announced Friday a 72-hour extension of a fragile cease-fire that was declared last week.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>That means that, by late Monday night, the Kiev government expects that all hostages will be released, all international border checkpoints will be taken out of separatists&amp;apost; hands and the militants&amp;apost; recruiting offices in Russia will close down.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>At the same time, the Ukrainian government says it still reserves the right to use force in any areas where the cease-fire is not being universally accepted.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>Separatists released four international observers being held in captivity for a month in eastern Ukraine, said the Organization for Co-operation in Europe via Twitter on Saturday.</content>
+        </sentence>
+        <sentence id="14">
+          <content>That followed Thursday&amp;apost;s release of four other OSCE observers, according to the organization.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="15">
+          <content>Yet, Saturday&amp;apost;s attack on the Ukrainian military base in Slovyansk by pro-Russia separatists was just the latest example of violence since the original cease-fire was declared.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="16">
+          <content>On Thursday, a Ukrainian national guard base came under attack in Donetsk, Anti-Terrorist Operation unit spokesman Vladislav Seleznyov said.</content>
+        </sentence>
+        <sentence id="17">
+          <content>Ukrainian troops were able to repel the attack but braced for another assault.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

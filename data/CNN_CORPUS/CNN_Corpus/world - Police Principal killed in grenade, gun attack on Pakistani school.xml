@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2608" link="http://www.cnn.com/2013/03/30/world/asia/pakistan-school-attack" date_published="2013-03-30 11:12:17" category="world" author="Aliza Kassim and Laura Smith-Spark, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Police: Principal killed in grenade, gun attack on Pakistani school</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">An unidentified motorcyclist hurls a grenade at a school before firing shots, police say.</sentence>
+      <sentence id="2" ids_article_sentences="1">A school principal is killed in the attack in Karachi&amp;apost;s Baldia Town area, police say.</sentence>
+      <sentence id="3" ids_article_sentences="4">Eight others, including a teacher and students at the school, are injured.</sentence>
+      <sentence id="4" ids_article_sentences="9">The attack is the latest in a series targeting educators in Pakistan.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-03 05:20:05" annotation_time="20.18">
+      <sentence id="1" ids_highlights="2">A principal was killed and eight other people were injured in a grenade and gun attack on a school in the Pakistani city of Karachi, a police spokesman said Saturday.</sentence>
+      <sentence id="2" ids_highlights="1">An unidentified motorcyclist hurled the hand grenade at the private middle school in the Baldia Town area of Karachi before letting off a volley of shots, police spokesman Asif Nawaz Sheikh told CNN.</sentence>
+      <sentence id="4" ids_highlights="3">The eight others injured included a teacher and students at the school, he said.</sentence>
+      <sentence id="9" ids_highlights="4">The attack is only the latest to target educators in Pakistan.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>A principal was killed and eight other people were injured in a grenade and gun attack on a school in the Pakistani city of Karachi, a police spokesman said Saturday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>An unidentified motorcyclist hurled the hand grenade at the private middle school in the Baldia Town area of Karachi before letting off a volley of shots, police spokesman Asif Nawaz Sheikh told CNN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The school principal, named as Abdul Rasheed, was badly hurt and later died of his injuries in the hospital, the spokesman said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>The eight others injured included a teacher and students at the school, he said.</content>
+        </sentence>
+        <sentence id="5">
+          <content>They were transferred to the Jinnah Post Graduate Medical Center and the Civil Hospital.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>Caretaker Prime Minister Mir Hazar Khan Khoso condemned what he called a cowardly attack on innocent children, the official Associated Press of Pakistan (APP) news agency reported.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>The targeting of school children, including girls, reflected the brutality of the terrorists, he said, according to APP.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>Khoso, the former chief justice who was sworn in as interim prime minister less than a week ago, directed the local administration to give all the help needed to the families affected.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>The attack is only the latest to target educators in Pakistan.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="10">
+          <content>Another teacher, Shahnaz Nazli, recently died in the country&amp;apost;s northwestern Khyber tribal district in recent days after she was shot by two men on a motorcycle as she made her way to the girls&amp;apost; school where she taught.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="11">
+          <content>In January, five teachers were killed near the town of Swabi in the volatile northern Khyber Pakhtunkhwa province, the United Nations says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="12">
+          <content>In the wake of Nazli&amp;apost;s death, an online petition has been set up calling for Pakistan&amp;apost;s government to take a greater role in protecting girls and teachers to safely attend school.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="13">
+          <content>First to sign it was Pakistani schoolgirl Malala Yousafzai, who was herself the subject of a vicious attack last October.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="14">
+          <content>The 14-year-old was riding home in a school van in the Swat Valley, a Taliban stronghold, when masked men stopped the vehicle and shot her in the head and neck.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="15">
+          <content>Malala, whose campaigning for girls&amp;apost; education in Pakistan gained international attention in 2009, has made a good recovery since but is still receiving treatment for her injuries in Britain.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="16">
+          <content>U.N. Secretary General Ban Ki-moon issued a statement Thursday through his spokesman condemning the recent attacks on teachers in Pakistan.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;In addition to the tragic loss of life, violence against teachers undermines confidence in education systems, traumatizes students, and discourages parents from sending children to school,&amp;quot; the statement said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;Attacks on women teachers are particularly heinous because they disproportionately affect the girl students for whom they serve as role models.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="19">
+          <content>Former UK Prime Minister Gordon Brown, who serves as the United Nations Special Envoy for Global Education, has championed education issues in Pakistan, especially after the shooting of Malala.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="20">
+          <content>In a piece written for CNN, he asked, &amp;quot;Can the world agree that 2013 will be the year when a girl&amp;apost;s right to education will finally be won -- even in the most remote and once lawless corners of the globe?&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

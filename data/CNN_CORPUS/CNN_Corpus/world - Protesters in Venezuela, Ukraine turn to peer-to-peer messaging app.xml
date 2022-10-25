@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2645" link="http://www.cnn.com/2014/02/24/world/venezuela-ukraine-protests-apps" date_published="2014-02-24 17:41:31" category="world" author="Samuel Burke, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Protesters in Venezuela, Ukraine turn to peer-to-peer messaging app</title>
+  <keywords>Venezuela protests,Ukraine protests,Whatsapp,Facebook</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">Ukrainians and Venezuelans have used Zello walkie-talkie app to organize their protests.</sentence>
+      <sentence id="2" ids_article_sentences="7">It&amp;apost;s been one of the most downloaded apps in Ukraine and Venezuela.</sentence>
+      <sentence id="3" ids_article_sentences="7">But late last week, Venezuelans said the app stopped working inside their country.</sentence>
+      <sentence id="4" ids_article_sentences="9">Company says it suspects the Venezuelan government is behind the blockade.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-11 18:16:27" annotation_time="23.378334">
+      <sentence id="3" ids_highlights="1">Some Ukrainians and Venezuelans have been using the app to organize their protests.</sentence>
+      <sentence id="7" ids_highlights="2, 3">Zello, which was founded in Russia and is now based in Texas, has been one of the most downloaded apps in Ukraine and Venezuela, but late last week, Venezuelans began complaining that the app stopped working inside the country -- just one of the many apps and social networks that Venezuelans say have been blocked over the past weeks since protests began.</sentence>
+      <sentence id="9" ids_highlights="4">This leads Zello to believe the Venezuelan government is behind the digital blockade.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>From Kiev to Caracas, protesters are taking their indignation to a walkie-talkie app, but some may be running into government roadblocks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Zello allows smartphone users to send short voice messages from person to person or to a limited group of people.</content>
+        </sentence>
+        <sentence id="3">
+          <content>Some Ukrainians and Venezuelans have been using the app to organize their protests.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Broadcasting a message to the world on social networks like Twitter is not always ideal for many people in chaotic situations.</content>
+        </sentence>
+        <sentence id="5">
+          <content>Apps like Zello and WhatsApp facilitate private, peer-to-peer digital messaging.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>Facebook&amp;apost;s $19 billion plan to purchase WhatsApp underscores the need that more than 450 million users have to send messages that aren&amp;apost;t broadcast for everyone to see.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>Zello, which was founded in Russia and is now based in Texas, has been one of the most downloaded apps in Ukraine and Venezuela, but late last week, Venezuelans began complaining that the app stopped working inside the country -- just one of the many apps and social networks that Venezuelans say have been blocked over the past weeks since protests began.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>Alexey Gavrilov, Zello&amp;apost;s chief technology officer, confirmed to CNN that the app was blocked for users of CANTV, Venezuela&amp;apost;s state-owned Internet service.</content>
+        </sentence>
+        <sentence id="9">
+          <content>This leads Zello to believe the Venezuelan government is behind the digital blockade.</content>
+        </sentence>
+        <sentence id="10">
+          <content>CNN has asked the Venezuelan government for comment, but no official has returned calls about the matter.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>Gavrilov has begun changing the Zello app&amp;apost;s coding so it can evade the Venezuelan roadblocks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;We just released an update to the Android application which changes the IP addresses and makes it much harder to block them, and we also submitted updates for iOS and BlackBerry,&amp;quot; he told CNN.</content>
+        </sentence>
+        <sentence id="13">
+          <content>&amp;quot;So people with Android can already use Zello again in Venezuela.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>Zello is waiting for Apple and BlackBerry to approve the updated version of the app for those smartphone platforms.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>Venezuelans also report that pictures and videos have been blocked on Twitter inside the country.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;We believe the Venezuelan government is blocking the images,&amp;quot; a spokesman for Twitter told CNN.</content>
+        </sentence>
+        <sentence id="17">
+          <content>In an e-mailed statement, the Venezuelan government &amp;quot;emphatically and categorically&amp;quot; denied &amp;quot;any involvement in the outage reported by users.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="18">
+          <content>Venezuelans have begun installing VPN software and apps on their phones to avoid the digital blockade.</content>
+        </sentence>
+        <sentence id="19">
+          <content>Virtual private networking essentially reroutes Internet connections through another country, allowing users to see an unblocked connection from a country like the United States.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="20">
+          <content>Citizens in Iran and China use the same tools to get around their governments&amp;apost; digital blockades.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

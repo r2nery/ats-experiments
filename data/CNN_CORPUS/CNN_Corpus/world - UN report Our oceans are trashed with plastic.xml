@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2907" link="http://www.cnn.com/2014/06/24/world/ocean-plastic-trash/index.html" date_published="2014-06-24 09:42:11" category="world" author="Casey Tolan, for CNN" highlights_mapped="true" mapping_error="false">
+  <title>U.N. report: Our oceans are trashed with plastic</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="4">Plastic waste in oceans is causing $13 billion of damage to marine ecosystems each year, new reports say.</sentence>
+      <sentence id="2" ids_article_sentences="9">Microplastics smaller than 5 millimeters, which are common in consumer goods, are especially dangerous.</sentence>
+      <sentence id="3" ids_article_sentences="19">The solution to the problem is increasing recycling and decreasing unneeded use of plastics.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-09 14:36:41" annotation_time="10.561">
+      <sentence id="4" ids_highlights="1">Plastic waste in oceans is causing $13 billion of damage each year, according to the UNEP report, and that figure could be much higher.</sentence>
+      <sentence id="9" ids_highlights="2">Scientists are especially worried about the growing prevalence of tiny microplastics which are smaller than 5 millimeters.</sentence>
+      <sentence id="19" ids_highlights="3">Governments can help solve the problem by regulating the use of plastics and creating infrastructure to recycle them.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>A series of new reports are raising concerns about the damage plastic waste is doing to oceans -- harming marine animals, destroying sensitive ecosystems, and contaminating the fish we eat.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>But experts say that the solution to the problem isn&amp;apost;t in the ocean -- it&amp;apost;s on land.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The United Nations Environment Programme, as well as the NGOs Global Ocean Commission and Plastic Disclosure Project, released reports on Monday ringing the alarm bell about the environmental impact of debris on marine life.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>Plastic waste in oceans is causing $13 billion of damage each year, according to the UNEP report, and that figure could be much higher.</content>
+        </sentence>
+        <sentence id="5">
+          <content>Worldwide plastic production is projected to reach 33 billion tons by 2050, and plastic makes up 80% of litter on oceans and shorelines.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;Plastics undoubtedly play a crucial role in modern life, but the environmental impacts of the way we use them cannot be ignored,&amp;quot; said UNEP Executive Director Achim Steiner in a press release.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>Ten to 20 million tons of plastic end up in the ocean each year, from litter, runoff from poorly managed landfills, and other sources.</content>
+        </sentence>
+        <sentence id="8">
+          <content>Once it&amp;apost;s in the water, plastic does not degrade but instead breaks into smaller pieces and swirls in massive ocean gyres, creating soupy surfaces peppered with the material.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>Scientists are especially worried about the growing prevalence of tiny microplastics which are smaller than 5 millimeters.</content>
+        </sentence>
+        <sentence id="10">
+          <content>These include microbeads, which are used in toothpaste, gels, facial cleansers and other consumer goods.</content>
+        </sentence>
+        <sentence id="11">
+          <content>Microplastics aren&amp;apost;t filtered by sewage treatment plants, and can be ingested by marine animals with deadly effect.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>Ocean debris isn&amp;apost;t just an environmental issue -- it also complicated the search for Malaysia Airlines flight 370 earlier this year, as floating debris confused satellite images.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>What can be done?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>It&amp;apost;s expensive and ineffective to clean up existing marine debris.</content>
+        </sentence>
+        <sentence id="15">
+          <content>Picking trash off beaches or sweeping it from the ocean surface &amp;quot;does nothing to fix the problem at the source,&amp;quot; said Doug Woodring, the co-founder of Ocean Recovery Alliance, the NGO behind the Plastic Disclosure Project.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;It&amp;apost;s not just an ocean problem, it&amp;apost;s a business and a municipal issue,&amp;quot; Woodring said.</content>
+        </sentence>
+        <sentence id="17">
+          <content>&amp;quot;The ocean is just downstream of our activities.</content>
+        </sentence>
+        <sentence id="18">
+          <content>The real solution is upstream at the producer and user end.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="19">
+          <content>Governments can help solve the problem by regulating the use of plastics and creating infrastructure to recycle them.</content>
+        </sentence>
+        <sentence id="20">
+          <content>For example, dozens of nations have banned plastic bags at supermarkets or restricted their use.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="21">
+          <content>That&amp;apost;s a &amp;quot;good start,&amp;quot; said Ada Kong, a campaigner at Greenpeace.</content>
+        </sentence>
+        <sentence id="22">
+          <content>But they can go further, she said.</content>
+        </sentence>
+        <sentence id="23">
+          <content>&amp;quot;Governments should enforce laws to regulate the cosmetic manufactures to label the ingredients (of consumer goods), including all the microplastics.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="24">
+          <content>The general public can also be conscious about their plastic footprint by simply purchasing goods without a lot of excess plastic packaging.</content>
+        </sentence>
+        <sentence id="25">
+          <content>People should also separate their plastic from other waste and recycle it, Woodring said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="26">
+          <content>From waste to resource.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="27">
+          <content>Companies that produce plastic goods have perhaps the biggest opportunity to make a difference, Woodring said.</content>
+        </sentence>
+        <sentence id="28">
+          <content>They can engage their customers with rebate or deposit programs, giving them incentives to bring back plastic for recycling.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="29">
+          <content>&amp;quot;Everything from bottles to food packaging can be made from recycled plastic,&amp;quot; Woodring said.</content>
+        </sentence>
+        <sentence id="30">
+          <content>&amp;quot;The technology is there today to reuse it.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="31">
+          <content>His organization is hosting a &amp;quot;Plasticity Forum&amp;quot; in New York City on Tuesday featuring presentations about how to creatively reuse plastic.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="32">
+          <content>Plastic isn&amp;apost;t just waste -- it&amp;apost;s &amp;quot;a valuable material, pound-for-pound worth more than steel, and we&amp;apost;re just not capitalizing on it today,&amp;quot; Woodring said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="33">
+          <content>The new reports come on the eve of the first-ever United Nations Environment Assembly in Nairobi, a forum for environmental ministers, scientists, and others to discuss strategies to combat climate change and other environmental problems.</content>
+        </sentence>
+        <sentence id="34">
+          <content>An ocean conference hosted by U.S. Secretary of State John Kerry in Washington, D.C. last week also focused on marine pollution.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="35">
+          <content>Perhaps the greatest sign of the problem is the rapidly-growing Great Pacific Trash Patch, a massive sheet plastic and other debris that circles in a gyre across the ocean.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

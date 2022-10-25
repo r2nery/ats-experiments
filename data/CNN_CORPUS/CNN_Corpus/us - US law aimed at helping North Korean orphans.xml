@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2003" link="http://www.cnn.com/2013/05/13/us/north-korea-adoption/index.html" date_published="2013-05-13 22:45:19" category="us" author="Madison Park, CNN" highlights_mapped="true" mapping_error="false">
+  <title>U.S. law aimed at helping North Korean orphans</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="5">President Obama signed into law a measure designed to help North Korean orphans.</sentence>
+      <sentence id="2" ids_article_sentences="4">The law is aimed primarily at those orphans hiding in China and other countries.</sentence>
+      <sentence id="3" ids_article_sentences="7">State Department is tasked with helping reunite family members and facilitating adoptions.</sentence>
+      <sentence id="4" ids_article_sentences="8">It could be years before Americans are able to adopt any of these children.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-17 14:19:31" annotation_time="32.5135">
+      <sentence id="4" ids_highlights="2">Some are in orphanages in their homeland; others make it out of North Korea, only to find themselves stateless and in hiding in China or other countries.</sentence>
+      <sentence id="5" ids_highlights="1">In January, President Obama signed into law a measure designed to help these children.</sentence>
+      <sentence id="7" ids_highlights="3">This includes helping reunite family members who&amp;apost;ve escaped North Korea, as well as facilitating adoption for North Korean children living outside their homeland without parental care.</sentence>
+      <sentence id="8" ids_highlights="4">But it could be years before Americans are able to adopt any of these children.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>North Korean orphans who make it to South Korea could be considered relatively lucky.</content>
+        </sentence>
+        <sentence id="2">
+          <content>They are provided an education, a path to South Korean citizenship and even a chance at adoption.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>But many North Korean children do not have similar opportunities.</content>
+        </sentence>
+        <sentence id="4">
+          <content>Some are in orphanages in their homeland; others make it out of North Korea, only to find themselves stateless and in hiding in China or other countries.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>In January, President Obama signed into law a measure designed to help these children.</content>
+        </sentence>
+        <sentence id="6">
+          <content>The North Korean Child Welfare Act of 2012 calls for the U.S. State Department to advocate for the &amp;quot;best interests&amp;quot; of North Korean children.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>This includes helping reunite family members who&amp;apost;ve escaped North Korea, as well as facilitating adoption for North Korean children living outside their homeland without parental care.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>But it could be years before Americans are able to adopt any of these children.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>The act does not lay out a roadmap for making adoptions or family reunions possible.</content>
+        </sentence>
+        <sentence id="10">
+          <content>Rather, it tasks the State Department with making regular reports to Congress on challenges facing North Korean children and developing a strategy to address them.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;Hundreds of thousands of North Korean children suffer from malnutrition in North Korea,&amp;quot; the act reads, and many of them &amp;quot;may face statelessness in neighboring countries.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>Most North Korean defectors escape to neighboring China, which has a policy of sending those who are caught back to their home country.</content>
+        </sentence>
+        <sentence id="13">
+          <content>The consequences of repatriation can include imprisonment in North Korea and, in some cases, the death penalty, according to human rights activists.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>Some North Korean children escape to China after losing their parents, while others become orphans after crossing the border if their parents die or are sent back to North Korea.</content>
+        </sentence>
+        <sentence id="15">
+          <content>The orphans often live in hiding because of fears that they&amp;apost;ll be repatriated.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;The last estimate we heard was 20,000,&amp;quot; said Arthur Han of Han-Schneider International Children&amp;apost;s Foundation, an organization for disadvantaged children based in Montebello, California.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;That number is not accurate because these orphans are in hiding and there&amp;apost;s no way to get an accurate number.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="18">
+          <content>Han&amp;apost;s father, Sam Han, grew up as an orphan in South Korea and lobbied to get the law passed beginning in 2010.</content>
+        </sentence>
+        <sentence id="19">
+          <content>The elder Han had been concerned about the welfare of such children after visiting orphanages in North Korea, his son said.</content>
+        </sentence>
+        <sentence id="20">
+          <content>His father died in 2012 from cancer.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="21">
+          <content>The North Korean Child Welfare Act tasks the State Department and the House Foreign Affairs Committee with devising strategies to &amp;quot;safely bring these kids out of hiding in these neighboring countries, into the U.S. or into international homes,&amp;quot; Han said.</content>
+        </sentence>
+        <sentence id="22">
+          <content>&amp;quot;This bill initiates a process, sets a committee, so a plan can be implemented.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="23">
+          <content>Several prospective parents have already asked Han whether they could adopt a North Korean child.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="24">
+          <content>&amp;quot;I have to tell them it&amp;apost;s a few years out before we have a chance to adopt a North Korean child,&amp;quot; Han said.</content>
+        </sentence>
+        <sentence id="25">
+          <content>&amp;quot;From what we&amp;apost;ve heard, we&amp;apost;re looking at minimum one to three years before a plan is strategized and implemented.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="26">
+          <content>Meanwhile, the law has garnered criticism, especially from Christine Hong, an assistant professor at the University of California Santa Cruz, who said the wording of the measure is troubling.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="27">
+          <content>&amp;quot;I don&amp;apost;t think this is going to have an effect of an open season of baby scooping,&amp;quot; she said.</content>
+        </sentence>
+        <sentence id="28">
+          <content>&amp;quot;One of the dangers is it states that the State Department has to elaborate protocol and it makes it possible for U.S. citizens to be able to adopt stateless children, not just from North Korea or China, but from around the world.</content>
+        </sentence>
+        <sentence id="29">
+          <content>It&amp;apost;s one of the dangerous precedents -- it&amp;apost;s a very loose and fast language.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="30">
+          <content>Last fall, Hong penned a critique of the bill on the website 38North.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="31">
+          <content>In addition to North Korean orphans, the law also refers to children with one North Korean parent -- many of whom are born in China from a Chinese-North Korean relationship.</content>
+        </sentence>
+        <sentence id="32">
+          <content>Because of the illegal status of North Koreans in China, such children may not be recognized by China or North Korea, rendering them stateless.</content>
+        </sentence>
+        <sentence id="33">
+          <content>Also, they may not have proper registration in China, which is crucial for social services and education, according to human rights organizations.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="34">
+          <content>But Hong said the law is based on outdated premises, and that the discrimination and barriers to services for children born of North Korean-Chinese relationships have greatly improved.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="35">
+          <content>The new law also calls for the State Department to work with the South Korean government to establish pilot programs to assist in the family reunification of North Korean children.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="36">
+          <content>The South Korean government&amp;apost;s Ministry of Unification wrote in an e-mail to CNN: &amp;quot;If the U.S. government makes a detailed proposal regarding this pilot project in the future, we can decide on whether we will go on with the project after examining various factors.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

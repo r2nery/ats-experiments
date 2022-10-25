@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="347" link="http://www.cnn.com/2013/12/15/health/jovan-belcher-exhumed-brain-study/index.html" date_published="2013-12-15 16:15:53" category="health" author="Steve Almasy, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Report: Former NFL player&amp;apost;s body exhumed for brain study</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="30">Jovan Belcher shot his girlfriend and himself in December 2012.</sentence>
+      <sentence id="2" ids_article_sentences="1">The Kansas City Star reports his body was exhumed on Friday .</sentence>
+      <sentence id="3" ids_article_sentences="6, 1">Belcher&amp;apost;s family wants his brain to be studied for signs of CTE.</sentence>
+      <sentence id="4" ids_article_sentences="13">Experienced pathologist says 50-50 chance examination will reveal results.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-11 10:16:17" annotation_time="71.958336" mapping_time_divergence="17.989584">
+      <sentence id="1" ids_highlights="2, 3">The body of former NFL linebacker Jovan Belcher was exhumed Friday in order to perform tests on his brain, a lawyer for the player&amp;apost;s family told the Kansas City Star.</sentence>
+      <sentence id="6" ids_highlights="3">The family wants to know if chronic traumatic encephalopathy, known as CTE, or something else played a role in the murder-suicide, according to the newspaper.</sentence>
+      <sentence id="13" ids_highlights="4">Omalu said there was a 50-50 chance that the study of the brain would yield results after the body had been buried about a year.</sentence>
+      <sentence id="30" ids_highlights="1">On December 1, 2012, the 25-year-old linebacker fatally shot his girlfriend, Kassandra Perkins, in the same home with their 3-month-old daughter before heading to the team&amp;apost;s practice facility, thanking his coaches, and turning his gun on himself.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The body of former NFL linebacker Jovan Belcher was exhumed Friday in order to perform tests on his brain, a lawyer for the player&amp;apost;s family told the Kansas City Star.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Attorney Dirk Vandever told the newspaper that Belcher&amp;apost;s family hopes tests will provide a clue as to why the four-year veteran of the Kansas City Chiefs shot his longtime girlfriend to death then killed himself about a year ago.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Belcher&amp;apost;s body was exhumed Friday from a cemetery in Long Island, New York, the paper reported.</content>
+        </sentence>
+        <sentence id="4">
+          <content>It was not clear where the body was sent for examination.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Vandever didn&amp;apost;t immediately respond to CNN&amp;apost;s calls for comment Sunday morning.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>The family wants to know if chronic traumatic encephalopathy, known as CTE, or something else played a role in the murder-suicide, according to the newspaper.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>CTE is a progressive degenerative brain disease found in some athletes with a history of repetitive brain trauma.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>The only way to diagnose CTE is after death -- by analyzing brain tissue and finding microscopic clumps of an abnormal protein called tau.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Tau has been found in the brains of dozens of former NFL players, including Junior Seau, Dave Duerson, Terry Long and Shane Dronett, who all committed suicide.</content>
+        </sentence>
+        <sentence id="10">
+          <content>It was also found in the brain of Mike Webster, who died in 2002.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>Dr. Bennet Omalu, the first forensic pathologist to diagnose CTE in NFL players, told CNN time is a factor in the Belcher case.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;There is a reasonable probability that the (brain) tissues would have degenerated, but until you open the body up, you may not know if there would be viable tissue for reasonable analysis,&amp;quot; he wrote in an e-mail to CNN on Sunday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>Omalu said there was a 50-50 chance that the study of the brain would yield results after the body had been buried about a year.</content>
+        </sentence>
+        <sentence id="14">
+          <content>He said he had performed two such studies himself.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="15">
+          <content>&amp;quot;The exhumation and analysis has to be performed by a forensic pathologist who has the experience and expertise, otherwise it has the potential of coming to naught,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="16">
+          <content>Scientists are working to identify some common symptoms of the brain disease in living players.</content>
+        </sentence>
+        <sentence id="17">
+          <content>Experts say athletes with CTE often struggle with memory and decision-making.</content>
+        </sentence>
+        <sentence id="18">
+          <content>Some exhibit mood and behavior problems such as depression and hopelessness, or violent, explosive behavior.</content>
+        </sentence>
+        <sentence id="19">
+          <content>A few show no symptoms at all.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="20">
+          <content>In 2002, Webster, a Hall of Fame center for the Pittsburgh Steelers, was the first former NFL player to be diagnosed with CTE.</content>
+        </sentence>
+        <sentence id="21">
+          <content>After his retirement, Webster suffered from amnesia, dementia, depression and bone and muscle pain.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="22">
+          <content>Other athletes have demonstrated erratic behavior, such as Pittsburgh Steelers offensive lineman Justin Strzelczyk, 36, who died in a 2004 high-speed chase.</content>
+        </sentence>
+        <sentence id="23">
+          <content>Cincinnati Bengals wide receiver Chris Henry died at age 26 after falling from the bed of a moving pickup during a fight with his fiancee.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="24">
+          <content>Issues surrounding brain damage, and other potential long-term cognitive and emotional consequences of repetitive brain trauma, have become a serious concern for the NFL.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="25">
+          <content>The league settled a concussion lawsuit for $765 million in August.</content>
+        </sentence>
+        <sentence id="26">
+          <content>At the heart of the lawsuit were plaintiffs&amp;apost; allegations that the NFL led a deliberate misinformation campaign -- primarily through its Mild Traumatic Brain Injury Committee -- to deny scientific data being presented in the medical community about concussion risks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="27">
+          <content>The deal calls for the NFL to pay for medical exams, concussion-related compensation, medical research for retired NFL players and their families, and litigation expenses, according to a court document filed in U.S. District Court in Philadelphia.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="28">
+          <content>The agreement involved more than 4,500 plaintiffs.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="29">
+          <content>Belcher -- who was 6-foot-2 and weighed 228 pounds -- played for the Chiefs from 2009 to 2012, appearing in 59 games.</content>
+        </sentence>
+        <sentence id="30">
+          <content>On December 1, 2012, the 25-year-old linebacker fatally shot his girlfriend, Kassandra Perkins, in the same home with their 3-month-old daughter before heading to the team&amp;apost;s practice facility, thanking his coaches, and turning his gun on himself.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="31">
+          <content>In an November article on Bleacher Report, a friend of Belcher&amp;apost;s said the linebacker played through his physical problems.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="32">
+          <content>&amp;quot;Jovan suffered multiple concussions,&amp;quot; said Kash Kiefer, a former punter at Maine and one of Belcher&amp;apost;s closest friends.</content>
+        </sentence>
+        <sentence id="33">
+          <content>&amp;quot;But in football, you don&amp;apost;t complain.</content>
+        </sentence>
+        <sentence id="34">
+          <content>You play.</content>
+        </sentence>
+        <sentence id="35">
+          <content>That was Jovan.</content>
+        </sentence>
+        <sentence id="36">
+          <content>He played.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="37">
+          <content>Belcher was from West Babylon, New York.</content>
+        </sentence>
+        <sentence id="38">
+          <content>He played for the University of Maine Black Bears, where he started in all 45 games of his four-year career.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1946" link="http://www.cnn.com/2013/02/05/us/lethal-force-memo/index.html" date_published="2013-02-05 14:30:13" category="us" author="Pam Benson, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Memo backs U.S. using lethal force against Americans overseas</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Justice Department memo sets out the conditions for using lethal force .</sentence>
+      <sentence id="2" ids_article_sentences="5">The 16-page document is a policy paper, not an official legal document.</sentence>
+      <sentence id="3" ids_article_sentences="17">&amp;quot;Clear evidence&amp;quot; of an imminent attack on the United States is not required.</sentence>
+      <sentence id="4" ids_article_sentences="22">NEW: White House says questions weighed against legal concerns, discussed publicly.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-12 06:41:43" annotation_time="37.657">
+      <sentence id="1" ids_highlights="1">Washington The U.S. government can use lethal force against an American citizen overseas if the person is a senior operational leader of al Qaeda or one of its affiliates, according to a Justice Department memo.</sentence>
+      <sentence id="5" ids_highlights="2">The 16-page white paper -- titled &amp;quot;Lawfulness of a Lethal Operation Directed Against a U.S. Citizen who is a Senior Operational Leader of Al Qaida or an Associated Force&amp;quot; -- is a policy paper rather than an official legal document.</sentence>
+      <sentence id="17" ids_highlights="3">But the document also said the government is not required &amp;quot;to have clear evidence&amp;quot; that an attack against the United States will occur in the immediate future to determine that an imminent threat is posed by a U.S. citizen.</sentence>
+      <sentence id="22" ids_highlights="4">The White House said questions around the issue are important and have been weighed against legal concerns and discussed publicly.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Washington The U.S. government can use lethal force against an American citizen overseas if the person is a senior operational leader of al Qaeda or one of its affiliates, according to a Justice Department memo.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The document, provided to select members of Congress last year, provides insights into the Obama administration&amp;apost;s policy of targeted killings carried out by the use of drone strikes against suspected terrorists.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Several of those strikes have killed Americans, notably Anwar al-Awlaki, the Yemeni American who had been connected to plots against the United States but never charged with a crime.</content>
+        </sentence>
+        <sentence id="4">
+          <content>Awlaki died in a drone attack in September 2011 in Yemen.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>The 16-page white paper -- titled &amp;quot;Lawfulness of a Lethal Operation Directed Against a U.S. Citizen who is a Senior Operational Leader of Al Qaida or an Associated Force&amp;quot; -- is a policy paper rather than an official legal document.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>The memo was given confidentially to members of the Senate Intelligence and Judiciary committees by the administration last June, Sen. Dianne Feinstein, the intelligence panel chair, said in a statement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>NBC News first reported on the contents on Tuesday.</content>
+        </sentence>
+        <sentence id="8">
+          <content>A congressional source verified the document&amp;apost;s legitimacy to CNN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>Details surfaced just days before the confirmation hearing for John Brennan, who has been nominated to head the CIA.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>Brennan has served as President Barack Obama&amp;apost;s top counterterrorism adviser and is considered to be behind the administration&amp;apost;s dramatic rise in the use of targeted killings against suspected terror suspects.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>Members of the Senate Intelligence Committee are expected to grill him on the policy at his hearing on Thursday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>The memo stated that Americans abroad retain their constitutional rights to due process, but the government can use lethal force against a citizen under certain circumstances.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="13">
+          <content>These include:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="14">
+          <content>- &amp;quot;Where an informed, high-level official of the U.S. government has determined that the targeted individual poses an imminent threat of violent attack against the United States.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="15">
+          <content>- &amp;quot;Where a capture operation would be infeasible -- and where those conducting the operation continue to monitor whether capture becomes feasible.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="16">
+          <content>- &amp;quot;Where such an operation would be conducted consistent with applicable law of war principles.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="17">
+          <content>But the document also said the government is not required &amp;quot;to have clear evidence&amp;quot; that an attack against the United States will occur in the immediate future to determine that an imminent threat is posed by a U.S. citizen.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="18">
+          <content>The memo cites both congressional authorization and judicial approval for the use of military force to counter the threat of terrorist attack by all individuals.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="19">
+          <content>The Supreme Court has held that the military may constitutionally use force against an American who is a part of enemy forces.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="20">
+          <content>The document dismissed arguments by commentators that the war against al Qaeda cannot extend outside of Afghanistan.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="21">
+          <content>It asserted that &amp;quot;the United States retains its authority to use force against al-Qaeda and associated forces outside the area of active hostilities when it targets a senior operational leader of the enemy force who is actively engaged in planning operations to kill Americans.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="22">
+          <content>The White House said questions around the issue are important and have been weighed against legal concerns and discussed publicly.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="23">
+          <content>&amp;quot;The attorney general made clear that in taking such a strike, the government must take into account all relevant constitutional considerations.</content>
+        </sentence>
+        <sentence id="24">
+          <content>But that under generations-old legal principles, and Supreme Court decisions, U.S. citizenship alone does not make a leader of an enemy force immune from being targeted,&amp;quot; White House spokesman Jay Carney said on Tuesday, recalling a speech last year by Attorney General Eric Holder.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="25">
+          <content>The American Civil Liberties Union called the Justice Department document &amp;quot;profoundly disturbing.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="26">
+          <content>Hina Shamsi, the director of the ACLU&amp;apost;s National Security Project, said, &amp;quot;It summarizes in cold legal terms a stunning overreach of executive authority, the claimed power to declare Americans a threat and kill them far from a recognized battlefield and without any judicial involvement before or after the fact.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="27">
+          <content>Shamsi called on the Obama administration to release the 50-page legal memo on which the white paper is based.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="28">
+          <content>A group of senators also called for the administration to release its legal opinions on presidential authority.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="29">
+          <content>&amp;quot;It is vitally important, however, for the Congress and the American public to have a full understanding of how the executive branch interprets the limits and boundaries of this authority so that Congress and the public can decide whether this authority has been properly defined and whether the president&amp;apost;s power to deliberately kill American citizens is subject to appropriate limitations and safeguards,&amp;quot; according to a letter the lawmakers sent to Obama on Monday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="30">
+          <content>The letter is signed by Sens. Ron Wyden, D-Oregon, Mark Udall, D-Colorado, and Susan Collins, R-Maine, of the Intelligence Committee as well as Mike Lee, R-Utah; Chuck Grassley, R-Iowa; Jeff Merkley, D-Oregon; Dick Durbin, D-Illinois; Patrick Leahy, D-Vermont; Tom Udall, D-New Mexico; Mark Begich, D-Alaska; and Al Franken, D-Minnesota.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="31">
+          <content>Dianne Feinstein of California said in a statement that the Justice Department memo and other information has permitted the Intelligence Committee to conduct &amp;quot;appropriate and probing&amp;quot; oversight into the use of lethal force.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="32">
+          <content>&amp;quot;That oversight is ongoing, and the committee continues to seek the actual legal opinions by the Department of Justice that provide details not outlined in this particular white paper,&amp;quot;Feinstein said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2701" link="http://edition.cnn.com/2014/09/10/world/rosetta-philae-landing-site/index.html?hpt=wo_c2" date_published="2014-09-10 13:46:23" category="world" author="Dave Gilbert, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Rosetta hunts for a place to land Philae on Comet 67P</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="4">Scientists are trying to land a probe on Comet 67P/Churyumov-Gerasimenko.</sentence>
+      <sentence id="2" ids_article_sentences="4">It is so far from Earth the Philae lander needs to be programed to land on its own.</sentence>
+      <sentence id="3" ids_article_sentences="6">It took more than 10 years to position the Rosetta craft so it could follow the comet.</sentence>
+      <sentence id="4" ids_article_sentences="5">European Space Agency says it will narrow down landing sites from five to two Monday.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-09 11:10:15" annotation_time="25.230999">
+      <sentence id="4" ids_highlights="1, 2">Rosetta is orbiting Comet 67P/Churyumov-Gerasimenko but it is so far away from Earth that the Philae lander has to be programmed to land on its own.</sentence>
+      <sentence id="5" ids_highlights="4">ESA says the choice of landing sites will be narrowed down from five to two on Monday -- a primary target and a backup -- before a final decision is made in October.</sentence>
+      <sentence id="6" ids_highlights="3">It took more than 10 years to position the Rosetta craft so it could follow the comet&amp;apost;s orbit around the Sun.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>London It&amp;apost;s millions of miles away, looks like a giant potato and space engineers have to land a probe the size of a washing machine on to its surface.</content>
+        </sentence>
+        <sentence id="2">
+          <content>And the probe can&amp;apost;t be steered once it&amp;apost;s been released from companion craft Rosetta.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>That&amp;apost;s the task facing scientists from the European Space Agency&amp;apost;s comet chasing mission who are close to deciding where to set down on the rocky object that is hurtling towards the Sun.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Rosetta is orbiting Comet 67P/Churyumov-Gerasimenko but it is so far away from Earth that the Philae lander has to be programmed to land on its own.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>ESA says the choice of landing sites will be narrowed down from five to two on Monday -- a primary target and a backup -- before a final decision is made in October.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>It took more than 10 years to position the Rosetta craft so it could follow the comet&amp;apost;s orbit around the Sun.</content>
+        </sentence>
+        <sentence id="7">
+          <content>The project, led by ESA with aid from partners such as NASA, is the first mission to attempt to orbit, follow and land on a comet.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>Scientists hope to learn more about their composition and the project may shed light on whether comets brought water to Earth or even the chemicals that make up the building blocks of life.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>Project leaders now have to find a landing site that avoids large surface hazards and allows Philae to communicate with Rosetta, which will stay in orbit.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>But Rosetta project scientist Matt Taylor also explained that power is a crucial consideration.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>Philae&amp;apost;s batteries will have enough charge for 64 hours but the lander needs sunlight to generate more energy for the extended science mission.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;There are certain parts of the comet where you won&amp;apost;t be able to do any science because you will never get the lander in enough sunlight to be able to recharge the batteries,&amp;quot; Taylor told CNN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="13">
+          <content>Engineers also have to find a trajectory that will allow it to touch down safely -- a complicated procedure due to the comet&amp;apost;s irregular shape.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="14">
+          <content>Taylor shared the excitement of seeing the first high-resolution close-up images but said his reaction to the odd shape was: &amp;quot;What are we going to do with this?</content>
+        </sentence>
+        <sentence id="15">
+          <content>Where are we going to go?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;It has presented a challenge as to where we can land on the comet because there are certain regions you just can&amp;apost;t reach.</content>
+        </sentence>
+        <sentence id="17">
+          <content>The neck is quite difficult to get to -- it&amp;apost;s difficult to get a trajectory that will end up on that point without clipping one of the lobes.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="18">
+          <content>Taylor said that before Monday Rosetta will be in an orbit just 30km (about 18 miles) from Comet 67P and that results are starting to come in from the on-board instruments.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;There are some dust instruments that kind of put their hand up for a couple of weeks and then bring the hand back in again and analyze what it&amp;apost;s caught,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="20">
+          <content>&amp;quot;We are starting to sniff and taste the comet.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="21">
+          <content>You can follow Rosetta&amp;apost;s mission on Twitter @ESA_Rosetta and through the ESA blog.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

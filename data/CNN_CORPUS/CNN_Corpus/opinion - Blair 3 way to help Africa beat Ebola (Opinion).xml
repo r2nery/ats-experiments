@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="776" link="http://edition.cnn.com/2014/09/23/opinion/blair-africa-ebola/index.html?iid=article_sidebar" date_published="2014-09-23 20:38:36" category="opinion" author="Tony Blair " highlights_mapped="true" mapping_error="false">
+  <title>Blair: 3 way to help Africa beat Ebola (Opinion)</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="16">Ebola could become the biggest humanitarian disaster in a generation, former U.K. Prime Minister Tony Blair says.</sentence>
+      <sentence id="2" ids_article_sentences="26">World Bank estimates that the crisis could cost the affected economies over $800 million.</sentence>
+      <sentence id="3" ids_article_sentences="21, 20">Knock-on effects of Ebola like hunger are a huge risk, Blair says.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-19 21:15:51" annotation_time="38.47">
+      <sentence id="16" ids_highlights="1">If we don&amp;apost;t get this thing under control in the next six to eight weeks, it could become the biggest humanitarian disaster in a generation.</sentence>
+      <sentence id="20" ids_highlights="3">This means stopping the knock-on effects of Ebola.</sentence>
+      <sentence id="21" ids_highlights="3">Hunger is a huge risk.</sentence>
+      <sentence id="26" ids_highlights="2">The World Bank estimates that the crisis could cost the affected economies over $800 million -- meaning fewer jobs in countries where they are already scarce.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>If you had asked me 12 months ago what the future held for Liberia, Sierra Leone and Guinea, I would have been cautiously optimistic.</content>
+        </sentence>
+        <sentence id="2">
+          <content>Each country is emerging from a tragic past: civil war in both Liberia and Sierra Leone and decades of military rule in Guinea.</content>
+        </sentence>
+        <sentence id="3">
+          <content>But I&amp;apost;ve visited all three countries many times in my role as patron of the Africa Governance Initiative, and I&amp;apost;ve seen the huge progress each country has made.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="4">
+          <content>I&amp;apost;ve seen how President Ellen Johnson Sirleaf has brought a more prosperous economy to the people of Liberia; how President Ernest Bai Koroma of Sierra Leone has delivered free health care for young children, and how President Alpha Condé of Guinea has laid down the roots of Guinean democracy.</content>
+        </sentence>
+        <sentence id="5">
+          <content>But most of all I&amp;apost;ve seen how the people of each country have worked tirelessly to improve things for themselves, their families and their fellow citizens.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="6">
+          <content>Today, all three countries have been struck by the Ebola virus.</content>
+        </sentence>
+        <sentence id="7">
+          <content>Thousands of lives have been lost and tens of thousands are at risk.</content>
+        </sentence>
+        <sentence id="8">
+          <content>The progress of recent years is in jeopardy.</content>
+        </sentence>
+        <sentence id="9">
+          <content>I&amp;apost;ve spoken to the presidents of each of the three affected countries and they have told me there are three things they need from us.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="10">
+          <content>First, in the coming days and weeks they need support to get through the immediate crisis.</content>
+        </sentence>
+        <sentence id="11">
+          <content>The world has responded.</content>
+        </sentence>
+        <sentence id="12">
+          <content>U.S. President Barack Obama has committed 3,000 troops and huge resources to take on this disease.</content>
+        </sentence>
+        <sentence id="13">
+          <content>The United Nations held the first ever Security Council meeting on a health issue, and has set up a dedicated mission to join the fight against Ebola.</content>
+        </sentence>
+        <sentence id="14">
+          <content>And, on a much smaller scale, my foundation has teams working alongside the presidents of all three affected countries to help them coordinate the response -- I want to take this opportunity to say how proud I am of their work.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="15">
+          <content>We need to act now.</content>
+        </sentence>
+        <sentence id="16">
+          <content>If we don&amp;apost;t get this thing under control in the next six to eight weeks, it could become the biggest humanitarian disaster in a generation.</content>
+        </sentence>
+        <sentence id="17">
+          <content>The United Nations estimates that we need to increase the resources dedicated to fighting Ebola by a factor of 20.</content>
+        </sentence>
+        <sentence id="18">
+          <content>There can be no delay between the announcements of support and that support arriving in West Africa.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="19">
+          <content>Second, in the months that follow, these countries need help to rebuild.</content>
+        </sentence>
+        <sentence id="20">
+          <content>This means stopping the knock-on effects of Ebola.</content>
+        </sentence>
+        <sentence id="21">
+          <content>Hunger is a huge risk.</content>
+        </sentence>
+        <sentence id="22">
+          <content>The price of basic goods in parts of Liberia&amp;apost;s capital, Monrovia, is up 8% since the virus got a foothold, and in some rural areas the cost of staple foods has doubled.</content>
+        </sentence>
+        <sentence id="23">
+          <content>The government finances -- which they need to pay health workers, and soldiers to enforce quarantines -- are under great strain and will need to be stabilized.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="24">
+          <content>Schools have been closed and hospitals have been swamped by Ebola, so we will need to reboot the health and education systems.</content>
+        </sentence>
+        <sentence id="25">
+          <content>And we will need to restart economies.</content>
+        </sentence>
+        <sentence id="26">
+          <content>The World Bank estimates that the crisis could cost the affected economies over $800 million -- meaning fewer jobs in countries where they are already scarce.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="27">
+          <content>Third, over the years ahead, they need our support to build the capability of their governments to respond to future crises.</content>
+        </sentence>
+        <sentence id="28">
+          <content>All governments are rocked by events.</content>
+        </sentence>
+        <sentence id="29">
+          <content>That is inevitable.</content>
+        </sentence>
+        <sentence id="30">
+          <content>But it is important that they are able to build systems that will help predict and manage crises in order to avoid them spiraling out of control.</content>
+        </sentence>
+        <sentence id="31">
+          <content>Aid has been successful at slashing the number of people succumbing to preventable disease and lifting the number of kids in school, but too often it has managed this by working around governments.</content>
+        </sentence>
+        <sentence id="32">
+          <content>In a crisis you need governments with the capability to respond, and we should provide aid and assistance in a way that helps build that capability.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="33">
+          <content>If they get the help they need, Liberians, Sierra Leoneans, and Guineans will get through this crisis and keep their countries moving forward.</content>
+        </sentence>
+        <sentence id="34">
+          <content>They&amp;apost;ve done it before -- emerging from brutal conflict and dictatorship -- and I believe they can do it again.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

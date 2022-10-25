@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2801" link="http://www.cnn.com/2013/03/22/world/meast/jordan-syrian-refugees" date_published="2013-03-22 11:48:45" category="world" author="Ivan Watson and Jomana Karadsheh, CNN " highlights_mapped="true" mapping_error="false">
+  <title>Syrian refugees flood Jordanian town</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">One neighborhood in Jordan has been dubbed Syria Town.</sentence>
+      <sentence id="2" ids_article_sentences="3">Refugees are renting out shops and converting them into makeshift homes.</sentence>
+      <sentence id="3" ids_article_sentences="36">A group of wealthy Syrian expatriates has started a new aid program.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-10 21:07:39" annotation_time="18.373001">
+      <sentence id="1" ids_highlights="1">Mafraq, Jordan There are so many refugees living in one neighborhood here that locals have started calling it Syria Town.</sentence>
+      <sentence id="3" ids_highlights="2">Refugees are renting out shops that once sold sweets and converting them into makeshift homes.</sentence>
+      <sentence id="36" ids_highlights="3">This month, a group of wealthy Syrian expatriate businessmen who oppose the government in Damascus opened a new aid program in Jordan aimed at helping Syrian refugees.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Mafraq, Jordan There are so many refugees living in one neighborhood here that locals have started calling it Syria Town.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>In Syria Town&amp;apost;s dusty streets, children peer out from storefronts and shop windows partially covered by blankets, sheets and cardboard.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Refugees are renting out shops that once sold sweets and converting them into makeshift homes.</content>
+        </sentence>
+        <sentence id="4">
+          <content>Some of these converted residences don&amp;apost;t have doors.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>A blanket hung over the entryway of Um Khaled&amp;apost;s one-room home.</content>
+        </sentence>
+        <sentence id="6">
+          <content>The widow from the Syrian city of Homs spent her last savings renting what used to be an office.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;The regime soldiers and Shabiha militia took my husband and son from our house.</content>
+        </sentence>
+        <sentence id="8">
+          <content>They also took my brother and his son.</content>
+        </sentence>
+        <sentence id="9">
+          <content>They lined them up on the street and shot them,&amp;quot; she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>Um Khaled&amp;apost;s surviving sons, Abdul Kareem and Abdul Rahman, sat beside her on the floor.</content>
+        </sentence>
+        <sentence id="11">
+          <content>The eyes of the boys, ages 11 and 12, looked glazed and empty.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>Before the war, both boys went to school in Syria.</content>
+        </sentence>
+        <sentence id="13">
+          <content>Rahman wanted to become a lawyer.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="14">
+          <content>Now refugees in a foreign country, both boys have been looking for jobs to help pay the rent.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="15">
+          <content>&amp;quot;There is no work, the children can&amp;apost;t work, so life is hard,&amp;quot; Um Khaled said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="16">
+          <content>Competing for scarce resources.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="17">
+          <content>The trouble is, there weren&amp;apost;t enough jobs to go around even before Syrian refugees start flooding into Jordan.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="18">
+          <content>Jordan had an unofficial unemployment rate of 30% in 2012, according to the CIA World Fact Book.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="19">
+          <content>But today, this small kingdom of roughly 6.5 million inhabitants hosts more than 450,000 registered Syrian refugees.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="20">
+          <content>Hundreds of thousands of additional Syrians are believed to be living in Jordan outside the formal refugee system.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="21">
+          <content>Increasingly, Jordanians are competing with Syrians for jobs, real estate and even dwindling supplies of water.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;In a time where you have a very high rate of unemployment, where Jordanians are feeling economical hardship, this is making people angry,&amp;quot; said Randa Habib, a political analyst and the author of the book &amp;quot;Hussein and Abdullah: Inside the Jordanian Royal Family.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="23">
+          <content>The mounting frustration was palpable on the streets of Mafraq, a scruffy Jordanian border town, where Jordanians and Syrians approached visiting foreigners begging for money.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="24">
+          <content>&amp;quot;The situation was already tough, and it&amp;apost;s gotten harder since the Syrians came here,&amp;quot; said Khalid Mohamed el Wali, a car mechanic dressed in grease-spattered clothes.</content>
+        </sentence>
+        <sentence id="25">
+          <content>&amp;quot;Despite hardships in the past, we never had to line up for bread before, but since the Syrians came here, we have started lining up and waiting in bread lines.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="26">
+          <content>Anger has boiled over.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="27">
+          <content>&amp;quot;Of course people are angry,&amp;quot; restaurant owner Awwad Zudi said as he sliced chunks of beef with a knife for the sizzling grill behind him.</content>
+        </sentence>
+        <sentence id="28">
+          <content>&amp;quot;There have been water cuts, an increase in property prices and rent.</content>
+        </sentence>
+        <sentence id="29">
+          <content>Jordanian property owners have started finding legal ways to evict Jordanian tenants so they can rent their property to Syrians for double the price or to make Jordanians pay higher prices,&amp;quot; Zudi added.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="30">
+          <content>Frequently, Jordanians also have complained about the enormous government-run Zaatari refugee camp outside Mafraq.</content>
+        </sentence>
+        <sentence id="31">
+          <content>As the population there has swelled to more than 100,000 residents, Jordanian security forces have struggled to maintain order.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="32">
+          <content>Last week, rioting residents torched dozens of tents after clashes reportedly erupted with protesting residents of a neighboring Jordanian town.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="33">
+          <content>The refugee population will be one of the top items on the agenda Friday when U.S. President Barack Obama sits down with Jordan&amp;apost;s King Abdullah in Amman.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="34">
+          <content>According to the United Nations, international donors have pledged only about a fifth of the funds needed to help Syrian refugees in Jordan.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="35">
+          <content>Wealthy expatriate donors.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="36">
+          <content>This month, a group of wealthy Syrian expatriate businessmen who oppose the government in Damascus opened a new aid program in Jordan aimed at helping Syrian refugees.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="37">
+          <content>At a warehouse where workers from the Syrian Business Council for Relief and Development loaded sacks of rice into trucks for distribution to refugees, council members handed out rice to Jordanians gathered around the vehicles.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="38">
+          <content>&amp;quot;We know well about the Jordanian economic situation.</content>
+        </sentence>
+        <sentence id="39">
+          <content>So we need to help them and to help us,&amp;quot; said Dr. Khaled al Mahameed, the council&amp;apost;s vice president.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="40">
+          <content>Last week, artillery rumbled in the distance as Mahameed and his colleagues prepared to distribute clothes and shoes to refugees in the Jordanian border town of Ramtha.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="41">
+          <content>Mahameed&amp;apost;s hometown of Daraa was just across the border.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="42">
+          <content>&amp;quot;You can walk to my house from here,&amp;quot; Mahameed said, pointing to the nearby customs terminal leading to Syria.</content>
+        </sentence>
+        <sentence id="43">
+          <content>&amp;quot;But you know the situation.</content>
+        </sentence>
+        <sentence id="44">
+          <content>The regime tanks block the border, and you cannot pass.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="45">
+          <content>Later, the Syrian businessmen posed for cameras as they handed out coats to smiling children.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="46">
+          <content>But the new clothes did nothing to stop a 2-year-old Syrian girl named Dareen from crying hysterically.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="34">
+      <sentences>
+        <sentence id="47">
+          <content>Her legs were bound in casts after a bomb broke them two and a half months ago.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="35">
+      <sentences>
+        <sentence id="48">
+          <content>Dareen is another innocent victim of the brutal conflict next door in Syria.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="36">
+      <sentences>
+        <sentence id="49">
+          <content>The little girl also was a reminder that until the fighting stops, the future looks bleak for residents of the growing refugee community in Syria Town.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

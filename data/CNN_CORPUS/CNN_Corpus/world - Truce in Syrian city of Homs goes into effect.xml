@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2855" link="http://www.cnn.com/2014/05/07/world/meast/syria-homs-truce" date_published="2014-05-07 08:51:06" category="world" author="Saad Abedine and Jethro Mullen, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Truce in Syrian city of Homs goes into effect</title>
+  <keywords>Syria Homs truce</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="38">NEW: Group says &amp;quot;Islamic battalion&amp;quot; blocks aid into two villages.</sentence>
+      <sentence id="2" ids_article_sentences="25">Evacuation of rebels from the Old City of Homs begins, an opposition group says.</sentence>
+      <sentence id="3" ids_article_sentences="7">Under the truce, the rebels say they will release Hezbollah and Iranian captives.</sentence>
+      <sentence id="4" ids_article_sentences="3">Homs became known as the capital of the uprising against the Syrian regime.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-01 16:04:33" annotation_time="39.524" mapping_time_divergence="9.881">
+      <sentence id="3" ids_highlights="4">The ancient city became known as the capital of the uprising against the regime of Syrian President Bashar al-Assad.</sentence>
+      <sentence id="7" ids_highlights="3">Syrian rebels have said that the truce in the city was brokered after they agreed to release 70 Lebanese Hezbollah fighters, 20 Iranian officers captured by the Islamic Front in Aleppo and an Iranian female agent who was captured at the end of March.</sentence>
+      <sentence id="25" ids_highlights="2">The withdrawal of rebel and Islamist fighters from Homs neighborhoods under the supervision of regime forces and delegates from the United Nations;.</sentence>
+      <sentence id="38" ids_highlights="1">The observatory said that an &amp;quot;Islamic battalion&amp;quot; had blocked an aid convoy aiming for al-Nubul and al-Zahra, two Shiite villages in Aleppo province.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>A truce between Syrian government and rebel forces in the strategic and symbolic city of Homs has gone into effect, the opposition Syrian Observatory for Human Rights said Wednesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>An operation to evacuate opposition fighters and their families has begun, the London-based group said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The ancient city became known as the capital of the uprising against the regime of Syrian President Bashar al-Assad.</content>
+        </sentence>
+        <sentence id="4">
+          <content>It has experienced some of the worst of the violence in a bloody civil war that has left more than 100,000 people dead and driven millions of people from their homes across the country.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>As many as 2,500 people are thought to be trapped in Homs, portions of which have been under siege since June 2012.</content>
+        </sentence>
+        <sentence id="6">
+          <content>Efforts to get humanitarian aid to those inside the city have been plagued by difficulties amid the fighting.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>Syrian rebels have said that the truce in the city was brokered after they agreed to release 70 Lebanese Hezbollah fighters, 20 Iranian officers captured by the Islamic Front in Aleppo and an Iranian female agent who was captured at the end of March.</content>
+        </sentence>
+        <sentence id="8">
+          <content>Hezbollah and Iran have backed al-Assad&amp;apost;s government in the war.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>Truce follows talks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>Under the deal, once the opposition fighters reach their final destination in Al-Dara Al-Kabira in the province of Homs, the first group of pro-regime prisoners will be released from the towns of Nubul and Zahra in rural Aleppo.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>Representatives of the rebel fighters and of Islamic battalions have negotiated in recent days with those of Syrian government forces, the pro-regime National Defense militias, the Lebanese Shiite group Hezbollah and the governor of Homs, according to the observatory.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>The talks were mediated by civil committees and the United Nations in the presence of representatives from the Iranian and Russian embassies.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>In a statement to the state-run Syrian news agency SANA, Homs Gov. Talal al-Barazi said that the process of settlement and reconciliation will begin simultaneously with the rebels&amp;apost; departure so as to have the city cleared of arms.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>After the city is cleared, a Syrian army unit will begin a search to detect and dismantle explosive devices, mines and remove barricades, he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>Opposition defiant.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="16">
+          <content>Syria&amp;apost;s opposition has tried to spin the truce as a victory over al-Assad&amp;apost;s regime.</content>
+        </sentence>
+        <sentence id="17">
+          <content>But handing over control of the city could be a strategic setback.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;This deal proves that the Assad regime is a puppet manipulated by Iran, and that it is the sole importer of terrorists, and perhaps the exclusive agent of terrorism in the region,&amp;quot; Noura Al Ameer, vice president of the opposition Syrian Coalition, said before the truce went into effect.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="19">
+          <content>Al-Barazi has said the removal of rebel fighters and weapons from Homs will help the government improve security and stability in Syria.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="20">
+          <content>But the coalition has expressed doubt that the truce will hold.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="21">
+          <content>&amp;quot;We fear for the safety of those in Homs as the regime has always reneged on its promises,&amp;quot; the group said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="22">
+          <content>Terms of the deal.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="23">
+          <content>The Syrian Observatory for Human Rights has said that the Homs pact will call for:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="24">
+          <content>1.</content>
+        </sentence>
+        <sentence id="25">
+          <content>The withdrawal of rebel and Islamist fighters from Homs neighborhoods under the supervision of regime forces and delegates from the United Nations;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="26">
+          <content>2.</content>
+        </sentence>
+        <sentence id="27">
+          <content>The opening by rebel forces of a safe passage for the provision of food and medical aid to the Shiite enclaves of Nubul and Zahraa in the Aleppo countryside, considered to be regime strongholds the rebels have blocked for months;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="28">
+          <content>3.</content>
+        </sentence>
+        <sentence id="29">
+          <content>The withdrawal of rebel forces from Homs via the Hama-Homs highway toward Al-Dara Al-Kabira in Homs province&amp;apost;s north countryside;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="30">
+          <content>4.</content>
+        </sentence>
+        <sentence id="31">
+          <content>The granting of amnesty to 50 fighters who defected from regime forces in Homs&amp;apost; al-Waer neighborhood;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="32">
+          <content>5.</content>
+        </sentence>
+        <sentence id="33">
+          <content>The takeover by regime forces of the al-Waer neighborhood in Homs in addition to the entrance and exit into the neighborhoods of Jouret Shiah, Al-Qarabees, Hamidiyeh, Wadi Al-Sayeh and the Old City of Homs;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="34">
+          <content>6.</content>
+        </sentence>
+        <sentence id="35">
+          <content>Retreating rebel and Islamist fighters to keep their personal weapons for protection in the event of any breach of the pact.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="36">
+          <content>The Syrian Observatory for Human Rights said later Wednesday that about 600 fighters had left the besieged part of Homs for an area in the northern part of the city, with more expected to follow.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="37">
+          <content>But efforts elsewhere in Syria to help those suffering weren&amp;apost;t all proceeding as planned.</content>
+        </sentence>
+        <sentence id="38">
+          <content>The observatory said that an &amp;quot;Islamic battalion&amp;quot; had blocked an aid convoy aiming for al-Nubul and al-Zahra, two Shiite villages in Aleppo province.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

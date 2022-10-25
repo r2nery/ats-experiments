@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2117" link="http://edition.cnn.com/2012/08/07/world/asia/olympics-china-liu-xiang-response/index.html?iid=article_sidebar" date_published="2012-08-08 03:56:59" category="world" author="Alexis Lai, CNN" highlights_mapped="true" mapping_error="false">
+  <title>China rallies around fallen hurdler Liu Xiang</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">China rallying around hurdler Liu Xiang after he failed to pass first-round heat.</sentence>
+      <sentence id="2" ids_article_sentences="2">Sympathetic response stark contrast to public outcry over Liu&amp;apost;s withdrawal from 2008 Games.</sentence>
+      <sentence id="3" ids_article_sentences="12">State and commercial media, netizens expressing support for Liu.</sentence>
+      <sentence id="4" ids_article_sentences="29">Liu will undergo surgery for Achilles tendon injury in London Wednesday.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-09-08 23:26:11" annotation_time="18.206667">
+      <sentence id="1" ids_highlights="1">China is rallying around fallen hurdler Liu Xiang Wednesday after he failed to make it past the first-round heat for a second consecutive Olympics.</sentence>
+      <sentence id="2" ids_highlights="2">The sympathetic response was a stark contrast to the public outcry over his high-profile withdrawal from the Beijing 2008 Games.</sentence>
+      <sentence id="12" ids_highlights="3">Local newspapers in cities across China carried Liu&amp;apost;s story on their front pages, urging fans to support the athlete as he struggles to recover from injury.</sentence>
+      <sentence id="29" ids_highlights="4">Chinese media reported that Liu will undergo surgery for his Achilles tendon at a London hospital Wednesday.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>China is rallying around fallen hurdler Liu Xiang Wednesday after he failed to make it past the first-round heat for a second consecutive Olympics.</content>
+        </sentence>
+        <sentence id="2">
+          <content>The sympathetic response was a stark contrast to the public outcry over his high-profile withdrawal from the Beijing 2008 Games.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>Liu knocked over the first hurdle, injuring his right ankle and inflaming an Achilles tendon injury that ruined his medal ambitions at the 2008 Games.</content>
+        </sentence>
+        <sentence id="4">
+          <content>Liu then hopped on his left foot down the remainder of the track in a symbolic completion of the race, pausing to kiss the final hurdle.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>&amp;quot;What Liu Xiang did today reflected the true Olympics spirit,&amp;quot; said Feng Shuyong, the leader of the Chinese athletics team, in quotes carried by Chinese state news agency Xinhua.</content>
+        </sentence>
+        <sentence id="6">
+          <content>&amp;quot;Winning is not so important, participation is what matters.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;We&amp;apost;ve all seen how hard it is for him.</content>
+        </sentence>
+        <sentence id="8">
+          <content>It is such a pity but his spirit is there,&amp;quot; Feng continued.</content>
+        </sentence>
+        <sentence id="9">
+          <content>&amp;quot;I think he made a lot of efforts over the past four years trying to do well.</content>
+        </sentence>
+        <sentence id="10">
+          <content>But in competitive sports, anything can happen.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;Liu&amp;apost;s spirit and sportsmanship won praise, not only from Chinese sport officials and millions of Chinese, but also from his foreign friends and opponents,&amp;quot; wrote Xinhua.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="12">
+          <content>Local newspapers in cities across China carried Liu&amp;apost;s story on their front pages, urging fans to support the athlete as he struggles to recover from injury.</content>
+        </sentence>
+        <sentence id="13">
+          <content>&amp;quot;It is time for him to take a good rest,&amp;quot; wrote the Chongqing Morning Post.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="14">
+          <content>On the Sina Weibo microblogging platform, where Liu Xiang was the top trending term Wednesday, the topic page for the Liu Xiang hashtag included the subheading: &amp;quot;Liu Xiang fell and lost his chance to qualify for the semi-final.</content>
+        </sentence>
+        <sentence id="15">
+          <content>Write one sentence to comfort him.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="16">
+          <content>All eyes in China were on Liu at the London Olympics Tuesday, as he sought to redeem himself after limping off the track at his first-round heat at the Beijing 2008 Olympics.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="17">
+          <content>The outpouring of sympathy toward Liu is a marked contrast to the sharp anger and widespread criticism lobbed at him at the Beijing Games.</content>
+        </sentence>
+        <sentence id="18">
+          <content>His abrupt withdrawal in what was China&amp;apost;s most anticipated event brought his coach, fans, and reporters literally to tears in the stadium.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="19">
+          <content>Back then, Chinese fans denounced him as a &amp;quot;coward&amp;quot; who should have finished the match before quitting.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="20">
+          <content>Some complained that they had paid 20 times the retail price for tickets to see Liu compete in Beijing, and demanded a refund.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="21">
+          <content>China&amp;apost;s sympathetic response this time around may be attributed to Liu&amp;apost;s symbolic completion of the race, as well as the Olympics not taking place on Chinese home turf.</content>
+        </sentence>
+        <sentence id="22">
+          <content>At 29, Liu is also not expected to compete in another Olympics.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="23">
+          <content>The Shanghai native shot to international stardom when he won a gold medal in the 110-metre hurdles at the Athens 2004 Summer Olympics.</content>
+        </sentence>
+        <sentence id="24">
+          <content>His victory secured China its first men&amp;apost;s track and field gold medal.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="25">
+          <content>After a 13-month recovery period, Liu returned to the track at the 2009 Shanghai Grand Prix, finishing in second place.</content>
+        </sentence>
+        <sentence id="26">
+          <content>He went on to place first in several 110-metre hurdles competitions, including the 2010 Asian Games, 2011 Asian Championships, and 2012 Diamond Leagues held in Oregon and Shanghai.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="27">
+          <content>His coach, Sun Haiping, told Xinhua on August 3 that Liu&amp;apost;s Achilles tendon injury had flared up at his training camp in Germany ahead of the London Olympics, although he said they were confident it was under control.</content>
+        </sentence>
+        <sentence id="28">
+          <content>Liu also pulled out of the London Diamond League in London in July, citing back problems.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="29">
+          <content>Chinese media reported that Liu will undergo surgery for his Achilles tendon at a London hospital Wednesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="30">
+          <content>At 12.91 seconds, Liu&amp;apost;s performance in Athens is the fastest 110-metre Olympic record to date.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="31">
+          <content>His performance of 12.88 seconds in 2006 IAAF Super Grand Prix is his personal best and the world&amp;apost;s second-fastest record after Cuba&amp;apost;s Dayron Robles.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

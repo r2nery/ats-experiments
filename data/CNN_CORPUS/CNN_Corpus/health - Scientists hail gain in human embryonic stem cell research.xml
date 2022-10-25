@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="353" link="http://edition.cnn.com/2011/10/06/health/stem-cell-research/index.html" date_published="2011-10-06 04:54:16" category="health" author="Miriam Falco, CNN " highlights_mapped="true" mapping_error="false">
+  <title>Scientists hail gain in human embryonic stem cell research</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">The achievement is an &amp;quot;important step&amp;quot; in stem cell research, scientists say .</sentence>
+      <sentence id="2" ids_article_sentences="2">They used a technique similar to the one used to clone Dolly the sheep.</sentence>
+      <sentence id="3" ids_article_sentences="5">The motivation for the research was to eventually cure diseases such as Parkinson&amp;apost;s, diabetes.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2015-01-16 18:58:55" annotation_time="26.456501">
+      <sentence id="2" ids_highlights="1, 2">To achieve what is being called an &amp;quot;important step&amp;quot; in stem cell research, scientists in New York used a cloning technique similar to the one used to clone Dolly the sheep.</sentence>
+      <sentence id="5" ids_highlights="3">He said the motivation for the research was to eventually cure diseases such as Parkinson&amp;apost;s, diabetes and many other illnesses.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>For the first time, researchers have succeeded in creating human embryonic stem cells by injecting DNA from a skin cell into an unfertilized egg, according to a study published Wednesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>To achieve what is being called an &amp;quot;important step&amp;quot; in stem cell research, scientists in New York used a cloning technique similar to the one used to clone Dolly the sheep.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;This work now demonstrates for the first time that the human egg has the ability to turn a specialized cell into a stem cell,&amp;quot; said Dieter Egli, who along with fellow study author Scott Noggle led the research team at the New York Stem Cell Foundation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>&amp;quot;The goal of this research was to create patient-specific embryonic stem cells with the patients&amp;apost; DNA for the eventual use in cell replacement therapy,&amp;quot; Egli told CNN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>He said the motivation for the research was to eventually cure diseases such as Parkinson&amp;apost;s, diabetes and many other illnesses.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>In 2005, researchers in South Korea claimed to have created the first human embryonic stem cells by cloning an embryo.</content>
+        </sentence>
+        <sentence id="7">
+          <content>A year later, it was revealed that the data had been faked.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>This new study, published in the journal Nature, shows researchers have finally succeeded in creating human embryonic stem cells.</content>
+        </sentence>
+        <sentence id="9">
+          <content>They weren&amp;apost;t perfect though because they have too many chromosomes -- 69 instead of the usual 46 -- making the cells suitable for research purposes only, not actual treatments.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>In the past, efforts to create human stem cells using cloning meant taking an unfertilized egg, removing egg&amp;apost;s nucleus with its 23 chromosomes and replacing it with the nucleus of a skin cell (which has 46 chromosomes) and placing the egg in a chemical bath to make it divide as if it had been fertilized by sperm.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>Researchers started out with 270 donated oocytes or unfertilized eggs, provided by sixteen egg donors, Noggle said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>Egli said through a process of elimination, he and his colleagues determined that it was the removal of the egg&amp;apost;s genome, not the introduction of new DNA or chemically initiating cell division, which was preventing the egg to develop far enough along so stem cells can be extracted.</content>
+        </sentence>
+        <sentence id="13">
+          <content>Noggle says 63 eggs were needed to develop two cell lines, of which one was viable.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;It&amp;apost;s the machinery within the egg that allows the egg to progress normally in development,&amp;quot; said Ted Golos, who is a professor of Comparative Biosciences at the school of Veterinary Medicine at the University of Wisconsin-Madison.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>Golos, who is not involved in this new research, says this new study isn&amp;apost;t a giant leap forward but it&amp;apost;s an interesting one.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Now the challenge is to figure out how to remove the egg&amp;apost;s chromosomes, without removing the machinery or spindle, which helps the egg divide.</content>
+        </sentence>
+        <sentence id="17">
+          <content>Egli said he and his colleagues are working on just that.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="18">
+          <content>Researchers have been using adult stem cells like bone marrow for treatments for decades.</content>
+        </sentence>
+        <sentence id="19">
+          <content>But adult stem cells have been programmed for one part of the body and are not easily converted to correcting problems in other parts of the body.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="20">
+          <content>Then the first major advance in human embryonic stem cell research came In 1998, when Jamie Thomson at the University of Wisconsin-Madison, extracted the first stem cells from an existing human embryo.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="21">
+          <content>In 2007, researchers in Japan and California reported the creation of stem cells by bypassing eggs altogether and reprogramming skin cells directly into dividing like fertilized eggs with the addition of four viruses.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="22">
+          <content>These cells are called induced pluripotent stem cells or iPS cells.</content>
+        </sentence>
+        <sentence id="23">
+          <content>Since then, researchers have found these cells have some limitations as well.</content>
+        </sentence>
+        <sentence id="24">
+          <content>While some opponents of embryonic research believe advances in the &amp;quot;less controversial&amp;quot; adult stem cell and iPS cells eliminate the need for embryonic stem cell research, most experts in the field believe all three research paths need to be explored to eventually find the right treatment for the right disease.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="25">
+          <content>Dr. Alan Trounson, who heads the California Institute for Regenerative Medicine, which funds embryonic and adult stem cell research, says if researchers are able to take the next step and figure out how to make embryonic stem cells without the excess chromosomes, then they can begin to compare them to iPS cells and determine how different or similar they really are.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="26">
+          <content>Egli agrees.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="27">
+          <content>&amp;quot;We need to better understand the biology of the human egg for reprogramming without the egg genome,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

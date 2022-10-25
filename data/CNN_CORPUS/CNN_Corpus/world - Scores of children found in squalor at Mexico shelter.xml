@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2731" link="http://www.cnn.com/2014/07/16/world/americas/mexico-shelter-children-rescued/index.html?hpt=hp_mid" date_published="2014-07-16 22:58:32" category="world" author="Ray Sanchez, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Scores of children found in squalor at Mexico shelter</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="4">Mexican authorities found nearly 500 children living in squalor at a refuge in Michoacan state .</sentence>
+      <sentence id="2" ids_article_sentences="2">The children were subjected to physical, psychological and sexual abuse, authorities say .</sentence>
+      <sentence id="3" ids_article_sentences="7">The operator of the shelter was detained along with eight of her employees.</sentence>
+      <sentence id="4" ids_article_sentences="10">Michoacan governor Salvador Jara Guerrero: &amp;quot;We must not allow these things to occur&amp;quot;.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-02 19:46:03" annotation_time="11.0325">
+      <sentence id="2" ids_highlights="2">At The Big Family shelter, scores of children -- some as young as two months old -- were denied visits from their parents, virtually imprisoned in vermin-infested quarters and routinely subjected to physical, psychological and sexual abuse, authorities said.</sentence>
+      <sentence id="4" ids_highlights="1">&amp;quot;We found close to 500 children in truly deplorable conditions,&amp;quot; Murillo said.</sentence>
+      <sentence id="7" ids_highlights="3">The operator of the shelter, Rosa del Carmen Verduzco, was detained along with eight of her employees, authorities said.</sentence>
+      <sentence id="10" ids_highlights="4">&amp;quot;We did not expect to find such conditions... We must not allow these things to occur -- not in Michoacan, not in the republic.&amp;quot;</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Mexican authorities are still unraveling the horrors allegedly committed on nearly 500 children sheltered at &amp;quot;La Gran Familia&amp;quot; refuge in the western state of Michoacan.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>At The Big Family shelter, scores of children -- some as young as two months old -- were denied visits from their parents, virtually imprisoned in vermin-infested quarters and routinely subjected to physical, psychological and sexual abuse, authorities said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Authorities raided the sprawling, squalid shelter in the city of Zamora Tuesday after a number of parents complained about being denied access to their children, Mexican Attorney General Jesus Murillo Karan told reporters.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>&amp;quot;We found close to 500 children in truly deplorable conditions,&amp;quot; Murillo said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>Victims told investigators that children were routinely forced to beg for money on the streets, eat unsanitary food and sleep on hard floors crawling with rats and roaches, Murillo said.</content>
+        </sentence>
+        <sentence id="6">
+          <content>It was not clear from Mexican authorities how so many children -- along with some adults -- came to be at the shelter.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>The operator of the shelter, Rosa del Carmen Verduzco, was detained along with eight of her employees, authorities said.</content>
+        </sentence>
+        <sentence id="8">
+          <content>They were being questioned in connection with abuse and other charges.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>&amp;quot;This is truly upsetting,&amp;quot; Michoacan governor Salvador Jara Guerrero told reporters.</content>
+        </sentence>
+        <sentence id="10">
+          <content>&amp;quot;We did not expect to find such conditions... We must not allow these things to occur -- not in Michoacan, not in the republic.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>Tomas Zeron de Lucio, chief investigator with the attorney general&amp;apost;s office, said babies born at the shelter were allegedly registered under Verduzco&amp;apost;s name.</content>
+        </sentence>
+        <sentence id="12">
+          <content>The biological parents were told that the babies would be allowed to leave when they came of age.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>One victim told investigators that she asked Verduzco permission to leave the home when she turned 18 but was kept there as a worker for an additional 13 years, Zeron de Lucio said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>The victim said she gave birth to two daughters while living at the shelter and both were registered under another name, Zeron de Lucio said.</content>
+        </sentence>
+        <sentence id="15">
+          <content>She was allowed to see the girls for three hours every two months.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>During her last meeting with Verduzco, the victim told investigators, she offered the shelter operator about 10,000 Mexican pesos -- or about $750 -- to get her daughters back.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;Get the money together,&amp;quot; Verduzco reportedly told her, &amp;quot;and give me a call.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="18">
+          <content>Authorities were working to rid the shelter of rats, bedbugs and roaches because there was no other place to immediately move the scores of children on short notice.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;Right now, we&amp;apost;re undertaking an exhaustive cleaning because there were bedbugs, roaches and rats even in the food,&amp;quot; Maria Ampudio, who works with a charitable organization, told CNN Wednesday.</content>
+        </sentence>
+        <sentence id="20">
+          <content>&amp;quot;The food given to the children was spoiled and outdated.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="21">
+          <content>Ampudio said some girls reported being thrown to the ground and kicked in the head.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="22">
+          <content>The shelter, which houses people ranging from newborns to 40 years of age, had been in operation for more than 40 years, authorities said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="23">
+          <content>The majority of the minors are between 3 and 17 years of age -- 278 are male and 174 female.</content>
+        </sentence>
+        <sentence id="24">
+          <content>There were 138 adults from 18 to 40 years of age also at the schedule.</content>
+        </sentence>
+        <sentence id="25">
+          <content>Also recovered were six babies and toddlers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="26">
+          <content>The website of &amp;quot;La Gran Familia&amp;quot; shelter said Verduzco started caring for abandoned children when she herself was a teenager.</content>
+        </sentence>
+        <sentence id="27">
+          <content>She later worked as a grade school teacher and earned a meager living to care for her charges.</content>
+        </sentence>
+        <sentence id="28">
+          <content>The children, the website said, helped raise money by selling newspapers and sweets in the town square.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="29">
+          <content>Verduzco later left her charges in the care of a poor, elderly woman, according to the website.</content>
+        </sentence>
+        <sentence id="30">
+          <content>She moved to Mexico City to work with a charitable foundation, where she cared for 33 children and sent money back to Zamora.</content>
+        </sentence>
+        <sentence id="31">
+          <content>She later returned to Michoacan to start La Gran Familia, which housed more than 4,000 children over the years, according to the website.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="500" link="http://www.cnn.com/2012/11/20/justice/o-j-simpson-film-claim/index.html" date_published="2012-11-21 00:05:09" category="justice" author="Alan Duke, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Documentary: Serial killer, not O.J., killed Simpson and Goldman</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="5">&amp;quot;I&amp;apost;m absolutely certain that my brother Glen killed Nicole Simpson and Ron Goldman,&amp;quot; Clay Rogers says.</sentence>
+      <sentence id="2" ids_article_sentences="3">Glen Rogers was sentenced to death for murdering women in Florida and California.</sentence>
+      <sentence id="3" ids_article_sentences="9">Simpson and Goldman&amp;apost;s killer &amp;quot;is O.J. Simpson and not Glen Rogers,&amp;quot; Goldman&amp;apost;s father says.</sentence>
+      <sentence id="4" ids_article_sentences="5">&amp;quot;My Brother The Serial Killer&amp;quot; debuts Wednesday on Investigation Discovery channel.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-02 18:14:36" annotation_time="17.536999">
+      <sentence id="3" ids_highlights="2">Glen Rogers, who has been sentenced to death for murdering women in Florida and California, was arrested in November 1995 -- a month after Simpson&amp;apost;s murder trial ended -- and charged with killing five women in several states.</sentence>
+      <sentence id="5" ids_highlights="1, 4">&amp;quot;I&amp;apost;m absolutely certain that my brother Glen killed Nicole Simpson and Ron Goldman,&amp;quot; said Clay Rogers, who narrated the film &amp;quot;My Brother The Serial Killer,&amp;quot; which will debut on the Investigation Discovery channel Wednesday.</sentence>
+      <sentence id="9" ids_highlights="3">&amp;quot;That person is O.J. Simpson and not Glen Rogers.&amp;quot;</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>A death row inmate told relatives and a criminal profiler he killed Nicole Brown Simpson and Ronald Goldman while O.J. Simpson waited nearby, a new documentary claims.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>O.J. Simpson was tried and acquitted in the June 12, 1994, stabbing deaths of his ex-wife and her friend, although the actor and football legend was found liable in a civil wrongful death trial.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Glen Rogers, who has been sentenced to death for murdering women in Florida and California, was arrested in November 1995 -- a month after Simpson&amp;apost;s murder trial ended -- and charged with killing five women in several states.</content>
+        </sentence>
+        <sentence id="4">
+          <content>He told investigators at the time that he had killed at least 70 women, police said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>&amp;quot;I&amp;apost;m absolutely certain that my brother Glen killed Nicole Simpson and Ron Goldman,&amp;quot; said Clay Rogers, who narrated the film &amp;quot;My Brother The Serial Killer,&amp;quot; which will debut on the Investigation Discovery channel Wednesday.</content>
+        </sentence>
+        <sentence id="6">
+          <content>&amp;quot;I know my brother did it because I&amp;apost;ve seen proof that he was there.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>Fred Goldman, the father of Ronald Goldman, immediately rejected the film&amp;apost;s contention.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;The overwhelming evidence at the criminal trial proved that one, and only one, person murdered Nicole Brown Simpson and Ronald Goldman,&amp;quot; Goldman said in a statement to CNN.</content>
+        </sentence>
+        <sentence id="9">
+          <content>&amp;quot;That person is O.J. Simpson and not Glen Rogers.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;The fact that O.J. Simpson was acquitted was a travesty of justice that tarnished the criminal justice system,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="11">
+          <content>&amp;quot;Now every guilty person prays to the altar of O.J. Simpson for deliverance from their crimes.</content>
+        </sentence>
+        <sentence id="12">
+          <content>A [hundred thousand] screaming Glen Rogers, packed in the Los Angeles Coliseum, all confessing in unison, would not absolve O.J. Simpson of the murders he committed.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>Ronald Goldman&amp;apost;s sister lashed out at the Investigation Discovery channel and film producers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;I am appalled at the level of irresponsibility demonstrated by the network and the producers of this so-called documentary,&amp;quot; Kim Goldman told CNN.</content>
+        </sentence>
+        <sentence id="15">
+          <content>&amp;quot;I&amp;apost;m disappointed at the way this story was handled.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Is this a confession?&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="17">
+          <content>David Monaghan, the film&amp;apost;s producer, did not immediately respond to a CNN request for comment on Goldman&amp;apost;s criticism.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="18">
+          <content>A spokesman for the Los Angeles Police Department said the department would investigate Rogers&amp;apost; claims but does not believe he was involved in Simpson and Goldman&amp;apost;s killings.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;The LAPD is quite confident that we know who killed Nicole Brown Simpson and Ron Goldman.</content>
+        </sentence>
+        <sentence id="20">
+          <content>We have no reason to believe that Mr. Rogers was involved,&amp;quot; Commander Andrew Smith said.</content>
+        </sentence>
+        <sentence id="21">
+          <content>&amp;quot;Nevertheless, in the interest of being thorough in this case, our robbery homicide detectives will investigate his claims.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="22">
+          <content>Much of the documentary&amp;apost;s support for the claim that Rogers killed Simpson and Goldman came from statements he purportedly made to his brother.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="23">
+          <content>Glen Rogers was a drifter in 1994 when he arrived in Los Angeles after the Northridge earthquake to work on a repair crew, according to the film.</content>
+        </sentence>
+        <sentence id="24">
+          <content>One job took him to Simpson&amp;apost;s house as a painter, it said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="25">
+          <content>&amp;quot;Glen told me, when he called, &amp;apost;Guess who I&amp;apost;m partying with?</content>
+        </sentence>
+        <sentence id="26">
+          <content>Nicole Simpson,&amp;apost;&amp;quot; Rogers said, describing a call he said happened just a few days before the killings.</content>
+        </sentence>
+        <sentence id="27">
+          <content>&amp;quot;Actually, what he told me, he says, &amp;apost;They got money, they&amp;apost;re well off and I&amp;apost;m taking her down.&amp;apost;&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="28">
+          <content>The brother also claims that Glen Rogers took a gold angel pin off of Simpson&amp;apost;s lifeless body and mailed it to his mother in Ohio the next day.</content>
+        </sentence>
+        <sentence id="29">
+          <content>Their mother wore the pin, at her son&amp;apost;s request, at one of his murder trials, Rogers said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="30">
+          <content>Criminal profiler Anthony Meoli, who exchanged dozens of letters with Glen Rogers and visited him on death row, said Rogers explained to him that O.J. Simpson had hired him to break into his ex-wife&amp;apost;s condo to steal diamond earrings he had given her.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="31">
+          <content>&amp;quot;Glen told me that O.J.&amp;apost;s instructions were that &amp;apost;You may have to kill the bitch,&amp;apost;&amp;quot; Meoli said.</content>
+        </sentence>
+        <sentence id="32">
+          <content>&amp;quot;Those were his exact words.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="33">
+          <content>Simpson told him about a spare key to the condo hidden outside the door, according to Meoli&amp;apost;s description of Rogers&amp;apost; account.</content>
+        </sentence>
+        <sentence id="34">
+          <content>The attack happened on steps outside, though, when Goldman unexpectedly arrived, he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="35">
+          <content>The documentary includes a graphic re-creation of how Rogers described the attack to Meoli.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="36">
+          <content>Simpson, who was waiting in his car nearby, walked onto the bloody sidewalk to check Rogers&amp;apost; work, thus leaving his footprints at the crime scene, Meoli said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="37">
+          <content>Los Angeles prosecutors matched a shoe print taken from the scene to the sole of an expensive Italian shoe they contended O.J. Simpson owned.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="38">
+          <content>Rogers began a cross-country killing spree that included about 70 female victims after the Simpson and Goldman murders, the film said.</content>
+        </sentence>
+        <sentence id="39">
+          <content>He was captured in Ohio in November 1995, weeks after O.J. Simpson was freed from jail.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="40">
+          <content>Rogers was sentenced to death in Florida after a jury convicted him of killing a woman in a Tampa motel.</content>
+        </sentence>
+        <sentence id="41">
+          <content>He was later convicted of murdering a California woman, which resulted in a second death sentence.</content>
+        </sentence>
+        <sentence id="42">
+          <content>No other states have tried him.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="43">
+          <content>He is awaiting execution in Florida and has no more appeals, according to the film.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="44">
+          <content>Assistant District Attorney Pat Dixon, who prosecuted Rogers in the 1990s, said Glen Rogers may have an ulterior motive for claiming to have killed Simpson and Goldman.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="45">
+          <content>&amp;quot;Rogers is on death row in Florida and California.</content>
+        </sentence>
+        <sentence id="46">
+          <content>If he&amp;apost;s close to execution in Florida, he may be hoping that California will bring him back here which would postpone the execution,&amp;quot; Dixon said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="47">
+          <content>The Simpson and Goldman killings did not match Rogers&amp;apost; other killings, Dixon added.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="48">
+          <content>&amp;quot;Rogers and O.J. Simpson&amp;apost;s cases don&amp;apost;t match except that all the victims were stabbed.</content>
+        </sentence>
+        <sentence id="49">
+          <content>Rogers was a good-looking guy.</content>
+        </sentence>
+        <sentence id="50">
+          <content>He would go to bars, pick up women, court them, sometimes live with them a while, then kill them.</content>
+        </sentence>
+        <sentence id="51">
+          <content>The one victim he murdered in L.A., he killed the night he met her.</content>
+        </sentence>
+        <sentence id="52">
+          <content>I&amp;apost;m not aware of any instance of violence outside that pattern.</content>
+        </sentence>
+        <sentence id="53">
+          <content>What happened to Nicole Brown was totally different.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="54">
+          <content>O.J. Simpson is serving a 33-year sentence with the possibility of parole after nine years after being convicted of 10 charges related to an armed confrontation over sports memorabilia in a Las Vegas hotel room.</content>
+        </sentence>
+        <sentence id="55">
+          <content>He was convicted in 2008.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="56">
+          <content>CNN was unable to immediately reach Simpson or his lawyer for a response.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2838" link="http://edition.cnn.com/2012/01/24/world/asia/tokyo-quake-forecast/index.html" date_published="2012-01-24 09:48:12" category="world" author="Elizabeth Yuan, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Tokyo sees high quake probability, scientists warn</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="12">Forty-two million people live in Tokyo metropolitan area.</sentence>
+      <sentence id="2" ids_article_sentences="2">Institute: Tokyo faces 70% probability of M-7 quake within four years, 98% chance within 30 years.</sentence>
+      <sentence id="3" ids_article_sentences="21">Government puts 70% probability of magnitude-7 quake in region within 30 years.</sentence>
+      <sentence id="4" ids_article_sentences="3">March 11 quake and tsunami left more than 15,700 dead, government says.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-14 15:47:23" annotation_time="48.376667">
+      <sentence id="2" ids_highlights="2">The University of Tokyo&amp;apost;s Earthquake Research Institute predicts there is a 70% probability that the capital&amp;apost;s metropolitan area will experience a magnitude-7 quake within four years and a 98% probability within the next 30 years.</sentence>
+      <sentence id="3" ids_highlights="4">Nearly one year ago, a magnitude 9.0 quake struck off Japan&amp;apost;s central Pacific coast, triggering a devastating tsunami and aftershocks that left more than 15,700 dead, according to a government report in December on Japan&amp;apost;s recovery from the catastrophe.</sentence>
+      <sentence id="12" ids_highlights="1">The research institute&amp;apost;s findings carry great consequences for the 42 million people who live in the Tokyo metropolitan area.</sentence>
+      <sentence id="21" ids_highlights="3">The government&amp;apost;s Headquarters for Earthquake Research Promotion had put a 70% probability of a magnitude-7 quake in Kanto region, which encompasses Tokyo and Yokohama, within 30 years, based on long-term seismicity and hazard studies.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Tokyo faces the possibility of being hit by a massive earthquake within the next four years, according to Japanese researchers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The University of Tokyo&amp;apost;s Earthquake Research Institute predicts there is a 70% probability that the capital&amp;apost;s metropolitan area will experience a magnitude-7 quake within four years and a 98% probability within the next 30 years.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Nearly one year ago, a magnitude 9.0 quake struck off Japan&amp;apost;s central Pacific coast, triggering a devastating tsunami and aftershocks that left more than 15,700 dead, according to a government report in December on Japan&amp;apost;s recovery from the catastrophe.</content>
+        </sentence>
+        <sentence id="4">
+          <content>About 4,500 were listed as missing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Nearly 700 aftershocks registering magnitude 5 or greater followed last year&amp;apost;s quake, the government report said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>The March 11 earthquake -- dubbed &amp;quot;Tohoku&amp;quot; after the region in which it occurred -- also damaged the Fukushima Dai-ichi nuclear power station, where three reactors experienced full meltdowns, creating a nuclear crisis for a country already grappling with disaster.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>The research institute cited for its findings the Gutenberg Richter Law, which states that an increase in small tremors will likely increase the number of larger earthquakes.</content>
+        </sentence>
+        <sentence id="8">
+          <content>According to another paper published in September, the institute concluded that the quake ruptured a fault area nearly 500 kilometers in length and 200 kilometers wide offshore.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>The fourth strongest quake recorded in history, Tohoku caused abrupt stress changes in the upper plate and triggered widespread seismic activity throughout the Japanese island.</content>
+        </sentence>
+        <sentence id="10">
+          <content>The northern part of Ibaraki Prefecture, in particular, saw a significant increase of shallow seismicity after the quake compared with the extremely low rate eight years prior, the researchers said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>Should Tokyo&amp;apost;s inhabitants be worried?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>The research institute&amp;apost;s findings carry great consequences for the 42 million people who live in the Tokyo metropolitan area.</content>
+        </sentence>
+        <sentence id="13">
+          <content>The Central Disaster Management Council has estimated that a large-scale earthquake in the next few decades could result in 11,000 deaths and an economic loss of 112 trillion yen (US$1.5 trillion).</content>
+        </sentence>
+        <sentence id="14">
+          <content>Its goal is to halve the estimated death toll and reduce the estimated economic loss.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>How precise are seismic forecasts?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>Gary Gibson, a seismologist at Australia&amp;apost;s Seismology Research Centre, called the Earthquake Research Institute&amp;apost;s findings &amp;quot;not at all unexpected,&amp;quot; given the level of seismic activity and their model.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;Seismologists cannot predict with certainty when, where and how large the next big earthquake will be,&amp;quot; he wrote in an e-mail to CNN.</content>
+        </sentence>
+        <sentence id="18">
+          <content>&amp;quot;However, it is possible to forecast the probability of an earthquake in a particular time range (e.g. the next four years), location area (e.g. the Tokyo region), and magnitude range (e.g. greater than magnitude 7.0).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;Long-term forecasts use average activity levels from all known past earthquakes, geological data from fault displacements, and data about plate movement and deformation from very precise GPS measurements and other methods to determine these probabilities.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="20">
+          <content>What is the government saying?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="21">
+          <content>The government&amp;apost;s Headquarters for Earthquake Research Promotion had put a 70% probability of a magnitude-7 quake in Kanto region, which encompasses Tokyo and Yokohama, within 30 years, based on long-term seismicity and hazard studies.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="22">
+          <content>Scientists have already dubbed as &amp;quot;Tokai&amp;quot; an expected 8.0 quake near Suruga Bay, where large quakes have historically struck every 100-150 years, according to the Japan Meteorological Agency.</content>
+        </sentence>
+        <sentence id="23">
+          <content>The last one, a magnitude-8.4 quake, occurred in 1854 -- nearly 160 years ago.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="24">
+          <content>According to Gibson, the seismologist, the enhanced seismicity in the area affected by the Tohoku quake may fall towards normal levels and could affect the research institute&amp;apost;s findings.</content>
+        </sentence>
+        <sentence id="25">
+          <content>Results for the six-month period after the quake would become available after this coming March 11, the quake&amp;apost;s anniversary, he noted.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="26">
+          <content>Why is Japan so prone to earthquakes?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="27">
+          <content>The Japanese archipelago and neighboring areas rest on or around four tectonic plates -- the Pacific, Philippine Sea, North American and Eurasian plates -- whose movements account for one of the most seismically active places on earth.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="28">
+          <content>Can Tokyo withstand a 7.0 quake?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="29">
+          <content>Gibson said that while the area is a very active one seismically, building standards are high, therefore reducing the damage caused by earthquakes.</content>
+        </sentence>
+        <sentence id="30">
+          <content>Buildings in Tokyo held up well in the face of the &amp;quot;Tohoku&amp;quot; quake.</content>
+        </sentence>
+        <sentence id="31">
+          <content>Reinforced concrete and anti-seismic systems in buildings are among features that have helped absorb shocks when earthquakes occur.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="32">
+          <content>&amp;quot;A magnitude 7.0 earthquake is very much smaller than the magnitude 9.0 Tohoku earthquake,&amp;quot; he wrote.</content>
+        </sentence>
+        <sentence id="33">
+          <content>&amp;quot;It would need 1,000 magnitude-7.0 earthquakes to release as much strain energy as the magnitude 9.0.</content>
+        </sentence>
+        <sentence id="34">
+          <content>The fault rupture size is tens of kilometers, rather than hundreds of kilometers, and the fault displacement two to three meters rather than 20 to 30 meters.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="35">
+          <content>Serious damage could be limited, if it occurs offshore, he added.</content>
+        </sentence>
+        <sentence id="36">
+          <content>And the shallower the quake, such as within 10 kilometers of the surface, the more localized the damage.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

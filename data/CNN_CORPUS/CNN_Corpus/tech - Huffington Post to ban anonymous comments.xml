@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1610" link="http://www.cnn.com/2013/08/22/tech/web/huffington-post-anonymous-comments" date_published="2013-08-22 21:35:40" category="tech" author="Elizabeth Landers, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Huffington Post to ban anonymous comments</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">Huffington Post will require readers to identify themselves by name in comments sections.</sentence>
+      <sentence id="2" ids_article_sentences="9">Arianna Huffington: &amp;quot;Trolls have become more and more aggressive and uglier&amp;quot;.</sentence>
+      <sentence id="3" ids_article_sentences="13">The site&amp;apost;s new policy will be implemented next month.</sentence>
+      <sentence id="4" ids_article_sentences="21">Since its launch in 2005, the Huffington Post has garnered 260 million comments .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-20 14:21:59" annotation_time="52.506">
+      <sentence id="2" ids_highlights="1">The founder and editor-in-chief of the Huffington Post says that starting next month, she will require readers to identify themselves by name in the comments sections of her eponymous news site.</sentence>
+      <sentence id="9" ids_highlights="2">The Boston Globe, which covered Huffington&amp;apost;s speech, quoted her as saying that &amp;quot;trolls have become more and more aggressive and uglier.&amp;quot;</sentence>
+      <sentence id="13" ids_highlights="3">A Huffington Post spokesperson confirmed to CNN that the site&amp;apost;s new policy will be implemented next month.</sentence>
+      <sentence id="21" ids_highlights="4">Since its launch in 2005, the Huffington Post has garnered 260 million comments from its online community of readers, according to the spokesperson.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Arianna Huffington is fed up with the trolls.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The founder and editor-in-chief of the Huffington Post says that starting next month, she will require readers to identify themselves by name in the comments sections of her eponymous news site.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Huffington made the off-the-cuff comment in a Q&amp;amp;A session after a speech Wednesday to a crowd of 4,000 at a conference in Boston, according to spokeswoman Katie Burke of HubSpot, a marketing software company that hosts the conference.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>&amp;quot;Freedom of expression is given to people who stand up for what they&amp;apost;re saying and who are not hiding behind anonymity,&amp;quot; Huffington told the audience.</content>
+        </sentence>
+        <sentence id="5">
+          <content>&amp;quot;Maintaining a civil environment for real conversation and community has always been key to the Huffington Post.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;From day one, our comments were pre-moderated, and we invested in the most advanced moderation technology along with human moderators,&amp;quot; she said.</content>
+        </sentence>
+        <sentence id="7">
+          <content>&amp;quot;Now we want to go a step further to evolve our platform -- which has always been about community and engagement -- to meet the needs of the grown-up Internet.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>In other words, the Internet &amp;quot;trolls,&amp;quot; or nasty anonymous commenters, have gotten worse.</content>
+        </sentence>
+        <sentence id="9">
+          <content>The Boston Globe, which covered Huffington&amp;apost;s speech, quoted her as saying that &amp;quot;trolls have become more and more aggressive and uglier.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>Websites have long grappled with how to police users who hijack comment threads with posts that range from snarky to untruthful to downright vicious, their animosity protected by anonymity.</content>
+        </sentence>
+        <sentence id="11">
+          <content>Sites like JuicyCampus and CollegeACB got the ax after existing for several years as hosts for anonymous gossip.</content>
+        </sentence>
+        <sentence id="12">
+          <content>In recent years the problem has taken tragic turns, as cyberbullying on social media and other platforms has been blamed for several suicides.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>A Huffington Post spokesperson confirmed to CNN that the site&amp;apost;s new policy will be implemented next month.</content>
+        </sentence>
+        <sentence id="14">
+          <content>The spokesperson would not elaborate on specifics of the plan other than to say, &amp;quot;Our engineers are working on the exact implementation plan and we will share that as soon as it is finalized.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="15">
+          <content>Many news sites have moderating systems that remove offensive comments, and some sites have sought to make commenters more accountable by requiring them to register via an account on Facebook or other social platform.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="16">
+          <content>CNN requires people to create accounts to participate in discussions on CNN.com, but it&amp;apost;s not a foolproof system, says David E. Williams, community manager for CNN Digital.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;We think it&amp;apost;s really important to listen to the conversations our stories start on CNN.</content>
+        </sentence>
+        <sentence id="18">
+          <content>There are a lot of smart people in our audience with unique perspectives, so their comments can be a valuable resource,&amp;quot; Williams said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;Trolls are pretty unpleasant, but the bigger problem is that they make it harder to find and surface interesting conversations,&amp;quot; he added.</content>
+        </sentence>
+        <sentence id="20">
+          <content>&amp;quot;We are always looking for ways to improve the quality of the conversations on our sites.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="21">
+          <content>Since its launch in 2005, the Huffington Post has garnered 260 million comments from its online community of readers, according to the spokesperson.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="22">
+          <content>The site&amp;apost;s current comment policy is clearly stated online, with guidelines for users that include &amp;quot;Be yourself, only yourself, and just one of yourself&amp;quot; as well as &amp;quot;If your comments consistently or intentionally make this community a less civil and enjoyable place to be, you and your comments will be excluded from it.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="23">
+          <content>Huffington&amp;apost;s decision to prohibit anonymous comments is better than banning all comments, said Sarah Sobieraj, a media expert and sociology professor at Tufts University in suburban Boston.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="24">
+          <content>&amp;quot;It&amp;apost;s valuable that she is not shutting down comments altogether, though it&amp;apost;s sort of a Pandora&amp;apost;s box,&amp;quot; said Sobieraj, who believes that people who really want to post offensive messages will still find a way to do that make other efforts to post their opinions.</content>
+        </sentence>
+        <sentence id="25">
+          <content>In the digital age it&amp;apost;s not difficult to create a pseudonym tied to a secondary e-mail address.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="26">
+          <content>&amp;quot;The ability to speak anonymously online is not just for trolls,&amp;quot; Sobieraj added.</content>
+        </sentence>
+        <sentence id="27">
+          <content>Many people turn to the anonymity of the Internet for meaningful dialogue about sensitive topics, such as politics or impropriety in the workplace, that prove difficult to discuss face to face, she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="28">
+          <content>Huffington&amp;apost;s views on news-site commenters seem a little less charitable than they were in 2010, when she told CNN, &amp;quot;As a writer, I love the instant feedback.</content>
+        </sentence>
+        <sentence id="29">
+          <content>It makes the site a two-way experience.</content>
+        </sentence>
+        <sentence id="30">
+          <content>People no longer want to just passively sit back and be served up information.</content>
+        </sentence>
+        <sentence id="31">
+          <content>We now engage with news, react to news, and share news.</content>
+        </sentence>
+        <sentence id="32">
+          <content>News has become something around which we gather, connect, and converse.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="33">
+          <content>So what do you think about Huffington&amp;apost;s efforts to rein in abusive commenters?</content>
+        </sentence>
+        <sentence id="34">
+          <content>Let us know below -- how meta!</content>
+        </sentence>
+        <sentence id="35">
+          <content>-- in the comments.</content>
+        </sentence>
+        <sentence id="36">
+          <content>And be nice.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

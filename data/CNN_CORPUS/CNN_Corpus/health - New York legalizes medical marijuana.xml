@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="336" link="http://www.cnn.com/2014/07/07/health/new-york-medical-marijuana/index.html" category="health" author="Lorenzo Ferrigno and Haimy Assefa, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>New York legalizes medical marijuana</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">Gov. Andrew Cuomo signs a bill that allows medical marijuana use in nonsmokable form.</sentence>
+      <sentence id="2" ids_article_sentences="3">The state legislature passed the bill in June.</sentence>
+      <sentence id="3" ids_article_sentences="2">Under the bill, a doctor can prescribe marijuana to patients with serious conditions.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-09-08 13:41:32" annotation_time="32.886">
+      <sentence id="2" ids_highlights="1, 3">At a news conference in New York City, Gov. Andrew Cuomo signed the Compassionate Care Act, which allows doctors to prescribe marijuana in a nonsmokable form to patients with serious ailments that are recognized by the state on a predefined but flexible list of conditions.</sentence>
+      <sentence id="3" ids_highlights="2">The bill was passed by the State Assembly and Senate in June, said Jason Elan, a spokesman for Sen. Diane Savino, a sponsor of the bill.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>(CNN)New York became the latest state to permit the use of medical marijuana on Monday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>At a news conference in New York City, Gov. Andrew Cuomo signed the Compassionate Care Act, which allows doctors to prescribe marijuana in a nonsmokable form to patients with serious ailments that are recognized by the state on a predefined but flexible list of conditions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The bill was passed by the State Assembly and Senate in June, said Jason Elan, a spokesman for Sen. Diane Savino, a sponsor of the bill.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>Cuomo said Monday that it was difficult to develop and pass the bill because it needed to embrace increased medical acceptance of marijuana while rejecting situations and conditions that state legislators said could have &amp;quot;good intent and bad results.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>&amp;quot;There is no doubt that medical marijuana can help people,&amp;quot; Cuomo said Monday.</content>
+        </sentence>
+        <sentence id="6">
+          <content>&amp;quot;We are here to help people.</content>
+        </sentence>
+        <sentence id="7">
+          <content>And if there is a medical advancement, then we want to make sure that we&amp;apost;re bringing it to New Yorkers.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>Senate Co-Leader Jeffrey D. Klein said the &amp;quot;patient-centric program&amp;quot; will provide relief to thousands of people and will be &amp;quot;one of the safest, most tightly regulated medical marijuana programs in the country.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>The legalization of medical marijuana has had &amp;quot;overwhelming support&amp;quot; in state polls, State Assembly Speaker Sheldon Silver has said in a statement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>Cuomo has said the act included criminal penalties in case a person tries to defraud the system, as well as a &amp;quot;fail safe&amp;quot; mechanism allowing the governor to &amp;quot;suspend the program at any time on recommendation of either the State Police Superintendent or the Commissioner of Health if there is a risk to the public health or public safety.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>New York will be the 23rd state, along with the District of Columbia, to allow medical marijuana in some form, according to information compiled by the National Conference of State Legislatures.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>Among the states that allow medical marijuana are Connecticut, Vermont and New Jersey, each of which borders New York.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="13">
+          <content>The momentum has picked up recently, with most of these efforts taking effect over the past decade.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="14">
+          <content>A proponent of the measure, Missy Miller of Long Island, said she considered moving to California to gain access to a special strain of marijuana called Charlotte&amp;apost;s Web oil, a derivative that may help cease her son Oliver&amp;apost;s seizures.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="15">
+          <content>Oliver, 14, suffered a stroke in utero that resulted in a brain stem injury.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Among several other life-threatening consequences are seizures, sometimes more than a dozen a day.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;I am extremely relieved and proud to have been a part of helping bring necessary change that so many of us need,&amp;quot; Miller said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="18">
+          <content>But &amp;quot;I am quite concerned about the 18-month implementation, though, because Oliver does not have that time to wait.</content>
+        </sentence>
+        <sentence id="19">
+          <content>I am hopeful that some kind of expedited access plan can be worked out to help those with urgent need like Oliver.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="20">
+          <content>Opponents of the measure have said it was driven by politics.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="21">
+          <content>&amp;quot;I think serious questions can be raised about using a political vehicle to achieve the use of a prescribable medication in America,&amp;quot; William Foster, president of the National Council on Alcoholism and Drug Dependency, told CNN when the plan was unveiled in January.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1912" link="http://www.cnn.com/2013/12/30/us/california-shark-or-dolphin-photobomb/index.html" date_published="2013-12-30 20:19:46" category="us" author="Alan Duke, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Experts debate beach photobomber: Shark or dolphin?</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="8">It&amp;apost;s &amp;quot;a juvenile great white shark about 10 to 12 feet long,&amp;quot; expert Jeff Kurr says.</sentence>
+      <sentence id="2" ids_article_sentences="7">&amp;quot;The tail is flat,&amp;quot; like a dolphin -- not a shark, expert David Shiffman says.</sentence>
+      <sentence id="3" ids_article_sentences="11">June Emerson snapped the photo of her son and friends playing in the surf.</sentence>
+      <sentence id="4" ids_article_sentences="14">Great white sharks are no danger to southern California swimmers, expert says.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-17 08:40:12" annotation_time="46.9105">
+      <sentence id="7" ids_highlights="2">Shiffman, a recognized shark expert, noted in a Facebook posting that &amp;quot;the tail is flat,&amp;quot; like a dolphin, and unlike a shark.</sentence>
+      <sentence id="8" ids_highlights="1">But in an interview with CNN, Kurr concluded it was &amp;quot;a juvenile great white shark about 10 to 12 feet long.&amp;quot;</sentence>
+      <sentence id="11" ids_highlights="3">Emerson told CNN that it wasn&amp;apost;t until on the way home from the beach that her son spotted the creature in one of the photos she took that afternoon.</sentence>
+      <sentence id="14" ids_highlights="4">There are plenty of great white sharks in the southern California surf, but they pose no danger to beachgoers, according to Randy Hamilton, a shark expert with California&amp;apost;s Monterey Bay Aquarium.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Los Angeles A shadowy figure in a wave near children swimming at a southern California beach has experts disagreeing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Discovery Channel shark expert Jeff Kurr calls it a great white shark, but shark expert David Shiffman believes it was a dolphin.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The beast was caught on camera lurking near June Emerson&amp;apost;s 12-year-old son and three young friends as they played in the Manhattan Beach surf Friday afternoon.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>The difference in the experts&amp;apost; opinions centers on how they view the tail.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>&amp;quot;This is not a #shark photobombing kids.</content>
+        </sentence>
+        <sentence id="6">
+          <content>This is a dolphin,&amp;quot; Shiffman tweeted Monday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>Shiffman, a recognized shark expert, noted in a Facebook posting that &amp;quot;the tail is flat,&amp;quot; like a dolphin, and unlike a shark.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>But in an interview with CNN, Kurr concluded it was &amp;quot;a juvenile great white shark about 10 to 12 feet long.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>&amp;quot;I would say based on the shape of the dorsal fin, which is more straight, that shows me it&amp;apost;s a great white shark,&amp;quot; Kurr said.</content>
+        </sentence>
+        <sentence id="10">
+          <content>&amp;quot;Plus, the fact that that particular beach has become the epicenter for white shark activity, I would say it&amp;apost;s definitely a white shark.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>Emerson told CNN that it wasn&amp;apost;t until on the way home from the beach that her son spotted the creature in one of the photos she took that afternoon.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>She remembers seeing dolphins in the water, but no sharks.</content>
+        </sentence>
+        <sentence id="13">
+          <content>Emerson told her son that it was a dolphin so as not to scare him away from the beach where they often swim.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>There are plenty of great white sharks in the southern California surf, but they pose no danger to beachgoers, according to Randy Hamilton, a shark expert with California&amp;apost;s Monterey Bay Aquarium.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>&amp;quot;I just go back to the last 50 years on how many great white sharks have actually caused a death in southern California,&amp;quot; Hamilton said.</content>
+        </sentence>
+        <sentence id="16">
+          <content>&amp;quot;I only know of one incident where someone got a nip on the foot.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="17">
+          <content>The great whites around southern California are juveniles, also known as &amp;quot;young of the year.&amp;quot;</content>
+        </sentence>
+        <sentence id="18">
+          <content>At less than 18 months old, they only eat fish, Hamilton said.</content>
+        </sentence>
+        <sentence id="19">
+          <content>When the sharks approach adulthood, they relocate to the cooler waters near San Francisco where they change their diets to mammals -- sea lions and seals, he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

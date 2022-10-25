@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2271" link="http://edition.cnn.com/2014/01/14/world/asia/china-doctor-baby-stealing-sentence" date_published="2014-01-14 05:52:45" category="world" author="Katie Hunt and Feng Ke, CNN" highlights_mapped="true" mapping_error="false">
+  <title>In China, doctor in baby selling case given suspended death sentence</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">A Chinese obstetrician has been sentenced to death with a two-year reprieve.</sentence>
+      <sentence id="2" ids_article_sentences="2">Zhang Shuxia was convicted of trafficking seven babies between 2011 and 2013.</sentence>
+      <sentence id="3" ids_article_sentences="3">She told her patients they should give up their newborns because they were sick.</sentence>
+      <sentence id="4" ids_article_sentences="8">She sold them to traffickers for around $2,500 to $3,500 each.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-09 14:21:19" annotation_time="39.103">
+      <sentence id="1" ids_highlights="1">A Chinese obstetrician convicted of selling babies after telling their parents they were sick has been given a suspended death sentence, China&amp;apost;s Xinhua news agency reported Tuesday.</sentence>
+      <sentence id="2" ids_highlights="2">Zhang Shuxia, a maternity doctor at a hospital in Shaanxi province, in central China, sold seven babies to a trafficking ring in six separate cases from November 2011 to July 2013, according to statements posted on the official microblog account of the local court.</sentence>
+      <sentence id="3" ids_highlights="3">She persuaded her patients that their newborns were sick and they should give them up, according to the Weinan Intermediate People&amp;apost;s Court.</sentence>
+      <sentence id="8" ids_highlights="4">The court heard that Zhang sold the baby the same night for $3,500 to an individual identified as Pan in neighboring Shanxi province.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>A Chinese obstetrician convicted of selling babies after telling their parents they were sick has been given a suspended death sentence, China&amp;apost;s Xinhua news agency reported Tuesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Zhang Shuxia, a maternity doctor at a hospital in Shaanxi province, in central China, sold seven babies to a trafficking ring in six separate cases from November 2011 to July 2013, according to statements posted on the official microblog account of the local court.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>She persuaded her patients that their newborns were sick and they should give them up, according to the Weinan Intermediate People&amp;apost;s Court.</content>
+        </sentence>
+        <sentence id="4">
+          <content>One baby died after being sold.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Xinhua said the death penalty had a two-year reprieve, which typically means her sentence is likely to be life imprisonment if she doesn&amp;apost;t commit any crimes during that period.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>The ring was exposed in July when a mother surnamed Dong told police she suspected her baby had been abducted after Zhang told her that her child had a congenital disease, Xinhua reported when Zhang went on trial in December.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;The doctor told me that my son could not go to school and might endanger society as his mother was infected with syphilis and hepatitis,&amp;quot; Xinhua quoted the father as saying.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>The court heard that Zhang sold the baby the same night for $3,500 to an individual identified as Pan in neighboring Shanxi province.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Pan sold the baby onto a villager in Henan province for 59,800 yuan ($9,900.).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>The baby was found and returned to his parents on August 5.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>Twin baby girls, which Zhang sold for 30,000 yuan ($5,000) in May 2013, were reunited their parents in August after their mother Wang Yanyan filed a complaint.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>Zhang told her the twins had serious health issues and would be brain damaged or paralyzed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="13">
+          <content>&amp;quot;I never suspected that she was selling my babies, because she was a family friend,&amp;quot; Wang told CNN in August.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="14">
+          <content>Nine suspects were detained including Zhang, who pleaded guilty and expressed remorse in court.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="15">
+          <content>&amp;quot;I am deeply sorry for the pain I have brought to those families and beg for forgiveness,&amp;quot; said Zhang.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="16">
+          <content>The court said in a statement it believed Zhang should receive a severe penalty: &amp;quot;Her actions violated professional ethics and social morals.</content>
+        </sentence>
+        <sentence id="17">
+          <content>Although she partly admits her guilt, her case is considered serious.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="18">
+          <content>The court did not say whether Zhang would appeal.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1976" link="http://www.cnn.com/2014/07/02/us/nsa-program-privacy-report/index.html" date_published="2014-07-02 15:30:45" category="us" author="Evan Perez, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Report: Potential for abuses in NSA collection program</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="14">NEW: Privacy rights advocate says review board &amp;quot;failed to fulfill its responsibility here&amp;quot;.</sentence>
+      <sentence id="2" ids_article_sentences="2">Report: NSA&amp;apost;s Section 702 program is still lawful, &amp;quot;valuable and effective&amp;quot;.</sentence>
+      <sentence id="3" ids_article_sentences="3">However, &amp;quot;aspects of the program&amp;apost;s implementation raise privacy concerns,&amp;quot; report says.</sentence>
+      <sentence id="4" ids_article_sentences="8">Report: People not involved in communications could be exposed to abuses.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-08 14:24:30" annotation_time="26.656334">
+      <sentence id="2" ids_highlights="2">The NSA&amp;apost;s Section 702 program is still lawful, &amp;quot;valuable and effective&amp;quot; in protecting national security, according to the Privacy and Civil Liberties Oversight Board (PDF), which noted that &amp;quot;no evidence of intentional abuse&amp;quot; was found in the program.</sentence>
+      <sentence id="3" ids_highlights="3">However, &amp;quot;certain aspects of the program&amp;apost;s implementation raise privacy concerns,&amp;quot; according to the report.</sentence>
+      <sentence id="8" ids_highlights="4">The board expressed concern over the use of &amp;quot;about&amp;quot; collections -- those that lead to a person who may not be involved to a suspect communication -- &amp;quot;and the use of queries to search for the communications of specific U.S. persons within the information that has been collected.&amp;quot;</sentence>
+      <sentence id="14" ids_highlights="1">Elizabeth Goitein of the Brennan Center for Justice at the New York University School of Law said the board &amp;quot;has failed to fulfill its responsibility here, which is to ensure that counterterrorism policies safeguard privacy and civil liberties.&amp;quot;</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Washington A National Security Agency program for collecting phone and Internet communications of suspected security targets outside the United States has the potential to infringe on the privacy rights of U.S. citizens, according to a report released Wednesday by an independent government review board.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The NSA&amp;apost;s Section 702 program is still lawful, &amp;quot;valuable and effective&amp;quot; in protecting national security, according to the Privacy and Civil Liberties Oversight Board (PDF), which noted that &amp;quot;no evidence of intentional abuse&amp;quot; was found in the program.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>However, &amp;quot;certain aspects of the program&amp;apost;s implementation raise privacy concerns,&amp;quot; according to the report.</content>
+        </sentence>
+        <sentence id="4">
+          <content>The large scope of that collection of Americans&amp;apost; information that is supposed to be off-limits -- and uncertainty about the amount of information being gathered -- &amp;quot;push the program close to the line of constitutional reasonableness.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Despite procedures to minimize collection of domestic and Americans&amp;apost; communications at home and abroad, the government doesn&amp;apost;t know precisely how much data and content of Americans&amp;apost; communications is being collected, the report says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>The Section 702 program is derived from a section of the Foreign Intelligence Surveillance Act that was amended in 2008 and gave the attorney general and the director of national intelligence the authority to authorize &amp;quot;surveillance conducted within the United States but targeting only non-U.S. persons reasonably believed to be located outside the United States.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>Even though the 702 program isn&amp;apost;t aimed at collecting domestic communications or those of Americans abroad, &amp;quot;incidental&amp;quot; collection of such data does occur, according to the report.</content>
+        </sentence>
+        <sentence id="8">
+          <content>The board expressed concern over the use of &amp;quot;about&amp;quot; collections -- those that lead to a person who may not be involved to a suspect communication -- &amp;quot;and the use of queries to search for the communications of specific U.S. persons within the information that has been collected.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>Among the board&amp;apost;s conclusions was an affirmation that the &amp;quot;core&amp;quot; of the 702 program -- that is, narrowly defining those subjects targeted as non-U.S. citizens living abroad and submitting to Foreign Intelligence Surveillance Act court rules and oversight -- &amp;quot;fits within the &amp;apost;totality of the circumstances&amp;apost; standard for reasonableness under the Fourth Amendment, as that standard has been defined by the courts to date.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>The report lists 10 recommendations for strengthening privacy protections, such as revising the criteria for selecting targets for intelligence-gathering, limiting FBI use of Section 702 data, using more advanced &amp;quot;upstream&amp;quot; filtering technology to protect communications that are off-limits and requiring the government to supply random samples of targeting decisions to the Foreign Intelligence Surveillance Act court when reapplying for certification of the Section 702 program.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>The nation&amp;apost;s top intelligence official praised the report, but civil liberty advocates said the board failed to make effective proposals to protect privacy rights.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>Director of National Intelligence James Clapper said in a statement that the report &amp;quot;confirms that Section 702 has shown its value in preventing acts of terrorism at home and abroad, and pursuing other foreign intelligence goals.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="13">
+          <content>&amp;quot;We take very seriously the board&amp;apost;s concerns regarding privacy and civil liberties, and we will review the board&amp;apost;s recommendations with care.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="14">
+          <content>Elizabeth Goitein of the Brennan Center for Justice at the New York University School of Law said the board &amp;quot;has failed to fulfill its responsibility here, which is to ensure that counterterrorism policies safeguard privacy and civil liberties.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="15">
+          <content>&amp;quot;The collection of Americans&amp;apost; phone calls and e-mails without a warrant is unconstitutional,&amp;quot; Goitein said, &amp;quot;regardless of whether they are communicating with their next-door neighbor or a suspected terrorist overseas.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;The Board made a critical point that has often been overlooked in the NSA debate: that privacy is a human right protected under international law,&amp;quot; said Faiza Patel, also with the Brennan Center.</content>
+        </sentence>
+        <sentence id="17">
+          <content>She added that the issue &amp;quot;is much larger than simply the implementation of the directive and the Board should take it on directly and expeditiously.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;We urge Congress to recognize the gaps and shortcomings in the Board&amp;apost;s recommendations,&amp;quot; Patel said, &amp;quot;and provide a more meaningful level of privacy protection for Americans and foreigners alike.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="19">
+          <content>The independent panel began reviewing NSA surveillance at the requests of Congress and President Barack Obama last year.</content>
+        </sentence>
+        <sentence id="20">
+          <content>The requests stemmed from media reports on two NSA programs that were based on the unauthorized disclosure of classified documents by former NSA contractor Edward Snowden.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="21">
+          <content>The first report, released in January, centered on the program implemented under Section 215 of the Patriot Act (PDF), in which domestic telephone metadata (i.e., call records) are collected in bulk.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

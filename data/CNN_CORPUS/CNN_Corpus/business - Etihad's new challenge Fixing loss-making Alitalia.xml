@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="48" link="http://www.cnn.com/2014/06/25/business/defterios-alitalia/index.html" date_published="2014-06-25 16:26:46" category="business" author="John Defterios, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Etihad&amp;apost;s new challenge: Fixing loss-making Alitalia</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Abu Dhabi carrier Etihad agreed to a 49% stake in Italian loss-making airline Alitalia.</sentence>
+      <sentence id="2" ids_article_sentences="5">It is the biggest foreign stake of a European carrier, taking it to the limit set by EU.</sentence>
+      <sentence id="3" ids_article_sentences="12">Italian officials have indicated that Alitalia is losing about $1.6 million a day.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-21 22:34:16" annotation_time="27.157003">
+      <sentence id="1" ids_highlights="1">Fast growing Abu Dhabi carrier Etihad is spreading its wings again by agreeing to a 49% stake in Italian loss-making airline Alitalia.</sentence>
+      <sentence id="5" ids_highlights="2">This represents the biggest foreign stake of a European carrier, taking it to the 49% limit set by European Commission.</sentence>
+      <sentence id="12" ids_highlights="3">Italian officials have indicated that Alitalia is losing about $1.6 million a day, well over a half billion dollars a year.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Fast growing Abu Dhabi carrier Etihad is spreading its wings again by agreeing to a 49% stake in Italian loss-making airline Alitalia.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The two parties put out a brief, joint statement which said they agreed to &amp;quot;principal terms,&amp;quot; although the financial details were not disclosed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>When the Alitalia board gave a green light to the offer on June 15, Italy&amp;apost;s Transport Minister Maurizio Lupi said that Etihad would make an upfront investment of $760 million and would commit to another $700 million by 2018.</content>
+        </sentence>
+        <sentence id="4">
+          <content>There are reports this could be even higher.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>This represents the biggest foreign stake of a European carrier, taking it to the 49% limit set by European Commission.</content>
+        </sentence>
+        <sentence id="6">
+          <content>Etihad becomes the biggest shareholder.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>Etihad is expected to cut up to 2,200 jobs as part of the agreement.</content>
+        </sentence>
+        <sentence id="8">
+          <content>The company also want to ensure Etihad will not carry an unfair burden of Alitalia&amp;apost;s $1.3 billion in debt.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>Alitalia&amp;apost;s unionized staff have resisted deep cuts over the past decade even though losses continued to mount for the flag carrier.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>The Italian government along with two major banks, Intesa Saopaolo and UniCredit, stepped in with a $680 million recapitalization in 2013.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>This reduced the stake of Air France-KLM, which had no desire to pump more money into the operation, to 7%.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>Italian officials have indicated that Alitalia is losing about $1.6 million a day, well over a half billion dollars a year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>In April, Italy&amp;apost;s Finance Minister Pier Carlo Padoan told me it was important for the government of Prime Minister Matteo Renzi to consummate this transaction as a signal the country is open for business.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>This deal represents the latest move by the Abu Dhabi carrier and its CEO James Hogan to build its network to more than 400 destinations.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>It has taken positions in seven carriers including Air Berlin, Air Serbia and Aer Lingus in Europe.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="16">
+          <content>It has also looked East, with stakes in stakes in Jet Airways of India and Virgin Australia.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="17">
+          <content>Etihad would not comment beyond its joint-statement, but Hogan spelled out his strategy during our interview at the Dubai Air Show last November.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;Having that network offering is key.</content>
+        </sentence>
+        <sentence id="19">
+          <content>But why do we all have to duplicate our overhead?&amp;quot;</content>
+        </sentence>
+        <sentence id="20">
+          <content>Hogan said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="21">
+          <content>He pointed to the need for &amp;quot;centers of excellence&amp;quot; with the &amp;quot;lowest unit cost, whether it&amp;apost;s reservations, whether it&amp;apost;s part of training.</content>
+        </sentence>
+        <sentence id="22">
+          <content>Cost reduction is as important as exceeding customer expectation.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="23">
+          <content>The challenge for Hogan is proving his team can turn around loss-makers like Air Berlin and Alitalia, while also picking up passengers for Etihad.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

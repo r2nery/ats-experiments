@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2038" link="http://www.cnn.com/2014/09/16/world/europe/europe-migrant-deaths/index.html?hpt=wo_c2" date_published="2014-09-16 13:41:31" category="world" author="Laura Smith-Spark, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>500 migrants feared dead in Mediterranean boat sinking</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="6, 1">Survivors of a migrant boat shipwreck say the vessel was deliberately sunk by people smugglers.</sentence>
+      <sentence id="2" ids_article_sentences="1">The International Organization for Migration is investigating the sinking in the Mediterranean.</sentence>
+      <sentence id="3" ids_article_sentences="2">Survivors say the traffickers became enraged and rammed the boat after they disobeyed them.</sentence>
+      <sentence id="4" ids_article_sentences="14">The IOM believes as many as 100 children may have been on board the boat.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-02 10:43:40" annotation_time="58.409664" mapping_time_divergence="14.602416">
+      <sentence id="1" ids_highlights="1, 2">Witnesses say as many as 500 migrants died in the Mediterranean Sea when their boat was intentionally sunk by people traffickers, the International Organization for Migration said Tuesday.</sentence>
+      <sentence id="2" ids_highlights="3">Two survivors interviewed by the IOM and Italian police in Sicily said the traffickers became enraged and rammed the overcrowded boat after the migrants refused to move to a smaller vessel.</sentence>
+      <sentence id="6" ids_highlights="1">They said the people smugglers, who they said were Palestinians and Egyptians, had begun yelling and throwing sticks at the migrants after they refused to leave the boat before then ramming the vessel.</sentence>
+      <sentence id="14" ids_highlights="4">Based on their testimony, the IOM believes as many as 100 children may have been on board.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Witnesses say as many as 500 migrants died in the Mediterranean Sea when their boat was intentionally sunk by people traffickers, the International Organization for Migration said Tuesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Two survivors interviewed by the IOM and Italian police in Sicily said the traffickers became enraged and rammed the overcrowded boat after the migrants refused to move to a smaller vessel.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The survivors -- both Palestinian men from Gaza who were rescued separately after days in the water clinging to flotation aids -- said they had first left the port of Damietta in Egypt on September 6, with some 500 men, women and children from the Middle East and Africa aboard.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>The migrants were forced to change vessel three times during four days at sea but refused a final move when the traffickers tried to make them move to a boat they believed not to be seaworthy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>The Palestinians&amp;apost; account was corroborated by several other survivors who were interviewed on the Greek island of Crete, the IOM said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>They said the people smugglers, who they said were Palestinians and Egyptians, had begun yelling and throwing sticks at the migrants after they refused to leave the boat before then ramming the vessel.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;After they hit our boat they waited to make sure that it had sunk completely before leaving.</content>
+        </sentence>
+        <sentence id="8">
+          <content>They were laughing,&amp;quot; said one.</content>
+        </sentence>
+        <sentence id="9">
+          <content>&amp;quot;When the boat was first struck, one of the passengers killed himself in despair by hanging,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>IOM: Many children among dead.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>By Tuesday morning, authorities in Italy, Malta and Greece confirmed the rescue of 10 migrants from the lost vessel, the IOM said.</content>
+        </sentence>
+        <sentence id="12">
+          <content>Three bodies have also been found.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>Those on the boat included Syrians, Palestinians, Egyptians and Sudanese, as well as Palestinians, the witnesses said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>Based on their testimony, the IOM believes as many as 100 children may have been on board.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>&amp;apost;&amp;quot;If survivors&amp;apost; reports are confirmed, this will be the worst shipwreck of migrants in years, not an accidental tragedy, but the apparent deliberate drowning of migrants by criminal gangs who extort money for their desperate journeys,&amp;quot; said IOM spokesperson Leonard Doyle.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;Their actions are as callous as they are evil.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;apost;Shocking and unacceptable&amp;apost;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="18">
+          <content>According to the IOM, the latest reported sinking would take the death toll off Europe&amp;apost;s shores this year to nearly 3,000.</content>
+        </sentence>
+        <sentence id="19">
+          <content>In 2013, the organization&amp;apost;s Missing Migrants Project estimated the total for the year to be 700 deaths.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="20">
+          <content>&amp;quot;The numbers dying off Europe&amp;apost;s coasts are shocking and unacceptable,&amp;quot; said IOM director general William Lacy Swing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="21">
+          <content>&amp;quot;These are women, children and men who only hope for a more dignified life.</content>
+        </sentence>
+        <sentence id="22">
+          <content>The risks they take reflect their desperation and we cannot keep abandoning them to their fate.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="23">
+          <content>Authorities are also investigating reports that 200 more people are missing off Libya and that another 15 drowned off the coast of Egypt, the IOM said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="24">
+          <content>Each year, tens of thousands of people are rescued from the Mediterranean, according to the European Union border agency, Frontex.</content>
+        </sentence>
+        <sentence id="25">
+          <content>The United Nations has expressed dismay over the rising number of migrants dying at sea.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

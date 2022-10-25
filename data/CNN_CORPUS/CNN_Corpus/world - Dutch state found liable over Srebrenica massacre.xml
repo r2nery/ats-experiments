@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2164" link="http://edition.cnn.com/2014/07/16/world/europe/netherlands-srebrenica-ruling/index.html?hpt=hp_t2" date_published="2014-07-16 10:58:37" category="world" author="Laura Smith-Spark, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Dutch state found liable over Srebrenica massacre</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Court finds the Dutch state liable in the deaths of more than 300 Bosnian Muslim men.</sentence>
+      <sentence id="2" ids_article_sentences="2">It says Dutch peacekeepers should not have let the men be taken away by Bosnian Serbs.</sentence>
+      <sentence id="3" ids_article_sentences="3">The Mothers of Srebrenica group brought the case against the Dutch state.</sentence>
+      <sentence id="4" ids_article_sentences="3">Nearly 8,000 Muslim men and boys were massacred in Srebrenica in 1995.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-05 14:12:42" annotation_time="51.86733" mapping_time_divergence="12.966832">
+      <sentence id="1" ids_highlights="1">The Netherlands is liable for the deaths of more than 300 men who were taken from a Dutch compound in the Bosnian town of Srebrenica in July 1995, during the Bosnian war, a Dutch court ruled Wednesday.</sentence>
+      <sentence id="2" ids_highlights="2">The Dutch peacekeepers failed to protect the men -- most of whom were killed after they were taken away by Bosnian Serb forces -- and the state should compensate the families of the men for their loss, the District Court in The Hague said.</sentence>
+      <sentence id="3" ids_highlights="3, 4">The civil case against the Dutch state was brought by the Mothers of Srebrenica group in connection with the massacre of nearly 8,000 Muslim men and boys in Srebrenica, one of the worst atrocities of the Balkans conflict.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The Netherlands is liable for the deaths of more than 300 men who were taken from a Dutch compound in the Bosnian town of Srebrenica in July 1995, during the Bosnian war, a Dutch court ruled Wednesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The Dutch peacekeepers failed to protect the men -- most of whom were killed after they were taken away by Bosnian Serb forces -- and the state should compensate the families of the men for their loss, the District Court in The Hague said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The civil case against the Dutch state was brought by the Mothers of Srebrenica group in connection with the massacre of nearly 8,000 Muslim men and boys in Srebrenica, one of the worst atrocities of the Balkans conflict.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>The Bosnian Muslims had sought refuge in the compound of the Dutch peacekeeping force, known as Dutchbat, when the Bosnian Serb forces overran the town.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>But the peacekeepers, who were under the command of a U.N. Protection Force deployed after the collapse of the former Yugoslavia, allowed them to be taken away by the Bosnian Serbs.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;Given the information Dutchbat had about the fate of the male refugees at the time and because of the special position of the compound -- a fenced-in area where they had full control -- they should not have participated in the deportation of the more than 300 men,&amp;quot; a court news release on the ruling said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;The Court considers that at the end of the afternoon of 13 July 1995, Dutchbat should have taken into account the possibility that these men would be the victim of genocide and that it can be said with sufficient certainty that, had Dutchbat allowed them to stay at the compound, these men would have remained alive.</content>
+        </sentence>
+        <sentence id="8">
+          <content>By cooperating in the deportation of these men, Dutchbat acted unlawfully.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>The court ruled that the Dutch state should compensate the wives and children of the adult men who were killed and the parents of the boys who died.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="10">
+          <content>However, the Dutch state was not found liable on all the counts put forward by the Mothers of Srebrenica.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="11">
+          <content>It cannot be held liable for the deaths of thousands more men who were killed after they fled to woods near the Dutchbat compound, the court said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="12">
+          <content>The state also was not found liable for the actions of the Dutchbat peacekeepers before the fall of Srebrenica, nor for the failure of air support to materialize and the force&amp;apost;s failure to recapture the Muslim enclave from the Bosnian Serb forces.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="13">
+          <content>The United Nations had designated Srebrenica a &amp;quot;safe area&amp;quot; for Bosnian Muslims, known as Bosniaks, as the Bosnian Serb forces carried out a campaign of ethnic cleansing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="14">
+          <content>The massacre there, which the U.N. peacekeepers failed to prevent, was the worst in Europe since the end of World War II.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="15">
+          <content>Last September, the Supreme Court of the Netherlands ruled in a separate case that the Dutch state was liable for the deaths of three Bosnian Muslims who were sent away from the Dutchbat compound outside Srebrenica and subsequently killed by the Bosnian Serb army and allied paramilitary groups.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="16">
+          <content>Meanwhile, the trial of former Bosnian Serb leader Radovan Karadzic and former Bosnian Serb army chief Ratko Mladic continues at the International Criminal Tribunal for the former Yugoslavia in The Hague.</content>
+        </sentence>
+        <sentence id="17">
+          <content>Both men are accused of genocide, crimes against humanity and war crimes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

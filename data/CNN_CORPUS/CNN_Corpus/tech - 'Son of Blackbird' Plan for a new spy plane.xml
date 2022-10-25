@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1556" link="http://edition.cnn.com/2013/11/05/tech/innovation/new-spy-plane/index.html" date_published="2013-11-05 17:08:15" category="tech" author="Brad Lendon, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>&amp;apost;Son of Blackbird&amp;apost;: Plan for a new spy plane</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="4">SR-72 could fly six times the speed of sound.</sentence>
+      <sentence id="2" ids_article_sentences="5">&amp;quot;Son of Blackbird&amp;quot; would be a drone, be able to launch missiles.</sentence>
+      <sentence id="3" ids_article_sentences="16">Aircraft could be operational by 2030, Lockheed Martin says.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-11 10:49:10" annotation_time="58.249664" mapping_time_divergence="19.416555">
+      <sentence id="4" ids_highlights="1">Now, Lockheed-Martin, the maker of the SR-71, says the &amp;quot;Son of the Blackbird,&amp;quot; the SR-72, is in the works, and it will be twice as fast as and way more lethal than its father.</sentence>
+      <sentence id="5" ids_highlights="2">That&amp;apost;s because the SR-72 will be designed to launch missiles, something the SR-71 didn&amp;apost;t do.</sentence>
+      <sentence id="16" ids_highlights="3">The full-scale SR-72 could be operational by 2030, according to Lockheed Martin.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>For a big chunk of the Cold War, the U.S. Air Force turned to the SR-71 Blackbird for many of its most important spy missions.</content>
+        </sentence>
+        <sentence id="2">
+          <content>The jet-black jet could fly at more than three times the speed of sound at altitudes of 85,000 feet, faster and higher than anything adversaries had to counter it.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>The last of the Blackbirds flew in 1999, and the U.S. military hasn&amp;apost;t had anything close since.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Now, Lockheed-Martin, the maker of the SR-71, says the &amp;quot;Son of the Blackbird,&amp;quot; the SR-72, is in the works, and it will be twice as fast as and way more lethal than its father.</content>
+        </sentence>
+        <sentence id="5">
+          <content>That&amp;apost;s because the SR-72 will be designed to launch missiles, something the SR-71 didn&amp;apost;t do.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;Even with the SR-71, at Mach 3, there was still time to notify that the plane was coming, but at Mach 6, there is no reaction time to hide a mobile target,&amp;quot; Brad Leland, Lockheed Martin&amp;apost;s program manager for hypersonics, told Aviation Week and Space Technology.</content>
+        </sentence>
+        <sentence id="7">
+          <content>The publication provided the first detailed look at the SR-72 plans last week.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;Hypersonic aircraft, coupled with hypersonic missiles, could penetrate denied airspace and strike at nearly any location across a continent in less than an hour,&amp;quot; Leland said in a news release.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>And, by the way, the SR-72 is envisioned as a drone, unlike the original Blackbird with its crew of two: a pilot and a reconnaissance officer to operate its radar jammers and spy gear.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;The SR-71 was developed using 20th-century technology.</content>
+        </sentence>
+        <sentence id="11">
+          <content>It was envisioned with slide rules and paper.</content>
+        </sentence>
+        <sentence id="12">
+          <content>It wasn&amp;apost;t managed by millions of lines of software code.</content>
+        </sentence>
+        <sentence id="13">
+          <content>And it wasn&amp;apost;t powered by computer chips.</content>
+        </sentence>
+        <sentence id="14">
+          <content>All that changes with the SR-72,&amp;quot; Lockheed Martin says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="15">
+          <content>A smaller-scale model of the SR-72 could begin testing in five years and be in the air in 10, Leland told Aviation Week.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="16">
+          <content>The full-scale SR-72 could be operational by 2030, according to Lockheed Martin.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="17">
+          <content>If it comes to fruition, one thing the SR-72 won&amp;apost;t be is stealthy.</content>
+        </sentence>
+        <sentence id="18">
+          <content>The design needed for the Mach 6 speed doesn&amp;apost;t allow for such construction, according to the Aviation Week report.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;Speed is the new stealth,&amp;quot; Aviation Week quoted Al Romig, engineering and advanced systems vice president at Lockheed Martin&amp;apost;s Skunk Works division, as saying.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="20">
+          <content>&amp;quot;Speed is the next aviation advancement to counter emerging threats in the next several decades.</content>
+        </sentence>
+        <sentence id="21">
+          <content>The technology would be a game-changer in theater, similar to how stealth is changing the battle space today,&amp;quot; Leland said in the statement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="22">
+          <content>Of course, none of this will fly without money, and that will probably be up to taxpayers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="23">
+          <content>&amp;quot;We have been continuing to invest company funds, and we are kind of at a point where the next steps would require large-scale testing, which would significantly increase the level of investment we&amp;apost;ve had to make to-date,&amp;quot; Leland told Aviation Week.</content>
+        </sentence>
+        <sentence id="24">
+          <content>&amp;quot;Between DARPA (the Defense Advanced Research Projects Agency) and the Air Force, it would be highly likely they&amp;apost;d have to fund the next steps.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

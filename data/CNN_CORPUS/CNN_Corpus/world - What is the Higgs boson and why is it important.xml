@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2958" link="http://edition.cnn.com/2011/12/13/world/europe/higgs-boson-q-and-a/index.html" date_published="2011-12-13 17:29:15" category="world" author="Nick Thompson, CNN" highlights_mapped="true" mapping_error="false">
+  <title>What is the Higgs boson and why is it important?</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Scientists say they&amp;apost;ve found new evidence the Higgs boson exists.</sentence>
+      <sentence id="2" ids_article_sentences="1">The so-called &amp;quot;God particle&amp;quot; is thought to be a building block of the universe.</sentence>
+      <sentence id="3" ids_article_sentences="23">The theoretical particle is key to understanding how universe works, experts say.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-26 19:17:42" annotation_time="27.020668">
+      <sentence id="1" ids_highlights="1, 2">Scientists say they have proven the existence of the Higgs boson -- a never-before-seen subatomic particle long thought to be a fundamental building block of the universe.</sentence>
+      <sentence id="23" ids_highlights="3">&amp;quot;Only now with the LHC [Large Hadron Collider] are we able to really tick that box off and say &amp;apost;This is how the universe works, or at least we think it does&amp;apost;.&amp;quot;</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Scientists say they have proven the existence of the Higgs boson -- a never-before-seen subatomic particle long thought to be a fundamental building block of the universe.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Since 2012 researchers have made great strides in the hunt for the so-called &amp;quot;God particle&amp;quot; at the Large Hadron Collider in Geneva, Switzerland, where scientists at the CERN particle physics laboratory are looking for particles that slip into existence when subatomic particles crash into one another at high energies.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Experts say finding the elusive particle would rank as one of the top scientific achievements of the past 50 years -- a view proved on Tuesday when Francois Englert and Peter Higgs, the two physicists who predicted almost 50 years ago that the particle existed, won the Nobel Prize in Physics.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>What is the Higgs boson?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>The Standard Model of particle physics lays out the basics of how elementary particles and forces interact in the universe.</content>
+        </sentence>
+        <sentence id="6">
+          <content>But the theory crucially fails to explain how particles actually get their mass.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>Particles, or bits of matter, range in size and can be larger or smaller than atoms.</content>
+        </sentence>
+        <sentence id="8">
+          <content>Electrons, protons and neutrons, for instance, are the subatomic particles that make up an atom.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>Scientists believe that the Higgs boson is the particle that gives all matter its mass.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>Experts know that elementary particles like quarks and electrons are the foundation upon which all matter in the universe is built.</content>
+        </sentence>
+        <sentence id="11">
+          <content>They believe the elusive Higgs boson gives the particles mass and fills in one of the key holes in modern physics.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>How does the Higgs boson work?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>The Higgs boson is part of a theory first proposed by Higgs and others in the 1960s to explain how particles obtain mass.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>The theory proposes that a so-called Higgs energy field exists everywhere in the universe.</content>
+        </sentence>
+        <sentence id="15">
+          <content>As particles zoom around in this field, they interact with and attract Higgs bosons, which cluster around the particles in varying numbers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="16">
+          <content>Imagine the universe like a party.</content>
+        </sentence>
+        <sentence id="17">
+          <content>Relatively unknown guests at the party can pass quickly through the room unnoticed; more popular guests will attract groups of people (the Higgs bosons) who will then slow their movement through the room.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="18">
+          <content>The speed of particles moving through the Higgs field works much in the same way.</content>
+        </sentence>
+        <sentence id="19">
+          <content>Certain particles will attract larger clusters of Higgs bosons -- and the more Higgs bosons a particle attracts, the greater its mass will be.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="20">
+          <content>Why is finding the Higgs boson so important?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="21">
+          <content>While finding the Higgs boson won&amp;apost;t tell us everything we need to know about how the universe works, it will fill in a huge hole in the Standard Model that has existed for more than 50 years, according to experts.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;The Higgs boson is the last missing piece of our current understanding of the most fundamental nature of the universe,&amp;quot; Martin Archer, a physicist at Imperial College in London, told CNN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="23">
+          <content>&amp;quot;Only now with the LHC [Large Hadron Collider] are we able to really tick that box off and say &amp;apost;This is how the universe works, or at least we think it does&amp;apost;.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="24">
+          <content>&amp;quot;It&amp;apost;s not the be all and end all -- but in terms of what can we say practically about the world and how the world is, it actually tells us a lot.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="25">
+          <content>Gordon Kane, director of the Michigan Center for Theoretical Physics, added that finding evidence of the Higgs boson would be a &amp;quot;very wonderful success of science and of people for four centuries.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="26">
+          <content>Why is the Higgs boson called the &amp;quot;God particle?&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="27">
+          <content>The popular nickname for the elusive particle was created for the title of a book by Nobel Prize winning physicist Leon Lederman -- reportedly against his will, as Lederman has said he wanted to call it the &amp;quot;Goddamn Particle&amp;quot; because &amp;quot;nobody could find the thing.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="28">
+          <content>&amp;quot;&amp;apost;God particle&amp;apost; is a nickname I don&amp;apost;t really like,&amp;quot; says Archer.</content>
+        </sentence>
+        <sentence id="29">
+          <content>&amp;quot;It&amp;apost;s nothing to do with religion -- the only (theoretical) similarity is you&amp;apost;re seeing something that&amp;apost;s a field that&amp;apost;s everywhere, in all spaces.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="30">
+          <content>How are scientists searching for the Higgs boson?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="31">
+          <content>For the past 18 months scientists have searched for the Higgs boson by smashing protons together at high energy in the $10 billion Large Hadron Collider (LHC) at CERN in Geneva, Switzerland.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="32">
+          <content>Inside the LHC, which is located 328 feet underground in a 17-mile tunnel and is the most powerful particle accelerator ever built, high speed proton collisions generate a range of even smaller particles that scientists sift through in search of a signal in the data suggesting the existence of the Higgs boson.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="33">
+          <content>&amp;quot;You&amp;apost;re just hoping that somewhere in these collisions that you see something ... some sort of a statistical bump,&amp;quot; says Archer.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="34">
+          <content>So Higgs bosons exist, but are elusive, popping up and then disappearing again quickly.</content>
+        </sentence>
+        <sentence id="35">
+          <content>It means, says Archer, that scientists at the LHC are only able to observe their decaying remnants.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

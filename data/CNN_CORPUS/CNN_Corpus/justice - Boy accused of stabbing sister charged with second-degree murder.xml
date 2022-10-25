@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="470" link="http://www.cnn.com/2013/05/15/justice/california-stabbing-death/index.html" date_published="2013-05-15 22:31:09" category="justice" author="Steve Almasy and Dan Simon, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Boy accused of stabbing sister charged with second-degree murder</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="7">Leila Fowler was stabbed to death on April 27.</sentence>
+      <sentence id="2" ids_article_sentences="7">She was home with her brother at the time.</sentence>
+      <sentence id="3" ids_article_sentences="1">He appeared in court Wednesday and was charged with second-degree murder.</sentence>
+      <sentence id="4" ids_article_sentences="5">He looked back several times at his family, didn&amp;apost;t seem nervous.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-09-16 13:51:00" annotation_time="325.04968">
+      <sentence id="1" ids_highlights="3">A 12-year-old California boy accused of stabbing his 8-year-old sister to death was charged Wednesday with second-degree murder.</sentence>
+      <sentence id="5" ids_highlights="4">He smiled while talking with his lawyer and several times he looked back at his family.</sentence>
+      <sentence id="7" ids_highlights="1, 2">The boy&amp;apost;s younger sister, Leila Fowler, was stabbed multiple times in her family&amp;apost;s home in northern California on April 27 while she was there with her youngest brother.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Valley Springs, California A 12-year-old California boy accused of stabbing his 8-year-old sister to death was charged Wednesday with second-degree murder.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Appearing in a green jumpsuit in juvenile court, he said, &amp;quot;Yes&amp;quot; when asked if he understood the charges.</content>
+        </sentence>
+        <sentence id="3">
+          <content>He didn&amp;apost;t enter a plea.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>The boy didn&amp;apost;t appear to be nervous, shocked or stunned.</content>
+        </sentence>
+        <sentence id="5">
+          <content>He smiled while talking with his lawyer and several times he looked back at his family.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>He will remain in custody while he awaits his next court appearance on May 29.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>The boy&amp;apost;s younger sister, Leila Fowler, was stabbed multiple times in her family&amp;apost;s home in northern California on April 27 while she was there with her youngest brother.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;He&amp;apost;s holding up well under the circumstances,&amp;quot; one of the boy&amp;apost;s attorneys, Mark Reichel, said Tuesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>The boy, who was arrested Saturday, told police a man broke into the family&amp;apost;s home.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>After the killing, police described the suspect as a 6-foot-tall white or Hispanic male with a muscular build.</content>
+        </sentence>
+        <sentence id="11">
+          <content>They interviewed registered sex offenders in the area, ran down leads and searched in attics, storage sheds and more in the rural, mountainous community about 60 miles southeast of Sacramento.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>On the day of the killing, Leila&amp;apost;s father and his fiancee weren&amp;apost;t home.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>A woman called 911 and told a police dispatcher her children were scared because a strange man had broken into the house, according to an emergency call released Tuesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>When the dispatcher asks what the emergency is, the woman tells her: &amp;quot;My children are home alone, and a man just ran out of my house.</content>
+        </sentence>
+        <sentence id="15">
+          <content>My older son was in the bathroom and my daughter started screaming.</content>
+        </sentence>
+        <sentence id="16">
+          <content>When he came out there was a man inside my house.</content>
+        </sentence>
+        <sentence id="17">
+          <content>I need an officer there.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="18">
+          <content>The woman says that the boyfriend of an older daughter was on the phone with the children in the house.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="19">
+          <content>The dispatcher asks if the children had seen the man and if they could describe him.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="20">
+          <content>&amp;quot;They did see him, yes.</content>
+        </sentence>
+        <sentence id="21">
+          <content>My daughter is freaking out right now,&amp;quot; she says.</content>
+        </sentence>
+        <sentence id="22">
+          <content>After giving the dispatcher a home phone number, she adds, &amp;quot;They said they are OK, but I need you to come.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="23">
+          <content>Although the call indicates the girl was alive and well, when police arrived, they found she had been stabbed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="24">
+          <content>Leila died minutes after arriving at the hospital, authorities said.</content>
+        </sentence>
+        <sentence id="25">
+          <content>She died of shock and hemorrhages from her wounds, the Calaveras County Coroner&amp;apost;s office said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="26">
+          <content>Before Leila&amp;apost;s death, the boy&amp;apost;s middle school in Valley Springs suspended him for five days after he brought a knife to school, according to one of the boy&amp;apost;s classmates.</content>
+        </sentence>
+        <sentence id="27">
+          <content>That account was backed up by a school administration source.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="28">
+          <content>Authorities haven&amp;apost;t revealed what kind of knife was used in Leila&amp;apost;s death.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="29">
+          <content>The death of Leila, known for her bubbly personality, shook the small northern California town of Valley Springs, where ribbons in her favorite color of purple were tied to stop signs.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

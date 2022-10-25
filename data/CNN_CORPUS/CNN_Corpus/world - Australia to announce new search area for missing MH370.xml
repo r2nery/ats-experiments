@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2078" link="http://edition.cnn.com/2014/06/22/world/asia/malaysia-mh-370-search/index.html" date_published="2014-06-22 09:01:24" category="world" author="Pamela Boykoff and Holly Yan, CNN " highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Australia to announce new search area for missing MH370</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="4">NEW: Malaysian police: A report about a pilot being the prime suspect is wrong .</sentence>
+      <sentence id="2" ids_article_sentences="1">Australia Transport Safety Bureau will announce a new search area Wednesday .</sentence>
+      <sentence id="3" ids_article_sentences="15, 2">Analysts have been re-evaluating satellite data .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-01 14:56:42" annotation_time="23.368334" mapping_time_divergence="7.7894444">
+      <sentence id="1" ids_highlights="2">Australian authorities will announce a new search area Wednesday in the hunt for missing Malaysia Airlines Flight MH370, according to the agency overseeing the effort.</sentence>
+      <sentence id="2" ids_highlights="3">The Australian Transport Safety Bureau said Sunday it&amp;apost;s been re-examining data that could shift the search area hundreds of kilometers south along an arc derived from satellite data.</sentence>
+      <sentence id="4" ids_highlights="1">Police: Report about pilot is wrong.</sentence>
+      <sentence id="15" ids_highlights="3">Hopes of closure for the families of those on board were raised in early April, when a search team in the southern Indian Ocean detected pings that were initially believed to have come from the plane&amp;apost;s flight data recorders.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Australian authorities will announce a new search area Wednesday in the hunt for missing Malaysia Airlines Flight MH370, according to the agency overseeing the effort.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The Australian Transport Safety Bureau said Sunday it&amp;apost;s been re-examining data that could shift the search area hundreds of kilometers south along an arc derived from satellite data.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>More than three months after Flight 370 disappeared over Southeast Asia, searchers have found no trace of the Boeing 777 or the 239 people aboard, making it one of the biggest mysteries in aviation history.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>Police: Report about pilot is wrong.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>Meanwhile, Malaysian police are denying a report in a London newspaper that MH370 pilot Zaharie Ahmad Shah is the primary suspect in the probe into the plane&amp;apost;s disappearance.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>The investigation is &amp;quot;ongoing&amp;quot; on all angles, with nothing conclusive at this time, Malaysian police spokeswoman Asmawati Ahmad told CNN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;We did not make any statement to say that Capt. Zaharie was the prime suspect,&amp;quot; she said, refuting an article in London&amp;apost;s The Sunday Times that says Zaharie is now the sole focus of the investigation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="8">
+          <content>The article cites unnamed industry and non-Malaysian government sources familiar with the state of the investigation as claiming that Zaharie is &amp;quot;the prime suspect if the plane&amp;apost;s disappearance turns out to be the result of human intervention.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="9">
+          <content>That conclusion is based on claims that police found Zaharie to be the only member of the flight crew who had made no personal or professional obligations for the future, the report claimed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="10">
+          <content>The story also said evidence from the flight simulator at Zaharie&amp;apost;s home showed he had plotted -- but then deleted -- paths to the deep southern Indian Ocean and landings on short runways.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="11">
+          <content>But the report notes that investigators have not ruled out the possibility of a mechanical malfunction or terrorism, and acknowledges that the case against Zaharie is based on circumstantial evidence.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="12">
+          <content>An FBI review of the two pilots&amp;apost; hard drives, including one in the flight simulator Zaharie had built at his home, had not turned up a &amp;quot;smoking gun,&amp;quot; a U.S. official with knowledge of the investigation told CNN in March.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="13">
+          <content>What&amp;apost;s next.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="14">
+          <content>Authorities have not been able to explain why the jet veered dramatically off course during a scheduled flight from Kuala Lumpur, Malaysia, to Beijing on March 8.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="15">
+          <content>Hopes of closure for the families of those on board were raised in early April, when a search team in the southern Indian Ocean detected pings that were initially believed to have come from the plane&amp;apost;s flight data recorders.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="16">
+          <content>But Australian authorities said an exhaustive search of the sea floor around the pings yielded no wreckage and ruled the area out as the aircraft&amp;apost;s final resting place.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="17">
+          <content>Now, officials are preparing for the next stage of the search.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="18">
+          <content>Australia, the closest country to where the plane is believed to have entered the ocean, has said it will delegate the management and operation of the new phase to a private company.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="19">
+          <content>The Australian Transport Safety Bureau, which is leading the search at the request of the Malaysian government, said it is accepting proposals for the task until the end of June.</content>
+        </sentence>
+        <sentence id="20">
+          <content>The new search is expected to start in August at the earliest.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

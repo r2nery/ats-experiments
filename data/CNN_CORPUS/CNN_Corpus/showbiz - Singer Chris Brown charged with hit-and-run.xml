@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1371" link="http://www.cnn.com/2013/06/25/showbiz/california-brown-charges/index.html" date_published="2013-06-25 18:17:36" category="showbiz" author="Alan Duke, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Singer Chris Brown charged with hit-and-run</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">Brown allegedly was driving a car that rear-ended another car in Los Angeles in May.</sentence>
+      <sentence id="2" ids_article_sentences="4">He faces charges of hit-and-run driving and driving without a license.</sentence>
+      <sentence id="3" ids_article_sentences="9">&amp;quot;I have a valid drivers license and I gave the woman the right info,&amp;quot; Brown tweets.</sentence>
+      <sentence id="4" ids_article_sentences="2">Brown already faces a probation violation hearing related to his assault on Rihanna.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-20 10:12:10" annotation_time="15.679">
+      <sentence id="2" ids_highlights="4">Brown already faces a charge that he violated his probation in connection with his felony assault conviction in the beating of his girlfriend Rihanna.</sentence>
+      <sentence id="3" ids_highlights="1">Brown, 24, allegedly was driving a car that rear-ended another car in Los Angeles in May.</sentence>
+      <sentence id="4" ids_highlights="2">The Los Angeles city attorney filed charges of hit-and-run driving and driving without a license, according to spokesman Frank Mateljan.</sentence>
+      <sentence id="9" ids_highlights="3">&amp;quot;I have a valid drivers license and I gave the woman the right info.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Los Angeles Chris Brown&amp;apost;s legal troubles got more serious Tuesday when a Los Angeles prosecutor charged him in a minor traffic crash.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Brown already faces a charge that he violated his probation in connection with his felony assault conviction in the beating of his girlfriend Rihanna.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Brown, 24, allegedly was driving a car that rear-ended another car in Los Angeles in May.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>The Los Angeles city attorney filed charges of hit-and-run driving and driving without a license, according to spokesman Frank Mateljan.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>Brown&amp;apost;s Twitter defense.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>While Brown&amp;apost;s representatives did not immediately respond to CNN calls for comment, the singer used his Twitter account to protest the charges:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;It&amp;apost;s not a hit and run if u get out the car, exchange information (who has NO DAMAGE to either cars).</content>
+        </sentence>
+        <sentence id="8">
+          <content>This is really ridiculous&amp;quot;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>&amp;quot;I have a valid drivers license and I gave the woman the right info.</content>
+        </sentence>
+        <sentence id="10">
+          <content>She saw cameras and wanted to make a scene.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;She contacted the cops thinking of a payday from Chris Brown when I followed the proper procedures.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;My lawyers will be contacting you.</content>
+        </sentence>
+        <sentence id="13">
+          <content>I will not stand for this bullying and yellow journalism!&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;My profile pic is the pic I took of the persons car after &amp;quot;the hit and run&amp;quot;.</content>
+        </sentence>
+        <sentence id="15">
+          <content>NO damage.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Just a dirty car.</content>
+        </sentence>
+        <sentence id="17">
+          <content>once again, I gotta clear my name&amp;quot;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;I work my ass off to provide for my entire family.</content>
+        </sentence>
+        <sentence id="19">
+          <content>I&amp;apost;ve made mistakes in the past and have worked hard to be a better person. &amp;quot;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="20">
+          <content>&amp;quot;19-24 years of age.</content>
+        </sentence>
+        <sentence id="21">
+          <content>I don&amp;apost;t have all the answers and you can&amp;apost;t show me a person that age who has it figured out.</content>
+        </sentence>
+        <sentence id="22">
+          <content>We live and grow.</content>
+        </sentence>
+        <sentence id="23">
+          <content>Let me live&amp;quot;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="24">
+          <content>Freedom on the line?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="25">
+          <content>While the misdemeanor charges -- which carry a maximum of a year in jail -- would not ordinarily threaten a defendant&amp;apost;s freedom, Brown&amp;apost;s felony probation could be revoked if a judge decides the new arrest is a violation.</content>
+        </sentence>
+        <sentence id="26">
+          <content>A spokesman for the Los Angeles County district attorney said prosecutors will review the charge once they are officially notified by the city attorney.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="27">
+          <content>An arraignment for the new charges has been set for the morning of July 15 at the Van Nuys courthouse.</content>
+        </sentence>
+        <sentence id="28">
+          <content>Brown is also scheduled to be in a downtown Los Angeles courtroom that afternoon for another hearing to set a date for his trial in his probation violation case.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="29">
+          <content>Brown punched Rihanna inside a rented Lamborghini on a Hollywood street, leaving her face bruised and bloody on the eve of the Grammy Awards in February 2009.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="30">
+          <content>He entered a guilty plea seven months later and was sentenced to serve five years probation and to spend more than 1,400 hours in &amp;quot;labor-oriented service&amp;quot; for the assault conviction.</content>
+        </sentence>
+        <sentence id="31">
+          <content>The judge allowed him to serve the sentence in Richmond, Virginia, under the direct supervision of the police chief.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="32">
+          <content>In a court filing in February 2013, prosecutors accused Brown of not completing the community labor.</content>
+        </sentence>
+        <sentence id="33">
+          <content>The paperwork Brown submitted to show he had completed community labor is &amp;quot;at best sloppy documentation and at worst fraudulent reporting,&amp;quot; District Attorney Jackie Lacey said.</content>
+        </sentence>
+        <sentence id="34">
+          <content>Brown wasn&amp;apost;t in town on some of the dates reported, the motion said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="35">
+          <content>Mark Geragos, Brown&amp;apost;s attorney, said the prosecutor&amp;apost;s filing was so fraudulent that he would ask the judge to punish the deputy district attorneys involved and call for a contempt of court hearing for filing false documents with the court.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="36">
+          <content>&amp;quot;And I don&amp;apost;t mean just false, it is fraudulent,&amp;quot; Geragos said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="37">
+          <content>The Los Angeles County district attorney&amp;apost;s office has &amp;quot;tortured&amp;quot; Brown during his probation more than any client he&amp;apost;s ever had, Geragos said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="38">
+          <content>Despite the serious allegations outlined in the court filing, the prosecutor is not asking for Brown&amp;apost;s probation to be revoked and the singer sent to jail.</content>
+        </sentence>
+        <sentence id="39">
+          <content>She is asking the judge to order him to restart his 1,400 hours of community service under the supervision of a Los Angeles probation officer.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="40">
+          <content>Nightclub incident denied.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="41">
+          <content>Brown&amp;apost;s representative denied allegations Monday that the singer assaulted a woman while inside of an Anaheim, California, nightclub on Saturday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="42">
+          <content>The accuser told TMZ that Brown shoved her while they were in the VIP area of Heat Ultra Lounge that night, causing her to take a hard fall and injuring her knee.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="43">
+          <content>The owner of the venue has called the claims false, and Brown&amp;apost;s rep has made a similar denial.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="44">
+          <content>&amp;quot;Reports that Chris Brown had physical contact with a female patron at the nightclub Heat are totally false and unfounded,&amp;quot; Brown&amp;apost;s rep told CNN.</content>
+        </sentence>
+        <sentence id="45">
+          <content>&amp;quot;Upon speaking with witnesses, security and the owner of the club, it has been proven that said patron caused the physical harm to herself in her belligerent state.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="46">
+          <content>According to the Anaheim Police Department, an assault and battery report was filed by phone on Sunday evening.</content>
+        </sentence>
+        <sentence id="47">
+          <content>The case is considered an open and ongoing investigation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

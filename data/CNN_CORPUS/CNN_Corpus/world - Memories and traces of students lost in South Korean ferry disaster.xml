@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2426" link="http://edition.cnn.com/2014/04/25/world/asia/south-korea-lost-students/index.html" date_published="2014-04-25 08:55:56" category="world" author="Jethro Mullen and Judy Kwon, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Memories and traces of students lost in South Korean ferry disaster</title>
+  <keywords>South Korea ferry victims,Sewol victims,South Korea ferry students</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="4">A whiteboard carries descriptions of bodies recovered from the ferry.</sentence>
+      <sentence id="2" ids_article_sentences="6, 2">One student had a pimple and wore braces; a girl had a flower-shaped belly ring.</sentence>
+      <sentence id="3" ids_article_sentences="13">A high school has lost most of its junior class in the sinking of the Sewol.</sentence>
+      <sentence id="4" ids_article_sentences="14">Signs of mourning are everywhere in the neighborhood near the school.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-11 18:03:31" annotation_time="35.794003" mapping_time_divergence="8.948501">
+      <sentence id="2" ids_highlights="2">He was skinny and wore braces.</sentence>
+      <sentence id="4" ids_highlights="1">The simple, human details about Woo-hyuk are noted on a whiteboard, which catalogues descriptions of the bodies recovered from the sunken ferry Sewol.</sentence>
+      <sentence id="6" ids_highlights="2">No. 63 was a female student with a flower-shaped belly ring and Adidas sweatpants.</sentence>
+      <sentence id="13" ids_highlights="3">The school has lost the majority of its junior year, as well as a dozen teachers.</sentence>
+      <sentence id="14" ids_highlights="4">Signs of mourning are everywhere in the surrounding neighborhood.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Jindo, South Korea Jin Woo-hyuk had a pimple on his forehead.</content>
+        </sentence>
+        <sentence id="2">
+          <content>He was skinny and wore braces.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>When divers found the teenager&amp;apost;s body in the submerged ship, he was wearing a pair of jeans and a light green hoodie.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>The simple, human details about Woo-hyuk are noted on a whiteboard, which catalogues descriptions of the bodies recovered from the sunken ferry Sewol.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Some of the victims, still unidentified, are known just by a number.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>No. 63 was a female student with a flower-shaped belly ring and Adidas sweatpants.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>No. 62, another girl, had a long pony tail and wore black rosary beads.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>They were among the 325 students from a South Korean high school on board the ferry that sank April 16, making up two thirds of the passengers of the ship.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>Only 75 of the students were rescued.</content>
+        </sentence>
+        <sentence id="10">
+          <content>The remaining 250 are dead or missing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;apost;Big brother, you have to live&amp;apost;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>The students attended Danwon High School in Ansan, a city about an hour&amp;apost;s drive south from the capital, Seoul.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="13">
+          <content>The school has lost the majority of its junior year, as well as a dozen teachers.</content>
+        </sentence>
+        <sentence id="14">
+          <content>Signs of mourning are everywhere in the surrounding neighborhood.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>Yellow ribbons are tied to the school gate, symbolizing hope and solidarity with the dead and missing students&amp;apost; families.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="16">
+          <content>A shrine of flowers and hundreds of notes to the dead decorate the school&amp;apost;s entrance.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;Big brother, you have to live, you have to come back,&amp;quot; read one note.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;I want to see you,&amp;quot; another read.</content>
+        </sentence>
+        <sentence id="19">
+          <content>&amp;quot;I love you and pray for you.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="20">
+          <content>Many of the messages from other students expressed regret at not being able to help their classmates on the ferry that was traveling from the port city of Incheon to Jeju, a southern resort island, when it began to list and then capsized.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="21">
+          <content>&amp;apost;It all hurts too much&amp;apost;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="22">
+          <content>Funerals of students have been taking place in recent days.</content>
+        </sentence>
+        <sentence id="23">
+          <content>Before the ceremonies, the hearses have driven into the school grounds for one last visit, a portrait of the dead teenager carried by a person in the passenger seat.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="24">
+          <content>The trauma of the ferry disaster has affected local residents.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="25">
+          <content>&amp;quot;I feel my heart is being ripped up,&amp;quot; said Ryu Chang-ryul, who has lived near the school for nine years.</content>
+        </sentence>
+        <sentence id="26">
+          <content>&amp;quot;For three days I haven&amp;apost;t eaten.</content>
+        </sentence>
+        <sentence id="27">
+          <content>It all hurts too much.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="28">
+          <content>Kim Young-sook runs a small restaurant near the school.</content>
+        </sentence>
+        <sentence id="29">
+          <content>She dressed in black and wept as she spoke with CNN, explaining that students are regular customers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="30">
+          <content>She played a video of a 17-year-old boy she said was like a son to her.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="31">
+          <content>&amp;quot;He used to call me auntie,&amp;quot; she said.</content>
+        </sentence>
+        <sentence id="32">
+          <content>&amp;quot;He was sitting here playing guitar talking about just how important this trip was to him.</content>
+        </sentence>
+        <sentence id="33">
+          <content>I feel so bad that I could not be there.</content>
+        </sentence>
+        <sentence id="34">
+          <content>All of us, we could have done something.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="35">
+          <content>Students return to school.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="36">
+          <content>A makeshift memorial has been set up in a nearby basketball gymnasium, where hundreds of people file past a wall of flowers in which dozens of photos of dead and missing students are mounted.</content>
+        </sentence>
+        <sentence id="37">
+          <content>As well as local visitors, people have driven down from other cities like Seoul to pay their respects.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="38">
+          <content>The school reopened Thursday, but only for students in the final year.</content>
+        </sentence>
+        <sentence id="39">
+          <content>About 100 psychiatrists and support staff from across South Korea were on hand to counsel them.</content>
+        </sentence>
+        <sentence id="40">
+          <content>Some of the teenagers arrived in hoods or wore caps to cover their faces as they made their way past journalists.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="41">
+          <content>Mental health care professionals will be available to the students for at least two months, said Dr. Kim Hyun-sook, head of the community mental health program in the region.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="42">
+          <content>&amp;quot;Koreans, when they experience trauma, they feel anger and sadness but they tend to bottle it up,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="43">
+          <content>&amp;quot;We&amp;apost;re trying to encourage emotional communication to let those feelings out.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="44">
+          <content>A mother&amp;apost;s pain.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="45">
+          <content>The parents of the dead and missing, meanwhile, cling to photos and videos of their lost loved ones.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="46">
+          <content>Christine Kim taught English to some of the students.</content>
+        </sentence>
+        <sentence id="47">
+          <content>Her youngest daughter, Billy, was on board the ferry.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="48">
+          <content>A video on Kim&amp;apost;s cell phone shows Billy hula-hooping while wearing a dalmation costume -- a fun-loving teenager.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="49">
+          <content>Billy got her boyish name because she loved goats when she was little, her mother said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="34">
+      <sentences>
+        <sentence id="50">
+          <content>Last week, Kim looked out to sea from Jindo and called for her daughter.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="35">
+      <sentences>
+        <sentence id="51">
+          <content>&amp;quot;It&amp;apost;s mom!&amp;quot;</content>
+        </sentence>
+        <sentence id="52">
+          <content>she cried out at the waves.</content>
+        </sentence>
+        <sentence id="53">
+          <content>&amp;quot;It&amp;apost;s mom!&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

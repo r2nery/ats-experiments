@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="157" link="http://www.cnn.com/2013/02/18/health/what-youre-saying/index.html" date_published="2013-02-18 21:04:33" category="health" author="CNN Health staff" highlights_mapped="true" mapping_error="false">
+  <title>&amp;apost;Like pulling teeth&amp;apost; to get doctors to test for HIV</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">More than 1,000 comments were posted on our youth and HIV story.</sentence>
+      <sentence id="2" ids_article_sentences="13">A piece featuring fitness tips from Kate Upton&amp;apost;s trainer sparked a debate.</sentence>
+      <sentence id="3" ids_article_sentences="29">A story on a woman waiting for four organs received many supportive comments.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-09-15 17:58:47" annotation_time="39.037334">
+      <sentence id="3" ids_highlights="1">Our weekend piece on why youths aren&amp;apost;t being tested for HIV got more than 1,000 comments.</sentence>
+      <sentence id="13" ids_highlights="2">Another weekend piece, on fitness tips from swimsuit model Kate Upton&amp;apost;s trainer, sparked a lively debate on Upton&amp;apost;s body and curves.</sentence>
+      <sentence id="29" ids_highlights="3">More than 300 commenters also shared their thoughts on the story of Molly Pearce, a California woman who needs four organs transplanted in order to survive.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Welcome to our new look at what you&amp;apost;re saying over the past week.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>&amp;apost;The system isn&amp;apost;t really encouraging&amp;apost;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Our weekend piece on why youths aren&amp;apost;t being tested for HIV got more than 1,000 comments.</content>
+        </sentence>
+        <sentence id="4">
+          <content>Commenter Bradgina said they&amp;apost;ve found that just getting an HIV test from some doctors can be a hassle, and they go to the clinic under an assumed name:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>&amp;quot;It&amp;apost;s still like pulling teeth getting doctors to test for HIV,&amp;quot; they write.</content>
+        </sentence>
+        <sentence id="6">
+          <content>&amp;quot;One doctor actually asked me, &amp;apost;Do you know how hard it is to get HIV from a woman?&amp;apost;.</content>
+        </sentence>
+        <sentence id="7">
+          <content>To which I replied, &amp;apost;I don&amp;apost;t think I ever said anything about being involved with a woman.</content>
+        </sentence>
+        <sentence id="8">
+          <content>...&amp;apost; And he then offered me a test.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Wow.</content>
+        </sentence>
+        <sentence id="10">
+          <content>I had to pretend to be gay to get an HIV test.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="11">
+          <content>Bradgina later added that &amp;quot;the system isn&amp;apost;t really encouraging of getting tested on a regular basis anyway.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;apost;That will never happen, and you&amp;apost;re all nuts&amp;apost;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="13">
+          <content>Another weekend piece, on fitness tips from swimsuit model Kate Upton&amp;apost;s trainer, sparked a lively debate on Upton&amp;apost;s body and curves.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;I get a little annoyed when people whine and scream about this model or that model &amp;apost;being fat,&amp;apost; wrote commenter dragonfire77.</content>
+        </sentence>
+        <sentence id="15">
+          <content>&amp;quot;They&amp;apost;re in a physical condition that is orders of magnitude better than the &amp;apost;average&amp;apost; American, and infinitely healthier than those twig-like, death-warmed-over models you see walking the catwalk at your average fashion show.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="16">
+          <content>Commenter Deanna weighed in, &amp;quot;I have a feeling that every single person who is criticizing this woman is a troll, with body hair and belly fat.</content>
+        </sentence>
+        <sentence id="17">
+          <content>Let&amp;apost;s see you look this hot in a bathing suit.</content>
+        </sentence>
+        <sentence id="18">
+          <content>That will NEVER happen, and you&amp;apost;re all nuts.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;apost;Don&amp;apost;t blame guns at all&amp;apost;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="20">
+          <content>Another debate, with more than 1,100 comments, followed a story on Chicago&amp;apost;s homicide rate and the lack of a Level I trauma center on the city&amp;apost;s violence-plagued South Side.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="21">
+          <content>&amp;quot;Don&amp;apost;t blame guns at all,&amp;quot; wrote commenter LMT556 in the highest-voted comment on the story.</content>
+        </sentence>
+        <sentence id="22">
+          <content>&amp;quot;Poverty and single parent households are raising a violent culture.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="23">
+          <content>But &amp;quot;not all who are single parents or live in poverty raise violent kids,&amp;quot; replied commenter JoAnn Smith.</content>
+        </sentence>
+        <sentence id="24">
+          <content>&amp;quot;My mom raised 11 kids, 9 boys (and) 2 girls, and guess what only one of my brothers decided to do what he wanted to do and now he is dead because of his actions.</content>
+        </sentence>
+        <sentence id="25">
+          <content>... You cannot solely blame the poverty and single parenting on violence.</content>
+        </sentence>
+        <sentence id="26">
+          <content>I know people that grew up with two parents and they are just as hardheaded as those who lived in a single parent household.</content>
+        </sentence>
+        <sentence id="27">
+          <content>These parents need to stop acting like they are their kids&amp;apost; friends and discipline a child when needed.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="28">
+          <content>&amp;apost;Hurry up and find a way to grow organs&amp;apost;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="29">
+          <content>More than 300 commenters also shared their thoughts on the story of Molly Pearce, a California woman who needs four organs transplanted in order to survive.</content>
+        </sentence>
+        <sentence id="30">
+          <content>Some shared messages of support for Pearce, while others discussed organ donation and the meaning of &amp;quot;brain dead.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="31">
+          <content>&amp;quot;Articles like this make me wish they would hurry up and find a way to grow organs for people who need them,&amp;quot; said commenter DS.</content>
+        </sentence>
+        <sentence id="32">
+          <content>&amp;quot;I know they&amp;apost;re working on it but I still wish we had the technology already so the poor folks waiting for someone to die wouldn&amp;apost;t have to anymore.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

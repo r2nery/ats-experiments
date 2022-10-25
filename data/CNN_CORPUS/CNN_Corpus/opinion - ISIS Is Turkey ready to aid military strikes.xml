@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="830" link="http://edition.cnn.com/2014/09/25/opinion/turkey-isis-strikes/index.html?hpt=ieu_mid" date_published="2014-09-25 16:45:06" category="opinion" author="Gönül Tol, Special for CNN" highlights_mapped="true" mapping_error="false">
+  <title>ISIS: Is Turkey ready to aid military strikes?</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="4">Turkey could play a key role in the U.S.-led military assault against ISIS, writes Gönül Tol .</sentence>
+      <sentence id="2" ids_article_sentences="2">Ankara has the second-largest army in NATO and hosts an American airbase, he says.</sentence>
+      <sentence id="3" ids_article_sentences="4">But Turkey prefers to play a secondary role, he writes.</sentence>
+      <sentence id="4" ids_article_sentences="8">Tol: Turkish President Recep Tayyip Erdogan signaled a possible change in policy .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-06 07:56:23" annotation_time="18.537">
+      <sentence id="2" ids_highlights="2">Ankara has the second-largest army in NATO and hosts an American airbase.</sentence>
+      <sentence id="4" ids_highlights="1, 3">But Turkey prefers to play a secondary role.</sentence>
+      <sentence id="8" ids_highlights="4">To the delight of its Western allies, Turkey signaled a possible change in policy on Tuesday when Erdogan said &amp;quot;Ankara could give military or logistical support to U.S.-led air strikes against Islamic State insurgents in Syria.&amp;quot;</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Turkey, a key U.S. ally and a NATO member that borders the territory captured by ISIS, which now calls itself the Islamic State, in Syria and Iraq, could play a critical role in the U.S.-led military assault against the jihadist group.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Ankara has the second-largest army in NATO and hosts an American airbase.</content>
+        </sentence>
+        <sentence id="3">
+          <content>Turkish forces could participate in the U.S.-led bombing, or Ankara could allow the United States to use the Incirlik airbase in southern Turkey to stage the attacks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>But Turkey prefers to play a secondary role.</content>
+        </sentence>
+        <sentence id="5">
+          <content>Citing its concern over the fate of 49 hostages who were captured by ISIS when the group seized Mosul in June, it limited its role to stemming the flow of foreign fighters, tightening border security, and cracking down on ISIS&amp;apost;s oil-smuggling networks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>The hostages were released over the weekend following what Turkish President Recep Tayyip Erdogan described as a &amp;quot;covert rescue operation.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>Now that the Turkish government&amp;apost;s thorny dilemma has been resolved, will Ankara change its stance?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>To the delight of its Western allies, Turkey signaled a possible change in policy on Tuesday when Erdogan said &amp;quot;Ankara could give military or logistical support to U.S.-led air strikes against Islamic State insurgents in Syria.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>But the Turkish president&amp;apost;s change in tone is more likely to be, not a change of heart, but rather an attempt to allay international criticism that has been mounting since U.S. President Barack Obama laid out his strategy to fight ISIS.</content>
+        </sentence>
+        <sentence id="10">
+          <content>The release of the hostages might have removed a major obstacle to Turkey&amp;apost;s playing a frontline role in the U.S.-led anti-ISIS coalition, but there are many more.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>Ankara and Washington have different priorities in the conflict.</content>
+        </sentence>
+        <sentence id="12">
+          <content>Washington is primarily concerned about the rise of ISIS and views the conflict through the lens of counter-terrorism.</content>
+        </sentence>
+        <sentence id="13">
+          <content>Hit hard by the ongoing civil war in Syria, Turkey sees ISIS as a symptom of the brutality of an illegitimate regime in its neighboring country that has posed Ankara far greater challenges.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>The Syrian civil war has dealt a blow to Turkey&amp;apost;s image as a regional superpower that mediates regional conflicts and pursues a non-sectarian foreign policy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>Turkey hosts more than 1.2 million Syrian refugees [UNHCR now believes there are more than 1.5 million refugees], which incurs not only financial costs but also presents political dilemmas for the Turkish government in addressing the ethnic and sectarian balance within its own society.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>READ: &amp;apost;200,000 flee in biggest displacement of Syrian conflict&amp;apost;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>For Turkey the most dangerous fallout of the Syrian civil war has been the resurgence of the Kurdistan Workers&amp;apost; Party (PKK).</content>
+        </sentence>
+        <sentence id="18">
+          <content>In retaliation for Turkey&amp;apost;s support for the Syrian opposition, al-Assad gave a free hand to the Democratic Union Party (PYD), the Syrian offshoot of the PKK based in northern Syria, by allowing it to operate unencumbered, recruit new fighters for its campaign against Turkey, and undertake a pseudo-governmental role in Kurdish regions of Syria.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="19">
+          <content>The backbone of Turkey&amp;apost;s Syria policy has been to ignore ISIS because it has been waging war against the Kurdish group in northern Syria.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="20">
+          <content>Turkey believes that fighting the Assad regime is more important than the narrow counter-terrorism mission that President Obama has in mind.</content>
+        </sentence>
+        <sentence id="21">
+          <content>A military attack against ISIS is likely to strengthen not only Assad&amp;apost;s but also the PYD&amp;apost;s hand.</content>
+        </sentence>
+        <sentence id="22">
+          <content>To Erdogan, a strong advocate of regime change, anything short of al-Assad&amp;apost;s ouster carries the risk of further weakening Turkey domestically and regionally and fueling extremism.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="23">
+          <content>There is also a deep-seated lack of trust in a long-term U.S. commitment to the resolution of the conflicts in Iraq and Syria that has kept Turkey from playing a frontline role in the coalition against ISIS.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="24">
+          <content>Enmeshed in a three-decade-long fight against the PKK, Turkey knows all too well that countering ISIS calls for long-term international commitment and cooperation.</content>
+        </sentence>
+        <sentence id="25">
+          <content>Ankara does not want to render itself even more vulnerable to ISIS attacks without an assurance from the United States that it will not leave Turkey in the lurch.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="26">
+          <content>Domestic and regional public opinion is another point of concern.</content>
+        </sentence>
+        <sentence id="27">
+          <content>Turkish public opinion has always been skeptical of U.S. involvement in Turkey and the Middle East.</content>
+        </sentence>
+        <sentence id="28">
+          <content>Therefore, Turkey has historically been wary of allowing the United States to carry out military operations from the U.S. airbase in Incirlik.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="29">
+          <content>Taking an active military role in a U.S.-led military strike against a Sunni entity is likely to draw criticism from the people of the region as well.</content>
+        </sentence>
+        <sentence id="30">
+          <content>Turkey&amp;apost;s image as an independent actor that is looking after its own interests and willing to defy Western powers if necessary has won Ankara favorable notice in the Arab world.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="31">
+          <content>The Turkish parliament&amp;apost;s refusal to allow the United States to station troops on Turkish soil to open a second front against Iraq in 2003 challenged Turkey&amp;apost;s old image as an American stooge and increased Turkey&amp;apost;s credibility on the Arab street.</content>
+        </sentence>
+        <sentence id="32">
+          <content>The Turkish government does not want to deal a blow to its regional image by taking part in another Western-led military operation in a Muslim country.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="33">
+          <content>Hemmed in by these constraints, Turkey seems unlikely to take an active military role in the strikes against ISIS unless the United States shifts its policy to effect regime change in Syria.</content>
+        </sentence>
+        <sentence id="34">
+          <content>Until then, Turkey will focus its diplomatic energy on convincing its allies at the U.N. to set up a buffer zone along its border with Syria.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

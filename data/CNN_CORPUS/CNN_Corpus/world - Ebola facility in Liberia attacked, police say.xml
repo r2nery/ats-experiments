@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2165" link="http://www.cnn.com/2014/08/17/world/africa/ebola-liberia-attack/index.html" date_published="2014-08-17 17:08:47" category="world" author="Ashley Fantz, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Ebola facility in Liberia attacked, police say</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="16">Experimental drug is sent to Liberia, official says .</sentence>
+      <sentence id="2" ids_article_sentences="1">Ebola patients fled during Saturday&amp;apost;s attack in Monrovia, police spokesman says.</sentence>
+      <sentence id="3" ids_article_sentences="6">No one was injured in the attack, spokesman says.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-14 12:12:49" annotation_time="51.574">
+      <sentence id="1" ids_highlights="2">Ebola patients fled during an attack at a health care facility in Monrovia, Liberia, on Saturday, Liberian National Police spokesman Sam Collins said.</sentence>
+      <sentence id="6" ids_highlights="3">No one was injured in the incident, Collins said.</sentence>
+      <sentence id="16" ids_highlights="1">Last week, Liberia&amp;apost;s government said that sample doses of ZMapp, an experimental drug used to treat two American health care workers in Atlanta, Georgia, would be sent to Liberia to treat doctors who have contracted the virus.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Ebola patients fled during an attack at a health care facility in Monrovia, Liberia, on Saturday, Liberian National Police spokesman Sam Collins said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>All patients who ran away had Ebola, Collins said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>But some patients chose to stay at the facility.</content>
+        </sentence>
+        <sentence id="4">
+          <content>And by Monday, some who left had returned, he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Health workers were looking for the other patients.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>No one was injured in the incident, Collins said.</content>
+        </sentence>
+        <sentence id="7">
+          <content>The assailants were using weapons but not wielding guns.</content>
+        </sentence>
+        <sentence id="8">
+          <content>They stole mattresses and equipment, Collins said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>&amp;quot;It was an attack from people afraid of Ebola,&amp;quot; Collins told CNN.</content>
+        </sentence>
+        <sentence id="10">
+          <content>&amp;quot;Everybody is afraid.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>Since an Ebola epidemic was declared in Guinea in March, the disease has spread to Sierra Leone, Liberia and Nigeria.</content>
+        </sentence>
+        <sentence id="12">
+          <content>Ebola can be contracted by coming into contact with infected organs and body fluids such as blood, saliva, urine and other secretions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>In the deadly disease&amp;apost;s current outbreak in those countries, 712 people have died from Ebola and 1,310 people are Liberia confirmed to be infected with the virus, the World Health Organization reports.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>Tolbert Nyenswah, Liberia&amp;apost;s assistant minister of health, told CNN that as of Friday, 154 people in the nation have died from Ebola.</content>
+        </sentence>
+        <sentence id="15">
+          <content>There are more cases in which patients are suspected to have the disease, but that information has not been confirmed, he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="16">
+          <content>Last week, Liberia&amp;apost;s government said that sample doses of ZMapp, an experimental drug used to treat two American health care workers in Atlanta, Georgia, would be sent to Liberia to treat doctors who have contracted the virus.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="17">
+          <content>The drug arrived and was given to three doctors, Nyenswah told CNN.</content>
+        </sentence>
+        <sentence id="18">
+          <content>He said the Liberian government is in talks to try to get more.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="19">
+          <content>The country had requested the drug, and the White House and U.S. Food and Drug Administration approved it.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="20">
+          <content>ZMapp has not been tested for public use.</content>
+        </sentence>
+        <sentence id="21">
+          <content>Earlier, the company that makes ZMapp said its supply was exhausted after fulfilling a request of a West African country which it did not, at the time, name.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="22">
+          <content>Liberia has taken other measures to try to contain the virus.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="23">
+          <content>In late July, it closed most of its borders and national campaigns have been launched to educate the public about how Ebola is spread and what to do if someone comes into contact with an infected person.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="24">
+          <content>On Sunday, Cameroon&amp;apost;s information minister told CNN that the country was closing its border with Nigeria over Ebola concerns.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="25">
+          <content>Issa Tchiroma Bakari said that all flights to and from Nigeria into and out of Cameroon are suspended.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="26">
+          <content>People in Cameroon and Nigeria cross borders daily for commercial and personal reasons.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

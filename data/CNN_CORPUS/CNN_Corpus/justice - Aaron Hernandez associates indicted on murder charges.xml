@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="448" link="http://www.cnn.com/2014/04/11/justice/aaron-hernandez-friends-indicted" date_published="2014-04-11 21:15:18" category="justice" author="Susan Candiotti and Ray Sanchez, CNN " highlights_mapped="true" mapping_error="false">
+  <title>Aaron Hernandez associates indicted on murder charges</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="13">NEW: &amp;quot;Ernest Wallace did not shoot or kill anybody,&amp;quot; defendant&amp;apost;s attorney says.</sentence>
+      <sentence id="2" ids_article_sentences="18">NEW: Another defense attorney says he heard about indictment of his client from news media.</sentence>
+      <sentence id="3" ids_article_sentences="1">Associates of former NFL star Aaron Hernandez are indicted in a June slaying in Massachusetts.</sentence>
+      <sentence id="4" ids_article_sentences="2">Carlos Ortiz and Ernest Wallace allegedly were with Hernandez the night of Odin Lloyd&amp;apost;s death.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-17 15:21:24" annotation_time="43.847">
+      <sentence id="1" ids_highlights="3">Two friends of former New England Patriots star Aaron Hernandez were indicted on murder charges Friday in connection with the 2013 homicide of Odin Lloyd in North Attleboro, Massachusetts, according to the Bristol County District Attorney&amp;apost;s Office.</sentence>
+      <sentence id="2" ids_highlights="4">The associates, Carlos Ortiz and Ernest Wallace, allegedly were in the car with Hernandez the night of the murder.</sentence>
+      <sentence id="13" ids_highlights="1">&amp;quot;Ernest Wallace did not shoot or kill anybody,&amp;quot; his attorney, David Meier of Boston, told CNN.</sentence>
+      <sentence id="18" ids_highlights="2">Ortiz&amp;apost;s attorney, John Connors, told CNN that he heard about the indictment not from the district attorney, but from the news media.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Two friends of former New England Patriots star Aaron Hernandez were indicted on murder charges Friday in connection with the 2013 homicide of Odin Lloyd in North Attleboro, Massachusetts, according to the Bristol County District Attorney&amp;apost;s Office.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The associates, Carlos Ortiz and Ernest Wallace, allegedly were in the car with Hernandez the night of the murder.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Hernandez, 24, is being held on first-degree murder and weapons charges in the shooting death of Lloyd.</content>
+        </sentence>
+        <sentence id="4">
+          <content>He has pleaded not guilty to those charges.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Authorities have said Hernandez, Carlos Ortiz and Ernest Wallace picked Lloyd up from his Boston apartment in the early morning of June 17.</content>
+        </sentence>
+        <sentence id="6">
+          <content>Surveillance cameras showed the car at an industrial park near Hernandez&amp;apost;s North Attleborough, Massachusetts, home.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>Surveillance cameras then captured the rental car leaving the crime scene and Hernandez carrying a gun as he returned to his home minutes later.</content>
+        </sentence>
+        <sentence id="8">
+          <content>He was with two other people.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Lloyd -- a 27-year-old semi-pro football player himself -- was not among them.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>Lloyd&amp;apost;s body was found in the industrial park later that day.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>Prosecutors have accused Hernandez of orchestrating the death of Lloyd, who was shot five times with a .45 caliber handgun.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>Ortiz and Wallace were already being held on charges related to the Lloyd murder when the indictments were handed down Friday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>&amp;quot;Ernest Wallace did not shoot or kill anybody,&amp;quot; his attorney, David Meier of Boston, told CNN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;The nature and timing of these new charges against Mr. Wallace speak for themselves.</content>
+        </sentence>
+        <sentence id="15">
+          <content>One can only ask are these charges based on the facts and the law or something else.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Mr. Wallace looks forward to confronting his accusers in the courtroom,&amp;quot; Meier said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="17">
+          <content>Ortiz, 27, of Bristol, Connecticut, had been indicted in September on a single count of accessory to murder after the fact in connection with Lloyd&amp;apost;s death.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="18">
+          <content>Ortiz&amp;apost;s attorney, John Connors, told CNN that he heard about the indictment not from the district attorney, but from the news media.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;I was a bit shocked,&amp;quot; Connors said.</content>
+        </sentence>
+        <sentence id="20">
+          <content>&amp;quot;I knew the matter had come up before a second grand jury ... but, to my knowledge, there&amp;apost;s been no new discovery ... no new information.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="21">
+          <content>&amp;quot;First, they charged him with being an accessory ... and now, all of a sudden they indict him for murder,&amp;quot; Conners added.</content>
+        </sentence>
+        <sentence id="22">
+          <content>Maybe, it&amp;apost;s political.&amp;quot;</content>
+        </sentence>
+        <sentence id="23">
+          <content>Asked to elaborate, he said, &amp;quot;Maybe you should ask the DA.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="24">
+          <content>Wallace, who also was indicted last fall on an accessory-after-the-fact-to-murder charge, had turned himself in to police in Miramar, Florida, at his family&amp;apost;s home more than a week later after taking a bus to Florida from Georgia.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="25">
+          <content>In addition, Hernandez&amp;apost;s fiancee, Shayanna Jenkins, 24, was charged in September with a single count of perjury and his cousin, Tanya Singleton, 37, was charged with &amp;quot;conspiracy to commit accessory after the fact.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="26">
+          <content>Singleton, who was already being held on a previous indictment for contempt of court by allegedly refusing to testify before a grand jury, saw both of the cases against her combined.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

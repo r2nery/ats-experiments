@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1899" link="http://www.cnn.com/2012/12/15/us/connecticut-school-shooting/index.html" date_published="2012-12-15 09:19:57" category="us" author="Susan Candiotti and Dana Ford, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Connecticut school victims were shot multiple times</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="8">President Barack Obama will travel to Newtown, Connecticut. on Sunday.</sentence>
+      <sentence id="2" ids_article_sentences="21">The father of a young victim remembers his daughter as bright, creative and loving .</sentence>
+      <sentence id="3" ids_article_sentences="17">12 girls and eights boys were killed at Sandy Hook Elementary School .</sentence>
+      <sentence id="4" ids_article_sentences="18">Six adults were also murdered, in addition to the mother of the suspected shooter.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-08 23:54:08" annotation_time="166.21533" mapping_time_divergence="41.553833">
+      <sentence id="8" ids_highlights="1">President Barack Obama spoke tearfully about the massacre on Friday and is scheduled to travel to Newtown on Sunday to meet with families of the victims.</sentence>
+      <sentence id="17" ids_highlights="3">Twelve girls and eight boys were killed, all either 6 or 7 years old.</sentence>
+      <sentence id="18" ids_highlights="4">The adults ranged in ages from 27 to 56, and included the school&amp;apost;s principal, psychologist and at least two teachers.</sentence>
+      <sentence id="21" ids_highlights="2">He described his daughter as bright, creative and loving.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Newtown, Connecticut Authorities in Newtown, Connecticut, put together more pieces of the puzzle Saturday to explain what happened inside Sandy Hook Elementary School, one day after a gunman opened fire there, killing 20 students and six adults.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>All the victims died from gunshot wounds and were struck more than once, according to H. Wayne Carver II, chief medical examiner for the state of Connecticut.</content>
+        </sentence>
+        <sentence id="3">
+          <content>Their deaths were classified as homicides.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>&amp;quot;I&amp;apost;ve been at this for a third of a century.</content>
+        </sentence>
+        <sentence id="5">
+          <content>My sensibilities may not be the average man, but this probably is the worst I have seen or the worst that I know of any of my colleagues having seen,&amp;quot; Carver told reporters.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>The deadly school shooting shattered the quiet of this southern New England town and left a nation reeling over the number of lives, particularly young lives lost.</content>
+        </sentence>
+        <sentence id="7">
+          <content>It also reignited the perennial debate about gun laws in America.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>President Barack Obama spoke tearfully about the massacre on Friday and is scheduled to travel to Newtown on Sunday to meet with families of the victims.</content>
+        </sentence>
+        <sentence id="9">
+          <content>He will deliver remarks during an evening vigil.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>Law enforcement officials have identified the gunman as 20-year-old Adam Lanza.</content>
+        </sentence>
+        <sentence id="11">
+          <content>He apparently took his own life, after taking that of his mother and the 26 people at the school.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>Lanza was found dead next to three guns, a semi-automatic .223-caliber Bushmaster rifle and two pistols made by Glock and Sig Sauer, a law enforcement source told CNN.</content>
+        </sentence>
+        <sentence id="13">
+          <content>All belonged to his mother.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="14">
+          <content>Carver, who performed autopsies on seven of the victims, said the wounds he knew about were caused by a &amp;quot;long weapon.&amp;quot;</content>
+        </sentence>
+        <sentence id="15">
+          <content>Asked by a reporter whether the rifle was the primary weapon, he responded, &amp;quot;Yes.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="16">
+          <content>He spoke as police released a list of the names of ages of the victims.</content>
+        </sentence>
+        <sentence id="17">
+          <content>Twelve girls and eight boys were killed, all either 6 or 7 years old.</content>
+        </sentence>
+        <sentence id="18">
+          <content>The adults ranged in ages from 27 to 56, and included the school&amp;apost;s principal, psychologist and at least two teachers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="19">
+          <content>Among those killed was Emilie Parker, 6.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="20">
+          <content>&amp;quot;As the deep pain begins to settle into our hearts, we find comfort reflecting on the incredible person that Emilie was and how many lives that she was able to touch in her short time here on Earth,&amp;quot; her father, Robbie Parker, told reporters, struggling to speak through tears.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="21">
+          <content>He described his daughter as bright, creative and loving.</content>
+        </sentence>
+        <sentence id="22">
+          <content>She loved to draw pictures and try new things.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="23">
+          <content>&amp;quot;Emilie&amp;apost;s laughter was infectious and all those who had the pleasure to meet her would agree that this world is a better place because she has been in it,&amp;quot; her father said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="24">
+          <content>Also killed were Dawn Hochsprung, the school&amp;apost;s beloved principal, school psychologist Mary Sherlach, Vicki Soto, a first-grade teacher, and substitute teacher Lauren Rousseau.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="25">
+          <content>Searching for answers in their deaths, major crime investigators police were combing &amp;quot;every crack and crevice&amp;quot; of the school.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="26">
+          <content>They said they&amp;apost;re finding some &amp;quot;very good evidence&amp;quot; there, and at the home of the shooter.</content>
+        </sentence>
+        <sentence id="27">
+          <content>Lanza&amp;apost;s mother, Nancy, was killed at that house, authorities said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="28">
+          <content>&amp;quot;The detectives will certainly analyze everything and put a complete picture together of the evidence that they did obtain, and we&amp;apost;re hopeful -- we&amp;apost;re hopeful -- that it will paint a complete picture as to how and why this entire unfortunate incidence occurred,&amp;quot; said Lt. J. Paul Vance, a spokesman for the Connecticut State Police.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="29">
+          <content>Authorities, meanwhile, in Hoboken, New Jersey, were questioning Ryan Lanza, the suspected gunman&amp;apost;s older brother, law enforcement sources said, though they did not label him a suspect.</content>
+        </sentence>
+        <sentence id="30">
+          <content>Lanza&amp;apost;s father, Peter, who lives in Connecticut, was similarly questioned, one of the law enforcement officials said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="31">
+          <content>Peter Lanza released a statement Saturday expressing condolences to the families of victims.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="32">
+          <content>&amp;quot;Our family is grieving along with all those who have been affected by this enormous tragedy.</content>
+        </sentence>
+        <sentence id="33">
+          <content>No words can truly express how heartbroken we are.</content>
+        </sentence>
+        <sentence id="34">
+          <content>We are in a state of disbelief and trying to find whatever answers we can,&amp;quot; said the statement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="35">
+          <content>Two law enforcement sources said Adam Lanza lived with his mother.</content>
+        </sentence>
+        <sentence id="36">
+          <content>Contrary to early reports, they said, Nancy Lanza was not a teacher at Sandy Hook Elementary.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="37">
+          <content>Nancy Lanza was a gun collector and recently showed off a newly bought rifle to fellow Newtown resident Dan Holmes, who owns a landscaping business in the town.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="38">
+          <content>Besides the three weapons found at the school, Adam Lanza also had access to at least three more guns, a law enforcement source said.</content>
+        </sentence>
+        <sentence id="39">
+          <content>Investigators recovered a .45-caliber Henry Repeating Rifle, a .22-caliber Marlin Rifle and a .30-caliber Enfield Rifle, though it&amp;apost;s unclear where they were found, the source said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="40">
+          <content>Investigators believe Lanza killed his mother and then took her guns and made his way to the elementary school wearing black fatigues and a military vest, according to a law enforcement official.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="41">
+          <content>According to Vance, Lanza forced his way into the school though he wouldn&amp;apost;t say how or whether Lanza used weapons to do it.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="42">
+          <content>Authorities said it&amp;apost;s also not clear whether Lanza entered before or after 9:30 a.m., the time each day when the school would lock its doors as part of a security system introduced this year.</content>
+        </sentence>
+        <sentence id="43">
+          <content>Authorities say the first emergency call about the shooting came in at &amp;quot;approximately&amp;quot; 9:30 a.m. Friday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="44">
+          <content>Within minutes, 26 people had been killed with chilling efficiency, leaving only the one wounded survivor.</content>
+        </sentence>
+        <sentence id="45">
+          <content>The survivor, an adult, has not been named.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="46">
+          <content>&amp;quot;She has been treated and she&amp;apost;ll be instrumental in this investigation, as I&amp;apost;m sure you can understand,&amp;quot; Vance said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="47">
+          <content>The massacre in Newtown is the second-deadliest school shooting in U.S. history, behind the 2007 Virginia Tech mass shooting that left 32 dead.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="48">
+          <content>&amp;quot;Stuff like this does not happen in Newtown,&amp;quot; said Renee Burn, a teacher at another school in the town, which is roughly 75 miles northeast of New York City.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="49">
+          <content>Until Friday, only one homicide in the past 10 years had been reported in the upscale community of expansive homes surrounded by woods, where many residents commute to jobs in Manhattan and the nearby Connecticut cities of Stamford and Hartford.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="50">
+          <content>Flags were lowered to half-staff in a number of states, and vigils were held at houses of worship and at schools amid a national outpouring of grief.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="51">
+          <content>People are sharing their concern and sadness over the Newtown school shooting.</content>
+        </sentence>
+        <sentence id="52">
+          <content>What are your thoughts?</content>
+        </sentence>
+        <sentence id="53">
+          <content>Share them with CNN iReport.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

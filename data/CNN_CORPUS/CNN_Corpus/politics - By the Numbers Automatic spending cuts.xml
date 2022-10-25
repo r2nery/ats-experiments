@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="996" link="http://www.cnn.com/2013/02/15/politics/btn-automatic-spending-cuts/index.html" date_published="2013-02-16 00:07:23" category="politics" author="Amy Roberts, CNN Library" highlights_mapped="true" mapping_error="false">
+  <title>By the Numbers: Automatic spending cuts</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="7">Approximately $16.5 trillion - The United States national debt.</sentence>
+      <sentence id="2" ids_article_sentences="4">$1.2 trillion - Total amount of the potential cuts, over 10 years.</sentence>
+      <sentence id="3" ids_article_sentences="6">$85 billion - Deficit reduction needed to postpone cuts through September 2013.</sentence>
+      <sentence id="4" ids_article_sentences="10">2% - Cuts to Medicare if &amp;quot;sequestration&amp;quot; takes effect.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-25 09:38:50" annotation_time="18.185333">
+      <sentence id="4" ids_highlights="2">$1.2 trillion - Total amount of the potential sequestration cuts, over 10 years.</sentence>
+      <sentence id="6" ids_highlights="3">$85 billion - Amount of deficit reduction necessary for fiscal year 2013 in order to postpone the automatic spending cuts from taking effect March 1.</sentence>
+      <sentence id="7" ids_highlights="1">Approximately $16.5 trillion - The United States national debt.</sentence>
+      <sentence id="10" ids_highlights="4">2% - Cuts to Medicare if sequestration takes effect.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>While a growing chorus in Washington, including President Barack Obama, House Speaker John Boehner, multiple Cabinet secretaries, and some political pundits, criticize deep, automatic spending cuts set to take effect on March 1, the White House and Congress have yet to come up with an alternative to avoid them.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>With the imposition of at least some of them appearing more and more likely, here&amp;apost;s a look, by the numbers, at Washington&amp;apost;s self-imposed budget austerity (aka &amp;quot;sequestration&amp;quot; or the &amp;quot;sequester&amp;quot;):.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>2 - Provisions in the Budget Act of 2011 that can result in automatic spending cuts: Appropriating funds over newly established spending caps for years 2012-2021, where the extra amount is automatically cut, and failure of Congress to enact specific deficit-reduction legislation, which has happened.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>$1.2 trillion - Total amount of the potential sequestration cuts, over 10 years.</content>
+        </sentence>
+        <sentence id="5">
+          <content>This is based on the amount not cut from the deficit by the congressional &amp;quot;super committee&amp;quot; created by the Budget Control Act of 2011.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>$85 billion - Amount of deficit reduction necessary for fiscal year 2013 in order to postpone the automatic spending cuts from taking effect March 1.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>Approximately $16.5 trillion - The United States national debt.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>9.4% - Reduction in non-exempt defense discretionary funding if sequestration takes effect.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>8.2% - Reduction in non-exempt nondefense discretionary funding if sequestration takes effect.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="10">
+          <content>2% - Cuts to Medicare if sequestration takes effect.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="11">
+          <content>7.6% - Cuts to other non-exempt nondefense mandatory programs if sequestration takes effect.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="12">
+          <content>10% - Cuts to non-exempt defense mandatory programs if sequestration takes effect.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="13">
+          <content>10 - Number of days after the end of a session of Congress during which the Congressional Budget Office must submit a sequestration report on the current fiscal year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="14">
+          <content>About $130 million - Amount of lost funding if sequestration takes effect from the Department of the Interior to Native American tribes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="15">
+          <content>About 1,200 - Occupational Safety and Health Administration (OSHA) workplace inspections that would be cut.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="16">
+          <content>Up to $902 million - Reductions in loan guarantees to small businesses if sequestration takes effect.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="17">
+          <content>Up to 766,000 - Number of health care-related jobs that could be lost or eliminated due to 2% cuts in Medicare spending under sequestration, according to a recent report from the American Hospital Association, the American Medical Association, and the American Nurses Association.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

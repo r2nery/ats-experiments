@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1602" link="http://edition.cnn.com/2014/08/05/tech/gulf-of-mexico-dead-zone/index.html?hpt=hp_mid" date_published="2014-08-05 09:08:02" category="tech" author="Melodi Smith and Jason Hanna, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Gulf of Mexico &amp;apost;dead zone&amp;apost; is the size of Connecticut</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="16">The Gulf of Mexico &amp;quot;dead zone&amp;quot; is caused by an algae blooms that suck up oxygen.</sentence>
+      <sentence id="2" ids_article_sentences="8">Scientists first discovered a dead zone in the Gulf in 1972.</sentence>
+      <sentence id="3" ids_article_sentences="18">The number of dead zones across the globe is growing.</sentence>
+      <sentence id="4" ids_article_sentences="20">They cost U.S. seafood and tourism industries $82 million a year, NOAA estimates.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-13 16:56:22" annotation_time="30.5725">
+      <sentence id="8" ids_highlights="2">Scientists first discovered a dead zone in these waters in 1972, and it has appeared ever spring and summer since, with varying sizes.</sentence>
+      <sentence id="16" ids_highlights="1">The Gulf of Mexico dead zone is the world&amp;apost;s second-largest caused by humans, Rabalais said.</sentence>
+      <sentence id="18" ids_highlights="3">&amp;quot;The number of dead zones throughout the world has been increasing in the last several decades and currently totals over 550,&amp;quot; Rabalais said.</sentence>
+      <sentence id="20" ids_highlights="4">NOAA estimates the annual cost of algae blooms to U.S. seafood and tourism industries at $82 million or more.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The Gulf of Mexico&amp;apost;s annual spring-summer &amp;quot;dead zone&amp;quot; is the size of Connecticut -- slightly smaller now than in recent years but nowhere near the trim for which scientists had aimed, researchers said this week.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Scientists&amp;apost; annual survey found an area of 5,052 square miles of &amp;quot;low oxygen water,&amp;quot; or hypoxia, off much of Louisiana&amp;apost;s coast and part of Texas, the National Oceanic and Atmospheric Administration said Monday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The zone is formed by nutrients that wash into the Gulf&amp;apost;s waters -- largely agriculture fertilizer and wastewater coming down the Mississippi River.</content>
+        </sentence>
+        <sentence id="4">
+          <content>These boost algae blooms that suck up the oxygen in deep water, according to NOAA and the U.S. Geological Survey.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Marine life struggles to find enough oxygen to survive within the zone.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>Fish and shrimp can migrate to areas with oxygen-rich water, but some life forms in the deep water and ocean floor -- including those that serve as food for the fish and shrimp -- can&amp;apost;t get out of the zone and eventually die.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>That hurts biodiversity and makes food hard to come by for the fish and shrimp when they return, said the survey&amp;apost;s leader, Nancy Rabalais, executive director of the Louisiana Universities Marine Consortium.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>Scientists first discovered a dead zone in these waters in 1972, and it has appeared ever spring and summer since, with varying sizes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>This year&amp;apost;s dead zone, measured from July 27 to August 2, is smaller than the five-year average of 5,550 square miles, and well under 2002&amp;apost;s record 8,481 square miles.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="10">
+          <content>But scientists had set a goal of reducing the zone to 1,900 square miles by 2015 -- and this year&amp;apost;s measurement likely means that target won&amp;apost;t be met, Rabalais said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;The average we&amp;apost;re targeting against is three times the goal.</content>
+        </sentence>
+        <sentence id="12">
+          <content>... There hasn&amp;apost;t been any progress in reaching that goal,&amp;quot; she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="13">
+          <content>Ways to shrink the zone, she said, would include changing agricultural practices, including the timing of fertilization -- ideas that have worked well on the small scale but not, so far, on the large.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="14">
+          <content>There&amp;apost;s been no evidence to show that the Gulf of Mexico oil spill of 2010 had any contribution to that year&amp;apost;s dead zone or any subsequent one, Rabalais said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="15">
+          <content>The survey is supported by NOAA and the Environmental Protection Agency.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="16">
+          <content>The Gulf of Mexico dead zone is the world&amp;apost;s second-largest caused by humans, Rabalais said.</content>
+        </sentence>
+        <sentence id="17">
+          <content>The largest is in the Baltic Sea.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;The number of dead zones throughout the world has been increasing in the last several decades and currently totals over 550,&amp;quot; Rabalais said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="19">
+          <content>Dead zones amount to an expensive hit for America&amp;apost;s fishing industry.</content>
+        </sentence>
+        <sentence id="20">
+          <content>NOAA estimates the annual cost of algae blooms to U.S. seafood and tourism industries at $82 million or more.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

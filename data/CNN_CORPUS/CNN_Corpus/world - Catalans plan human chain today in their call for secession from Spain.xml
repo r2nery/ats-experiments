@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2105" link="http://www.cnn.com/2013/09/11/world/europe/spain-human-chain/index.html" date_published="2013-09-11 12:05:22" category="world" author="Al Goodman, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Catalans plan human chain today in their call for secession from Spain</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="5">Organizers say 370,000 people have signed up to take part.</sentence>
+      <sentence id="2" ids_article_sentences="1">The chain is expected to stretch for 400 kilometers (about 250 miles).</sentence>
+      <sentence id="3" ids_article_sentences="3">Catalan politicians are calling for a vote on self-determination by the end of 2014.</sentence>
+      <sentence id="4" ids_article_sentences="10">But the Spanish government says that Catalonia already has sufficient home-rule powers.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-17 14:39:34" annotation_time="26.864998">
+      <sentence id="1" ids_highlights="2">Madrid Hundreds of thousands of Catalans in northeastern Spain are due to increase pressure on Madrid for an independent, breakaway state Wednesday by forming a human chain for 400 kilometers (about 250 miles).</sentence>
+      <sentence id="3" ids_highlights="3">Catalan politicians followed up by demanding a referendum on self-determination by the end of 2014, which the Spanish government in Madrid staunchly opposes.</sentence>
+      <sentence id="5" ids_highlights="1">Organizers say 370,000 Catalans have signed up to take part, and they predict tens of thousands more will also participate.</sentence>
+      <sentence id="10" ids_highlights="4">It says that Catalonia, with 7.5 million people, already has broad home-rule powers, including its own parliament, police force and control over education and health.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Madrid Hundreds of thousands of Catalans in northeastern Spain are due to increase pressure on Madrid for an independent, breakaway state Wednesday by forming a human chain for 400 kilometers (about 250 miles).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The human chain is organized by the grass-roots, citizen-led Catalan National Assembly, which last year on September 11 -- Catalonia&amp;apost;s national day -- turned out an estimated 1.5 million people in Barcelona, the regional capital.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Catalan politicians followed up by demanding a referendum on self-determination by the end of 2014, which the Spanish government in Madrid staunchly opposes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>While the political battle continues between Spain&amp;apost;s two largest cities, Madrid and Barcelona, the human chain has emerged as the latest rallying point.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>Organizers say 370,000 Catalans have signed up to take part, and they predict tens of thousands more will also participate.</content>
+        </sentence>
+        <sentence id="6">
+          <content>The chain will traverse Catalonia from the north, near the French border, to the south, on its border with the Spanish region of Valencia.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;It will be an innocent but powerful image to push the process ahead, holding hands,&amp;quot; said Alfred Bosch, who represents Catalonia&amp;apost;s pro-independence Republican Left party in Spanish Parliament in Madrid.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>Dubbed the &amp;quot;Catalan Way Toward Independence,&amp;quot; the human chain shows the process can only &amp;quot;go ahead, forward, and not back,&amp;quot; Bosch said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>But the Spanish government doubts that.</content>
+        </sentence>
+        <sentence id="10">
+          <content>It says that Catalonia, with 7.5 million people, already has broad home-rule powers, including its own parliament, police force and control over education and health.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>And Madrid insists that the Spanish Constitution does not allow any of Spain&amp;apost;s 17 regions to unilaterally break away, even one like Catalonia that has its own flag and language.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>On the eve of the human chain, Spanish Foreign Minister Jose Manuel Garcia-Margallo said political leaders should find a way to keep Catalonia within Spain.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="13">
+          <content>But Catalan&amp;apost;s president, Artur Mas, in an opinion article published Wednesday in The New York Times, wrote: &amp;quot;We ... seek no harm to Spain.</content>
+        </sentence>
+        <sentence id="14">
+          <content>We are bound together by geography, history and our people, as more than 40 percent of Catalonia&amp;apost;s population came from other parts of Spain or has close family ties.</content>
+        </sentence>
+        <sentence id="15">
+          <content>We want to be Spain&amp;apost;s brother, as equal partners.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="16">
+          <content>Catalonia says it&amp;apost;s been the junior partner for too long.</content>
+        </sentence>
+        <sentence id="17">
+          <content>It produces 19% of Spain&amp;apost;s wealth and says it sends far more in taxes to Madrid than it gets back in central government spending.</content>
+        </sentence>
+        <sentence id="18">
+          <content>It recalls a long history of slights, and at certain times outright repression, by Spain.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="19">
+          <content>The human chain will start at 17:14 local time (11:14 a.m. ET), to honor Catalans who on September 11, 1714, lost a decisive battle to Spanish troops.</content>
+        </sentence>
+        <sentence id="20">
+          <content>The chain will last about an hour.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="21">
+          <content>The current polemic is not just between Catalonia and Spain.</content>
+        </sentence>
+        <sentence id="22">
+          <content>Within Catalonia, there is also tension between leading political forces over the timing, and the potential wording, of the referendum.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="23">
+          <content>President Mas, whose center-right Convergence and Union party governs only because of support from the Republican Left, seemed to leave the door open last week for a vote on self-determination later than 2014, perhaps in 2016.</content>
+        </sentence>
+        <sentence id="24">
+          <content>He has since repeated that he favors the 2014 deadline.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="25">
+          <content>But the Republican Left and those organizing the human chain insist it must be by the end of 2014, with or without the consent of Madrid.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="26">
+          <content>Various opinion polls show a very large majority of Catalans want the right of self-determination.</content>
+        </sentence>
+        <sentence id="27">
+          <content>But if independence makes it to the ballot, polls show the result could be tighter, some predicting a victory in the 50% range.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

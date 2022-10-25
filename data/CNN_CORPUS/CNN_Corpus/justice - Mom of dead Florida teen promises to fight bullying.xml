@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="576" link="http://www.cnn.com/2013/10/20/justice/rebecca-sedwick-bullying-death/index.html" date_published="2013-10-20 08:25:49" category="justice" author="AnneClaire Stapleton and Holly Yan, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Mom of dead Florida teen promises to fight bullying</title>
+  <keywords>rebecca sedwick,cyberbullying</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="7">&amp;quot;I did my very best to protect you and now I feel like I failed,&amp;quot; Rebecca Sedwick&amp;apost;s mother says.</sentence>
+      <sentence id="2" ids_article_sentences="4">Rebecca, 12, jumped off a silo last month after she was bullied by schoolmates.</sentence>
+      <sentence id="3" ids_article_sentences="8">Rebecca&amp;apost;s mom promises her that she will teach other parents about how serious bullying is.</sentence>
+      <sentence id="4" ids_article_sentences="36">The father of a teen suspect says his daughter didn&amp;apost;t post a nasty message on Facebook.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-17 15:26:34" annotation_time="60.34">
+      <sentence id="4" ids_highlights="2">She killed herself last month, jumping off a silo after she was tormented by bullying.</sentence>
+      <sentence id="7" ids_highlights="1">I knew I was gifted with a precious life and every moment since, I did my very best to protect you and now I feel like I failed that very important job that God gave me because He took you from me way too soon,&amp;quot; Norman wrote.</sentence>
+      <sentence id="8" ids_highlights="3">&amp;quot;I am doing my very best to make sure that other parents are made aware of how serious of a problem bullying is and I hope you are proud of me and satisfied with my progress.</sentence>
+      <sentence id="36" ids_highlights="4">But Guadalupe&amp;apost;s father, Jose, told CNN&amp;apost;s &amp;quot;New Day&amp;quot; last week that his daughter couldn&amp;apost;t have been the one to post that message.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Rebecca Sedwick should be 13 now.</content>
+        </sentence>
+        <sentence id="2">
+          <content>She should be enjoying the birthday cupcakes and ice cream her mom planned for her.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>But Rebecca will never know what it&amp;apost;s like to be a teenager.</content>
+        </sentence>
+        <sentence id="4">
+          <content>She killed herself last month, jumping off a silo after she was tormented by bullying.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>Her mother, Tricia Norman, posted a birthday message to Rebecca on Facebook on what would have been her 13th birthday Saturday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;I remember so clearly the moment you were born.</content>
+        </sentence>
+        <sentence id="7">
+          <content>I knew I was gifted with a precious life and every moment since, I did my very best to protect you and now I feel like I failed that very important job that God gave me because He took you from me way too soon,&amp;quot; Norman wrote.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;I am doing my very best to make sure that other parents are made aware of how serious of a problem bullying is and I hope you are proud of me and satisfied with my progress.</content>
+        </sentence>
+        <sentence id="9">
+          <content>I am also working hard to make sure those that wronged you pay the price for what they did to you!!&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>Over a boy?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>Rebecca and one of her alleged bullies were once friends, but they both had feelings for the same boy, police said.</content>
+        </sentence>
+        <sentence id="12">
+          <content>It soured their relationship.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>In November 2012, the bullying began, Judd said, and it expanded beyond the initial tensions between the two girls.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>Police arrested a second suspect accused of intensely bullying Rebecca, and they also confiscated the laptops and cell phones of 15 girls at Crystal Lake Middle School, which Rebecca had attended.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>They found a barrage of horrible messages:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;nobody cares about u&amp;quot;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;i hate u&amp;quot;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;you seriously deserve to die&amp;quot;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="19">
+          <content>Rebecca apparently gave up on herself, Polk County Sheriff Grady Judd said.</content>
+        </sentence>
+        <sentence id="20">
+          <content>&amp;quot;Rebecca wasn&amp;apost;t attacking back.</content>
+        </sentence>
+        <sentence id="21">
+          <content>She appeared to be beat down.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="22">
+          <content>But Rebecca&amp;apost;s suffering was no secret at her school.</content>
+        </sentence>
+        <sentence id="23">
+          <content>Teachers saw her in tears.</content>
+        </sentence>
+        <sentence id="24">
+          <content>In December, she was hospitalized after slitting her wrists.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="25">
+          <content>Her school started a campaign against bullying, giving talks before the student body to discourage it.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="26">
+          <content>The night before her deadly plunge, she sent a message to a boy she met on Facebook: &amp;quot;I&amp;apost;m jumping.</content>
+        </sentence>
+        <sentence id="27">
+          <content>I can&amp;apost;t take it anymore.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="28">
+          <content>A suspect&amp;apost;s defense.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="29">
+          <content>Two girls have been charged with aggravated stalking in Rebecca&amp;apost;s case: 14-year-old Guadalupe Shaw and 12-year-old Kaitlyn Roman.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="30">
+          <content>CNN does not typically identify minors who are charged as juveniles, but the network is doing so in this case because their identities have been publicized by law enforcement and have received extensive publicity in their local media.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="31">
+          <content>Weeks after Rebecca leaped to her death, a potentially incriminating message appeared on Guadalupe&amp;apost;s Facebook page:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="32">
+          <content>&amp;quot;Yes IK I bullied REBECCA nd she killed her self but IDGAF,&amp;quot; the message read.</content>
+        </sentence>
+        <sentence id="33">
+          <content>Judd said the online vernacular meant: &amp;quot;I don&amp;apost;t give a (expletive).&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="34">
+          <content>The sheriff called in Guadalupe and her family about the post.</content>
+        </sentence>
+        <sentence id="35">
+          <content>Police arrested the daughter.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="36">
+          <content>But Guadalupe&amp;apost;s father, Jose, told CNN&amp;apost;s &amp;quot;New Day&amp;quot; last week that his daughter couldn&amp;apost;t have been the one to post that message.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="37">
+          <content>The father had just finished watching the news on TV when he found her asleep and sent her to bed.</content>
+        </sentence>
+        <sentence id="38">
+          <content>It was about that time that the message landed on Facebook, he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="39">
+          <content>&amp;quot;I grabbed the computer and took it to my room, and the only other thing she could have used to send this message was my cell phone, and my cell phone is always with me,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="40">
+          <content>He said he suspects someone hacked her account.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="41">
+          <content>But the sheriff said he doubts that.</content>
+        </sentence>
+        <sentence id="42">
+          <content>Judd said investigators don&amp;apost;t believe the teen&amp;apost;s Facebook account was compromised, Judd said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="43">
+          <content>Mother of teen suspect arrested.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="44">
+          <content>Not long after Guadalupe&amp;apost;s arrest, her mother was arrested on suspicion of child abuse and child neglect, authorities said Friday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="45">
+          <content>Judd said 30-year-old Vivian Vosburg was arrested Friday afternoon.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="46">
+          <content>The sheriff emphasized that Vosburg&amp;apost;s charges are not related to those of her daughter and the other young suspect in Rebecca&amp;apost;s case.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="47">
+          <content>Vosburg&amp;apost;s arrest came after authorities received tips from residents that she might have been involved in beating children, Judd said.</content>
+        </sentence>
+        <sentence id="48">
+          <content>A minute-long video clip Judd played at a Friday press conference showed a woman, whom he identified as Vosburg, punching two boys with her fist while shouting profanities.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="34">
+      <sentences>
+        <sentence id="49">
+          <content>Judd said the mother first argued the beating was an accident but then said it &amp;quot;got out of hand&amp;quot; partly because she was having a bad day.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="35">
+      <sentences>
+        <sentence id="50">
+          <content>The video had been posted to the Internet and has since been taken down.</content>
+        </sentence>
+        <sentence id="51">
+          <content>It wasn&amp;apost;t immediately clear who took the video or when and where it was taken.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

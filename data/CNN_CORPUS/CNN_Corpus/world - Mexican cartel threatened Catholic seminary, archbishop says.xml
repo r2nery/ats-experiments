@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2431" link="http://www.cnn.com/2013/12/03/world/americas/mexico-cartel-catholic-seminary-extortion/index.html" date_published="2013-12-04 00:35:32" category="world" author="Rafael Romo and Catherine E. Shoichet, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Mexican cartel threatened Catholic seminary, archbishop says</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="24">Mexico City&amp;apost;s archbishop says a cartel tried to extort a seminary.</sentence>
+      <sentence id="2" ids_article_sentences="2">Anonymous callers claimed to be from the Familia Michoacana cartel.</sentence>
+      <sentence id="3" ids_article_sentences="16">They threatened to kill if money wasn&amp;apost;t paid, he says.</sentence>
+      <sentence id="4" ids_article_sentences="14">The Catholic Church has been caught in the crossfire of warring cartels.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-28 13:50:06" annotation_time="82.16967" mapping_time_divergence="20.542418">
+      <sentence id="2" ids_highlights="2">Callers, claiming to be from one of the country&amp;apost;s feared drug cartels, offered an ominous warning: Pay up if you value the safety of your priests.</sentence>
+      <sentence id="14" ids_highlights="4">His description Sunday of the extortion attempts and a statement denouncing drug violence give a glimpse into the problems faced by a Catholic Church often caught in the crossfire of warring cartels and government efforts to stop them.</sentence>
+      <sentence id="16" ids_highlights="3">&amp;quot;None of them have paid,&amp;quot; he told CNN.</sentence>
+      <sentence id="24" ids_highlights="1">In 2009, Hector Gonzalez, the archbishop of the northern state of Durango, raised fears of attacks on the clergy after he said that Mexico&amp;apost;s most wanted man, Sinaloa cartel boss Joaquin &amp;quot;El Chapo&amp;quot; Guzman, lived in a Durango town and that &amp;quot;everybody knows it except the authorities.&amp;quot;</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The threatening calls reportedly came one after the other to Mexico&amp;apost;s main Catholic seminary.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Callers, claiming to be from one of the country&amp;apost;s feared drug cartels, offered an ominous warning: Pay up if you value the safety of your priests.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;They called several times.</content>
+        </sentence>
+        <sentence id="4">
+          <content>They identified themselves as the Familia Michoacana, but who knows?&amp;quot;</content>
+        </sentence>
+        <sentence id="5">
+          <content>Cardinal Norberto Rivera, archbishop of Mexico City, revealed at a Mass this week.</content>
+        </sentence>
+        <sentence id="6">
+          <content>&amp;quot;I spoke with the authorities.</content>
+        </sentence>
+        <sentence id="7">
+          <content>We made the appropriate report.</content>
+        </sentence>
+        <sentence id="8">
+          <content>Because they wanted us to pay.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Because if not, they would kill one of us.</content>
+        </sentence>
+        <sentence id="10">
+          <content>They wanted to extort 60,000 pesos ($4,600).&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="11">
+          <content>Reports of extortion have become increasingly common as drug cartels expand their reach in Mexico.</content>
+        </sentence>
+        <sentence id="12">
+          <content>But public denouncements of such attempts are rare.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="13">
+          <content>Rivera called on parishioners to report extortion to authorities, and he urged them not to pay.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="14">
+          <content>His description Sunday of the extortion attempts and a statement denouncing drug violence give a glimpse into the problems faced by a Catholic Church often caught in the crossfire of warring cartels and government efforts to stop them.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="15">
+          <content>In the country&amp;apost;s capital alone, more than 10 priests have been threatened with extortion, said the Reverend Hugo Valdemar Romero, a spokesman for the archdiocese.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;None of them have paid,&amp;quot; he told CNN.</content>
+        </sentence>
+        <sentence id="17">
+          <content>&amp;quot;Last year, two extortionists were arrested.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="18">
+          <content>It&amp;apost;s not uncommon for individual parishes to face extortion threats, he said.</content>
+        </sentence>
+        <sentence id="19">
+          <content>But the calls last month to the Seminary of the Archdiocese of Mexico marked the first time such a large church-run institution in the capital had been targeted, Romero said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="20">
+          <content>Mexico&amp;apost;s Catholic priests have long struggled with how to deal with spiraling drug violence and cartel culture.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="21">
+          <content>In addition to widespread extortion attempts by gangs, church officials have said clergy have received threatening notes and telephone calls after sermons against drug use and trafficking.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="22">
+          <content>In 1993, Cardinal Juan Posadas Ocampo was gunned down in the parking lot of an airport in Guadalajara, Mexico.</content>
+        </sentence>
+        <sentence id="23">
+          <content>Authorities said a drug gang had confused him with a rival trafficker, but some church leaders claimed he was targeted for denouncing drug trafficking.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="24">
+          <content>In 2009, Hector Gonzalez, the archbishop of the northern state of Durango, raised fears of attacks on the clergy after he said that Mexico&amp;apost;s most wanted man, Sinaloa cartel boss Joaquin &amp;quot;El Chapo&amp;quot; Guzman, lived in a Durango town and that &amp;quot;everybody knows it except the authorities.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="25">
+          <content>Days later, investigators found the bodies of two slain military lieutenants in mountains nearby, accompanied by a note: &amp;quot;Neither the government nor priests can handle El Chapo.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="26">
+          <content>Gonzalez quickly backed away from his comments, telling reporters who asked him about them, &amp;quot;I am deaf and dumb.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="27">
+          <content>There&amp;apost;s also a flip side.</content>
+        </sentence>
+        <sentence id="28">
+          <content>Some critics say churches have received large donations from traffickers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="29">
+          <content>A plaque inside a chapel in Mexico&amp;apost;s Hidalgo state once boasted a donation from Heriberto Lazcano Lazcano, a leader of the Zetas cartel until his death last year in a shootout with Mexican forces.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="30">
+          <content>This year, even as government officials have suggested that drug-related violence could be on the decline, church leaders have warned that priests and the congregations they serve remain at risk.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="31">
+          <content>Last week two priests were killed in Mexico&amp;apost;s Veracruz state.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="32">
+          <content>Authorities arrested four suspects after the priests were found slain inside their parish.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="33">
+          <content>A group of Mexico&amp;apost;s Catholic bishops have said they plan to discuss the violence with Pope Francis during a visit to the Vatican next year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

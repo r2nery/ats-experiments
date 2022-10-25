@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1984" link="http://www.cnn.com/2013/05/06/us/utah-soccer-death/index.html" date_published="2013-05-06 15:12:02" category="us" author="Jackie Castillo and Josh Levs, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Slain referee risked violence for &amp;apost;his passion,&amp;apost; daughter says</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="16">After a referee cites a player for an infraction, the player turns around and punches him.</sentence>
+      <sentence id="2" ids_article_sentences="19">At first, officials think the referee&amp;apost;s injuries are minor.</sentence>
+      <sentence id="3" ids_article_sentences="21">He dies after remaining in critical condition for a week.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-17 14:18:56" annotation_time="24.772">
+      <sentence id="16" ids_highlights="1">He cited a player for an infraction and issued him a cautionary &amp;quot;yellow card.&amp;quot;</sentence>
+      <sentence id="19" ids_highlights="2">At first, authorities thought Portillo suffered only minor injuries.</sentence>
+      <sentence id="21" ids_highlights="3">For seven days he remained in critical condition.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>A referee who died after being punched by a teenage player knew well the violence that too often surfaced in his recreational soccer league.</content>
+        </sentence>
+        <sentence id="2">
+          <content>But neither he nor his family thought it would turn deadly, his heartbroken daughter told CNN Monday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;The first time he got attacked was like 10 years ago.</content>
+        </sentence>
+        <sentence id="4">
+          <content>He was a player.</content>
+        </sentence>
+        <sentence id="5">
+          <content>He got a broken leg,&amp;quot; Johana Portillo said on CNN&amp;apost;s &amp;quot;Starting Point.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;And then the next time it was about five years ago I think.</content>
+        </sentence>
+        <sentence id="7">
+          <content>He had a broken rib, being attacked by a player, too.</content>
+        </sentence>
+        <sentence id="8">
+          <content>... I was like, &amp;apost;Why do you keep doing it?</content>
+        </sentence>
+        <sentence id="9">
+          <content>You just keep just hurting yourself.&amp;apost;.</content>
+        </sentence>
+        <sentence id="10">
+          <content>He said that that was his risk because that was his passion.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="11">
+          <content>She worried often about her father, she said.</content>
+        </sentence>
+        <sentence id="12">
+          <content>But she was shocked by the call she got days ago.</content>
+        </sentence>
+        <sentence id="13">
+          <content>&amp;quot;I never thought it was going to be this serious.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="14">
+          <content>Police: Teen punched ref in the face.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="15">
+          <content>On April 27, Ricardo Portillo, 46, was refereeing a game of Fut International, a Hispanic soccer league for children between ages 5 and 17, in the Salt Lake City suburb of Taylorsville.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="16">
+          <content>He cited a player for an infraction and issued him a cautionary &amp;quot;yellow card.&amp;quot;</content>
+        </sentence>
+        <sentence id="17">
+          <content>A second infraction would result in the player&amp;apost;s ejection from the game.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="18">
+          <content>The 17-year-old player, police say, turned around and punched Portillo in the face.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="19">
+          <content>At first, authorities thought Portillo suffered only minor injuries.</content>
+        </sentence>
+        <sentence id="20">
+          <content>But at the hospital, doctors discovered serious internal head injuries.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="21">
+          <content>For seven days he remained in critical condition.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="22">
+          <content>On Saturday night, Portillo died from his injuries.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="23">
+          <content>Player in juvenile detention.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="24">
+          <content>The teenager, who has not been named publicly, is in juvenile detention.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="25">
+          <content>Police initially charged him with aggravated assault.</content>
+        </sentence>
+        <sentence id="26">
+          <content>But with Portillo&amp;apost;s death, authorities expect to upgrade the charges.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="27">
+          <content>League president Mario Vasquez told CNN affiliate KUTV he did not know the suspect personally, and was not aware of other incidents involving the player.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="28">
+          <content>The league has a no-tolerance policy and kicks out players if they engage in violence toward each other, referees or parents, Vasquez said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="29">
+          <content>Family in shock.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="30">
+          <content>Portillo had three daughters and three grandchildren, who live in Mexico.</content>
+        </sentence>
+        <sentence id="31">
+          <content>He moved to the United States 16 years ago.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="32">
+          <content>&amp;quot;I just need time to heal.</content>
+        </sentence>
+        <sentence id="33">
+          <content>It&amp;apost;s a lot of pain that this kid caused my whole family, especially my sisters and I,&amp;quot; Johana Portillo told CNN, adding that they&amp;apost;re in shock.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="34">
+          <content>&amp;quot;I will forgive this kid because it&amp;apost;s only in God&amp;apost;s hands.</content>
+        </sentence>
+        <sentence id="35">
+          <content>... But right now, it&amp;apost;s too soon for me to forgive.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="36">
+          <content>Similar incident in the Netherlands.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="37">
+          <content>There was a similar attack in the Netherlands in December.</content>
+        </sentence>
+        <sentence id="38">
+          <content>Police charged two 15-year-olds and a 16-year-old who beat a 41-year-old linesman during an amateur soccer game.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="39">
+          <content>The linesman&amp;apost;s son was playing in the game when the incident occurred.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="40">
+          <content>The linesman, Richard Nieuwenhuizen, fell into a coma and died the next day.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

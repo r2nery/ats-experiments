@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2469" link="http://edition.cnn.com/2011/12/10/world/europe/russia-protest-scene/index.html" date_published="2011-12-11 01:11:52" category="world" author="Phil Black, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Moscow protesters want &amp;apost;free elections, not revolution&amp;apost;</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="10">Police estimate 25,000 gathered in Moscow to protest recent election results.</sentence>
+      <sentence id="2" ids_article_sentences="13">Demonstrators dispute the victory of Prime Minister Vladimir Putin&amp;apost;s party .</sentence>
+      <sentence id="3" ids_article_sentences="31, 30, 29">Protester: &amp;apost;We just want free elections. And that&amp;apost;s all. We don&amp;apost;t want revolution&amp;apost;.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-12 15:52:17" annotation_time="31.0365">
+      <sentence id="10" ids_highlights="1">Police estimate 25,000 people gathered in Moscow; protest organizers told the crowd they thought some 80,000 gathered.</sentence>
+      <sentence id="13" ids_highlights="2">The protesters are demanding an annulment of the election results - which saw Prime Minister Vladimir Putin&amp;apost;s United Russia party win 238 seats - and a new vote.</sentence>
+      <sentence id="29" ids_highlights="3">&amp;quot;We just want free elections.</sentence>
+      <sentence id="30" ids_highlights="3">And that&amp;apost;s all.</sentence>
+      <sentence id="31" ids_highlights="3">We don&amp;apost;t want revolution,&amp;quot; Mamedova says.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Moscow Among the tens of thousands of people happily enduring the freezing temperatures in Moscow&amp;apost;s Bolotnaya Square is Alexey, an international lawyer.</content>
+        </sentence>
+        <sentence id="2">
+          <content>He tells me he&amp;apost;s never protested before.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;I&amp;apost;m not a political person,&amp;quot; says Alexey, who asked his full name not be used.</content>
+        </sentence>
+        <sentence id="4">
+          <content>&amp;quot;I&amp;apost;m just a simple Russian citizen.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>Alexey says the day after Russia&amp;apost;s parliamentary elections he asked his friends and colleagues who they voted for.</content>
+        </sentence>
+        <sentence id="6">
+          <content>Not one said United Russia.</content>
+        </sentence>
+        <sentence id="7">
+          <content>&amp;quot;It was some kind of astonishment for me to understand how a party for whom nobody voted could win the elections,&amp;quot; he says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="8">
+          <content>It was enough to inspire Alexey to protest.</content>
+        </sentence>
+        <sentence id="9">
+          <content>His story is not unique.</content>
+        </sentence>
+        <sentence id="10">
+          <content>Police estimate 25,000 people gathered in Moscow; protest organizers told the crowd they thought some 80,000 gathered.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="11">
+          <content>There are many in the crowd who until recently chose apathy over politics.</content>
+        </sentence>
+        <sentence id="12">
+          <content>But the elections on December 4 changed them.</content>
+        </sentence>
+        <sentence id="13">
+          <content>The protesters are demanding an annulment of the election results - which saw Prime Minister Vladimir Putin&amp;apost;s United Russia party win 238 seats - and a new vote.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="14">
+          <content>Writer Dmitry Glukhovsky says it was the first time he voted.</content>
+        </sentence>
+        <sentence id="15">
+          <content>The experience transformed him into another first time protester.</content>
+        </sentence>
+        <sentence id="16">
+          <content>&amp;quot;I decided to try to influence the destiny of my country.</content>
+        </sentence>
+        <sentence id="17">
+          <content>I came to the polling station, I cast the ballot and it&amp;apost;s stolen,&amp;quot; Glukhovsky says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="18">
+          <content>Another man in the crowd, Vyacheslav Zhmakin, vents similar feelings.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;I&amp;apost;m a little bit angry because they told me, &amp;apost;give us free time to hear our positions&amp;apost; and so on.</content>
+        </sentence>
+        <sentence id="20">
+          <content>And then &amp;apost;give us your free time to come and vote&amp;apost;.</content>
+        </sentence>
+        <sentence id="21">
+          <content>I see my country does not really need my vote,&amp;quot; Zhmakin says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;So you want new elections.</content>
+        </sentence>
+        <sentence id="23">
+          <content>Do you want anything else?&amp;quot;</content>
+        </sentence>
+        <sentence id="24">
+          <content>I ask.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="25">
+          <content>&amp;quot;Me personally?</content>
+        </sentence>
+        <sentence id="26">
+          <content>No,&amp;quot; he replies.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="27">
+          <content>It&amp;apost;s another point often repeated by the protesters -- they don&amp;apost;t want a revolution.</content>
+        </sentence>
+        <sentence id="28">
+          <content>Tamara Mamedova and her friends laugh when I use the R-word.</content>
+        </sentence>
+        <sentence id="29">
+          <content>&amp;quot;We just want free elections.</content>
+        </sentence>
+        <sentence id="30">
+          <content>And that&amp;apost;s all.</content>
+        </sentence>
+        <sentence id="31">
+          <content>We don&amp;apost;t want revolution,&amp;quot; Mamedova says.</content>
+        </sentence>
+        <sentence id="32">
+          <content>&amp;quot;We just want our rights back and that&amp;apost;s all.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="33">
+          <content>But the protest movement of this Russian winter does appear to have one thing in common with the Arab Spring.</content>
+        </sentence>
+        <sentence id="34">
+          <content>Social networks played a vital role in mobilizing these educated, middle class people to stand in the snow and demand political change.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="35">
+          <content>&amp;quot;I think without the Internet, without Facebook and without Russian parallel social network services, this would not have been possible,&amp;quot; Glukhovsky says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="36">
+          <content>Many in this crowd are politically inexperienced.</content>
+        </sentence>
+        <sentence id="37">
+          <content>None of them is naive.</content>
+        </sentence>
+        <sentence id="38">
+          <content>No one here believes this one gathering will convince Prime Minister Putin to annul the vote and hold new elections.</content>
+        </sentence>
+        <sentence id="39">
+          <content>But it has inspired hope and the protesters say that&amp;apost;s a profound change.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="40">
+          <content>&amp;quot;I feel one, a union, with all these people,&amp;quot; Mamedova says.</content>
+        </sentence>
+        <sentence id="41">
+          <content>&amp;quot;I believe we can do something.</content>
+        </sentence>
+        <sentence id="42">
+          <content>Something really great that can change the whole political situation in Russia.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

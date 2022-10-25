@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1742" link="http://edition.cnn.com/2014/06/18/travel/amelia-earhart-global-flight/index.html?iid=article_sidebar" date_published="2014-06-18 18:27:14" category="travel" author="Ashley Pham, for CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Amelia Earhart flies again! Namesake to recreate global flight</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2, 1">Amelia Rose Earhart will try to complete the same global circumnavigation Amelia Mary Earhart attempted 77 years ago.</sentence>
+      <sentence id="2" ids_article_sentences="28, 27">The trip will take about two and a half weeks, covering 14 countries.</sentence>
+      <sentence id="3" ids_article_sentences="3">Earhart hopes to become youngest woman to circumnavigate the world in a single-engine aircraft.</sentence>
+      <sentence id="4" ids_article_sentences="14">Earhart isn&amp;apost;t related to her famous namesake ... though for 30 years she thought she was.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-09-22 17:17:09" annotation_time="109.31367" mapping_time_divergence="54.656834">
+      <sentence id="1" ids_highlights="1">In 1937, Amelia Mary Earhart disappeared over the Pacific Ocean attempting to circumnavigate the globe.</sentence>
+      <sentence id="2" ids_highlights="1">Later this month, Amelia Rose Earhart will try to do what her namesake could not.</sentence>
+      <sentence id="3" ids_highlights="3">Despite recently discovering she&amp;apost;s not related to the more famous Amelia Earhart (for years she&amp;apost;d believed she was), the 31-year-old pilot will attempt to become the youngest woman to navigate around the world in a single-engine aircraft.</sentence>
+      <sentence id="14" ids_highlights="4">Earhart: It was a blow because, for 30 years, I thought that I was related to Amelia in some distant way.</sentence>
+      <sentence id="27" ids_highlights="2">Earhart: The whole trip will take two and a half weeks.</sentence>
+      <sentence id="28" ids_highlights="2">We&amp;apost;ve got 17 stops in 14 countries.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>In 1937, Amelia Mary Earhart disappeared over the Pacific Ocean attempting to circumnavigate the globe.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Later this month, Amelia Rose Earhart will try to do what her namesake could not.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Despite recently discovering she&amp;apost;s not related to the more famous Amelia Earhart (for years she&amp;apost;d believed she was), the 31-year-old pilot will attempt to become the youngest woman to navigate around the world in a single-engine aircraft.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>CNN spoke with Earhart about her forthcoming record attempt.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>CNN: Did your name spark your interest in aviation?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>Amelia Rose Earhart: Getting asked questions day in and day out about my name has always been a part of my life.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>People would say to me, &amp;quot;Are you a pilot?</content>
+        </sentence>
+        <sentence id="8">
+          <content>Do you think you can ever fly around the world?&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>And for a long time, I said, &amp;quot;No, I&amp;apost;m not a pilot but I always thought about flying around the world.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="10">
+          <content>It was always in the back of my mind just as an ultimate goal.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="11">
+          <content>So I took my very first discovery flight, which is basically the first flight that every pilot goes through.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="12">
+          <content>After that first discovery flight, I was totally hooked.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="13">
+          <content>CNN: What was your reaction when you discovered that you weren&amp;apost;t related to Amelia Earhart?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="14">
+          <content>Earhart: It was a blow because, for 30 years, I thought that I was related to Amelia in some distant way.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="15">
+          <content>But it really wasn&amp;apost;t why I started flying, I wanted to fly because it&amp;apost;s a lot of fun.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="16">
+          <content>So at this point, I&amp;apost;m almost glad that the distant relationship isn&amp;apost;t there because it shows that you don&amp;apost;t have to be named after somebody famous to do something great.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="17">
+          <content>CNN: Why recreate her flight?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="18">
+          <content>Earhart: As pilots, whenever we fly, we have a flight plan.</content>
+        </sentence>
+        <sentence id="19">
+          <content>We open that flight plan, and then when we return safely, we close that flight plan.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="20">
+          <content>Unfortunately, when Amelia disappeared in 1937, she never got a chance to close her flight plan and that&amp;apost;s what we all, as pilots, hope to do.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="21">
+          <content>I started thinking, &amp;quot;What if I could symbolically close Amelia&amp;apost;s flight plan for her?&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="22">
+          <content>CNN: When is the takeoff date and where will you start and end the flight?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="23">
+          <content>Earhart: We start and stop the flight in Oakland, California.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="24">
+          <content>When you look at the departure date, we&amp;apost;ve got a three-day window from June 23 to 26.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="25">
+          <content>The reason for that is we&amp;apost;re doing installations on the plane: additional fuel tanks and also a satellite communications system that will allow us to livestream from the cockpit.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="26">
+          <content>CNN: How long will the entire trip take and how much will it cost?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="27">
+          <content>Earhart: The whole trip will take two and a half weeks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="28">
+          <content>We&amp;apost;ve got 17 stops in 14 countries.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="29">
+          <content>Over the past year and a half, I would say close to $2 million is probably the total value of the trip.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="30">
+          <content>CNN: Are you nervous about embarking on such a major endeavor?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="31">
+          <content>Earhart: My biggest fear is that the trip will just fly by and the two and a half weeks will be over before I know it.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="32">
+          <content>I&amp;apost;ve spent years planning this and it is my passion project.</content>
+        </sentence>
+        <sentence id="33">
+          <content>I don&amp;apost;t have a lot fear around what if something goes wrong with the aircraft.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="34">
+          <content>That&amp;apost;s not a concern of mine at all.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="35">
+          <content>I do have realistic expectations if something happens weather-wise.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="36">
+          <content>Flying around the inter-tropical convergent zone is particularly tough for pilots so I&amp;apost;m paying close attention to the weather patterns there.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="34">
+      <sentences>
+        <sentence id="37">
+          <content>CNN: Does the legend of your namesake worry you at all?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="35">
+      <sentences>
+        <sentence id="38">
+          <content>Earhart: Not at all.</content>
+        </sentence>
+        <sentence id="39">
+          <content>Amelia&amp;apost;s disappearance unfortunately came at a time when the technology just wasn&amp;apost;t there to track her.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="36">
+      <sentences>
+        <sentence id="40">
+          <content>But when you think about how far that&amp;apost;s come in the last 77 years, we&amp;apost;re looking at whole different world.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="37">
+      <sentences>
+        <sentence id="41">
+          <content>I&amp;apost;m flying the Pilatus PC12 which is a single-engine turboprop and it&amp;apost;s one of most technologically advanced planes out there.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="38">
+      <sentences>
+        <sentence id="42">
+          <content>We&amp;apost;ve got dual GPS systems on the aircraft.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="39">
+      <sentences>
+        <sentence id="43">
+          <content>We&amp;apost;ve got navigation that shows us exactly where we are and exactly what point in space.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="40">
+      <sentences>
+        <sentence id="44">
+          <content>We want to show people that ... even small planes can be very manageable over long trips like this.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="41">
+      <sentences>
+        <sentence id="45">
+          <content>CNN: How do you pack for this kind of trip?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="42">
+      <sentences>
+        <sentence id="46">
+          <content>Earhart: That is the ultimate question because you have to be very cognizant of the weight aboard the aircraft.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="43">
+      <sentences>
+        <sentence id="47">
+          <content>Packing-wise, I have to keep everything very limited.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="44">
+      <sentences>
+        <sentence id="48">
+          <content>So we&amp;apost;ll pack a certain amount of nutritional products.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="45">
+      <sentences>
+        <sentence id="49">
+          <content>Beauty products, I have to keep to a bare minimum, unfortunately.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="46">
+      <sentences>
+        <sentence id="50">
+          <content>CNN: What do you do when you&amp;apost;re not flying?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="47">
+      <sentences>
+        <sentence id="51">
+          <content>Earhart: I&amp;apost;m really close with my girlfriends here in Denver.</content>
+        </sentence>
+        <sentence id="52">
+          <content>We will go running together, do stuff outside together.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="48">
+      <sentences>
+        <sentence id="53">
+          <content>Trips or getting out of town, that&amp;apost;s pretty much to a minimum.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="49">
+      <sentences>
+        <sentence id="54">
+          <content>I did just have a chance to go to Geneva, Switzerland, for an aviation conference.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="50">
+      <sentences>
+        <sentence id="55">
+          <content>That was a chance to relax even though we were working the whole time.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="51">
+      <sentences>
+        <sentence id="56">
+          <content>Things like that, where you&amp;apost;re working and playing, I like to blur those lines as much possible.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="52">
+      <sentences>
+        <sentence id="57">
+          <content>When I&amp;apost;m always playing and always working, that&amp;apost;s when I&amp;apost;m happiest.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="621" link="http://www.cnn.com/2013/04/09/justice/texas-college-stabbing/index.html?hpt=hp_inthenews" date_published="2013-04-09 17:20:45" category="justice" author="Catherine E. Shoichet and Joe Sutton, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Sheriff: Student plotted TX college attack, fantasized about stabbings</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">NEW: Sheriff: The suspect told investigators he fantasized about stabbing.</sentence>
+      <sentence id="2" ids_article_sentences="2">Dylan Quick, 20, is charged with aggravated assault with a deadly weapon.</sentence>
+      <sentence id="3" ids_article_sentences="21">A group of students chased, tackled and pinned down the suspect, one witness says.</sentence>
+      <sentence id="4" ids_article_sentences="6">14 people are injured and 2 are in critical condition after the attack.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-12 15:17:28" annotation_time="592.87933">
+      <sentence id="2" ids_highlights="2">Dylan Quick, 20, was charged with three counts of aggravated assault with a deadly weapon after the stabbings, said Donna Hawkins, an official with the Harris County Prosecutor&amp;apost;s Office.</sentence>
+      <sentence id="3" ids_highlights="1">&amp;quot;According to the statement the suspect voluntarily gave investigators, he has had fantasies of stabbing people to death since he was in elementary school,&amp;quot; a statement from the Harris County Sheriff&amp;apost;s Office said.</sentence>
+      <sentence id="6" ids_highlights="4">Fourteen people were injured in the attack, officials said.</sentence>
+      <sentence id="21" ids_highlights="3">Maida told CNN he was among a group of students that chased the suspect, tackled him and pinned him down until authorities arrived.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The 20-year-old student accused in a stabbing rampage at a Texas college campus told investigators he had fantasies of killing people and had planned the attack, sheriff&amp;apost;s officials said late Tuesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Dylan Quick, 20, was charged with three counts of aggravated assault with a deadly weapon after the stabbings, said Donna Hawkins, an official with the Harris County Prosecutor&amp;apost;s Office.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;According to the statement the suspect voluntarily gave investigators, he has had fantasies of stabbing people to death since he was in elementary school,&amp;quot; a statement from the Harris County Sheriff&amp;apost;s Office said.</content>
+        </sentence>
+        <sentence id="4">
+          <content>&amp;quot;He also indicated that he has been planning this incident for some time.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Quick used &amp;quot;a razor-type knife&amp;quot; to stab victims at the Lone Star College&amp;apost;s CyFair campus Tuesday, the sheriff office&amp;apost;s statement said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>Fourteen people were injured in the attack, officials said.</content>
+        </sentence>
+        <sentence id="7">
+          <content>Two of them remained hospitalized in critical condition late Tuesday, said Kathryn Klein, a spokeswoman for the Memorial Hermann Texas Trauma Institute.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>Witnesses of the attack at the campus northwest of Houston described a chaotic scene.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Bleeding victims collapsed to the ground.</content>
+        </sentence>
+        <sentence id="10">
+          <content>Many students and teachers ran for cover.</content>
+        </sentence>
+        <sentence id="11">
+          <content>Some sprang into action, chasing after the suspect and helping the wounded.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>Cassie Foe was in the school&amp;apost;s nursing lab when she heard a scream coming from the hallway.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>Moments later, the nursing student put her training into action, placing pressure on a wound in a stabbing victim&amp;apost;s neck as an attacker went on a rampage at the Lone Star College&amp;apost;s CyFair campus.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;It just seemed like he was just going around, basically getting whoever was more open and easiest for him to reach,&amp;quot; Foe told CNN&amp;apost;s Anderson Cooper on Tuesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>Steven Maida said he saw so many people swarming that he thought it was a campus tour.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Then, he saw them running and heard someone say: &amp;quot;My friend&amp;apost;s been stabbed.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="17">
+          <content>Maida said he saw blood on a stairway and several injured victims.</content>
+        </sentence>
+        <sentence id="18">
+          <content>One wounded woman had a hole in her throat, one had a hole in her cheek and another victim had a stab wound in the back of his head, Maida said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;I just took off downstairs running,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="20">
+          <content>Finding the attacker was his goal, he said.</content>
+        </sentence>
+        <sentence id="21">
+          <content>Maida told CNN he was among a group of students that chased the suspect, tackled him and pinned him down until authorities arrived.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;I couldn&amp;apost;t run the other way like everyone else was,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="23">
+          <content>Authorities could not be reached immediately to confirm Maida&amp;apost;s account.</content>
+        </sentence>
+        <sentence id="24">
+          <content>Earlier Tuesday, Harris County Sheriff&amp;apost;s Deputy Thomas Gilliland said authorities received an initial report that the suspect had been wrestled to the ground by a student before campus police arrested him.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="25">
+          <content>Garcia said a call came in to 911 Tuesday morning describing a &amp;quot;male on the loose stabbing people&amp;quot; at the school.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="26">
+          <content>At least one injured victim had what appeared to be the blade of a box cutter or an X-Acto knife sticking out of her cheek, student Melody Vinton told CNN affiliate KHOU.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="27">
+          <content>Vinton said she had just left her chemistry class when she saw the attacker stabbing people, aiming at their necks and faces.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="28">
+          <content>Soon, she was trying to help victims, ripping a paper towel dispenser off a bathroom wall to get enough paper to help stem the bleeding.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="29">
+          <content>&amp;quot;I turned around and there was just blood.</content>
+        </sentence>
+        <sentence id="30">
+          <content>Just blood dripping down the stairs, all over the floor, all over everyone&amp;apost;s towels on their necks, just a lot of blood,&amp;quot; told KHOU.</content>
+        </sentence>
+        <sentence id="31">
+          <content>&amp;quot;There&amp;apost;s no humanity in that.</content>
+        </sentence>
+        <sentence id="32">
+          <content>Just to see another human being do that was more traumatic than anything.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="33">
+          <content>Another student, 19-year-old Maya Khalil, snapped photos of the chaos as it unfolded, posting pictures on Twitter that showed a bandaged student on a stretcher and police and paramedics swarming the scene.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="34">
+          <content>&amp;quot;It was really scary,&amp;quot; she told CNN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="35">
+          <content>Most of the victims had lacerations in their head and neck areas, said Robert Rasa, a spokesman for the CyFair Volunteer Fire Department.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="36">
+          <content>&amp;quot;We were literally going from building to building, room to room, looking for patients, setting up triage,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="37">
+          <content>The school was on lockdown Tuesday afternoon while authorities combed the campus to ensure no other injured people or attackers were there, Harris County sheriff&amp;apost;s spokesman Alan Bernstein said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="38">
+          <content>While authorities investigated, teachers and students huddled together in locked rooms, said Marianna Sviland, a teacher at the college who was in a faculty workroom at the time of the stabbing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="39">
+          <content>&amp;quot;Outside the window, I saw cops running around, I saw students running and I realized something was going on,&amp;quot; she said.</content>
+        </sentence>
+        <sentence id="40">
+          <content>&amp;quot;It was scary.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="41">
+          <content>By 2 p.m. (3 p.m. ET), students and staff were allowed to leave campus, Sviland said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="42">
+          <content>Details about the victim&amp;apost;s injuries were unclear Tuesday afternoon.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="43">
+          <content>Bernstein said it wasn&amp;apost;t clear whether all of the injured people were stabbed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="44">
+          <content>&amp;quot;It&amp;apost;s possible other people were running away&amp;quot; and became injured that way, he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="45">
+          <content>Four injured victims &amp;quot;were in a dire enough situation that they were taken out on helicopters,&amp;quot; Bernstein said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="46">
+          <content>&amp;quot;I do believe the confrontation was limited to a few (classrooms) or just one classroom -- not anybody roaming around and getting into a large number of areas,&amp;quot; Bernstein said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="34">
+      <sentences>
+        <sentence id="47">
+          <content>The school posted a warning on its website: &amp;quot;Stay away from the area.</content>
+        </sentence>
+        <sentence id="48">
+          <content>Seek shelter in a secure location until the incident is resolved.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="35">
+      <sentences>
+        <sentence id="49">
+          <content>The campus was scheduled to reopen for classes Wednesday morning.</content>
+        </sentence>
+        <sentence id="50">
+          <content>Officials said counselors would be speaking with faculty and students.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="36">
+      <sentences>
+        <sentence id="51">
+          <content>Tuesday&amp;apost;s incident comes more than two months after three people were wounded in a shooting at a different Lone Star College campus -- the North Harris campus in Houston.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

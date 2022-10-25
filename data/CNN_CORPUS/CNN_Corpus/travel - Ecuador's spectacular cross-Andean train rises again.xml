@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1771" link="http://edition.cnn.com/2014/02/07/travel/ecuador-train/index.html" date_published="2014-02-07 09:10:11" category="travel" author="Mark Stratton, for CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Ecuador&amp;apost;s spectacular cross-Andean train rises again</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="11">By 2008 only 10% of Ecuador&amp;apost;s train lines were operational.</sentence>
+      <sentence id="2" ids_article_sentences="12">Ecuadorean government has spent $280 million revamping national railway network.</sentence>
+      <sentence id="3" ids_article_sentences="14">Its flagship Tren Crucero follows a 453-kilometer line along Andean spine.</sentence>
+      <sentence id="4" ids_article_sentences="35">Highlight is the Avenue of Volcanoes.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-09 17:34:10" annotation_time="25.378334" mapping_time_divergence="6.3445835">
+      <sentence id="11" ids_highlights="1">By 2008, only about 10% of the Ecuadorian train network was operational.</sentence>
+      <sentence id="12" ids_highlights="2">Since then, the Ecuadorean government has spent some $280 million revamping the national railway.</sentence>
+      <sentence id="14" ids_highlights="3">Tren Crucero -- literally &amp;quot;cruise train&amp;quot; -- follows a 453-kilometer (282 mile) narrow-gauge line originally constructed between 1897 and 1908 along Ecuador&amp;apost;s Andean spine.</sentence>
+      <sentence id="35" ids_highlights="4">Avenue of the Volcanoes is highlight.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>A blast from the steam whistle on a cherry-red locomotive sends a gathering of locals on a platform scuttling with delight in the town of Durán, Ecuador.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>It&amp;apost;s a sound many in this town on the tropical Pacific plain haven&amp;apost;t heard in years.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Some never have.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>A restored, century-old steam locomotive grinds slowly out from its rail shed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>Vapor from its smokestack hangs in the humid air surrounding Durán Station.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>In a few days, that vapor will crystallize in the freezing temperatures of the Ecuadorian Andes as the throwback Tren Crucero threads its way past giant snow-capped peaks into the realm of condors, volcanoes and Andean legend.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>Great steam train revived.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="8">
+          <content>Trains in Ecuador have been virtually moribund since the late 1990s.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="9">
+          <content>&amp;quot;Strong winter rains of El Niño in 1982 destroyed a stretch of the railroad between Huigra and Bucay,&amp;quot; says Slav Ivanov of Ferrocariles del Ecuador, the train&amp;apost;s operators.</content>
+        </sentence>
+        <sentence id="10">
+          <content>&amp;quot;Further damage occurred during El Niño floods during the 1990s.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="11">
+          <content>By 2008, only about 10% of the Ecuadorian train network was operational.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="12">
+          <content>Since then, the Ecuadorean government has spent some $280 million revamping the national railway.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="13">
+          <content>The flagship of the railway&amp;apost;s renaissance is Tren Crucero, a revamped luxury steam train operating a new cross-Andean service between Guayaquil and the capital of Quito (at 2,849 meters the highest capital city in the world).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="14">
+          <content>Tren Crucero -- literally &amp;quot;cruise train&amp;quot; -- follows a 453-kilometer (282 mile) narrow-gauge line originally constructed between 1897 and 1908 along Ecuador&amp;apost;s Andean spine.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="15">
+          <content>The railway was built to connect Ecuador&amp;apost;s two major cities: Quito in the Andes and Guayaquil along the Pacific.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="16">
+          <content>Now as then, it&amp;apost;s one of the most thrilling railway journeys in the world.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="17">
+          <content>Today&amp;apost;s luxurious four-day, three-night journey targets foreign tourists and affluent Ecuadorians.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="18">
+          <content>Tickets cost $1,200 for adults ($952 for children) and include all hotels and excursions en route.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="19">
+          <content>The train&amp;apost;s newly purchased carriages, built in Madrid, are pulled by restored steam locomotives.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="20">
+          <content>The oldest dates to 1900 and was engineered by American manufacturer Baldwin of Pennsylvania.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="21">
+          <content>One of the locomotive&amp;apost;s engineers is 52-year-old Edgar Garces, a 28-year employee with Ecuador&amp;apost;s national railway company.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;I didn&amp;apost;t think I&amp;apost;d see the cross-Andean train running again in my lifetime,&amp;quot; he says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="23">
+          <content>Few others did.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="24">
+          <content>Tourism revamps trains, communities.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="25">
+          <content>Ecuador&amp;apost;s government wants Tren Crucero to boost economically depressed communities along its route through tourism.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="26">
+          <content>From Guayaquil into the Guayas coastal plain, abandoned settlements such as Casiguana testify to the economic malaise.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="27">
+          <content>This former orange-growing village was deserted when the railway&amp;apost;s demise severed its trade link to Guayaquil.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="28">
+          <content>Further up the line, in Yaguachi, 75-year-old Alejandro Diaz-Lopez waits track-side for Tren Crucero, plucking his guitar and singing ballads about the train.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="29">
+          <content>&amp;quot;I sing a song for the train; for the president; for the tourists who now bring our community money,&amp;quot; he says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="30">
+          <content>Tren Crucero&amp;apost;s most exhilarating section is a series of precipitous switchbacks that enable the train to ascend 2,945 meters (9,662 feet) in just 56 kilometers (34 miles) around a mountainside called the Devil&amp;apost;s Nose.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="31">
+          <content>By 1908, this hazardous section had taken four years to build and contributed to more than 4,000 deaths among workers, including 2,730 Jamaican laborers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="32">
+          <content>At Alausi, a town of largely Quechua indigenous inhabitants, 30-year-old Rosita Logrono sells beautiful hand-knitted llama wool garments at the station&amp;apost;s newly created souvenir bazaar.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="33">
+          <content>&amp;quot;Before the railway returned I only had part-time work and couldn&amp;apost;t send my children to school,&amp;quot; she says.</content>
+        </sentence>
+        <sentence id="34">
+          <content>&amp;quot;Since the trains returned life is much better.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="35">
+          <content>Avenue of the Volcanoes is highlight.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="34">
+      <sentences>
+        <sentence id="36">
+          <content>The journey to Quito passes 10 volcanoes along the so-called Avenue of Volcanoes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="35">
+      <sentences>
+        <sentence id="37">
+          <content>The highest point (3,609 meters/11,480 feet) comes on day three at Urbina, where a new visitor&amp;apost;s center has been built.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="36">
+      <sentences>
+        <sentence id="38">
+          <content>Here, the last iceman of Chimborazo greets passengers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="37">
+      <sentences>
+        <sentence id="39">
+          <content>Balthasar Uscha, 69, has cut ice from Chimborazo volcano&amp;apost;s flanks for 50 years; at 6,310 meters (20,100 feet) Chimborazo is Ecuador&amp;apost;s highest mountain.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="38">
+      <sentences>
+        <sentence id="40">
+          <content>Taking into account the planet&amp;apost;s equatorial bulge, Chimborazo&amp;apost;s summit is further from the Earth&amp;apost;s core than Everest.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="39">
+      <sentences>
+        <sentence id="41">
+          <content>Uscha&amp;apost;s glacial ice once chilled the drinks of coastal dwellers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="40">
+      <sentences>
+        <sentence id="42">
+          <content>But refrigeration has put the ice cutters out of business.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="41">
+      <sentences>
+        <sentence id="43">
+          <content>He says he represents the last survivor of his profession.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="42">
+      <sentences>
+        <sentence id="44">
+          <content>Last stop, but not the end of the line.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="43">
+      <sentences>
+        <sentence id="45">
+          <content>Tren Crucero passengers disembark each night and stay in local hotels.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="44">
+      <sentences>
+        <sentence id="46">
+          <content>The final night&amp;apost;s accommodation is La Cienaga, a glorious Spanish hacienda built 1695.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="45">
+      <sentences>
+        <sentence id="47">
+          <content>The great naturalist, Alexander von Humboldt, who stayed here 1802, coined the term &amp;quot;Avenue of Volcanoes.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="46">
+      <sentences>
+        <sentence id="48">
+          <content>The hacienda is located within view of snow-capped Cotopaxi; at 5,879 meters (19,300 feet), it&amp;apost;s one of the highest active volcanoes in the world.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="47">
+      <sentences>
+        <sentence id="49">
+          <content>The final day begins at Latacunga.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="48">
+      <sentences>
+        <sentence id="50">
+          <content>The city has been destroyed on three occasions by eruptions from Cotopaxi, which historically erupts about every century.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="49">
+      <sentences>
+        <sentence id="51">
+          <content>Now overdue, the last eruption to destroy Latacunga was in 1904.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="50">
+      <sentences>
+        <sentence id="52">
+          <content>Thoughts of such calamities, however, are far away.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="51">
+      <sentences>
+        <sentence id="53">
+          <content>As the train rumbles into its last stop at Quito, only the bright sun of restoration shines on the rails and the faces of disembarking passengers, thrilled to have completed one of the great -- and largely undiscovered -- journeys in the world.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="52">
+      <sentences>
+        <sentence id="54">
+          <content>The 280-mile journey from Quito to Guayaquil takes four days and three nights (with stops and hotels included), crosses Ecuador&amp;apost;s Andes and passes from moorlands through cloud forests to tropical coastal landscapes; $1,270 adults, $952 children.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="53">
+      <sentences>
+        <sentence id="55">
+          <content>For more information, schedules and tickets on Tren Crucero, visit Ecuador by Train.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

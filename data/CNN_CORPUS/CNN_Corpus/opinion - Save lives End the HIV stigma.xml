@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="935" link="http://edition.cnn.com/2012/07/19/opinion/johnson-hiv-stigma/index.html" date_published="2012-07-19 11:48:04" category="opinion" author="Ronald Johnson, Special to CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Save lives: End the HIV stigma</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">We are finally piercing the stigma surrounding being gay in America, says Ronald Johnson.</sentence>
+      <sentence id="2" ids_article_sentences="5">As 1.2 million Americans are living with HIV, it&amp;apost;s time to erase that stigma, too, he says.</sentence>
+      <sentence id="3" ids_article_sentences="11">Only 19% of Americans living with HIV receive the sustained care they need, he says.</sentence>
+      <sentence id="4" ids_article_sentences="24, 23">Johnson: Clearing up shame over HIV/AIDS will lead more people to get tested.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-05 14:00:54" annotation_time="59.92767" mapping_time_divergence="14.981917">
+      <sentence id="3" ids_highlights="1">All of this suggests that after many, many years, we are finally piercing the stigma surrounding being gay in America.</sentence>
+      <sentence id="5" ids_highlights="2">Right now, 1.2 million Americans are living with HIV/AIDS.</sentence>
+      <sentence id="11" ids_highlights="3">Currently, only 19% of Americans living with HIV/AIDS are receiving the sustained care they need to extend and improve the quality of their lives.</sentence>
+      <sentence id="23" ids_highlights="4">Clearing up shame over HIV/AIDS in 21st-century America is not just a nice thing to do.</sentence>
+      <sentence id="24" ids_highlights="4">It will lead more people to get tested.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>As a gay black man who came of age just before the 1969 Stonewall riots, I&amp;apost;ve seen far too many examples of the inequalities that exist in America.</content>
+        </sentence>
+        <sentence id="2">
+          <content>But I&amp;apost;m also highly encouraged by recent developments: same-sex marriage support from President Barack Obama and the NAACP, and a wave of federal court rulings -- from the Defense of Marriage Act being deemed unconstitutional to the rejection of California&amp;apost;s Proposition 8 -- that have opened a promising new chapter in the gay rights movement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>All of this suggests that after many, many years, we are finally piercing the stigma surrounding being gay in America.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Now let&amp;apost;s talk about erasing the stigma of HIV/AIDS.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Right now, 1.2 million Americans are living with HIV/AIDS.</content>
+        </sentence>
+        <sentence id="6">
+          <content>I am one of them.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>First, the good news: Thanks to advances in medical treatment and technology, a positive HIV status is not the death sentence it was considered to be 20 years ago.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>Recent data suggest that a 25-year-old diagnosed with HIV and no other complicating symptoms, who immediately enters into comprehensive and adherent medical care, can expect to live more than 50 years beyond his or her diagnosis.</content>
+        </sentence>
+        <sentence id="9">
+          <content>This is roughly the same life expectancy as someone who does not have HIV.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>On the other hand, without the proper medical care, the life span of that same 25-year-old is reduced dramatically.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>Currently, only 19% of Americans living with HIV/AIDS are receiving the sustained care they need to extend and improve the quality of their lives.</content>
+        </sentence>
+        <sentence id="12">
+          <content>With 50,000 new U.S. cases confirmed every year, that&amp;apost;s a problem.</content>
+        </sentence>
+        <sentence id="13">
+          <content>And in a global superpower, it&amp;apost;s unconscionable.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>The reasons are complicated, ranging from the challenges borne from living in poverty (it&amp;apost;s hard to prioritize your health care when meals and housing are more pressing) to a lack of HIV-experienced medical experts in rural areas.</content>
+        </sentence>
+        <sentence id="15">
+          <content>These are complex hurdles, and the solutions won&amp;apost;t come easily.</content>
+        </sentence>
+        <sentence id="16">
+          <content>But there&amp;apost;s one that will, if we all do our part.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="17">
+          <content>Stigma -- stemming from shame, fear of discrimination or a basic lack of understanding about the disease -- is all too often a major reason people living with HIV/AIDS fail to get tested or get into life-saving care and treatment.</content>
+        </sentence>
+        <sentence id="18">
+          <content>And its impact is devastating.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="19">
+          <content>Through AIDS United&amp;apost;s work with organizations around the country that provide access to care to those living with HIV/AIDS, the stories we&amp;apost;ve heard are heartbreaking.</content>
+        </sentence>
+        <sentence id="20">
+          <content>Stories like the grandmother who was afraid to hug her 25-year-old HIV-positive grandson.</content>
+        </sentence>
+        <sentence id="21">
+          <content>The young man who was fired from his job because his boss found out he had HIV.</content>
+        </sentence>
+        <sentence id="22">
+          <content>The single mother and her young son, both HIV-positive, who were forbidden to swim in their community pool.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="23">
+          <content>Clearing up shame over HIV/AIDS in 21st-century America is not just a nice thing to do.</content>
+        </sentence>
+        <sentence id="24">
+          <content>It will lead more people to get tested.</content>
+        </sentence>
+        <sentence id="25">
+          <content>It will help them improve and save their lives.</content>
+        </sentence>
+        <sentence id="26">
+          <content>And it will prevent more transmissions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="27">
+          <content>On Sunday, 20,000 of the world&amp;apost;s HIV/AIDS experts will gather in Washington for the International AIDS Conference -- an opportunity to create a blueprint for wiping out the disease for good.</content>
+        </sentence>
+        <sentence id="28">
+          <content>An important preconference panel will focus on the shame and stigma burdening men who have sex with men, particularly African-American men who are still silent or in denial about same-sex attraction.</content>
+        </sentence>
+        <sentence id="29">
+          <content>We will discuss new approaches for persuading them to come forward, get tested and access the care they need to make HIV a manageable, rather than a fatal, condition.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="30">
+          <content>But our work shouldn&amp;apost;t be done in a bubble.</content>
+        </sentence>
+        <sentence id="31">
+          <content>Everyone has a role to play in bringing HIV/AIDS out of the shadows:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="32">
+          <content>-- We must keep educating the everyday &amp;quot;influencers&amp;quot; -- the pastors, the beauticians, the shop owners -- anyone with a direct line to the communities at greatest risk who can launch straightforward, ongoing conversations about the disease and how to prevent it.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="33">
+          <content>-- We must continue to educate policymakers about the impact of HIV/AIDS on their constituents.</content>
+        </sentence>
+        <sentence id="34">
+          <content>Federal and state budget cuts have hurt vulnerable populations affected by HIV/AIDS and have eliminated evidence-based programs for preventing transmission.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="35">
+          <content>-- We&amp;apost;ve moved beyond Magic Johnson as our only pop culture point of reference for this disease.</content>
+        </sentence>
+        <sentence id="36">
+          <content>Other athletes and entertainers have come out in support of AIDS-related causes over the years, but we still need more of them to leverage their celebrity and keep this issue at the forefront of media attention.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="37">
+          <content>For the first time in a generation, we have the tools we need to end the HIV/AIDS epidemic.</content>
+        </sentence>
+        <sentence id="38">
+          <content>Now we need to use them.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="39">
+          <content>As the world&amp;apost;s attention focuses on the International AIDS Conference, let&amp;apost;s all show our support.</content>
+        </sentence>
+        <sentence id="40">
+          <content>Let&amp;apost;s work together to reverse the shame that still shrouds the disease after all these years.</content>
+        </sentence>
+        <sentence id="41">
+          <content>Let&amp;apost;s work together to end the HIV/AIDS epidemic in America.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="42">
+          <content>Follow @CNNOpinion on Twitter.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="43">
+          <content>Join us at Facebook/CNNOpinion.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

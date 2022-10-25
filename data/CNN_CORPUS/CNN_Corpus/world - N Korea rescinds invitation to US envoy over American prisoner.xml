@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2479" link="http://www.cnn.com/2013/08/30/world/asia/north-korea-imprisoned-american/index.html" date_published="2013-08-30 06:07:12" category="world" author="CNN Staff" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>N. Korea rescinds invitation to U.S. envoy over American prisoner</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="9, 2">Kenneth Bae has been held in North Korea since November.</sentence>
+      <sentence id="2" ids_article_sentences="6">His health has deteriorated and he is now in a hospital, his sister says.</sentence>
+      <sentence id="3" ids_article_sentences="3">North Korea sentenced him to 15 years hard labor for crimes against the regime.</sentence>
+      <sentence id="4" ids_article_sentences="2">Ambassador Robert King is expected to fly to Pyongyang on a U.S. military jet.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-20 18:31:05" annotation_time="53.108334" mapping_time_divergence="13.277083">
+      <sentence id="2" ids_highlights="1, 4">Ambassador Robert King, President Barack Obama&amp;apost;s special envoy for North Korean human rights issues, was expected to fly to the Asian nation on Friday to try to win the freedom of Kenneth Bae, an American citizen imprisoned there for carrying out &amp;quot;serious crimes&amp;quot; against Kim Jong Un&amp;apost;s regime.</sentence>
+      <sentence id="3" ids_highlights="3">North Korean authorities detained Bae, widely reported to be a Christian missionary, last year and sentenced him to 15 years of hard labor earlier this year.</sentence>
+      <sentence id="6" ids_highlights="2">His sister, Terri Chung, said earlier this month that Bae&amp;apost;s health has severely deteriorated during his imprisonment and that he has been transferred to a hospital.</sentence>
+      <sentence id="9" ids_highlights="1">The envoy, who has been traveling in the region, was to join a small delegation flying to North Korea&amp;apost;s capital on an American military jet on Friday, a U.S. official told CNN this week.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>North Korea has rescinded an invitation for a U.S. envoy to visit North Korea and try to secure the release of a detained American.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Ambassador Robert King, President Barack Obama&amp;apost;s special envoy for North Korean human rights issues, was expected to fly to the Asian nation on Friday to try to win the freedom of Kenneth Bae, an American citizen imprisoned there for carrying out &amp;quot;serious crimes&amp;quot; against Kim Jong Un&amp;apost;s regime.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>North Korean authorities detained Bae, widely reported to be a Christian missionary, last year and sentenced him to 15 years of hard labor earlier this year.</content>
+        </sentence>
+        <sentence id="4">
+          <content>They said he had planned an operation to bring down the government through religious activities.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Bae&amp;apost;s family has said he was the owner of a tour company who was in North Korea for work.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>His sister, Terri Chung, said earlier this month that Bae&amp;apost;s health has severely deteriorated during his imprisonment and that he has been transferred to a hospital.</content>
+        </sentence>
+        <sentence id="7">
+          <content>He has spent more time in North Korean custody than any other American.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>King was to travel to Pyongyang at North Korea&amp;apost;s invitation, the U.S. State Department said this week.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>The envoy, who has been traveling in the region, was to join a small delegation flying to North Korea&amp;apost;s capital on an American military jet on Friday, a U.S. official told CNN this week.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>King led a U.S. delegation that in 2011 secured the release of Eddie Yong Su Jun, a Korean-American businessman who was detained in North Korea for several months.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>Calls for clemency.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>The North Korean supreme court in April found Bae guilty of carrying out &amp;quot;serious crimes&amp;quot; against the government, including setting up bases in China for the purpose of toppling Kim&amp;apost;s regime, encouraging North Korean citizens to bring down the government and conducting a smear campaign, according to the country&amp;apost;s state media.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="13">
+          <content>King was to ask Pyongyang to pardon Bae and grant him amnesty on humanitarian grounds &amp;quot;so that he can be reunited with his family and seek medical treatment,&amp;quot; the State Department said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="14">
+          <content>The White House, in a separate statement, had urged the government of North Korea &amp;quot;to grant special clemency to Mr. Bae immediately and allow him to return home with Ambassador King.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="15">
+          <content>Bae suffers from severe back and leg pain and has lost more than 50 pounds, Chung said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="16">
+          <content>She said she received the information from the State Department, which told her the Swedish ambassador visited Bae in the hospital.</content>
+        </sentence>
+        <sentence id="17">
+          <content>Sweden represents U.S. interests in North Korea because the United States has no diplomatic presence there.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="18">
+          <content>Bae also suffers from kidney stones, dizziness, blurred vision and loss of vision, Chung said.</content>
+        </sentence>
+        <sentence id="19">
+          <content>He was already dealing with other health problems, including diabetes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="20">
+          <content>Tensions between North Korea and the United States have eased somewhat since the spring, when Pyongyang unleashed a torrent of dramatic threats as U.S. and South Korean troops carried out large-scale military exercises in the region.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="21">
+          <content>The uneasy period followed tougher U.N. sanctions on North Korea after the reclusive state carried out a long-range rocket launch in December and an underground nuclear test in February.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

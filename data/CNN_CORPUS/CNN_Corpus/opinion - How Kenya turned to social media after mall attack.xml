@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="816" link="http://cnn.com/2013/09/25/opinion/kenya-social-media-attack/?hpt=hp_c3" date_published="2013-09-25 16:46:18" category="opinion" author="Daudi Khamadi Were, Special to CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>How Kenya turned to social media after mall attack</title>
+  <keywords>kenya social media,kenya mall attack,westgate mall,ushahidi</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="5">Information on Westgate attack was broken on social media, says Daudi Khamadi Were.</sentence>
+      <sentence id="2" ids_article_sentences="15">Increasing presence of official Kenyan government accounts on Twitter.</sentence>
+      <sentence id="3" ids_article_sentences="35">Kenya Red Cross organized blood donation drives using social media.</sentence>
+      <sentence id="4" ids_article_sentences="37">Fundraising was carried out using M-pesa mobile money platform.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-09-22 16:10:29" annotation_time="65.722664" mapping_time_divergence="16.430666">
+      <sentence id="5" ids_highlights="1">Information on the attack on Westgate was first broken on social media as those in the mall and its environs flooded their Twitter, Facebook and Instagram accounts with text and images.</sentence>
+      <sentence id="15" ids_highlights="2">What is new is the increasing presence of official Kenyan government accounts on social media.</sentence>
+      <sentence id="35" ids_highlights="3">In addition the Kenya Red Cross digital media team helped coordinate and publicize what was described as the largest blood drive in Kenya&amp;apost;s history.</sentence>
+      <sentence id="37" ids_highlights="4">In another record-breaking social media led campaign the Kenya Red Cross partnered with Safaricom, Kenya&amp;apost;s largest mobile phone network, to launch a fundraising drive using Safaricom&amp;apost;s M-pesa mobile money platform.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Nairobi, Kenya Getting heard and understood in Westlands, Nairobi, on a typical Saturday afternoon is a challenge.</content>
+        </sentence>
+        <sentence id="2">
+          <content>You would have to compete with noise from the constant traffic, the shouts of the road side vendors, music from matatus -- Kenya&amp;apost;s colorful (and loud) public transport minibuses.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>On the afternoon of Saturday 21 September 2013 you would have had to compete with the additional noise of gunshots and grenades as a group of ruthless and well-drilled militants launched a brutal attack on the Westgate Shopping Center at the heart of Westlands.</content>
+        </sentence>
+        <sentence id="4">
+          <content>At least 61 civilians and six Kenyan security officers died in the attack and rescue efforts, President Uhuru Kenyatta said Tuesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>Information on the attack on Westgate was first broken on social media as those in the mall and its environs flooded their Twitter, Facebook and Instagram accounts with text and images.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>The amount of information being generated quickly turned into a flood as more and more people started posting or sharing information that was previously posted.</content>
+        </sentence>
+        <sentence id="7">
+          <content>Just like on the streets of Westlands on a busy Saturday afternoon, getting heard on the streets of Kenya&amp;apost;s social media was a big challenge.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>This is not surprising.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Kenyans increasingly go online to share and look for information.</content>
+        </sentence>
+        <sentence id="10">
+          <content>Information on the large fire at Jomo Kenyatta International Airport in Nairobi on August 7 first broke on social media.</content>
+        </sentence>
+        <sentence id="11">
+          <content>Social media was one of the key sources of information for Uchaguzi, the citizen centered election monitoring website that was deployed for the Kenyan general election in March.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="12">
+          <content>Previously Kenyans have used Twitter to organize carpooling during a strike by public transport operators by sharing information using the hashtag #carpoolKE and even to find out which petrol stations had stocks of fuel during fuel shortages using the hashtag #findfuel.</content>
+        </sentence>
+        <sentence id="13">
+          <content>Ordinary Kenyan citizens have learned how to use social media and other digital tools to amplify their voices in order to have impact.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="14">
+          <content>Research by Portland and Tweetminster in 2011 found Kenya as Africa&amp;apost;s second most active country on Twitter after South Africa.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="15">
+          <content>What is new is the increasing presence of official Kenyan government accounts on social media.</content>
+        </sentence>
+        <sentence id="16">
+          <content>President Kenyatta&amp;apost;s election campaign invested heavily in its social media and digital communication, and this has continued in government.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="17">
+          <content>Kenya&amp;apost;s top security decision making body, the National Security Council, includes the President, Deputy President, Attorney General, and the cabinet secretaries for Defense, Foreign Affairs, and Interior and Co-ordination of National Government, many of whom tweet regularly.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="18">
+          <content>At security agency level, the Ministry of the Interior and Coordination of National Government, the Kenya Defense Forces, the Kenya Police Service, Kenya&amp;apost;s National Disaster Operations Center, Kenya&amp;apost;s National Steering Committee on Peacebuilding and Conflict Management all have active and regularly updated accounts on Twitter.</content>
+        </sentence>
+        <sentence id="19">
+          <content>During the Westgate crisis these accounts have been updated with official government information on operations and casualties.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="20">
+          <content>At Ushahidi we constantly remind people that technology is a tool not a solution.</content>
+        </sentence>
+        <sentence id="21">
+          <content>Just as a hammer can been used for positive or negative actions social media is also a tool that can be widely exploited across the board.</content>
+        </sentence>
+        <sentence id="22">
+          <content>Al-Shabaab is very effective in the use of social media and other digital tools in getting its messaging across.</content>
+        </sentence>
+        <sentence id="23">
+          <content>Since Saturday when the attacks began Twitter has already shut down at least one account connected to Al-Shabaab, which may have been in direct contact with the militants inside Westgate.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="24">
+          <content>Having a presence on social media itself presents challenges for officials especially when it comes to the authenticity of the social media accounts.</content>
+        </sentence>
+        <sentence id="25">
+          <content>The Kenya Police Service for example has a long-running parody unofficial Twitter account.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="26">
+          <content>During the Westgate crisis several of the official Kenyan government Twitter accounts were verified, a process which establishes their authenticity and allows them to display a badge which identifies them publicly as official channels of communication.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="27">
+          <content>Now that the government&amp;apost;s Twitter accounts have been identified as authentic the next challenge is to keep them relevant with useful information.</content>
+        </sentence>
+        <sentence id="28">
+          <content>Tweets from government urging Kenyans to hug each other during the height of the crisis were ill timed as the country waited to hear the fate of the hostages still held inside the shopping mall.</content>
+        </sentence>
+        <sentence id="29">
+          <content>Building credibility online, just like building credibility offline, takes time.</content>
+        </sentence>
+        <sentence id="30">
+          <content>On this the Kenyan government should learn from the digital media team at Kenya Red Cross.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="31">
+          <content>The Kenya Red Cross ran the most credible, useful and respected Twitter account during the entire Westgate crisis.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="32">
+          <content>The Kenya Red Cross is a pioneer in how social media can be used to crowdsource information online that first responders can use.</content>
+        </sentence>
+        <sentence id="33">
+          <content>Through its #iVolunteer hashtag Kenya Red Cross encourages all Kenyans to report incidents in which first responders are required and the Kenya Red Cross follow up these reports dispatching ambulances as required.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="34">
+          <content>Through its social media accounts the Kenya Red Cross was able to keep large groups of people updated on the Westgate crisis as it unfolded, was able to source information on where help was required inside and outside Westgate.</content>
+        </sentence>
+        <sentence id="35">
+          <content>In addition the Kenya Red Cross digital media team helped coordinate and publicize what was described as the largest blood drive in Kenya&amp;apost;s history.</content>
+        </sentence>
+        <sentence id="36">
+          <content>About 6,380 units of blood were donated across the country in around 48 hours following the attack.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="37">
+          <content>In another record-breaking social media led campaign the Kenya Red Cross partnered with Safaricom, Kenya&amp;apost;s largest mobile phone network, to launch a fundraising drive using Safaricom&amp;apost;s M-pesa mobile money platform.</content>
+        </sentence>
+        <sentence id="38">
+          <content>As of 2pm EAT on 25th September, 76 hours after its launch, Safaricom reported that the #WeAreOne campaign had raised $783,485 in donations made largely by individual Kenyans.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="39">
+          <content>This is the latest in a series of successful partnerships between Kenya Red Cross and Safaricom who also partnered in 2011 to lead the Kenyans For Kenya campaign which raised around $11.5 million in four weeks for Kenyans facing severe famine.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="40">
+          <content>All these initiatives contribute to the continuing adoption and growth in popularity of social media across the region.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="41">
+          <content>Being able to quickly and accurately filter large volumes of data to identify which pieces of information are useful in your particular incident is a global challenge that Ushahidi is working to address by building a coalition and tools for a clearinghouse for crisis data.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="42">
+          <content>This we believe will lead to more effective online information management such as using citizens to triangulate each other&amp;apost;s information, which in turn gives first responders data on which they can act on immediately.</content>
+        </sentence>
+        <sentence id="43">
+          <content>Once we have this, ordinary citizens using social media would become a much more effective tool in time of crisis, altering today&amp;apost;s communication flows.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

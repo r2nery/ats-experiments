@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="116" link="http://www.cnn.com/2013/08/21/business/south-african-firm-invests-america/index.html" date_published="2013-08-21 09:56:40" category="business" author="Teo Kermeliotis and Brandon Clements, CNN" highlights_mapped="true" mapping_error="false">
+  <title>South African firm invests billions in U.S. energy future</title>
+  <keywords>sasol,fracking,shale gas,gas to liquid</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">South African energy giant Sasol building a gas-to-liquids plant in Louisiana.</sentence>
+      <sentence id="2" ids_article_sentences="20">The technology will help it convert natural gas to transportation fuels.</sentence>
+      <sentence id="3" ids_article_sentences="2">Project is one of the biggest investments from a non-U.S. company in American history.</sentence>
+      <sentence id="4" ids_article_sentences="29">Critics warn the technology is not commercially viable if cost of the gas rises to the price of oil.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-29 13:54:19" annotation_time="61.703003">
+      <sentence id="2" ids_highlights="1, 3">Sasol, a Johannesburg-based energy giant, announced late last year its intention to spend up to $14 billion on building the first U.S.-based commercial plant to perform the alchemy of turning natural gas into liquid fuels -- hailed as one of the biggest investments from a non-U.S. company in American history.</sentence>
+      <sentence id="20" ids_highlights="2">Yet experts say the current price difference between natural gas and oil, courtesy of the recent shale gas boom, coupled with the long-term global transport trends favoring low-emissions fuels, have helped turn GTL into a particularly appealing proposition in places like North America -- as it means less reliance on oil from the Middle East.</sentence>
+      <sentence id="29" ids_highlights="4">But, more importantly, critics say the biggest danger is that if the cost of gas rises to the price of oil, the technology will lose its commercial appeal.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>It may be far from home but a South African company is powering its way into the U.S. energy landscape, hoping that its grand plan to introduce a once-shunned technology in the United States will pay off.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Sasol, a Johannesburg-based energy giant, announced late last year its intention to spend up to $14 billion on building the first U.S.-based commercial plant to perform the alchemy of turning natural gas into liquid fuels -- hailed as one of the biggest investments from a non-U.S. company in American history.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Using a process known as gas-to-liquids (GTL), the company plans to chemically convert gas into transport fuels, lubricants and other chemical products.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>&amp;quot;In that technology we take natural gas and we actually break the molecule down and then reform that molecule into other high-value products like diesel,&amp;quot; says Mike Thomas, Sasol&amp;apost;s vice president of U.S. operations, explaining the company&amp;apost;s proprietary technology.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>Gas boom.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>Sasol&amp;apost;s mega-project in Louisiana also includes a separate $5 to $7 billion ethane cracker and derivatives plant.</content>
+        </sentence>
+        <sentence id="7">
+          <content>It has picked the United States for its GTL facility because the country has abundant shale gas, released through the controversial drilling process of hydraulic fracturing -- or fracking.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>Due to the rise in fracking, estimates suggest that the U.S. has more than 100 years&amp;apost; supply of natural gas.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Sasol, which has been producing synthetic fuels for decades, says it will not be fracking directly to source natural gas feedstock for its facilities, instead tapping into the U.S. natural gas market through the existing infrastructure.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;The price of the natural gas in the United States is about the lowest in the world and the markets are also in the U.S.,&amp;quot; says Thomas.</content>
+        </sentence>
+        <sentence id="11">
+          <content>&amp;quot;If you look within the United States, particularly on the U.S. Gulf Coast where we are ... there is no better infrastructure for the petrochemical industry in the United States, and probably in the world.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>Old technology, new use?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>Although GTL is only now gearing toward its commercial U.S. debut, the process on which it&amp;apost;s based dates back to the 1920s.</content>
+        </sentence>
+        <sentence id="14">
+          <content>Yet, by the 1950s, the conversion technology was largely abandoned.</content>
+        </sentence>
+        <sentence id="15">
+          <content>High production costs and the emergence of much cheaper products made from refined crude oil rendered GTL commercially unviable.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Meanwhile, the high correlation between natural gas and crude oil markets meant that there wasn&amp;apost;t a significant difference between the two prices, therefore no opportunity for companies to exploit margins.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="17">
+          <content>As a result, the technology failed to establish a foothold in the market.</content>
+        </sentence>
+        <sentence id="18">
+          <content>The only country where it gained wide traction was coal-rich South Africa where international embargoes during the apartheid years made oil hard to come by.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="19">
+          <content>Today, only Sasol and Royal Dutch Shell are converting gas into liquid vehicle fuel on a commercial level.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="20">
+          <content>Yet experts say the current price difference between natural gas and oil, courtesy of the recent shale gas boom, coupled with the long-term global transport trends favoring low-emissions fuels, have helped turn GTL into a particularly appealing proposition in places like North America -- as it means less reliance on oil from the Middle East.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="21">
+          <content>&amp;quot;We&amp;apost;re taking Sasol&amp;apost;s technology, which was developed here in South Africa for the past 63 years, and helping the U.S. be more energy independent and have a security of supply,&amp;quot; says Sasol&amp;apost;s chief executive David Constable.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="22">
+          <content>Restraints.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="23">
+          <content>Sasol, which already operates smaller GTL plants in South Africa and Qatar, expects its Louisiana-based facility to produce at least 96,000 barrels per day, creating 1,200 permanent jobs in the following years.</content>
+        </sentence>
+        <sentence id="24">
+          <content>It describes GTL diesel as a cleaner-burning fuel that can be used in existing vehicles and fuel delivery infrastructure without any modifications.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="25">
+          <content>Yet despite the renewed interest in GTL, many still see the technology as a precarious business.</content>
+        </sentence>
+        <sentence id="26">
+          <content>Analysts say the requirement to invest hefty sums to build plants and manufacture products means that finances for large-scale projects could often be difficult to balance.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="27">
+          <content>&amp;quot;The economics can be a bit shaky,&amp;quot; says Craig Brown, downstream oil and petrochemicals analyst at PFC Energy.</content>
+        </sentence>
+        <sentence id="28">
+          <content>&amp;quot;The whole process is extremely energy intensive and tends to be more costly than crude distillation,&amp;quot; he adds.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="29">
+          <content>But, more importantly, critics say the biggest danger is that if the cost of gas rises to the price of oil, the technology will lose its commercial appeal.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="30">
+          <content>&amp;quot;With that amount of capital expenditure, they need to have a degree of certainty that the gas prices are going to stay at a certain price for a long period of time to make it an economically viable project long-term,&amp;quot; says Brown.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="31">
+          <content>&amp;apost;Very viable&amp;apost;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="32">
+          <content>Still, Sasol is determined to press ahead with its big plans.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="33">
+          <content>The company says its investments are &amp;quot;well-reviewed&amp;quot; and thoroughly scrutinized &amp;quot;to make sure that these are good sound projects&amp;quot; that will open up new economic opportunities.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="34">
+          <content>&amp;quot;We&amp;apost;ve looked at it in many different ways,&amp;quot; says Constable.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="35">
+          <content>&amp;quot;We&amp;apost;ve proven it here in South Africa, we&amp;apost;ve proven it up in Qatar,&amp;quot; he adds.</content>
+        </sentence>
+        <sentence id="36">
+          <content>&amp;quot;It&amp;apost;s a sought-after product, it&amp;apost;s a sought-after technology -- if you look at those dynamics as macroeconomics over the long term, we see our projects as being very, very viable.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="348" link="http://edition.cnn.com/2014/08/07/health/restaurant-fast-food-calories/index.html?hpt=hp_mid" date_published="2014-08-07 15:55:50" category="health" author="Saarik Gupta, Special to CNN" highlights_mapped="true" mapping_error="false">
+  <title>Restaurants, fast food cost you 200 extra calories</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="4">Study says eating out leads to more calories, sugar, saturated fat and salt.</sentence>
+      <sentence id="2" ids_article_sentences="5">Researchers analyzed data from 12,000 people aged 20 to 64.</sentence>
+      <sentence id="3" ids_article_sentences="22">Study author suggests ordering half portion, getting sauce on the side, drinking water.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-06 13:18:35" annotation_time="116.79066">
+      <sentence id="4" ids_highlights="1">The study, published online Thursday by Public Health Nutrition, concludes that eating at both fast food and full-service restaurants leads to &amp;quot;significant increases in energy, sugar, saturated fat and Na [salt].&amp;quot;</sentence>
+      <sentence id="5" ids_highlights="2">Researchers analyzed data from over 12,000 people aged 20 to 64 who were asked about their eating habits on two separate days.</sentence>
+      <sentence id="22" ids_highlights="3">Nguyen has some recommendations for those on the go, trying to eat healthy despite the calorie surplus: &amp;quot;You may want to order a half portion, get the sauce or dressing on the side, and drink water rather than soda to cut down on the additional caloric intake.&amp;quot;</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>It&amp;apost;s often difficult to find time to cook a healthy, nutritious meal while traversing this hectic world.</content>
+        </sentence>
+        <sentence id="2">
+          <content>We&amp;apost;ve been warned frequently about the dangers of fast food.</content>
+        </sentence>
+        <sentence id="3">
+          <content>But skipping the drive-thru for that &amp;quot;healthier&amp;quot; sit-down meal at a restaurant isn&amp;apost;t a good option either, a new study suggests.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="4">
+          <content>The study, published online Thursday by Public Health Nutrition, concludes that eating at both fast food and full-service restaurants leads to &amp;quot;significant increases in energy, sugar, saturated fat and Na [salt].&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>Researchers analyzed data from over 12,000 people aged 20 to 64 who were asked about their eating habits on two separate days.</content>
+        </sentence>
+        <sentence id="6">
+          <content>The data was collected by the National Health and Nutrition Examination Survey.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>Around 30% of the study participants ate at a fast food establishment on both days.</content>
+        </sentence>
+        <sentence id="8">
+          <content>On day one, 28% of participants ate at a full-service restaurant; 20% ate at a restaurant on day two.</content>
+        </sentence>
+        <sentence id="9">
+          <content>The rest of the participants ate at home.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="10">
+          <content>People who ate at a fast food or full-service restaurants consumed an extra 200 calories per day on average than people who ate at home, the study authors say.</content>
+        </sentence>
+        <sentence id="11">
+          <content>These extra calories made up about 10% of their total daily intake.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="12">
+          <content>Black adults who ate out consumed more calories on average than white or Hispanic adults who ate at a fast food or full-service restaurant.</content>
+        </sentence>
+        <sentence id="13">
+          <content>Eating out affected high-income adults the least, suggesting they may purchase healthier, often more expensive, fare at restaurants.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;On days when people are consuming fast food and full-service restaurant foods, they do not reduce their calorie consumption in other areas of their diet,&amp;quot; Binh Nguyen, co-author of the study, concluded.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="15">
+          <content>The researchers also found people who ate out consumed more sugar, salt and saturated fat.</content>
+        </sentence>
+        <sentence id="16">
+          <content>In some cases, eating at a full-service restaurant was worse: the study authors estimate there was nearly a 20% increase in daily sodium intake due to restaurant eating, compared to 13% from fast food.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="17">
+          <content>The unhealthy state of American diets is nothing new.</content>
+        </sentence>
+        <sentence id="18">
+          <content>More than one third of adults in the United States are obese, according to the Centers for Disease Control and Prevention -- that equates to about 79 million people.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="19">
+          <content>There are many factors behind the increasingly obese population.</content>
+        </sentence>
+        <sentence id="20">
+          <content>Portion and beverage sizes have exploded.</content>
+        </sentence>
+        <sentence id="21">
+          <content>Public health experts estimate that Americans eat a third more calories than they did 40 years ago, including 56% more fats and oils.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="22">
+          <content>Nguyen has some recommendations for those on the go, trying to eat healthy despite the calorie surplus: &amp;quot;You may want to order a half portion, get the sauce or dressing on the side, and drink water rather than soda to cut down on the additional caloric intake.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="23">
+          <content>The authors acknowledge that the data for this study was self-reported, and that participants may have overestimated or underestimated their calorie intake.</content>
+        </sentence>
+        <sentence id="24">
+          <content>But the most important thing to glean from the study, according to co-author Lisa Powell, is that &amp;quot;eating out at restaurants should be the exception not the norm.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

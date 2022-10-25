@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1571" link="http://www.cnn.com/2011/10/04/tech/mobile/iphone-siri/index.html" date_published="2011-10-05 00:16:51" category="tech" author="Mark Milian, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Apple&amp;apost;s Siri voice assistant based on extensive research</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">Apple&amp;apost;s iPhone 4S will have a new voice-assistant feature called Siri.</sentence>
+      <sentence id="2" ids_article_sentences="22">Siri is based on a government-funded research program.</sentence>
+      <sentence id="3" ids_article_sentences="24">Apple acquired Siri in April 2010.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-11 10:49:24" annotation_time="76.064674" mapping_time_divergence="25.35489">
+      <sentence id="2" ids_highlights="1">Apple&amp;apost;s new phone, which was announced on Tuesday to be sold in stores on October 14, will have a new function called Siri.</sentence>
+      <sentence id="22" ids_highlights="2">The program was funded by the U.S. Defense Advanced Research Projects Agency (DARPA), the government division responsible for Global Position System (GPS) and developments that led to the creation of the Internet.</sentence>
+      <sentence id="24" ids_highlights="3">Apple acquired the company in April 2010.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Cupertino, California The iPhone 4S may not look any different from its predecessor, but it is Apple&amp;apost;s only model with a sort of robot living inside.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Apple&amp;apost;s new phone, which was announced on Tuesday to be sold in stores on October 14, will have a new function called Siri.</content>
+        </sentence>
+        <sentence id="3">
+          <content>The program lets people bark commands or ask questions to the phone, and it will provide an answer or ask follow-up questions in order to perform a given task.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>At the news conference, Phil Schiller, Apple&amp;apost;s marketing executive, called Siri &amp;quot;the coolest feature of the new iPhone 4S,&amp;quot; and the company is expected to advertise Siri heavily in its sales pitches.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Apple dedicated a significant chunk of the presentation to showing the extent of Siri&amp;apost;s ability to interpret requests and respond.</content>
+        </sentence>
+        <sentence id="6">
+          <content>&amp;quot;Do I need a raincoat today?&amp;quot;</content>
+        </sentence>
+        <sentence id="7">
+          <content>incites a robo-female voice to reply: &amp;quot;It sure looks like rain today,&amp;quot; as Scott Forstall, Apple&amp;apost;s mobile software executive, demonstrated.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>Ask Siri to remind you to buy flowers for your wife at a certain time, and Siri may ask you to identify her in the phone&amp;apost;s address book.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Siri then remembers who she is for future requests, Forstall said.</content>
+        </sentence>
+        <sentence id="10">
+          <content>The software integrates with Yelp and WolframAlpha for relevant queries.</content>
+        </sentence>
+        <sentence id="11">
+          <content>It can also schedule appointments in the phone&amp;apost;s calendar and transcribe e-mails or text messages.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="12">
+          <content>With Google&amp;apost;s Android phones, users can dictate messages, too, which are then transcribed by Google&amp;apost;s servers.</content>
+        </sentence>
+        <sentence id="13">
+          <content>Other cell phones support voice commands, which is handy when operating a phone while driving, but few people take advantage of the option.</content>
+        </sentence>
+        <sentence id="14">
+          <content>Even the preceding iPhones had a basic version of this called Voice Control, which can be activated in the same way as Siri, by holding down the phone&amp;apost;s home button.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="15">
+          <content>But Apple&amp;apost;s ambitions for Siri are much greater.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="16">
+          <content>Steve Jobs has said that Siri&amp;apost;s focus is on artificial intelligence.</content>
+        </sentence>
+        <sentence id="17">
+          <content>&amp;quot;We like what they do a lot,&amp;quot; the Apple co-founder and former CEO said at the AllThingsD conference last year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="18">
+          <content>Forstall echoed that onstage Tuesday, saying: &amp;quot;I&amp;apost;ve been in the AI field a long time, and this still blows me away.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="19">
+          <content>The big unveiling of the iPhone 4S on Tuesday was the first time most people learned about Siri, but the voice-assistant software is rooted in many years of extensive technical research.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="20">
+          <content>The project was born at SRI International, a nonprofit research organization.</content>
+        </sentence>
+        <sentence id="21">
+          <content>It was a part of an ambitious project called CALO, for Cognitive Assistant that Learns and Organizes.</content>
+        </sentence>
+        <sentence id="22">
+          <content>The program was funded by the U.S. Defense Advanced Research Projects Agency (DARPA), the government division responsible for Global Position System (GPS) and developments that led to the creation of the Internet.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="23">
+          <content>Work on Siri began in the summer of 2007, and SRI executives decided to spin out the project as a standalone business in 2008.</content>
+        </sentence>
+        <sentence id="24">
+          <content>Apple acquired the company in April 2010.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="25">
+          <content>&amp;quot;The team was so happy when Apple did the acquisition,&amp;quot; Norman Winarsky, a Siri co-founder who remained at SRI, said in an interview on Monday.</content>
+        </sentence>
+        <sentence id="26">
+          <content>&amp;quot;They have a vision.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="27">
+          <content>Before joining Apple, Siri provided a free app for iOS mobile devices.</content>
+        </sentence>
+        <sentence id="28">
+          <content>Apple removed it from the App Store on Tuesday, which means only iPhone 4S owners will be able to access the service starting next week.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="29">
+          <content>The version integrated into the 4S is vastly superior to the now-defunct app based on onstage demos.</content>
+        </sentence>
+        <sentence id="30">
+          <content>Apple spokespeople did not respond to CNN&amp;apost;s requests to try the product at the event on Tuesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="31">
+          <content>Siri&amp;apost;s engineers were excited for the opportunity to bake their software deeply into the new iPhone and build features that a third-party developer would not be able to do because of Apple-imposed restrictions, Winarsky said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="32">
+          <content>&amp;quot;We are going to be very proud,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="33">
+          <content>&amp;quot;The world of virtual personal assistants is going to be everywhere.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="34">
+          <content>Siri&amp;apost;s specialty is in its ability to interpret so-called natural-language requests.</content>
+        </sentence>
+        <sentence id="35">
+          <content>It was originally developed to handle typed queries, Winarsky said.</content>
+        </sentence>
+        <sentence id="36">
+          <content>For the voice transcription, Siri uses technology from Nuance Communications, Mike Thompson, an exec for Nuance&amp;apost;s mobile division, said in an interview on Tuesday.</content>
+        </sentence>
+        <sentence id="37">
+          <content>Apple also licenses Nuance&amp;apost;s voice transcription for features on the Mac.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="38">
+          <content>Like Siri, Nuance was spun out from SRI.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="39">
+          <content>&amp;quot;We&amp;apost;re thrilled with today&amp;apost;s announcement,&amp;quot; Thompson said.</content>
+        </sentence>
+        <sentence id="40">
+          <content>&amp;quot;What you&amp;apost;re seeing today is the beginning of the next generation [of mobile assistants].</content>
+        </sentence>
+        <sentence id="41">
+          <content>That&amp;apost;s really the deep integration and the totality of the experience.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="42">
+          <content>For technologists, like Apple co-founder Steve Wozniak, the ability to speak into a digital companion that can understand and respond is a sci-fi dream realized.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="43">
+          <content>&amp;quot;I don&amp;apost;t like to learn programs&amp;apost; methods of doing everything,&amp;quot; Wozniak said in a recent interview with CNN.</content>
+        </sentence>
+        <sentence id="44">
+          <content>&amp;quot;I just want to speak it and have it happen.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="45">
+          <content>Apple is betting that Siri&amp;apost;s implementation of that will be a major selling point for the new phone.</content>
+        </sentence>
+        <sentence id="46">
+          <content>Despite no apparent technical limitations, the software will only be offered on the iPhone 4S at first.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="47">
+          <content>&amp;quot;Siri is compelling,&amp;quot; AT&amp;amp;T Mobility CEO Ralph de la Vega said in an interview after the announcement.</content>
+        </sentence>
+        <sentence id="48">
+          <content>He indicated that he expected the feature would be a significant enough reason to spur current iPhone users to purchase the iPhone 4S.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

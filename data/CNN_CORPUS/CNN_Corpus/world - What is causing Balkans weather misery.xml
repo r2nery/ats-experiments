@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2956" link="http://www.cnn.com/2014/05/20/world/europe/balkans-flooding-explainer/index.html?iref=allsearch" date_published="2014-05-20 13:27:00" category="world" author="Judson Jones, CNN" highlights_mapped="true" mapping_error="false">
+  <title>What is causing Balkans weather misery?</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">The Balkans are enduring the worst flooding in 120 years, since record keeping began.</sentence>
+      <sentence id="2" ids_article_sentences="3">26 bodies have been recovered, and rescuers expect to find more as waters recede.</sentence>
+      <sentence id="3" ids_article_sentences="6">The low pressure system drenching the peninsula is known as a &amp;quot;cutoff low&amp;quot;.</sentence>
+      <sentence id="4" ids_article_sentences="11">Last week, the cutoff low lasted up to four days and dumped two months&amp;apost; worth of rain.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-01 13:28:22" annotation_time="20.038">
+      <sentence id="1" ids_highlights="1"> The Balkans are enduring the worst floods since records began 120 years ago.</sentence>
+      <sentence id="3" ids_highlights="2">Already 26 bodies have been recovered, and rescuers expect to find more as flood waters recede.</sentence>
+      <sentence id="6" ids_highlights="3">Southern Europe is no stranger to heavy rain events: the low pressure system currently drenching the Balkan Peninsula was detached from the main weather pattern and is known as a &amp;quot;cutoff low.&amp;quot;</sentence>
+      <sentence id="11" ids_highlights="4">In the case of last week, the cutoff low lasted up to four days and dumped two months&amp;apost; worth of rain.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The Balkans are enduring the worst floods since records began 120 years ago.</content>
+        </sentence>
+        <sentence id="2">
+          <content>The situation is being exacerbated by the risk of landmines from the Bosnia war resurfacing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>Already 26 bodies have been recovered, and rescuers expect to find more as flood waters recede.</content>
+        </sentence>
+        <sentence id="4">
+          <content>Even though the intense rainfall subsided Monday, the disaster is far from over.</content>
+        </sentence>
+        <sentence id="5">
+          <content>CNN meteorologist Pedram Javaheri said flooding in the region will last at least another week -- and in some places, it could get worse.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="6">
+          <content>Southern Europe is no stranger to heavy rain events: the low pressure system currently drenching the Balkan Peninsula was detached from the main weather pattern and is known as a &amp;quot;cutoff low.&amp;quot;</content>
+        </sentence>
+        <sentence id="7">
+          <content>This meteorological event has slowly dumped more than 100 millimeters of rain in only a few days, leaving rivers swollen and towns underwater.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="8">
+          <content>A cutoff low is similar to an eddy in the curve of a river that becomes isolated from the main current.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Like a curve in a river, a cutoff low begins as a dip (trough) in the winds known as the westerlies.</content>
+        </sentence>
+        <sentence id="10">
+          <content>When one of these eddies becomes cut off from the main westerly flow, the closed circulation can last for two to three days on average.</content>
+        </sentence>
+        <sentence id="11">
+          <content>In the case of last week, the cutoff low lasted up to four days and dumped two months&amp;apost; worth of rain.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="12">
+          <content>During the first stage of a cutoff low, a deep trough of cold air will dip south resembling an upside-down Omega-type shape in the jetstream.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="13">
+          <content>Cold air will then start to encircle the low on the west side, as the warm humid air moves north along the east side of the low.</content>
+        </sentence>
+        <sentence id="14">
+          <content>Eventually the warm air will wrap completely around, creating a pocket of cold air within the core of the low pressure system.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="15">
+          <content>The low will now drift slower than if it was a part of the main jetstream.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Over the course of an average of two to three days -- occasionally as much as 10 or more -- the low-pressure system will merge back with the jetstream as the next dip (trough) digs southward and picks up the cutoff low.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="17">
+          <content>The existence of a cutoff low pattern occurs most commonly in Southern Europe, according to a 2004 study of cutoff low systems in the Northern Hemisphere.</content>
+        </sentence>
+        <sentence id="18">
+          <content>Other areas also mentioned in the study were the eastern Atlantic coast, the North Pacific and the Northern China-Siberian region.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="19">
+          <content>The effect of this weather system is exacerbated in the Balkans, where rivers are used to move trade and goods.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="20">
+          <content>CNN Weather Anchor Mari Ramos explained how the region is affected.</content>
+        </sentence>
+        <sentence id="21">
+          <content>&amp;quot;Serbia, for example, is landlocked.</content>
+        </sentence>
+        <sentence id="22">
+          <content>Historically, the Sava and Danube rivers are the main commerce line to the Black Sea in the east and to the rest of Europe in the west.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="23">
+          <content>&amp;quot;Rivers also supply hydrolectric power.</content>
+        </sentence>
+        <sentence id="24">
+          <content>You might think, more water means more power, but that is not necessarily the case.</content>
+        </sentence>
+        <sentence id="25">
+          <content>Excessively high water levels -- just like extremely low levels -- affect the efficiency level and energy output.</content>
+        </sentence>
+        <sentence id="26">
+          <content>Many smaller power stations are flooded -- some temporarily, while others are permanently damaged.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="27">
+          <content>Rivers in the Balkans also represent the main supply of fresh water.</content>
+        </sentence>
+        <sentence id="28">
+          <content>&amp;quot;High water levels contaminate water treatment plants leaving thousands without drinking water,&amp;quot; Ramos explained.</content>
+        </sentence>
+        <sentence id="29">
+          <content>Water is also used for industry so factories, fisheries and agriculture are all affected by these floods, she added.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

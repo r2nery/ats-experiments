@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="364" link="http://www.cnn.com/2012/04/27/health/soda-obesity/index.html" date_published="2012-04-27 10:49:08" category="health" author="Caleb Hellerman, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Soft drinks: Public enemy No.1 in obesity fight?</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="13">About 1 in 4 Americans gets at least 200 calories a day from sugary drinks.</sentence>
+      <sentence id="2" ids_article_sentences="23">Although soda consumption has declined, U.S. obesity has increased.</sentence>
+      <sentence id="3" ids_article_sentences="39">Many experts say cutting sweetened drinks would fight obesity or diabetes.</sentence>
+      <sentence id="4" ids_article_sentences="21">Soft drink industry says their product has been unfairly singled out.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-02 18:06:18" annotation_time="16.3825">
+      <sentence id="13" ids_highlights="1">Meanwhile, about 1 in 4 Americans gets at least 200 calories a day from sugary drinks.</sentence>
+      <sentence id="21" ids_highlights="4">Some in the soft drink business say their product has been unfairly singled out.</sentence>
+      <sentence id="23" ids_highlights="2">&amp;quot;Soda consumption has declined, even as obesity has increased.</sentence>
+      <sentence id="39" ids_highlights="3">That&amp;apost;s why most people who take a hard look at American diets say that cutting out sweetened drinks, is the first step for anyone struggling with weight or diabetes.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Pushing her meal cart into the hospital room, a research assistant hands out tall glasses of reddish-pink liquid, along with a gentle warning: &amp;quot;Remember, you guys have to finish all your Kool-Aid.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>One by one, young volunteers chug down their drinks, each carefully calibrated to contain a mix of water, flavoring and a precisely calibrated solution of high fructose corn syrup: 55% fructose, 45% glucose.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The participants are part of an ongoing study run by Kimber Stanhope, a nutritional biologist at the University of California, Davis.</content>
+        </sentence>
+        <sentence id="4">
+          <content>Volunteers agree to spend several weeks as lab rats: their food carefully measured, their bodies subjected to a steady dose of scans and blood tests.</content>
+        </sentence>
+        <sentence id="5">
+          <content>At first, each volunteer receives meals with no added sugars.</content>
+        </sentence>
+        <sentence id="6">
+          <content>But then, the sweetened drinks start showing up.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>For the final two weeks of the study, volunteers drank three of the sweet concoctions daily -- about 500 calories of added sugar, or 25% of all calories for the adult women in the study.</content>
+        </sentence>
+        <sentence id="8">
+          <content>Within just two weeks, their blood chemistry was out of whack.</content>
+        </sentence>
+        <sentence id="9">
+          <content>In one striking change, the volunteers had elevated levels of LDL cholesterol, a risk factor for heart disease.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="10">
+          <content>While force-feeding junk food may sound extreme, this controlled diet is not so far from the real world.</content>
+        </sentence>
+        <sentence id="11">
+          <content>A 20-ounce regular soda contains 227 calories, according to the U.S. Department of Agriculture (USDA).</content>
+        </sentence>
+        <sentence id="12">
+          <content>That single drink is more than 10% of the total calories an adult woman needs to maintain a healthy weight, according to USDA diet guidelines.</content>
+        </sentence>
+        <sentence id="13">
+          <content>Meanwhile, about 1 in 4 Americans gets at least 200 calories a day from sugary drinks.</content>
+        </sentence>
+        <sentence id="14">
+          <content>These numbers, along with work like Stanhope&amp;apost;s, gives ammunition to doctors and public health officials who say soda should be treated as public health enemy No. 1.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="15">
+          <content>&amp;quot;Soft drinks and sugar-containing beverages are the low hanging fruit in public health today,&amp;quot; says Dr. David Ludwig, director of the New Balance Foundation Obesity Prevention Center, at Children&amp;apost;s Hospital in Boston.</content>
+        </sentence>
+        <sentence id="16">
+          <content>&amp;quot;Many children are consuming 300 calories per day or more, just in sugar-containing beverages.</content>
+        </sentence>
+        <sentence id="17">
+          <content>Compare the challenge of giving up three glasses of sugary beverages, versus getting them to do two hours of moderate physical activity.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;If you switch from Coke to water, that&amp;apost;s easy,&amp;quot; says Elizabeth Mayer-Davis, a professor at the University of North Carolina and a recent president of the American Diabetes Association.</content>
+        </sentence>
+        <sentence id="19">
+          <content>&amp;quot;You don&amp;apost;t have to make big complicated changes in how you cook, and shop, and all that.</content>
+        </sentence>
+        <sentence id="20">
+          <content>And the number of calories you can save, can be substantial.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="21">
+          <content>Some in the soft drink business say their product has been unfairly singled out.</content>
+        </sentence>
+        <sentence id="22">
+          <content>&amp;quot;Consumption of added sugars is going down,&amp;quot; says Karen Hanretty, Vice-President of Public Affairs for the American Beverage Association.</content>
+        </sentence>
+        <sentence id="23">
+          <content>&amp;quot;Soda consumption has declined, even as obesity has increased.</content>
+        </sentence>
+        <sentence id="24">
+          <content>To say that sugar is solely responsible for obesity, doesn&amp;apost;t make sense.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="25">
+          <content>Coca-Cola has adapted to meet consumer demand, says Rhona Applebaum, the company&amp;apost;s Vice President and Chief Scientific Regulatory Officer.</content>
+        </sentence>
+        <sentence id="26">
+          <content>More than ever, she says, those consumers choose low-sugar products.</content>
+        </sentence>
+        <sentence id="27">
+          <content>Today, Diet Coke and Coke Zero make up 41% of Coke&amp;apost;s North American soda sales, up from 32% a decade ago.</content>
+        </sentence>
+        <sentence id="28">
+          <content>&amp;quot;Our products are part of a balanced, sensible diet, and they can be enjoyed as a valuable part of any meal, including snacks,&amp;quot; says Applebaum.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="29">
+          <content>Buried in the flood of horror stories about America&amp;apost;s obesity crisis, are a few hopeful signs.</content>
+        </sentence>
+        <sentence id="30">
+          <content>Not only is sugar consumption going down, but obesity rates among girls and women have actually stayed flat since 1999, according to Cynthia Ogden, a scientist with the Centers for Disease Control and Prevention (CDC).</content>
+        </sentence>
+        <sentence id="31">
+          <content>For boys and men, those levels have increased only modestly since around 2006, Ogden says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="32">
+          <content>Coincidentally or not, the leveling off of obesity coincides with a drop in the amount of soda that Americans consume.</content>
+        </sentence>
+        <sentence id="33">
+          <content>Consumption of soda -- both regular and diet -- has fallen by 17.3% since 1998, according to Beverage Digest.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="34">
+          <content>Of course soda isn&amp;apost;t the only concern.</content>
+        </sentence>
+        <sentence id="35">
+          <content>An 8-ounce glass of fruit punch or apple juice has nearly 130 calories.</content>
+        </sentence>
+        <sentence id="36">
+          <content>The same glass of chocolate milk has more than 200 -- a solid 20 percent of all recommended daily calories.</content>
+        </sentence>
+        <sentence id="37">
+          <content>Overall, added sugars -- which includes both natural sugar, and high fructose corn syrup -- make up about a sixth of all calories taken in, according to USDA figures.</content>
+        </sentence>
+        <sentence id="38">
+          <content>Somewhat more than a third of those sugars come from soda and other drinks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="39">
+          <content>That&amp;apost;s why most people who take a hard look at American diets say that cutting out sweetened drinks, is the first step for anyone struggling with weight or diabetes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="40">
+          <content>&amp;quot;If we create the assumption that doing one thing will reduce the epidemic [of obesity], we&amp;apost;re making a mistake,&amp;quot; says Dr. William Dietz, director of the CDC&amp;apost;s Division of Nutrition, Physical Activity, and Obesity.</content>
+        </sentence>
+        <sentence id="41">
+          <content>&amp;quot;But within the dietary side, we have to focus on where the biggest action is.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="42">
+          <content>The action, says Dietz and others, lies with sugar and its close cousin, high-fructose corn syrup (HFCS).</content>
+        </sentence>
+        <sentence id="43">
+          <content>Most sweet drinks, including nearly all soda in the United States, use HFCS.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="44">
+          <content>Not everyone agrees they&amp;apost;re equivalent.</content>
+        </sentence>
+        <sentence id="45">
+          <content>While most studies show that table sugar and HFCS play an equal role in weight gain, some research suggests that HFCS -- which usually contains 10% more fructose than sucrose -- is more likely to change the body&amp;apost;s metabolism, in ways that can increase risk for cardiovascular disease and diabetes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="46">
+          <content>But most scientists say the differences are subtle.</content>
+        </sentence>
+        <sentence id="47">
+          <content>That includes even Stanhope, whose work has focused on comparing the effects of fructose and other sugars.</content>
+        </sentence>
+        <sentence id="48">
+          <content>In terms of advising patients or making public health policy, she says, there isn&amp;apost;t much difference.</content>
+        </sentence>
+        <sentence id="49">
+          <content>&amp;quot;I think we really, at this point, need to treat them all alike.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="50">
+          <content>&amp;quot;Are sweetened drinks the only reason we have epidemics of obesity and diabetes?</content>
+        </sentence>
+        <sentence id="51">
+          <content>No, they&amp;apost;re not,&amp;quot; says Mayer-Davis, the past ADA president.</content>
+        </sentence>
+        <sentence id="52">
+          <content>&amp;quot;But sometimes the easy answer, is the answer.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

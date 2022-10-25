@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2504" link="http://www.cnn.com/2012/01/07/world/africa/nigeria-violence/index.html" date_published="2012-01-07 19:56:43" category="world" author="the CNN Wire Staff" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Nigerian state under curfew after violence against Christians</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="9">NEW: Nigeria&amp;apost;s president condemns &amp;quot;mindless acts of violence&amp;quot; in a nationwide speech.</sentence>
+      <sentence id="2" ids_article_sentences="14">NEW: He defends the controversial removal of a gas subsidy that had kept prices low.</sentence>
+      <sentence id="3" ids_article_sentences="1">Adamawa state is under a 24-hour curfew after three days of violence.</sentence>
+      <sentence id="4" ids_article_sentences="3, 1">More than 30 Christians have been killed, including 12 on Friday in the city of Yola.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-01 14:51:10" annotation_time="121.47366" mapping_time_divergence="30.368416">
+      <sentence id="1" ids_highlights="3, 4">A northeastern Nigerian state was under a 24-hour curfew Saturday following three days of violence that left more than 30 Christians dead.</sentence>
+      <sentence id="3" ids_highlights="4">On Friday, 11 men and one woman were killed in the city of Yola.</sentence>
+      <sentence id="9" ids_highlights="1">Nigerian President Goodluck Jonathan condemned the recent attacks in a speech to the nation Saturday, saying such &amp;quot;mindless acts of violence ... are unfortunate.&amp;quot;</sentence>
+      <sentence id="14" ids_highlights="2">The latest sectarian attack comes as Nigeria also faces a nationwide wave of popular protests over the removal of a gas subsidy that had kept prices artificially low.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>A northeastern Nigerian state was under a 24-hour curfew Saturday following three days of violence that left more than 30 Christians dead.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The curfew was placed in effect as fears rose that Christian youths could launch reprisal attacks, said Tomborokai Gajere, chaplain to the Adamawa state government.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>On Friday, 11 men and one woman were killed in the city of Yola.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>The militant Islamist group Boko Haram has claimed or been blamed for a recent spate of sectarian attacks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>On Thursday, it was reported that 17 people, all Christians, were killed while mourning the deaths of two others who were killed the day before.</content>
+        </sentence>
+        <sentence id="6">
+          <content>These attacks happened in the city of Mubi.</content>
+        </sentence>
+        <sentence id="7">
+          <content>Daniels said the official number of deaths was just 12, with four injuries.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>Gajere said he personally pleaded with Christian youths in Numan, which is near Mubi, for calm amid reports that reprisal attacks were possible.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>Nigerian President Goodluck Jonathan condemned the recent attacks in a speech to the nation Saturday, saying such &amp;quot;mindless acts of violence ... are unfortunate.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;I urge all Nigerians to eschew bitterness and acrimony and live together in harmony and peace.</content>
+        </sentence>
+        <sentence id="11">
+          <content>Wherever there is any threat to public peace, our security agencies will enforce the law, without fear or favor,&amp;quot; Jonathan said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>Boko Haram has been blamed for months of widespread bloodshed in Nigeria, with churches and police stations among the targets.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>The group also claimed responsibility for a series of attacks on churches on Christmas Day.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>The latest sectarian attack comes as Nigeria also faces a nationwide wave of popular protests over the removal of a gas subsidy that had kept prices artificially low.</content>
+        </sentence>
+        <sentence id="15">
+          <content>Police have responded forcefully by making many arrests, an effort that has contributed to at least one death.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="16">
+          <content>Jonathan&amp;apost;s speech Saturday defended the decision to remove the subsidy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;My fellow Nigerians, the truth is that we are all faced with two basic choices with regard to the management of the downstream petroleum sector: Either we deregulate and survive economically, or we continue with a subsidy regime that will continue to undermine our economy and potential for growth and face serious consequences,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="18">
+          <content>He acknowledged that deregulating the oil sector is &amp;quot;not a magic formula,&amp;quot; though he said &amp;quot;it provides a good entry point for transforming the economy, and for ensuring transparency and competitiveness in the oil industry, which is the mainstay of our economy.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="19">
+          <content>Jonathan added that a committee will be established to oversee the removal of the gas subsidy &amp;quot;to ensure that the funds ... are spent prudently on projects that will build a greater Nigeria.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

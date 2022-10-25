@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="868" link="http://www.cnn.com/2014/06/26/opinion/potter-ag-gag-laws-animals/index.html" date_published="2014-06-26 13:43:47" category="opinion" author="Will Potter" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Opinion: Exposing animal cruelty is not a crime</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="4">&amp;quot;Ag-gag&amp;quot; laws make it illegal to photograph or videotape animal cruelty on factory farms.</sentence>
+      <sentence id="2" ids_article_sentences="8, 6">Will Potter: These videos have exposed horrific animal cruelty and resulted in convictions.</sentence>
+      <sentence id="3" ids_article_sentences="18">Potter: The laws turn news gathering and whistle-blowing into crimes.</sentence>
+      <sentence id="4" ids_article_sentences="18">Potter: Ag gag is industry&amp;apost;s attempt to keep consumers from knowing what they&amp;apost;re buying.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-09-22 16:13:24" annotation_time="91.29633" mapping_time_divergence="22.824083">
+      <sentence id="4" ids_highlights="1">&amp;quot;Ag-gag&amp;quot; legislation -- so-called because it gags animal abuse whistle-blowers -- makes it illegal to photograph or videotape animal cruelty on factory farms and slaughterhouses.</sentence>
+      <sentence id="6" ids_highlights="2">The legislation is the agriculture industry&amp;apost;s response to undercover video investigations that exposed horrific animal cruelty.</sentence>
+      <sentence id="8" ids_highlights="2">The investigation resulted in criminal convictions for animal cruelty.</sentence>
+      <sentence id="18" ids_highlights="3, 4">These laws are an attempt to keep consumers in the dark about what they are buying, and they do that by turning whistle-blowers and journalists into criminals.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>If &amp;quot;The Jungle&amp;quot; were published today, muckraking journalist Upton Sinclair would probably release photos from his undercover investigation of Chicago meatpacking plants on Flickr and upload video to YouTube.</content>
+        </sentence>
+        <sentence id="2">
+          <content>His work would be shared thousands of times on Facebook by outraged consumers.</content>
+        </sentence>
+        <sentence id="3">
+          <content>And all of this could land him in court, and even prison, under new laws being passed across the country today.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="4">
+          <content>&amp;quot;Ag-gag&amp;quot; legislation -- so-called because it gags animal abuse whistle-blowers -- makes it illegal to photograph or videotape animal cruelty on factory farms and slaughterhouses.</content>
+        </sentence>
+        <sentence id="5">
+          <content>In the last few years, these laws have passed in Iowa, Utah, Missouri, and Idaho, and more may be on the way.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="6">
+          <content>The legislation is the agriculture industry&amp;apost;s response to undercover video investigations that exposed horrific animal cruelty.</content>
+        </sentence>
+        <sentence id="7">
+          <content>In Idaho, for instance, a group called Mercy for Animals filmed workers at Bettencourt Dairies punching and kicking cows in the face.</content>
+        </sentence>
+        <sentence id="8">
+          <content>The investigation resulted in criminal convictions for animal cruelty.</content>
+        </sentence>
+        <sentence id="9">
+          <content>But the dairy industry&amp;apost;s response was not to clean up its act -- it was to outlaw the footage.</content>
+        </sentence>
+        <sentence id="10">
+          <content>The Idaho Dairymen&amp;apost;s Association drafted Idaho&amp;apost;s new &amp;quot;ag-gag&amp;quot; law in response to the Bettencourt investigation; undercover video, the group says, results in &amp;quot;media persecution&amp;quot; and &amp;quot;potential financial ruin.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="11">
+          <content>One ag-gag supporter, industry group Protect the Harvest, has a website devoted to fighting &amp;quot;extremists like the Humane Society.&amp;quot;</content>
+        </sentence>
+        <sentence id="12">
+          <content>In Idaho, lawmakers called undercover investigators terrorists and vigilantes.</content>
+        </sentence>
+        <sentence id="13">
+          <content>The bill&amp;apost;s sponsor, state Sen. Jim Patrick, said the whistle-blowers are like &amp;quot;marauding invaders.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="14">
+          <content>In Utah, Sen. David Hinkins said ag-gag was needed to stop &amp;quot;the vegetarian people&amp;quot; who are &amp;quot;trying to kill the animal industry.&amp;quot;</content>
+        </sentence>
+        <sentence id="15">
+          <content>The co-owner of Iowa&amp;apost;s MowMar Farms -- where workers were recorded beating pigs with metal pipe -- called the video &amp;quot;the 9/11 event of animal care in our industry.&amp;quot;</content>
+        </sentence>
+        <sentence id="16">
+          <content>Rhetoric like this is meant to make people afraid of nonviolent undercover investigators and to distract us from the real issue.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="17">
+          <content>The truth is that it doesn&amp;apost;t matter if you are a meat eater or one of &amp;quot;the vegetarian people,&amp;quot; ag-gag laws affect all of us.</content>
+        </sentence>
+        <sentence id="18">
+          <content>These laws are an attempt to keep consumers in the dark about what they are buying, and they do that by turning whistle-blowers and journalists into criminals.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="19">
+          <content>I am a plaintiff in two lawsuits, in Utah and Idaho, challenging ag-gag laws as unconstitutional.</content>
+        </sentence>
+        <sentence id="20">
+          <content>I joined these lawsuits, as a journalist, because ag-gag directly puts both my sources and me at risk.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="21">
+          <content>Sixteen professional journalism organizations have written an amicus brief to the court about concerns.</content>
+        </sentence>
+        <sentence id="22">
+          <content>The Society of Professional Journalists, NPR, the Reporters Committee for Freedom of the Press and others noted that ag-gag &amp;quot;poses a substantial risk of criminalizing lawful -- and constitutionally protected -- news gathering activity.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="23">
+          <content>Ag-gag laws put journalists in the cross hairs in three ways:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="24">
+          <content>They criminalize news gathering.</content>
+        </sentence>
+        <sentence id="25">
+          <content>Journalists have long gone undercover to get the story, dating back to Nellie Bly getting herself committed to the Women&amp;apost;s Lunatic Asylum in New York around 1887 so she could expose neglect and abuse for Joseph Pulitzer&amp;apost;s New York World.</content>
+        </sentence>
+        <sentence id="26">
+          <content>Today, Utah&amp;apost;s ag-gag law targets anyone who accesses a farm under &amp;quot;false pretenses,&amp;quot; and also anyone who &amp;quot;applies for employment at an agricultural operation with the intent to record an image of, or sound from, the agricultural operation.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="27">
+          <content>Idaho&amp;apost;s law has similar restrictions against photography and also says it&amp;apost;s a crime if someone &amp;quot;obtains records of an agricultural production facility.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="28">
+          <content>Ag-gag laws create harsher penalties for critics.</content>
+        </sentence>
+        <sentence id="29">
+          <content>In his best-selling book &amp;quot;Eating Animals,&amp;quot; Jonathan Safran Foer admits entering a farm illegally to see conditions there after his requests to visit were repeatedly denied.</content>
+        </sentence>
+        <sentence id="30">
+          <content>He says undercover investigations &amp;quot;are one of the only meaningful windows the public has into the imperfect day-to-day running of factory farms and industrial slaughterhouses.&amp;quot;</content>
+        </sentence>
+        <sentence id="31">
+          <content>Trespassing is against the law, and journalists aren&amp;apost;t exempt from that.</content>
+        </sentence>
+        <sentence id="32">
+          <content>Under ag-gag, though, trespassing with the intent to expose wrongdoing results in stiffer penalties.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="33">
+          <content>Ag-gag turns sources into criminals.</content>
+        </sentence>
+        <sentence id="34">
+          <content>Factory farm investigations have been reported by the top media outlets in the country, including The New York Times, The Washington Post, and CNN, but the journalists didn&amp;apost;t do the investigations themselves -- nonprofit groups did.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="35">
+          <content>As ag-gag becomes law, more and more investigators say they are afraid to talk to journalists about their work.</content>
+        </sentence>
+        <sentence id="36">
+          <content>Some ag-gag bills even require investigators to turn over all footage to police and make it illegal to give it to the press.</content>
+        </sentence>
+        <sentence id="37">
+          <content>These stories need to be told, but by telling them journalists put both themselves and their sources at risk.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="38">
+          <content>If the industry has its way, the only insight into the agriculture industry will come from the industry itself.</content>
+        </sentence>
+        <sentence id="39">
+          <content>This industry needs more windows and more sunlight exposing its abuses.</content>
+        </sentence>
+        <sentence id="40">
+          <content>It&amp;apost;s time to overturn ag-gag laws so we can have an informed and vibrant national discussion about modern industrial agriculture, one that, were Upton Sinclair around today, would make him proud.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

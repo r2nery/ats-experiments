@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1549" link="http://edition.cnn.com/2014/06/14/sport/football/world-cup-colombia-greece-uruguay-costa-rica-england-italy-ivory-coast-japan/index.html" date_published="2014-06-14 17:55:25" category="sport" author="Paul Gittings and Gary Morley, CNN" highlights_mapped="true" mapping_error="false">
+  <title>World Cup: Mario Balotelli sinks England: Costa Rica upsets Uruguay</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Italy beats England 2-1 in their Group D opener in Manaus.</sentence>
+      <sentence id="2" ids_article_sentences="13">Costa Rica stuns Uruguay with 3-1 win in earlier match in group.</sentence>
+      <sentence id="3" ids_article_sentences="24">Pablo Armero scores fastest goal of tournament as Colombia beats Greece.</sentence>
+      <sentence id="4" ids_article_sentences="38">Ivory Coast comes from behind to beat Japan in other Group C game.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-07-25 21:07:34" annotation_time="42.623">
+      <sentence id="1" ids_highlights="1"> Mario Balotelli&amp;apost;s headed goal early in the second half gave Italy a crucial 2-1 win over fellow European heavyweights England in their Group D opener in Manaus.</sentence>
+      <sentence id="13" ids_highlights="2">The win leaves Italy well placed to reach the last 16 after Costa Rica stunned South American champion Uruguay 3-1 in the earlier match in the group.</sentence>
+      <sentence id="24" ids_highlights="3">In Saturday&amp;apost;s first match, Colombia scored the fastest goal of the World Cup to date to set up a 3-0 victory against Greece in the opening game of Group C .</sentence>
+      <sentence id="38" ids_highlights="4">Colombia will next play an Ivory Coast team that came from behind to beat Japan in Saturday&amp;apost;s final match in Recife.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Mario Balotelli&amp;apost;s headed goal early in the second half gave Italy a crucial 2-1 win over fellow European heavyweights England in their Group D opener in Manaus.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Continuing the pattern of a free-scoring World Cup, both sides created a flurry of chances in an open and attacking match despite the stifling heat and humidity of the Amazon jungle and a pitch of questionable quality.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>England, inspired by 19-year-old Raheem Sterling, made a confident start to Saturday&amp;apost;s game with the Liverpool winger going close with an early snap shot.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>But it was the Italians who went ahead as Andrea Pirlo&amp;apost;s dummy from a corner left Claudio Marchisio the chance to score with a rasping 35th-minute drive from outside the area.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>Within two minutes England drew deservedly level as Daniel Sturridge converted from strike partner Wayne Rooney&amp;apost;s cross after the Manchester United star had been sent clear down the left by Sterling.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>The eventual winner came five minutes after the break as the excellent Antonio Candreva was allowed to cross for Balotelli to head home at the far post from close range.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>England pressed forward and created a number of half chances, the best of which fell to Rooney, who dragged his effort wide.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="8">
+          <content>But Italy, which knocked England out of the 2012 European Championship in a quarterfinal penalty shootout, always carried a threat as well -- and veteran playmaker Pirlo rattled Joe Hart&amp;apost;s crossbar with an injury-time free kick.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="9">
+          <content>Italy coach Prandelli praised his midfielders for their role in a famous victory.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;I am clearly satisfied with this victory as this match against England was very difficult, they are a very good team,&amp;quot; Prandelli said.</content>
+        </sentence>
+        <sentence id="11">
+          <content>&amp;quot;We had a very good basis in midfield,&amp;quot; he added.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="12">
+          <content>Uruguay 1-3 Costa Rica.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="13">
+          <content>The win leaves Italy well placed to reach the last 16 after Costa Rica stunned South American champion Uruguay 3-1 in the earlier match in the group.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="14">
+          <content>Uruguay, which kept recovering star player Luis Suarez on the bench in Fortaleza, ended the Group D opener with 10 men when Maxi Pereira was sent off for an ugly challenge in injury time.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="15">
+          <content>Uruguay had looked set for a routine victory when Edinson Cavani fired in a 24th-minute penalty after Diego Lugano was hauled down.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="16">
+          <content>But there was a complete reversal of fortunes after halftime as Joel Campbell drove home a spectacular 54th-minute equalizer.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="17">
+          <content>Three minutes later Oscar Duarte stooped low to head the Costa Ricans ahead.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="18">
+          <content>Liverpool&amp;apost;s Suarez, who had knee surgery ahead of the tournament, was still not risked by coach Oscar Tabarez despite the dire plight of his team and a sorry night was to get worse.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="19">
+          <content>Campbell, on the books of Arsenal but yet to play a first team game for the English Premier League side, capped a fine performance by sending away substitute Marco Urena to score a late and clinching third.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="20">
+          <content>Pereira then saw red in a moment of madness as he lunged at Campbell and will miss Uruguay&amp;apost;s second group match against England Thursday, which now takes on added importance for both teams after their opening setbacks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="21">
+          <content>Costa Rica&amp;apost;s Colombian coach Jorge Luis Pinto said Campbell had changed the course of the game.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;He&amp;apost;s a man who unsettles you, he surprises, changes the tempo, he was uncontainable for the Uruguay defense,&amp;quot; said Pinto.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="23">
+          <content>Colombia 3-0 Greece.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="24">
+          <content>In Saturday&amp;apost;s first match, Colombia scored the fastest goal of the World Cup to date to set up a 3-0 victory against Greece in the opening game of Group C .</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="25">
+          <content>Pablo Armero&amp;apost;s deflected shot squeezed over the Greek line to give his team a fifth-minute lead in Belo Horizonte, and the South Americans doubled their advantage in the second half as striker Teofilo Gutierrez netted.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="26">
+          <content>Gutierrez, leading the line in the absence of Colombia&amp;apost;s injured star forward Radamel Falcao, stabbed home at the far post in the 58th minute after a right-wing corner was flicked on.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="27">
+          <content>Greece should have reduced the deficit, but veteran Theofanis Gekas headed against the crossbar from close range soon before he was substituted in the 64th minute.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="28">
+          <content>Young midfielder James Rodriguez sealed Colombia&amp;apost;s victory in time added on, with a low shot that keeper Orestis Karnezis could only palm into the corner of the net.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="29">
+          <content>Great things are expected of Rodriguez, who moved to big spending French club AS Monaco from Porto for $60 million before the start of last season.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="30">
+          <content>He is nicknamed the &amp;quot;new kid&amp;quot; as he is seen as the natural successor to former Colombian legend Carlos Valderrama, whose nickname was &amp;apost;the kid&amp;quot; and starred for the national side at three straight World Cups until 1998.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="31">
+          <content>Colombia, in the finals for the first time since Valderrama&amp;apost;s last appearance, is considered a dangerous outsider although the loss of Falcao is considered a major blow.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="32">
+          <content>Falcao, a teammate of Rodriguez at Monaco, has not recovered in time from a serious knee injury but has joined his international teammates in Brazil to lend his support.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="33">
+          <content>Greece has suffered six defeats in the last seven games at the World Cup and coach Fernando Santos said his side had been well beaten.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="34">
+          <content>&amp;quot;They caused us a lot of problems from the opening minutes,&amp;quot; the 59-year-old told reporters.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="34">
+      <sentences>
+        <sentence id="35">
+          <content>Colombia coach Jose Pekerman was delighted with his side&amp;apost;s opening win.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="35">
+      <sentences>
+        <sentence id="36">
+          <content>&amp;quot;We were strong going forward, we had a nice style of play and we created several chances,&amp;quot; said the 64-year-old Argentine.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="36">
+      <sentences>
+        <sentence id="37">
+          <content>Ivory Coast 2-1 Japan.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="37">
+      <sentences>
+        <sentence id="38">
+          <content>Colombia will next play an Ivory Coast team that came from behind to beat Japan in Saturday&amp;apost;s final match in Recife.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="38">
+      <sentences>
+        <sentence id="39">
+          <content>Japan took a 16th-minute lead through a superb strike by AC Milan midfielder Keisuke Honda, but the second-half introduction of veteran striker Didier Drogba helped inspire the African side to victory.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="39">
+      <sentences>
+        <sentence id="40">
+          <content>Soon after the 36-year-old came off the bench, fellow forward Wilfried Bony made up for several misses when he headed home Serge Aurier&amp;apost;s cross in the 64th minute.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="40">
+      <sentences>
+        <sentence id="41">
+          <content>The defender also delivered an assist for Gervinho two minutes later, as the Roma striker nodded in a near-post effort that Japan goalkeeper Eiji Kawashima will be disappointed not to have saved.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="41">
+      <sentences>
+        <sentence id="42">
+          <content>It was the first time that the Ivorians had won their first game at a World Cup, and another victory on Thursday would make a historic first progression to the knockout stages possible.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="42">
+      <sentences>
+        <sentence id="43">
+          <content>Japan was the first team to qualify for Brazil, but now realistically needs to beat Greece to have a chance of reaching the last 16 -- as the team did in South Africa four years ago.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

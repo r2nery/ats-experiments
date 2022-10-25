@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="418" link="http://www.cnn.com/2014/08/14/health/parkinsons-disease/index.html?iid=article_sidebar" date_published="2014-08-14 19:24:24" category="health" author="Jacque Wilson, CNN" highlights_mapped="true" mapping_error="false">
+  <title>What is Parkinson&amp;apost;s disease?</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="4">Parkinson&amp;apost;s disease is a progressive disorder of the nervous system.</sentence>
+      <sentence id="2" ids_article_sentences="16, 15, 17">Neurons die, leaving the brain with a deficit of a chemical called dopamine.</sentence>
+      <sentence id="3" ids_article_sentences="12">Approximately 1 million people in the United States have Parkinson&amp;apost;s.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-19 09:46:56" annotation_time="102.756">
+      <sentence id="4" ids_highlights="1">Parkinson&amp;apost;s disease is a &amp;quot;progressive disorder of the nervous system,&amp;quot; according to the Mayo Clinic, that primarily affects a patient&amp;apost;s movement.</sentence>
+      <sentence id="12" ids_highlights="3">Approximately 1 million people have Parkinson&amp;apost;s disease in the United States, according to the Parkinson&amp;apost;s Disease Foundation.</sentence>
+      <sentence id="15" ids_highlights="2">Your body uses a chemical called dopamine to control movement, according to the National Institutes of Health.</sentence>
+      <sentence id="16" ids_highlights="2">Dopamine is produced by neurons in the brain, which begin to die with Parkinson&amp;apost;s disease.</sentence>
+      <sentence id="17" ids_highlights="2">With fewer live cells, a dopamine deficit occurs, causing movement issues.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Robin Williams was in the early stages of Parkinson&amp;apost;s disease when he died this week, his wife says.</content>
+        </sentence>
+        <sentence id="2">
+          <content>Williams was found dead in his Northern California home Monday after what investigators suspect was a suicide by hanging.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>What is Parkinson&amp;apost;s disease?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Parkinson&amp;apost;s disease is a &amp;quot;progressive disorder of the nervous system,&amp;quot; according to the Mayo Clinic, that primarily affects a patient&amp;apost;s movement.</content>
+        </sentence>
+        <sentence id="5">
+          <content>It often starts with a small tremor in the hand or muscle stiffness and gets worse over time.</content>
+        </sentence>
+        <sentence id="6">
+          <content>There is no test for Parkinson&amp;apost;s, so it is occasionally misdiagnosed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>Parkinson&amp;apost;s patients often have trouble walking and talking.</content>
+        </sentence>
+        <sentence id="8">
+          <content>Symptoms include slowness of movement, a loss of balance and slurred speech.</content>
+        </sentence>
+        <sentence id="9">
+          <content>With Parkinson&amp;apost;s disease, &amp;quot;you may have a decreased ability to perform unconscious movements, including blinking, smiling or swinging your arms when you walk,&amp;quot; the Mayo Clinic says.</content>
+        </sentence>
+        <sentence id="10">
+          <content>The symptoms are often worse on one side of the body.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="11">
+          <content>Whom does it affect?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="12">
+          <content>Approximately 1 million people have Parkinson&amp;apost;s disease in the United States, according to the Parkinson&amp;apost;s Disease Foundation.</content>
+        </sentence>
+        <sentence id="13">
+          <content>Men are more likely to get it than women, and it usually affects people over 50.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="14">
+          <content>What causes Parkinson&amp;apost;s disease?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="15">
+          <content>Your body uses a chemical called dopamine to control movement, according to the National Institutes of Health.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Dopamine is produced by neurons in the brain, which begin to die with Parkinson&amp;apost;s disease.</content>
+        </sentence>
+        <sentence id="17">
+          <content>With fewer live cells, a dopamine deficit occurs, causing movement issues.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="18">
+          <content>Scientists don&amp;apost;t know what exactly causes these cells to start to deteriorate but believe it&amp;apost;s a combination of genes and environmental causes.</content>
+        </sentence>
+        <sentence id="19">
+          <content>About 15% to 25% of Parkinson&amp;apost;s patients have a family member with the disease, the Parkinson&amp;apost;s Disease Foundation says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="20">
+          <content>In some cases, researchers have identified a single gene mutation that&amp;apost;s passed from generation to generation, according to the Michael J. Fox Foundation.</content>
+        </sentence>
+        <sentence id="21">
+          <content>&amp;quot;Mutations in the LRRK2 gene are the greatest genetic contributor to Parkinson&amp;apost;s disease discovered to date,&amp;quot; the site states.</content>
+        </sentence>
+        <sentence id="22">
+          <content>But in most cases, the cause is probably a combination of gene mutations.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="23">
+          <content>Studies have also linked chemicals like TCE and PERC to Parkinson&amp;apost;s, though the relationship has not been proved.</content>
+        </sentence>
+        <sentence id="24">
+          <content>&amp;quot;A simple exposure to an environmental toxin is never enough to cause Parkinson&amp;apost;s,&amp;quot; the Parkinson&amp;apost;s Disease Foundation states.</content>
+        </sentence>
+        <sentence id="25">
+          <content>&amp;quot;In fact, there is no conclusive evidence that any environmental factor, alone, can be considered a cause of the disease.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="26">
+          <content>Can you treat it?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="27">
+          <content>There is no cure for Parkinson&amp;apost;s disease, according to the National Institutes of Health, but doctors can help patients cope with symptoms.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="28">
+          <content>A medication called levodopa is often given to patients to help their brains make more dopamine.</content>
+        </sentence>
+        <sentence id="29">
+          <content>It&amp;apost;s often prescribed with carbidopa, which helps bring the levodopa into the brain.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="30">
+          <content>The U.S. Food and Drug Administration has approved deep brain stimulation, which is also used to treat depression, to reduce symptoms in Parkinson&amp;apost;s patients.</content>
+        </sentence>
+        <sentence id="31">
+          <content>Electrodes are implanted into the brain and connected to a small device that emits programmed pulses to help control movement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="32">
+          <content>Other patients prefer less invasive forms of therapy like tai chi.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="33">
+          <content>A recent study done at Harvard University found that patients with Parkinson&amp;apost;s improved after researchers transplanted tissue from fetal dopamine cells into their brains.</content>
+        </sentence>
+        <sentence id="34">
+          <content>Patients with severe symptoms experienced 50% fewer symptoms in the years after surgery.</content>
+        </sentence>
+        <sentence id="35">
+          <content>People who had been taking medication to control their Parkinson&amp;apost;s but found that the medicine no longer worked also saw significant improvements after surgery.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

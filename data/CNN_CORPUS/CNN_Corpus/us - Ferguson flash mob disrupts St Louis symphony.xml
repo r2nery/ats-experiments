@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1921" link="http://edition.cnn.com/2014/10/06/us/michael-brown-symphony-performance/index.html?hpt=us_c2" date_published="2014-10-06 06:25:19" category="us" author="Saeed Ahmed, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Ferguson flash mob disrupts St. Louis symphony</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">The protesters launch into an old civil rights song.</sentence>
+      <sentence id="2" ids_article_sentences="17">They were all paying attendees, the symphony says.</sentence>
+      <sentence id="3" ids_article_sentences="27">The occasion &amp;quot;seemed almost destined,&amp;quot; organizer says.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-24 13:39:48" annotation_time="31.225">
+      <sentence id="3" ids_highlights="1">As the St. Louis Symphony returned from intermission Saturday night and readied to launch into Brahms&amp;apost; &amp;apost;Ein deutsches Requiem&amp;apost; (A German Requiem), two audience members stood up and began singing an old protest song -- modified for a new cause.</sentence>
+      <sentence id="17" ids_highlights="2">The Saturday night protesters were all paying customers, said Adam Crane, the symphony&amp;apost;s vice president for external affairs.</sentence>
+      <sentence id="27" ids_highlights="3">It just seemed almost destined,&amp;quot; Vega said.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>It was a protest of an altogether different sort.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Rather than take to the streets of Ferguson, these demonstrators took their demands to the seats of the symphony.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>As the St. Louis Symphony returned from intermission Saturday night and readied to launch into Brahms&amp;apost; &amp;apost;Ein deutsches Requiem&amp;apost; (A German Requiem), two audience members stood up and began singing an old protest song -- modified for a new cause.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>&amp;quot;Justice for Mike Brown is justice for us all,.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>Which side are you on friend?</content>
+        </sentence>
+        <sentence id="6">
+          <content>Which side are you on?&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>Then, others slowly joined in -- in the balcony, on the floor, in various parts of the auditorium.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>The protesters unfurled banners.</content>
+        </sentence>
+        <sentence id="9">
+          <content>&amp;quot;Mike Brown 1996-2014,&amp;quot; said one.</content>
+        </sentence>
+        <sentence id="10">
+          <content>&amp;quot;Racism lives here,&amp;quot; said another.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>The reaction was mixed.</content>
+        </sentence>
+        <sentence id="12">
+          <content>There was applause among many in the audience.</content>
+        </sentence>
+        <sentence id="13">
+          <content>Other patrons remained unimpressed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;He was a thug,&amp;quot; a man was captured on camera saying.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>Brown, an unarmed 18-year-old African-American, was shot to death by a white police officer in August, fueling protests and spurring a debate on police use of force.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>The genesis.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>The Saturday night protesters were all paying customers, said Adam Crane, the symphony&amp;apost;s vice president for external affairs.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;There were about 50 people who had purchased tickets,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="19">
+          <content>The flash mob was the idea of Sarah Griesbach and Elizabeth Vega.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="20">
+          <content>Two weeks ago, the pair were booed and handcuffed after hanging banners at a St. Louis Cardinals game.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="21">
+          <content>&amp;quot;People were just outraged: How dare we interrupt a baseball game!</content>
+        </sentence>
+        <sentence id="22">
+          <content>They were saying really racist things,&amp;quot; Vega said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="23">
+          <content>As they were escorted out of the stadium in handcuffs, Griesbach joked, &amp;quot;We probably need a different venue.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="24">
+          <content>The idea for the symphony flash mob was born.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="25">
+          <content>The performance.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="26">
+          <content>&amp;quot;We looked up the performances, and found (Saturday&amp;apost;s performance) was a Requiem.</content>
+        </sentence>
+        <sentence id="27">
+          <content>It just seemed almost destined,&amp;quot; Vega said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="28">
+          <content>The pair spread the word for strong singers through word of mouth and on social media.</content>
+        </sentence>
+        <sentence id="29">
+          <content>The protesters rehearsed the song three times before heading to the symphony.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="30">
+          <content>&amp;quot;We wanted something simple that would stick with people,&amp;quot; Vega said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="31">
+          <content>The singing lasted for about a minute and a half.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="32">
+          <content>The outcome.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="33">
+          <content>As they left, the demonstrators chanted &amp;quot;Black lives matter.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="34">
+          <content>Red hearts floated down from the balcony onto audience members below.</content>
+        </sentence>
+        <sentence id="35">
+          <content>&amp;quot;Requiem for Michael Brown, May 20, 1996 - August 8, 2014,&amp;quot; said one side.</content>
+        </sentence>
+        <sentence id="36">
+          <content>Information on how to get involved was listed on the back.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="37">
+          <content>The musicians on stage clapped.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="38">
+          <content>&amp;quot;It was peaceful and it didn&amp;apost;t interrupt the music,&amp;quot; Crane said.</content>
+        </sentence>
+        <sentence id="39">
+          <content>&amp;quot;After the protest, they left Powell Hall marching two-by-two down the stairs and out the door.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="40">
+          <content>This time, no one was handcuffed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

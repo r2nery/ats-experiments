@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2912" link="http://www.cnn.com/2014/05/28/world/asia/malaysia-missing-plane" date_published="2014-05-28 09:03:55" category="world" author="Holly Yan and David Molko, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Underwater search for MH370 postponed for at least 2 months</title>
+  <keywords>Malaysia Airlines Inmarsat data,Missing Flight 370,Malaysia Airlines underwater search</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">The Bluefin-21 drone wraps up its final underwater mission Wednesday.</sentence>
+      <sentence id="2" ids_article_sentences="5">Officials are trying to solicit a private contractor to lead the next stage of the search.</sentence>
+      <sentence id="3" ids_article_sentences="6">That stage will use more high-tech equipment, possibly in two months.</sentence>
+      <sentence id="4" ids_article_sentences="10">Meanwhile, a Chinese ship is trying to map ocean floor .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-02 20:59:06" annotation_time="17.737665">
+      <sentence id="2" ids_highlights="1">The Bluefin-21 drone is completing its final mission in the Indian Ocean on Wednesday, marking the end of the underwater hunt -- for now.</sentence>
+      <sentence id="5" ids_highlights="2">Soliciting those companies and negotiating contracts will take time, and officials have said they want a single private contractor to lead the next stage of the search.</sentence>
+      <sentence id="6" ids_highlights="3">That phase, which aims to scour 60,000 square kilometers, probably won&amp;apost;t start for at least two months.</sentence>
+      <sentence id="10" ids_highlights="4">In the meantime, China is using a specialized ship to map the ocean floor in a remote part of the Indian Ocean -- something that&amp;apost;s never been done before.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>After two grueling months with no word from their loved ones, relatives of those on Malaysia Airlines Flight 370 will have to wait two more months before the search resumes underwater.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The Bluefin-21 drone is completing its final mission in the Indian Ocean on Wednesday, marking the end of the underwater hunt -- for now.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>With no tangible evidence found by the drone, which costs an estimated $40,000 a day to operate, search officials are regrouping and preparing to deploy more high-tech equipment.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>Only a handful of companies have such devices, which will likely include towed sonar, an autonomous underwater vehicle with mounted sonar and optical imaging equipment, Australian officials said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>Soliciting those companies and negotiating contracts will take time, and officials have said they want a single private contractor to lead the next stage of the search.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>That phase, which aims to scour 60,000 square kilometers, probably won&amp;apost;t start for at least two months.</content>
+        </sentence>
+        <sentence id="7">
+          <content>The cost?</content>
+        </sentence>
+        <sentence id="8">
+          <content>About $60 million.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>Uncharted territory.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>In the meantime, China is using a specialized ship to map the ocean floor in a remote part of the Indian Ocean -- something that&amp;apost;s never been done before.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>While the Bluefin-21 can provide greater resolution than deep-towed sonar devices, the drone could only go about 4.5 kilometers deep.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>It&amp;apost;s unclear how deep the water is in the expanded search area because &amp;quot;it&amp;apost;s never been mapped,&amp;quot; Australian Deputy Prime Minister Warren Truss said earlier this month.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="13">
+          <content>China&amp;apost;s Zhu Kezhen ship will be joined by a contracted commercial survey vessel in June, the Australian Transport Safety Bureau said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="14">
+          <content>While 26 countries have participated in the hunt for the missing plane, Malaysia, China and Australia have held high-level talks about the future of the search.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="15">
+          <content>Malaysia is where the the plane is from, China had more than 100 passengers on board, and Australia had six passengers on board and is close to the stretch of the Indian Ocean where searchers have focused their hunt.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="16">
+          <content>Australia has estimated the next phase of the search will cost $60 million, with the breakdown of exactly who&amp;apost;s going to pay for what yet to be determined.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="17">
+          <content>Satellite data released.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="18">
+          <content>With the underwater search on hiatus, analysts are combing through a 47-page document containing hundreds of lines of communication logs between the plane and the British company Inmarsat&amp;apost;s satellite system.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="19">
+          <content>Relatives of passengers have been clamoring for the release of satellite data for months.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="20">
+          <content>It was the satellite data, along with other information, that led officials to zero in on a search area in the southern Indian ocean.</content>
+        </sentence>
+        <sentence id="21">
+          <content>And some families suspect officials may be searching in the wrong spot.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="22">
+          <content>But the document released Tuesday doesn&amp;apost;t provide the whole picture.</content>
+        </sentence>
+        <sentence id="23">
+          <content>It&amp;apost;s &amp;quot;intended to provide a readable summary of the data communication logs,&amp;quot; notes at the beginning of the document say.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="24">
+          <content>Some passengers&amp;apost; families, unsatisfied by the official explanation of the plane&amp;apost;s fate, say they want an independent analysis of the complex information -- a process that could take weeks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="25">
+          <content>CNN safety analyst David Soucie said certain key elements, which would allow independent experts to fully test the official conclusion, are missing from the data in the document.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="26">
+          <content>&amp;quot;There&amp;apost;s not enough information to say whether they made an error,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="27">
+          <content>&amp;quot;I think we&amp;apost;re still going to be looking for more.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="28">
+          <content>Inmarsat CEO Rupert Pearce acknowledged Tuesday that the company didn&amp;apost;t release the model to which it applied the data to estimate the plane&amp;apost;s path -- and said the decision on whether to release the model lies with the Malaysian government, which is leading the search.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="29">
+          <content>&amp;quot;We&amp;apost;d be perfectly happy to put that model out,&amp;quot; Pearce told CNN&amp;apost;s &amp;quot;New Day.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="30">
+          <content>But Pearce also said the publicized data, along with engine and radar data, are enough for experienced third parties to plug into their own models and reach their own conclusions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="31">
+          <content>Sarah Bajc, whose partner, Philip Wood, was on the missing jet, said she was &amp;quot;annoyed&amp;quot; that Inmarsat and Malaysian authorities hadn&amp;apost;t released everything they used to reach their conclusions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="32">
+          <content>&amp;quot;I see no reason for them to have massaged this before giving it to us,&amp;quot; she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="33">
+          <content>Regardless of what information has been released, two pressing questions remain -- where is the plane, and what went wrong?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

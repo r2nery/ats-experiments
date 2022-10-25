@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1563" link="http://www.cnn.com/2013/04/26/tech/social-media/apparently-this-matters-concert-phones/index.html?iid=article_sidebar" date_published="2013-04-26 19:21:50" category="tech" author="Jarrett Bellini, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Apparently This Matters: At concerts, put that cell phone down</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="26, 24">Indie band Yeah Yeah Yeahs asked fans to not use mobile devices.</sentence>
+      <sentence id="2" ids_article_sentences="14">Jarrett Bellini: You&amp;apost;re not preserving a memory.</sentence>
+      <sentence id="3" ids_article_sentences="59">Who actually looks at old cell phone concert photos?.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-01 16:13:57" annotation_time="127.802" mapping_time_divergence="127.802">
+      <sentence id="14" ids_highlights="2">Part of it might be the delusional notion of preserving a memory, but it&amp;apost;s probably more about showing everyone in social media that you&amp;apost;re actually out of your house doing something culturally important.</sentence>
+      <sentence id="24" ids_highlights="1">So, recently, the indie rock band the Yeah Yeah Yeahs decided to try something.</sentence>
+      <sentence id="26" ids_highlights="1">&amp;quot;PLEASE DO NOT WATCH THE SHOW THROUGH A SCREEN ON YOUR SMART DEVICE/CAMERA.</sentence>
+      <sentence id="59" ids_highlights="3">Will you ever look at it again?</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>&amp;quot;Wow!</content>
+        </sentence>
+        <sentence id="2">
+          <content>I totally just watched the awesome cell phone video you shot at that concert!&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>Said nobody ever.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Yet, at some point, we&amp;apost;ve all done it.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>The band is on stage.</content>
+        </sentence>
+        <sentence id="6">
+          <content>The phone is in your pocket.</content>
+        </sentence>
+        <sentence id="7">
+          <content>And, lest you actually just dance and enjoy yourself and maybe scan the floor for dropped cash, you decide, instead, to shoot three minutes of unlistenable pixel puke.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>Because you can.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>Perhaps you upload the blurry mess to Facebook or YouTube, but in the end, it ultimately just gets filed deep within your camera roll with the pointless images of some overpriced, mediocre meal you ate from a trendy new food truck.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>For, at the time, that, too, seemed worth documenting.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;Look, Sarah!</content>
+        </sentence>
+        <sentence id="12">
+          <content>Mexican-Chinese-Ethiopian-Pittsburgh fusion!&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>It&amp;apost;s difficult to explain just why we do it -- why having a very basic camera in our pocket compels us to shoot photos and videos of live music that, deep down, we know we&amp;apost;ll never look at.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>Part of it might be the delusional notion of preserving a memory, but it&amp;apost;s probably more about showing everyone in social media that you&amp;apost;re actually out of your house doing something culturally important.</content>
+        </sentence>
+        <sentence id="15">
+          <content>As opposed to staying in and slathering your body with ranch dressing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>Once again, I believe I&amp;apost;ve shared too much.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>But for exploring your city and having a true, cultural experience, live music counts.</content>
+        </sentence>
+        <sentence id="18">
+          <content>Going to Home Depot doesn&amp;apost;t.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="19">
+          <content>Otherwise, we&amp;apost;d all be tweeting arrogant selfies next to lumber.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="20">
+          <content>&amp;quot;Must be nice to be Gary.</content>
+        </sentence>
+        <sentence id="21">
+          <content>Always hanging around wood.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="22">
+          <content>Of course, cell phones annoyingly blocking your view at concerts is nothing new, and even complaining about them (like I am here) has grown rather cliché.</content>
+        </sentence>
+        <sentence id="23">
+          <content>Yet, it seems to be getting worse.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="24">
+          <content>So, recently, the indie rock band the Yeah Yeah Yeahs decided to try something.</content>
+        </sentence>
+        <sentence id="25">
+          <content>They posted a sign:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="26">
+          <content>&amp;quot;PLEASE DO NOT WATCH THE SHOW THROUGH A SCREEN ON YOUR SMART DEVICE/CAMERA.</content>
+        </sentence>
+        <sentence id="27">
+          <content>PUT THAT S--- AWAY as a courtesy to the person behind you and to Nick, Karen and Brian.</content>
+        </sentence>
+        <sentence id="28">
+          <content>MUCH LOVE AND MANY THANKS!</content>
+        </sentence>
+        <sentence id="29">
+          <content>YEAH YEAH YEAHS&amp;quot;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="30">
+          <content>This all came out a couple of weeks ago when a picture of their sign from New York&amp;apost;s Webster Hall was tweeted by Spin magazine, and it quickly got passed around the Internet.</content>
+        </sentence>
+        <sentence id="31">
+          <content>The band&amp;apost;s sentiments seemed to strike a nerve.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="32">
+          <content>But never mind the annoyance of having to look at the stage through a sea of bright, glaring viewfinders.</content>
+        </sentence>
+        <sentence id="33">
+          <content>Even more than that, it&amp;apost;s all just become sort of sad.</content>
+        </sentence>
+        <sentence id="34">
+          <content>We&amp;apost;re disconnected from the music.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="35">
+          <content>The real eye-opener for me was last year, when I saw Roger Waters perform &amp;quot;The Wall.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="36">
+          <content>It was incredible.</content>
+        </sentence>
+        <sentence id="37">
+          <content>This show had explosions.</content>
+        </sentence>
+        <sentence id="38">
+          <content>And shiny things.</content>
+        </sentence>
+        <sentence id="39">
+          <content>And planes falling from the sky.</content>
+        </sentence>
+        <sentence id="40">
+          <content>It was complete sensory overload, and when I got home, I decided my life needed more lasers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="41">
+          <content>I considered attaching some to my dog.</content>
+        </sentence>
+        <sentence id="42">
+          <content>In fact, I&amp;apost;m still thinking about it.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="43">
+          <content>&amp;quot;The Wall&amp;quot; was simply amazing.</content>
+        </sentence>
+        <sentence id="44">
+          <content>Yet, so many people missed the entire show.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="45">
+          <content>And they were literally right there.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="46">
+          <content>Amidst all the operatic madness of the classic Pink Floyd double album, everywhere I looked, people were watching it through 3 inches of glass on their phones.</content>
+        </sentence>
+        <sentence id="47">
+          <content>One of the greatest rock spectacles ever was directly in front of them, yet they actually made the conscious decision to have a worse visual experience.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="48">
+          <content>If &amp;quot;The Wall&amp;quot; was fine dining, it would be like ordering a beautiful steak and then asking the server to put it down his pants for five minutes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="49">
+          <content>&amp;quot;Look, just run around the building a few times, do some burpees and bring it back.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="50">
+          <content>But, for all those people at the Roger Waters show, I guess it just seemed like the right thing to do at the time.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="51">
+          <content>However, I assure you it wasn&amp;apost;t.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="52">
+          <content>So, as an experiment, I want you to pick up your phone, scroll through your photos and videos, and stop when you get to something you shot at a concert.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="53">
+          <content>Then ask yourself this: Did I actually pay to see Creed?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="54">
+          <content>And if the answer is yes, go jump into a river.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="55">
+          <content>Otherwise, take a moment and really think about that photo.</content>
+        </sentence>
+        <sentence id="56">
+          <content>Or that video.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="34">
+      <sentences>
+        <sentence id="57">
+          <content>Was it worth annoying everyone else behind you?</content>
+        </sentence>
+        <sentence id="58">
+          <content>Has it made your life better?</content>
+        </sentence>
+        <sentence id="59">
+          <content>Will you ever look at it again?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="35">
+      <sentences>
+        <sentence id="60">
+          <content>If you&amp;apost;ve answered &amp;quot;yes&amp;quot; to any of these questions, please join the Creed fans somewhere downstream.</content>
+        </sentence>
+        <sentence id="61">
+          <content>Your services are no longer needed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="36">
+      <sentences>
+        <sentence id="62">
+          <content>Interestingly, though, on a positive note, last weekend I went to Wanee Festival in Live Oak, Florida, for a weekend of Allman Brothers and Widespread Panic and several other bands that rule your face.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="37">
+      <sentences>
+        <sentence id="63">
+          <content>Deep within the trees among the masses of people, getting a cell phone signal strong enough to utilize the interwebs was next to impossible.</content>
+        </sentence>
+        <sentence id="64">
+          <content>Which may explain why I saw so few people actually using their phones to begin with.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="38">
+      <sentences>
+        <sentence id="65">
+          <content>And as the night sky darkened, I was struck by the absence of little glowing viewfinders.</content>
+        </sentence>
+        <sentence id="66">
+          <content>People were just enjoying the music.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="39">
+      <sentences>
+        <sentence id="67">
+          <content>Part of that is a reflection of the overall music-first vibe at Wanee Festival, But it still proves that it&amp;apost;s entirely possible to be a part of the live music experience without having to document it in some way.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="40">
+      <sentences>
+        <sentence id="68">
+          <content>Of course, if you have a quality camera and can get up close, there&amp;apost;s definitely an art in concert photography.</content>
+        </sentence>
+        <sentence id="69">
+          <content>And people certainly appreciate that.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="41">
+      <sentences>
+        <sentence id="70">
+          <content>But for everyone else, let&amp;apost;s all agree to give it a rest.</content>
+        </sentence>
+        <sentence id="71">
+          <content>Do it for you.</content>
+        </sentence>
+        <sentence id="72">
+          <content>Just experience the music, take it in, and we&amp;apost;ll talk about our favorite moments over late-night food.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="42">
+      <sentences>
+        <sentence id="73">
+          <content>I know a great place for Mexican-Chinese-Ethiopian-Pittsburgh fusion.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

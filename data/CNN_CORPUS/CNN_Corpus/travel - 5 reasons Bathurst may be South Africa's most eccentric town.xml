@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1717" link="http://www.cnn.com/2014/05/29/travel/bathurst-south-africa/index.html" date_published="2014-05-29 05:28:26" category="travel" author="Kate Whitehead, for CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>5 reasons Bathurst may be South Africa&amp;apost;s most eccentric town</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="30">Bathurst is a creative community of artists, musicians and academics.</sentence>
+      <sentence id="2" ids_article_sentences="11, 56">The town&amp;apost;s quirky venues include a giant pineapple building and an agricultural museum.</sentence>
+      <sentence id="3" ids_article_sentences="20">Pig and Whistle is South Africa&amp;apost;s oldest pub.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-11 10:50:44" annotation_time="99.36967" mapping_time_divergence="66.246445">
+      <sentence id="11" ids_highlights="2">World&amp;apost;s largest pineapple.</sentence>
+      <sentence id="20" ids_highlights="3">South Africa&amp;apost;s oldest pub.</sentence>
+      <sentence id="30" ids_highlights="1">As a community of artists, academics and musicians, many residents say they were attracted by the village&amp;apost;s creative spirit.</sentence>
+      <sentence id="56" ids_highlights="2">Bathurst Agricultural Museum has the answer.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>It&amp;apost;s a village not a town.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>So say residents of Bathurst, a magnet for the creative and curious located in the Eastern Cape of South Africa, approximately 12 kilometers from Port Alfred.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Residents are proud of the eccentricity of their town.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>Or village.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>&amp;quot;You&amp;apost;ve got to have certain things to be a town, like a bank and full-time doctor, and we don&amp;apost;t have any of that,&amp;quot; says one longtime resident who gives her name only as Mrs. Lens.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>What Bathurst does have is a history dating to the early 1820s, a long and entertaining main street and a pub with delicious food that&amp;apost;s also a motel.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>The best time to visit is Sunday morning, for the weekly farmers market.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="8">
+          <content>But there are other attractions -- starting with these.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="9">
+          <content>Don&amp;apost;t forget to tell us about your own underrated cities in the comment section.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="10">
+          <content>1.</content>
+        </sentence>
+        <sentence id="11">
+          <content>World&amp;apost;s largest pineapple.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="12">
+          <content>There&amp;apost;s no missing the town&amp;apost;s 17-meter-tall pineapple.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="13">
+          <content>It&amp;apost;s not as random as it seems.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="14">
+          <content>The Big Pineapple represents the region&amp;apost;s pineapple industry -- the settlers who arrived in the 1820s struggled to grow crops until the first pineapple was planted in 1865.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="15">
+          <content>Inside today&amp;apost;s three-story fiberglass pineapple there&amp;apost;s a museum devoted to the fruit.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="16">
+          <content>From the top there are great views of the surrounding pineapple fields and countryside.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="17">
+          <content>Tractor farm tours and pineapple tastings are also available.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="18">
+          <content>Big Pineapple, just off R67, Bathurst; + 27 46 625 0515; 9 a.m.-5 p.m. daily.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="19">
+          <content>2.</content>
+        </sentence>
+        <sentence id="20">
+          <content>South Africa&amp;apost;s oldest pub.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="21">
+          <content>A pub is the focal point of Bathurst&amp;apost;s history.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="22">
+          <content>Built in 1832 by British settler Thomas Hartley, it was known as Widow Hartley&amp;apost;s Inn after his death.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="23">
+          <content>During World War II, a group of British RAF pilots decided it needed a cheerier moniker and renamed it the Pig and Whistle.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="24">
+          <content>The &amp;quot;pig&amp;quot; refers to an old drinking peg, or unit of alcohol, and the &amp;quot;whistle&amp;quot; is a corruption of the word &amp;quot;wassail,&amp;quot; meaning to drink and be merry.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="25">
+          <content>Although the pub has changed hands many times, the name stuck and it remains the oldest continually licensed pub in South Africa.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="26">
+          <content>The food is excellent, with fresh produce from neighboring farms.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="27">
+          <content>Pig and Whistle, 268 Kowie Road, Bathurst; + 27 46 625 0673.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="28">
+          <content>3.</content>
+        </sentence>
+        <sentence id="29">
+          <content>Offbeat and eccentric stores.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="30">
+          <content>As a community of artists, academics and musicians, many residents say they were attracted by the village&amp;apost;s creative spirit.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="31">
+          <content>Some came for a weekend and never left.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="32">
+          <content>The Coathanger, a retro and vintage clothing store specializing in &amp;quot;shabby chic,&amp;quot; is one among a group of art galleries and craft shops with funky collections.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="33">
+          <content>The store feels like a museum -- old suitcases are stacked beside a 1970s toaster alongside piles of vinyl records and &amp;quot;Boys Own&amp;quot; annuals dating to the 1950s.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="34">
+          <content>Out front, the small lawn is bordered by lavender bushes and features a white ceramic toilet topped with a pair of black stilettos.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="35">
+          <content>&amp;quot;The toilet?</content>
+        </sentence>
+        <sentence id="36">
+          <content>I&amp;apost;m going to plant strawberries in it,&amp;quot; says owner Lindi Pieterse, as if it&amp;apost;s the most obvious thing in the world.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="37">
+          <content>&amp;quot;It&amp;apost;s a sleepy little town, but it really comes to life on a Sunday -- that&amp;apost;s when the hippies come out,&amp;quot; says resident Marcel Pullen who runs a pottery studio and shop with her husband.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="34">
+      <sentences>
+        <sentence id="38">
+          <content>&amp;quot;People live here because they want to get away from it all and there are some really interesting people here, like the couple down the road that run the Dancing Donkey.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="35">
+      <sentences>
+        <sentence id="39">
+          <content>That would be paleontologist Rob Gess and his wife Serena, whose unusually named shop in a small thatched hut sells African arts and crafts made by local artisans, as well as Serena&amp;apost;s own line of natural organic products.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="36">
+      <sentences>
+        <sentence id="40">
+          <content>The Coathanger, Main Road, Bathurst; + 27 72 064 7002.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="37">
+      <sentences>
+        <sentence id="41">
+          <content>Richard Pullen Open Studio, 613 Kowie Road; + 27 46 625 0166.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="38">
+      <sentences>
+        <sentence id="42">
+          <content>The Dancing Donkey, Ndlambe, Bathurst.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="39">
+      <sentences>
+        <sentence id="43">
+          <content>4.</content>
+        </sentence>
+        <sentence id="44">
+          <content>Cheesy humor and kitsch memorabilia.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="40">
+      <sentences>
+        <sentence id="45">
+          <content>Visitors encounter plenty of the village&amp;apost;s cheesy humor.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="41">
+      <sentences>
+        <sentence id="46">
+          <content>An advertisement for the Pig and Whistle boasts: &amp;quot;There&amp;apost;s no thirst like Bathurst.&amp;quot;</content>
+        </sentence>
+        <sentence id="47">
+          <content>Meanwhile, the pub door is inscribed with a bon mot of its own: &amp;quot;Bathurst is a drinking village with a farming problem.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="42">
+      <sentences>
+        <sentence id="48">
+          <content>Inside, a wall is dedicated more wisecracks: &amp;quot;Marriage is a relationship in which one person is always right and the other is the husband.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="43">
+      <sentences>
+        <sentence id="49">
+          <content>A leftover from early settlers, this is British wit at its silliest -- the sort found on old school seaside postcards and one-liners that might&amp;apost;ve gotten a rise out of Benny Hill.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="44">
+      <sentences>
+        <sentence id="50">
+          <content>Souvenirs of these gags can be found at The Corner Art Gallery, which sells shirts that can be printed with the customer&amp;apost;s name alongside the line &amp;quot;Instant Idiot -- just add alcohol.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="45">
+      <sentences>
+        <sentence id="51">
+          <content>The gallery also sells beautiful ceramics, art and fabric prints.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="46">
+      <sentences>
+        <sentence id="52">
+          <content>The Corner Gallery, corner of York and Trappes, Bathurst; + 27 46 625 0114.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="47">
+      <sentences>
+        <sentence id="53">
+          <content>5.</content>
+        </sentence>
+        <sentence id="54">
+          <content>A museum of hoes and wagons.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="48">
+      <sentences>
+        <sentence id="55">
+          <content>Ever wonder what an ostrich incubator looks like?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="49">
+      <sentences>
+        <sentence id="56">
+          <content>Bathurst Agricultural Museum has the answer.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="50">
+      <sentences>
+        <sentence id="57">
+          <content>Set up in 1970 to house old farming equipment, the museum now has more than 1,300 pieces on display, from ox wagons, old tractors and wagons to old dairy utensils and a steam engine.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="51">
+      <sentences>
+        <sentence id="58">
+          <content>Bathurst Agricultural Museum; + 27 72 408 4858; Monday-Saturday.</content>
+        </sentence>
+        <sentence id="59">
+          <content>9 a.m.-4 p.m.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

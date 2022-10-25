@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2194" link="http://www.cnn.com/2013/03/13/world/americas/latin-america-pope-reaction" date_published="2013-03-13 20:22:21" category="world" author="Catherine E. Shoichet, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>First Latin American pope &amp;apost;very exciting&amp;apost;</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="14">&amp;quot;Today is a historic day,&amp;quot; Argentina&amp;apost;s president says.</sentence>
+      <sentence id="2" ids_article_sentences="52, 49">Priest: The pope&amp;apost;s past as the son of immigrants could resonate with Latinos.</sentence>
+      <sentence id="3" ids_article_sentences="28">Mexican bishops say his selection is &amp;quot;a sign of love&amp;quot; for Latin American churches.</sentence>
+      <sentence id="4" ids_article_sentences="1">Pope Francis is the first pope from Latin America.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-01 15:01:38" annotation_time="94.211" mapping_time_divergence="70.65825">
+      <sentence id="1" ids_highlights="4">Catholic faithful from Latin America cheered the historic election of the first pope from the region Wednesday.</sentence>
+      <sentence id="14" ids_highlights="1">&amp;quot;Today is a historic day.</sentence>
+      <sentence id="28" ids_highlights="3">&amp;quot;For the Mexican church, it is a clear sign of love for the churches that are pilgrims in these lands.&amp;quot;</sentence>
+      <sentence id="49" ids_highlights="2">&amp;quot;He is also the son of migrants.</sentence>
+      <sentence id="52" ids_highlights="2">&amp;quot;And we, the Hispanics, the Latinos that now live in the United States ... we can also take some hope and pride that this pope intimately knows and has deeply lived the life of a migrant.&amp;quot;</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Catholic faithful from Latin America cheered the historic election of the first pope from the region Wednesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Crowds swarmed outside the metropolitan cathedral in Buenos Aires, chanting as they waved Argentine flags.</content>
+        </sentence>
+        <sentence id="3">
+          <content>Smiling immigrants and tourists praised the news on the steps of New York&amp;apost;s St. Patrick&amp;apost;s Cathedral.</content>
+        </sentence>
+        <sentence id="4">
+          <content>Pilgrims at Mexico City&amp;apost;s Basilica of Guadalupe said they were thrilled.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>Even though about 480 million of the world&amp;apost;s 1.2 billion Catholics live in Latin America, for centuries, the church&amp;apost;s top job has gone to Europeans.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>That changed with the announcement that Argentine Cardinal Jorge Mario Bergoglio, who served as archbishop of Buenos Aires, would become the new pontiff.</content>
+        </sentence>
+        <sentence id="7">
+          <content>Bergoglio, 76, chose the name Pope Francis.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;I felt like crying.</content>
+        </sentence>
+        <sentence id="9">
+          <content>I felt great excitement.</content>
+        </sentence>
+        <sentence id="10">
+          <content>It is a blessing from God,&amp;quot; said Ines Ambrosi, who spoke to CNN en Español outside New York&amp;apost;s St. Patrick&amp;apost;s Cathedral shortly after the news was announced.</content>
+        </sentence>
+        <sentence id="11">
+          <content>&amp;quot;In Latin America there are millions of Catholics and truly it has been a bit forgotten by the church.</content>
+        </sentence>
+        <sentence id="12">
+          <content>Now we feel very represented, and proud.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="13">
+          <content>Argentine President Cristina Fernandez de Kirchner -- whose government has sparred with Bergoglio in the past -- sent a letter congratulating him as he assumed his new role.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;Today is a historic day.</content>
+        </sentence>
+        <sentence id="15">
+          <content>... For the first time in 2,000 years of the church there is going to be a pope that comes from Latin America,&amp;quot; she said later at an event broadcast on public television.</content>
+        </sentence>
+        <sentence id="16">
+          <content>&amp;quot;And from our hearts we wish for Francis that he can accomplish a greater degree of fraternity between peoples and religions.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="17">
+          <content>Argentine Martin Watson compared the new pope to another kind of celebration that has historically been far more common in his country.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;The news, for us, was almost like winning the World Cup in soccer,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="19">
+          <content>But he added that the papal pick goes beyond national pride.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="20">
+          <content>&amp;quot;For Latin America, it will be a great change.</content>
+        </sentence>
+        <sentence id="21">
+          <content>More eyes will be focused on our region, and maybe we&amp;apost;ll have more support for our region,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="22">
+          <content>&amp;quot;We have a lot of needs.</content>
+        </sentence>
+        <sentence id="23">
+          <content>We have more than 50% in each country of the region (that) are very poor.</content>
+        </sentence>
+        <sentence id="24">
+          <content>That would be a great help for them.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="25">
+          <content>Excitement spreads beyond Argentina.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="26">
+          <content>Mexico&amp;apost;s Catholic bishops released a statement praising the news.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="27">
+          <content>&amp;quot;For the churches that are pilgrims in Latin America, it is the cause of great joy,&amp;quot; the statement said.</content>
+        </sentence>
+        <sentence id="28">
+          <content>&amp;quot;For the Mexican church, it is a clear sign of love for the churches that are pilgrims in these lands.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="29">
+          <content>In St. Peter&amp;apost;s Square in Vatican City, a woman from Ciudad Juarez, Mexico, told CNN&amp;apost;s Anderson Cooper she was overcome with emotion.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="30">
+          <content>&amp;quot;I feel that Mexico has been a country that has suffered a lot, and so has Latin America, but it is a people that has always put trust in God,&amp;quot; she said, &amp;quot;so it is absolutely wonderful to represent our part of the world this time around.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="31">
+          <content>Beside her, a woman from Mexico City said her heart jumped when she heard the announcement that a pope had been picked.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="32">
+          <content>&amp;quot;I&amp;apost;m so excited,&amp;quot; she said.</content>
+        </sentence>
+        <sentence id="33">
+          <content>&amp;quot;It&amp;apost;s a reason of being proud tonight, because Latin America is a very important Catholic area and now it&amp;apost;s going to be totally represented here, so I&amp;apost;m so proud and I&amp;apost;m so happy today.</content>
+        </sentence>
+        <sentence id="34">
+          <content>... It&amp;apost;s going to help a lot, a Latin American pope, it&amp;apost;s going to help.</content>
+        </sentence>
+        <sentence id="35">
+          <content>It&amp;apost;s going to rebuild many things, and it&amp;apost;s a new start.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="36">
+          <content>In Brazil, the secretary-general of the country&amp;apost;s Council of Bishops said he and many others were surprised, but happy, that Bergoglio was chosen.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="37">
+          <content>&amp;quot;It is a very beautiful sign that the cardinals gave us by electing a Latin American cardinal, now our Pope Francis,&amp;quot; said Leonardo Ulrich Steiner, according to state-run Agencia Brasil.</content>
+        </sentence>
+        <sentence id="38">
+          <content>&amp;quot;It shows that the church is truly universal.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="39">
+          <content>In Venezuela, interim leader Nicolas Maduro suggested the late President Hugo Chavez -- who died last week -- could have influenced the church&amp;apost;s historic move.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="40">
+          <content>&amp;quot;We know that our commander ascended to those heights,&amp;quot; Maduro said in remarks broadcast on state-run VTV.</content>
+        </sentence>
+        <sentence id="41">
+          <content>&amp;quot;He is face to face with Christ.</content>
+        </sentence>
+        <sentence id="42">
+          <content>He influenced something.</content>
+        </sentence>
+        <sentence id="43">
+          <content>... Some new hand arrived, and Christ said, well, the new hour of South America has arrived.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="44">
+          <content>Before Wednesday&amp;apost;s announcement, speculation had surged that the church might select its first non-European pope of the modern era.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="45">
+          <content>&amp;quot;It would be an enormous gesture to name a Latin American pope,&amp;quot; Virginia Garrard-Burnett, a professor of history and religious studies at the University of Texas at Austin, said earlier this week.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="46">
+          <content>Because Catholicism is losing ground in the region, a pope from there could be a boost for the faith, she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="47">
+          <content>Priest: Pope gives hope and pride to U.S. Latinos.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="48">
+          <content>The pick is also good news for Catholic Latinos in the United States, said the Rev. Juan J. Molina, the United States Conference of Catholic Bishops associate director for the church in Latin America.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="49">
+          <content>&amp;quot;He is also the son of migrants.</content>
+        </sentence>
+        <sentence id="50">
+          <content>And for us, Hispanics in the United States, this is very important.</content>
+        </sentence>
+        <sentence id="51">
+          <content>... I think that this topic of migration is going to be very important for him,&amp;quot; Molina told CNN en Español.</content>
+        </sentence>
+        <sentence id="52">
+          <content>&amp;quot;And we, the Hispanics, the Latinos that now live in the United States ... we can also take some hope and pride that this pope intimately knows and has deeply lived the life of a migrant.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="53">
+          <content>Bergoglio&amp;apost;s selection also sends a significant message throughout Latin America, Molina said, where the Catholic faith has had a strong presence for centuries.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="54">
+          <content>&amp;quot;The election of a Latin American pope demonstrates that we are now empowered with this faith,&amp;quot; Molina said.</content>
+        </sentence>
+        <sentence id="55">
+          <content>&amp;quot;The church in Latin America is a mature church.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="56">
+          <content>Even the new pope himself alluded to the fact that the church had reached farther than ever for its papal pick.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="57">
+          <content>In his first speech from the balcony of St. Peter&amp;apost;s Basilica, he quipped Wednesday that cardinals had gone to &amp;quot;the end of the world&amp;quot; to find him.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

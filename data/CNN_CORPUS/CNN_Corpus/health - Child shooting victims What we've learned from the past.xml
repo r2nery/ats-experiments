@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="199" link="http://www.cnn.com/2012/12/20/health/mass-shooting-victims/index.html" date_published="2012-12-20 12:09:41" category="health" author="Elizabeth Cohen and John Bonifield, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Child shooting victims: What we&amp;apost;ve learned from the past</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3, 1">Three children were wounded in a 1999 shooting in Los Angeles.</sentence>
+      <sentence id="2" ids_article_sentences="8">The survivors of the Connecticut school shooting have a long road ahead, one says.</sentence>
+      <sentence id="3" ids_article_sentences="9">Now in their teens, the survivors say they were traumatized for years.</sentence>
+      <sentence id="4" ids_article_sentences="16">&amp;quot;I couldn&amp;apost;t be an average child,&amp;quot; says Ben Kadish.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-19 10:02:43" annotation_time="106.33667" mapping_time_divergence="26.584167">
+      <sentence id="1" ids_highlights="1">In many ways, Josh Stepakoff&amp;apost;s childhood came to an abrupt halt at 10:49 a.m. on August 10, 1999.</sentence>
+      <sentence id="3" ids_highlights="1">Five people were wounded, including three children.</sentence>
+      <sentence id="8" ids_highlights="2">The schoolchildren in Connecticut, in the wake of the mass shooting at Sandy Hook Elementary School, have a long road ahead of them, says Stepakoff, now 19.</sentence>
+      <sentence id="9" ids_highlights="3">He was traumatized for years.</sentence>
+      <sentence id="16" ids_highlights="4">&amp;quot;I couldn&amp;apost;t be an average child,&amp;quot; he said.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>In many ways, Josh Stepakoff&amp;apost;s childhood came to an abrupt halt at 10:49 a.m. on August 10, 1999.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>That&amp;apost;s the moment a man named Buford Furrow entered the front door of the North Valley Jewish Community Center in Los Angeles and started shooting.</content>
+        </sentence>
+        <sentence id="3">
+          <content>Five people were wounded, including three children.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Stepakoff, who was attending summer camp there, had the bad luck to be in the lobby.</content>
+        </sentence>
+        <sentence id="5">
+          <content>He took two bullets to his left leg and hip.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>He was 6 at the time, and is among few people who witnessed the horrific sights and sounds of a mass shooting as a very young child.</content>
+        </sentence>
+        <sentence id="7">
+          <content>Like the children of Newtown, Connecticut, he saw blood, he heard screams and he was scared for his life.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>The schoolchildren in Connecticut, in the wake of the mass shooting at Sandy Hook Elementary School, have a long road ahead of them, says Stepakoff, now 19.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>He was traumatized for years.</content>
+        </sentence>
+        <sentence id="10">
+          <content>&amp;quot;If we heard helicopters, sirens, loud noises -- anything that would startle me -- the house was on lockdown,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="11">
+          <content>&amp;quot;I locked every door.</content>
+        </sentence>
+        <sentence id="12">
+          <content>I locked every window.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="13">
+          <content>Even when things were quiet, walking around the house could be stressful, as Stepakoff thought a killer like Furrow might be hiding behind every corner.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;It&amp;apost;s not just, &amp;apost;I&amp;apost;m scared something might pop out at me,&amp;apost; it was, &amp;apost;I&amp;apost;m scared for my life,&amp;apost;&amp;quot; Josh remembered in an interview from his parents&amp;apost; home in Los Angeles.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="15">
+          <content>Ben Kadish, who was 5 when he was shot just a few feet away from Josh 13 years ago, said he felt scared at school even five years after the shooting, and sleeping at friends&amp;apost; houses was out of the question.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;I couldn&amp;apost;t be an average child,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="17">
+          <content>The intensity of the trauma has dulled with time, the young men say, but the shooting still affects them.</content>
+        </sentence>
+        <sentence id="18">
+          <content>For example, both of them chose to go to college in Los Angeles so they wouldn&amp;apost;t be far from home when they had a bad moment.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;If I did run into those times, I didn&amp;apost;t want to be a plane flight away,&amp;quot; Stepakoff said.</content>
+        </sentence>
+        <sentence id="20">
+          <content>&amp;quot;I didn&amp;apost;t want to be a six-hour car ride away.</content>
+        </sentence>
+        <sentence id="21">
+          <content>I wanted to be five minutes away from my home, my safety zone.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="22">
+          <content>Stepakoff and Kadish have insights and advice for the parents of Sandy Hook Elementary children, which can also apply to families whose children have suffered other types of trauma.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="23">
+          <content>Let them talk -- or not.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="24">
+          <content>&amp;quot;If I said I didn&amp;apost;t want to talk about it, we didn&amp;apost;t talk about it,&amp;quot; Stepakoff remembers.</content>
+        </sentence>
+        <sentence id="25">
+          <content>&amp;quot;If I wanted to talk about it, we talked about it.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="26">
+          <content>Expect your life to be disrupted.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="27">
+          <content>When Stepakoff was a young boy and put his house on lockdown, his parents couldn&amp;apost;t leave, even if they had to get to work.</content>
+        </sentence>
+        <sentence id="28">
+          <content>If they were eating lunch at a restaurant and police officers walked in to dine, the family would have to get up and go, because police reminded him of the shootings.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="29">
+          <content>&amp;quot;My parents were great,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="30">
+          <content>Allow your child to find his way.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="31">
+          <content>As a teenager, Stepakoff decided to do work with the Brady Campaign to Prevent Gun Violence, and found solace in talking to other victims.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="32">
+          <content>James Zidell, the third child injured in the Los Angeles shooting, took refuge in nature.</content>
+        </sentence>
+        <sentence id="33">
+          <content>He was also 6 at the time of the shooting.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="34">
+          <content>&amp;quot;In nature you are surrounded by love and beauty,&amp;quot; he wrote in a high school English paper he shared with CNN.</content>
+        </sentence>
+        <sentence id="35">
+          <content>&amp;quot;Bad people cannot get me.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="36">
+          <content>Repeat comforting thoughts.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="37">
+          <content>James Zidell&amp;apost;s mother, Francine Zidell, remembers telling her son over and over that Furrow was in jail and couldn&amp;apost;t hurt him anymore.</content>
+        </sentence>
+        <sentence id="38">
+          <content>&amp;quot;That seemed to be what he needed to hear,&amp;quot; she says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="39">
+          <content>Tell your child how strong he is.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="40">
+          <content>Kadish says one of the most helpful things his parents did was to tell him how strong he was to survive such a horrendous event.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="41">
+          <content>&amp;quot;My slogan was, &amp;apost;You&amp;apost;re Ben Kadish and you can do anything,&amp;apost;&amp;quot; he remembers with a smile.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

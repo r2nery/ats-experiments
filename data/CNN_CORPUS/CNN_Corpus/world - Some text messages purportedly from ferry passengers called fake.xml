@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2752" link="http://www.cnn.com/2014/04/16/world/asia/south-korea-sinking-ship-texts/index.html" date_published="2014-04-16 22:48:19" category="world" author="KJ Kwon and Catherine E. Shoichet, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Some text messages purportedly from ferry passengers called fake</title>
+  <keywords>South Korea sinking ship</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="10">Police say no texts, calls, placed after ship sank, Yonhap News Agency reports.</sentence>
+      <sentence id="2" ids_article_sentences="10">Investigators checked cell records and found nothing, news agency says, citing police.</sentence>
+      <sentence id="3" ids_article_sentences="12">The messages painted a harrowing picture of events aboard ferry.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-29 15:12:59" annotation_time="36.6355">
+      <sentence id="10" ids_highlights="1, 2">Yonhap cited the Cyber Terror Response Center of the National Police Agency as saying that investigators had checked the cell phone records of missing passengers and found none had made any calls or texts after the ferry sank.</sentence>
+      <sentence id="12" ids_highlights="3">The messages, widely reported in South Korean media, painted a chaotic picture of the situation aboard the ferry as hundreds of passengers waited for help and some purportedly reached out to loved ones.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Jindo, South Korea A passenger describes women screaming in the darkness.</content>
+        </sentence>
+        <sentence id="2">
+          <content>A father learns his child is trapped.</content>
+        </sentence>
+        <sentence id="3">
+          <content>A son, fearing death, tells his mother he loves her.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="4">
+          <content>Investigators haven&amp;apost;t said what caused a South Korean ferry boat carrying hundreds of passengers to capsize on Wednesday.</content>
+        </sentence>
+        <sentence id="5">
+          <content>But as rescuers searched frigid waters for nearly 300 missing people, text messages purporting to be from missing passengers surfaced, describing the harrowing moments after the ferry started to roll.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="6">
+          <content>CNN affiliate YTN reported on several messages, purportedly from passengers aboard the sinking vessel to their loved ones.</content>
+        </sentence>
+        <sentence id="7">
+          <content>CNN could not independently confirm the authenticity of the messages or when they were sent.</content>
+        </sentence>
+        <sentence id="8">
+          <content>It&amp;apost;s also unclear what happened to the people who sent them.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="9">
+          <content>On Thursday, the semi-official Yonhap News Agency reported that police now believe the messages supposedly sent after the ferry sank were fake.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="10">
+          <content>Yonhap cited the Cyber Terror Response Center of the National Police Agency as saying that investigators had checked the cell phone records of missing passengers and found none had made any calls or texts after the ferry sank.</content>
+        </sentence>
+        <sentence id="11">
+          <content>It&amp;apost;s unclear if other texts, purportedly sent earlier in the incident, were also believed fake.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="12">
+          <content>The messages, widely reported in South Korean media, painted a chaotic picture of the situation aboard the ferry as hundreds of passengers waited for help and some purportedly reached out to loved ones.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="13">
+          <content>&amp;apost;We are not dead yet&amp;apost;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;No phone connection so there is no Internet connection.</content>
+        </sentence>
+        <sentence id="15">
+          <content>So just sending text message.</content>
+        </sentence>
+        <sentence id="16">
+          <content>There are few people on the ship, can&amp;apost;t see a thing, it&amp;apost;s totally dark.</content>
+        </sentence>
+        <sentence id="17">
+          <content>So there are few men and women, women are screaming,&amp;quot; says one purported text message from a passenger obtained by CNN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;There are a few people in the ship,&amp;quot; the student writes to his mother, &amp;quot;and we are not dead yet, so please send along this message.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="19">
+          <content>A son reaches out.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="20">
+          <content>&amp;quot;Mom, in case I won&amp;apost;t get to tell you, I&amp;apost;m sending this.</content>
+        </sentence>
+        <sentence id="21">
+          <content>I love you,&amp;quot; another message says, according to CNN affiliate YTN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="22">
+          <content>The mom, apparently unaware of what was happening, responds, &amp;quot;Why?&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="23">
+          <content>Then, &amp;quot;I, too, love you, son.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="24">
+          <content>A father offers his child advice.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="25">
+          <content>In another exchange described by YTN, a father advises his teenager to go outside to reach rescuers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="26">
+          <content>&amp;quot;No -- I can&amp;apost;t move because it is tilted too much.</content>
+        </sentence>
+        <sentence id="27">
+          <content>Moving is more dangerous,&amp;quot; the teen replies.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="28">
+          <content>Later, the teen writes, &amp;quot;No, Dad, I can&amp;apost;t walk now.</content>
+        </sentence>
+        <sentence id="29">
+          <content>There are no kids in the hallway.</content>
+        </sentence>
+        <sentence id="30">
+          <content>And it is too tilted.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="31">
+          <content>&amp;apost;The ship got hit by something&amp;apost;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="32">
+          <content>&amp;quot;I was on my way to Jeju Island,&amp;quot; a passenger writes in a message to his brother, according to YTN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="33">
+          <content>&amp;quot;The ship got hit by something and is not moving and the coast guards are on the way.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

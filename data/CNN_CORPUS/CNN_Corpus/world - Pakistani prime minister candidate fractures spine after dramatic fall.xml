@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2584" link="http://www.cnn.com/2013/05/08/world/asia/pakistan-politician-fall/index.html" date_published="2013-05-08 07:22:56" category="world" author="Saima Mohsin, CNN " highlights_mapped="true" mapping_error="false">
+  <title>Pakistani prime minister candidate fractures spine after dramatic fall</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="5">Imran Khan and his guards tumbled about 20 feet near a rally stage .</sentence>
+      <sentence id="2" ids_article_sentences="2">Khan is one of two frontrunners for prime minister.</sentence>
+      <sentence id="3" ids_article_sentences="3">Saturday&amp;apost;s election will mark Pakistan&amp;apost;s first democratic transition of power.</sentence>
+      <sentence id="4" ids_article_sentences="12">The run-up to Pakistan&amp;apost;s elections has been beset by violence, particularly by the Pakistani Taliban.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-10 20:56:22" annotation_time="38.215668">
+      <sentence id="2" ids_highlights="2">Khan is one of two frontrunners for Pakistani prime minister.</sentence>
+      <sentence id="3" ids_highlights="3">He was injured Tuesday, just four days before the country&amp;apost;s historic election -- Pakistan&amp;apost;s first democratic transition of power.</sentence>
+      <sentence id="5" ids_highlights="1">The men apparently lost their balance near the side of the stage and fell about 20 feet, clinging on to one another.</sentence>
+      <sentence id="12" ids_highlights="4">Pakistan&amp;apost;s democratic elections to select a new government have been plagued by deadly violence in recent weeks, and the Pakistani Taliban has claimed responsibility for several hits on candidates&amp;apost; campaigns.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Islamabad, Pakistan Famed politician and Pakistani cricket star Imran Khan suffered spinal fractures and a head injury after a dramatic fall on the campaign trail, officials said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Khan is one of two frontrunners for Pakistani prime minister.</content>
+        </sentence>
+        <sentence id="3">
+          <content>He was injured Tuesday, just four days before the country&amp;apost;s historic election -- Pakistan&amp;apost;s first democratic transition of power.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Khan and at least two guards were riding on a forklift up to a stage in Lahore, where Khan was to hold a rally.</content>
+        </sentence>
+        <sentence id="5">
+          <content>The men apparently lost their balance near the side of the stage and fell about 20 feet, clinging on to one another.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>Khan struck his head on a metal bar jutting out of machinery on the way down.</content>
+        </sentence>
+        <sentence id="7">
+          <content>His guards were not seriously injured.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>Dr. Faisal Sultan of Shaukat Khanum Hospital said Khan suffered two fractures to his spine and needs to rest, but there&amp;apost;s no sign of any neurological damage.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>From his hospital bed, Khan urged citizens to vote in Saturday&amp;apost;s election.</content>
+        </sentence>
+        <sentence id="10">
+          <content>His injuries cut short a grueling schedule of 50 rallies across Pakistan in eight days.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>His main opponent, Nawaz Sharif, decided to postpone campaigning out of respect for Khan.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>Pakistan&amp;apost;s democratic elections to select a new government have been plagued by deadly violence in recent weeks, and the Pakistani Taliban has claimed responsibility for several hits on candidates&amp;apost; campaigns.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>At least 16 people died Tuesday in two attacks in Khyber Pakhtunkhwa province; one attack targeted a Pakistan People&amp;apost;s Party rally, and the other targeted a candidate for the Jamiat Ulema-e-Islam-Fazal Ur Rehman group, police said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>And on Monday, an explosion killed 18 people at a rally for Jamiat Ulema-e-Islam-Fazal Ur Rehman, a right-wing religious party with sympathies for the militant Taliban movement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="15">
+          <content>Incidentally, the Pakistani Taliban claimed responsibility for that blast.</content>
+        </sentence>
+        <sentence id="16">
+          <content>It said it attacked because one of the candidates, Munir Orakzai, has handed over members of the mujahedeen to the United States.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;We will never forgive him nor leave him alive,&amp;quot; a statement from Pakistani Taliban spokesman Ihsan Ullah Ihsan said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="18">
+          <content>The anti-Taliban Awami National Party and the Muttahida Quami Movement and their personnel also have been targeted recently.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="19">
+          <content>On Saturday, three people were killed in back-to-back explosions near the MQM headquarters in Karachi, police said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="20">
+          <content>The MQM, one of Pakistan&amp;apost;s largest and most liberal parties, is firmly opposed to the Islamist militant group.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="21">
+          <content>Ihsan, the Pakistani Taliban spokesman, called CNN and said his group claimed responsibility for the Karachi explosions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

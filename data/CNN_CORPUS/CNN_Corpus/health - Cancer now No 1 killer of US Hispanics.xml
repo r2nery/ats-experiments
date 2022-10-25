@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="190" link="http://www.cnn.com/2012/09/17/health/cancer-hispanics/index.html" date_published="2012-09-17 17:15:02" category="health" author="Dr. Otis Brawley, Special to CNN" highlights_mapped="true" mapping_error="false">
+  <title>Cancer now No. 1 killer of U.S. Hispanics</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="4">Hispanics are the fastest-growing demographic group in the United States.</sentence>
+      <sentence id="2" ids_article_sentences="14">There are important differences among Hispanic subpopulations.</sentence>
+      <sentence id="3" ids_article_sentences="27">More screening, less alcohol use and lower obesity rates would help reduce cancer deaths.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-08 06:47:34" annotation_time="164.274">
+      <sentence id="4" ids_highlights="1">Hispanics are the fastest growing demographic group in the United States.</sentence>
+      <sentence id="14" ids_highlights="2">A weakness in the study of Hispanic cancer rates is the fact that much of the available U.S. data is an aggregate, masking important differences between Hispanic subpopulations according to country of origin.</sentence>
+      <sentence id="27" ids_highlights="3">The research indicates that cancer deaths can be prevented and lives saved among Hispanics if we increase use of proven cancer screening tests; make the hepatitis B and human papilloma virus (HPV) vaccine more widely available; and reduce tobacco use, alcohol consumption and obesity rates.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Cancer has surpassed heart disease to become the leading cause of death among Hispanics in the United States, according to an American Cancer Society report released Monday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Every three years since 2000, scientists at the cancer society have published Cancer Facts and Figures for Hispanics/Latinos.</content>
+        </sentence>
+        <sentence id="3">
+          <content>Such studies provide data that help develop an efficient science-based cancer control plan.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Hispanics are the fastest growing demographic group in the United States.</content>
+        </sentence>
+        <sentence id="5">
+          <content>Approximately 16.3% of America&amp;apost;s population (50.5 million out of 310 million people) is Hispanic.</content>
+        </sentence>
+        <sentence id="6">
+          <content>It is estimated that 112,800 people of Hispanic ethnicity will be diagnosed with cancer and 33,200 will die of the disease in 2012.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>The finding is due in part to the younger age distribution of Hispanics.</content>
+        </sentence>
+        <sentence id="8">
+          <content>Approximately one in 10 Hispanics is age 55 or over, compared to one in three non-Hispanics.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="9">
+          <content>Among non-Hispanic whites and African-Americans, heart disease remains the leading cause of death, according to Monday&amp;apost;s American Cancer Society report, the fifth.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>While cancer is the most common cause of death for all three populations under the age of 85, there are fewer Hispanics in the United States over the age of 85, where heart disease is predominant.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>Overall cancer incidence and mortality rates are lower in Hispanics than in the non-Hispanic U.S. population, meaning Hispanics have a lower risk of cancer diagnosis and death.</content>
+        </sentence>
+        <sentence id="12">
+          <content>Hispanics do have higher diagnosis and death rates from cancers of the stomach, liver, cervix and gallbladder.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>There are a number of Hispanic subpopulations, each with a different ethnicity and culture.</content>
+        </sentence>
+        <sentence id="14">
+          <content>A weakness in the study of Hispanic cancer rates is the fact that much of the available U.S. data is an aggregate, masking important differences between Hispanic subpopulations according to country of origin.</content>
+        </sentence>
+        <sentence id="15">
+          <content>As better data for subpopulations are available, more efficient targeted prevention efforts might be possible.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="16">
+          <content>For example, it is known that Mexicans in the United States tend to have lower cancer rates than Puerto Ricans.</content>
+        </sentence>
+        <sentence id="17">
+          <content>On the other hand, Cubans in America tend to have higher cancer rates than Puerto Ricans.</content>
+        </sentence>
+        <sentence id="18">
+          <content>This is heavily driven by the fact that Cubans and Puerto Ricans have higher smoking rates than Mexicans.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="19">
+          <content>Intensive culturally sensitive anti-smoking efforts in Cuban and Puerto Rican communities could have a substantial impact.</content>
+        </sentence>
+        <sentence id="20">
+          <content>It is estimated that 63% of Hispanics in the United States are Mexican, 9.2% are Puerto Rican, 3.5% are Cuban and 2.8% are Dominican.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="21">
+          <content>The cancer death rate in Hispanics has been declining since 2000, one of the first years in which accurate Hispanic numbers were available.</content>
+        </sentence>
+        <sentence id="22">
+          <content>Cancer death rates for all Americans have been decreasing since 1991.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="23">
+          <content>Since 2000, the cancer incidence rate (risk of cancer diagnosis) declined by 1.75% per year among men and 0.3% per year among women.</content>
+        </sentence>
+        <sentence id="24">
+          <content>This compares with declines of 1% and .02% among non-Hispanic men and women, respectively.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="25">
+          <content>The cancer mortality rate (risk of cancer death) among Hispanics has also declined by 2.3% per year in men and 1.4% per year in women.</content>
+        </sentence>
+        <sentence id="26">
+          <content>This compares with declines of 1.5% and 1.3% among non-Hispanic men and women, respectively.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="27">
+          <content>The research indicates that cancer deaths can be prevented and lives saved among Hispanics if we increase use of proven cancer screening tests; make the hepatitis B and human papilloma virus (HPV) vaccine more widely available; and reduce tobacco use, alcohol consumption and obesity rates.</content>
+        </sentence>
+        <sentence id="28">
+          <content>Indeed, this message could be life-saving for all Americans.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="29">
+          <content>The triad of poor nutrition, lack of physical activity and obesity is the second leading cause of cancer in the United States, surpassed only by tobacco use.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="30">
+          <content>This triad is an especially significant problem among Hispanic women.</content>
+        </sentence>
+        <sentence id="31">
+          <content>Current data indicate that among Hispanics, 43% of women and 34% of men are obese.</content>
+        </sentence>
+        <sentence id="32">
+          <content>This compares with 33% of all women in the United States and 32% of all men.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

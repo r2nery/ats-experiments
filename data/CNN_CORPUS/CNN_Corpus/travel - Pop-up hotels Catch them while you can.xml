@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1817" link="http://edition.cnn.com/2013/07/01/travel/pop-up-hotels/index.html?iref=allsearch" date_published="2013-07-02 03:45:08" category="travel" author="Daisy Carrington, for CNN" highlights_mapped="true" mapping_error="false">
+  <title>Pop-up hotels: Catch them while you can</title>
+  <keywords>pop-up hotels,Glastonbury tents,The Pop-Up Hotel,Pink Cloud,snoozebox</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">The last two years have seen an increase in pop-up hotel chains.</sentence>
+      <sentence id="2" ids_article_sentences="5">Unlike traditional hotels, these can set up at festivals and special events.</sentence>
+      <sentence id="3" ids_article_sentences="30">Architectural firm looking to set up hotels in empty office buildings in New York.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-07-23 09:14:34" annotation_time="131.5285">
+      <sentence id="3" ids_highlights="1">The last two years has seen a proliferation in the number of pop-up hotels -- housed in anything from tepees to old shipping containers.</sentence>
+      <sentence id="5" ids_highlights="2">Mark Sorrill, the founder of the UK-based The Pop-Up Hotel, has set up accommodation in the form of luxury tents (and in some cases yurts, shepherd huts and Airstream mobile homes) at some of England&amp;apost;s most spectacular properties.</sentence>
+      <sentence id="30" ids_highlights="3">Pink Cloud&amp;apost;s solution is to create temporary hotels in empty office buildings.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Traditionally, hotels are built with the hope they&amp;apost;ll have staying power.</content>
+        </sentence>
+        <sentence id="2">
+          <content>For a new breed of accommodation, however, long-term is passe.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>The last two years has seen a proliferation in the number of pop-up hotels -- housed in anything from tepees to old shipping containers.</content>
+        </sentence>
+        <sentence id="4">
+          <content>Many are making their way in places traditionally off-limits for traditional hotels.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>Mark Sorrill, the founder of the UK-based The Pop-Up Hotel, has set up accommodation in the form of luxury tents (and in some cases yurts, shepherd huts and Airstream mobile homes) at some of England&amp;apost;s most spectacular properties.</content>
+        </sentence>
+        <sentence id="6">
+          <content>In August, for example, he&amp;apost;s partnering with Heritage England and moving his operation on the grounds of the Osborne Estate, a sprawling 19th century manor that was built as a summer residence for Queen Victoria and Prince Albert.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;As lovely as conventional hotels can be, they are effectively a series of boxes stacked on top of each other, insulating guests from the environment.</content>
+        </sentence>
+        <sentence id="8">
+          <content>I wanted to throw this whole concept up into the air and see how it fell,&amp;quot; he says.</content>
+        </sentence>
+        <sentence id="9">
+          <content>&amp;quot;I wanted to create a hotel that could really connect with the environment where it was positioned.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="10">
+          <content>The Pop-Up Hotel is also popular on the festival circuit.</content>
+        </sentence>
+        <sentence id="11">
+          <content>In fact, the first one launched at Glastonbury, the UK&amp;apost;s largest music festival, two years ago.</content>
+        </sentence>
+        <sentence id="12">
+          <content>Then, it only offered 20 rooms.</content>
+        </sentence>
+        <sentence id="13">
+          <content>This year, its rolled out 130, and was fully booked.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;Guests seem to really appreciate that if you were to come and stay with us again in a different location, it would be a different holiday experience,&amp;quot; he says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="15">
+          <content>Booking isn&amp;apost;t necessarily cheap -- tents at the four-day Glastonbury festival start at $1,525.</content>
+        </sentence>
+        <sentence id="16">
+          <content>At the same time, just because the walls are canvas doesn&amp;apost;t mean you&amp;apost;d be roughing it.</content>
+        </sentence>
+        <sentence id="17">
+          <content>Concierge and porter service is usually part of the package and, depending on the event, there are usually accompanying restaurant, bar and spa tents.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="18">
+          <content>The concept is gaining traction.</content>
+        </sentence>
+        <sentence id="19">
+          <content>Snoozebox is another company that offers portable accommodation, often pegged to major events, such as the London Olympics last year and the G8 Summit in Northern Ireland in June this year.</content>
+        </sentence>
+        <sentence id="20">
+          <content>Snoozebox&amp;apost;s rooms are set up in shipping containers, making them easy to transport.</content>
+        </sentence>
+        <sentence id="21">
+          <content>That they&amp;apost;re self-contained means they have climate control options, an advantage over The Pop-Up Hotel.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="22">
+          <content>One of the most inventive pop-up concepts, however, hasn&amp;apost;t been officially launched yet.</content>
+        </sentence>
+        <sentence id="23">
+          <content>It is the brainchild of Copenhagen-based architecture firm Pink Cloud, and last month it won the Radical Innovation in Hospitality Award.</content>
+        </sentence>
+        <sentence id="24">
+          <content>The company is hoping to simultaneously address two pressing issues plaguing many urban landscapes: vacated office space and insufficient hotel vacancies.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="25">
+          <content>The collective, which is made up of partners Eric Tan, Leon Lai and Nico Schlapps, is hoping to make New York its launching point.</content>
+        </sentence>
+        <sentence id="26">
+          <content>Tan points out that the office vacancy rate in the city is alarmingly high at 26%.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="27">
+          <content>&amp;quot;Tenants would rather wait for new high rises to be built than rent the ones leftover from the &amp;apost;60s and &amp;apost;70s, which, unfortunately, the city has a lot of,&amp;quot; he explains.</content>
+        </sentence>
+        <sentence id="28">
+          <content>&amp;quot;The ceilings are low and the stock seems outdated to potential tenants.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="29">
+          <content>Meanwhile, New York&amp;apost;s hotel occupancy rate is at 96% -- almost full capacity.</content>
+        </sentence>
+        <sentence id="30">
+          <content>Pink Cloud&amp;apost;s solution is to create temporary hotels in empty office buildings.</content>
+        </sentence>
+        <sentence id="31">
+          <content>That way, tourists get a place to sleep for the night and the building owner can finally pull in some rent.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="32">
+          <content>An entire hotel could fit into 36 boxes, enough to fill a single lorry.</content>
+        </sentence>
+        <sentence id="33">
+          <content>When unpacked, they would contain all the makings of a modern hotel room, including beds, sofas, toilets, partitions, plus elements to craft night clubs, restaurants -- even a pool, if requested.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="34">
+          <content>&amp;quot;A traditional hotel can take five to six years to build, from start to finish.</content>
+        </sentence>
+        <sentence id="35">
+          <content>With the pop-up hotel, we see it taking two to four weeks,&amp;quot; says Tan.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="36">
+          <content>The beauty of the project, says Lai, is its flexibility.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="37">
+          <content>&amp;quot;If you were to set up in Miami, you could bring indoor swimming pools.</content>
+        </sentence>
+        <sentence id="38">
+          <content>In Manhattan, guests might want to watch a boxing match.</content>
+        </sentence>
+        <sentence id="39">
+          <content>We could bring in a temporary boxing ring.</content>
+        </sentence>
+        <sentence id="40">
+          <content>It all depends on the city and the public,&amp;quot; he says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="41">
+          <content>The price point, they&amp;apost;re imagining, would also be considerably lower.</content>
+        </sentence>
+        <sentence id="42">
+          <content>The average New York City hotel room is $350 a night.</content>
+        </sentence>
+        <sentence id="43">
+          <content>Pink Cloud&amp;apost;s rooms, meanwhile, would clock in around $130.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="44">
+          <content>The company is currently scoping out partners to make the concept a reality.</content>
+        </sentence>
+        <sentence id="45">
+          <content>The way Pink Cloud sees it, the hotel could be a savvy marketing stunt for the right brand.</content>
+        </sentence>
+        <sentence id="46">
+          <content>For example, says Tan, a major fashion label could use the Pink Cloud model to promote itself during fashion week.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="47">
+          <content>&amp;quot;There&amp;apost;s no reason you couldn&amp;apost;t have the Prada pop-up, or the Diesel pop-up,&amp;quot; he says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

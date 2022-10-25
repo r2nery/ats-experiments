@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="435" link="http://www.cnn.com/2013/06/03/health/hpv-oral-cancer-explainer/index.html" date_published="2013-06-03 15:07:35" category="health" author="Jacque Wilson, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Yes, oral sex can lead to cancer</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="4">There are more than 40 types of the human papillomavirus.</sentence>
+      <sentence id="2" ids_article_sentences="10">HPV can cause genital warts and several types of cancer, including throat cancers.</sentence>
+      <sentence id="3" ids_article_sentences="21">The CDC recommends all boys and girls receive the HPV vaccine.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-08 06:51:29" annotation_time="18.901333">
+      <sentence id="4" ids_highlights="1">There are more than 40 types, according to the Centers for Disease Control and Prevention, and approximately 79 million Americans are currently infected.</sentence>
+      <sentence id="10" ids_highlights="2">HPV is thought to cause 1,700 oropharyngeal, or throat, cancers in women and 6,700 oropharyngeal cancers in men each year, according to the CDC.</sentence>
+      <sentence id="21" ids_highlights="3">The CDC and the American Academy of Pediatrics recommend both boys and girls get the HPV vaccine between the ages of 11 and 12.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Actor Michael Douglas made headlines on Monday after telling The Guardian that his throat cancer may have been caused by the human papillomavirus transmitted through oral sex.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The link between oral sex, HPV and cancer has been receiving more attention in recent years.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>HPV is a virus that&amp;apost;s transmitted through sexual contact -- genital or oral.</content>
+        </sentence>
+        <sentence id="4">
+          <content>There are more than 40 types, according to the Centers for Disease Control and Prevention, and approximately 79 million Americans are currently infected.</content>
+        </sentence>
+        <sentence id="5">
+          <content>Most people have no symptoms.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;HPV is so common that nearly all sexually active men and women will get at least one type of HPV at some point in their lives,&amp;quot; the CDC&amp;apost;s website states.</content>
+        </sentence>
+        <sentence id="7">
+          <content>&amp;quot;In most cases, the virus goes away and it does not lead to any health problems.</content>
+        </sentence>
+        <sentence id="8">
+          <content>There is no certain way to know which people infected with HPV will go on to develop cancer.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="9">
+          <content>Douglas&amp;apost; publicist told CNN that the actor did not intend to point to HPV as the sole cause of his throat cancer, but was suggesting it as one possible cause.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>HPV is thought to cause 1,700 oropharyngeal, or throat, cancers in women and 6,700 oropharyngeal cancers in men each year, according to the CDC.</content>
+        </sentence>
+        <sentence id="11">
+          <content>Tobacco and alcohol use may play a role in who develops cancer from the virus, the government agency notes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>A 2011 study found that the proportion of oropharyngeal cancers related to HPV increased from 16.3% to 71.7% between 1984 and 2004.</content>
+        </sentence>
+        <sentence id="13">
+          <content>Data presented that same year at the American Association for the Advancement of Science annual meeting suggested HPV was overtaking tobacco as the leading cause of oral cancers in Americans under the age of 50.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="14">
+          <content>The virus is transmissible regardless of whether the sexual contact is heterosexual or homosexual.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="15">
+          <content>Approximately 42,000 people in the United States will be newly diagnosed with oral cancer in 2013, according to the Oral Cancer Foundation.</content>
+        </sentence>
+        <sentence id="16">
+          <content>This includes neck, mouth and throat cancers.</content>
+        </sentence>
+        <sentence id="17">
+          <content>When they&amp;apost;re found early, oral cancers have an 80 to 90% survival rate, the foundation says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;Patients with HPV-positive cancers have better survival rates,&amp;quot; Dr. Anil Chaturvedi of the National Cancer Institute told CNN in 2011.</content>
+        </sentence>
+        <sentence id="19">
+          <content>&amp;quot;The precise reasons for the survival benefits are not clear, but tumors in HPV-positive patients tend to have less genetic damage.</content>
+        </sentence>
+        <sentence id="20">
+          <content>Because of that, they are more responsive to cancer therapies like radiation treatment.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="21">
+          <content>The CDC and the American Academy of Pediatrics recommend both boys and girls get the HPV vaccine between the ages of 11 and 12.</content>
+        </sentence>
+        <sentence id="22">
+          <content>Doctors say the vaccine is most effective if administered before a child becomes sexually active.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="23">
+          <content>HPV has also been linked to cervical cancer, penile cancer and anal cancer, according to the CDC.</content>
+        </sentence>
+        <sentence id="24">
+          <content>The HPV vaccine prevents the most common types of the virus.</content>
+        </sentence>
+        <sentence id="25">
+          <content>There are two approved for use in the United States: Gardasil and Cervarix.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="26">
+          <content>Of course, HPV is not the only danger of having unprotected oral sex.</content>
+        </sentence>
+        <sentence id="27">
+          <content>Sexually transmitted diseases like herpes, syphilis, gonorrhea and HIV can be also be spread through the act.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="28">
+          <content>To stay safe, the CDC recommends always using a condom and getting tested regularly.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="29">
+          <content>&amp;quot;The good news is that all STIs are preventable and most are curable,&amp;quot; writes Gail Bolan, the CDC&amp;apost;s director of STD prevention division.</content>
+        </sentence>
+        <sentence id="30">
+          <content>&amp;quot;But, because most STIs have no symptoms, testing is the necessary first step to treatment.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

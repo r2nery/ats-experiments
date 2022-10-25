@@ -1,0 +1,17 @@
+alive_progress==2.4.1
+beautifulsoup4==4.11.1
+datasets==2.4.0
+gensim==4.2.0
+nltk==3.7
+numpy==1.22.4
+pandas==1.4.3
+py_rouge==1.1
+regex==2022.7.2
+rouge_metric==1.0.1
+sumy==0.10.0
+transformers==4.21.1
+sklearn
+more-itertools
+sentencepiece
+langdetect
+torch 

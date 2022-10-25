@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1798" link="http://www.cnn.com/2013/02/18/travel/business-traveller-lightning-ice-test" date_published="2013-02-18 07:42:09" category="travel" author="" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Lightning bolts and ice: testing planes to withstand wild weather</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="11">Extreme weather conditions can alter the performance of planes in flight.</sentence>
+      <sentence id="2" ids_article_sentences="3">A lightning-lab at Cardiff University recreates the conditions present when lightning strikes a plane.</sentence>
+      <sentence id="3" ids_article_sentences="9">An ice-tunnel experiment at Cranfield University analyzes the build up of ice on engines and wings.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-05 00:55:38" annotation_time="62.841003" mapping_time_divergence="20.947">
+      <sentence id="3" ids_highlights="2">The idea is to recreate the conditions present when lightning strikes a plane at 35,000 feet, testing the fortitude of composite materials and conductor strips found on modern planes.</sentence>
+      <sentence id="9" ids_highlights="3">At Cranfield University just outside London a team of engineers specialize in analyzing the formation of ice around engines and on aeroplane wings.</sentence>
+      <sentence id="11" ids_highlights="1">According to Dr David Hammond of Cranfield&amp;apost;s School of Engineering, a large build up of ice can alter the shape and performance of vital aircraft components.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Cardiff University may be struck by lightning every day, but it&amp;apost;s nothing to do with the miserable British weather.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Deep within the Welsh university&amp;apost;s department of engineering is a state-of-the-art &amp;quot;lightning-lab&amp;quot; where bolts of electricity are shot onto aircraft components.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The idea is to recreate the conditions present when lightning strikes a plane at 35,000 feet, testing the fortitude of composite materials and conductor strips found on modern planes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>&amp;quot;There is a lightning strike every second around the world (and) every single aircraft is hit by lightning once a year,&amp;quot; said Professor Manu Hadad of Cardiff University&amp;apost;s Institute of Energy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>Displaying the charred remains of two recently zapped plane panels, Hadad explains that a thin layer of copper mesh on an aircraft&amp;apost;s exterior can drastically reduce the damage caused when lightning strikes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>With support from the government and aerospace manufacturer, EADS, the ultimate aim of the $2 million project is to further refine and increase the working knowledge of how aircraft cope with these elements at altitude.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>But while of particular interest to the electrical storm specialists at Cardiff University, lightning is just one of the many extreme weather phenomena encountered by planes when in the air.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="8">
+          <content>The build up of ice and strong winds in particular can also be issues and a host of academic institutions are applying hi-tech techniques to study the impact these conditions can have.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="9">
+          <content>At Cranfield University just outside London a team of engineers specialize in analyzing the formation of ice around engines and on aeroplane wings.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="10">
+          <content>Here, sub-zero temperatures are created and tests carried out in a specially designed &amp;quot;icing-tunnel&amp;quot; with the aim of understanding ice and its aerodynamic qualities.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="11">
+          <content>According to Dr David Hammond of Cranfield&amp;apost;s School of Engineering, a large build up of ice can alter the shape and performance of vital aircraft components.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="12">
+          <content>Pointing to a freshly tested model wing, Hammond explains how &amp;quot;the ice that forms (during flight)... can have a big spike that reverses the curvature of the leading (wing) edge and creates unsteadiness.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="13">
+          <content>&amp;quot;In an aircraft we work out which parts are most critical and make sure they&amp;apost;re protected one way or another,&amp;quot; he added.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="14">
+          <content>Researchers at Cranfield are currently investigating how a wire mesh can act as an effective method of preventing ice build up near fuel tanks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="15">
+          <content>But Hammond is hopeful that other discoveries on how planes react to extreme weather will arise during the process of the group&amp;apost;s studies.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;We&amp;apost;re really trying to support the people who design and test aircraft,&amp;quot; Hammond said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;There&amp;apost;s always a little bit of efficiencies that we can build in or maybe we can design slightly more efficiently to get performance for the passengers and for the environment.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

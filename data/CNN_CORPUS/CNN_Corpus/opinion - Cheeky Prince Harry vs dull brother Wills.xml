@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="787" link="http://edition.cnn.com/2012/08/23/opinion/prince-harry-wills-comparison-opinion/index.html" date_published="2012-08-23 12:39:21" category="opinion" author="Robert Jobson, special to CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Cheeky Prince Harry vs dull brother Wills</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="13">Harry is a showman, a natural performer in front of the camera and a microphone.</sentence>
+      <sentence id="2" ids_article_sentences="16">Like his mother, Diana, he is flawed and that makes him interesting.</sentence>
+      <sentence id="3" ids_article_sentences="24">It&amp;apost;s a very different story for brother Prince William, second in line to the throne.</sentence>
+      <sentence id="4" ids_article_sentences="34, 33">Will perfectly fits bill as future King - he speaks well and conducts himself with aplomb .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-01 15:26:23" annotation_time="32.431" mapping_time_divergence="8.10775">
+      <sentence id="13" ids_highlights="1">Harry is a showman, a natural performer in front of the camera and a microphone.</sentence>
+      <sentence id="16" ids_highlights="2">Like his late mother, Diana, Princess of Wales, he is flawed and that makes him interesting.</sentence>
+      <sentence id="24" ids_highlights="3">For Prince William, as second in line to the throne, his future is very different and he knows it.</sentence>
+      <sentence id="33" ids_highlights="4">He fits the bill as a future King perfectly.</sentence>
+      <sentence id="34" ids_highlights="4">He speaks well, conducts himself with aplomb on and off duty.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>London I was standing just a few meters from Prince Harry as he got to his feet.</content>
+        </sentence>
+        <sentence id="2">
+          <content>His older brother Prince William was there too.</content>
+        </sentence>
+        <sentence id="3">
+          <content>But this was Harry&amp;apost;s show -- a charity mission to Maseru, the capital of the poverty-stricken African Kingdom of Lesotho where the prince had established a charity Sentebale, to aid the country&amp;apost;s vulnerable children.</content>
+        </sentence>
+        <sentence id="4">
+          <content>It was a mission, back in June 2010, and one of which the younger prince is rightly proud.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="5">
+          <content>Within seconds of starting his speech, however, Harry couldn&amp;apost;t resist a playful swipe at his older brother.</content>
+        </sentence>
+        <sentence id="6">
+          <content>Yet again, the third in line to the throne, who proudly boasts a healthy mop of red hair, mocked William&amp;apost;s receding hairline.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="7">
+          <content>It is a running joke -- but this time William clearly thought it had been cracked once too often.</content>
+        </sentence>
+        <sentence id="8">
+          <content>He lent back against the wall, raised his eyes skywards in genuine frustration but said nothing.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Prince Harry was once again playing for laughs.</content>
+        </sentence>
+        <sentence id="10">
+          <content>Predictably, at his brother&amp;apost;s expense, he got them.</content>
+        </sentence>
+        <sentence id="11">
+          <content>William, not for the first time, simply suffered in silence.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="12">
+          <content>That incident sums the pair up perfectly.</content>
+        </sentence>
+        <sentence id="13">
+          <content>Harry is a showman, a natural performer in front of the camera and a microphone.</content>
+        </sentence>
+        <sentence id="14">
+          <content>He is warm, naughty, an extrovert and has a sense of fun.</content>
+        </sentence>
+        <sentence id="15">
+          <content>As a result people warm to him.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="16">
+          <content>Like his late mother, Diana, Princess of Wales, he is flawed and that makes him interesting.</content>
+        </sentence>
+        <sentence id="17">
+          <content>People love his madcap ways and seem able to forgive him when he gets it wrong.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="18">
+          <content>He has worn a Nazi uniform, been exposed for taking drugs and boozing and making racist comments.</content>
+        </sentence>
+        <sentence id="19">
+          <content>Yet we forgive him time after time.</content>
+        </sentence>
+        <sentence id="20">
+          <content>Now his naked romp in the sin capital of the world, Las Vegas, has heaped further embarrassment on the Royal Family.</content>
+        </sentence>
+        <sentence id="21">
+          <content>But the chances are it will blow over and we will fall in love with this princely rogue again.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="22">
+          <content>The reason for this maybe rooted in the fact that deep down the British public -- who after all fund his security and at least part of his lifestyle -- know unless there is a major disaster he won&amp;apost;t actually get his hands of the Crown Jewels.</content>
+        </sentence>
+        <sentence id="23">
+          <content>He can have all the fame and wealth, but in truth very little of the responsibility.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="24">
+          <content>For Prince William, as second in line to the throne, his future is very different and he knows it.</content>
+        </sentence>
+        <sentence id="25">
+          <content>He cannot let his hair down in public -- if the future King was exposed doing what Harry was snapped doing, it would raise serious questions about his suitability to one day be Britain&amp;apost;s Head of State, a position gifted to him by birthright.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="26">
+          <content>When they were boys Diana often confided to friends that she thought Harry would make a good King.</content>
+        </sentence>
+        <sentence id="27">
+          <content>He, she thought, had a better temperament for the top job.</content>
+        </sentence>
+        <sentence id="28">
+          <content>She even gave him the nickname GKH for &amp;quot;Good King Harry.&amp;quot;</content>
+        </sentence>
+        <sentence id="29">
+          <content>William, always shy and less outgoing than Harry, was more introspective, weighed down perhaps by expectation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="30">
+          <content>It was Harry who frustrated his protection officers by crashing royal cars into walls on the private estates and on one occasion wondering off into a public high street with a police radio for the hell of it.</content>
+        </sentence>
+        <sentence id="31">
+          <content>William was always more careful, conscious perhaps that it would be his head that would one day wear the Crown.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="32">
+          <content>But as an adult William has grown into his role perfectly.</content>
+        </sentence>
+        <sentence id="33">
+          <content>He fits the bill as a future King perfectly.</content>
+        </sentence>
+        <sentence id="34">
+          <content>He speaks well, conducts himself with aplomb on and off duty.</content>
+        </sentence>
+        <sentence id="35">
+          <content>Since his marriage to his university sweetheart, Kate Middleton now HRH Duchess of Cambridge, if anything he has grown in confidence and composure.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="36">
+          <content>The pair look every inch a future King and Queen, and the modern monarchy safe in their hands.</content>
+        </sentence>
+        <sentence id="37">
+          <content>When they go to nightclubs -- which they do -- there is never a hint of louche behavior or scandal.</content>
+        </sentence>
+        <sentence id="38">
+          <content>They have a few drinks and go home.</content>
+        </sentence>
+        <sentence id="39">
+          <content>It may be a little dull, maybe even predictable, but it is what is expected of them.</content>
+        </sentence>
+        <sentence id="40">
+          <content>He is after all a senior royal not a celebrity.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="41">
+          <content>Since his marriage last year, William has been seen less and less on the clubbing scene, preferring instead to have a quiet night in or dinner at an Italian restaurant with his wife.</content>
+        </sentence>
+        <sentence id="42">
+          <content>This has led to Harry saying his brother has become boring.</content>
+        </sentence>
+        <sentence id="43">
+          <content>But nothing could be further from the truth.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="44">
+          <content>William, may not have served on the frontline like Apache pilot Harry, but he risks his personal safety every time he pilots his RAF Search and Rescue helicopter from RAF Valley in North Wales.</content>
+        </sentence>
+        <sentence id="45">
+          <content>He only recently was in charge of a daring rescue of a teenage girl.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="46">
+          <content>He combines these duties with official tours abroad and does so tirelessly, sometimes completing engagements at a hospital or charity venue after a 24 hour shift on duty.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="47">
+          <content>Harry is clearly a good soldier.</content>
+        </sentence>
+        <sentence id="48">
+          <content>He served with distinction as a Troop commander in Afghanistan before an internet leak that he was there forced him to return early from his tour of duty.</content>
+        </sentence>
+        <sentence id="49">
+          <content>He will no doubt soon be returning there as an Apache pilot and again, I have no doubt, serve his country well.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="50">
+          <content>Perhaps this latest naked controversy will focus his mind.</content>
+        </sentence>
+        <sentence id="51">
+          <content>Perhaps it will force this &amp;quot;Peter Pan&amp;quot; Prince to grow up and leave his schoolboy antics behind.</content>
+        </sentence>
+        <sentence id="52">
+          <content>The next time he goes to poke fun at his older, more cautious brother, he might just hold his tongue.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="53">
+          <content>For surely now is the time for him to wise up and follow Prince William&amp;apost;s example.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="101" link="http://www.cnn.com/2013/06/24/business/the-real-transformers-drone-doubles/index.html" date_published="2013-06-24 12:59:23" category="business" author="Bryony Jones, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Paris Airshow 2013: Drone doubles on the rise</title>
+  <keywords>drones,transformers,paris airshow,the real transformers,uavs,double aircraft,2013,double drones</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="5">Aviation manufacturers are turning older aircraft into drones.</sentence>
+      <sentence id="2" ids_article_sentences="4">An agricultural crop-duster can be transformed into an airborne surveillance machine.</sentence>
+      <sentence id="3" ids_article_sentences="14">It takes just four hours to switch the Centaur aircraft from a plane into a UAV.</sentence>
+      <sentence id="4" ids_article_sentences="5">A new breed of &amp;quot;transformers&amp;quot; could change the whole industry.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-08 06:45:21" annotation_time="127.789">
+      <sentence id="4" ids_highlights="2">As the aviation industry tightens its belt, its attempts to save money and stay relevant have led to a new rise of &amp;quot;transformers&amp;quot; -- including crop-dusters and business jets given a new lease of life as surveillance aircraft.</sentence>
+      <sentence id="5" ids_highlights="1, 4">With the financial crisis continuing to bite -- not least in the U.S. defense sector -- more and more aircraft manufacturers are trying to secure their future by turning older aviation staples into innovative new ones, creating a new breed of &amp;quot;transformers.&amp;quot;</sentence>
+      <sentence id="14" ids_highlights="3">Its creators, U.S.-based Aurora Flight Services, say it takes Centaur&amp;apost;s two-man crew just four hours to switch the plane from one mode of flying to the other.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Is it a plane?</content>
+        </sentence>
+        <sentence id="2">
+          <content>Is it a drone?</content>
+        </sentence>
+        <sentence id="3">
+          <content>Next time you look up and see vapor trails spreading across the sky, bear in mind that the aircraft you&amp;apost;re looking at might just be both.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="4">
+          <content>As the aviation industry tightens its belt, its attempts to save money and stay relevant have led to a new rise of &amp;quot;transformers&amp;quot; -- including crop-dusters and business jets given a new lease of life as surveillance aircraft.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>With the financial crisis continuing to bite -- not least in the U.S. defense sector -- more and more aircraft manufacturers are trying to secure their future by turning older aviation staples into innovative new ones, creating a new breed of &amp;quot;transformers.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>In a former life, Piaggio Aero&amp;apost;s HammerHead was a business jet (the Avanti II), used to ferry well-to-do travelers to and from high-powered meetings or red carpet events.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>Today the twin-engine turboprop is being turned into a drone, with surveillance equipment and remote flying systems replacing the nine passengers and pilot.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>Unveiling the new-look aircraft at last week&amp;apost;s Paris Airshow, Piaggio Aero&amp;apost;s CEO Alberto Galassi said the HammerHead -- which the company expects to be approved for use by 2014 -- offered &amp;quot;an insight into what an advanced UAS [Unmanned Aerial System] of the future will look like.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>Iomax&amp;apost;s ArchAngel, also on display at Le Bourget is, the company says, a border patrol aircraft designed to provide &amp;quot;airborne surveillance for intelligence and security.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>But in its slightly more down-to-earth pre-modification past, the aircraft was originally conceived as the Thrush, an agricultural crop-duster.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>Also joining the hybrid ranks at the Paris Airshow was Centaur, the plane that thinks it is a drone.</content>
+        </sentence>
+        <sentence id="12">
+          <content>Or is that be the other way around?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>The aircraft, designed for surveillance missions, can be flown remotely as a UAV by a ground-based operator, or in the traditional way with a pilot at the controls.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>Its creators, U.S.-based Aurora Flight Services, say it takes Centaur&amp;apost;s two-man crew just four hours to switch the plane from one mode of flying to the other.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>Bill Sweetman, international defense editor of Aviation Week, said the trend for turning existing aircraft into others, rather than creating them from scratch, was down to two main reasons: the financial crisis, and the end of the Cold War.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="16">
+          <content>Both mean that completely new aircraft are not being designed as often as they have done in the past.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;Instead companies are modernizing, adapting aircraft they&amp;apost;ve already got to allow them to do something different, because the industry&amp;apost;s needs now are very different to what they were during the Cold War, and they will be something different again in the next 10 years or so,&amp;quot; he told CNN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;It is proving very hard to get the FAA to approve a simpler, cheaper aircraft designed from the start to be unmanned,&amp;quot; said Graham Warwick, Aviation Week&amp;apost;s technology editor.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;Instead it is easier to take an aircraft that the FAA has already certificated for manned flight, and take the pilot out of it,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="20">
+          <content>&amp;quot;If a company takes an existing aircraft -- which they know flies, works, is safe and reliable -- and converts that into an unmanned vehicle, that allows them to develop it much more quickly,&amp;quot; said Sweetman.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="21">
+          <content>And then there&amp;apost;s Project Zero, an entirely different sort of &amp;quot;transformer.&amp;quot;</content>
+        </sentence>
+        <sentence id="22">
+          <content>This super-futuristic looking electric-powered aircraft is formed of a graceful aerodynamic swoosh of carbon fibre enclosing a cockpit (like the drones above, it has so far only been flown unmanned) and two massive rotor blades.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="23">
+          <content>It is these rotor blades which are the secret to the aircraft&amp;apost;s groundbreaking nature.</content>
+        </sentence>
+        <sentence id="24">
+          <content>Facing the ground, they allow Project Zero to take off vertically, like a helicopter.</content>
+        </sentence>
+        <sentence id="25">
+          <content>But once in the air, the rotors can be tilted, enabling it to fly forwards like a traditional plane.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="26">
+          <content>Project Zero, which has been in the works -- but firmly under wraps -- for several years, was unveiled at this week&amp;apost;s Paris Air Show.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="27">
+          <content>James Wang, Agusta Westland&amp;apost;s vice president of research and technology, who oversaw work on the aircraft, said it was designed &amp;quot;to be as radical as possible,&amp;quot; reflecting the motto of the advanced project group behind it: &amp;quot;&amp;apost;Live to Dream&amp;apost; - if it can be dreamed, it can be built.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="28">
+          <content>Just how high and how fast the aircraft is capable of flying is still a closely-guarded secret, but Wang insists &amp;quot;it works, we have flown this thing.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="29">
+          <content>There&amp;apost;s just one catch though -- despite being proven to work in flight tests, Project Zero is not likely to go into production any time soon.</content>
+        </sentence>
+        <sentence id="30">
+          <content>Instead it is intended as a &amp;quot;technology incubator,&amp;quot; a way of trialing and showcasing all the latest innovations at once.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="31">
+          <content>Still, the company hopes that even if we&amp;apost;re not going to be flying a Project Zero within the next 10 years, some of the technology it has helped develop will become the norm on more everyday aircraft.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="32">
+          <content>&amp;quot;Project Zero might or might not make the basis for a future UAV or form of transport, but it&amp;apost;s the parts in there that are important, that have potential,&amp;quot; says Sweetman.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="33">
+          <content>And that could help to transform the whole industry, not just one aircraft.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

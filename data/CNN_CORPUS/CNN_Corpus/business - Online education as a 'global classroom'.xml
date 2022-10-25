@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="98" link="http://edition.cnn.com/2013/06/21/business/opinion-koller-education-petersburg-forum/index.html?iid=article_sidebar" date_published="2013-06-21 04:28:37" category="business" author="Daphne Koller, Special to CNN" highlights_mapped="true" mapping_error="false">
+  <title>Online education as a &amp;apost;global classroom&amp;apost;</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">In Sub-Saharan Africa, 6% of college-age students enroll in higher education.</sentence>
+      <sentence id="2" ids_article_sentences="6">Internet and the growing availability of quality online education can change this.</sentence>
+      <sentence id="3" ids_article_sentences="6">Koller: The conversation about accessibility shifts from &amp;quot;where&amp;quot; to &amp;quot;how.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-06 20:13:37" annotation_time="14.516667">
+      <sentence id="3" ids_highlights="1">In Sub-Saharan Africa, for example, only 6% of college-age students are enrolled in higher education.</sentence>
+      <sentence id="6" ids_highlights="2, 3">But once you consider the possibilities provided by an internet connection and the growing availability of quality online education resources, the conversation about accessibility shifts from &amp;quot;where&amp;quot; to &amp;quot;how,&amp;quot; and exciting new opportunities (and challenges) arise.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Around the world, and in developing nations especially, there is an overwhelming demand for higher education.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Despite worldwide increases in tertiary enrolment numbers, there still remains disparity between those with access to quality education and those without.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>In Sub-Saharan Africa, for example, only 6% of college-age students are enrolled in higher education.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>That number rises to 72% in North America and Western Europe, but hovers around 20% to 40% for most developing regions, according to UNESCO reports.</content>
+        </sentence>
+        <sentence id="5">
+          <content>Without higher education, most people face a grim future.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>But once you consider the possibilities provided by an internet connection and the growing availability of quality online education resources, the conversation about accessibility shifts from &amp;quot;where&amp;quot; to &amp;quot;how,&amp;quot; and exciting new opportunities (and challenges) arise.</content>
+        </sentence>
+        <sentence id="7">
+          <content>So how do we actualize the idea of education for everyone?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>At Coursera, only one-third of our students are from the U.S., and 40% are from the developing world.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>Not surprisingly, three of our biggest countries outside the U.S. are Brazil, India, and Russia, where the number of jobs that require a higher education greatly exceeds the number of people with education sufficient to do these jobs.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>In Russia, for example, new student enrollments rose 230% since January 2013 (surpassing new student growth from the U.S., which is up 178%).</content>
+        </sentence>
+        <sentence id="11">
+          <content>Our large international growth poses challenges in dealing with cultural and language differences.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>The challenges.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>Despite our global reach, most of the course material and lectures found on our platform are in English, making the courses inaccessible to many students whose native language is not English.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>To address this issue, we are taking a two pronged approach.</content>
+        </sentence>
+        <sentence id="15">
+          <content>First, we are working with our partner universities in non-English-speaking countries to offer courses taught natively in languages other than English (currently French, Spanish, Chinese, German, and Italian).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="16">
+          <content>We are also building up a network of &amp;quot;translation partners&amp;quot; - non-profits, companies, and universities - to translate Coursera lectures from popular courses into a selection of languages common among our students.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="17">
+          <content>Reducing language barriers opens up new possibilities and applications of online education.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="18">
+          <content>Experiments in global learning.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="19">
+          <content>Moscow-based Digital October (one of our translation partners) has experimented with creative ways to use online education to transcend cultural and language barriers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="20">
+          <content>The center for new technology and entrepreneurship recently hosted a multi-national &amp;quot;ideahack.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="21">
+          <content>This interactive meet-up centered around the University of Pennsylvania&amp;apost;s online Gamification course, and attracted more than 200 live students from Moscow and 15 students from three continents around the world via video conference, with the event being simultaneously translated for Russian and English audiences.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="22">
+          <content>Those attending worked in small groups applying principles learnt from Professor Kevin Werbach&amp;apost;s Coursera course.</content>
+        </sentence>
+        <sentence id="23">
+          <content>Professor Werbach participated virtually throughout the event.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="24">
+          <content>Princeton&amp;apost;s Professor Mitch Duneier taught his sociology class to a global audience.</content>
+        </sentence>
+        <sentence id="25">
+          <content>He says that: &amp;quot;Within three weeks I had received more feedback on my sociological ideas than I had in a career of teaching, which significantly influenced each of my subsequent lectures and seminars.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="26">
+          <content>These insights have reshaped the way he teaches his Princeton students on campus.</content>
+        </sentence>
+        <sentence id="27">
+          <content>One student wrote to him, saying, &amp;quot;It has been an incredible experience for me, one that has not only taught me sociology, but the ways in which other cultures think, feel, and respond.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="28">
+          <content>By their very nature, Massive Open Online Courses (MOOCs) foster an open environment where people from all walks of life can contribute to a thriving collaborative community.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="29">
+          <content>Translation of online courses further helps increase access to people from diverse backgrounds, and thereby enables the true globalization of education.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="30">
+          <content>Other models for online education are also being explored, such as the flipped classroom, which makes high-quality course content available in conjunction with local instruction.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="31">
+          <content>This can provide much needed expansion of education in the many countries that lack qualified instructors.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="32">
+          <content>The future.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="33">
+          <content>With the rise of online education, the notion of a &amp;quot;global classroom&amp;quot; is being discussed by educators and the media alike.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="34">
+          <content>To me, achieving a &amp;quot;global classroom&amp;quot; means using education to erase barriers between people of different cultures and backgrounds; it means giving people the opportunity to learn without the limits imposed by physical or socio-economic circumstances; and it means giving schools and instructors around the world the ability to transcend boundaries to bring high-quality education to their students.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

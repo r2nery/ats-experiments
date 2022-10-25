@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="560" link="http://www.cnn.com/2014/02/05/justice/california-dorner-shooting-review/index.html?iref=allsearch" date_published="2014-02-05 06:54:18" category="justice" author="Ed Payne, CNN" highlights_mapped="true" mapping_error="false">
+  <title>LAPD: 8 officers violated policy in Dorner manhunt shooting</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">&amp;quot;I have a very high standard for the application of deadly force,&amp;quot; police chief Charlie Beck says.</sentence>
+      <sentence id="2" ids_article_sentences="7">Discipline for the eight officers could range from retraining up to termination.</sentence>
+      <sentence id="3" ids_article_sentences="12">Emma Hernandez was shot in the back and Margie Carranza was injured by broken glass.</sentence>
+      <sentence id="4" ids_article_sentences="19">Ex-officer Christopher Dorner declared war on police after being fired by the LAPD.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-08 06:53:50" annotation_time="27.908669">
+      <sentence id="2" ids_highlights="1">&amp;quot;I sympathize with the officers, but I have a very high standard for the application of deadly force and the shooting did not meet that standard,&amp;quot; Beck told reporters.</sentence>
+      <sentence id="7" ids_highlights="2">&amp;quot;Discipline could be anywhere from extensive retraining up to termination,&amp;quot; according to Beck.</sentence>
+      <sentence id="12" ids_highlights="3">Hernandez was shot twice in the back and Carranza suffered injuries from broken glass.</sentence>
+      <sentence id="19" ids_highlights="4">Dorner declared war on police in a manifesto after being fired by the LAPD in 2009 and losing appeals to be reinstated, claiming that racism in the police department was behind him losing his job.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Eight Los Angeles police officers violated department policy for use of deadly force when they shot two women during last year&amp;apost;s manhunt for renegade ex-officer Christopher Dorner, police chief Charlie Beck said Tuesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>&amp;quot;I sympathize with the officers, but I have a very high standard for the application of deadly force and the shooting did not meet that standard,&amp;quot; Beck told reporters.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Margie Carranza, 47, and her mother, Emma Hernandez, 71, were shot as police searched for Dorner, a former police officer who was wanted for killing several people in early February 2013.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>The two women were in a pickup truck similar to the one authorities said Dorner was driving and the officers had received reports that the suspect was in the area.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>&amp;apost;A tragic cascade of circumstance&amp;apost;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>The police chief said Tuesday that state law prohibits him from discussing punishment for individual officers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;Discipline could be anywhere from extensive retraining up to termination,&amp;quot; according to Beck.</content>
+        </sentence>
+        <sentence id="8">
+          <content>&amp;quot;All officers involved have been assigned to non-field duty since this event occurred.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>The two women were out delivering morning newspapers when they were shot.</content>
+        </sentence>
+        <sentence id="10">
+          <content>Beck said one of the officers mistook the sound of a paper hitting the ground as a gunshot and opened fire, followed by other officers also firing their weapons.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;This was a tragic cascade of circumstance that led to an inaccurate conclusion by the officers,&amp;quot; Beck said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>Hernandez was shot twice in the back and Carranza suffered injuries from broken glass.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="13">
+          <content>City settles.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="14">
+          <content>They agreed to split a $4.2 million settlement, attorneys for the city and the women told reporters in April.</content>
+        </sentence>
+        <sentence id="15">
+          <content>The Los Angeles City Council approved the payout in June.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Earlier, the women received $40,000 to replace their bullet-riddled pickup truck in a separate settlement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="17">
+          <content>Dorner died February 12 while holed up in a cabin in Bear Lake, California, that caught fire when police fired tear gas canisters into it.</content>
+        </sentence>
+        <sentence id="18">
+          <content>Days before, he had killed four people and wounded three others as part of a vendetta against his former comrades before apparently taking his own life in the cabin.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="19">
+          <content>Dorner declared war on police in a manifesto after being fired by the LAPD in 2009 and losing appeals to be reinstated, claiming that racism in the police department was behind him losing his job.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

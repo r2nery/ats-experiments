@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1818" link="http://www.cnn.com/2012/05/16/travel/tsa-breaches/index.html " date_published="2012-05-16 20:15:46" category="travel" author="Aaron Cooper, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Report: TSA security breaches mishandled</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">Inspector general says the TSA &amp;quot;does not have a complete understanding&amp;quot; of breaches.</sentence>
+      <sentence id="2" ids_article_sentences="3">Breaches at Newark Airport included a knife bypassing TSA screening.</sentence>
+      <sentence id="3" ids_article_sentences="6">&amp;quot;There is no clear guidance on what to report and when to report,&amp;quot; an official says.</sentence>
+      <sentence id="4" ids_article_sentences="21">Aministrator says TSA &amp;quot;can further develop and expand its oversight programs&amp;quot;.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-17 07:31:46" annotation_time="33.0825">
+      <sentence id="2" ids_highlights="1">As a result, the TSA &amp;quot;does not have a complete understanding&amp;quot; of breaches at the nation&amp;apost;s airports, says a report from the inspector general.</sentence>
+      <sentence id="3" ids_highlights="2">The report, published earlier this month, was requested by New Jersey Democratic Sen. Frank Lautenberg after a series of breaches at Newark Airport, including a knife bypassing TSA screening, passengers walking around security checkpoints and a dead dog transported without being screened for explosives.</sentence>
+      <sentence id="6" ids_highlights="3">&amp;quot;There&amp;apost;s no consistency because there is no clear guidance on what to report and when to report,&amp;quot; Charles Edwards, acting inspector general at the Department of Homeland Security, told a congressional hearing on Wednesday.</sentence>
+      <sentence id="21" ids_highlights="4">&amp;quot;TSA acknowledges that it can further develop and expand its oversight programs for gathering and tracking airport security breaches,&amp;quot; wrote administrator John Pistole.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Washington The Transportation Security Administration is failing to adequately report, track and fix airport security breaches, according to the Department of Homeland Security&amp;apost;s inspector general.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>As a result, the TSA &amp;quot;does not have a complete understanding&amp;quot; of breaches at the nation&amp;apost;s airports, says a report from the inspector general.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The report, published earlier this month, was requested by New Jersey Democratic Sen. Frank Lautenberg after a series of breaches at Newark Airport, including a knife bypassing TSA screening, passengers walking around security checkpoints and a dead dog transported without being screened for explosives.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>TSA responded to those incidents with &amp;quot;corrective action,&amp;quot; according to the inspector general, but not all the problems received the same treatment.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>The TSA took action to fix only 42% of the security breaches documented at Newark Airport, according to the report.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;There&amp;apost;s no consistency because there is no clear guidance on what to report and when to report,&amp;quot; Charles Edwards, acting inspector general at the Department of Homeland Security, told a congressional hearing on Wednesday.</content>
+        </sentence>
+        <sentence id="7">
+          <content>&amp;quot;One of our recommendations is that they have to have a comprehensive oversight program where they provide clear guidance on how each of the airports need to be reporting and then TSA needs to follow through.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>Most of the incidents examined occurred in 2010, and the report says since then efforts to fix security breach vulnerabilities have improved.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>Five other large U.S. terminals were visited by inspectors for comparison but the airports&amp;apost; names were withheld from the public report.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="10">
+          <content>Of the six airports visited, records were found detailing efforts to fix the causes of only 53% of the breaches.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="11">
+          <content>Newark was the lowest-scoring.</content>
+        </sentence>
+        <sentence id="12">
+          <content>The highest-rated airport reported corrective action in 88% of the breaches.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="13">
+          <content>&amp;quot;I&amp;apost;m going to tell you right now the next incident is going to come from the ground.</content>
+        </sentence>
+        <sentence id="14">
+          <content>It&amp;apost;s going to come from the shadow of the aircraft, it&amp;apost;s not going to come through the passenger terminal.</content>
+        </sentence>
+        <sentence id="15">
+          <content>I&amp;apost;m telling you that,&amp;quot; said Rep. John &amp;quot;Chip&amp;quot; Cravaack, R-Minnesota.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="16">
+          <content>The inspector general also noted that while the agency did have &amp;quot;many programs and initiatives that report and track identified security breaches&amp;quot; they were &amp;quot;not all inclusive or centrally managed.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="17">
+          <content>This lack of comprehensive, centralized data was cited as preventing the use of information to &amp;quot;monitor trends or make general improvements to security.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="18">
+          <content>Problems with how incidents were categorized in reporting also were outlined in the report.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="19">
+          <content>TSA workers at one airport reported &amp;quot;an improper bag handoff incident&amp;quot; in a database as a &amp;quot;sterile area access event&amp;quot; while another airport reported four similar incidents as &amp;quot;security breaches.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="20">
+          <content>Management at the agency concurred with the inspector general&amp;apost;s report.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="21">
+          <content>&amp;quot;TSA acknowledges that it can further develop and expand its oversight programs for gathering and tracking airport security breaches,&amp;quot; wrote administrator John Pistole.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;TSA currently collects thousands of records of incidents and security breaches occurring at airports and other transportation facilities,&amp;quot; TSA spokesman David Castelveter told CNN in an e-mail.</content>
+        </sentence>
+        <sentence id="23">
+          <content>&amp;quot;TSA is coordinating appropriate revisions to relevant Operations Directives to develop a single definition of &amp;apost;Security Breach,&amp;apost; addressing (the inspector general&amp;apost;s) recommendation.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

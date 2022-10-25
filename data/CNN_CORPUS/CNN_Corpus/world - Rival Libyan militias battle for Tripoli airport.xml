@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2696" link="http://www.cnn.com/2014/07/13/world/africa/libya-airport-battle/index.html" date_published="2014-07-13 07:11:40" category="world" author="Jomana Karadsheh and Ashley Fantz, CNN " highlights_mapped="true" mapping_error="false">
+  <title>Rival Libyan militias battle for Tripoli airport</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="15">NEW: National airline announces airport will be closed until July 17.</sentence>
+      <sentence id="2" ids_article_sentences="2">NEW: Fighting is threatening civilians with violence happening also along airport road .</sentence>
+      <sentence id="3" ids_article_sentences="10">Brigades from Zintan have controlled the airport since 2011 .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-26 19:14:17" annotation_time="37.11067">
+      <sentence id="2" ids_highlights="2">Shelling was threatening civilians as violence stretched along the airport road, which is dotted with residential neighborhoods.</sentence>
+      <sentence id="10" ids_highlights="3">Brigades from the Zintan militia have controlled the airport since the Libyan civil war in 2011.</sentence>
+      <sentence id="15" ids_highlights="1">State-owned Afriqiyah Airways said on its official Facebook page that it was diverting some of its international arrivals to the city of Misrata, and that the airport in Tripoli would be closed until July 17.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Tripoli, Libya Rival Libyan militias battled for Tripoli International Airport on Sunday, leaving nine people dead and 25 others wounded, the government said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Shelling was threatening civilians as violence stretched along the airport road, which is dotted with residential neighborhoods.</content>
+        </sentence>
+        <sentence id="3">
+          <content>All flights in and out of the airport have been suspended.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>CNN personnel could hear gunfire and blasts throughout the day.</content>
+        </sentence>
+        <sentence id="5">
+          <content>Heavy smoke billowed above the airport.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>While the government issued a statement calling for calm, Libya&amp;apost;s government is weak and militias outnumber and outgun its security forces.</content>
+        </sentence>
+        <sentence id="7">
+          <content>Many of the armed groups are on the state&amp;apost;s payroll.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>These circumstances make it very difficult for the government to gain control over this latest increasingly volatile and violent situation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>State-run al-Rasmiya television gave the death toll, citing Libya&amp;apost;s Health Ministry.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>Brigades from the Zintan militia have controlled the airport since the Libyan civil war in 2011.</content>
+        </sentence>
+        <sentence id="11">
+          <content>Other militias have tried to wrest control of the airport from the Zintan brigades for years.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>Armed vehicles gathered in the area overnight before fighting broke out around dawn Sunday, witnesses said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>&amp;quot;The revolutionary brigades are inside Tripoli International Airport,&amp;quot; the Libyan Revolutionaries Operations Room, an Islamist militia in the capital, posted on its Facebook page.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;The revolutionary forces have reached the perimeter of Tripoli International Airport ... clashes with some of the armed groups present there,&amp;quot; the group said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="15">
+          <content>State-owned Afriqiyah Airways said on its official Facebook page that it was diverting some of its international arrivals to the city of Misrata, and that the airport in Tripoli would be closed until July 17.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="16">
+          <content>Late Sunday morning, the sounds of fighting could also be heard in the vicinity of a Zintan base in a western suburb of Tripoli.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="17">
+          <content>Libya&amp;apost;s interim government released a statement Sunday that said regional brigades and &amp;quot;field commanders&amp;quot; are carrying out &amp;quot;operations,&amp;quot; and they moved on Tripoli Airport with &amp;quot;no order or legitimate cover, coming from different directions ...&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="18">
+          <content>The government is in talks with what the statement called the international community so that lives and &amp;quot;vital installations&amp;quot; are protected.</content>
+        </sentence>
+        <sentence id="19">
+          <content>Stop &amp;quot;these acts of war,&amp;quot; the statement implored.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="20">
+          <content>A state of emergency in all hospitals and clinics was issued.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="21">
+          <content>Hugh Robertson, the United Kingdom&amp;apost;s minister for the Middle East, urges an immediate end to violence at Tripoli International Airport.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="22">
+          <content>Robertson said the violence was &amp;quot;putting the lives of people in the area in grave danger.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="23">
+          <content>&amp;quot;We urge all sides to cease violence immediately and to engage in meaningful dialogue,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="24">
+          <content>In a statement the night before the fighting erupted, the U.S. State Department expressed concern about what it said was the &amp;quot;ongoing violence in Libya and dangerous posturing that could lead to widespread conflict there.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="25">
+          <content>The U.S. renewed its calls for national dialogue in Libya.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="26">
+          <content>Even though Libyans successfully toppled the 42-year rule of Moammar Gadhafi in 2011, the country is far from stable.</content>
+        </sentence>
+        <sentence id="27">
+          <content>Armed militias are now the biggest challenge.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="28">
+          <content>The international community has largely agreed that the key to resolving Libya&amp;apost;s crisis is national dialogue.</content>
+        </sentence>
+        <sentence id="29">
+          <content>But a weak central government -- combined with militias split along regional, tribal and ideological lines -- has added to the challenge.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="30">
+          <content>&amp;quot;The United States is deeply concerned by the ongoing violence in Libya and dangerous posturing that could lead to widespread conflict there,&amp;quot; the State Department said in a statement Saturday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="31">
+          <content>&amp;quot;We affirm our support for Libya&amp;apost;s democratic transition and urge the seating of the new Council of Representatives as soon as possible,&amp;quot; the statement added.</content>
+        </sentence>
+        <sentence id="32">
+          <content>&amp;quot;Finally, we stress the vital role Libya&amp;apost;s Constitution Drafting Assembly plays in building the new country for which Libyans sacrificed so much during the revolution.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

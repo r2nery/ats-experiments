@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2856" link="http://cnn.com/2013/07/25/world/africa/tunisia-politician-killed/index.html" date_published="2013-07-25 12:40:23" category="world" author="Jason Hanna and Yousuf Basil, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Tunisian opposition leader shot dead outside his home</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="20">NEW: U.N. says &amp;quot;this heinous must not ... derail the progress&amp;quot; toward democracy in Tunisia.</sentence>
+      <sentence id="2" ids_article_sentences="1">The slaying of Mohammed Al-Brahmi sets off protests in capital, state-run TV reports.</sentence>
+      <sentence id="3" ids_article_sentences="12">Al-Brahmi is the second Tunisian opposition leader to be killed in five months.</sentence>
+      <sentence id="4" ids_article_sentences="10">Labor union calls for general strike Friday .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-29 17:08:22" annotation_time="47.7215">
+      <sentence id="1" ids_highlights="2">A Tunisian opposition leader was fatally shot outside his home Thursday, setting off protests in a nation still raw from the February assassination of a different politician who opposed the Islamist-led governing party.</sentence>
+      <sentence id="10" ids_highlights="4">A labor union called for a general strike for Friday, TAP reported.</sentence>
+      <sentence id="12" ids_highlights="3">Al-Brahmi is the second leftist opposition figure to be killed in Tunisia since February 6, when gunmen killed Chokri Belaid outside his home.</sentence>
+      <sentence id="20" ids_highlights="1">Al-Brahmi&amp;apost;s death &amp;quot;must not be allowed to derail the progress that Tunisia continues to make in its democratic transition, including on the Constitution, and in meeting the social and economic aspirations of the Tunisian people,&amp;quot; said the U.N. statement.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>A Tunisian opposition leader was fatally shot outside his home Thursday, setting off protests in a nation still raw from the February assassination of a different politician who opposed the Islamist-led governing party.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The slaying of Mohammed Al-Brahmi and the public&amp;apost;s reaction are the latest bout of turmoil striking the North African country that had been seen as a poster child of stability after the 2011 Arab Spring uprisings.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Al-Brahmi, a member of Parliament and leader of the liberal Popular Movement, was shot as he tried to drive away from his home in Ariana, near the Tunisian capital of Tunis, the state-run news agency TAP reported.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>Afterward, thousands of people protested the killing outside the Interior Ministry in Tunis on Thursday, according to Tunisian state TV.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>Presidential spokesman Adnene Mansar called the incident a &amp;quot;heinous crime&amp;quot; and urged Tunisians not to fall into a &amp;quot;trap of discord.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;The crime, whose perpetrators decided to commit it on Republic Day, came as the outlines of the transition phase start to emerge and as the establishment of Independent High Authority for Elections (ISIE) is nearing (an) end,&amp;quot; Mansar said in a statement distributed by the state-run news agency TAP.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;Apart from the thugs they have used this time to carry out their new crime, the hidden forces of corruption remain a threat to the country&amp;apost;s future,&amp;quot; Mansar&amp;apost;s statement said.</content>
+        </sentence>
+        <sentence id="8">
+          <content>&amp;quot;The blow we can bring to these forces and their plans is to remain united against all those who dare to undermine the stability and security of the country.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>Thursday&amp;apost;s protest may be just the beginning.</content>
+        </sentence>
+        <sentence id="10">
+          <content>A labor union called for a general strike for Friday, TAP reported.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;(Al-Brahmi&amp;apost;s death) is likely to reactivate the mass protests and strikes across multiple sectors,&amp;quot; Anna Boyd, a senior Middle East analyst at IHS Country Risk, said in an e-mailed statement Thursday before news of the day&amp;apost;s protests came.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>Al-Brahmi is the second leftist opposition figure to be killed in Tunisia since February 6, when gunmen killed Chokri Belaid outside his home.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="13">
+          <content>Belaid helped lead Tunisia&amp;apost;s Popular Front, a coalition of a leftist political parties.</content>
+        </sentence>
+        <sentence id="14">
+          <content>Al-Brahmi&amp;apost;s movement recently joined with that group.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>Both politicians opposed the Islamist-led Nahda party, which swept into power following the revolution that toppled longtime President Zine el Abidine Ben Ali in January 2011.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="16">
+          <content>Belaid&amp;apost;s assassination -- the first time since Tunisia&amp;apost;s 1956 independence that a politician had been a target inside the country -- roiled the nation, setting off massive protests and leading to the resignation of the prime minister.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="17">
+          <content>Al-Brahmi&amp;apost;s body was found with at least 11 gunshot wounds, the Interior Ministry told CNN Arabic.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="18">
+          <content>Witnesses said that two people on a motorcycle shot Al-Brahmi before fleeing, TAP reported.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="19">
+          <content>A U.N. statement from a spokesperson for Secretary-General Ban Ki-moon called both Al-Brahmi and Belaid&amp;apost;s assassinations &amp;quot;acts of political violence (that) weaken legitimate state institutions.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="20">
+          <content>Al-Brahmi&amp;apost;s death &amp;quot;must not be allowed to derail the progress that Tunisia continues to make in its democratic transition, including on the Constitution, and in meeting the social and economic aspirations of the Tunisian people,&amp;quot; said the U.N. statement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

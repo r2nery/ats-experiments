@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1000" link="http://www.cnn.com/2013/05/16/politics/btn-irs/index.html" date_published="2013-05-17 01:35:48" category="politics" author="Amy Roberts, CNN Library" highlights_mapped="true" mapping_error="false">
+  <title>By the Numbers: Internal Revenue Service</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="14">76 - Percentage in a recent poll who said a special prosecutor should be appointed to investigate the IRS.</sentence>
+      <sentence id="2" ids_article_sentences="5">$2,524,320,134,000 - Total taxes collected by the IRS in fiscal year 2012.</sentence>
+      <sentence id="3" ids_article_sentences="16">3,357 - Applications received by the IRS in fiscal year 2012 for 501(c)(4) tax-exempt status.</sentence>
+      <sentence id="4" ids_article_sentences="13">121 days - The IRS&amp;apost;s overall goal for completing each application for tax-exempt status.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-26 18:37:40" annotation_time="9.9539995">
+      <sentence id="5" ids_highlights="2">$2,524,320,134,000 - Total taxes collected by the IRS in fiscal year 2012.</sentence>
+      <sentence id="13" ids_highlights="4">121 days - The IRS&amp;apost;s overall goal for completing each application for tax-exempt status.</sentence>
+      <sentence id="14" ids_highlights="1">76 - Percentage of respondents in a recent poll who said a special prosecutor should be appointed to investigate the IRS&amp;apost;s targeting of conservative groups.</sentence>
+      <sentence id="16" ids_highlights="3">3,357 - Number of applications received by the IRS in fiscal year 2012 for 501(c)(4) tax-exempt status.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The controversy over the Internal Revenue Service&amp;apost;s targeting of conservative groups seeking tax-exempt status is back in the headlines with two hearings this week.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The House Appropriations Subcommittee on Financial Services held a hearing Monday where the Treasury inspector general for the IRS testified and Daniel Werfel, the embattled agency&amp;apost;s new acting commissioner, appeared before Congress for the first time since taking over the agency at President Barack Obama&amp;apost;s request.</content>
+        </sentence>
+        <sentence id="3">
+          <content>Tuesday, the House Ways and Means Committee will hear from groups who say they were targeted.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>By the numbers, here&amp;apost;s a look at the IRS:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>$2,524,320,134,000 - Total taxes collected by the IRS in fiscal year 2012.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>146,244,000 - Total tax returns received for individual income tax returns in fiscal year 2012.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>70 - Percentage of closed applications for tax-exempt status that were approved in fiscal year 2012 during an initial review with little or no additional information from the organizations.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>2 - Employees in the IRS Cincinnati office accused of being principally responsible for &amp;quot;overly aggressive&amp;quot; handling of requests by conservative groups for tax-exempt status, according to a congressional source.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>298 - Cases as reviewed by the IRS inspector general as potential political cases not eligible for tax exempt status as of May 31, 2012.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="10">
+          <content>72 - Case files under review where the organization&amp;apost;s name contained &amp;quot;Tea Party.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="11">
+          <content>13 - Cases under review where the name included the word &amp;quot;Patriots.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="12">
+          <content>160 - Cases under review that had been held open for at least 206 to 1,138 days (almost three years).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="13">
+          <content>121 days - The IRS&amp;apost;s overall goal for completing each application for tax-exempt status.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="14">
+          <content>76 - Percentage of respondents in a recent poll who said a special prosecutor should be appointed to investigate the IRS&amp;apost;s targeting of conservative groups.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="15">
+          <content>66,543 - Number of applications received by the IRS in fiscal year 2012 for 501(c)(3) tax-exempt status.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="16">
+          <content>3,357 - Number of applications received by the IRS in fiscal year 2012 for 501(c)(4) tax-exempt status.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="17">
+          <content>At least 3 -- the number of lawsuits filed regarding the IRS&amp;apost;s practice of targeting conservative groups.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="18">
+          <content>2,042,458 - Total number of notices to taxpayers that they had made a math error on their 2011 return.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="19">
+          <content>707,768 - Number of notices of federal tax liens filed, for fiscal year 2012.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="20">
+          <content>1,973 - New investigations filed in fiscal year 2012.</content>
+        </sentence>
+        <sentence id="21">
+          <content>(An investigation begins when the taxpayer doesn&amp;apost;t respond to delinquency notices.).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="22">
+          <content>10.3 - Audit examination rate per thousand individual income tax returns in fiscal year 2012.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="23">
+          <content>55 - Percentage of Americans who said in April 2013 they thought the amount of federal taxes they had to pay was fair, according to a Gallup Poll.</content>
+        </sentence>
+        <sentence id="24">
+          <content>It was the lowest percentage since 2001.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="25">
+          <content>29 - Percentage of Americans who told the Pew Research Center in April 2013 they actually like doing their taxes!</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

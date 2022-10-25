@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1582" link="http://www.cnn.com/2014/01/17/tech/gaming-gadgets/attack-appliances-fridge" date_published="2014-01-17 22:53:04" category="tech" author="Brandon Griggs, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Connected TVs, fridge used in global cyberattack</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">Security firm: Global cyberattack was launched from more than 100,000 everyday appliances.</sentence>
+      <sentence id="2" ids_article_sentences="3">Gadgets included routers, televisions and at least one &amp;quot;smart&amp;quot; refrigerator.</sentence>
+      <sentence id="3" ids_article_sentences="5">Proofpoint said the attack occurred between December 23 and January 6 .</sentence>
+      <sentence id="4" ids_article_sentences="15">Poorly protected &amp;quot;smart&amp;quot; devices may be easier to infect and control than PC, laptops, or tablets.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-01 13:05:19" annotation_time="26.86033">
+      <sentence id="3" ids_highlights="1, 2">An Internet-security firm has discovered what they are calling a global cyberattack launched from more than 100,000 everyday consumer gadgets such as home-networking routers, televisions and at least one &amp;quot;smart&amp;quot; refrigerator.</sentence>
+      <sentence id="5" ids_highlights="3">Proofpoint said the attack occurred between December 23 and January 6, and featured waves of malicious e-mail targeting businesses and individuals worldwide.</sentence>
+      <sentence id="15" ids_highlights="4">And poorly protected &amp;quot;smart&amp;quot; devices may be easier to infect and control than PCs, laptops or tablets.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>It&amp;apost;s bad enough that we have to fear identity thieves who are trying to scam us with malicious messages sent from PCs.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>We now must worry about being targeted by our household appliances, as well.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>An Internet-security firm has discovered what they are calling a global cyberattack launched from more than 100,000 everyday consumer gadgets such as home-networking routers, televisions and at least one &amp;quot;smart&amp;quot; refrigerator.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>It&amp;apost;s being called possibly the first proven cyberattack to originate from connected appliances -- the so-called &amp;quot;Internet of Things.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>Proofpoint said the attack occurred between December 23 and January 6, and featured waves of malicious e-mail targeting businesses and individuals worldwide.</content>
+        </sentence>
+        <sentence id="6">
+          <content>In a post on the Proofpoint site, the company said the scam involved more than 750,000 e-mails from more than 100,000 appliances that had been commandeered by &amp;quot;thingbots,&amp;quot; or robotic programs that can be remotely installed on digital devices.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>It was not immediately clear Friday which victims were targeted and whether the scammers were successful in collecting any personal information.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;Bot-nets are already a major security concern and the emergence of thingbots may make the situation much worse,&amp;quot; said David Knight, general manager of Proofpoint&amp;apost;s Information Security division.</content>
+        </sentence>
+        <sentence id="9">
+          <content>&amp;quot;Many of these devices are poorly protected at best and consumers have virtually no way to detect or fix infections when they do occur.</content>
+        </sentence>
+        <sentence id="10">
+          <content>[We] may find distributed attacks increasing as more and more of these devices come online and attackers find additional ways to exploit them.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>Recent years have seen an explosion in the number of devices fitted with Internet connectivity, from eyewear to toothbrushes to refrigerators and beyond.</content>
+        </sentence>
+        <sentence id="12">
+          <content>Earlier this week, Google paid $3.2 billion to acquire Nest, a company that makes smart home thermostats.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>The International Data Corporation (IDC) predicts there will be more than 30 billion connected devices in the world by 2020.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>Proofpoint&amp;apost;s findings suggest that just as personal computers can be unknowingly compromised and used to launch large-scale cyberattacks, so can any smart household appliance.</content>
+        </sentence>
+        <sentence id="15">
+          <content>And poorly protected &amp;quot;smart&amp;quot; devices may be easier to infect and control than PCs, laptops or tablets.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>A sophisticated hack was not needed to compromise the appliances in this attack.</content>
+        </sentence>
+        <sentence id="17">
+          <content>Instead, the use of default passwords left the devices completely exposed on public networks, according to Proofpoint.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="18">
+          <content>The company also noted that connected appliances typically aren&amp;apost;t protected by anti-spam or anti-virus software, nor are they routinely monitored for security breaches.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

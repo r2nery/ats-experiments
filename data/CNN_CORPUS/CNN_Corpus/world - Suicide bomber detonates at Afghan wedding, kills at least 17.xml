@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2776" link="http://www.cnn.com/2012/07/14/world/asia/afghanistan-wedding-blast/index.html" date_published="2012-07-14 06:40:20" category="world" author=" Ben Farmer, For CNN " highlights_mapped="true" mapping_error="false">
+  <title>Suicide bomber detonates at Afghan wedding, kills at least 17</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="15">NEW: U.S. Embassy says the attack only hardens its resolve to work with Afghans for peace.</sentence>
+      <sentence id="2" ids_article_sentences="4">Afghan President Hamid Karzai condemns the attack.</sentence>
+      <sentence id="3" ids_article_sentences="10">Blast also kills the provincial head of the Afghan intelligence service .</sentence>
+      <sentence id="4" ids_article_sentences="12">&amp;quot;We suspect it is the Taliban who are enemies of Afghanistan,&amp;quot; a police official says.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-06 21:05:43" annotation_time="19.045334">
+      <sentence id="4" ids_highlights="2">Afghan President Hamid Karzai, who condemned the attack, said it killed 17 people and wounded 43 others.</sentence>
+      <sentence id="10" ids_highlights="3">The provincial head of the Afghan intelligence service was also killed at the wedding attended by prominent security and military officials from the area.</sentence>
+      <sentence id="12" ids_highlights="4">&amp;quot;We suspect it is the Taliban who are enemies of Afghanistan.&amp;quot;</sentence>
+      <sentence id="15" ids_highlights="1">&amp;quot;This attack will only harden our resolve to work together with the Afghan government and people to realize a peaceful and prosperous Afghanistan.&amp;quot;</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Kabul, Afghanistan A lone suicide bomber detonated a vest filled with explosives at a wedding in northern Afghanistan on Saturday, killing at least 17 guests, including a top politician, authorities said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>There were conflicting reports on the casualties.</content>
+        </sentence>
+        <sentence id="3">
+          <content>Police said 22 people died and about 40 were wounded in the attack.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Afghan President Hamid Karzai, who condemned the attack, said it killed 17 people and wounded 43 others.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>The attacker&amp;apost;s blast tore through the wedding hall in Aybak, capital of Samangan province.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>Fatalities included Ahmad Khan Samangani, who was a member of the Afghan parliament.</content>
+        </sentence>
+        <sentence id="7">
+          <content>He was killed as he hosted his daughter&amp;apost;s wedding, said Lal Mohammad Ahmadzai, a police spokesman.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>Samangani also served as a militia leader during the Afghan civil war and fought against the Taliban.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>The attack seemed to target him as he welcomed guests at the entrance to the hall, police said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>The provincial head of the Afghan intelligence service was also killed at the wedding attended by prominent security and military officials from the area.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;There has been no claim of responsibility so far,&amp;quot; Ahmadzai said.</content>
+        </sentence>
+        <sentence id="12">
+          <content>&amp;quot;We suspect it is the Taliban who are enemies of Afghanistan.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>The U.S. Embassy in Kabul condemned the attack, which it said killed more than 20 people, &amp;quot;in the strongest terms.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;We extend our condolences to the families of Samangani and Khan, and to the families of all victims of today&amp;apost;s attack,&amp;quot; it said in a statement.</content>
+        </sentence>
+        <sentence id="15">
+          <content>&amp;quot;This attack will only harden our resolve to work together with the Afghan government and people to realize a peaceful and prosperous Afghanistan.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="16">
+          <content>Samangani was elected to parliament during the troubled 2010 poll.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="17">
+          <content>Electoral officials at first ruled he had been unsuccessful, but his supporters blocked roads through the province in protest.</content>
+        </sentence>
+        <sentence id="18">
+          <content>He was eventually awarded a seat in Afghanistan&amp;apost;s lower house on appeal.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="19">
+          <content>A number of top security officials have been assassinated in northern Afghanistan in the past 18 months.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

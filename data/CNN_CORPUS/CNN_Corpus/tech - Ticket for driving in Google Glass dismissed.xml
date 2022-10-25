@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1664" link="http://www.cnn.com/2014/01/16/tech/innovation/google-glass-ticket-dismissed/index.html" date_published="2014-01-17 02:24:37" category="tech" author="Heather Kelly, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Ticket for driving in Google Glass dismissed</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">Charges dismissed for woman ticketed for wearing Google Glass while driving.</sentence>
+      <sentence id="2" ids_article_sentences="4">A judge rules there was not enough evidence to prove the device was on.</sentence>
+      <sentence id="3" ids_article_sentences="18">Some states are pushing for laws that specifically ban the use of Glass while driving.</sentence>
+      <sentence id="4" ids_article_sentences="7">Officers in California can still ticket drivers for wearing Google Glass.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-28 12:30:47" annotation_time="46.881">
+      <sentence id="2" ids_highlights="1">Southern California resident Cecilia Abadie appeared in San Diego traffic court on Thursday for speeding and for wearing Google Glass while driving.</sentence>
+      <sentence id="4" ids_highlights="2">Commissioner John Blair threw out both charges, stating there wasn&amp;apost;t enough evidence to prove beyond a reasonable doubt that the Google Glass was turned on at the time.</sentence>
+      <sentence id="7" ids_highlights="4">The officer then cited her for wearing Google Glass under California vehicle code 27602, which prohibits operating a video-display in front of the driver&amp;apost;s head rest where it can distract the driver.</sentence>
+      <sentence id="18" ids_highlights="3">On Google&amp;apost;s Glass FAQ page, the company warns: &amp;quot;Most states have passed laws limiting the use of mobile devices while driving any motor vehicle, and most states post those rules on their department of motor vehicles websites.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>It may have been the most anticipated traffic court date ever.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Southern California resident Cecilia Abadie appeared in San Diego traffic court on Thursday for speeding and for wearing Google Glass while driving.</content>
+        </sentence>
+        <sentence id="3">
+          <content>It is considered the first time someone has been cited for wearing the face-mounted technology while driving.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Commissioner John Blair threw out both charges, stating there wasn&amp;apost;t enough evidence to prove beyond a reasonable doubt that the Google Glass was turned on at the time.</content>
+        </sentence>
+        <sentence id="5">
+          <content>It is only illegal to wear the device while driving if it is operational.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>Abadie was pulled over in October for speeding by the California Highway Patrol.</content>
+        </sentence>
+        <sentence id="7">
+          <content>The officer then cited her for wearing Google Glass under California vehicle code 27602, which prohibits operating a video-display in front of the driver&amp;apost;s head rest where it can distract the driver.</content>
+        </sentence>
+        <sentence id="8">
+          <content>The law was originally drafted to keep people from watching TV while driving.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="9">
+          <content>Google Glass is Google&amp;apost;s early version of a head-mounted computer display.</content>
+        </sentence>
+        <sentence id="10">
+          <content>A small square monitor sits above the right eye, just out of the normal line of vision.</content>
+        </sentence>
+        <sentence id="11">
+          <content>To view information on the display like a map or text message, the wearer must look up.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="12">
+          <content>Google Glass defenders claim Glass is safer to use while driving than a smartphone since it can be voice controlled and you only have to glance up to view the Glass display.</content>
+        </sentence>
+        <sentence id="13">
+          <content>Many rallied to Abadie&amp;apost;s defense, even starting a #freececilia hashtag on Twitter.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="14">
+          <content>When asked to comment on the case, a Google spokesperson sent the following statement to CNN:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="15">
+          <content>&amp;quot;Glass is built to connect you more with the world around you, not distract you from it.</content>
+        </sentence>
+        <sentence id="16">
+          <content>As we make clear in our help center, Explorers should always use Glass responsibly and put their safety and the safety of others first.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;It&amp;apost;s early days for Glass and we look forward to hearing feedback from Explorers and others in advance of a wider consumer launch this year.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="18">
+          <content>On Google&amp;apost;s Glass FAQ page, the company warns: &amp;quot;Most states have passed laws limiting the use of mobile devices while driving any motor vehicle, and most states post those rules on their department of motor vehicles websites.</content>
+        </sentence>
+        <sentence id="19">
+          <content>Read up and follow the law!&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="20">
+          <content>&amp;quot;Anything that distracts you from driving is something that were concerned about,&amp;quot; said CHP Public Affairs Officer Jake Sanchez.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="21">
+          <content>While the ruling was a big win for Abadie, a product manager who wears her Glass 12 hours a day (she rested them around her neck while in the courtroom), it is not a green light for Google Glass wearers to freely wear and use their devices while driving.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;It doesn&amp;apost;t necessarily answer the question everybody wanted: Is it legal to drive down the road wearing Google Glass while it&amp;apost;s operating?&amp;quot;</content>
+        </sentence>
+        <sentence id="23">
+          <content>said William Concidine of My Traffic Guys.</content>
+        </sentence>
+        <sentence id="24">
+          <content>Concidine and his partner, Gabriel Moore, are the traffic ticket attorneys who defended Abadie in court on Thursday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="25">
+          <content>Google Glass wearers in California can still be pulled over and cited for wearing the head-mounted displays while driving.</content>
+        </sentence>
+        <sentence id="26">
+          <content>Whether they get a warning or a ticket will be up to the individual officer.</content>
+        </sentence>
+        <sentence id="27">
+          <content>Getting a charges dismissed will then be up to individual traffic court judges.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="28">
+          <content>&amp;quot;There is no law that that specifically says Google Glass is illegal.</content>
+        </sentence>
+        <sentence id="29">
+          <content>Each officer has to take each case on a case-by-case basis,&amp;quot; said Sanchez.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="30">
+          <content>A dismissal in court is not uncommon for traffic violations, and this ruling will not change how CHP officers view distracted driving.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="31">
+          <content>&amp;quot;I do think it leaves it up in the air for Google Glass wearers,&amp;quot; said Concidine.</content>
+        </sentence>
+        <sentence id="32">
+          <content>&amp;quot;They have to wear it with the possibility that they may get a ticket that they&amp;apost;ll have to fight until a legislator takes some sort of action.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="33">
+          <content>Three states have already drafted laws that specifically ban Google Glass while driving: Delaware, West Virginia and New Jersey.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1916" link="http://www.cnn.com/2014/01/31/us/super-bowl-hotels-powder/index.html" date_published="2014-01-31 18:16:18" category="us" author="Susan Candiotti, Shimon Prokupecz and Ray Sanchez, CNN " highlights_mapped="true" mapping_error="false">
+  <title>FBI: Pre-Super Bowl white powder deemed not hazardous</title>
+  <keywords>Super Bowl hotels powder</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">FBI says content of letters isn&amp;apost;t hazardous.</sentence>
+      <sentence id="2" ids_article_sentences="2">An unknown powder is found at several hotels in New Jersey.</sentence>
+      <sentence id="3" ids_article_sentences="1">A letter with white powder sent to office of Rudy Giuliani.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-08 14:13:50" annotation_time="28.640665">
+      <sentence id="1" ids_highlights="1, 3">New York The FBI said Friday that white powder found at New Jersey hotels near the site of the Super Bowl and at the Manhattan office of former Mayor Rudy Giuliani proved to be non-hazardous.</sentence>
+      <sentence id="2" ids_highlights="2">Hazardous materials teams and bomb squads responded after white powder was found at several hotels near New Jersey&amp;apost;s MetLife Stadium, authorities said.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>New York The FBI said Friday that white powder found at New Jersey hotels near the site of the Super Bowl and at the Manhattan office of former Mayor Rudy Giuliani proved to be non-hazardous.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Hazardous materials teams and bomb squads responded after white powder was found at several hotels near New Jersey&amp;apost;s MetLife Stadium, authorities said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>In a statement late Friday, the New Jersey State Police said most of the locations that the Joint Terrorism Task Force and hazard materials responded to because of the suspicious powder had been secured.</content>
+        </sentence>
+        <sentence id="4">
+          <content>No injuries were reported.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>The FBI In New York tweeted Friday afternoon: &amp;quot;Substances in suspicious letters in New York and New Jersey deemed non hazardous.</content>
+        </sentence>
+        <sentence id="6">
+          <content>Additional testing to come.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>The contents of one letter sent to the Homewood Suites in East Rutherford were tested and determined to be cornstarch, East Rutherford Mayor James Cassella said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>A New York police spokesman said the letter sent to Giuliani&amp;apost;s office contained a &amp;quot;nontoxic substance.&amp;quot;</content>
+        </sentence>
+        <sentence id="9">
+          <content>Still, eight employees in the mail room were decontaminated as a precaution, and no one has shown any sign of illness, he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>Giuliani told CNN&amp;apost;s Wolf Bitzer on The Situation Room that the letter with white powder was addressed to his administrative assistant.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;Of course, it created tremendous concern,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="12">
+          <content>&amp;quot;But the police department showed up.</content>
+        </sentence>
+        <sentence id="13">
+          <content>My firm .</content>
+        </sentence>
+        <sentence id="14">
+          <content>... is a security firm, thank goodness, so they knew how to handle it immediately.</content>
+        </sentence>
+        <sentence id="15">
+          <content>They did a a test.</content>
+        </sentence>
+        <sentence id="16">
+          <content>The preliminary test is that it&amp;apost;s nontoxic... We don&amp;apost;t know if it&amp;apost;s connected to the six or seven that were sent in New Jersey.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="17">
+          <content>He added, &amp;quot;It&amp;apost;s kind of a strange letter, more than a threatening letter.</content>
+        </sentence>
+        <sentence id="18">
+          <content>Said something about &amp;apost;you&amp;apost;re being my best friend&amp;apost; and this person is not my best friend or my assistant&amp;apost;s best friend, or anyone we know.</content>
+        </sentence>
+        <sentence id="19">
+          <content>... At this point, all we know is the good news is it&amp;apost;s not toxic.</content>
+        </sentence>
+        <sentence id="20">
+          <content>The bad news is we don&amp;apost;t really know if it&amp;apost;s connected.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="21">
+          <content>The letter was postmarked from Toronto, Ontario, and contained a name and return address.</content>
+        </sentence>
+        <sentence id="22">
+          <content>New York law enforcement authorities were in touch with Canadian authorities to pursue the source of the letter, police said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="23">
+          <content>In New Jersey, Hackensack University Medical Center evaluated some people who may have come in contact with the suspicious letters, a State Police spokesman said.</content>
+        </sentence>
+        <sentence id="24">
+          <content>No illnesses or injuries were reported.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="25">
+          <content>In a statement, the FBI said earlier Friday: &amp;quot;The Joint Terrorism Task Force and Hazard Materials units have responded to several locations that have received a suspicious letter and substance.</content>
+        </sentence>
+        <sentence id="26">
+          <content>There are no reported injuries at this time, and the locations are being secured.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="27">
+          <content>The scares come amid tight security before Sunday&amp;apost;s game.</content>
+        </sentence>
+        <sentence id="28">
+          <content>More air marshals and behavioral detection officers, radiological detection teams and random baggage checks at transit hubs are among the security measures the federal Homeland Security Department deployed to help local police in New Jersey and New York secure the Super Bowl.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="29">
+          <content>The stadium&amp;apost;s location near a major airport and busy commuter train lines presents security challenges.</content>
+        </sentence>
+        <sentence id="30">
+          <content>Unlike audiences for other championship games, spectators of Super Bowl XLVIII will rely heavily on mass transit.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="31">
+          <content>Chris Murray, business management president at the Quality Inn in Lyndhurst, said the hotel received a suspicious letter but he did not know what was inside the envelope.</content>
+        </sentence>
+        <sentence id="32">
+          <content>He said local police were at the hotel and that a Hazmat team and bomb squad were expected to examine the letter.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="33">
+          <content>Murray said other hotels on the same corner in Lyndhurst also received suspicious envelopes, including the Renaissance and Marriott Courtyard.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="34">
+          <content>The letter was sitting on a desk in his office, Murray said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="35">
+          <content>Other hotels that received suspicious packages included the Econo Lodge, Holiday Inn and Hampton Inn in Carlstadt, and Renaissance Inn and Homestead in Rutherford.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="36">
+          <content>Law enforcement officials said six letters were discovered in New Jersey.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

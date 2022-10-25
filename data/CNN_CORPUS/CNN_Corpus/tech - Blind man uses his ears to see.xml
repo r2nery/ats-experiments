@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1577" link="http://www.cnn.com/2011/11/09/tech/innovation/daniel-kish-poptech-echolocation/index.html" date_published="2011-11-09 13:06:21" category="tech" author="John D. Sutter, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Blind man uses his ears to see</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="14">Daniel Kish teaches a technique to help blind people &amp;quot;see&amp;quot; with their ears.</sentence>
+      <sentence id="2" ids_article_sentences="7">Kish clicks his tongue and listens for that sound to bounce off of objects.</sentence>
+      <sentence id="3" ids_article_sentences="56">He says those returning echoes act like &amp;quot;dim flashes of light&amp;quot;.</sentence>
+      <sentence id="4" ids_article_sentences="14, 13">Kish is founder of World Access for the Blind, which teaches &amp;quot;echolocation&amp;quot;.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-20 14:21:06" annotation_time="107.122">
+      <sentence id="7" ids_highlights="2">When he walks around unfamiliar places -- he loves hiking -- he clicks his tongue and then listens as that sound bounces off nearby objects.</sentence>
+      <sentence id="13" ids_highlights="4">Kish is the founder of a nonprofit called World Access for the Blind.</sentence>
+      <sentence id="14" ids_highlights="1, 4">His goal is to teach this technique of &amp;quot;human echolocation&amp;quot; -- or seeing the world through sound -- to blind people all over the world.</sentence>
+      <sentence id="56" ids_highlights="3">&amp;quot;It&amp;apost;s like seeing with dim flashes of light,&amp;quot; he said of the tongue-click method.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Camden, Maine Follow Daniel Kish out onto a dock and ask him about the view.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>&amp;quot;There&amp;apost;s this pylon here and there&amp;apost;s an object about 20 feet away -- here -- and another one, about 50 feet away,&amp;quot; says Kish, overlooking a bay in coastal Maine during the recent PopTech conference, where he was a featured speaker.</content>
+        </sentence>
+        <sentence id="3">
+          <content>&amp;quot;I guess those are boats.</content>
+        </sentence>
+        <sentence id="4">
+          <content>I can&amp;apost;t tell from this distance, really, but they&amp;apost;re solid and we&amp;apost;re on the water -- so it stands to reason.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>Kish is completely blind -- he lost sight in both eyes by age 13 months.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>Yet he uses his ears to see.</content>
+        </sentence>
+        <sentence id="7">
+          <content>When he walks around unfamiliar places -- he loves hiking -- he clicks his tongue and then listens as that sound bounces off nearby objects.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>He says he&amp;apost;s trained his brain to turn these sounds into an image of sorts -- an auditory map he follows with the help of a cane.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>&amp;quot;When you send out a sonar call ... you&amp;apost;re interrogating the environment,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="10">
+          <content>&amp;quot;You&amp;apost;re asking, &amp;apost;Where are you?&amp;apost;.</content>
+        </sentence>
+        <sentence id="11">
+          <content>and &amp;apost;What are you?&amp;apost;.</content>
+        </sentence>
+        <sentence id="12">
+          <content>And the environment answers back.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="13">
+          <content>Kish is the founder of a nonprofit called World Access for the Blind.</content>
+        </sentence>
+        <sentence id="14">
+          <content>His goal is to teach this technique of &amp;quot;human echolocation&amp;quot; -- or seeing the world through sound -- to blind people all over the world.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="15">
+          <content>So far, the group has taught at least 500 blind children to see with their ears.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;It isn&amp;apost;t that difficult to teach.</content>
+        </sentence>
+        <sentence id="17">
+          <content>It really isn&amp;apost;t,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="18">
+          <content>&amp;quot;I believe that the brain is already at least partly wired to do this.</content>
+        </sentence>
+        <sentence id="19">
+          <content>All that needs to happen is the hardware needs to be awakened.</content>
+        </sentence>
+        <sentence id="20">
+          <content>It needs to be activated, and we believe we&amp;apost;ve found ways of doing this.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="21">
+          <content>Not everyone believes him.</content>
+        </sentence>
+        <sentence id="22">
+          <content>&amp;quot;Many of Kish&amp;apost;s colleagues believe that echolocation, if it&amp;apost;s taught, should remain a secondary skill for the blind,&amp;quot; Daniel Engber wrote at Slate.</content>
+        </sentence>
+        <sentence id="23">
+          <content>&amp;quot;And some disability advocates worry that all the hoopla over sonar makes blind people seem like superhuman freaks, with special powers that more than compensate for their problems.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="24">
+          <content>In a presentation at PopTech, a conference about new ideas in science and technology, Kish describes himself as a &amp;quot;real-life batman&amp;quot; and showed videos of his blind students riding mountain bikes through obstacle courses, playing basketball and skateboarding.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="25">
+          <content>But he sees the technique as much more than a gimmick.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="26">
+          <content>&amp;quot;This is not aiming at making our students daredevils or &amp;apost;super-blind&amp;apost; or anything like that,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="27">
+          <content>&amp;quot;It&amp;apost;s really aimed at opening opportunities and helping students ... to lead day-to-day lives.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="28">
+          <content>On the controversy surrounding his teaching, he added: &amp;quot;I think that has a lot to do with a dogmatic adherence to tradition -- if it ain&amp;apost;t broke, why fix it.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="29">
+          <content>Kish, who lost both his eyes to cancer when he was an infant, says something is broken with the way blind students all over the world learn.</content>
+        </sentence>
+        <sentence id="30">
+          <content>By and large, they&amp;apost;re taught to be dependent on sighted people -- in part because 99% of them, he said, are taught by people who can see.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="31">
+          <content>Kish aims to liberate students.</content>
+        </sentence>
+        <sentence id="32">
+          <content>By clicking their tongues and listening for echos from buildings, cars, dogs and the like, he believes they can be less dependent on sighted people.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="33">
+          <content>&amp;quot;Our view is that should one solicit assistance, that one should do so out of a matter of personal choice rather than being cornered into it,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="34">
+          <content>If you saw Kish walking down the street you&amp;apost;d hear him make repeated clicking sounds with his tongue -- click!</content>
+        </sentence>
+        <sentence id="35">
+          <content>click!</content>
+        </sentence>
+        <sentence id="36">
+          <content>click!</content>
+        </sentence>
+        <sentence id="37">
+          <content>-- as he weaves through traffic or ducks to miss tree branches.</content>
+        </sentence>
+        <sentence id="38">
+          <content>The clicks usually aren&amp;apost;t terribly loud, but they come at a continuous clip.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="39">
+          <content>He makes the sound more often when he&amp;apost;s a bit confused or comes to an intersection.</content>
+        </sentence>
+        <sentence id="40">
+          <content>Other times he&amp;apost;s silent as he walks with the help of a cane.</content>
+        </sentence>
+        <sentence id="41">
+          <content>Kish is quick to eschew instructions from those who travel with him, said Bill Wolfe, who worked with Kish at the PopTech event.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="42">
+          <content>Kish admits that echolocation isn&amp;apost;t perfect.</content>
+        </sentence>
+        <sentence id="43">
+          <content>Other creatures that use sonar to see, such as bats, emit ultrasonic frequencies.</content>
+        </sentence>
+        <sentence id="44">
+          <content>Humans, of course, can&amp;apost;t do that.</content>
+        </sentence>
+        <sentence id="45">
+          <content>&amp;quot;A bat can determine an object the size of a gnat from so many meters away,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="46">
+          <content>&amp;quot;For me, the object has to be at least the size of a softball.</content>
+        </sentence>
+        <sentence id="47">
+          <content>So bats definitely have the edge on humans in terms of their use of ultrasound.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="48">
+          <content>Kish founded World Access for the Blind in 2000.</content>
+        </sentence>
+        <sentence id="49">
+          <content>So far, he hasn&amp;apost;t hasn&amp;apost;t found much interest from groups in the United States.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="50">
+          <content>Of 50 schools for the blind his group has contacted, only two have expressed interest in teaching echolocation, he said.</content>
+        </sentence>
+        <sentence id="51">
+          <content>Similarly, of 1,300 agencies that deal with issues relating to blindness, only 10 wanted to work with World Access for the Blind, he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="52">
+          <content>Kish, however, seems undeterred.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="53">
+          <content>He&amp;apost;s been clicking his tongue as a way to see for as long as he can remember -- it&amp;apost;s an adaptation, he says, to the fact that his parents raised him just like they would have any sighted child.</content>
+        </sentence>
+        <sentence id="54">
+          <content>They didn&amp;apost;t give him a break because he experienced the world through other senses.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="55">
+          <content>And he&amp;apost;s on a breakneck world tour evangelizing for the idea.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="56">
+          <content>&amp;quot;It&amp;apost;s like seeing with dim flashes of light,&amp;quot; he said of the tongue-click method.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="57">
+          <content>Those dim flashes are enough, he says, to change a person&amp;apost;s life -- allowing him or her to go hiking alone, ride a bike or do something as simple as enjoying a view of the coast.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="58">
+          <content>Not allowing blind people a chance to do these things, he said, would be &amp;quot;very shortsighted.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

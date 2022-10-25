@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2420" link="http://www.cnn.com/2012/08/26/world/asia/typhoon-bolaven" date_published="2012-08-26 06:51:30" category="world" author="the CNN Wire Staff" highlights_mapped="true" mapping_error="false">
+  <title>Massive Typhoon Bolaven slams Okinawa, heads for Koreas</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="6">NEW: &amp;quot;It&amp;apost;s been a long and rough night,&amp;quot; storm chaser says.</sentence>
+      <sentence id="2" ids_article_sentences="1">Bolaven crosses over Okinawa.</sentence>
+      <sentence id="3" ids_article_sentences="2">It is the strongest typhoon in the region since 1956.</sentence>
+      <sentence id="4" ids_article_sentences="3">Typhoon Bolaven&amp;apost;s cloud field is about 20 times the length of Okinawa .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-11 10:10:21" annotation_time="22.346666">
+      <sentence id="1" ids_highlights="2">Tokyo A massive typhoon crossed over Okinawa on Sunday, bringing winds more ferocious than even the typhoon-weary Japanese island has seen in decades.</sentence>
+      <sentence id="2" ids_highlights="3">Typhoon Bolaven, with wind gusts that reached as high as 259 kilometers per hour (161 mph), is the strongest to strike the region in nearly 50 years.</sentence>
+      <sentence id="3" ids_highlights="4">And with a cloud field of 2,000 kilometers (1,250 miles), it is 20 times larger than Okinawa&amp;apost;s length.</sentence>
+      <sentence id="6" ids_highlights="1">Speaking to CNN early Monday morning on Okinawa, Reynolds said, &amp;quot;It&amp;apost;s been a long and rough night.&amp;quot;</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Tokyo A massive typhoon crossed over Okinawa on Sunday, bringing winds more ferocious than even the typhoon-weary Japanese island has seen in decades.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Typhoon Bolaven, with wind gusts that reached as high as 259 kilometers per hour (161 mph), is the strongest to strike the region in nearly 50 years.</content>
+        </sentence>
+        <sentence id="3">
+          <content>And with a cloud field of 2,000 kilometers (1,250 miles), it is 20 times larger than Okinawa&amp;apost;s length.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>&amp;quot;It&amp;apost;s been very, very severe,&amp;quot; said storm chaser James Reynolds, who was on the northwestern coast of the island during the worst of the storm.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Tree branches were flying through the air amid torrential rain, he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>Speaking to CNN early Monday morning on Okinawa, Reynolds said, &amp;quot;It&amp;apost;s been a long and rough night.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;The eye of the typhoon actually crashed ashore just after dark.</content>
+        </sentence>
+        <sentence id="8">
+          <content>... Like the rest of the population we all just kind of holed up in the strong and sturdy buildings which make up Okinawa,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>The infrastructure on Okinawa is designed to withstand violent storms.</content>
+        </sentence>
+        <sentence id="10">
+          <content>&amp;quot;Everything&amp;apost;s made of solid concrete,&amp;quot; said Reynolds.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>The last storm of this scale was Typhoon Naha in 1956.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>At 3 a.m. Monday local time (2 p.m. ET Sunday), Bolaven had winds of 194 kilometers per hour, with gusts at 240 kilometers per hour, CNN International meteorologist Jennifer Delgado reported.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>Bolaven could make landfall at the Korean peninsula on Tuesday morning, or potentially in South Korea on Monday night, Delgado said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>In the meantime, rainfall totals in Okinawa could top 500 mm (20 inches) in 24 hours, said CNN International meteorologist Tom Sater.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>Bolaven is &amp;quot;roughly the size of France to Poland in land mass,&amp;quot; said Sater.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="16">
+          <content>Storm surges were expected to be a major problem for Okinawa.</content>
+        </sentence>
+        <sentence id="17">
+          <content>More than 400,000 people in the area live at elevations less than 50 meters (164 feet).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;The large battering waves on both sides of Okinawa are going to be a threat to people living near the water,&amp;quot; Reynolds predicted.</content>
+        </sentence>
+        <sentence id="19">
+          <content>&amp;quot;But I think the worst has passed now.</content>
+        </sentence>
+        <sentence id="20">
+          <content>The storm is moving away and unfortunately it&amp;apost;s the people in the Korean peninsula who look like they&amp;apost;ve got to prepare for the incoming storm.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="21">
+          <content>Taiwan, meanwhile, could be in for a pounding due to something called the Fujiwhara effect.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="22">
+          <content>Typhoon Tembin made landfall in southern Taiwan a few days ago, and was expected to work its way toward Hong Kong.</content>
+        </sentence>
+        <sentence id="23">
+          <content>But Bolaven, which is much stronger, has stopped Tembin&amp;apost;s movement toward Hong Kong and has been spinning it around.</content>
+        </sentence>
+        <sentence id="24">
+          <content>Tembin is likely to make a second landfall in southern Taiwan, also on Tuesday morning.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="25">
+          <content>&amp;quot;As Typhoon Bolaven moves northward towards the Yellow Sea, it will drag Tembin toward the China coast very near Shanghai,&amp;quot; said Sater.</content>
+        </sentence>
+        <sentence id="26">
+          <content>&amp;quot;That&amp;apost;s an amazing change in direction.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

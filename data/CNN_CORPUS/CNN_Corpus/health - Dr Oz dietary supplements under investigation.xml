@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="228" link="http://www.cnn.com/2014/06/17/health/senate-grills-dr-oz" date_published="2014-06-17 20:24:03" category="health" author="Jen Christensen and Jacque Wilson, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Dr. Oz dietary supplements under investigation</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3, 1">&amp;quot;Dr. Oz&amp;quot; host is asked why he promotes weight loss products without scientific backing.</sentence>
+      <sentence id="2" ids_article_sentences="5">Sen. Claire McCaskill says products give people &amp;quot;false hope&amp;quot;.</sentence>
+      <sentence id="3" ids_article_sentences="10">In May, the FTC sued the sellers of Green Coffee Beans for false claims.</sentence>
+      <sentence id="4" ids_article_sentences="11">FTC says some companies used video from &amp;quot;The Dr. Oz Show&amp;quot; to increase sales.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-04 16:53:40" annotation_time="271.053" mapping_time_divergence="67.76325">
+      <sentence id="1" ids_highlights="1">Dr. Mehmet Oz, host of &amp;quot;The Dr. Oz Show,&amp;quot; faced grilling by senators on Capitol Hill about the promotion of weight loss products on his show.</sentence>
+      <sentence id="3" ids_highlights="1">Subcommittee members took issue with assertions that Oz has made on his show about products that don&amp;apost;t have a lot of scientific evidence to back them up, such as green coffee beans.</sentence>
+      <sentence id="5" ids_highlights="2">She said she was discouraged by the &amp;quot;false hope&amp;quot; his rhetoric gives viewers and questioned his role &amp;quot;intentional or not, in perpetuating these scams.&amp;quot;</sentence>
+      <sentence id="10" ids_highlights="3">In May, the FTC sued the sellers of Green Coffee Beans for deceiving consumers through fake news sites and invented health claims.</sentence>
+      <sentence id="11" ids_highlights="4">The commission said that weeks after &amp;quot;The Dr. Oz Show&amp;quot; promoted the benefits of Pure Green Coffee, some companies that marketed the product used video from his show to increase sales.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Dr. Mehmet Oz, host of &amp;quot;The Dr. Oz Show,&amp;quot; faced grilling by senators on Capitol Hill about the promotion of weight loss products on his show.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Sen. Claire McCaskill, chairwoman of the Subcommittee on Consumer Protection, Product Safety and Insurance, led the panel that on Tuesday looked at false advertising for weight loss products.</content>
+        </sentence>
+        <sentence id="3">
+          <content>Subcommittee members took issue with assertions that Oz has made on his show about products that don&amp;apost;t have a lot of scientific evidence to back them up, such as green coffee beans.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>&amp;quot;The scientific community is almost monolithic against you in terms of the efficacy of the three products you called &amp;apost;miracles,&amp;apost; &amp;quot; said McCaskill, a Missouri Democrat.</content>
+        </sentence>
+        <sentence id="5">
+          <content>She said she was discouraged by the &amp;quot;false hope&amp;quot; his rhetoric gives viewers and questioned his role &amp;quot;intentional or not, in perpetuating these scams.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;I don&amp;apost;t get why you need to say this stuff when you know it&amp;apost;s not true.</content>
+        </sentence>
+        <sentence id="7">
+          <content>When you have this amazing megaphone, why would you cheapen your show?</content>
+        </sentence>
+        <sentence id="8">
+          <content>... With power comes a great deal of responsibility.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="9">
+          <content>The Federal Trade Commission is in charge of protecting consumers from &amp;quot;unfair or deceptive advertising and marketing practices that raise health and safety concerns.&amp;quot;</content>
+        </sentence>
+        <sentence id="10">
+          <content>In May, the FTC sued the sellers of Green Coffee Beans for deceiving consumers through fake news sites and invented health claims.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="11">
+          <content>The commission said that weeks after &amp;quot;The Dr. Oz Show&amp;quot; promoted the benefits of Pure Green Coffee, some companies that marketed the product used video from his show to increase sales.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>The scientific evidence supporting green coffee bean extract as a weight loss supplement is weak.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>A small study published in 2012 found chlorogenic acid, the main ingredient in green coffee beans, helped 16 human participants lose, on average, 18 pounds over 22 weeks.</content>
+        </sentence>
+        <sentence id="14">
+          <content>But another study on chlorogenic acid in mice found that the acid did not help mice lose weight and in fact, increased their insulin resistance.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="15">
+          <content>A 2011 meta-analysis of three studies on green coffee extract found the supplement produced, on average, a five-pound loss among study participants.</content>
+        </sentence>
+        <sentence id="16">
+          <content>But all three studies were short term and included a small number of participants, leading the meta-analysis authors to conclude: &amp;quot;More rigorous trials are needed to assess the usefulness of GCE as a weight loss tool.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="17">
+          <content>Oz told the panel that he does use &amp;quot;flowery language&amp;quot; to describe certain products on his show but added he believes in them so much he has given them to his family.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;My job, I feel, on the show is to be a cheerleader for the audience, and when they don&amp;apost;t think they have hope, when they don&amp;apost;t think they can make it happen, I want to look, and I do look everywhere, including in alternative healing traditions, for any evidence that might be supportive to them,&amp;quot; Oz said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="19">
+          <content>In addition to green coffee beans, McCaskill called out Garcinia cambogia as another weight loss product Oz has promoted.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="20">
+          <content>&amp;quot;Thanks to brand new scientific research, I can tell you about a revolutionary fat buster,&amp;quot; Oz said on his show in November 2012 with the words &amp;quot;No Exercise.</content>
+        </sentence>
+        <sentence id="21">
+          <content>No Diet.</content>
+        </sentence>
+        <sentence id="22">
+          <content>No Effort&amp;quot; on the screen behind him.</content>
+        </sentence>
+        <sentence id="23">
+          <content>&amp;quot;It&amp;apost;s called Garcinia cambogia.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="24">
+          <content>A 1998 study of 135 participants found Garcinia cambogia did not significantly help people lose weight any more than a placebo.</content>
+        </sentence>
+        <sentence id="25">
+          <content>But a 2013 meta-analysis of Garcinia cambogia studies hedged on the supplement&amp;apost;s ineffectiveness, saying its weight loss benefits &amp;quot;remain to be proven in larger-scale and longer-term clinical trials.&amp;quot;</content>
+        </sentence>
+        <sentence id="26">
+          <content>Whether it helps people lose weight or not, the Garcinia cambogia does not seem to be unsafe to use, some other studies say.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="27">
+          <content>Oz testified Tuesday that he could not be held responsible for what certain companies say online about the products.</content>
+        </sentence>
+        <sentence id="28">
+          <content>He said he&amp;apost;s toned down some of his language and will publish a list of products he thinks really can help people lose weight.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="29">
+          <content>&amp;quot;To not have the conversation about supplements at all however would be a disservice to the viewer,&amp;quot; Oz said in a prepared statement after the hearing.</content>
+        </sentence>
+        <sentence id="30">
+          <content>&amp;quot;In addition to exercising an abundance of caution in discussing promising research and products in the future, I look forward to working with all those present today in finding a way to deal with the problems of weight loss scams.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="31">
+          <content>The Food and Drug Administration does not regulate weight loss supplements.</content>
+        </sentence>
+        <sentence id="32">
+          <content>Under current law, companies selling these products do not need FDA approval before marketing them to the public.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="33">
+          <content>&amp;quot;Just because you see a supplement product on a store shelf does NOT mean it is safe or effective,&amp;quot; the FDA website says.</content>
+        </sentence>
+        <sentence id="34">
+          <content>&amp;quot;When safety issues are suspected, FDA must investigate and, when warranted, take steps to have the product removed from the market.</content>
+        </sentence>
+        <sentence id="35">
+          <content>However, it is much easier for a firm to get a product on the market than it is for FDA to take a product off the market.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="36">
+          <content>These weight loss products, even those that claim to be all natural, may contain toxic ingredients, the FDA says, or they may interact badly with other medications.</content>
+        </sentence>
+        <sentence id="37">
+          <content>Make sure to check with your doctor before taking any supplement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="38">
+          <content>The FTC told Elizabeth Cohen, CNN senior medical correspondent, that there are just &amp;quot;too many&amp;quot; weight loss products using deceptive advertising to sue them all.</content>
+        </sentence>
+        <sentence id="39">
+          <content>But consumers should be wary of certain phrases that are most certainly false, the FTC said, including any that claim to help you lose weight without diet and exercise.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="40">
+          <content>Bottom line -- don&amp;apost;t believe everything you see.</content>
+        </sentence>
+        <sentence id="41">
+          <content>Do your homework online and make sure any claim about a weight loss product is backed up by scientific evidence.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

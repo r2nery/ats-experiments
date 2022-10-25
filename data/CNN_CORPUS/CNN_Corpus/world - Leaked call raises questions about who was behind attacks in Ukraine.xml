@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2390" link="http://www.cnn.com/2014/03/05/world/europe/ukraine-leaked-audio-recording/index.html" date_published="2014-03-06 03:47:23" category="world" author="Dana Ford, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Leaked call raises questions about who was behind attacks in Ukraine</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">A call between Estonian Foreign Minister Urmas Paet and Catherine Ashton is leaked.</sentence>
+      <sentence id="2" ids_article_sentences="3">In the recording, Paet talks about his recent visit to Ukraine.</sentence>
+      <sentence id="3" ids_article_sentences="4">He says a doctor told him the opposition may have been behind deadly sniper fire.</sentence>
+      <sentence id="4" ids_article_sentences="16">Paet: &amp;quot;The fact that this phone call has been leaked is not a coincidence&amp;quot;.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-01 12:53:51" annotation_time="47.219">
+      <sentence id="2" ids_highlights="1">That was the message Wednesday from Estonian Foreign Minister Urmas Paet after a phone call between him and European Union foreign policy chief Catherine Ashton was leaked.</sentence>
+      <sentence id="3" ids_highlights="2">In the recording, which was posted to YouTube and picked up by Russian media, Paet talks about his recent visit to Ukraine.</sentence>
+      <sentence id="4" ids_highlights="3">He says a doctor named &amp;quot;Olga&amp;quot; told him opponents of Ukraine&amp;apost;s ousted President may have been responsible for deadly sniper fire.</sentence>
+      <sentence id="16" ids_highlights="4">&amp;quot;The fact that this phone call has been leaked is not a coincidence.&amp;quot;</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Don&amp;apost;t read too much into the conversation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>That was the message Wednesday from Estonian Foreign Minister Urmas Paet after a phone call between him and European Union foreign policy chief Catherine Ashton was leaked.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>In the recording, which was posted to YouTube and picked up by Russian media, Paet talks about his recent visit to Ukraine.</content>
+        </sentence>
+        <sentence id="4">
+          <content>He says a doctor named &amp;quot;Olga&amp;quot; told him opponents of Ukraine&amp;apost;s ousted President may have been responsible for deadly sniper fire.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>President Viktor Yanukovych fled more than a week ago in the wake of protests in Kiev&amp;apost;s Independence Square, where snipers from nearby rooftops killed scores of people.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;(Olga) can say that it is the same handwriting, the same type of bullets, and it&amp;apost;s really disturbing that now the new coalition that -- they don&amp;apost;t want to investigate what exactly happened.</content>
+        </sentence>
+        <sentence id="7">
+          <content>There is now stronger and stronger understanding that behind snipers, it was not Yanukovych, but it was somebody from the new coalition,&amp;quot; Paet told Ashton.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>She replied: &amp;quot;I think we do want to investigate ... I didn&amp;apost;t pick that up.</content>
+        </sentence>
+        <sentence id="9">
+          <content>That&amp;apost;s interesting.</content>
+        </sentence>
+        <sentence id="10">
+          <content>Gosh.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>Paet&amp;apost;s office released a statement Wednesday that confirmed the authenticity of the recording.</content>
+        </sentence>
+        <sentence id="12">
+          <content>It said the call took place on February 26.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>&amp;quot;Foreign Minister Paet was giving an overview of what he had heard the previous day in Kiev and expressed concern over the situation on the ground.</content>
+        </sentence>
+        <sentence id="14">
+          <content>We reject the claim that Paet was giving an assessment of the opposition&amp;apost;s involvement in the violence,&amp;quot; the statement read.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="15">
+          <content>&amp;quot;It is extremely regrettable that phone calls are being intercepted,&amp;quot; said Paet in the same statement.</content>
+        </sentence>
+        <sentence id="16">
+          <content>&amp;quot;The fact that this phone call has been leaked is not a coincidence.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="17">
+          <content>Ashton&amp;apost;s office declined to comment on the conversation, saying she does not discuss leaks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="18">
+          <content>CNN could not immediately reach the Ukrainian government for comment, nor could it confirm the identity of &amp;quot;Olga.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="19">
+          <content>Russia&amp;apost;s state-news agency RIA-Novosti said she was Olga Bogomolets, chief coordinator of medical aid at the main protest camp in Independence Square.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="20">
+          <content>CNN has previously talked to Bogomolets.</content>
+        </sentence>
+        <sentence id="21">
+          <content>She volunteered last month to treat protesters and accused forces of shooting to kill, saying she had treated 13 people she believed had been targeted by &amp;quot;professional snipers.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;They were shot directly to their hearts, their brain and to their neck,&amp;quot; she said.</content>
+        </sentence>
+        <sentence id="23">
+          <content>&amp;quot;They didn&amp;apost;t give any chance to doctors, for us, to save lives.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="24">
+          <content>The recording is the second such recent leak on Ukraine.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="25">
+          <content>Early last month, a leaked audio recording of a phone call allegedly caught a U.S. diplomat to Europe using profanity to express strong frustrations with inaction and indecision by the European Union in resolving the crisis.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="26">
+          <content>In the conversation, voices closely resembling those of Assistant Secretary for European Affairs Victoria Nuland and U.S. Ambassador to Ukraine Geoffrey Pyatt discuss a plan to broker a deal between the Ukrainian government and the opposition.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="27">
+          <content>At one point the woman, who sounds like Nuland, can be heard saying &amp;quot;f**k the EU.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="28">
+          <content>The call could not be independently verified, and it was not clear when and where it was recorded.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

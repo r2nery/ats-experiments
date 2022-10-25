@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2996" link="http://edition.cnn.com/2012/01/21/world/meast/yemen-saleh-immunity/index.html" date_published="2012-01-21 10:20:34" category="world" author="Hakim Almasmari, For CNN" highlights_mapped="true" mapping_error="false">
+  <title>Yemeni President Saleh granted immunity</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="17">NEW: Protests take place in 13 provinces Saturday, an organizing committee says.</sentence>
+      <sentence id="2" ids_article_sentences="19">Demonstrator: Saleh &amp;quot;killed many, and now the opposition wants to forgive him&amp;quot; .</sentence>
+      <sentence id="3" ids_article_sentences="3">Ali Abdullah Saleh will step down from power in exchange for immunity .</sentence>
+      <sentence id="4" ids_article_sentences="7">Yemen&amp;apost;s parliament also accepts Vice President Hadi&amp;apost;s presidential nomination .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-09 14:39:11" annotation_time="5.063">
+      <sentence id="3" ids_highlights="3">In return, Saleh will step down from power in Yemen next month after ruling the country for more than 33 years.</sentence>
+      <sentence id="7" ids_highlights="4">During the same session, the parliament also accepted Vice President Abdurabu Hadi&amp;apost;s nomination for presidency.</sentence>
+      <sentence id="17" ids_highlights="1">Protests took place in 13 provinces across Yemen, according to the Revolution Youth Organizing Committee.</sentence>
+      <sentence id="19" ids_highlights="2">&amp;quot;He killed many, and now the opposition wants to forgive him,&amp;quot; said Salma al-Nusari, a youth activist in Sanaa.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Yemen&amp;apost;s parliament approved a controversial law Saturday that ensures President Ali Abdullah Saleh complete immunity from prosecution.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The law was delayed for weeks as Saleh insisted on specific changes guaranteeing his aides partial protection from legal actions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>In return, Saleh will step down from power in Yemen next month after ruling the country for more than 33 years.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>Yemeni Information Minister Ali al-Amrani said the law was the best option for the country and that people can now look forward for change and development.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>&amp;quot;The law was a pivotal point of debate, and now we are looking forward to February 21 (when) a president would lead the country,&amp;quot; al-Amrani said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;Many changes took place in the law to make it accepted by all factions, but in the end, the efforts were worth it,&amp;quot; he added.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>During the same session, the parliament also accepted Vice President Abdurabu Hadi&amp;apost;s nomination for presidency.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="8">
+          <content>The vice president&amp;apost;s office hailed the move and called it a success after long negotiations over the past week.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="9">
+          <content>The immunity law was always linked with parliament accepting Hadi&amp;apost;s nomination for president.</content>
+        </sentence>
+        <sentence id="10">
+          <content>Saleh supporters refuse to pass Hadi&amp;apost;s nomination until the immunity law passed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="11">
+          <content>The immunity law was a key element in a Gulf Cooperation Council power transfer deal.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="12">
+          <content>Since the president signed the power transfer deal in November, tens of thousands of young activists have marched in provinces across Yemen.</content>
+        </sentence>
+        <sentence id="13">
+          <content>They have vowed to have Saleh tried for the deaths of hundreds of unarmed protesters.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="14">
+          <content>The United Nations&amp;apost; envoy to Yemen, Jamal Benomar, arrived in the country last week to ease the tension after fears grew that the deal would collapse.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="15">
+          <content>Though the deal was hailed by opposition parties in Yemen, youth protesters and international rights groups called the immunity a violation of international law.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="16">
+          <content>Youth protesters continued marching on Saturday, rejecting any immunity for Saleh or those who served under him over the last three decades.</content>
+        </sentence>
+        <sentence id="17">
+          <content>Protests took place in 13 provinces across Yemen, according to the Revolution Youth Organizing Committee.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="18">
+          <content>The largest protests took place in Sanaa, where many continued pushing for Saleh&amp;apost;s prosecution.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;He killed many, and now the opposition wants to forgive him,&amp;quot; said Salma al-Nusari, a youth activist in Sanaa.</content>
+        </sentence>
+        <sentence id="20">
+          <content>Blood that Saleh spilt will not be forgiven, and we will continue demanding his prosecution until our demands are met.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="21">
+          <content>Presidential elections are expected to take place February 21.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

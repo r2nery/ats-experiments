@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1678" link="http://www.cnn.com/2014/05/14/tech/social-media/elon-musk-tesla-oatmeal/index.html" date_published="2014-05-14 20:35:40" category="tech" author="Elizabeth Landau, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Will Elon Musk fund a Nikola Tesla museum?</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="4">Unsung inventor Nikola Tesla lived from 1856 to 1943.</sentence>
+      <sentence id="2" ids_article_sentences="3">A campaign is underway to turn his former laboratory into a museum.</sentence>
+      <sentence id="3" ids_article_sentences="21">Cartoonist Matthew Inman asked Elon Musk for $8 million donation.</sentence>
+      <sentence id="4" ids_article_sentences="23">Musk tweeted that he is &amp;quot;happy to help&amp;quot;.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-01 16:25:03" annotation_time="34.942665" mapping_time_divergence="8.735666">
+      <sentence id="3" ids_highlights="2">Using his popular web comic, Inman launched an effort to turn Tesla&amp;apost;s former laboratory in Shoreham, New York, into a museum.</sentence>
+      <sentence id="4" ids_highlights="1">Tesla, who lived from 1856 to 1943, developed the basis for AC power, among other ideas and innovations that have shaped our lives.</sentence>
+      <sentence id="21" ids_highlights="3">But what the Tesla Museum would need to open, he said, is another jolt of $8 million.</sentence>
+      <sentence id="23" ids_highlights="4">To the delight of many Twitter users, Musk tweeted back: &amp;quot;@Oatmeal I would be happy to help.&amp;quot;</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Inventor Nikola Tesla may have died alone and broke, but he has powerful friends who want to preserve his legacy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Cartoonist Matthew Inman, the brain behind &amp;quot;The Oatmeal,&amp;quot; is one.</content>
+        </sentence>
+        <sentence id="3">
+          <content>Using his popular web comic, Inman launched an effort to turn Tesla&amp;apost;s former laboratory in Shoreham, New York, into a museum.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Tesla, who lived from 1856 to 1943, developed the basis for AC power, among other ideas and innovations that have shaped our lives.</content>
+        </sentence>
+        <sentence id="5">
+          <content>He obtained more than 100 patents, according to the Tesla Memorial Society of New York.</content>
+        </sentence>
+        <sentence id="6">
+          <content>Inman partnered with the Tesla Science Center at Wardenclyffe, a nonprofit group, to generate widespread interest in a museum.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>The cartoonist sang the inventor&amp;apost;s praises in a humorous, profane comic hailing Tesla as superior to the better-known Thomas Edison (&amp;quot;Basically, Tesla = Nicest.</content>
+        </sentence>
+        <sentence id="8">
+          <content>Inventor.</content>
+        </sentence>
+        <sentence id="9">
+          <content>EVER,&amp;quot; Inman wrote).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="10">
+          <content>Through the crowdfunding website Indiegogo, the nonprofit and Inman stirred up more than $1.3 million in 2012, when the facility and land were put up for sale.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="11">
+          <content>That was enough money to save the property, but not quite what was needed to renovate it for an actual museum.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>So this week Inman turned to a man who has become a household name in his own right: Elon Musk, CEO of SpaceX and Tesla Motors, which is named for the inventor.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>Inman published an Oatmeal comic called &amp;quot;What it&amp;apost;s like to own a Tesla Model S,&amp;quot; bursting with enthusiasm about owning the electric car, and then appealed to Musk in a second installment.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;Elon Musk, if you&amp;apost;re reading this: You owe us nothing, and you&amp;apost;ve done nothing but good things in the name of Nikola Tesla,&amp;quot; Inman wrote in his endearing handwriting-esque typeface.</content>
+        </sentence>
+        <sentence id="15">
+          <content>&amp;quot;But the fact remains: Tesla Motors, a company now worth billions, is using Nikola Tesla&amp;apost;s name and they&amp;apost;re using his technology, and all we want in return is a little bit of help.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="16">
+          <content>Inman wrote that automobiles have AC induction motors and bear the Tesla name, despite the fact that no one from Nikola Tesla&amp;apost;s family was involved in founding the car company.</content>
+        </sentence>
+        <sentence id="17">
+          <content>According to the Tesla Memorial Society of New York, Nikola Tesla invented the AC induction motor, which he sold to Westinghouse in 1888.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;But the idea of a car company using someone else&amp;apost;s family name without any formal connection to them is a slightly arresting notion,&amp;quot; Inman wrote.</content>
+        </sentence>
+        <sentence id="19">
+          <content>&amp;quot;It would be like naming a company &amp;apost;Steve Jobs Hoverbikes&amp;apost; 50 years from now, regardless of any ties to Apple or Jobs himself.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="20">
+          <content>During the initial fundraiser for the museum, Musk donated $2,500, Inman wrote.</content>
+        </sentence>
+        <sentence id="21">
+          <content>But what the Tesla Museum would need to open, he said, is another jolt of $8 million.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="22">
+          <content>Inman tweeted Tuesday &amp;quot;@elonmusk I wrote a review of my Model S, and then asked you for a little favor here [link].&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="23">
+          <content>To the delight of many Twitter users, Musk tweeted back: &amp;quot;@Oatmeal I would be happy to help.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="24">
+          <content>Of course, we don&amp;apost;t know if &amp;quot;help&amp;quot; means the full $8 million or much less.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="25">
+          <content>Musk&amp;apost;s Tesla Motors declined to say how much Musk would donate.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="26">
+          <content>But for fans of Tesla&amp;apost;s work and legacy, the possibility is electrifying.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

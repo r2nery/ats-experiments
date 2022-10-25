@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="83" link="http://edition.cnn.com/2013/08/07/business/kenyan-airport-fire-disrupts-billion-dollar-transport-hub/index.html" date_published="2013-08-07 16:53:42" category="business" author="John Defterios, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Kenyan airport fire disrupts billion dollar transport hub</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="10">Kenya is East Africa&amp;apost;s largest economy and has made a big push to carve out its space in the global market.</sentence>
+      <sentence id="2" ids_article_sentences="11">Tea, horticulture and tourism all bring in about $1 billion in revenue to the Kenyan economy each year .</sentence>
+      <sentence id="3" ids_article_sentences="6">Kenyan authorities are working to normalize operations as quickly as possible with a sizable effort.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-01 15:37:38" annotation_time="25.711668" mapping_time_divergence="8.570556">
+      <sentence id="6" ids_highlights="3">Kenyan authorities are working to normalize operations as quickly as possible, with a sizable effort to shift international traffic into the domestic terminal so flights from outside Africa can re-start Thursday.</sentence>
+      <sentence id="10" ids_highlights="1">Kenya is East Africa&amp;apost;s largest economy and has made a big push to carve out its space in the global market.</sentence>
+      <sentence id="11" ids_highlights="2">Tea, horticulture and tourism all bring in about $1 billion in revenue each year.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Whether it is Nairobi, Dubai or London, a major airport is the heart to an economy -- especially one dependent on exports and tourism.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Kenya is dependent on both, after it worked over the last decade to become, in particular, a major tea and flower exporter.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>A third of all flowers in Europe come from Kenya, with a special emphasis on rose production.</content>
+        </sentence>
+        <sentence id="4">
+          <content>And nearly everyone has come across Kenyan green beans, whether you live in Europe, the Middle East or Asia.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Jomo Kenyatta is the busiest airport in East Africa and the fourth busiest in sub-Sahara Africa, with six and a half million passengers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>Kenyan authorities are working to normalize operations as quickly as possible, with a sizable effort to shift international traffic into the domestic terminal so flights from outside Africa can re-start Thursday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>Jane Ngige, CEO of the Kenya Flower Council, told CNN this is the low season for flower exports, and therefore there is not a warehousing overflow yet.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>She has advised growers to hold back the cutting of their products until there is clarity at Kenyatta airport.</content>
+        </sentence>
+        <sentence id="9">
+          <content>The other two airports -- Mombassa on the East coast and Kisumu in the West -- don&amp;apost;t have the refrigeration capacity to manage Kenya&amp;apost;s export requirements, she told CNN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>Kenya is East Africa&amp;apost;s largest economy and has made a big push to carve out its space in the global market.</content>
+        </sentence>
+        <sentence id="11">
+          <content>Tea, horticulture and tourism all bring in about $1 billion in revenue each year.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>Tour operators have been dealing with a whole series of setbacks to the country&amp;apost;s image.</content>
+        </sentence>
+        <sentence id="13">
+          <content>Al-Shabaab militants have crossed over the border into Kenya from Somalia and Nairobi has tried to take a tough line in its counter-terror efforts.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>The lead-up to the presidential election provided its own element of uncertainty and violence, not entirely unusual on the continent.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="15">
+          <content>A major fire at an airport hub creates its own is a logistical nightmare, but this leads to the question whether there was any link to the U.S. embassy bombing which took place 15 years ago to the day.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="16">
+          <content>The mere sight of these pictures may make those with bookings think twice, ahead of the prime season for safaris in world renowned locations such as the Massai Mara National Game Reserve.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="17">
+          <content>The Kenyan Tourism Board says the country attracted 1.78 million visitors last year, with revenues of just over $1 billion, but the ambitious target to three million may need to be re-worked depending on how long the rebuilding of the terminal takes and what a follow up investigation uncovers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="18">
+          <content>President Uhuru Kenyatta will need to move swiftly to allay fears of on-going disruption to tourism or commerce.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="19">
+          <content>The major Gulf carriers have not hesitated to blaze new trails into East Africa using Jomo Kenyatta as their hub.</content>
+        </sentence>
+        <sentence id="20">
+          <content>Emirates, Etihad and Qatar Airways are all running daily flights, trying to tap not only the tourism market but to forge new trade ties into one of the fastest growing regions of the world.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="21">
+          <content>In statement, Dubai&amp;apost;s carrier said, &amp;quot;Emirates is closely monitoring the situation and regrets the inconvenience caused to customers.&amp;quot;</content>
+        </sentence>
+        <sentence id="22">
+          <content>It has suspended its flights until further notice.</content>
+        </sentence>
+        <sentence id="23">
+          <content>Etihad is hoping to fly Thursday with a larger plane to accommodate those stranded on Wednesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

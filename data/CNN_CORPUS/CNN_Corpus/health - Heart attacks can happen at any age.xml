@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="268" link="http://www.cnn.com/2012/09/07/health/young-heart-attacks/index.html" date_published="2012-09-07 14:40:31" category="health" author="Elizabeth Landau, CNN" highlights_mapped="false" mapping_error="false">
+  <title>Heart attacks can happen at any age</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="19">Heart attack risk goes up in men over 45 and women over 55.</sentence>
+      <sentence id="2" ids_article_sentences="17">It can happen even earlier: Sage Stallone died at age 36.</sentence>
+      <sentence id="3" ids_article_sentences="20">Maintaining good blood pressure and normal weight can help reduce risk.</sentence>
+    </highlights>
+    <gold_standard annotation_time="38.25">
+      <sentence id="17" ids_highlights="2">Sage Stallone, son of actor Sylvester Stallone, died of atherosclerosis, a condition that brought on a heart attack, according to the Los Angeles County coroner.</sentence>
+      <sentence id="19" ids_highlights="1">Heart attack risk goes up in men older than 45 and women older than 55, but it can happen even earlier.</sentence>
+      <sentence id="20" ids_highlights="3">While lifestyle modifications help reduce risk -- eating a healthy diet, maintaining good blood pressure and normal weight, not smoking -- sometimes it&amp;apost;s not enough.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Ernie Bender was lean and athletic; he skied and walked a lot, and would go snowshoeing every Wednesday with his friends.</content>
+        </sentence>
+        <sentence id="2">
+          <content>A golf course superintendent, he lived in Vail, Colorado, with his wife and three sons.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>One evening in 2000, he and his buddies decided to snowshoe up Vail Mountain and ride the gondola down.</content>
+        </sentence>
+        <sentence id="4">
+          <content>Bender complained of indigestion on the way up, which was odd because his last meal had been lunch.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>He told his friends he needed to sit down before getting on the gondola.</content>
+        </sentence>
+        <sentence id="6">
+          <content>After the group got in the cable car, he lost consciousness.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>Bender was not a smoker and only drank a glass of wine every now and then.</content>
+        </sentence>
+        <sentence id="8">
+          <content>His blood pressure was always fine.</content>
+        </sentence>
+        <sentence id="9">
+          <content>His physician had told him that his cholesterol was fine, too, but that he might need to watch it, his wife, Kim Tofferi, remembers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="10">
+          <content>But despite appearing healthy, Bender died of a heart attack at age 47.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;We did not see that coming at all,&amp;quot; Tofferi said.</content>
+        </sentence>
+        <sentence id="12">
+          <content>&amp;quot;That was a tough one -- just when Dad was starting to become a good male role model for (their sons).&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="13">
+          <content>Heart attacks may seem like a senior citizen phenomenon, considering that about 82% of people who die of coronary heart disease are at least 65, according to the American Heart Association.</content>
+        </sentence>
+        <sentence id="14">
+          <content>But sudden heart problems can occur much earlier in life, too.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="15">
+          <content>&amp;quot;The Sopranos&amp;quot; actor James Gandolfini, 51, died in Rome Wednesday of an apparent heart attack.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="16">
+          <content>Actor Michael Clarke Duncan died in September at age 54, having never recovered from the heart attack he suffered on July 13.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="17">
+          <content>Sage Stallone, son of actor Sylvester Stallone, died of atherosclerosis, a condition that brought on a heart attack, according to the Los Angeles County coroner.</content>
+        </sentence>
+        <sentence id="18">
+          <content>He was 36.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="19">
+          <content>Heart attack risk goes up in men older than 45 and women older than 55, but it can happen even earlier.</content>
+        </sentence>
+        <sentence id="20">
+          <content>While lifestyle modifications help reduce risk -- eating a healthy diet, maintaining good blood pressure and normal weight, not smoking -- sometimes it&amp;apost;s not enough.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="21">
+          <content>Family history is a big risk factor that can&amp;apost;t be changed.</content>
+        </sentence>
+        <sentence id="22">
+          <content>Bender&amp;apost;s father had a triple bypass surgery more than a year before Bender&amp;apost;s death, Tofferi said.</content>
+        </sentence>
+        <sentence id="23">
+          <content>And men are more likely to have heart attacks than women.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="24">
+          <content>What causes a heart attack?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="25">
+          <content>A heart attack happens when the blood that flows to a section of heart muscle gets blocked.</content>
+        </sentence>
+        <sentence id="26">
+          <content>That section of heart muscle begins to die without a quick restoration of blood flow, according to the National Institutes of Health.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="27">
+          <content>Heart attacks are often the result of coronary artery disease, which occurs when a waxy substance called plaque builds up in the coronary artery.</content>
+        </sentence>
+        <sentence id="28">
+          <content>An autopsy revealed that Bender had severe blockage, Tofferi said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="29">
+          <content>The location in the artery involved plays a role, said Alan Ackermann, a cardiologist in Miami.</content>
+        </sentence>
+        <sentence id="30">
+          <content>If there&amp;apost;s a huge clot producing such extensive damage that the heart stops beating, it could only take a matter of minutes to be fatal.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="31">
+          <content>Heart attacks in the United States are uncommon among people younger than 55, but the numbers could rise because obesity is a growing problem, said Dr. Lee Goldman, Hatch Professor and dean of the faculties of health sciences and medicine at Columbia University Medical Center.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="32">
+          <content>Being overweight leads to Type II diabetes and increases in blood pressure and bad cholesterol.</content>
+        </sentence>
+        <sentence id="33">
+          <content>Heavy smoking is also a strong risk factor for heart attacks.</content>
+        </sentence>
+        <sentence id="34">
+          <content>Refraining from smoking and not becoming obese are key for avoiding heart attacks, he said.</content>
+        </sentence>
+        <sentence id="35">
+          <content>If you are obese, make sure your cholesterol and blood pressure are under control.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="36">
+          <content>&amp;quot;There&amp;apost;s no better prevention than addressing the reversible risk factors,&amp;quot; Goldman said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="37">
+          <content>When a person who&amp;apost;s especially young dies of heart problems, such as in their thirties or younger, something other than blockage to the heart may be at work, Ackermann said.</content>
+        </sentence>
+        <sentence id="38">
+          <content>The heart could be enlarged or thickened, or there may be a congenital abnormality that would predispose the person to die suddenly.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="39">
+          <content>Because younger people don&amp;apost;t believe they&amp;apost;re at risk of heart attacks, they might not get themselves to a hospital right away when experiencing warning signs.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="40">
+          <content>Who will get a heart attack is still somewhat mysterious.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="41">
+          <content>There&amp;apost;s still a long way to go in terms of determining who is most at risk of a heart attack, he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="42">
+          <content>&amp;quot;More often than not, the first symptom of heart disease could be heart attack,&amp;quot; Ackermann said.</content>
+        </sentence>
+        <sentence id="43">
+          <content>&amp;quot;That is a huge gap in the profession that we&amp;apost;re still dealing with.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="44">
+          <content>A recent study showed that a test called a coronary calcium scan can be effective in predicting cardiovascular risk.</content>
+        </sentence>
+        <sentence id="45">
+          <content>This scan identifies specks of calcium in the arterial walls, which are an early sign of plaque buildup.</content>
+        </sentence>
+        <sentence id="46">
+          <content>It&amp;apost;s relatively cheap -- about $200 -- but does involve some radiation exposure.</content>
+        </sentence>
+        <sentence id="47">
+          <content>Ackermann recommends it for women as young as 50, and for men 45 and older.</content>
+        </sentence>
+        <sentence id="48">
+          <content>But if you have a strong family history of premature heart disease, it may be best to start even earlier in the forties.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="49">
+          <content>One of Ackermann&amp;apost;s patients, Osvaldo Gomez, had his first heart attack at age 43.</content>
+        </sentence>
+        <sentence id="50">
+          <content>He drove himself to the hospital in 2008 when he started having pain in his chest, back, arm and jaw.</content>
+        </sentence>
+        <sentence id="51">
+          <content>He didn&amp;apost;t know he had heart problems, but his grandparents and two uncles on his mother&amp;apost;s side had cardiovascular disease.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="52">
+          <content>The event was scary, but Gomez didn&amp;apost;t follow his doctor&amp;apost;s recommendations.</content>
+        </sentence>
+        <sentence id="53">
+          <content>His second heart attack was a month later.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="54">
+          <content>&amp;quot;The second time, he was noncompliant with diet and his regimen of smoking,&amp;quot; Ackermann said.</content>
+        </sentence>
+        <sentence id="55">
+          <content>&amp;quot;I wasn&amp;apost;t surprised.</content>
+        </sentence>
+        <sentence id="56">
+          <content>When he was very compliant, he does great.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="57">
+          <content>In the past four years, Gomez has had three stents and four balloon angioplasties.</content>
+        </sentence>
+        <sentence id="58">
+          <content>Stents can improve blood flow and treat narrow or weak arteries.</content>
+        </sentence>
+        <sentence id="59">
+          <content>A balloon angioplasty is a ballooning of the vessel to open it.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="60">
+          <content>&amp;quot;I&amp;apost;ve seen the results of me not taking care of myself,&amp;quot; Gomez said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="61">
+          <content>A more heart-healthy lifestyle.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="62">
+          <content>These days, Gomez is on a low-cholesterol, low-fat diet.</content>
+        </sentence>
+        <sentence id="63">
+          <content>He exercises six times a week, with at least 40 minutes of cardio and 20 to 30 minutes of weight lifting.</content>
+        </sentence>
+        <sentence id="64">
+          <content>He has quit smoking.</content>
+        </sentence>
+        <sentence id="65">
+          <content>Practicing these behaviors &amp;quot;keeps you out of the hospital and keeps you out of trouble,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="66">
+          <content>Tofferi, whose husband died after snowshoeing in 2008, watches out for trans fats and has warned her three sons about heart risks.</content>
+        </sentence>
+        <sentence id="67">
+          <content>They are in good shape, she said, and none of them smoke.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="34">
+      <sentences>
+        <sentence id="68">
+          <content>&amp;quot;They know, with Dad having a heart event that early,&amp;quot; she said.</content>
+        </sentence>
+        <sentence id="69">
+          <content>&amp;quot;I hope I&amp;apost;ve impressed them -- or just general health knowledge has impressed them -- with the importance of taking care of yourself.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

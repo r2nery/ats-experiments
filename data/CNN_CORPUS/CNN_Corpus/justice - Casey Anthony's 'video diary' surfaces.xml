@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="478" link="http://www.cnn.com/2012/01/05/justice/florida-casey-anthony-video/index.html" date_published="2012-01-05 19:10:30" category="justice" author="Alan Duke, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Casey Anthony&amp;apost;s &amp;apost;video diary&amp;apost; surfaces</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Anthony&amp;apost;s lawyer: &amp;quot;She did not upload or release this to YouTube&amp;quot;.</sentence>
+      <sentence id="2" ids_article_sentences="3">&amp;quot;Just a little surreal how much things have changed since July,&amp;quot; Anthony says.</sentence>
+      <sentence id="3" ids_article_sentences="11">She never mentions daughter Caylee in the 4-minute video.</sentence>
+      <sentence id="4" ids_article_sentences="6">Anthony is in an undisclosed location while serving a 1-year probation sentence.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-04 17:55:14" annotation_time="174.28633" mapping_time_divergence="43.571583">
+      <sentence id="1" ids_highlights="1">Casey Anthony&amp;apost;s &amp;quot;first video diary,&amp;quot; apparently recorded last October, surfaced on YouTube this week, but her lawyer says she did not put it there.</sentence>
+      <sentence id="3" ids_highlights="2">&amp;quot;Just a little surreal how much things have changed since July and how many things haven&amp;apost;t changed,&amp;quot; she said.</sentence>
+      <sentence id="6" ids_highlights="4">She&amp;apost;s living at an undisclosed location in Florida while she serves a one-year probation sentence for her 2010 conviction on check fraud charges.</sentence>
+      <sentence id="11" ids_highlights="3">Anthony never mentions Caylee in the four-minute black-and-white video, but she does talk about a dog &amp;quot;I&amp;apost;ve adopted and I love.&amp;quot;</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Casey Anthony&amp;apost;s &amp;quot;first video diary,&amp;quot; apparently recorded last October, surfaced on YouTube this week, but her lawyer says she did not put it there.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Anthony, acquitted last summer of murder charges in the death of her 2-year-old daughter, Caylee, but convicted of four counts of lying to authorities investigating the child&amp;apost;s disappearance, appeared optimistic about her future as she talked to a computer.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;Just a little surreal how much things have changed since July and how many things haven&amp;apost;t changed,&amp;quot; she said.</content>
+        </sentence>
+        <sentence id="4">
+          <content>&amp;quot;But the good thing is that things are starting to look up and things are starting to change in a good way.</content>
+        </sentence>
+        <sentence id="5">
+          <content>I just hope they stay, that things stay good and that they only get better.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>She&amp;apost;s living at an undisclosed location in Florida while she serves a one-year probation sentence for her 2010 conviction on check fraud charges.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;Casey has maintained notes and memoirs for her personal counseling,&amp;quot; Anthony attorney Cheney Mason told CNN on Thursday.</content>
+        </sentence>
+        <sentence id="8">
+          <content>&amp;quot;She did not upload or release this to YouTube.</content>
+        </sentence>
+        <sentence id="9">
+          <content>She doesn&amp;apost;t know how the video got on YouTube.</content>
+        </sentence>
+        <sentence id="10">
+          <content>She did not authorize it, and therefore it had to be obtained illegally.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="11">
+          <content>Anthony never mentions Caylee in the four-minute black-and-white video, but she does talk about a dog &amp;quot;I&amp;apost;ve adopted and I love.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>She sat alone, staring at the computer, which she said she&amp;apost;s &amp;quot;just starting to figure out,&amp;quot; as she recorded what she called &amp;quot;my first video diary.&amp;quot;</content>
+        </sentence>
+        <sentence id="13">
+          <content>She promised it would be &amp;quot;the first of many.&amp;quot;</content>
+        </sentence>
+        <sentence id="14">
+          <content>She wore dark-rimmed glasses, and her naturally brunette hair was colored blond.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="15">
+          <content>&amp;quot;I hate being on camera, but I don&amp;apost;t know, I need to conquer that fear at some point, and this is a good start,&amp;quot; she said.</content>
+        </sentence>
+        <sentence id="16">
+          <content>&amp;quot;So, here&amp;apost;s something.</content>
+        </sentence>
+        <sentence id="17">
+          <content>It&amp;apost;s the end of the first but just the beginning.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="18">
+          <content>She paid for the computer, but the camera was a gift, she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;I&amp;apost;m extremely excited, extremely excited that I&amp;apost;ll be able to Skype and obviously keep a video log, take some pictures,&amp;quot; Anthony said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="20">
+          <content>Anthony, 25, spent nearly three years in jail waiting for her murder trial.</content>
+        </sentence>
+        <sentence id="21">
+          <content>She was freed on July 17, 2011.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;It&amp;apost;s been a long time since I&amp;apost;ve been able to call something mine,&amp;quot; she said.</content>
+        </sentence>
+        <sentence id="23">
+          <content>&amp;quot;And now that I have something even, you know, it&amp;apost;s silly saying that I have a computer and a camera and a phone.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="24">
+          <content>She appeared to say the name of the person who gave her a phone, although the audio was edited from the version of the video posted online.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="25">
+          <content>&amp;quot;These are things that are mine that I don&amp;apost;t have to, I don&amp;apost;t know, that I don&amp;apost;t have to give back,&amp;quot; she said.</content>
+        </sentence>
+        <sentence id="26">
+          <content>&amp;quot;It&amp;apost;s kind of nice, finally, being able to say that I have some belongings that are mine, that I&amp;apost;ll be able to take with me after I leave here next year.</content>
+        </sentence>
+        <sentence id="27">
+          <content>It&amp;apost;s kind of funny to think about.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="28">
+          <content>She speculated that she could be freed from her probation conditions, which require her to report weekly and remain in an undisclosed area, as early as February or as late as August.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="29">
+          <content>Anthony said the computer and camera have &amp;quot;been such a blessing in so many ways.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="30">
+          <content>&amp;quot;Now I always have someone to talk to when I&amp;apost;m by myself, so I&amp;apost;m not bothering the poor dog that I&amp;apost;ve adopted and I love, and he&amp;apost;s as much my dog as any of the other pets I&amp;apost;ve ever had,&amp;quot; she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

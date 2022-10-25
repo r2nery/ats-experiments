@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="645" link="http://www.cnn.com/2013/10/24/justice/massachusetts-chism-profile/index.html" date_published="2013-10-24 14:10:59" category="justice" author="Tom Watkins, CNN" highlights_mapped="true" mapping_error="false">
+  <title>To friends of suspect in teacher murder, charge doesn&amp;apost;t add up</title>
+  <keywords>Philip Chism,Danvers, Massachusetts,Colleen Ritzer,Massachusetts teacher killing</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="32">NEW: &amp;quot;He&amp;apost;s 14, he&amp;apost;s growing up still,&amp;quot; Chism&amp;apost;s uncle says.</sentence>
+      <sentence id="2" ids_article_sentences="42">&amp;quot;It doesn&amp;apost;t make any sense,&amp;quot; says classmate Riley Doyle.</sentence>
+      <sentence id="3" ids_article_sentences="14">&amp;quot;He&amp;apost;s a good kid,&amp;quot; says schoolmate.</sentence>
+      <sentence id="4" ids_article_sentences="20">&amp;quot;He just seemed normal,&amp;quot; says a girl in his English class.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-14 15:15:29" annotation_time="42.8615">
+      <sentence id="14" ids_highlights="3">&amp;quot;He&amp;apost;s quiet, just kept to himself -- probably because he&amp;apost;s new to the society but, I mean, he&amp;apost;s a good kid,&amp;quot; said Kyle Cahill, a junior at the school.</sentence>
+      <sentence id="20" ids_highlights="4">Still, she said, he &amp;quot;seemed quiet and reserved, but he just seemed normal.&amp;quot;</sentence>
+      <sentence id="32" ids_highlights="1">He&amp;apost;s 14, he&amp;apost;s growing up still.</sentence>
+      <sentence id="42" ids_highlights="2">&amp;quot;It doesn&amp;apost;t make any sense.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>To friends and relatives of the suspect in the Tuesday killing of a high school math teacher in Danvers, Massachusetts, the arrest of the teen they know is as shocking as the crime itself.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Before he moved to Massachusetts last spring, Philip Chism had impressed the people he knew in Clarksville, Tennessee, where he graduated last spring from Rossview Middle School.</content>
+        </sentence>
+        <sentence id="3">
+          <content>&amp;quot;Great soccer player -- probably the main reason we won the league championship last year,&amp;quot; Jando Herrera told CNN affiliate WZTV about Chism, whom he coached in soccer for two seasons.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>&amp;quot;I&amp;apost;m sure any of his teammates would say the same thing: that he was just the nicest kid on the team, probably.</content>
+        </sentence>
+        <sentence id="5">
+          <content>... It&amp;apost;s completely out of character; it&amp;apost;s not something that I would ever imagine Philip ever, you know, doing or anything like that ... always the most respectful kid that I&amp;apost;ve, you know, had around -- &amp;apost;yes sir, no sir.&amp;apost; &amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>After graduating from middle school, Chism moved from Tennessee to Danvers, where he appeared to provoke little concern among his classmates or others in the town of 26,000 people in a suburb north of Boston.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>Nicole White said she never heard her classmate in history class at Danvers High School discuss their math teacher, 24-year-old Colleen Ritzer.</content>
+        </sentence>
+        <sentence id="8">
+          <content>&amp;quot;He never talked about her,&amp;quot; she said.</content>
+        </sentence>
+        <sentence id="9">
+          <content>&amp;quot;Nothing ever happened.</content>
+        </sentence>
+        <sentence id="10">
+          <content>So it came to a shock to all of us, I think.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="11">
+          <content>White said she saw nothing out of place during her collaboration with Chism on a history assignment.</content>
+        </sentence>
+        <sentence id="12">
+          <content>&amp;quot;He was always a really, really quiet kid, but he was nice,&amp;quot; she told CNN.</content>
+        </sentence>
+        <sentence id="13">
+          <content>&amp;quot;I saw no problems at all.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;He&amp;apost;s quiet, just kept to himself -- probably because he&amp;apost;s new to the society but, I mean, he&amp;apost;s a good kid,&amp;quot; said Kyle Cahill, a junior at the school.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="15">
+          <content>A member of Chism&amp;apost;s English class, Ariana Edwards, said Chism had friends, but chose them carefully.</content>
+        </sentence>
+        <sentence id="16">
+          <content>&amp;quot;He wasn&amp;apost;t, like, too friendly though,&amp;quot; she said.</content>
+        </sentence>
+        <sentence id="17">
+          <content>&amp;quot;He, like, only had certain friends.</content>
+        </sentence>
+        <sentence id="18">
+          <content>He wasn&amp;apost;t, like, outgoing to everyone ... in classes he would only talk to, like, a select few people.</content>
+        </sentence>
+        <sentence id="19">
+          <content>And he was new too, so, like, he didn&amp;apost;t have, like, the, like, amount of friends as everyone else.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="20">
+          <content>Still, she said, he &amp;quot;seemed quiet and reserved, but he just seemed normal.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="21">
+          <content>Chism didn&amp;apost;t drink or do drugs, and he came from a good family, one of his friends said.</content>
+        </sentence>
+        <sentence id="22">
+          <content>He described Chism as a good athlete who was shy at first but eventually warmed up to people, adding that he hadn&amp;apost;t been acting strangely lately.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="23">
+          <content>This friend and others got their first hint that something had gone awry on Tuesday, when Chism didn&amp;apost;t show up for soccer practice.</content>
+        </sentence>
+        <sentence id="24">
+          <content>The team searched for him after seeing texts that he was missing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="25">
+          <content>&amp;quot;We didn&amp;apost;t know whether he was like kidnapped or if he was hurt somewhere, so we went around looking for him because we cared about him,&amp;quot; said a teammate.</content>
+        </sentence>
+        <sentence id="26">
+          <content>&amp;quot;Obviously, he was on the team and we liked him.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="27">
+          <content>As they and police were looking for him -- and after Ritzer was killed -- Chism went to the movies, a source with knowledge of the investigation said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="28">
+          <content>A few hours later, the lanky young man with closely cut hair was charged with murder.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="29">
+          <content>Chism&amp;apost;s uncle, who still lives in Clarksville, told CNN affiliate WKRN in Nashville that something may have provoked his nephew.</content>
+        </sentence>
+        <sentence id="30">
+          <content>&amp;quot;Might could have been upset,&amp;quot; Terrence Chism Blaine said Wednesday.</content>
+        </sentence>
+        <sentence id="31">
+          <content>&amp;quot;You know -- teenagers go through that.</content>
+        </sentence>
+        <sentence id="32">
+          <content>He&amp;apost;s 14, he&amp;apost;s growing up still.</content>
+        </sentence>
+        <sentence id="33">
+          <content>That&amp;apost;s the only thing that I can imagine.</content>
+        </sentence>
+        <sentence id="34">
+          <content>I can&amp;apost;t imagine anything else because he&amp;apost;s like a storybook kid -- a perfect family.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="35">
+          <content>In a telephone interview with CNN, Blaine said the boy&amp;apost;s parents are separated and that the father -- a former military man -- now lives in Florida.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="36">
+          <content>Asked if the suspect had had behavioral issues, he said, &amp;quot;No, I don&amp;apost;t believe so.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="37">
+          <content>&amp;quot;I think it&amp;apost;s insane,&amp;quot; classmate Andre Poland told CNN affiliate WCVB in Boston.</content>
+        </sentence>
+        <sentence id="38">
+          <content>&amp;quot;I&amp;apost;m completely shocked.</content>
+        </sentence>
+        <sentence id="39">
+          <content>I don&amp;apost;t think Philip would be the type of person to do this.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="40">
+          <content>Classmate Riley Doyle said she was searching for answers.</content>
+        </sentence>
+        <sentence id="41">
+          <content>&amp;quot;I just want to know why anyone would do that -- especially to someone who&amp;apost;s such a nice and kind and good-hearted person,&amp;quot; she told CNN.</content>
+        </sentence>
+        <sentence id="42">
+          <content>&amp;quot;It doesn&amp;apost;t make any sense.</content>
+        </sentence>
+        <sentence id="43">
+          <content>Just why?&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="44">
+          <content>Herrera said he was reserving judgment about the former player on his soccer team.</content>
+        </sentence>
+        <sentence id="45">
+          <content>&amp;quot;I want to see what else there is, you know,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="46">
+          <content>&amp;quot;I want the whole story to kind of come out before people really cast a lot of judgment on the kid.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

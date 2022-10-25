@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="342" link="http://www.cnn.com/2014/03/06/health/who-sugar-guidelines" date_published="2014-03-06 20:20:17" category="health" author="Jacque Wilson, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Proposed sugar guidelines: Less than a soda a day</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="15">The World Health Organization proposes new guidelines for sugar consumption.</sentence>
+      <sentence id="2" ids_article_sentences="3">WHO says we should eat less than 5% of our total daily calories from sugars.</sentence>
+      <sentence id="3" ids_article_sentences="10">For an adult with a normal BMI, 5% is around 25 grams of sugar.</sentence>
+      <sentence id="4" ids_article_sentences="9">Of big concern is the role sugars play in causing dental diseases worldwide.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-04 10:24:36" annotation_time="71.283005">
+      <sentence id="3" ids_highlights="2">In draft guidelines proposed this week, WHO is encouraging people to consume less than 5% of their total daily calories from sugars.</sentence>
+      <sentence id="9" ids_highlights="4">Of particular concern, WHO said, is the role sugar plays in causing dental diseases worldwide.</sentence>
+      <sentence id="10" ids_highlights="3">For an adult at a normal body mass index, or BMI, eating 5% would be around 25 grams of sugar -- or six teaspoons.</sentence>
+      <sentence id="15" ids_highlights="1">WHO&amp;apost;s proposed guidelines apply to sugars added to foods by manufacturers, as well as those found naturally in honey, syrups, fruit juices and fruit concentrates.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The World Health Organization wants you to stop eating so much sugar.</content>
+        </sentence>
+        <sentence id="2">
+          <content>Seriously.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>In draft guidelines proposed this week, WHO is encouraging people to consume less than 5% of their total daily calories from sugars.</content>
+        </sentence>
+        <sentence id="4">
+          <content>The organization&amp;apost;s current guidelines, published in 2002, recommend eating less than 10% of your total daily calories from sugars.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>Most Americans still consume much more.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>Our sweet tooth increased 39% between 1950 and 2000, according to the USDA.</content>
+        </sentence>
+        <sentence id="7">
+          <content>The average American now consumes about three pounds of sugar each week.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;There is increasing concern that consumption of free sugars, particularly in the form of sugar-sweetened beverages, may result in ... an increase in total caloric intake, leading to an unhealthy diet, weight gain and increased risk of noncommunicable diseases,&amp;quot; WHO said in a statement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>Of particular concern, WHO said, is the role sugar plays in causing dental diseases worldwide.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>For an adult at a normal body mass index, or BMI, eating 5% would be around 25 grams of sugar -- or six teaspoons.</content>
+        </sentence>
+        <sentence id="11">
+          <content>That&amp;apost;s less than is typically found in a single can of regular soda, which contains about 40 grams of sugar.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>To find the amount of calories from sugar in a product, multiply the grams by 4.</content>
+        </sentence>
+        <sentence id="13">
+          <content>For example, a product containing 15 grams of sugar has 60 calories from sugar per serving, according to the American Heart Association.</content>
+        </sentence>
+        <sentence id="14">
+          <content>If you eat 2,000 calories a day, that&amp;apost;s 3%.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="15">
+          <content>WHO&amp;apost;s proposed guidelines apply to sugars added to foods by manufacturers, as well as those found naturally in honey, syrups, fruit juices and fruit concentrates.</content>
+        </sentence>
+        <sentence id="16">
+          <content>They do not apply to those found in fresh produce.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;Much of the sugars consumed today are &amp;apost;hidden&amp;apost; in processed foods that are not usually seen as sweets,&amp;quot; the WHO website states.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="18">
+          <content>Did you know sugar is often added to your frozen pizza?</content>
+        </sentence>
+        <sentence id="19">
+          <content>How about your bread, soup, yogurt and mayonnaise?</content>
+        </sentence>
+        <sentence id="20">
+          <content>As consumers became more concerned about the amount of fat in their food, manufacturers went out of their way to make low-fat items -- often substituting sugar to preserve the taste.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="21">
+          <content>Choosing foods with fewer added sugars at the grocery story may soon get a little easier.</content>
+        </sentence>
+        <sentence id="22">
+          <content>The Food and Drug Administration has proposed several changes to the nutrition labels you see on packaged foods and beverages.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="23">
+          <content>The proposed labels would also note how much added sugar is in a product.</content>
+        </sentence>
+        <sentence id="24">
+          <content>Right now, it&amp;apost;s hard to know what is naturally occurring sugar and what has been added by the manufacturer.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="25">
+          <content>The WHO guidelines will be open for public comment until March 31.</content>
+        </sentence>
+        <sentence id="26">
+          <content>Then WHO will finalize and publish its recommendations.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

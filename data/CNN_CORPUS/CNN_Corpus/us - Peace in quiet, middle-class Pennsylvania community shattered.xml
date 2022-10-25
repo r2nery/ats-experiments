@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1966" link="http://www.cnn.com/2014/04/09/us/murrysville-pennsylvania-sidebar/index.html?iid=article_sidebar" date_published="2014-04-09 17:19:11" category="us" author="Ray Sanchez, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Peace in quiet, middle-class Pennsylvania community shattered</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="7">Stabbing spree at Pennsylvania high school injures 20 students .</sentence>
+      <sentence id="2" ids_article_sentences="2, 1">Mother of middle school student says &amp;quot;It was total chaos&amp;quot;.</sentence>
+      <sentence id="3" ids_article_sentences="21">Murrysville, with a population of about 20,000, is a quiet residential enclave.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-09 18:37:37" annotation_time="207.62233" mapping_time_divergence="69.20744">
+      <sentence id="1" ids_highlights="2">The peace of mind Paula Fisher sought for herself and her children when she left Pittsburgh nearly two decades ago was shattered outside Franklin Regional Middle School on Wednesday morning.</sentence>
+      <sentence id="2" ids_highlights="2">&amp;quot;It was total chaos,&amp;quot; Fisher said.</sentence>
+      <sentence id="7" ids_highlights="1">The middle school sits across a field from the Pennsylvania high school where a stabbing spree injured 21 people, authorities said.</sentence>
+      <sentence id="21" ids_highlights="3">Murrysville, with a population of about 20,000, is a quiet middle-class enclave roughly 20 miles east of Pittsburgh on U.S. Route 22.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The peace of mind Paula Fisher sought for herself and her children when she left Pittsburgh nearly two decades ago was shattered outside Franklin Regional Middle School on Wednesday morning.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>&amp;quot;It was total chaos,&amp;quot; Fisher said.</content>
+        </sentence>
+        <sentence id="3">
+          <content>&amp;quot;The kids weren&amp;apost;t sure if they were supposed to stay in school or leave.</content>
+        </sentence>
+        <sentence id="4">
+          <content>They weren&amp;apost;t letting anybody in and told us to stay back.</content>
+        </sentence>
+        <sentence id="5">
+          <content>There were ambulances running past us.</content>
+        </sentence>
+        <sentence id="6">
+          <content>I was able to see a lot of the parents that I know who have children in the high school.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="7">
+          <content>The middle school sits across a field from the Pennsylvania high school where a stabbing spree injured 21 people, authorities said.</content>
+        </sentence>
+        <sentence id="8">
+          <content>A suspect, 16-year-old sophomore Alex Hribal, was taken into custody and arraigned Wednesday afternoon on charges of attempted homicide.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="9">
+          <content>Speaking at a news conference Wednesday afternoon, Seefeld said that before authorities arrived assistant principal Sam King was &amp;quot;very admirable&amp;quot; in tackling the suspect and holding him for authorities with the help of another assistant principal, Joan Mellon.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="10">
+          <content>Gov. Tom Corbett told reporters that there were &amp;quot;a number of heroes in this day&amp;quot; and &amp;quot;many of them are students&amp;quot; who stayed behind to help injured classmates.</content>
+        </sentence>
+        <sentence id="11">
+          <content>He said teachers, cafeteria workers, other staff members and school police officer William &amp;quot;Buzz&amp;quot; Yakshe -- who was injured but who handcuffed the suspect -- ensured that others made it out safely.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;This is obviously a very difficult day for this community,&amp;quot; the governor said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="13">
+          <content>Fisher, who has three children in the high school in addition to one in the middle school, was not surprised King was being praised for tackling the suspect.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;He&amp;apost;s just a wonderful man,&amp;quot; she said.</content>
+        </sentence>
+        <sentence id="15">
+          <content>&amp;quot;He would do anything for your child.</content>
+        </sentence>
+        <sentence id="16">
+          <content>He would make sure he would get in touch with you if there were issues.</content>
+        </sentence>
+        <sentence id="17">
+          <content>He was very conscientious of what was happening within the friendships that they had.</content>
+        </sentence>
+        <sentence id="18">
+          <content>Just an all-around great guy.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="19">
+          <content>She added, &amp;quot;He would have done it for a stranger or a student or parent.</content>
+        </sentence>
+        <sentence id="20">
+          <content>But he was all about the kids so I am not surprised at all that he did try to get involved in stopping this.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="21">
+          <content>Murrysville, with a population of about 20,000, is a quiet middle-class enclave roughly 20 miles east of Pittsburgh on U.S. Route 22.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;It was very shocking,&amp;quot; said Fisher, who has lived in Murrysville 19 years.</content>
+        </sentence>
+        <sentence id="23">
+          <content>&amp;quot;We are a tight-knit community.</content>
+        </sentence>
+        <sentence id="24">
+          <content>Everybody knows everybody.</content>
+        </sentence>
+        <sentence id="25">
+          <content>Even the doctor attending at the closest hospital is a neighbor of ours.</content>
+        </sentence>
+        <sentence id="26">
+          <content>Dr. (Mark) Rubino, he knows these children.</content>
+        </sentence>
+        <sentence id="27">
+          <content>Watching him, it touches home.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="28">
+          <content>As she spoke on the phone to CNN, she said Rubino, chief medical officer at Forbes Regional Hospital in nearby Monroeville, was live on the television news, talking about the victims and stressing &amp;quot;the critical nature of their injuries.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="29">
+          <content>&amp;quot;We are so small compared to other communities,&amp;quot; Fisher said.</content>
+        </sentence>
+        <sentence id="30">
+          <content>&amp;quot;We know each other.</content>
+        </sentence>
+        <sentence id="31">
+          <content>For myself, coming from the city of Pittsburgh, I came out here purposely to raise my children in a school district that we felt was safe as well as academically sound.</content>
+        </sentence>
+        <sentence id="32">
+          <content>It&amp;apost;s a lot to take in right now.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="33">
+          <content>At Dick&amp;apost;s Diner in Murrysville, Deanna Tevelonis, a 1990 graduate of Franklin Regional Senior High School, said some parents were having breakfast after dropping off their children at school.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="34">
+          <content>&amp;quot;They just kind of hung out until they got a hold of their children and made sure they were OK,&amp;quot; she said.</content>
+        </sentence>
+        <sentence id="35">
+          <content>&amp;quot;They had instructions not to go to the school.</content>
+        </sentence>
+        <sentence id="36">
+          <content>You could see the tension on their faces as they waited.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="37">
+          <content>A message on the Franklin Regional School District&amp;apost;s website said all of its elementary schools were closed after the incident, and &amp;quot;the middle school and high school students are secure.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="38">
+          <content>Franklin Regional Senior High will be closed &amp;quot;over the next several days,&amp;quot; district Superintendent Gennaro Piraino said.</content>
+        </sentence>
+        <sentence id="39">
+          <content>The district&amp;apost;s middle school and elementary schools will be open Thursday, and counseling will be available for the whole district, he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="40">
+          <content>Fisher said she was running late getting her 13-year-old daughter to the middle school Wednesday morning.</content>
+        </sentence>
+        <sentence id="41">
+          <content>By the time they arrived, they had heard about the stabbings on the news.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="42">
+          <content>&amp;quot;She didn&amp;apost;t believe it,&amp;quot; Fisher said of her daughter.</content>
+        </sentence>
+        <sentence id="43">
+          <content>&amp;quot;She wanted to get down there as soon as possible.</content>
+        </sentence>
+        <sentence id="44">
+          <content>Once we got there, not knowing if her friends were OK, she started getting emotional.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="45">
+          <content>Three of Fisher&amp;apost;s four children attended Franklin Regional Senior High School, she said.</content>
+        </sentence>
+        <sentence id="46">
+          <content>One of her daughters graduated last year and is now a freshman at Kent State.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="47">
+          <content>&amp;quot;You see stuff like this all the time on the news, but you don&amp;apost;t know the people,&amp;quot; she said.</content>
+        </sentence>
+        <sentence id="48">
+          <content>&amp;quot;Here, we know quite a few of the families of the injured students.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="49">
+          <content>At the Murrysville Spa, Roseann Markoff cried when she heard about what happened at the school attended by her nephews and nieces.</content>
+        </sentence>
+        <sentence id="50">
+          <content>She said she later learned that they were fine.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="51">
+          <content>&amp;quot;It&amp;apost;s heartbreaking,&amp;quot; she said.</content>
+        </sentence>
+        <sentence id="52">
+          <content>&amp;quot;It&amp;apost;s a nice community.</content>
+        </sentence>
+        <sentence id="53">
+          <content>The people are very friendly and hard-working.</content>
+        </sentence>
+        <sentence id="54">
+          <content>It&amp;apost;s so sad for everyone involved.</content>
+        </sentence>
+        <sentence id="55">
+          <content>Something has been taken away forever in your safe community.</content>
+        </sentence>
+        <sentence id="56">
+          <content>You see these kids, and you know they&amp;apost;re hurt and they&amp;apost;ll probably have lifelong pain from this.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

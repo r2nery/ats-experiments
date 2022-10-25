@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="994" link="http://www.cnn.com/2013/11/19/politics/health-care-website-bypass" date_published="2013-11-19 21:43:50" category="politics" author="Adam Aigner-Treworgy, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Blocked out at www.HealthCare.gov? Feds say bypass on way soon</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="7">Federal spokeswoman: You&amp;apost;ll be able to go directly to insurance companies, private exchanges.</sentence>
+      <sentence id="2" ids_article_sentences="3">&amp;quot;Majority of high-priority fixes for direct enrollment to work have been addressed&amp;quot;.</sentence>
+      <sentence id="3" ids_article_sentences="6">Insurance companies and other issuers will need to test the technical fixes &amp;quot;in coming days&amp;quot;.</sentence>
+      <sentence id="4" ids_article_sentences="1">The fix targets people who need to determine their eligibility for tax subsidies.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-25 09:38:29" annotation_time="46.96167">
+      <sentence id="1" ids_highlights="4">Washington Americans frustrated by attempts to purchase health insurance on www.HealthCare.gov will soon be able to determine their eligibility for tax subsidies and purchase insurance directly from insurance companies and private exchanges, a government spokeswoman announced Tuesday.</sentence>
+      <sentence id="3" ids_highlights="2">&amp;quot;With the fixes that we&amp;apost;ve put in place as of this morning, we do believe that the majority of those high-priority fixes for direct enrollment to work have been addressed,&amp;quot; Bataille said.</sentence>
+      <sentence id="6" ids_highlights="3">Battaille added that she expects insurance companies and other issuers will need to test the government&amp;apost;s technical fixes within their own systems and then begin using the direct-enrollment process &amp;quot;in the coming days.&amp;quot;</sentence>
+      <sentence id="7" ids_highlights="1">If it&amp;apost;s functioning properly, customers should be able to go directly to an insurance company&amp;apost;s website to learn about plan offerings.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Washington Americans frustrated by attempts to purchase health insurance on www.HealthCare.gov will soon be able to determine their eligibility for tax subsidies and purchase insurance directly from insurance companies and private exchanges, a government spokeswoman announced Tuesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Julie Bataille of the Centers for Medicare and Medicaid Services, the agency that oversees the government&amp;apost;s online insurance exchange, told reporters on a conference call that as of Tuesday morning, the process called &amp;quot;direct enrollment&amp;quot; should be functioning.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;With the fixes that we&amp;apost;ve put in place as of this morning, we do believe that the majority of those high-priority fixes for direct enrollment to work have been addressed,&amp;quot; Bataille said.</content>
+        </sentence>
+        <sentence id="4">
+          <content>&amp;quot;We continue to work with issuers and work through some additional issues.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Customers not eligible for tax subsidies have been able to use direct enrollment since October 1, but the fixes put in place Tuesday expand the process to all customers seeking insurance on the individual market.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>Battaille added that she expects insurance companies and other issuers will need to test the government&amp;apost;s technical fixes within their own systems and then begin using the direct-enrollment process &amp;quot;in the coming days.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>If it&amp;apost;s functioning properly, customers should be able to go directly to an insurance company&amp;apost;s website to learn about plan offerings.</content>
+        </sentence>
+        <sentence id="8">
+          <content>They would then be referred to Healthcare.gov to determine their eligibility for a federal tax credit and then directed back to the company site to purchase a plan.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>Direct enrollment can also be used by private insurance exchanges such as eHealth.com and GetInsured.com.</content>
+        </sentence>
+        <sentence id="10">
+          <content>A spokeswoman for GetInsured.com confirmed that the government had alerted her company about the new fixes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;We&amp;apost;ve entered into agreements with more than 30 of those kinds of entities,&amp;quot; Bataille said, adding that CMS has issued guidance over the past several months to these partners regarding how they can interact with the federal marketplace and the fixes put in place Tuesday should address their problems.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;We believe that they are on track to begin their transactions as soon as possible,&amp;quot; she said.</content>
+        </sentence>
+        <sentence id="13">
+          <content>&amp;quot;This is something that obviously they will make a determination about individually as they see how their system is interacting with ours.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>Earlier on Tuesday, CMS Deputy Chief Information Officer Henry Chao told members of the House Energy and Commerce Committee that the federal marketplace was just 70% completed, meaning 30% of the marketplace still needed to be developed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="15">
+          <content>&amp;quot;That 30% represents the payment aspects and the accounting aspects of making payments in the marketplaces, for all marketplaces, not just federally facilitated marketplaces,&amp;quot; Chao said.</content>
+        </sentence>
+        <sentence id="16">
+          <content>&amp;quot;And that functionality has to be in place for the January 1 effective date enrollments.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>Bataille confirmed that the unfinished part of the marketplace included the portion responsible for paying out consumers&amp;apost; tax subsidies directly to insurance companies, but she said that the development of those portions is on track.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;We are on track for this functionality to be available in the time frame that it would be necessary to process those transactions so that people would be able to have their coverage in January,&amp;quot; Bataille said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

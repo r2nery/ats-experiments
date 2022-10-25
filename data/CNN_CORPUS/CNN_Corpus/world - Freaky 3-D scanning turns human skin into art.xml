@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2201" link="http://www.cnn.com/2014/09/18/world/3d-scanning-human-skin-art/index.html" date_published="2014-09-18 09:29:16" category="world" author="Margaret Rhodes, WIRED" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Freaky 3-D scanning turns human skin into art</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="9, 7, 5, 19">A London studio has used 3-D scans to create hyper-realistic images of the human body for a music video.</sentence>
+      <sentence id="2" ids_article_sentences="9">The creators used 94 cameras and panoramic lighting to capture the skin&amp;apost;s microscopic details.</sentence>
+      <sentence id="3" ids_article_sentences="21">The studio aims to incorporate virtual humans into their art in exciting ways .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-02 10:55:07" annotation_time="53.49933" mapping_time_divergence="35.666218">
+      <sentence id="5" ids_highlights="1">It&amp;apost;s a virtual 3-D scan of a human body, in this case, British actor Beryl Nesbitt.</sentence>
+      <sentence id="7" ids_highlights="1">London-based creative studio Marshmallow Laser Feast - great name - made the video for the band (and their friends) Duologue as an deep dive experiment into filmmaking for virtual reality.</sentence>
+      <sentence id="9" ids_highlights="1, 2">But for the Memex video, the creators used 94 cameras, whereas some Hollywood studios have been reported to use seven, to capture Nesbitt&amp;apost;s glowing skin in the most microscopic detail possible.</sentence>
+      <sentence id="19" ids_highlights="1">That said, the Marshmallow Laser Feast team isn&amp;apost;t trying to create a 3-D human scan that will show up in a scripted film or video game.</sentence>
+      <sentence id="21" ids_highlights="3">So their objective is to find a way to loop virtual humans into their artwork.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The most startling thing about the music video for British band Duologue&amp;apost;s song Memex isn&amp;apost;t the ghostly way the slow-panning camera turns human skin into a landscape.</content>
+        </sentence>
+        <sentence id="2">
+          <content>It&amp;apost;s not how the model, actor Beryl Nesbitt, manages not to blink.</content>
+        </sentence>
+        <sentence id="3">
+          <content>And it&amp;apost;s not how at 3:30 in, with just a change in the lighting, the tone of the video abruptly gets dark and sinister.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="4">
+          <content>Rather, the most startling thing about the Memex video is that none of those hyper-realistic shots are photos.</content>
+        </sentence>
+        <sentence id="5">
+          <content>It&amp;apost;s a virtual 3-D scan of a human body, in this case, British actor Beryl Nesbitt.</content>
+        </sentence>
+        <sentence id="6">
+          <content>The knowledge that it&amp;apost;s virtual reality makes watching the video a little like seeing a Chuck Close for the first time: Your eyes initially registered a black-and-white photograph of monolithic scale, and it takes a few beats before you can believe that it&amp;apost;s a painting.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="7">
+          <content>London-based creative studio Marshmallow Laser Feast - great name - made the video for the band (and their friends) Duologue as an deep dive experiment into filmmaking for virtual reality.</content>
+        </sentence>
+        <sentence id="8">
+          <content>Hollywood has been using various kinds of 3-D scanning technology for years - films like Avatar, and The Curious Case of Benjamin Button, relied on it.</content>
+        </sentence>
+        <sentence id="9">
+          <content>But for the Memex video, the creators used 94 cameras, whereas some Hollywood studios have been reported to use seven, to capture Nesbitt&amp;apost;s glowing skin in the most microscopic detail possible.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;We were trying to push the realism of it,&amp;quot; says Barney Steel of Marshmallow Laser Feast.</content>
+        </sentence>
+        <sentence id="11">
+          <content>The team is interested in the combination between photogrammetry - the science of taking 360-degree measurements from photos - and panoramic high dynamic range lighting, which is like photographs of light from all positions and in myriad settings (for example, it could be moon lighting, or desert lighting).</content>
+        </sentence>
+        <sentence id="12">
+          <content>Once they recorded both Nesbitt&amp;apost;s skin and a range of light, they worked with London visual effects studio Analog to merge all that visual data.</content>
+        </sentence>
+        <sentence id="13">
+          <content>The result is a high resolution, immortal, portrait of the actor&amp;apost;s skin.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="14">
+          <content>Of course, the Marshmallow Laser Feast team could have created a similar music video by just filming Nesbitt.</content>
+        </sentence>
+        <sentence id="15">
+          <content>&amp;quot;Our ambition was to create the model at a really high resolution so we could take it to a games engine environment,&amp;quot; Steel says.</content>
+        </sentence>
+        <sentence id="16">
+          <content>&amp;quot;At the moment we&amp;apost;re treating it like a sculpture.</content>
+        </sentence>
+        <sentence id="17">
+          <content>But if you spend enough time you can rig it to be exactly like a face.</content>
+        </sentence>
+        <sentence id="18">
+          <content>The software is out there to animate it like a motion capture.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="19">
+          <content>That said, the Marshmallow Laser Feast team isn&amp;apost;t trying to create a 3-D human scan that will show up in a scripted film or video game.</content>
+        </sentence>
+        <sentence id="20">
+          <content>They create large scale, mind-bending installations out of light and sensors, like Light Forest, which turned an entire room into an instrument of light and green lasers.</content>
+        </sentence>
+        <sentence id="21">
+          <content>So their objective is to find a way to loop virtual humans into their artwork.</content>
+        </sentence>
+        <sentence id="22">
+          <content>&amp;quot;The exciting thing about virtual reality is it can give you a sense of presence that doesn&amp;apost;t exist in other technology - and it feels like we&amp;apost;re on the edge here,&amp;quot; Steel says.</content>
+        </sentence>
+        <sentence id="23">
+          <content>&amp;quot;The limiting factor is how realistic those little bubbles are.</content>
+        </sentence>
+        <sentence id="24">
+          <content>We&amp;apost;re interested in powerful experiences where you&amp;apost;re not bound by any of the restrictions of reality.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="25">
+          <content>Read more from WIRED:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

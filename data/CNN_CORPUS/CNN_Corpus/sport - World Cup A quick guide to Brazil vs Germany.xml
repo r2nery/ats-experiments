@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1546" link="http://edition.cnn.com/2014/07/08/sport/football/world-cup-brazil-germany-preview/index.html" date_published="2014-07-08 06:59:09" category="sport" author="Saeed Ahmed, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>World Cup: A quick guide to Brazil vs. Germany</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="9">Brazil, without Neymar, is the unlikely underdog.</sentence>
+      <sentence id="2" ids_article_sentences="28">If he scores, Klose becomes highest goal scorer in Cup history.</sentence>
+      <sentence id="3" ids_article_sentences="36">Brazil has committed more fouls than any other team.</sentence>
+      <sentence id="4" ids_article_sentences="50">Referee for match is the man who didn&amp;apost;t notice Suarez bite.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-05 00:33:54" annotation_time="54.435333" mapping_time_divergence="13.608833">
+      <sentence id="9" ids_highlights="1">But this time, Brazil is the unlikely underdog facing the very real possibility of being booted from a World Cup in their own front yard.</sentence>
+      <sentence id="28" ids_highlights="2">And if he scores today, he becomes the most prolific goal scorer in World Cup history with 16.</sentence>
+      <sentence id="36" ids_highlights="3">It has committed more fouls than any other team (96) and, according to a Forbes analysis, faked the most injuries.</sentence>
+      <sentence id="50" ids_highlights="4">The man refereeing the match will be Marco Antonio Rodriguez, the same guy who failed to see -- or punish -- Urguay&amp;apost;s Luis Suarez when he chomped down on the shoulder of Italian defender Girgio Chiellini.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>This is where it gets really interesting.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>If your interest in the World Cup died with your ousted team&amp;apost;s dreams, do reconsider.</content>
+        </sentence>
+        <sentence id="3">
+          <content>Because, boy, will you be treated to some fancy footwork today.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Brazil vs. Germany in the semi-finals.</content>
+        </sentence>
+        <sentence id="5">
+          <content>It doesn&amp;apost;t get any more exciting than that.</content>
+        </sentence>
+        <sentence id="6">
+          <content>(Well, until tomorrow, when Argentina takes on the Netherlands.).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>The only time the two nations met at a World Cup was in the finals in 2002.</content>
+        </sentence>
+        <sentence id="8">
+          <content>Brazil won 2-0.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="9">
+          <content>But this time, Brazil is the unlikely underdog facing the very real possibility of being booted from a World Cup in their own front yard.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>Its goal-scoring talisman, Neymar, is out with a fractured vertebra.</content>
+        </sentence>
+        <sentence id="11">
+          <content>And its key defender and captain, Thiago Silva, is out on a second yellow card.</content>
+        </sentence>
+        <sentence id="12">
+          <content>(If you get two, you automatically miss the next game).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="13">
+          <content>The Germans, on the other hand, are on a tear.</content>
+        </sentence>
+        <sentence id="14">
+          <content>They have efficiently decimated their opponents, and they seem to be getting better and better with every match.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="15">
+          <content>Here are 5 things you should know about today&amp;apost;s matchup:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="16">
+          <content>1.</content>
+        </sentence>
+        <sentence id="17">
+          <content>It&amp;apost;s Muller time.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="18">
+          <content>Neymar&amp;apost;s gone.</content>
+        </sentence>
+        <sentence id="19">
+          <content>Portugal&amp;apost;s Ronaldo is gone.</content>
+        </sentence>
+        <sentence id="20">
+          <content>Colombia&amp;apost;s James Rodriguez is gone.</content>
+        </sentence>
+        <sentence id="21">
+          <content>Germany&amp;apost;s Thomas Muller may very well emerge as the best player in this tournament.</content>
+        </sentence>
+        <sentence id="22">
+          <content>With his power and pace, Muller&amp;apost;s scored four goals and helped with two more so far.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="23">
+          <content>Fun fact: Back home, Muller stars in a yoghurt commercial for, what else, Mullermilch.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="24">
+          <content>2.</content>
+        </sentence>
+        <sentence id="25">
+          <content>Getting Klose-r to a record.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="26">
+          <content>Let&amp;apost;s not forget that other German dynamo, Miroslav Klose.</content>
+        </sentence>
+        <sentence id="27">
+          <content>He&amp;apost;s scored at least one goal in the last four World Cup tournaments (only two other players can boast that).</content>
+        </sentence>
+        <sentence id="28">
+          <content>And if he scores today, he becomes the most prolific goal scorer in World Cup history with 16.</content>
+        </sentence>
+        <sentence id="29">
+          <content>He&amp;apost;s tied with Brazil&amp;apost;s Ronaldo at the moment.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="30">
+          <content>Fun fact: Ronaldo scored his 15th goal against Ghana in Germany.</content>
+        </sentence>
+        <sentence id="31">
+          <content>Klose scored his 15th goal against Ghana, in Brazil.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="32">
+          <content>3.</content>
+        </sentence>
+        <sentence id="33">
+          <content>Don&amp;apost;t rule out the one-name wonders.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="34">
+          <content>Brazil has held up the World Cup trophy more times than anyone else (five).</content>
+        </sentence>
+        <sentence id="35">
+          <content>And the ugly, uber-physical game it played against Colombia showed that it will do whatever it takes to get that trophy.</content>
+        </sentence>
+        <sentence id="36">
+          <content>It has committed more fouls than any other team (96) and, according to a Forbes analysis, faked the most injuries.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="37">
+          <content>While Neymar won&amp;apost;t be there, Brazil will have the home crowd acting as its 12th man.</content>
+        </sentence>
+        <sentence id="38">
+          <content>And it still has two formidable attackers in Fred and Hulk (yes, he&amp;apost;s named after the comic book character).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="39">
+          <content>Fun fact: So many Brazilian players go by one name because that&amp;apost;s just the convention in the country.</content>
+        </sentence>
+        <sentence id="40">
+          <content>Even the former President, Luiz Inacio Lula da Silva, was known by his nickname Lula.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="41">
+          <content>4.</content>
+        </sentence>
+        <sentence id="42">
+          <content>Keep an eye on the keepers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="43">
+          <content>Germany&amp;apost;s Manuel Neuer has been unbelievable, charging out of his box to clear ball after ball.</content>
+        </sentence>
+        <sentence id="44">
+          <content>He&amp;apost;s only allowed in 3 goals in 5 matches.</content>
+        </sentence>
+        <sentence id="45">
+          <content>Brazil&amp;apost;s goalie Julio Cesar has yet to concede more than one goal in any game.</content>
+        </sentence>
+        <sentence id="46">
+          <content>Those who say he isn&amp;apost;t the player he once was were silenced when he saved two penalties against Chile and helped Brazil advance.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="47">
+          <content>Fun fact: Neuer won $680,000 in the German version of &amp;quot;Who Wants to be Millionaire?&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="48">
+          <content>5.</content>
+        </sentence>
+        <sentence id="49">
+          <content>A word on the card-carrier.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="50">
+          <content>The man refereeing the match will be Marco Antonio Rodriguez, the same guy who failed to see -- or punish -- Urguay&amp;apost;s Luis Suarez when he chomped down on the shoulder of Italian defender Girgio Chiellini.</content>
+        </sentence>
+        <sentence id="51">
+          <content>Otherwise, Rodriguez came into the tournament as the most card-happy official.</content>
+        </sentence>
+        <sentence id="52">
+          <content>He sent off 51 players in 70 matches.</content>
+        </sentence>
+        <sentence id="53">
+          <content>(At the World Cup, he red-carded Italy&amp;apost;s Claudio Marchisio.).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="54">
+          <content>Fun fact: In Mexico, Rodriguez is known as &amp;quot;Dracula&amp;quot; for his apparent resemblance to the actor who plays the character in a TV show there.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1004" link="http://www.cnn.com/2012/10/03/politics/btn-debates/index.html" date_published="2012-10-03 16:57:52" category="politics" author="Amy Roberts, CNN Library" highlights_mapped="true" mapping_error="false">
+  <title>By the numbers: Presidential and vice presidential debates</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="21">2: Elections in which the TV debates appeared to affect the outcome.</sentence>
+      <sentence id="2" ids_article_sentences="6">12: times Jim Lehrer from PBS has served as the moderator including 2012.</sentence>
+      <sentence id="3" ids_article_sentences="9">3: Election cycles between the first series of televised presidential debates and the second.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-09-22 16:59:36" annotation_time="21.444">
+      <sentence id="6" ids_highlights="2">12: Times Jim Lehrer from PBS has served as the moderator, including 2012.</sentence>
+      <sentence id="9" ids_highlights="3">3: Election cycles in between the first series of televised debates in 1960 to the next series, in 1976.</sentence>
+      <sentence id="21" ids_highlights="1">2: Elections where the outcome appeared to be affected by the televised debates: 1960 and 2000, according analysis by Gallup.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The first of four debates -- three presidential and one vice presidential -- in the final month of the election takes place October 3 in Denver.</content>
+        </sentence>
+        <sentence id="2">
+          <content>While we would love to tell you what will happen, the CNN Crystal Ball is out of order.</content>
+        </sentence>
+        <sentence id="3">
+          <content>Instead, our best guess of what to expect comes from debates past.</content>
+        </sentence>
+        <sentence id="4">
+          <content>Here&amp;apost;s a look back, by the numbers, of the trends and surprises of past debates.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="5">
+          <content>61: Percent of households that watched the third debate between John F. Kennedy and Richard Nixon on October 13, 1960.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="6">
+          <content>12: Times Jim Lehrer from PBS has served as the moderator, including 2012.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>4:  Debates with more than two debaters.</content>
+        </sentence>
+        <sentence id="8">
+          <content>When Ross Perot ran as a third-party Independent candidate in 1992, he and running mate James Stockdale participated in the debates with Bill Clinton and George H. W. Bush, and Al Gore and Dan Quayle.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="9">
+          <content>3: Election cycles in between the first series of televised debates in 1960 to the next series, in 1976.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>59: Percent of likely voters who said in an ORC/CNN poll that they thought President Barack Obama would do a better job in the upcoming debates.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>34: Percent of likely voters who answered that Mitt Romney would do a better job.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>7: Debates between Abraham Lincoln and Stephen A. Douglas, the famous Lincoln-Douglas debates in 1858.</content>
+        </sentence>
+        <sentence id="13">
+          <content>Though Lincoln and Douglas were vying for the U.S. Senate when they held their series of debates in Illinois in 1858, the issues they addressed -- including slavery -- were central to the presidential election two years later, in which both ran and which Lincoln won.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>0: Percent difference in likely voters&amp;apost; answers in the same poll in 2008, when the candidates were Obama and John McCain.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>1: Times a candidate has been told he was &amp;quot;no Jack Kennedy,&amp;quot; as Lloyd Bentsen said to Dan Quayle during the vice presidential debate in 1988.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>4: Number of times a televised presidential debate has been hosted in St. Louis, Missouri -- the most of any city.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>12: Number of times Al Gore audibly sighed during the first debate with George W. Bush, on October 3, 2000.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="18">
+          <content>1: Times President George H. W. Bush visibly checked his watch during the October 15, 1992, debate against Bill Clinton and Ross Perot.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="19">
+          <content>8: Number of female moderators since 1960, including CNN&amp;apost;s Candy Crowley this year, on October 16.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="20">
+          <content>2: Number of female debaters since 1960, vice presidential candidates Geraldine Ferraro in 1984 and Sarah Palin in 2008.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="21">
+          <content>2: Elections where the outcome appeared to be affected by the televised debates: 1960 and 2000, according analysis by Gallup.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

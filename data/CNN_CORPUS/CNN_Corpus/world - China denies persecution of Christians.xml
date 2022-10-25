@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2110" link="http://www.cnn.com/2014/05/01/world/asia/china-church-demolished" date_published="2014-05-01 07:46:43" category="world" author="Zoe Li, CNN" highlights_mapped="true" mapping_error="false">
+  <title>China denies persecution of Christians</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="4">$4.7 million landmark church has been demolished in China.</sentence>
+      <sentence id="2" ids_article_sentences="2">Officials responsible for demolition say church was an illegal structure.</sentence>
+      <sentence id="3" ids_article_sentences="17">Christian rights group says demolition signals an official anti-religious campaign.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-28 14:30:38" annotation_time="17.815">
+      <sentence id="2" ids_highlights="2">Local officials responsible for the demolition say the church was an illegal structure that was four times the permitted structure size.</sentence>
+      <sentence id="4" ids_highlights="1">The Sanjiang Church took 12 years and 30 million yuan ($4.7 million) to build, reports Chinese media.</sentence>
+      <sentence id="17" ids_highlights="3">U.S.-based Christian rights group China Aid says the faithful are worried that the church demolition could be a sign that the government is tightening its grip over the spread of Christianity in China.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>A massive church was razed to the ground this week in Wenzhou, a coastal Chinese city nicknamed the &amp;quot;Jerusalem of the East&amp;quot; for its large Christian population.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Local officials responsible for the demolition say the church was an illegal structure that was four times the permitted structure size.</content>
+        </sentence>
+        <sentence id="3">
+          <content>But Christian groups are concerned that the demolition signals an official campaign against religious organizations.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>The Sanjiang Church took 12 years and 30 million yuan ($4.7 million) to build, reports Chinese media.</content>
+        </sentence>
+        <sentence id="5">
+          <content>Its soaring spires were a symbol of worship in a city that is fifteen percent Christian.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>The church&amp;apost;s demolition on Monday was preceded by a month-long standoff between supporters of the church and local authorities, with supporters occupying the church to protest its destruction.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>The church was originally a government-approved project under the official &amp;quot;Three-Self Patriotic Movement,&amp;quot; a state-sanctioned Protestant church.</content>
+        </sentence>
+        <sentence id="8">
+          <content>Last September it was lauded by the local government as a model engineering project.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>But the official rhetoric has since changed entirely.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>Jin Leibo, a spokesperson from the propaganda department of Yongjia County, where Sanjiang Church was located, told CNN that the church was destroyed as it was &amp;quot;illegal.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;The building area should be within 1,881 square meters, but they built 7,928 square meters illegally,&amp;quot; Jin said.</content>
+        </sentence>
+        <sentence id="12">
+          <content>The church was asked to &amp;quot;self-rectify&amp;quot; by April 22, but workers only managed to tear down 500 square meters by deadline, according to officials.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>By Monday evening the church had been flattened by bulldozers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>Five local government officials are currently under investigation in relation to the illegal construction of the church, according to Jin.</content>
+        </sentence>
+        <sentence id="15">
+          <content>One official was arrested, and another is in custody.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>Representatives of the church could not be reached for comment by CNN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>U.S.-based Christian rights group China Aid says the faithful are worried that the church demolition could be a sign that the government is tightening its grip over the spread of Christianity in China.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="18">
+          <content>The organization claims that churches in different parts of Wenzhou and Hangzhou are currently &amp;quot;facing persecution&amp;quot; as a result of a provincial campaign against religious structures that was set into motion after Zhejiang Party Secretary Xia Baolong visited churches across the province and deemed them &amp;quot;too conspicuous.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="19">
+          <content>Under Communist Party rule since 1949, China is officially an atheist country, but Christianity is growing.</content>
+        </sentence>
+        <sentence id="20">
+          <content>According to the Pew Research Center, China&amp;apost;s Christian population had reached 67 million by 2010, the second largest in Asia.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

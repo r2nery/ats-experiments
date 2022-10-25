@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="874" link="http://www.cnn.com/2013/06/13/opinion/zelizer-bush-legacy/index.html" date_published="2013-06-13 12:43:41" category="opinion" author="Julian Zelizer, CNN Contributor" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Opinion: George W. Bush&amp;apost;s legacy is on the mend</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Julian Zelizer: President George W. Bush is enjoying another bounce in the polls .</sentence>
+      <sentence id="2" ids_article_sentences="7">Zelizer: With a few exceptions, presidential reputations are never fixed in stone.</sentence>
+      <sentence id="3" ids_article_sentences="11">He says one reason is that passions for presidents tend to lessen after they leave office .</sentence>
+      <sentence id="4" ids_article_sentences="5, 21">Zelizer: President Obama has done Bush a favor by continuing some of his policies .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-11 10:40:19" annotation_time="135.295" mapping_time_divergence="67.6475">
+      <sentence id="1" ids_highlights="1">Former President George W. Bush is enjoying another bounce in the post-presidential polls.</sentence>
+      <sentence id="5" ids_highlights="4">This is the nature of presidential legacies.</sentence>
+      <sentence id="7" ids_highlights="2">Presidential reputations are never fixed in stone.</sentence>
+      <sentence id="11" ids_highlights="3">The most obvious reason is that the passions for presidents -- both good and bad -- tend to go down after they leave office.</sentence>
+      <sentence id="21" ids_highlights="4">In some ways, Obama did Bush a favor.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Former President George W. Bush is enjoying another bounce in the post-presidential polls.</content>
+        </sentence>
+        <sentence id="2">
+          <content>First, the opening of his presidential library produced a spate of positive coverage about his time in office.</content>
+        </sentence>
+        <sentence id="3">
+          <content>Now, Gallup has released a survey showing that for the first time since 2005, more people approve than disapprove of Bush.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="4">
+          <content>This kind of shift in public opinion is likely to continue, with more upswings as well as downturns ahead.</content>
+        </sentence>
+        <sentence id="5">
+          <content>This is the nature of presidential legacies.</content>
+        </sentence>
+        <sentence id="6">
+          <content>They are a bit like what Mark Twain once said about the weather in New England: if you don&amp;apost;t like it, just wait a second and it will change.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="7">
+          <content>Presidential reputations are never fixed in stone.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="8">
+          <content>With the exception of a few of our leaders, such as Abraham Lincoln of Franklin Roosevelt, people tend to remember presidents in different ways at different times.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Even some of the more unpopular presidents have seen their support rise in the post-presidency period.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="10">
+          <content>Why is it the case?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="11">
+          <content>The most obvious reason is that the passions for presidents -- both good and bad -- tend to go down after they leave office.</content>
+        </sentence>
+        <sentence id="12">
+          <content>Americans turn their attention to the new boss and to new issues, and the focus of their sentiment shifts elsewhere.</content>
+        </sentence>
+        <sentence id="13">
+          <content>This is particularly true in our heated political times when voters become so polarized on their feelings about a leader -- feelings that can become most intense as we approach the elections.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="14">
+          <content>Another factor has to do with what the successor does in office.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="15">
+          <content>Much of the controversy that surrounded Bush had to do with his national security policies.</content>
+        </sentence>
+        <sentence id="16">
+          <content>The war in Iraq caused a huge controversy with many Americans feeling the president had gone into an unnecessary war based on false evidence.</content>
+        </sentence>
+        <sentence id="17">
+          <content>By the second term, many Americans were also upset with some of the tactics the administration had used to pursue terrorists, such as interrogation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="18">
+          <content>But President Barack Obama, who campaigned as a critic of these policies, ended up leaving many of the programs in place and actually becoming more aggressive on certain fronts, such as the use of drone strikes.</content>
+        </sentence>
+        <sentence id="19">
+          <content>Obama has given these controversial policies a certain bipartisan imprimatur that has dulled the anger that existed toward Bush.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="20">
+          <content>The ways in which a president&amp;apost;s policies unfold over time is also essential.</content>
+        </sentence>
+        <sentence id="21">
+          <content>In some ways, Obama did Bush a favor.</content>
+        </sentence>
+        <sentence id="22">
+          <content>By bringing Iraq and Afghanistan to an end, he took these issues off the public radar.</content>
+        </sentence>
+        <sentence id="23">
+          <content>Without any kind of mass chaos in those countries, as some critics had warned would occur, the issues that caused Bush so much problems faded from the public mind.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="24">
+          <content>The flip side is that some policies look better in perspective.</content>
+        </sentence>
+        <sentence id="25">
+          <content>Although the TARP program still has many critics, the fact that it stabilized the financial markets and ended up not costing the federal government any money makes one of Bush&amp;apost;s most controversial decisions look better in hindsight.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="26">
+          <content>Presidential reputations also can be shaped, in the relative short term, by what a president does after leaving office.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="27">
+          <content>For example, former President Jimmy Carter has been successful in rehabilitating his image through his extensive post-presidential activities on foreign policy.</content>
+        </sentence>
+        <sentence id="28">
+          <content>Former President Bill Clinton has enjoyed strong approval for his work with his international foundation and, among Democrats, through his decision to engage in partisan wars after his time was done.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="29">
+          <content>Bush might have helped himself by staying outside of the media spotlight.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="30">
+          <content>There is a certain amount of good will that emerges as the structural problems with politics become clear.</content>
+        </sentence>
+        <sentence id="31">
+          <content>When a president is in office, they tend to receive all the blame, or credit, for what happens in Washington.</content>
+        </sentence>
+        <sentence id="32">
+          <content>When there are problems moving forward a policy, such as in reviving the economy, the public tends to blame the president.</content>
+        </sentence>
+        <sentence id="33">
+          <content>But when those problems continue long after a president is gone, as has been the case with the economy, the public tends to gain some perspective (even as they attack the existing president) about how the sources of discontent stem from the structural problems with the government and the economy rather than any individual person.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="34">
+          <content>We judge a president based on the political times we are living in -- not simply in the times that they governed.</content>
+        </sentence>
+        <sentence id="35">
+          <content>Presidential reputations could improve if the polls are tallied at a moment when a president resonates with the politics of the moment.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="36">
+          <content>Finally, and this is not relevant to Bush yet, the opening of archival records from the period a president is in office can dramatically change how we see him.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="37">
+          <content>President Dwight Eisenhower, who was once treated as a popular yet bumbling president, was found to have had a firm grip on decision-making in the White House.</content>
+        </sentence>
+        <sentence id="38">
+          <content>Discoveries from the Ronald Reagan archives in Simi Valley, California, revealed that he was much more than a former Hollywood actor who moved to the top through charisma and luck.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="39">
+          <content>Obama might want to take a close look at these kinds of swings.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="40">
+          <content>On the one hand, it might give him some solace that even with all the grief he has faced over issues such as health care and sluggish economic growth, it is easy to see how his record could look much stronger to Americans over time.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="41">
+          <content>On the other hand, he might want to be a bit cautious about taking too much comfort from positive approval ratings.</content>
+        </sentence>
+        <sentence id="42">
+          <content>After all, it&amp;apost;s all relative with respect to time.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="43">
+          <content>Follow us on Twitter @CNNOpinion.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="44">
+          <content>Join us on Facebook/CNNOpinion.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

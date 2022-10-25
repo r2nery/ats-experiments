@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1401" link="http://edition.cnn.com/2012/05/30/showbiz/doc-watson-appreciation/index.html" date_published="2012-05-30 04:07:56" category="showbiz" author="Fred Vultee, for CNN" highlights_mapped="true" mapping_error="false">
+  <title>Watson leaves notes strung through music history</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="10">Doc Watson switched gears to adapt to changing musical scene.</sentence>
+      <sentence id="2" ids_article_sentences="8">1960s put him in front of a new set of audiences.</sentence>
+      <sentence id="3" ids_article_sentences="12">Nitty Gritty Dirt Band brought him to an even broader audience.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-13 16:47:23" annotation_time="15.9215">
+      <sentence id="8" ids_highlights="2">He was already a seasoned local and regional performer, playing both old-time music and what he called &amp;quot;rockabilly and pop standards,&amp;quot; when the folk boom of the 1960s put him in front of a new set of audiences with his voice, banjo and acoustic guitar.</sentence>
+      <sentence id="10" ids_highlights="1">Watson merely changed gears; he was comfortable with the ballads and tunes he&amp;apost;d grown up with, and he was equally deft at re-creating the brother duets he had heard on the radio when he played them with their author, Bill Monroe, the prickly creator of bluegrass music.</sentence>
+      <sentence id="12" ids_highlights="3">His neutrality in personal and stylistic feuds reflected his own musical open-mindedness and served him well when the Nitty Gritty Dirt Band was recruiting traditional performers for a three-album tribute to its own country roots, &amp;quot;Will the Circle be Unbroken.&amp;quot;</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>If the one great book of American popular music is ever written, Doc Watson might not even need his own chapter.</content>
+        </sentence>
+        <sentence id="2">
+          <content>He has a solo -- or a harmony part, or a lead vocal, or a single perfect guitar lick -- in all the important chapters of the past 50 years.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>Watson, who died on Tuesday at age 89, is most closely associated with the melodic style of flatpicking that cemented the guitar&amp;apost;s role as a solo voice in bluegrass and acoustic country music.</content>
+        </sentence>
+        <sentence id="4">
+          <content>But unlike the three-finger &amp;quot;Scruggs style&amp;quot; named after banjo pioneer Earl Scruggs, who crossed musical paths with Watson a number of times across the decades, there isn&amp;apost;t a single &amp;quot;Watson style.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>The flatpicking turned heads, but the tune that followed it might be a fingerstyle blues, a Travis-flavored country bounce or a parlor song from the Carter repertoire.</content>
+        </sentence>
+        <sentence id="6">
+          <content>Watson was a master tailor, not a designer; he fitted techniques to the needs of the song or the generations of players who sat next to him, as if they had been designed that way from the start.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>Watson, blind from childhood, took an understated pride in being able to support his family independently.</content>
+        </sentence>
+        <sentence id="8">
+          <content>He was already a seasoned local and regional performer, playing both old-time music and what he called &amp;quot;rockabilly and pop standards,&amp;quot; when the folk boom of the 1960s put him in front of a new set of audiences with his voice, banjo and acoustic guitar.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="9">
+          <content>For some performers, the welcome influx of new audiences also brought calls for a change in repertoire.</content>
+        </sentence>
+        <sentence id="10">
+          <content>Watson merely changed gears; he was comfortable with the ballads and tunes he&amp;apost;d grown up with, and he was equally deft at re-creating the brother duets he had heard on the radio when he played them with their author, Bill Monroe, the prickly creator of bluegrass music.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="11">
+          <content>By the late 1960s, Watson was well known to urban folk audiences and increasingly in the country stronghold of Nashville as well; he had even joined Scruggs and Lester Flatt, the former Monroe sidemen who had become the best-known names in bluegrass, for an instrumental album.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>His neutrality in personal and stylistic feuds reflected his own musical open-mindedness and served him well when the Nitty Gritty Dirt Band was recruiting traditional performers for a three-album tribute to its own country roots, &amp;quot;Will the Circle be Unbroken.&amp;quot;</content>
+        </sentence>
+        <sentence id="13">
+          <content>The &amp;quot;Circle&amp;quot; helped define the sound of dorm rooms and hallways and the song lists of bar bands.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="14">
+          <content>Audiences that had never listened to the Grand Ole Opry itself would applaud the &amp;quot;Grand Ole Opry Song,&amp;quot; and they expected the Watson touches that knitted the album together: the instrumental styles, the vocals, the playful treatment of tunes like &amp;quot;Tennessee Stud.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="15">
+          <content>That milestone album could have capped a career.</content>
+        </sentence>
+        <sentence id="16">
+          <content>For Watson, it wasn&amp;apost;t even a halfway point; he had nearly four decades still to go.</content>
+        </sentence>
+        <sentence id="17">
+          <content>(Indeed, he was scheduled to perform next in June with a number of longtime collaborators at a celebration of his work at the North Carolina Museum of Art.).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="18">
+          <content>The newly world-famous Watson was strikingly consistent with the original.</content>
+        </sentence>
+        <sentence id="19">
+          <content>He continued to tour primarily with his son, Merle.</content>
+        </sentence>
+        <sentence id="20">
+          <content>He recorded music he liked with performers he liked, and he kept an ear out for the generation that was coming up behind him.</content>
+        </sentence>
+        <sentence id="21">
+          <content>The Doc Watson you saw on the national stage or heard on public radio was the same one you saw at small festivals in out-of-the-way parts of North Carolina: intimate, genial, as distinctive playing rhythm as he was in the spotlight.</content>
+        </sentence>
+        <sentence id="22">
+          <content>There was never a public watershed where Watson formally broke with his roots or humbly returned to them.</content>
+        </sentence>
+        <sentence id="23">
+          <content>His roots were always part of what he did; he just kept adding new roots.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="24">
+          <content>That&amp;apost;s not to say there were no changes; Merle&amp;apost;s death in a farming accident in 1985 was an unimaginable loss, personally and professionally.</content>
+        </sentence>
+        <sentence id="25">
+          <content>Watson adapted, with the help of players who could tour and play in the way Merle had.</content>
+        </sentence>
+        <sentence id="26">
+          <content>The genre-blending MerleFest, held each year since 1988 as a fundraiser for Wilkes Community College, is a lasting tribute.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="27">
+          <content>Watson continued to record: with country giants like Chet Atkins, newgrass superstars like David Grisman and Tony Rice, and by the end of the century with Merle&amp;apost;s son Richard.</content>
+        </sentence>
+        <sentence id="28">
+          <content>He was onstage with Scruggs again in 2003 -- as &amp;quot;The Three Pickers,&amp;quot; with Ricky Skaggs and such next-generation guests as Alison Krauss -- in a concert that Variety called &amp;quot;one highlight after another.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="29">
+          <content>The British folk rebels of the early 1970s explained their rocked-out Child ballads as a way of taking folk music out of museums and giving it back to folks.</content>
+        </sentence>
+        <sentence id="30">
+          <content>Doc Watson made his share of music for museums and dignitaries and international audiences, but it was the same music he would have made in your living room: extraordinary music for ordinary occasions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

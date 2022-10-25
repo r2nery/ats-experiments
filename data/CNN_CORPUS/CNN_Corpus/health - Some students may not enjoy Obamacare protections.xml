@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="365" link="http://www.cnn.com/2013/02/01/health/student-insurance/index.html" date_published="2013-02-01 18:11:57" category="health" author="Jen Christensen, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Some students may not enjoy Obamacare protections</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="17">A proposal says self-funded college health plans count as &amp;quot;minimum essential coverage&amp;quot; .</sentence>
+      <sentence id="2" ids_article_sentences="17">Obama administration: Plans don&amp;apost;t have to meet same rules as other types of insurance .</sentence>
+      <sentence id="3" ids_article_sentences="33">Some California students are protesting lifetime caps on some of these plans.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-09-01 09:12:03" annotation_time="157.248">
+      <sentence id="17" ids_highlights="1, 2">A proposed ruling issued by the Obama administration Wednesday determined these plans do count as &amp;quot;minimum essential coverage&amp;quot; but exempts them from having to meet the same standards of other health coverage.</sentence>
+      <sentence id="33" ids_highlights="3">About 50 University of California, Berkeley students organized a rally in October to call for elimination of the lifetime caps on their student health insurance plans, and they&amp;apost;re circulating a petition.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>A couple of weeks ago, Micha Rahder got a disturbing letter.</content>
+        </sentence>
+        <sentence id="2">
+          <content>It said that she no longer had health insurance -- and was required to as a graduate student at the University of California, Santa Cruz.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>The problem was -- it was her own school&amp;apost;s insurance policy that was dropping her.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Rahder, 30, was losing insurance because she had reached the lifetime limit of coverage under the University of California&amp;apost;s student health insurance plan.</content>
+        </sentence>
+        <sentence id="5">
+          <content>She suffers from a rare disorder that requires her to get regular and expensive IV treatments every four weeks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>Without treatment for her chronic inflammatory demyelinating polyneuropathy -- a disease that attacks her nervous system -- she has lost the ability to walk and has had to have a guest lecturer come in to teach her class.</content>
+        </sentence>
+        <sentence id="7">
+          <content>She said she can&amp;apost;t understand why she&amp;apost;s in this predicament.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;I initially thought Obamacare would take care of this, but somehow these schools have slipped out of it.</content>
+        </sentence>
+        <sentence id="9">
+          <content>I&amp;apost;m extremely frustrated,&amp;quot; Rahder said.</content>
+        </sentence>
+        <sentence id="10">
+          <content>&amp;quot;Most people didn&amp;apost;t know I was sick until this happened, and when I tell them why I&amp;apost;m sick, they can&amp;apost;t believe it.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="11">
+          <content>Had she been insured elsewhere, she might have been protected from losing her health care coverage.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>Under the Obama administration&amp;apost;s Affordable Care Act, or ACA, lifetime limits are supposed to be a thing of the past.</content>
+        </sentence>
+        <sentence id="13">
+          <content>But there are about 30 schools in the country, mostly in California and the Ivy League system, that offer students what is called self-funded student health insurance.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="14">
+          <content>Instead of using an insurance company, a university runs the program, and student premiums directly pay for it.</content>
+        </sentence>
+        <sentence id="15">
+          <content>Experts say it&amp;apost;s a complicated system to run, but it&amp;apost;s ultimately a lot cheaper for a school, because it eliminates the middleman of an insurance company.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="16">
+          <content>About 300,000 students are covered by these plans.</content>
+        </sentence>
+        <sentence id="17">
+          <content>A proposed ruling issued by the Obama administration Wednesday determined these plans do count as &amp;quot;minimum essential coverage&amp;quot; but exempts them from having to meet the same standards of other health coverage.</content>
+        </sentence>
+        <sentence id="18">
+          <content>(The Department of Health and Human Services offers a 60-day period for public comments after publication in the Federal Register before issuing a final ruling.).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="19">
+          <content>The proposed rule means self-funded student health care plans can continue to cap benefits like they did in Rahder&amp;apost;s case.</content>
+        </sentence>
+        <sentence id="20">
+          <content>Those self-funded student plans are the only insurance-type programs in the country that don&amp;apost;t have to provide the consumer protections guaranteed by the Affordable Care Act.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="21">
+          <content>&amp;quot;That&amp;apost;s because they aren&amp;apost;t really insurance plans,&amp;quot; said Steven M. Bloom, director of federal relations, government and public affairs at the American Council on Education, a group that represents the presidents of the nation&amp;apost;s higher education institutions.</content>
+        </sentence>
+        <sentence id="22">
+          <content>&amp;quot;They are not sold by an insurer.</content>
+        </sentence>
+        <sentence id="23">
+          <content>Only students can buy the plans, and the schools pay for them.</content>
+        </sentence>
+        <sentence id="24">
+          <content>I know it acts like insurance, but under the law it is not technically insurance.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="25">
+          <content>&amp;quot;That&amp;apost;s a very lawyer-like explanation, isn&amp;apost;t it?</content>
+        </sentence>
+        <sentence id="26">
+          <content>But that&amp;apost;s what the law says,&amp;quot; Bloom said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="27">
+          <content>Early in the discussion about these particular plans, HHS didn&amp;apost;t think it had the power to regulate them, Bloom said.</content>
+        </sentence>
+        <sentence id="28">
+          <content>&amp;quot;In order for these plans to have to follow the ACA, the regulations would probably have to change.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="29">
+          <content>Jen Mishory, a lawyer and deputy director of the Young Invincibles, an advocacy group for young people, said, &amp;quot;They are certainly advertised to students as health insurance plans, and they are called insurance plans when you sign up for them.</content>
+        </sentence>
+        <sentence id="30">
+          <content>Yes, there is a legal distinction here, but a legal technicality shouldn&amp;apost;t shortchange students like this.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="31">
+          <content>Mishory added, &amp;quot;Students do tend to be healthier than the general population, but there are occasions when a student gets sick.</content>
+        </sentence>
+        <sentence id="32">
+          <content>We want all students to have the same coverage everyone else has.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="33">
+          <content>About 50 University of California, Berkeley students organized a rally in October to call for elimination of the lifetime caps on their student health insurance plans, and they&amp;apost;re circulating a petition.</content>
+        </sentence>
+        <sentence id="34">
+          <content>Other schools in California are planning similar protests, Rahder said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="35">
+          <content>Eliminating the caps could add expense to the programs though.</content>
+        </sentence>
+        <sentence id="36">
+          <content>And universities, in tight budgetary times, may not want to increase the cost.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="37">
+          <content>&amp;quot;Universities are big businesses.</content>
+        </sentence>
+        <sentence id="38">
+          <content>People sometimes forget that when they see the tweed and the elbow patches,&amp;quot; said Dr. Bryan Liang, a lawyer and physician who specializes in health care law and teaches at California Western School of Law in San Diego.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="39">
+          <content>&amp;quot;But this is about profit, and these schools aren&amp;apost;t insulated from the economic realities.</content>
+        </sentence>
+        <sentence id="40">
+          <content>If there is a way to lower costs, they will do what they can.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="41">
+          <content>In reading the Obama administration&amp;apost;s proposed rule from Wednesday, Liang said he does believe HHS will continue to watch the situation carefully.</content>
+        </sentence>
+        <sentence id="42">
+          <content>&amp;quot;They don&amp;apost;t want anyone to have to go back to the old system,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="43">
+          <content>Bloom added that these self-funded plans do generally offer good health coverage.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="44">
+          <content>&amp;quot;I don&amp;apost;t think you are seeing some kind of conspiracy in the way that the statutes are written.</content>
+        </sentence>
+        <sentence id="45">
+          <content>These plans are very comprehensive,&amp;quot; Bloom said.</content>
+        </sentence>
+        <sentence id="46">
+          <content>&amp;quot;It doesn&amp;apost;t mean it&amp;apost;s not a tragedy if a student is in that situation where they come up against the caps, but in the grand scheme of things, this is a very small percentage of students that this impacts.</content>
+        </sentence>
+        <sentence id="47">
+          <content>You are talking about a fly on an elephant here.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="48">
+          <content>But it&amp;apost;s big issue to Rahder, who cannot walk at the moment because she can&amp;apost;t afford the treatment she needs without insurance.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="49">
+          <content>For now, she said she may have found an alternative insurance.</content>
+        </sentence>
+        <sentence id="50">
+          <content>It&amp;apost;s more expensive, but her mom will help with the bills.</content>
+        </sentence>
+        <sentence id="51">
+          <content>Once she gets the treatment and can walk again, she said she will be out there protesting so other students won&amp;apost;t experience what she did.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="52">
+          <content>&amp;quot;I mean, what is health insurance for if not to catch you in those rare cases when you do get sick?&amp;quot;</content>
+        </sentence>
+        <sentence id="53">
+          <content>she asked.</content>
+        </sentence>
+        <sentence id="54">
+          <content>&amp;quot;This seems outrageous and is really truly mind-boggling.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

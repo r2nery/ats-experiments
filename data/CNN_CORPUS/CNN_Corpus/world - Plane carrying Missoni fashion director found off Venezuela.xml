@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2602" link="http://www.cnn.com/2013/06/27/world/americas/venezuela-missoni-plane/index.html" date_published="2013-06-27 16:26:22" category="world" author="Joe Sterling, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Plane carrying Missoni fashion director found off Venezuela</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">The plane went missing in January.</sentence>
+      <sentence id="2" ids_article_sentences="1">It was found off Venezuela&amp;apost;s coast .</sentence>
+      <sentence id="3" ids_article_sentences="12">Missoni is known for its patterned knitwear and signature zigzag stripe.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-01 16:01:40" annotation_time="76.469666" mapping_time_divergence="25.48989">
+      <sentence id="1" ids_highlights="2">Nearly six months after it went missing off Venezuela&amp;apost;s coast, authorities have located the small plane that was carrying Italian fashion boss Vittorio Missoni and five others, the country&amp;apost;s Interior Ministry announced Thursday.</sentence>
+      <sentence id="2" ids_highlights="1">The aircraft disappeared on January 4 as it left Los Roques, an archipelago and resort, for the international airport outside Caracas, about 90 miles away.</sentence>
+      <sentence id="12" ids_highlights="3">The fashion house, which boasts such celebrity clients as Katie Holmes, Cameron Diaz and Nicole Richie, is a high-end fashion label known for its patterned knitwear and signature zigzag stripe.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Nearly six months after it went missing off Venezuela&amp;apost;s coast, authorities have located the small plane that was carrying Italian fashion boss Vittorio Missoni and five others, the country&amp;apost;s Interior Ministry announced Thursday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The aircraft disappeared on January 4 as it left Los Roques, an archipelago and resort, for the international airport outside Caracas, about 90 miles away.</content>
+        </sentence>
+        <sentence id="3">
+          <content>Vittorio Missoni, his wife, and four others -- including a pilot and copilot -- were all on board.</content>
+        </sentence>
+        <sentence id="4">
+          <content>All are presumed dead.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>Missoni, 58, ran the famed Missoni fashion house with his siblings, Luca and Angela.</content>
+        </sentence>
+        <sentence id="6">
+          <content>Neither sibling was on the plane.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>With the help of an American ship with special oceanographic technology, the plane was located off the coast of Key Carenero, within the Los Roques archipelago, according to a family statement published by Italy&amp;apost;s ANSA news agency.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;At this time, efforts are underway to recover the wreckage,&amp;quot; the families of those aboard the plane said in the statement.</content>
+        </sentence>
+        <sentence id="9">
+          <content>&amp;quot;The families would like to thank the Venezuelan and Italian governments for its commitments in finding the wreckage and the family is confident that the investigation into the cause of the incident.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>Venezuelan authorities had launched intensive search efforts with boats, helicopters and divers scouring the area for any sign of the missing plane.</content>
+        </sentence>
+        <sentence id="11">
+          <content>A bag from the plane washed up on the island of Curacao some 124 miles away from where the aircraft disappeared three weeks after the aircraft went missing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>The fashion house, which boasts such celebrity clients as Katie Holmes, Cameron Diaz and Nicole Richie, is a high-end fashion label known for its patterned knitwear and signature zigzag stripe.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>The private company, based in Milan, Italy, has estimated annual sales of between $75 million and $100 million.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>The brand, first created in 1953 as a knitwear workshop in Gallarte, Italy, has expanded from apparel to housewares, a fragrance line and a chain of hotels.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>Stefano Tonchi, editor-in-chief of W magazine, called the Missonis &amp;quot;one of the most important Italian fashion families,&amp;quot; crediting their move to Milan in the late 1960s with helping make the northern Italian city the fashion hub it is today.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>Vittorio Missoni and his siblings took over the brand in 1996 with an eye toward marketing to a younger consumer.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>The fashion house partnered with Target in 2011 to produce a more budget-friendly collection for the discount retailer, which caused Target&amp;apost;s website to crash due to the high demand.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

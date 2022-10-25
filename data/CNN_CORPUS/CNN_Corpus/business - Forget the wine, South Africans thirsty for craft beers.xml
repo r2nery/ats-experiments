@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="59" link="http://www.cnn.com/2013/08/23/business/forget-wine-south-africa-beer/index.html" date_published="2013-08-23 09:43:43" category="business" author="Kiesha Porter, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Forget the wine, South Africans thirsty for craft beers</title>
+  <keywords>south africa craft beer,craft beer south africa, south africa,craft beer,Devil&amp;apost;s Peak Brewing Company,South African Breweries,Boston Breweries,league of beers,micro brewery</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">Better known for its wines, the business of craft beer is taking off in South Africa.</sentence>
+      <sentence id="2" ids_article_sentences="6">Craft beer produced by independent breweries on smaller scale than the multinationals.</sentence>
+      <sentence id="3" ids_article_sentences="10">Estimates suggest the country is home to some 50 microbreweries.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-19 09:59:17" annotation_time="65.30767" mapping_time_divergence="21.769224">
+      <sentence id="2" ids_highlights="1">Inspired by an international boom for local, independent microbreweries, the business of craft beer has also taken off in South Africa recently, as growing numbers of small producers are experimenting with styles and techniques to satisfy a rising thirst for new flavors and novel brews.</sentence>
+      <sentence id="6" ids_highlights="2">Craft beer is traditionally produced by independent breweries on a much smaller scale than the multinationals.</sentence>
+      <sentence id="10" ids_highlights="3">Almost three decades after South Africa&amp;apost;s first microbrewery, Cape Town-based Mitchell&amp;apost;s Brewery, opened its doors in the early 1980s, estimates suggest that today there more than 50 microbreweries across the country, a figure that&amp;apost;s doubled in the last few years.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The Western Cape might be South Africa&amp;apost;s wine capital -- renowned around the world as the home of some of the country&amp;apost;s most famous labels -- but not far from Stellenbosch&amp;apost;s fertile vineyards there&amp;apost;s another drink brewing up a storm.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Inspired by an international boom for local, independent microbreweries, the business of craft beer has also taken off in South Africa recently, as growing numbers of small producers are experimenting with styles and techniques to satisfy a rising thirst for new flavors and novel brews.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;There is a massive demand,&amp;quot; says Dan Badenhorst, co-founder of Devil&amp;apost;s Peak Brewing Company, just one of the several microbreweries to come out of Cape Town in recent times.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>&amp;quot;We started off in a garage, from there we bought our own 500-liter system and now we are in this new 1,500-liter system,&amp;quot; he adds.</content>
+        </sentence>
+        <sentence id="5">
+          <content>&amp;quot;Constantly, our biggest challenge has been keeping up with the demand.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>Craft beer is traditionally produced by independent breweries on a much smaller scale than the multinationals.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>In South Africa, a country with a strong beer culture, consumers have traditionally opted for mass-produced beer products.</content>
+        </sentence>
+        <sentence id="8">
+          <content>South African Breweries is a subsidiary of SABMiller, the world&amp;apost;s second-largest brewer, and accounts for more than 90% of the country&amp;apost;s beer market.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>But the smaller players have also started making a mark.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>Almost three decades after South Africa&amp;apost;s first microbrewery, Cape Town-based Mitchell&amp;apost;s Brewery, opened its doors in the early 1980s, estimates suggest that today there more than 50 microbreweries across the country, a figure that&amp;apost;s doubled in the last few years.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;On a top level, the big beer companies are supporting craft beer because it helps bring more people to beer,&amp;quot; says Rob Heyns, founder of League of Beers, an online store offering local and international craft beers to enthusiasts in South Africa.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>He adds, however, that craft beer still has a long way to go before it can take on the mass beer producers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="13">
+          <content>&amp;quot;On the ground level, it&amp;apost;s always going to be tight competition and as a craft brewer you&amp;apost;re never going to be able to win out against one of the big brewers unless you, the consumer, asks specifically for those beers,&amp;quot; adds Heyns.</content>
+        </sentence>
+        <sentence id="14">
+          <content>&amp;quot;That&amp;apost;s the best that way craft beer can win.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>In order to win consumers&amp;apost; hearts, South Africa&amp;apost;s burgeoning beer makers say they often turn to local ingredients to try and achieve unique and distinctive flavors.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;Locality is very important in the craft beer industry,&amp;quot; explains JC Steyn, head brewer at Devil&amp;apost;s Peak Brewing Company.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;You&amp;apost;d go to Cape Town and get the craft beers from Cape Town because they are so close to the brewery and they are so fresh and all those flavors are still very abundant,&amp;quot; he adds.</content>
+        </sentence>
+        <sentence id="18">
+          <content>&amp;quot;Once beer travels it totally diminishes those characters.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="19">
+          <content>Beer makers have also started using a number of beer festivals and tasting events to raise the profile of their brands and bring their products to a wider audience.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="20">
+          <content>Greg Casey, owner of Banana Jam Café in Western Cape, holds several of such events throughout the year in his restaurant.</content>
+        </sentence>
+        <sentence id="21">
+          <content>He says craft beer is a great trend that&amp;apost;s about finding something special.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;It&amp;apost;s not about volume consumption,&amp;quot; says Casey.</content>
+        </sentence>
+        <sentence id="23">
+          <content>&amp;quot;It&amp;apost;s become about flavor and it&amp;apost;s about trying something that&amp;apost;s a little more special, like a bottle of wine,&amp;quot; he adds.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="24">
+          <content>&amp;quot;So you are not looking for how much beer can I consume and how much it costs, you are looking for quality over quantity - and people are willing to pay for that.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="25">
+          <content>Beer drinker Gregory Bowden agrees.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="26">
+          <content>&amp;quot;I really prefer craft beer to the standard commercial stuff that you get,&amp;quot; he says.</content>
+        </sentence>
+        <sentence id="27">
+          <content>&amp;quot;The variety that&amp;apost;s available, the different range of flavors that you can get, it&amp;apost;s just something that a mass-produced beer I don&amp;apost;t think will be able to give,&amp;quot; he adds.</content>
+        </sentence>
+        <sentence id="28">
+          <content>&amp;quot;You can tell that people put love into it and there&amp;apost;s a bit more attention given to the product than with a mass produced.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="29">
+          <content>It&amp;apost;s that kind of care that craft beer makers hope will keep consumers coming back for more.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="30">
+          <content>&amp;quot;You&amp;apost;ve got to be passionate about beer,&amp;quot; says Badenhorst.</content>
+        </sentence>
+        <sentence id="31">
+          <content>&amp;quot;If you&amp;apost;re going into it for the money, you&amp;apost;re not doing it for the right reason,&amp;quot; he adds.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="32">
+          <content>&amp;quot;For us it&amp;apost;s always been a passion; it&amp;apost;s been wanting to show South Africans what beer is about.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2351" link="http://www.cnn.com/2013/08/06/world/asia/japan-new-warship/index.html" date_published="2013-08-07 00:29:18" category="world" author="Brad Lendon, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Japan launches largest warship since World War II</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">820-foot-long flattop designed to carry 14 helicopters.</sentence>
+      <sentence id="2" ids_article_sentences="4">Launch comes at a time of increased tensions with China.</sentence>
+      <sentence id="3" ids_article_sentences="6">China warns Japan against military expansion.</sentence>
+      <sentence id="4" ids_article_sentences="15">Launch comes on 68th anniversary of Hiroshima bombing.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-02 14:26:15" annotation_time="25.983332">
+      <sentence id="1" ids_highlights="1">Japan on Tuesday unveiled its largest warship since World War II, an 820-foot-long, 19,500-ton flattop capable of carrying 14 helicopters, according to media reports.</sentence>
+      <sentence id="4" ids_highlights="2">The launch of the $1.2 billion warship at a Yokohama dockyard comes at a time of increased military tensions between Japan and China over disputed islands in the East China Sea.</sentence>
+      <sentence id="6" ids_highlights="3">China on Tuesday warned Japan against any moves of military expansion, according to a report from Global Times.</sentence>
+      <sentence id="15" ids_highlights="4">Tuesday&amp;apost;s launch also came on the 68th anniversary of the atomic bomb attack on Hiroshima.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Japan on Tuesday unveiled its largest warship since World War II, an 820-foot-long, 19,500-ton flattop capable of carrying 14 helicopters, according to media reports.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The ship, named the Izumo, is classified as a helicopter destroyer, though its flattop design makes it look like an aircraft carrier.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>But the Japanese Defense Ministry says the ship is not intended to be used as an aircraft carrier and will not be used to launch fighter jets, state broadcaster NHK reported.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>The launch of the $1.2 billion warship at a Yokohama dockyard comes at a time of increased military tensions between Japan and China over disputed islands in the East China Sea.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>&amp;quot;The destroyer is aimed at better responding to various contingencies in waters near Japan,&amp;quot; NHK reported.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>China on Tuesday warned Japan against any moves of military expansion, according to a report from Global Times.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;We are concerned over Japan&amp;apost;s constant expansion of its military equipment.</content>
+        </sentence>
+        <sentence id="8">
+          <content>Japan&amp;apost;s Asian neighbors and the international community need to be highly vigilant about this trend,&amp;quot; the Global Times quoted the Chinese Defense Ministry as saying.</content>
+        </sentence>
+        <sentence id="9">
+          <content>&amp;quot;Japan should learn from history, adhere to its policy of self-defense and abide by its promise to take the road of peaceful development.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>Both China and Japan claim sovereignty over the rocky, uninhabited islands between Okinawa and Taiwan, which are near important shipping lanes, rich fishing grounds and possible mineral deposits.</content>
+        </sentence>
+        <sentence id="11">
+          <content>They are known as Senkaku in Japanese and Diaoyu in Chinese.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>Last year, the Japanese government bought several of the islands from a private owner, angering Chinese authorities and provoking a spate of sometimes violent anti-Japanese demonstrations in many Chinese cities.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>Chinese government ships have continued to frequently sail near the islands, engaging in maritime games of cat and mouse with Japanese coast guard vessels.</content>
+        </sentence>
+        <sentence id="14">
+          <content>Chinese planes have also flown through the area, prompting Japan to scramble fighter jets.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="15">
+          <content>Tuesday&amp;apost;s launch also came on the 68th anniversary of the atomic bomb attack on Hiroshima.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="16">
+          <content>Upwards of 60,000 people -- according to various estimates, about one-fifth of Hiroshima&amp;apost;s population at the time -- were killed when a U.S. B-29 bomber dropped the bomb on August 6, 1945,.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="17">
+          <content>In remembrance ceremonies in Hiroshima on Tuesday, a list of 286,000 atomic bomb victims was presented, NHK reported.</content>
+        </sentence>
+        <sentence id="18">
+          <content>In a speech, Prime Minister Shinzo Abe called on the Japanese people to always remind the world about the consequences of nuclear war, NHK reported.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

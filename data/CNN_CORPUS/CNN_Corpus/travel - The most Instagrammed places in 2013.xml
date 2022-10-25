@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1835" link="http://edition.cnn.com/2013/12/16/travel/most-instagrammed-places-2013" date_published="2013-12-16 19:39:49" category="travel" author="Karla Cripps, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>The most Instagrammed places in 2013</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="38">Bangkok luxury mall Siam Paragon was most Instagrammed place in 2013.</sentence>
+      <sentence id="2" ids_article_sentences="33">Instagram app incredibly popular in Thailand, partly due to celebrity use.</sentence>
+      <sentence id="3" ids_article_sentences="42">Most Instagrammed city in the world is New York, followed by Bangkok and Los Angeles.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-09 17:39:08" annotation_time="56.90367" mapping_time_divergence="37.93578">
+      <sentence id="33" ids_highlights="2">&amp;quot;Instagram is hugely popular in Thailand where timing -- the app&amp;apost;s rise coincided with mass market adoption of smartphones -- and its use by Thai celebrities made it a must-have app for locals,&amp;quot; he tells CNN.</sentence>
+      <sentence id="38" ids_highlights="1">Bangkok&amp;apost;s penchant for posting filtered shots of Siam Paragon and Suvarnabhumi wasn&amp;apost;t enough to put the Thai capital into the top spot for most Instagrammed cities overall.</sentence>
+      <sentence id="42" ids_highlights="3">Sixty percent of Instagrammers are now sharing photos and videos from outside of the United States, so we wanted to also share the most Instagrammed cities in the world.&amp;quot;</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>With 2014 fast approaching, media companies around the world are hard at work churning out their obligatory year-in-review/look ahead roundups.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>(Guilty as charged -- you can find CNN Travel&amp;apost;s look ahead to what&amp;apost;s hot in 2014 right here.).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Last week we highlighted the most popular Facebook checkins.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>This week it&amp;apost;s Instagram&amp;apost;s turn to spill the beans on its users&amp;apost; favorite places to photo-filter in 2013.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>Once again, an attraction in Bangkok topped the list of the most Instagrammed places.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>Last year, the Thai capital&amp;apost;s international airport snagged the lead spot.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>In 2013 it&amp;apost;s a luxury shopping mall -- Siam Paragon, last year&amp;apost;s No. 2.</content>
+        </sentence>
+        <sentence id="8">
+          <content>(See the 2012 Instagram list here.).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>New to the most popular list in 2013: Walt Disney World, New York City&amp;apost;s High Line and Central Park and the Bellagio Fountains in Las Vegas.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="10">
+          <content>The most Instagrammed locations of 2013.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="11">
+          <content>1.</content>
+        </sentence>
+        <sentence id="12">
+          <content>Siam Paragon, Bangkok.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="13">
+          <content>2.</content>
+        </sentence>
+        <sentence id="14">
+          <content>Times Square, New York.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>3.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Disneyland, Anaheim, California.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="17">
+          <content>4.</content>
+        </sentence>
+        <sentence id="18">
+          <content>Bellagio Fountains, Las Vegas.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="19">
+          <content>5.</content>
+        </sentence>
+        <sentence id="20">
+          <content>Disney World Florida.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="21">
+          <content>6.</content>
+        </sentence>
+        <sentence id="22">
+          <content>Staples Center, Los Angeles.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="23">
+          <content>7.</content>
+        </sentence>
+        <sentence id="24">
+          <content>Central Park, New York.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="25">
+          <content>8.</content>
+        </sentence>
+        <sentence id="26">
+          <content>Dodger Stadium, Los Angeles.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="27">
+          <content>9.</content>
+        </sentence>
+        <sentence id="28">
+          <content>Suvarnabhumi Airport (BKK), Bangkok.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="29">
+          <content>10.</content>
+        </sentence>
+        <sentence id="30">
+          <content>The High Line, New York.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="31">
+          <content>That Bangkok managed to sneak two places into an otherwise exclusively U.S. list certainly seems curious.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="32">
+          <content>Jon Russell, Asia editor of global technology blog Thenextweb.com, explains why the photo-sharing app is so hot in the Southeast Asia nation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="33">
+          <content>&amp;quot;Instagram is hugely popular in Thailand where timing -- the app&amp;apost;s rise coincided with mass market adoption of smartphones -- and its use by Thai celebrities made it a must-have app for locals,&amp;quot; he tells CNN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="34">
+          <content>&amp;quot;Thais are less concerned by the privacy issues of tracking their location, and keen to show friends where they&amp;apost;ve been.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="35">
+          <content>&amp;quot;Plus Siam Paragon itself is more than just a shopping mall in Western terms.</content>
+        </sentence>
+        <sentence id="36">
+          <content>Aside from the many shops, cafes and restaurants -- taking a photo of your food/coffee is standard -- there&amp;apost;s an aquarium, cinema and more.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="37">
+          <content>Most Instagrammed cities of 2013.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="38">
+          <content>Bangkok&amp;apost;s penchant for posting filtered shots of Siam Paragon and Suvarnabhumi wasn&amp;apost;t enough to put the Thai capital into the top spot for most Instagrammed cities overall.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="39">
+          <content>That honor went to New York City.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="40">
+          <content>&amp;quot;In the course of the past year, we&amp;apost;ve seen Instagram continue to grow across the globe,&amp;quot; says a post on the the photo sharing app&amp;apost;s blog.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="41">
+          <content>&amp;quot;We&amp;apost;ve been amazed to see the community thrive in places like Indonesia, Russia and Brazil.</content>
+        </sentence>
+        <sentence id="42">
+          <content>Sixty percent of Instagrammers are now sharing photos and videos from outside of the United States, so we wanted to also share the most Instagrammed cities in the world.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="43">
+          <content>Here they are:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="44">
+          <content>1.</content>
+        </sentence>
+        <sentence id="45">
+          <content>New York.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="46">
+          <content>2.</content>
+        </sentence>
+        <sentence id="47">
+          <content>Bangkok.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="48">
+          <content>3.</content>
+        </sentence>
+        <sentence id="49">
+          <content>Los Angeles.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="34">
+      <sentences>
+        <sentence id="50">
+          <content>4.</content>
+        </sentence>
+        <sentence id="51">
+          <content>London.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="35">
+      <sentences>
+        <sentence id="52">
+          <content>5.</content>
+        </sentence>
+        <sentence id="53">
+          <content>São Paulo.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="36">
+      <sentences>
+        <sentence id="54">
+          <content>6.</content>
+        </sentence>
+        <sentence id="55">
+          <content>Moscow.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="37">
+      <sentences>
+        <sentence id="56">
+          <content>7.</content>
+        </sentence>
+        <sentence id="57">
+          <content>Rio de Janeiro.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="38">
+      <sentences>
+        <sentence id="58">
+          <content>8.</content>
+        </sentence>
+        <sentence id="59">
+          <content>San Diego, California.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="39">
+      <sentences>
+        <sentence id="60">
+          <content>9.</content>
+        </sentence>
+        <sentence id="61">
+          <content>Las Vegas.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="40">
+      <sentences>
+        <sentence id="62">
+          <content>10.</content>
+        </sentence>
+        <sentence id="63">
+          <content>San Francisco.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="41">
+      <sentences>
+        <sentence id="64">
+          <content>Are you a fan of Instagram?</content>
+        </sentence>
+        <sentence id="65">
+          <content>Do you wish people would stop posting photos of their lunch?</content>
+        </sentence>
+        <sentence id="66">
+          <content>Share your thoughts on sharing in the comments.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

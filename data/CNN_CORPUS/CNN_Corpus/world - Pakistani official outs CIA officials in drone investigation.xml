@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2583" link="http://www.cnn.com/2013/11/27/world/asia/pakistan-cia-officials/index.html?hpt=hp_t2" date_published="2013-11-27 19:50:25" category="world" author="Saima Mohsin and Mariano Castillo, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Pakistani official outs CIA officials in drone investigation</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="4">A Pakistani political party publicizes the name of a person she says is CIA station chief.</sentence>
+      <sentence id="2" ids_article_sentences="1">The PTI party gave the police the names of two CIA officials in connection with a drone strike.</sentence>
+      <sentence id="3" ids_article_sentences="2">There is a murder investigation into the recent strike.</sentence>
+      <sentence id="4" ids_article_sentences="7">If in fact a CIA official was outed, it could have repercussions.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-01 16:29:43" annotation_time="25.203001" mapping_time_divergence="6.3007503">
+      <sentence id="1" ids_highlights="2">A Pakistani political party official has publicly named two U.S. CIA officials in connection with a police murder investigation into a drone strike.</sentence>
+      <sentence id="2" ids_highlights="3">Police had already initiated an investigation against unnamed persons after a recent drone strike that killed five.</sentence>
+      <sentence id="4" ids_highlights="1">She gave the names of U.S. CIA Director John Brennan and a person identified as the CIA&amp;apost;s Station Chief based in Pakistan.</sentence>
+      <sentence id="7" ids_highlights="4">If in fact Mazari outed the identity of a high-ranking CIA agent, it could have repercussions.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>A Pakistani political party official has publicly named two U.S. CIA officials in connection with a police murder investigation into a drone strike.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Police had already initiated an investigation against unnamed persons after a recent drone strike that killed five.</content>
+        </sentence>
+        <sentence id="3">
+          <content>In a televised news conference Wednesday, Shireen Mazari, information secretary for the Tehreek-e-Insaf (PTI) party said she filed an addendum to the police complaint, singling out two U.S. officials.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>She gave the names of U.S. CIA Director John Brennan and a person identified as the CIA&amp;apost;s Station Chief based in Pakistan.</content>
+        </sentence>
+        <sentence id="5">
+          <content>U.S. officials did not confirm to CNN the accuracy of her claims.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;I can&amp;apost;t speak to the alleged operational issues, but more broadly I note we have a strong ongoing dialogue with Pakistan regarding all aspects of our bilateral relationship and shared interests,&amp;quot; a U.S. Embassy official in Pakistan told CNN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>If in fact Mazari outed the identity of a high-ranking CIA agent, it could have repercussions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>In 2010, the CIA recalled its top spy in Pakistan after he was identified in a lawsuit filed by a man whose son and brother were killed by a drone strike.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>The PTI is led by cricketer-turned-politician Imran Khan, a staunch opponent of drone strikes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>His party is demanding that the national government block the ground supply lines to Afghanistan unless the United States ends the strikes, which have focused on Pakistan&amp;apost;s loosely governed tribal areas where many militants are based.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>The drone strike that Mazari linked the CIA officials to happened in northwest Pakistan.</content>
+        </sentence>
+        <sentence id="12">
+          <content>The suspected U.S. drone strike killed six people in Hangu district, targeting a seminary belonging to the Afghan Haqqani Network.</content>
+        </sentence>
+        <sentence id="13">
+          <content>It was said to be one of the first U.S. drone strikes outside of Pakistan&amp;apost;s tribal districts.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>Police initially said that all the victims of the drone strike were Afghans, but there have been conflicting reports, and on Tuesday Mazari also said some victims were Pakistani.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="15">
+          <content>The Pakistani police initiated an investigation for murder and waging war on Pakistan.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="16">
+          <content>Mazari called for the high-ranking CIA official in Pakistan to be put on a list to prevent him from leaving the country.</content>
+        </sentence>
+        <sentence id="17">
+          <content>The country&amp;apost;s interior ministry said that as of Wednesday, it had not received such instructions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="18">
+          <content>CNN has reached out to the CIA for comment on the developments.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

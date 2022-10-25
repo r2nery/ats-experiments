@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="280" link="http://www.cnn.com/2014/02/14/health/texas-lungs-grown/index.html" date_published="2014-02-14 21:37:18" category="health" author="Elizabeth Cohen, Senior Medical Correspondent" highlights_mapped="true" mapping_error="false">
+  <title>Human lung made in lab for first time</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">&amp;quot;It&amp;apost;s science fiction and we&amp;apost;re moving into science fact,&amp;quot; says one researcher.</sentence>
+      <sentence id="2" ids_article_sentences="1">The advance won&amp;apost;t help patients for many years.</sentence>
+      <sentence id="3" ids_article_sentences="4">It could one day help those awaiting a lung transplant.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-06 13:16:59" annotation_time="35.437336">
+      <sentence id="1" ids_highlights="2">For the first time, scientists have created human lungs in a lab -- an exciting step forward in regenerative medicine, but an advance that likely won&amp;apost;t help patients for many years.</sentence>
+      <sentence id="3" ids_highlights="1">&amp;quot;It&amp;apost;s been science fiction and we&amp;apost;re moving into science fact.&amp;quot;</sentence>
+      <sentence id="4" ids_highlights="3">If the lungs work -- and that&amp;apost;s a big if -- they could help the more than 1,600 people awaiting a lung transplant.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>For the first time, scientists have created human lungs in a lab -- an exciting step forward in regenerative medicine, but an advance that likely won&amp;apost;t help patients for many years.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>&amp;quot;It&amp;apost;s so darn cool,&amp;quot; said Joan Nichols, a researcher at the University of Texas Medical Branch.</content>
+        </sentence>
+        <sentence id="3">
+          <content>&amp;quot;It&amp;apost;s been science fiction and we&amp;apost;re moving into science fact.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>If the lungs work -- and that&amp;apost;s a big if -- they could help the more than 1,600 people awaiting a lung transplant.</content>
+        </sentence>
+        <sentence id="5">
+          <content>Lungs are one of many body parts being manufactured in the lab -- some parts, such as tracheas and livers, are even further along.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;Whole-organ engineering is going to work as a solution to the organ donor shortage,&amp;quot; said Dr. Stephen Badylak, deputy director of the McGowan Institute for Regenerative Medicine at the University of Pittsburgh.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>The researchers in Galveston, Texas, started with lungs from two children who&amp;apost;d died from trauma, most likely a car accident, Nichols said.</content>
+        </sentence>
+        <sentence id="8">
+          <content>Their lungs were too damaged to be used for transplantation, but they did have some healthy tissue.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>They took one of the lungs and stripped away nearly everything, leaving a scaffolding of collagen and elastin.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>The scientists then took cells from the other lung and put them on the scaffolding.</content>
+        </sentence>
+        <sentence id="11">
+          <content>They immersed the structure in a large chamber filled with a liquid &amp;quot;resembling Kool-Aid,&amp;quot; Nichols said, which provided nutrients for the cells to grow.</content>
+        </sentence>
+        <sentence id="12">
+          <content>After about four weeks, an engineered human lung emerged.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>Repeating the process, they created another lung from two other children who&amp;apost;d died.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>The lab-made lungs look very much like the real thing, Nichols says, just pinker, softer and less dense.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>Nichols said she thinks it will be another 12 years or so until they&amp;apost;ll be ready to try using these lungs for transplants.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;My students will be doing the work when I&amp;apost;m old and retired and can&amp;apost;t hold a pipette anymore,&amp;quot; she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>Before researchers experiment on humans, they&amp;apost;ll try out lab-made lungs on pigs, she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="18">
+          <content>Doctors have already had success transplanting patients with synthetic tracheas.</content>
+        </sentence>
+        <sentence id="19">
+          <content>The first procedure was done in 2011, and since then, six more have been done.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="20">
+          <content>Two of the patients have died of causes unrelated to their tracheas, said David Green, CEO of Harvard Apparatus Regenerative Technology, which makes equipment used to make engineered body parts.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

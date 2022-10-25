@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="357" link="http://www.cnn.com/2014/05/12/health/mers-outbreak-u-s-/index.html?iref=allsearchnbd=5_things" date_published="2014-05-12 15:51:48" category="health" author="Ashley Hayes, CNN" highlights_mapped="false" mapping_error="false">
+  <title>Second U.S. case of MERS confirmed</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="11">The patient traveled from Saudi Arabia to Florida on May 1.</sentence>
+      <sentence id="2" ids_article_sentences="4, 3">The first patient was released from an Indiana hospital Friday.</sentence>
+      <sentence id="3" ids_article_sentences="8">Health officials say the virus poses a low risk to the general public.</sentence>
+    </highlights>
+    <gold_standard annotation_time="21.856333">
+      <sentence id="3" ids_highlights="2">The first U.S. case was reported this month in Indiana.</sentence>
+      <sentence id="4" ids_highlights="2">That patient was released from a hospital Friday into home isolation, according to state health officials.</sentence>
+      <sentence id="8" ids_highlights="3">The &amp;quot;risk to the general public remains very low,&amp;quot; Schuchat said.</sentence>
+      <sentence id="11" ids_highlights="1">The 44-year-old Florida patient traveled on May 1 from Jeddah, Saudi Arabia, to London, then from London to Boston; Boston to Atlanta; and Atlanta to Orlando.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>There is a second confirmed case of Middle East Respiratory Syndrome imported into the United States, the Centers for Disease Control and Prevention announced Monday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Officials from the CDC and the Florida Department of Health are investigating.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The first U.S. case was reported this month in Indiana.</content>
+        </sentence>
+        <sentence id="4">
+          <content>That patient was released from a hospital Friday into home isolation, according to state health officials.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>The Indiana patient was an American health care provider who had been working in Saudi Arabia and was on a planned visit to Indiana to see his family.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>The Florida patient is also a health care provider who lives and works in Saudi Arabia, said Dr. Anne Schuchat, assistant surgeon general with the U.S. Public Health Service and director of the CDC&amp;apost;s National Center for Immunization and Respiratory Diseases.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>However, the Florida case is not linked to the Indiana case, she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>The &amp;quot;risk to the general public remains very low,&amp;quot; Schuchat said.</content>
+        </sentence>
+        <sentence id="9">
+          <content>In some countries, the virus has spread from person to person, but only in close contact, such as a person who was caring for an ill person.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;This virus has not shown the ability to spread easily from person to person in community settings,&amp;quot; she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>The 44-year-old Florida patient traveled on May 1 from Jeddah, Saudi Arabia, to London, then from London to Boston; Boston to Atlanta; and Atlanta to Orlando.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>The man began feeling unwell on the flight from Jeddah, and continued feeling ill on subsequent flights, with symptoms including &amp;quot;fever, chills and a slight cough,&amp;quot; Schuchat said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="13">
+          <content>On May 8, the man went to the emergency department of Orlando&amp;apost;s Dr. P. Phillips Hospital.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="14">
+          <content>The hospital said the man is &amp;quot;in good condition and continuing to improve.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="15">
+          <content>Dr. Antonio Crespo, an infectious disease specialist at the hospital, said officials &amp;quot;believe the risk of transmission from this patient is very low since his symptoms were mild and he was not coughing when he arrived at the hospital.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="16">
+          <content>The man was visiting family and did not visit any theme parks in the Orlando area, said Dr. John Armstrong, Florida&amp;apost;s state surgeon general and secretary of health.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="17">
+          <content>As in the Indiana case, officials were attempting to contact people -- in this case, more than 500 -- who may have come in contact with the person during travel, both in the United States and abroad.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="18">
+          <content>In addition, 16 staff members at Dr. P. Phillips Hospital have been notified of possible exposure and are being tested for the virus.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="19">
+          <content>Testing of people who have come in contact with the Indiana patient continues, and no additional cases have been seen, said Dr. Tom Frieden, CDC director.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="20">
+          <content>The CDC has dispatched a team to Saudi Arabia in conjunction with the WHO, Frieden said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="21">
+          <content>MERS first emerged in 2012, with the first cases being diagnosed in the Arabian Peninsula in 2012.</content>
+        </sentence>
+        <sentence id="22">
+          <content>As of Friday, there have been 538 cases in 17 countries, including 145 deaths, according to the WHO, said Schuchat.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="23">
+          <content>The virus is also known as MERS-CoV, since it is a coronavirus, the same group of viruses as the common cold.</content>
+        </sentence>
+        <sentence id="24">
+          <content>It attacks the respiratory system, according to the CDC.</content>
+        </sentence>
+        <sentence id="25">
+          <content>Symptoms can lead to pneumonia or kidney failure.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="26">
+          <content>Testing for MERS involves looking for the virus&amp;apost;s molecular structure in a patient&amp;apost;s nose or blood.</content>
+        </sentence>
+        <sentence id="27">
+          <content>While the patient in Indiana was the first MERS case on U.S. soil, the CDC has been preparing for such a scenario and had been conducting an awareness campaign with hospitals and doctors since MERS emerged.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="28">
+          <content>There are no travel restrictions to the Arabian Peninsula; however, the CDC suggests that people who visit there monitor their health and watch for any flu-like symptoms.</content>
+        </sentence>
+        <sentence id="29">
+          <content>If you do feel unwell after such a trip, be sure to tell your doctor about your travel.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="30">
+          <content>There is no vaccine or special treatment for MERS.</content>
+        </sentence>
+        <sentence id="31">
+          <content>Doctors say they believe the Indiana patient&amp;apost;s quick diagnosis and care dramatically increased his chances for getting better.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="32">
+          <content>No one knows exactly how this virus originated, but evidence implicating camels is emerging.</content>
+        </sentence>
+        <sentence id="33">
+          <content>In a recently published study in mBio, researchers said they isolated live MERS virus from two single-humped camels, known as dromedaries.</content>
+        </sentence>
+        <sentence id="34">
+          <content>They found multiple substrains in the camel viruses, including one that perfectly matches a substrain isolated from a human patient.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="35">
+          <content>The same group of researchers reported in February that nearly three-quarters of camels in Saudi Arabia tested positive for past exposure to the MERS coronavirus.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

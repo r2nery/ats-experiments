@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2337" link="http://edition.cnn.com/2013/07/22/world/europe/uk-royal-baby/index.html?iid=article_sidebar" date_published="2013-07-22 06:43:06" category="world" author="Dana Ford. Laura Smith-Spark and Richard Allen Greene, CNN" highlights_mapped="true" mapping_error="false">
+  <title>It&amp;apost;s a boy! Catherine gives birth to royal baby</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="23">The child&amp;apost;s title will be His Royal Highness Prince (the baby&amp;apost;s name) of Cambridge.</sentence>
+      <sentence id="2" ids_article_sentences="12">&amp;quot;We could not be happier,&amp;quot; Prince William says, a source tells CNN.</sentence>
+      <sentence id="3" ids_article_sentences="7">The fountains at Trafalgar Square turn blue after the announcement.</sentence>
+      <sentence id="4" ids_article_sentences="2">The child, third in line to the throne, weighed 8 pounds, 6 ounces.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-06 22:28:24" annotation_time="38.386">
+      <sentence id="2" ids_highlights="4">The baby boy was born at 4:24 p.m., weighing 8 pounds, 6 ounces.</sentence>
+      <sentence id="7" ids_highlights="3">The fountains at Trafalgar Square were turned blue.</sentence>
+      <sentence id="12" ids_highlights="2">&amp;quot;We could not be happier,&amp;quot; said Prince William, according to the Kensington Palace source.</sentence>
+      <sentence id="23" ids_highlights="1">The child&amp;apost;s title will be His Royal Highness Prince (the baby&amp;apost;s name) of Cambridge.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>With fanfare fit for a prince, Catherine, Duchess of Cambridge, and husband Prince William welcomed their first child Monday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The baby boy was born at 4:24 p.m., weighing 8 pounds, 6 ounces.</content>
+        </sentence>
+        <sentence id="3">
+          <content>A name has not yet been announced for the child, who is third in line to the throne.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>&amp;quot;Her Royal Highness and her child are both doing well,&amp;quot; read an official bulletin placed outside Buckingham Palace, where crowds erupted in cheers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>People from all over the world had gathered outside Buckingham Palace to await news of the birth.</content>
+        </sentence>
+        <sentence id="6">
+          <content>At least one group of well-wishers brought flowers, champagne and a card for the Duke and Duchess of Cambridge.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>The fountains at Trafalgar Square were turned blue.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;I&amp;apost;m sure that right across the country and indeed right across the commonwealth, people will be celebrating and wishing the royal couple well,&amp;quot; said British Prime Minister David Cameron.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>&amp;quot;It is an important moment in the life of our nation, but I suppose above all, it&amp;apost;s a wonderful moment for a warm and loving couple who got a brand new baby boy,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>The new parents spent some time with their baby before calling family members -- starting with Queen Elizabeth II -- to announce the birth, a Kensington Palace source told CNN royal correspondent Max Foster.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>Prince William remained at Catherine&amp;apost;s side throughout the labor and the baby was born vaginally, not via a C-section, the source said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;We could not be happier,&amp;quot; said Prince William, according to the Kensington Palace source.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="13">
+          <content>The royal couple remained in hospital overnight but hopes were high that they&amp;apost;d make an appearance as early as Tuesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="14">
+          <content>A multigun salute is set to happen that day to mark the birth.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="15">
+          <content>&amp;quot;Both my wife and I are overjoyed at the arrival of my first grandchild.</content>
+        </sentence>
+        <sentence id="16">
+          <content>It is an incredibly special moment for William and Catherine, and we are so thrilled for them on the birth of their baby boy,&amp;quot; Prince Charles and wife Camilla said in a statement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="17">
+          <content>Earlier Monday, the duchess and Prince William traveled by car from Kensington Palace to the Lindo Wing at St. Mary&amp;apost;s Hospital.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="18">
+          <content>The hospital, next to Paddington Station in London, is where William and his brother Prince Harry were born.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="19">
+          <content>The baby&amp;apost;s name may be announced when the family leaves the hospital, CNN&amp;apost;s Foster reported.</content>
+        </sentence>
+        <sentence id="20">
+          <content>Prince William&amp;apost;s name was announced a few days after birth, his brother Harry&amp;apost;s on departure from hospital.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="21">
+          <content>Some British parents have delayed naming their newborns in recent days in hopes of either copying or avoiding the royal name, he said.</content>
+        </sentence>
+        <sentence id="22">
+          <content>British bookmakers favor the names James and George.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="23">
+          <content>The child&amp;apost;s title will be His Royal Highness Prince (the baby&amp;apost;s name) of Cambridge.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="24">
+          <content>The baby is third in line for the throne now occupied by the queen.</content>
+        </sentence>
+        <sentence id="25">
+          <content>Her son, Charles, will succeed her, followed by his son, William.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="26">
+          <content>The queen returned to Buckingham Palace on Monday from Windsor Castle, another of her official residences.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="27">
+          <content>Thanks to a change agreed by the leaders of the Commonwealth countries in 2011 and passed into law this year, the baby&amp;apost;s place in the order of succession would have been the same regardless of sex.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="28">
+          <content>Previously, boys automatically trumped female siblings.</content>
+        </sentence>
+        <sentence id="29">
+          <content>So a first-born daughter could be pushed out of line by a younger brother.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="30">
+          <content>The British monarch is also head of state in 15 Commonwealth countries, including Australia, Canada, New Zealand, Belize and Jamaica.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="31">
+          <content>Canadian Prime Minister Stephen Harper offered his country&amp;apost;s congratulations.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="32">
+          <content>&amp;quot;The arrival of the newest member of the Royal Family, a future Sovereign of Canada, is a highly anticipated moment for Canadians given the special and warm relationship that we share with our Royal Family,&amp;quot; he said in a statement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="33">
+          <content>Barack and Michelle Obama also gave their best wishes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="34">
+          <content>&amp;quot;The child enters the world at a time of promise and opportunity for our two nations,&amp;quot; the president and first lady said in a statement.</content>
+        </sentence>
+        <sentence id="35">
+          <content>&amp;quot;Given the special relationship between us, the American people are pleased to join with the people of the United Kingdom as they celebrate the birth of the young prince.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="36">
+          <content>The royal birth is expected to be good for business.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="37">
+          <content>The UK-based Centre for Retail Research estimates retailers will sell $121 million worth of royal-related baby toys and souvenirs.</content>
+        </sentence>
+        <sentence id="38">
+          <content>Merchandise ranges from diaper covers and clothing to a &amp;quot;prince potty chair,&amp;quot; which of course is in the shape of a throne.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="39">
+          <content>On Twitter, topics related to the royal baby jumped to the top of the trending list in the United Kingdom Monday morning.</content>
+        </sentence>
+        <sentence id="40">
+          <content>Worldwide, hashtags such as #RoyalBabyBoy and #Will &amp;amp; Kate were trending later in the day.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="41">
+          <content>Many tweets were along the lines of the comment of Holly Thrift, who wrote, &amp;quot;The royal baby is coming!</content>
+        </sentence>
+        <sentence id="42">
+          <content>I am freaking out!&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="43">
+          <content>The baby was the only topic on the radio talk show hosted by Vanessa Feltz on BBC London 94.9 on Monday morning.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="44">
+          <content>But not everyone was thrilled.</content>
+        </sentence>
+        <sentence id="45">
+          <content>Feltz read on air a message from &amp;quot;Gary&amp;quot; asking, &amp;quot;Please, please please, I implore you not to devote too much of the morning&amp;apost;s show to the royal baby.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="34">
+      <sentences>
+        <sentence id="46">
+          <content>Feltz replied, &amp;quot;C&amp;apost;mon, Gary, give an inch.</content>
+        </sentence>
+        <sentence id="47">
+          <content>.... It&amp;apost;s huge, we can&amp;apost;t ignore it.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="35">
+      <sentences>
+        <sentence id="48">
+          <content>She reported Gary sent another message: &amp;quot;OK, point taken.</content>
+        </sentence>
+        <sentence id="49">
+          <content>I&amp;apost;m a beaten man.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

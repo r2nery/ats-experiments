@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="927" link="http://www.cnn.com/2014/04/09/opinion/sutter-pangolin-psa/index.html" date_published="2014-04-09 12:37:24" category="opinion" author="John D. Sutter, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Pangolin PSA to air in Vietnam because of CNN reader donations</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="14">CNN readers donate more than $17,000 to an environmental group in Vietnam.</sentence>
+      <sentence id="2" ids_article_sentences="13">The group says it will use the money to create a public service announcement for the pangolin.</sentence>
+      <sentence id="3" ids_article_sentences="14">John Sutter recently featured the pangolin as part of his Change the List project.</sentence>
+      <sentence id="4" ids_article_sentences="18">The scale-covered mammal is being trafficked by the ton for its scales and meat.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-02 21:37:49" annotation_time="70.023674">
+      <sentence id="13" ids_highlights="2">I find that news encouraging, and it&amp;apost;s one reason I&amp;apost;m overjoyed that a group called Education for Nature Vietnam has pledged to make a public service announcement about the pangolin to air in that country later this year or early next.</sentence>
+      <sentence id="14" ids_highlights="1, 3">After I featured the pangolin as part of CNN&amp;apost;s Change the List project, readers donated more than $17,000 to that group in hopes it would make such a PSA.</sentence>
+      <sentence id="18" ids_highlights="4">Few people in the West know it exists, but it&amp;apost;s trafficked by the ton for its scales, which are used in traditional medicine, and for its meat, which is a delicacy in Vietnam and China.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>&amp;quot;Remember: When the buying stops, the killing can, too.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>That&amp;apost;s retired NBA star Yao Ming appearing in a 2009 public service announcement aimed at stopping people in China from consuming shark-fin soup.</content>
+        </sentence>
+        <sentence id="3">
+          <content>Yao and other people sitting in a fancy restaurant push their shark dishes forward as a narrator explains that &amp;quot;each year up to 70 million sharks are killed to end up&amp;quot; in that delicacy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>It&amp;apost;s an important message, and an overlooked one.</content>
+        </sentence>
+        <sentence id="5">
+          <content>Much of the effort to combat the global illegal wildlife trade, which United for Wildlife values at $5 billion to $20 billion per year, has focused on additional park rangers and dismantling crime networks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>That&amp;apost;s important.</content>
+        </sentence>
+        <sentence id="7">
+          <content>Somewhat lost, however, have been efforts like those from Yao and WildAid, the group that produced that PSA for China, which are trying to unplug the wildlife trade from the demand that feeds it.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>Cut wildlife demand and rhinos, elephants and sharks live.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>There&amp;apost;s evidence that tactic is seeing success.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;People said it was impossible to change China, but the evidence we are now getting says consumption of shark fin soup in China is down by 50% to 70% in the last two years,&amp;quot; WildAid Executive Director Peter Knights told The Washington Post.</content>
+        </sentence>
+        <sentence id="11">
+          <content>&amp;quot;It is a myth that people in Asia don&amp;apost;t care about wildlife.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;Consumption is based on ignorance rather than malice.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>I find that news encouraging, and it&amp;apost;s one reason I&amp;apost;m overjoyed that a group called Education for Nature Vietnam has pledged to make a public service announcement about the pangolin to air in that country later this year or early next.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>After I featured the pangolin as part of CNN&amp;apost;s Change the List project, readers donated more than $17,000 to that group in hopes it would make such a PSA.</content>
+        </sentence>
+        <sentence id="15">
+          <content>The group, based in Hanoi, Vietnam, had said it would need $5,000 to cover production costs.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>The ad wouldn&amp;apost;t be happening without you.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>The pangolin is thought to be the most trafficked mammal in the world.</content>
+        </sentence>
+        <sentence id="18">
+          <content>Few people in the West know it exists, but it&amp;apost;s trafficked by the ton for its scales, which are used in traditional medicine, and for its meat, which is a delicacy in Vietnam and China.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="19">
+          <content>The Vietnamese ad likely will focus on curbing demand for pangolin scales, said Doug Hendrie, adviser of Education for Nature Vietnam&amp;apost;s wildlife crime and investigations unit.</content>
+        </sentence>
+        <sentence id="20">
+          <content>The extra CNN reader donations not used to create that ad will be used to boost the group&amp;apost;s efforts to break up the pangolin trade and out restaurants and medicine shops that are illegally selling pangolin products.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="21">
+          <content>Hendrie said he was overwhelmed by the response.</content>
+        </sentence>
+        <sentence id="22">
+          <content>He called his wife at 3 a.m. to tell her about the flood of donations.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="23">
+          <content>Education for Nature Vietnam has produced and commissioned a number of public service announcements aimed at curbing local demand for wildlife, but never one for the pangolin, which generally doesn&amp;apost;t get the funding of the more &amp;quot;charismatic&amp;quot; wildlife species, either because it is little known or isn&amp;apost;t thought to be as cute.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="24">
+          <content>The group&amp;apost;s PSAs try to create associate social shame or stigma with the consumption of wildlife products, Hendrie said.</content>
+        </sentence>
+        <sentence id="25">
+          <content>One, for example, shows a business meeting in which a man gives his colleague tiger bone as a gift.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="26">
+          <content>He looks up to see his co-workers are leaving the room.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="27">
+          <content>&amp;quot;Using tiger bone glue won&amp;apost;t impress anyone,&amp;quot; the ad says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="28">
+          <content>&amp;quot;Don&amp;apost;t embarrass yourself.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="29">
+          <content>&amp;quot;We are extremely happy to see the response,&amp;quot; he wrote in an e-mail to me, &amp;quot;and surprised as well.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="30">
+          <content>I&amp;apost;ll second that.</content>
+        </sentence>
+        <sentence id="31">
+          <content>I&amp;apost;m humbled by your generosity.</content>
+        </sentence>
+        <sentence id="32">
+          <content>The world is a weirder and more interesting place because the pangolin exists.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="33">
+          <content>And your kindness is upping the odds this creature will survive.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="34">
+          <content>For more on this project, visit CNN.com/Change.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

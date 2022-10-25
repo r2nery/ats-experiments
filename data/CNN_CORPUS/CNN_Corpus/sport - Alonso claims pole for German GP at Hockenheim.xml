@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1414" link="http://edition.cnn.com/2012/07/21/sport/motorsport/alonso-pole-gp-germany/index.html" date_published="2012-07-21 14:36:20" category="sport" author="" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Alonso claims pole for German GP at Hockenheim</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Ferrari&amp;apost;s Fernando Alonso takes pole for German Grand Prix at Hockenheim .</sentence>
+      <sentence id="2" ids_article_sentences="6, 2">Red Bull&amp;apost;s Sebastian Vettel will start Sunday&amp;apost;s race from second .</sentence>
+      <sentence id="3" ids_article_sentences="8, 6">Michael Schumacher promoted to third after Mark Webber is penalized five places for changing gearbox.</sentence>
+      <sentence id="4" ids_article_sentences="10, 6">Australian will start race down in eighth; Lewis Hamilton starts one place ahead in seventh .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-01 15:46:24" annotation_time="118.161995" mapping_time_divergence="88.6215">
+      <sentence id="1" ids_highlights="1">Ferrari&amp;apost;s Fernando Alonso will start Sunday&amp;apost;s German Grand Prix from pole position after a classy drive in wet conditions in Saturday&amp;apost;s qualifying session at Hockenheim.</sentence>
+      <sentence id="2" ids_highlights="2">The former double world champion and current championship leader sped to his second consecutive pole of the season in a time of one minute 40.904 seconds, holding off Red Bull&amp;apost;s Sebastian Vettel who joins the Spaniard on the front row of the grid.</sentence>
+      <sentence id="6" ids_highlights="2, 3, 4">Vettel&amp;apost;s teammate Mark Webber finished third but will start Sunday&amp;apost;s race in eighth after he was penalized for changing his gearbox late on Friday.</sentence>
+      <sentence id="8" ids_highlights="3">The Australian&amp;apost;s demotion means Mercedes GP&amp;apost;s Michael Schumacher, who crashed into a wall at the end of Friday&amp;apost;s practice session, will now start from third.</sentence>
+      <sentence id="10" ids_highlights="4">Williams-Renault driver Pastor Maldonado will start in fifth place with McLaren&amp;apost;s Jenson Button and Lewis Hamilton immediately behind in sixth and seventh place respectively.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Ferrari&amp;apost;s Fernando Alonso will start Sunday&amp;apost;s German Grand Prix from pole position after a classy drive in wet conditions in Saturday&amp;apost;s qualifying session at Hockenheim.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The former double world champion and current championship leader sped to his second consecutive pole of the season in a time of one minute 40.904 seconds, holding off Red Bull&amp;apost;s Sebastian Vettel who joins the Spaniard on the front row of the grid.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;We made a good strategy call to do a pit stop in Q3 so we could have fresher tires in the last minute.</content>
+        </sentence>
+        <sentence id="4">
+          <content>I think that helped us a lot to improve the lap time,&amp;quot; Alonso said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>&amp;quot;It has been a strange weekend for conditions on the track, but the car was performing well in both conditions so we will see what happens tomorrow,&amp;quot; he added.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>Vettel&amp;apost;s teammate Mark Webber finished third but will start Sunday&amp;apost;s race in eighth after he was penalized for changing his gearbox late on Friday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>F1: Maria de Villota discharged from hospital.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>The Australian&amp;apost;s demotion means Mercedes GP&amp;apost;s Michael Schumacher, who crashed into a wall at the end of Friday&amp;apost;s practice session, will now start from third.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>One place behind is Schumacher&amp;apost;s compatriot, Nico Hulkenberg in the Force India car with teammate Paul Di Resta completing a good day for Vijay Mallya&amp;apost;s team finishing qualifying in ninth place.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="10">
+          <content>Williams-Renault driver Pastor Maldonado will start in fifth place with McLaren&amp;apost;s Jenson Button and Lewis Hamilton immediately behind in sixth and seventh place respectively.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="11">
+          <content>Lotus&amp;apost; Kimi Raikkonen will start from 10th.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="12">
+          <content>Earlier in Q2, heavy rain saw all the drivers scrambling to post a time as track conditions worsened.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="13">
+          <content>Ferrari&amp;apost;s Felipe Massa and Nico Rosberg of Mercedes GP were notable casualties of the rain, failing to make it through to Q3.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="14">
+          <content>Massa starts Sunday&amp;apost;s race in 14th but Rosberg, who is sixth in the championship standings will start in 22nd place after he, like Mark Webber, incurred a five-place penalty for changing his gearbox.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="355" link="http://cnn.com/2014/03/06/health/hiv-baby-cured/index.html?iid=article_sidebar" date_published="2014-03-06 15:58:00" category="health" author="Jacque Wilson and Saundra Young, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Second baby possibly &amp;apost;cured&amp;apost; of HIV</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="4">Baby born with HIV in California appears to be free of the virus.</sentence>
+      <sentence id="2" ids_article_sentences="2">She was given high doses of three antiretroviral drugs shortly after birth.</sentence>
+      <sentence id="3" ids_article_sentences="25, 38">Case is similar to Mississippi baby &amp;quot;functionally cured&amp;quot; of HIV.</sentence>
+      <sentence id="4" ids_article_sentences="14">A clinical trial designed to test effectiveness of this treatment is starting soon.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-19 10:03:41" annotation_time="57.566998" mapping_time_divergence="14.391749">
+      <sentence id="2" ids_highlights="2">Just hours after delivery, a baby born with HIV in Mississippi was given high doses of three antiretroviral drugs.</sentence>
+      <sentence id="4" ids_highlights="1">Now doctors say another child born with the virus appears to be free of HIV after receiving similar treatment.</sentence>
+      <sentence id="14" ids_highlights="4">A clinical trial designed to test the effectiveness of early treatment on infants born to HIV-positive mothers is set to begin in the next couple of months, she said.</sentence>
+      <sentence id="25" ids_highlights="3">In March 2013, researchers announced that the girl was the first child to be &amp;quot;functionally cured&amp;quot; of HIV.</sentence>
+      <sentence id="38" ids_highlights="3">Tests showed the virus in the Mississippi baby&amp;apost;s blood continued to decrease and reached undetectable levels within 29 days of the initial treatment.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The first time, it happened almost by accident.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Just hours after delivery, a baby born with HIV in Mississippi was given high doses of three antiretroviral drugs.</content>
+        </sentence>
+        <sentence id="3">
+          <content>More than three years later, doctors say the little girl has no evidence of the life-threatening disease in her blood, despite being off medication for nearly two years.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Now doctors say another child born with the virus appears to be free of HIV after receiving similar treatment.</content>
+        </sentence>
+        <sentence id="5">
+          <content>The case report was presented at the annual Conference on Retroviruses and Opportunistic Infections in Boston this week.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>The girl was delivered at Miller Children&amp;apost;s Hospital in Long Beach, California, last summer to a mother with HIV who had not received antiretroviral drugs during pregnancy.</content>
+        </sentence>
+        <sentence id="7">
+          <content>Doctors gave the baby high doses of three drugs -- AZT, 3TC and Nevirapine -- four hours after birth.</content>
+        </sentence>
+        <sentence id="8">
+          <content>Eleven days later, the virus was undetectable in her body and remained undetectable eight months later.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="9">
+          <content>The California baby is still on antiretroviral treatment, so it&amp;apost;s too soon to tell if the child is actually in remission.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;Taking kids off antiretroviral therapy intentionally is not standard of care,&amp;quot; said Dr. Deborah Persaud, a virologist with Johns Hopkins Children&amp;apost;s Center who has been involved in both cases.</content>
+        </sentence>
+        <sentence id="11">
+          <content>&amp;quot;At this time, there is no plan to stop treatment.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>While doctors around the world are trying to duplicate the Mississippi case, more research needs to be done before new standards are implemented for treating babies born with HIV.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>&amp;quot;This has to be done in a clinical trial setting, because really the only way we can prove that we&amp;apost;ve accomplished remission in these cases is by taking them off treatment, and that&amp;apost;s not without risks,&amp;quot; Persaud said during her presentation at the conference.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>A clinical trial designed to test the effectiveness of early treatment on infants born to HIV-positive mothers is set to begin in the next couple of months, she said.</content>
+        </sentence>
+        <sentence id="15">
+          <content>Infants will be started on a combination of antiretroviral therapy within 48 hours of birth and followed &amp;quot;for an extended period of time to determine if the virus can be eradicated from their bodies,&amp;quot; according to the National Institutes of Health.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="16">
+          <content>The results could be a game changer in the fight against AIDS.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="17">
+          <content>The Mississippi baby.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="18">
+          <content>The child in Mississippi was born to a mother who received no prenatal care and was not diagnosed as HIV-positive herself until just before delivery, according to a case report published in October in the New England Journal of Medicine.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;We didn&amp;apost;t have the opportunity to treat the mom during the pregnancy as we would like to be able to do, to prevent transmission to the baby,&amp;quot; said Dr. Hannah Gay, a pediatric HIV specialist at the University of Mississippi Medical Center.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="20">
+          <content>Doctors administered the antiretroviral drugs 30 hours after the girl was born in hopes of controlling the virus.</content>
+        </sentence>
+        <sentence id="21">
+          <content>Within a couple of days, Gay confirmed the child was HIV-positive.</content>
+        </sentence>
+        <sentence id="22">
+          <content>She said the baby had probably been infected in the womb.</content>
+        </sentence>
+        <sentence id="23">
+          <content>The child remained on antiretroviral drugs for approximately 15 months.</content>
+        </sentence>
+        <sentence id="24">
+          <content>Her mother then stopped administering the drug for some reason, Gay said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="25">
+          <content>In March 2013, researchers announced that the girl was the first child to be &amp;quot;functionally cured&amp;quot; of HIV.</content>
+        </sentence>
+        <sentence id="26">
+          <content>A &amp;quot;functional cure&amp;quot; is when the presence of the virus is so small, lifelong treatment is not necessary and standard clinical tests cannot detect the virus in the blood.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="27">
+          <content>Gay told CNN the timing of intervention -- before the baby&amp;apost;s HIV diagnosis -- may deserve &amp;quot;more emphasis than the particular drugs or number of drugs used.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="28">
+          <content>The researchers believe &amp;quot;the very early therapy is blocking the spread of HIV into viral reservoirs that hold the virus for a lifetime,&amp;quot; Persaud explained.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="29">
+          <content>High-risk exposure.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="30">
+          <content>Researchers have long known that treating HIV-positive mothers early on is important, because they pass antibodies on to their babies.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="31">
+          <content>All HIV-positive moms will pass on those antibodies, but only 30% will transmit the actual virus, said Dr. Katherine Luzuriaga, an immunologist at the University of Massachusetts who worked closely with Gay.</content>
+        </sentence>
+        <sentence id="32">
+          <content>And HIV-positive mothers who are given appropriate treatment pass on the virus in less than 2% of cases.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="33">
+          <content>&amp;quot;So all babies are born antibody-positive, but only a fraction of babies born to HIV-positive women will actually get the virus, and that fraction depends on whether the mom and baby are getting antiviral prophylaxis (preventive treatment) or not.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="34">
+          <content>Newborns are considered high-risk if their mothers&amp;apost; HIV infections are not under control or if the mothers are found to be HIV-positive when they&amp;apost;re close to delivering.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="35">
+          <content>Usually, these infants would get antiviral drugs at preventive doses for six weeks to prevent infection, then start antiretroviral therapy, or ART, if HIV is diagnosed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="36">
+          <content>ART is a combination of at least three drugs used to suppress the virus and stop the progression of the disease.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="37">
+          <content>But they do not kill the virus.</content>
+        </sentence>
+        <sentence id="38">
+          <content>Tests showed the virus in the Mississippi baby&amp;apost;s blood continued to decrease and reached undetectable levels within 29 days of the initial treatment.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="39">
+          <content>The &amp;apost;Berlin patient&amp;apost;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="40">
+          <content>Researchers say the only other documented case of an HIV cure is that of Timothy Brown, known as the &amp;quot;Berlin patient.&amp;quot;</content>
+        </sentence>
+        <sentence id="41">
+          <content>In 2007, Brown, an HIV-positive American living in Germany, was battling both leukemia and HIV when he underwent a bone marrow transplant that cured not only his cancer but his HIV.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="42">
+          <content>In an interview last year, Brown told Dr. Sanjay Gupta, CNN&amp;apost;s chief medical correspondent, that he was still HIV-free.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="43">
+          <content>&amp;quot;I&amp;apost;ve been tested everywhere possible,&amp;quot; said Brown, who now lives in San Francisco.</content>
+        </sentence>
+        <sentence id="44">
+          <content>&amp;quot;My blood&amp;apost;s been tested by many, many agencies.</content>
+        </sentence>
+        <sentence id="45">
+          <content>I&amp;apost;ve had two colonoscopies to test to see if they could find HIV in my colon, and they haven&amp;apost;t been able to find any.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="46">
+          <content>But Brown&amp;apost;s case is apparently unique.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="47">
+          <content>And the procedure, which is extremely dangerous, won&amp;apost;t work in most patients because the bone marrow he received had a special genetic mutation that made the stem cells in it naturally resistant to the virus.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="48">
+          <content>Researchers tell CNN only 1% of Caucasians -- mostly Northern Europeans -- and no African-Americans or Asians have this particular mutation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="49">
+          <content>In June, five years after he was &amp;quot;cured,&amp;quot; reports surfaced that &amp;quot;traces&amp;quot; of the virus had been found in Brown&amp;apost;s blood.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="34">
+      <sentences>
+        <sentence id="50">
+          <content>Even then, some HIV experts said that doesn&amp;apost;t matter, that he&amp;apost;s been cured.</content>
+        </sentence>
+        <sentence id="51">
+          <content>In fact, many AIDS experts said they believe Brown has experienced what&amp;apost;s called a &amp;quot;sterilizing&amp;quot; cure, meaning the virus has been eliminated from the body entirely.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="35">
+      <sentences>
+        <sentence id="52">
+          <content>In July, Boston researchers said two HIV patients showed no sign of the virus in their blood following bone marrow transplants.</content>
+        </sentence>
+        <sentence id="53">
+          <content>However, researcher Dr. Timothy Henrich said in December that the virus had returned.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

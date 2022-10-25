@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="320" link="http://www.cnn.com/2012/09/13/health/new-york-soda-ban/index.html" date_published="2012-09-13 15:33:45" category="health" author="George Lerner, CNN" highlights_mapped="true" mapping_error="false">
+  <title>New York health board approves ban on large sodas</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">The proposal is meant to combat obesity and encourage residents to live healthier lifestyles.</sentence>
+      <sentence id="2" ids_article_sentences="8">Critics have assailed the ban as &amp;quot;misguided&amp;quot; and &amp;quot;arbitrary&amp;quot;.</sentence>
+      <sentence id="3" ids_article_sentences="9">New York City spends $4 billion a year on medical care for overweight people, mayor says.</sentence>
+      <sentence id="4" ids_article_sentences="10">One in eight New Yorkers suffer from diabetes, often linked to obesity, mayor notes.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-21 22:35:23" annotation_time="22.801">
+      <sentence id="1" ids_highlights="1">New York City&amp;apost;s Board of Health voted Thursday to ban the sale of sugary drinks in containers larger than 16 ounces in restaurants and other venues, in a move meant to combat obesity and encourage residents to live healthier lifestyles.</sentence>
+      <sentence id="8" ids_highlights="2">Critics, including McDonald&amp;apost;s and Coca-Cola, have assailed the ban as &amp;quot;misguided&amp;quot; and &amp;quot;arbitrary,&amp;quot; though Bloomberg has billed it as both a health and fiscal initiative.</sentence>
+      <sentence id="9" ids_highlights="3">New York City spends an estimated $4 billion each year on medical care for overweight people, the mayor said in an earlier statement.</sentence>
+      <sentence id="10" ids_highlights="4">One in eight New Yorkers also suffer from diabetes, a disease often linked to obesity, his office noted, calling sugary drinks &amp;quot;the single largest driver of these alarming increases in obesity.&amp;quot;</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>New York City&amp;apost;s Board of Health voted Thursday to ban the sale of sugary drinks in containers larger than 16 ounces in restaurants and other venues, in a move meant to combat obesity and encourage residents to live healthier lifestyles.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The board voted eight in favor, with one abstention.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;It&amp;apost;s time to face the facts: obesity is one of America&amp;apost;s most deadly problems, and sugary beverages are a leading cause of it,&amp;quot; said New York Mayor Michael Bloomberg in a statement earlier this month.</content>
+        </sentence>
+        <sentence id="4">
+          <content>&amp;quot;As the size of sugary drinks has grown, so have our waistlines -- and so have diabetes and heart disease.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>But the move is expected to draw further protest from the soda industry and those concerned about government involvement in their personal choices.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;What we need in New York are sensible solutions to the obesity issue that focus on a comprehensive approach to tackle an extremely complex problem,&amp;quot; said Eliot Hoff, a spokesman for a beverage industry-sponsored group called New Yorkers for Beverage Choices.</content>
+        </sentence>
+        <sentence id="7">
+          <content>&amp;quot;New Yorkers are smart enough to decide for themselves what to eat and drink.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>Critics, including McDonald&amp;apost;s and Coca-Cola, have assailed the ban as &amp;quot;misguided&amp;quot; and &amp;quot;arbitrary,&amp;quot; though Bloomberg has billed it as both a health and fiscal initiative.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>New York City spends an estimated $4 billion each year on medical care for overweight people, the mayor said in an earlier statement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>One in eight New Yorkers also suffer from diabetes, a disease often linked to obesity, his office noted, calling sugary drinks &amp;quot;the single largest driver of these alarming increases in obesity.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>About 58% of New York City adults are considered overweight or obese, the mayor added.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>In 2007, the Bloomberg-appointed health board adopted a regulation that forced restaurants to all but eliminate the use of partially hydrogenated vegetable oils and spreads, the main sources of trans fats in the U.S. diet.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="13">
+          <content>Thursday&amp;apost;s decision is expected to take effect in six months and be enforced by the city&amp;apost;s regular restaurant inspection team, allowing restaurant owners nine months to adapt to the changes before facing fines.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;6 months from today, our city will be an even healthier place,&amp;quot; Bloomberg tweeted on Thursday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="15">
+          <content>The ban would not apply to grocery stores.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

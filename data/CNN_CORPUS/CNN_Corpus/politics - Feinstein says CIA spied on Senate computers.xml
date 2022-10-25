@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1053" link="http://www.cnn.com/2014/03/11/politics/senate-cia" date_published="2014-03-11 14:37:13" category="politics" author="Halimah Abdullah, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Feinstein says CIA spied on Senate computers</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="5">Senate Intelligence Committee chair says CIA action may have violated federal law.</sentence>
+      <sentence id="2" ids_article_sentences="33">Committee was investigating the CIA&amp;apost;s controversial detention and interrogation program.</sentence>
+      <sentence id="3" ids_article_sentences="33">CIA director says agency has made some mistakes in its detention and interrogation program.</sentence>
+      <sentence id="4" ids_article_sentences="28">Both the panel and agency have asked the Justice Department to look into the matter.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-19 10:34:40" annotation_time="121.128334" mapping_time_divergence="30.282084">
+      <sentence id="5" ids_highlights="1">Feinstein said that she had &amp;quot;grave concerns&amp;quot; the search may have violated federal law regarding domestic spying as well as congressional oversight responsibilities under the Constitution.</sentence>
+      <sentence id="28" ids_highlights="4">The Justice Department is looking at whether to launch an investigation involving the committee&amp;apost;s review of millions of documents at a Virginia facility and counterclaims by the CIA about Intelligence Committee staffers gaining access to things they shouldn&amp;apost;t have seen.</sentence>
+      <sentence id="33" ids_highlights="2, 3">The committee launched its full blown investigation after learning in an initial review that the CIA had &amp;quot;withheld and destroyed information about its detention and interrogation program.&amp;quot;</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Washington The chairman of the Senate Intelligence Committee accused the CIA of secretly removing classified documents from her staff&amp;apost;s computers in the middle of an oversight investigation, while another lawmaker said Congress should &amp;quot;declare war&amp;quot; on the spy agency if it&amp;apost;s true.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Sen. Dianne Feinstein said CIA Director John Brennan told her in January that agency personnel searched the computers last year because they believed the panel&amp;apost;s investigators might have gained access to materials on an internal review they were not authorized to see.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;The CIA did not ask the committee or its staff if the committee had access to the internal review or how we obtained it,&amp;quot; Feinstein said in blistering remarks on the Senate floor.</content>
+        </sentence>
+        <sentence id="4">
+          <content>&amp;quot;Instead, the CIA just went and searched the committee&amp;apost;s computer.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Feinstein said that she had &amp;quot;grave concerns&amp;quot; the search may have violated federal law regarding domestic spying as well as congressional oversight responsibilities under the Constitution.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;I have asked for an apology and a recognition that this CIA search of computers used by its oversight committee was inappropriate.</content>
+        </sentence>
+        <sentence id="7">
+          <content>I have received neither,&amp;quot; she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>Republican Sen. Lindsey Graham of South Carolina called the allegations &amp;quot;dangerous to a democracy,&amp;quot; if it&amp;apost;s substantiated that the CIA interfered with a congressional investigation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>&amp;quot;Heads should roll, people should go to jail, if it&amp;apost;s true.</content>
+        </sentence>
+        <sentence id="10">
+          <content>... I&amp;apost;m going to get briefed on it.</content>
+        </sentence>
+        <sentence id="11">
+          <content>If it is, the legislative branch should declare war on the CIA, if it&amp;apost;s true,&amp;quot; Graham said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>Feinstein&amp;apost;s comments pushed into the public spotlight months of behind-the-scenes wrangling over access to and the review of documents around the post 9/11 Bush administration program for handling terror suspects.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>Brennan disputed Feinstein&amp;apost;s claims relating to the committee&amp;apost;s efforts to produce a comprehensive report on the practice that ultimately was ended by President Barack Obama in 2009.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;As far as the allegations of CIA hacking into Senate computers -- nothing could be further from the truth.</content>
+        </sentence>
+        <sentence id="15">
+          <content>We wouldn&amp;apost;t do that.</content>
+        </sentence>
+        <sentence id="16">
+          <content>I mean that&amp;apost;s, that&amp;apost;s, that&amp;apost;s just beyond the scope of reason,&amp;quot; Brennan told the Council on Foreign Relations.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="17">
+          <content>He also said that the CIA believes in congressional oversight and often has &amp;quot;spirited&amp;quot; conversations about agency techniques.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;We have made mistakes.</content>
+        </sentence>
+        <sentence id="19">
+          <content>More than a few.</content>
+        </sentence>
+        <sentence id="20">
+          <content>And we have tried mightily to learn from them,&amp;quot; Brennan said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="21">
+          <content>Brennan said in a statement last week that he was &amp;quot;deeply dismayed&amp;quot; that some members of the Senate have made &amp;quot;spurious allegations about CIA actions that are wholly unsupported by the facts.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="22">
+          <content>White House spokesman Jay Carney said President Barack Obama has &amp;quot;great confidence&amp;quot; in Brennan and the intelligence community.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="23">
+          <content>Carney would not comment on the specifics under review by the Justice Department but said Obama supported the committee&amp;apost;s investigation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="24">
+          <content>&amp;quot;The President has made clear he seeks the declassification, the findings of that report when it is completed,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="25">
+          <content>The top Republican on the intelligence panel, Saxby Chambliss of Georgia, said &amp;quot;we have some disagreements&amp;quot; on the facts and cautioned that improving the relationship with the CIA &amp;quot;is not going to happen if we throw rocks at each other.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="26">
+          <content>However, Sen. John McCain, an Arizona Republican, called the allegations &amp;quot;disturbing&amp;quot; and added that &amp;quot;a full and complete investigation&amp;quot; is needed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="27">
+          <content>He also stressed that he&amp;apost;s &amp;quot;never had a great deal of confidence with Mr. Brennan&amp;quot; and therefore has &amp;quot;no doubt about the politicization of Mr. Brennan,&amp;quot; a former White House official.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="28">
+          <content>The Justice Department is looking at whether to launch an investigation involving the committee&amp;apost;s review of millions of documents at a Virginia facility and counterclaims by the CIA about Intelligence Committee staffers gaining access to things they shouldn&amp;apost;t have seen.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="29">
+          <content>Feinstein took issue with the CIA IG&amp;apost;s referral of the case to the Justice Department as an attempt to intimidate the committee.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="30">
+          <content>She said committee staff &amp;quot;did not hack into CIA computers to obtain these documents, as has been suggested in the press.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="31">
+          <content>She said the documents were identified through a search tool provided by the CIA in order to select specific material, and that the pane would follow through with its report as planned.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="32">
+          <content>The CIA viewed the committee&amp;apost;s accessing the internal review ordered by then-Director Leon Panetta as a breach and confronted committee members about it.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="33">
+          <content>The committee launched its full blown investigation after learning in an initial review that the CIA had &amp;quot;withheld and destroyed information about its detention and interrogation program.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="34">
+          <content>This, according to Feinstein, included its decision in 2005 to &amp;quot;destroy interrogation videotapes over the objections of the Bush White House and the director of national intelligence.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

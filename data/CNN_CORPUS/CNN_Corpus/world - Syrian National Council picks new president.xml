@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2797" link="http://www.cnn.com/2012/11/09/world/meast/syria-civil-war/index.html" date_published="2012-11-09 11:00:09" category="world" author=" Ivan Watson, CNN " highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Syrian National Council picks new president</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="6">LCC announces it is breaking with the Syrian National Council.</sentence>
+      <sentence id="2" ids_article_sentences="11, 19">Of the thousands arriving in Turkey, dozens are injured .</sentence>
+      <sentence id="3" ids_article_sentences="12">Syrian government forces and rebels fought near Turkish border.</sentence>
+      <sentence id="4" ids_article_sentences="14">United Nations says more than 11,000 Syrians have fled into Turkey, Jordan.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-25 10:04:35" annotation_time="81.555" mapping_time_divergence="20.38875">
+      <sentence id="6" ids_highlights="1">The news came on the same day that a group that organizes and documents anti-government actions announced it was breaking with the Syrian National Council.</sentence>
+      <sentence id="11" ids_highlights="2">The moves in Qatar came as rebels inside Syria claimed victory at a key border town after fighting drove thousands of civilians into Turkey.</sentence>
+      <sentence id="12" ids_highlights="3">The battles between Syrian government forces and rebels raged in Ras Al Ain, across the border from Turkey.</sentence>
+      <sentence id="14" ids_highlights="4">By Friday, more than 11,000 Syrians had escaped into Jordan and Turkey and more than 400,000 had been registered or were awaiting registration as refugees, said Ron Redmond, the spokesman for U.N. High Commissioner for Refugees.</sentence>
+      <sentence id="19" ids_highlights="2">Fighters killed dozens of people and arrested others, he said.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The Syrian National Council, a prominent opposition group, elected its spokesman, George Sabra, as president at a meeting Friday in Doha, Qatar.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>A foreign policy spokesman for the group, Radwan Ziadeh, said Sabra -- the group&amp;apost;s third president -- replaces Abdulbaset Sieda, who is now a member of the executive office.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>In all, 11 members -- men of various religious and ethnic backgrounds -- were elected to the executive office.</content>
+        </sentence>
+        <sentence id="4">
+          <content>&amp;quot;We hope the refreshment in leadership will reflect on the work of the SNC in the future,&amp;quot; Ziadeh said.</content>
+        </sentence>
+        <sentence id="5">
+          <content>&amp;quot;No women were elected to the executive council but there is a seat for a woman that remains empty,&amp;quot; he said, adding that no woman had run for the position.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>The news came on the same day that a group that organizes and documents anti-government actions announced it was breaking with the Syrian National Council.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;Several attempts have been made by the Local Coordination Committees in Syria to push the Syrian National Council and its leadership to adopt a serious and effective general reform plan so that the SNC can assume its role as a political representative of the great people of Syria,&amp;quot; the LCC said in a written statement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;It is clear to us now that the Syrian National Council is not fit to assume such (a) role, especially after the disappointing results (of) its restructure attempts.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>But Najib al-Adel, a member of the Idlib Revolutionary Movement, told CNN from Doha that some members of the LCC were sticking with the SNC.</content>
+        </sentence>
+        <sentence id="10">
+          <content>In addition, other opposition groups remained in Doha and were prepared to continue the talks, he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>The moves in Qatar came as rebels inside Syria claimed victory at a key border town after fighting drove thousands of civilians into Turkey.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>The battles between Syrian government forces and rebels raged in Ras Al Ain, across the border from Turkey.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>The fighting has pushed thousands more refugees out of Syria.</content>
+        </sentence>
+        <sentence id="14">
+          <content>By Friday, more than 11,000 Syrians had escaped into Jordan and Turkey and more than 400,000 had been registered or were awaiting registration as refugees, said Ron Redmond, the spokesman for U.N. High Commissioner for Refugees.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="15">
+          <content>Across Syria, 126 people were reported dead on Friday, the LCC said.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Among them were nine childen and six women, it said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>Syrian rebels reported key strides in their nearly 20-month battle against the Syrian regime, said Amer al-Hasakawi, a Free Syrian Army spokesman in Hasaka.</content>
+        </sentence>
+        <sentence id="18">
+          <content>He said several rebel brigades had been slugging it out with government security forces since Thursday morning.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="19">
+          <content>Fighters killed dozens of people and arrested others, he said.</content>
+        </sentence>
+        <sentence id="20">
+          <content>They seized government buildings, gained control of a border crossing with Turkey and took over border outposts.</content>
+        </sentence>
+        <sentence id="21">
+          <content>He said dozens of soldiers in those outposts defected.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="22">
+          <content>Clashes continued Friday with military forces shelling Ras Al Ain with artillery and firing rockets.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="23">
+          <content>Abu Ahmed, a rebel commander, reported major displacement of civilians because of the fighting and fears that government warplanes will bombard rebel-held neighborhoods.</content>
+        </sentence>
+        <sentence id="24">
+          <content>He said rebels were helping move some residents into Turkey and others have fled to nearby Syrian cities.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="25">
+          <content>&amp;quot;Thanks to God, none of the FSA fighters are martyred,&amp;quot; said Sgt. Muahyman al-Taee, a rebel brigade commander.</content>
+        </sentence>
+        <sentence id="26">
+          <content>&amp;quot;We&amp;apost;ve killed big numbers from the regime&amp;apost;s dogs.</content>
+        </sentence>
+        <sentence id="27">
+          <content>Soon we will announce the complete liberation of the city.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="28">
+          <content>The Ras Al Ain fighting could be heard from over the Turkish border in the town of Ceylanpinar.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="29">
+          <content>The violence in Syria had Turkey&amp;apost;s military on high alert.</content>
+        </sentence>
+        <sentence id="30">
+          <content>TV footage showed Turkish soldiers, wearing combat gear, taking cover along berms.</content>
+        </sentence>
+        <sentence id="31">
+          <content>It also showed Turkish soldiers picking refugees up from the border and organizing their border crossing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="32">
+          <content>&amp;quot;The Syrians came right across the border wire,&amp;quot; said Mehmet Saitavci, the mayor of a neighborhood in Ceylanpinar.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="33">
+          <content>Schools in the Turkish town were closed because of the fighting.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="34">
+          <content>&amp;quot;People here have a lot of relatives on the other side, and they are coming up to the border and the Turkish military takes them and brings them into Turkey,&amp;quot; Saitavci said.</content>
+        </sentence>
+        <sentence id="35">
+          <content>&amp;quot;We were told we can have our relatives be our guests for a few days.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="36">
+          <content>Of the thousands of refugees, 71 were injured, the Turkish Foreign Ministry official said.</content>
+        </sentence>
+        <sentence id="37">
+          <content>Two died of their wounds.</content>
+        </sentence>
+        <sentence id="38">
+          <content>Most of the Syrians were sent to a Turkish camp in the town of Akcakale.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="39">
+          <content>The Turkish Anadolu news agency reported Friday that 26 Syrian military officers and 71 of their relatives had fled to the Turkish province of Hatay.</content>
+        </sentence>
+        <sentence id="40">
+          <content>But Turkey&amp;apost;s Foreign Ministry denied the report.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="41">
+          <content>Before the new arrivals, the Turkish government had said it was hosting more than 111,000 Syrian refugees.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="42">
+          <content>As violence continued in border towns, battles between the forces of Syrian President Bashar al-Assad and opposition fighters raged elsewhere.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="43">
+          <content>The Syrian conflict has left more than 35,000 people dead and widespread displacement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="44">
+          <content>The United States announced more than $34 million in humanitarian assistance for Syrians on Friday, bringing the amount of humanitarian aid it has allocated to more than $165 million.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="45">
+          <content>U.S. Deputy Assistant Secretary Kelly T. Clements made the announcement Friday at the Syrian Humanitarian Forum in Geneva, Switzerland.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="46">
+          <content>The money will be used for several purposes, including the purchase of blankets, heating of stoves and other goods for refugees in Jordan, Turkey and Lebanon during the winter months.</content>
+        </sentence>
+        <sentence id="47">
+          <content>The aid also will target health care, including an immunization campaign for up to 1 million children in Syria to protect them from measles and other diseases.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="48">
+          <content>It will also be used to help wounded Syrians at the Lebanon-Syrian border get medical care.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

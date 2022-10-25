@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="12" link="http://edition.cnn.com/2014/02/26/business/business-customers-key-to-turning-blackberry-around/index.html?hpt=ibu_c2" date_published="2014-02-26 18:05:02" category="business" author="Jim Boulden and Dylan Reynolds, CNN" highlights_mapped="true" mapping_error="false">
+  <title>BlackBerry going back to basics, says new CEO</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">Chen: &amp;quot;My strategy relies on the enterprise customer for the next one to two years&amp;quot;.</sentence>
+      <sentence id="2" ids_article_sentences="5">Z3 and Q20 are first products emerging from partnership with electronics maker Foxconn.</sentence>
+      <sentence id="3" ids_article_sentences="13">Asked if he would consider selling off BBM, Chen said: &amp;quot;I run a public company.&amp;quot;</sentence>
+      <sentence id="4" ids_article_sentences="24">&amp;quot;Potential cannot be realized until we make money and then the company starts believing in itself&amp;quot;.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-09-15 17:49:54" annotation_time="49.578335">
+      <sentence id="2" ids_highlights="1">Speaking in Barcelona, where he unveiled the company&amp;apost;s new Z3 and Q20 smartphones on Tuesday, Chen said: &amp;quot;My turnaround strategy relies on the enterprise customer for the next one to two years.</sentence>
+      <sentence id="5" ids_highlights="2">The Z3 and Q20 will be the first products to emerge from BlackBerry&amp;apost;s partnership with electronics maker Foxconn.</sentence>
+      <sentence id="13" ids_highlights="3">Asked if he would consider selling off BBM, Chen said: &amp;quot;I run a public company.</sentence>
+      <sentence id="24" ids_highlights="4">Until I do that, all these things are interesting, relevant, capture a lot of attention, but the real potential cannot be realized until we make money and then the company starts believing in itself.&amp;quot;</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>BlackBerry CEO John Chen says the company will focus on attracting and keeping business customers as he implements his strategy to reverse its decline.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Speaking in Barcelona, where he unveiled the company&amp;apost;s new Z3 and Q20 smartphones on Tuesday, Chen said: &amp;quot;My turnaround strategy relies on the enterprise customer for the next one to two years.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;In the meantime I actually want to make sure that we still have a very keen eye on the consumer space.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>&amp;quot;By that time I hope if all my plans work -- a big if -- we will be a much more financially solid company, at which point in time you will see us being more aggressive into the other space.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>The Z3 and Q20 will be the first products to emerge from BlackBerry&amp;apost;s partnership with electronics maker Foxconn.</content>
+        </sentence>
+        <sentence id="6">
+          <content>Under the five-year agreement, Foxconn will develop and manufacture certain BlackBerry handsets, while the company focuses on software and its BlackBerry Messsaging service, BBM.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>Although they unveiled the Q20 smartphone, which combines a physical keyboard with a 3.5-inch touchscreen, the company didn&amp;apost;t show a prototype in Barcelona.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>Speaking about the production of the Z3, Chen said: &amp;quot;It&amp;apost;s the first collaboration between us and Foxconn.</content>
+        </sentence>
+        <sentence id="9">
+          <content>I don&amp;apost;t think anybody has been able to put a phone together at this level this quickly and it will get into the hands of our consumers in exactly four months.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;The deal was signed between us and Foxconn on December 12, 2013, and we will see it in April.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>BBM has been a talking point at Mobile World Congress in Barcelona, following Facebook&amp;apost;s blockbuster acquisition of messaging service WhatsApp last week for $19 billion.</content>
+        </sentence>
+        <sentence id="12">
+          <content>BBM boasts around 85 million monthly active users, compared with more than 450 million for WhatsApp.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>Asked if he would consider selling off BBM, Chen said: &amp;quot;I run a public company.</content>
+        </sentence>
+        <sentence id="14">
+          <content>Anything that&amp;apost;s good for our shareholder I have to entertain.</content>
+        </sentence>
+        <sentence id="15">
+          <content>Having said that, BBM is a huge part of our strategy going forwards.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;There are a lot more features and functionality that will be built up on it.</content>
+        </sentence>
+        <sentence id="17">
+          <content>It&amp;apost;s an integral part of what value do we add to the enterprise [customer] and why should they continue with us.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="18">
+          <content>BlackBerry unveiled a new version of its messaging service Tuesday called BBM Protected, with a focus on increased security for business clients.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="19">
+          <content>He said raising confidence inside and outside the company is the biggest challenge he faces in the next 12 months.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="20">
+          <content>&amp;quot;I need to make sure the employee is confident.</content>
+        </sentence>
+        <sentence id="21">
+          <content>I&amp;apost;m making a lot of changes which are a little more of a departure from the norms of the past.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;I&amp;apost;ve been in the business long enough to know this is really about &amp;apost;show me.&amp;apost;</content>
+        </sentence>
+        <sentence id="23">
+          <content>At the end of the day they want to see that we can make progress as a company both in product and financially.</content>
+        </sentence>
+        <sentence id="24">
+          <content>Until I do that, all these things are interesting, relevant, capture a lot of attention, but the real potential cannot be realized until we make money and then the company starts believing in itself.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

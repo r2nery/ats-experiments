@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1900" link="http://www.cnn.com/2014/02/16/us/new-york-cuomo-prisons-college-classes/index.html" date_published="2014-02-17 03:11:33" category="us" author="Morgan Winsor, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Cuomo: We&amp;apost;re bringing college classes to New York&amp;apost;s prisons</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">New York Gov. Andrew Cuomo wants to give inmates the chance to earn a degree.</sentence>
+      <sentence id="2" ids_article_sentences="2">The program will offer college-level courses at 10 New York prisons this fall .</sentence>
+      <sentence id="3" ids_article_sentences="7">Cuomo on state&amp;apost;s current incarceration system: &amp;quot;We have little to show for it&amp;quot;.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-07-26 17:22:46" annotation_time="18.1135">
+      <sentence id="1" ids_highlights="1">New York Gov. Andrew Cuomo announced Sunday the launch of a statewide program to fund college courses in prisons, giving inmates the opportunity to earn a college degree.</sentence>
+      <sentence id="2" ids_highlights="2">The program, which will begin in the fall, will offer college-level courses at 10 New York prisons -- one for each region of the state.</sentence>
+      <sentence id="7" ids_highlights="3">But for years, my friends, we have been doing the same thing over and over, and we have little to show for it.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>New York Gov. Andrew Cuomo announced Sunday the launch of a statewide program to fund college courses in prisons, giving inmates the opportunity to earn a college degree.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The program, which will begin in the fall, will offer college-level courses at 10 New York prisons -- one for each region of the state.</content>
+        </sentence>
+        <sentence id="3">
+          <content>New York has 58 state prisons, according to Matt Wing, spokesperson for Cuomo.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>During a news conference Sunday, Cuomo said this program is an investment in people before problems develop, rather than just paying for the damage after it occurs.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>It costs $60,000 a year to incarcerate one person and about $3.6 billion in total costs for prisons, with a 40% chance of an inmate becoming a repeat offender, Wing told CNN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;Albert Einstein had that famous definition of insanity, which is doing the same thing over and over and expecting a different result.</content>
+        </sentence>
+        <sentence id="7">
+          <content>But for years, my friends, we have been doing the same thing over and over, and we have little to show for it.</content>
+        </sentence>
+        <sentence id="8">
+          <content>It&amp;apost;s time we try something new,&amp;quot; Cuomo said at the news conference.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>Cuomo&amp;apost;s program is based on a privately funded model started at Bard College in Annandale-on-Hudson, which provided college courses in six maximum and medium security prisons across the state.</content>
+        </sentence>
+        <sentence id="10">
+          <content>Some 500 inmates were educated and 250 received degrees, and of those only 4% became repeat offenders.</content>
+        </sentence>
+        <sentence id="11">
+          <content>It cost $5,000 a year to fund one college education through the Bard program, according to Cuomo.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;The proof is in the pudding,&amp;quot; said the governor.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>But offering a funded college education to incarcerated individuals isn&amp;apost;t exactly &amp;quot;new.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>Pell grants, which provide financial aid to students in need, were made available to prison inmates in the 1970s.</content>
+        </sentence>
+        <sentence id="15">
+          <content>But in 1994, Congress passed legislation that eliminated Pell grant eligibility for inmates, and the following year, New York banned inmates from receiving state aid for in-prison education programs.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;New York state held onto a couple of small programs.</content>
+        </sentence>
+        <sentence id="17">
+          <content>But they were skeletons of what they used to be,&amp;quot; said former inmate Glenn Martin.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="18">
+          <content>Martin, 42, grew up impoverished in Brooklyn and spent six years in state prison.</content>
+        </sentence>
+        <sentence id="19">
+          <content>While serving jail time in Attica and Wyoming correctional facilities, a correction council suggested he apply to college.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="20">
+          <content>&amp;quot;I&amp;apost;ve never experienced that.</content>
+        </sentence>
+        <sentence id="21">
+          <content>No one in my life had ever told me to go to college,&amp;quot; Martin told CNN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="22">
+          <content>After two years, Martin earned a bachelor&amp;apost;s degree in social science from behind bars, with financial aid from a private philanthropy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="23">
+          <content>Now, Martin is the founder and president of JustLeadershipUSA, an organization aimed at reducing the national prison population in half by 2030.</content>
+        </sentence>
+        <sentence id="24">
+          <content>Martin is also the co-founder of the Education Inside Out Coalition, which seeks to return educational opportunities to incarcerated and post-incarcerated individuals.</content>
+        </sentence>
+        <sentence id="25">
+          <content>Martin said his exposure to a liberal arts education showed him how to navigate a world that he had never known how to manage growing up.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="26">
+          <content>Martin said a statewide initiative to fund correctional education is a &amp;quot;win-win&amp;quot; for everyone in New York and hopes other states will catch on.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="27">
+          <content>&amp;quot;You save money and you save lives,&amp;quot; he told CNN.</content>
+        </sentence>
+        <sentence id="28">
+          <content>&amp;quot;You build the communities that are most impacted by crime and incarceration.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

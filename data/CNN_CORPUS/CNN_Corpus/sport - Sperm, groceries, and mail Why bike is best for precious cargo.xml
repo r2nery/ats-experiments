@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1521" link="http://edition.cnn.com/2014/02/12/sport/sperm-groceries-and-mail-bike" date_published="2014-02-12 11:54:36" category="sport" author="Daisy Carrington, for CNN" highlights_mapped="true" mapping_error="false">
+  <title>Sperm, groceries, and mail: Why bike is best for precious cargo</title>
+  <keywords>cargo bike,cycling,bicylcing,cyclelogistics,bicycle fatalitie,bicycle fatalaties,bicycle deaths,cycle deaths,bicycle deleveries,EU,European Sperm Bank,sperm bike,Outspoken Deliveries,Cambridge,sperm,cargo bikes</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="12">Research suggests that 90% of grocery trips could be made by bicycle.</sentence>
+      <sentence id="2" ids_article_sentences="12">Cargo bikes could accommodate half of all deliveries made in urban centers.</sentence>
+      <sentence id="3" ids_article_sentences="19">Though delivery trucks account for 3% EU of traffic, they contribute to 18% of fatal accidents.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-09-08 22:54:21" annotation_time="21.425001">
+      <sentence id="12" ids_highlights="1, 2">Research undertaken by CycleLogistics, an EU-funded project dedicated to replacing motorized freight transport with bikes, found that bikes and cargo bikes could accommodate 51% of all deliveries in European cities currently being moved by all types of motor vehicles and over 90% of all supermarket shopping trips.</sentence>
+      <sentence id="19" ids_highlights="3">They account for about 3% of the total vehicle fleet in Europe, but 18% of fatal road accidents.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>As any bike lover can attest, cycling has numerous advantages over driving; it&amp;apost;s cheaper, healthier, and when there&amp;apost;s traffic, the ride can be considerably quicker.</content>
+        </sentence>
+        <sentence id="2">
+          <content>What cars bring to the table is storage space.</content>
+        </sentence>
+        <sentence id="3">
+          <content>It&amp;apost;s difficult to imagine moving house, schlepping groceries or making deliveries by bicycle, but in a handful of cities, residents and businesses are choosing to do just that.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="4">
+          <content>Nine years ago, Rob King launched Outspoken Deliveries, a bicycle courier service in Cambridge, England -- a city often deemed the country&amp;apost;s most bike-friendly.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>&amp;quot;When we started, there were a few companies in Cambridge doing what we do, but they were still using shoulder bags, and delivering small documents.</content>
+        </sentence>
+        <sentence id="6">
+          <content>We found these cargo bikes that operated like a small van, only they were much more flexible and faster,&amp;quot; he recalls.</content>
+        </sentence>
+        <sentence id="7">
+          <content>Today, his fleet includes bikes that can haul up to 250kg (550 pounds).</content>
+        </sentence>
+        <sentence id="8">
+          <content>Last year, Outspoken started subcontracting for larger delivery firms, including Parcelforce, TNT and APC.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="9">
+          <content>&amp;quot;Traveling that last mile or two to deliver a package can be a bit of a headache for delivery companies,&amp;quot; explains King.</content>
+        </sentence>
+        <sentence id="10">
+          <content>In the EU, larger companies often have to comply with automobile restrictions (in Cambridge, cars can&amp;apost;t load or unload in the city center between 10am and 4pm without incurring a fine) and increased taxes for high-emission vehicles.</content>
+        </sentence>
+        <sentence id="11">
+          <content>Delivery by bike avoids those pitfalls.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="12">
+          <content>Research undertaken by CycleLogistics, an EU-funded project dedicated to replacing motorized freight transport with bikes, found that bikes and cargo bikes could accommodate 51% of all deliveries in European cities currently being moved by all types of motor vehicles and over 90% of all supermarket shopping trips.</content>
+        </sentence>
+        <sentence id="13">
+          <content>According to Austrian Mobility Research, that amounts to a saving of 37 million tons of C02 a year, or a full 1% of Europe&amp;apost;s current emissions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;C02 isn&amp;apost;t even the main argument,&amp;quot; says Dr. Randy Rzewnicki, the project manager for CycleLogistics.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="15">
+          <content>&amp;quot;There are an awful lot of more things that would benefit from moving shipping to bikes; urban air pollution, noise pollution, traffic.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Those are big problems in Europe.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="17">
+          <content>Of course, a surge in bike usage does raise the issue of bicycle casualties, though according to Ceri Woolsgrove, the policy officer for road safety and technical issues at The European Cyclists&amp;apost; Federation, reducing the number of delivery trucks could significantly reduce fatalities.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;Traditional lorries are really the most dangerous vehicle we come up against.</content>
+        </sentence>
+        <sentence id="19">
+          <content>They account for about 3% of the total vehicle fleet in Europe, but 18% of fatal road accidents.</content>
+        </sentence>
+        <sentence id="20">
+          <content>About 22% of cyclists killed in the EU are killed in collisions with good vehicles and public transport,&amp;quot; he notes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="21">
+          <content>Despite the many benefits to getting cargo bikes on the road, Rzewnicki finds that one of the biggest hurdles his mission faces is a misconception of what is transferable by bike.</content>
+        </sentence>
+        <sentence id="22">
+          <content>In point of fact, there are few limitations.</content>
+        </sentence>
+        <sentence id="23">
+          <content>King says some of the more unusual things they transport include medical samples and human tissue for local hospitals.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="24">
+          <content>&amp;quot;We&amp;apost;ve taken heart valves, and eyes, and all sorts,&amp;quot; he notes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="25">
+          <content>In Copenhagen, a local sperm bank even developed a sperm-shaped bicycle that carries (you guessed it) sperm.</content>
+        </sentence>
+        <sentence id="26">
+          <content>To accomplish this, the belly of the bike has been outfitted with a nitrogen-cooled tank set to -320 degrees F to make carting samples around the city a possibility.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="27">
+          <content>&amp;quot;We have about 15 clinics around the city, and we used to find ourselves stuck in traffic a lot of the time.</content>
+        </sentence>
+        <sentence id="28">
+          <content>By bike, it&amp;apost;s an easy 20 minute ride between them,&amp;quot; explains Dr. Peter Bower, the CEO of the European Sperm Bank.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="29">
+          <content>While Bower notes he&amp;apost;s &amp;quot;taken it to the extreme,&amp;quot; he points out that in the cycle haven that is Copenhagen, cargo bikes are becoming the norm over cars.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="30">
+          <content>&amp;quot;There are plumbers and carpenters and craftsmen that are starting to use bikes to carry a significant load.</content>
+        </sentence>
+        <sentence id="31">
+          <content>People here see the advantage of moving quickly through the city with more than you could carry on a regular bike.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

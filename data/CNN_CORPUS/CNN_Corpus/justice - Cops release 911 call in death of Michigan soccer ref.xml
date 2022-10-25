@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="489" link="http://www.cnn.com/2014/07/02/justice/michigan-soccer-death/index.html" date_published="2014-07-02 22:42:21" category="justice" author="Zachary Slater, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Cops release 911 call in death of Michigan soccer ref</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Police release 911 call in punching death of Michigan soccer referee by player.</sentence>
+      <sentence id="2" ids_article_sentences="3, 2">Caller says, &amp;quot;The referee is knocked out. He&amp;apost;s not waking up&amp;quot;.</sentence>
+      <sentence id="3" ids_article_sentences="20">John Bieniewicz, 44, died at hospital after what police say was an unprovoked attack.</sentence>
+      <sentence id="4" ids_article_sentences="23">Baseel Abdul-Amir Saad, 36, faces an assault charge .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-07-30 14:39:00" annotation_time="50.855667">
+      <sentence id="1" ids_highlights="1">A 911 call released Wednesday recounts the moments after soccer referee John Bieniewicz was fatally punched in the head by a player during an adult-league soccer match in Michigan.</sentence>
+      <sentence id="2" ids_highlights="2">&amp;quot;The referee is knocked out,&amp;quot; a female caller frantically told a 911 operator on Sunday.</sentence>
+      <sentence id="3" ids_highlights="2">&amp;quot;He&amp;apost;s not waking up.&amp;quot;</sentence>
+      <sentence id="20" ids_highlights="3">Bieniewicz was pronounced dead at Detroit Receiving Hospital after what police said was an unprovoked attack.</sentence>
+      <sentence id="23" ids_highlights="4">Baseel Abdul-Amir Saad, 36, has been charged with assault with intent to do great bodily harm less than murder.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>A 911 call released Wednesday recounts the moments after soccer referee John Bieniewicz was fatally punched in the head by a player during an adult-league soccer match in Michigan.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>&amp;quot;The referee is knocked out,&amp;quot; a female caller frantically told a 911 operator on Sunday.</content>
+        </sentence>
+        <sentence id="3">
+          <content>&amp;quot;He&amp;apost;s not waking up.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Bieniewicz, 44, an avid soccer fan and referee who sometimes officiated up to three games a weekend, died Tuesday.</content>
+        </sentence>
+        <sentence id="5">
+          <content>In a state where football and basketball reign, Bieniewicz&amp;apost;s passion was soccer, a childhood friend recalled.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;He loved the game of soccer.</content>
+        </sentence>
+        <sentence id="7">
+          <content>He loved refereeing; it was like free time to him,&amp;quot; Greg Acho, the friend, told CNN.</content>
+        </sentence>
+        <sentence id="8">
+          <content>&amp;quot;He died doing what he loved.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="9">
+          <content>The woman who called police also described the alleged suspect fleeing the scene as the victim was unconscious on the field.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;It looks like a ... oh God, they&amp;apost;re peeling out,&amp;quot; she told the operator.</content>
+        </sentence>
+        <sentence id="11">
+          <content>&amp;quot;It&amp;apost;s a Jeep.</content>
+        </sentence>
+        <sentence id="12">
+          <content>It&amp;apost;s a black Jeep Wrangler.</content>
+        </sentence>
+        <sentence id="13">
+          <content>They&amp;apost;re peeling out of the parking lot right now.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="14">
+          <content>The suspect left the scene, she said.</content>
+        </sentence>
+        <sentence id="15">
+          <content>An ambulance was needed.</content>
+        </sentence>
+        <sentence id="16">
+          <content>The operator asked what did they hit him with.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;His fist, yeah, in the middle of the game,&amp;quot; the woman said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="18">
+          <content>The woman said the referee was not breathing.</content>
+        </sentence>
+        <sentence id="19">
+          <content>Others on the field attempted CPR.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="20">
+          <content>Bieniewicz was pronounced dead at Detroit Receiving Hospital after what police said was an unprovoked attack.</content>
+        </sentence>
+        <sentence id="21">
+          <content>A supervisor at Mott Children&amp;apost;s Hospital in Ann Arbor said he was in critical condition when he arrived the hospital, police said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="22">
+          <content>The Wayne County Medical Examiner&amp;apost;s office will determine the cause of death, police said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="23">
+          <content>Baseel Abdul-Amir Saad, 36, has been charged with assault with intent to do great bodily harm less than murder.</content>
+        </sentence>
+        <sentence id="24">
+          <content>He was being held on $500,000 bail, police said.</content>
+        </sentence>
+        <sentence id="25">
+          <content>He pleaded not guilty.</content>
+        </sentence>
+        <sentence id="26">
+          <content>A hearing was set for July 10.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="27">
+          <content>Bieniewicz is survived by his wife and two sons, 13 and 9.</content>
+        </sentence>
+        <sentence id="28">
+          <content>His friends have established a GoFundMe.com account for his family that had raised nearly $60,000 by Wednesday afternoon.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="29">
+          <content>Acho said donations will be used to cover medical expenses, funeral costs and to start a college fund for his children.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="30">
+          <content>Bieniewicz was an organ donor, Acho said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="31">
+          <content>&amp;quot;John Bieniewicz was a man who lived life to the fullest,&amp;quot; friends wrote on a website dedicated to his memory.</content>
+        </sentence>
+        <sentence id="32">
+          <content>&amp;quot;He had a passion for his family, a passion for the kids at Mott Children&amp;apost;s Hospital, and a passion for soccer.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="33">
+          <content>Saad&amp;apost;s defense lawyer, Brian Berry, expressed his condolences to the family of the referee but told CNN Tuesday that all the facts in the case had not come out and that &amp;quot;witness accounts may have been miscategorized.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="34">
+          <content>The website dedicated to the victim added, &amp;quot;The boys will miss his fatherly guidance and support but they will also miss his financial support, and we are here to help that in a small way.</content>
+        </sentence>
+        <sentence id="35">
+          <content>If you were touched by John, or merely share his love of soccer, we ask that in his name you donate to his children&amp;apost;s futures.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="36">
+          <content>Last year, a 17-year-old soccer player in Utah pleaded guilty to homicide by assault in the death of referee Ricardo Portillo.</content>
+        </sentence>
+        <sentence id="37">
+          <content>A judge ordered the teenager, who was not named publicly, to keep a picture of Portillo in his cell for the remainder of his time in juvenile jail.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="38">
+          <content>The judge recommended a sentence of three years, said Salt Lake County District Attorney Sim Gill.</content>
+        </sentence>
+        <sentence id="39">
+          <content>The teen also was ordered to write weekly letters to Portillo&amp;apost;s family, telling them what steps he is taking to return to normal life.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

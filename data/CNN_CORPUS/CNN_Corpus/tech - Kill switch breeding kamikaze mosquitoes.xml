@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1617" link="http://www.cnn.com/2014/07/08/tech/innovation/breeding-kamikaze-mosquitoes/index.html" date_published="2014-07-08 12:00:05" category="tech" author="Kieron Monks, for CNN" highlights_mapped="true" mapping_error="false">
+  <title>Kill switch: breeding kamikaze mosquitoes</title>
+  <keywords>science,dengue fever,Oxitec,World Health Organization,Breakbone Fever,Genewatch UK,GMO,Genetically modified,Animals</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="7">Biotech firm Oxitec is tackling Dengue Fever with genetically modified mosquitos. .</sentence>
+      <sentence id="2" ids_article_sentences="9">When the modified male mosquito mates with a female, a deadly transgene is passed on and the offspring dies.</sentence>
+      <sentence id="3" ids_article_sentences="4">50-100 million are infected with Dengue Fever each year. .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-26 18:41:10" annotation_time="21.016668">
+      <sentence id="4" ids_highlights="3">There is no vaccine or cure for the painful virus known as Breakbone Fever, and of the 50-100 million people infected each year, over 20,000 die.</sentence>
+      <sentence id="7" ids_highlights="1">British biotech firm Oxitec is tackling the problem through pioneering genetic modification (GM) of the Aedes Aegypti.</sentence>
+      <sentence id="9" ids_highlights="2">When the mosquito is released into the wild and mates with a female -- always of the same species - the deadly transgene is passed on and the offspring dies.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The Aedes Aegypti mosquito is just two to three millimeters long but its impact is devastating.</content>
+        </sentence>
+        <sentence id="2">
+          <content>Of the thousands of mosquito species, this one bears primary responsibility for one of the world&amp;apost;s deadliest and fastest growing diseases.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>In the past 50 years, incidence of Dengue Fever has multiplied by 30 according to the WHO, spreading from nine countries in 1970 to over 100 today.</content>
+        </sentence>
+        <sentence id="4">
+          <content>There is no vaccine or cure for the painful virus known as Breakbone Fever, and of the 50-100 million people infected each year, over 20,000 die.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>Aedes Aegypti has spread with this epidemic, and has become the target of efforts to control the disease.</content>
+        </sentence>
+        <sentence id="6">
+          <content>But while solutions such as mass spraying of toxic chemicals have proved expensive, ineffective and environmentally damaging, scientists hope to use the insect as the agent of its own destruction.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>British biotech firm Oxitec is tackling the problem through pioneering genetic modification (GM) of the Aedes Aegypti.</content>
+        </sentence>
+        <sentence id="8">
+          <content>Scientists breed large numbers of the insects in laboratories and inject the sperm cells of males with a lethal gene.</content>
+        </sentence>
+        <sentence id="9">
+          <content>When the mosquito is released into the wild and mates with a female -- always of the same species - the deadly transgene is passed on and the offspring dies.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="10">
+          <content>Oxitec report successes from their Release of Insects with Dominant Lethality (RIDL) programme trials in Malaysia, the Cayman Islands and Brazil, claiming a 96% suppression rate in the latter case.</content>
+        </sentence>
+        <sentence id="11">
+          <content>This has proved enough for the Brazilian government to announce this year the first commercial release of GM mosquitoes into the wild.</content>
+        </sentence>
+        <sentence id="12">
+          <content>The treated insects are awaiting approval in the US.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="13">
+          <content>Oxitec CSO Dr. Luke Alphey claims the techniques the company has been refining since 2009 offers a high degree of control.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;In the target area we could suppress the population even to zero levels,&amp;quot; he says.</content>
+        </sentence>
+        <sentence id="15">
+          <content>&amp;quot;It works.</content>
+        </sentence>
+        <sentence id="16">
+          <content>The engineered males can court and mate wild females and we can suppress the target populations as we demonstrated in the Cayman Islands and in Brazil.</content>
+        </sentence>
+        <sentence id="17">
+          <content>To a huge level, enough suppression to prevent epidemic dengue.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="18">
+          <content>Alphey believes the concept could be applied at scale.</content>
+        </sentence>
+        <sentence id="19">
+          <content>&amp;quot;I hope that it will become a major part of control of major pest insects.</content>
+        </sentence>
+        <sentence id="20">
+          <content>If we could reduce, even in some countries, the burden of diseases like dengue...that would be fantastic.</content>
+        </sentence>
+        <sentence id="21">
+          <content>We&amp;apost;re just at the dawn of genetic control.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="22">
+          <content>This approach is being widely adopted.</content>
+        </sentence>
+        <sentence id="23">
+          <content>Researchers at the University of California, Irvine have pioneered a method that renders mosquito offspring unable to fly, making them harmless.</content>
+        </sentence>
+        <sentence id="24">
+          <content>At Imperial College London, a team have suppressed malaria in trials by modifying mosquitoes to only give birth to males, which do not bite and cannot transmit the disease.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="25">
+          <content>Dr. Nikolai Windbichler, co-author of the latter study, uses a mousetrap analogy to illustrate the guarantee offered by genetic transfer.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="26">
+          <content>&amp;quot;Even if one of every 10,000 mosquitoes would not function... it would not prevent the technology from suppressing populations.</content>
+        </sentence>
+        <sentence id="27">
+          <content>If you put up 20 mousetraps and one is not working, the remaining 19 would still be able to do the job.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="28">
+          <content>The path of modifying mosquitoes has many supporters in the medical community.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="29">
+          <content>&amp;quot;Scientists have made a lot of progress and there are many exciting projects&amp;quot;, says Dr. James Logan of the London School of Hygiene and Tropical Medicine.</content>
+        </sentence>
+        <sentence id="30">
+          <content>&amp;quot;If we can identify a single species which transmits a disease like the Aedes Aegypti and dengue fever, (genetic modification) can have an impact.</content>
+        </sentence>
+        <sentence id="31">
+          <content>It&amp;apost;s less achievable for malaria, which is transmitted by many species.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="32">
+          <content>Although there are still questions to answer, Logan wants to see expansion.</content>
+        </sentence>
+        <sentence id="33">
+          <content>&amp;quot;We need more field trials to show the impact on disease transmission... I believe we need to push ahead, because the thing about mosquitoes with dengue fever and malaria in the wild is that they are always a step ahead, developing resistance, and we need new forms of novel intervention.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="34">
+          <content>But critics believe that implementation of GM mosquitoes is happening too fast without enough understanding of the impact.</content>
+        </sentence>
+        <sentence id="35">
+          <content>Genewatch UK is demanding a public consultation in Brazil before the insects are released in the wild.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="36">
+          <content>&amp;quot;Oxitec have omitted or failed to publish important information needed to make a decision&amp;quot;, says Dr. Helen Wallace director of Genewatch UK.</content>
+        </sentence>
+        <sentence id="37">
+          <content>&amp;quot;The reduction figures from their trials cannot be verified and they have not proved a positive impact on disease.</content>
+        </sentence>
+        <sentence id="38">
+          <content>One problem is that if you reduce numbers of one mosquito species, another may increase.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="39">
+          <content>&amp;quot;Many experts think that suppressing a wild population that is so mobile will not work and may cause actual harm, no one knows for sure but it is certainly irresponsible not to consider the risk.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="40">
+          <content>Despite such concerns, the trend toward modification of insects for disease control is gathering pace as other solutions fail and regulators are favorable.</content>
+        </sentence>
+        <sentence id="41">
+          <content>Worms, flies and moths are also being targeted and &amp;apost;weaponized&amp;apost; against their species.</content>
+        </sentence>
+        <sentence id="42">
+          <content>As this new battle commences, the stakes could hardly be higher.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="43">
+          <content>Read more from Make, Create, Innovate:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

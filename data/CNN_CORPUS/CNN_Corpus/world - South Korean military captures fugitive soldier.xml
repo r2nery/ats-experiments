@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2760" link="http://www.cnn.com/2014/06/23/world/asia/south-korea-soldier-shooting/index.html" date_published="2014-06-23 06:32:05" category="world" author="K.J. Kwon and Jethro Mullen, CNN" highlights_mapped="true" mapping_error="false">
+  <title>South Korean military captures fugitive soldier</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">NEW: The soldier&amp;apost;s life is not in danger after he underwent surgery, officials say.</sentence>
+      <sentence id="2" ids_article_sentences="17">NEW: He left a note apologizing to the victims and their families, the Defense Ministry says.</sentence>
+      <sentence id="3" ids_article_sentences="5">Sgt. Lim is accused of killing five fellow soldiers at a base near the North Korean border.</sentence>
+      <sentence id="4" ids_article_sentences="6">He was carrying out military service and has been deemed in need of special attention.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-02 20:56:41" annotation_time="23.057001">
+      <sentence id="3" ids_highlights="1">He underwent surgery for his injuries, which are not life-threatening, according to authorities.</sentence>
+      <sentence id="5" ids_highlights="3">Lim, who was three months from the end of his compulsory military service, is accused of shooting and throwing a grenade at his fellow soldiers on Saturday at a base in a remote area near the heavily fortified border with North Korea.</sentence>
+      <sentence id="6" ids_highlights="4">He had been categorized as a soldier in need of special attention, according to the Defense Ministry.</sentence>
+      <sentence id="17" ids_highlights="2">Lim left a note before his apparent suicide attempt, apologizing to the victims and their families, Kim said.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>A fugitive South Korean soldier suspected of killing five members of his unit has been captured after he shot himself, bringing an end to a tense standoff.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The enlisted soldier suffered heavy bleeding after shooting himself in his side below his left shoulder, the Defense Ministry said.</content>
+        </sentence>
+        <sentence id="3">
+          <content>He underwent surgery for his injuries, which are not life-threatening, according to authorities.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>The military had surrounded the soldier, identified as Sgt. Lim, in northeastern Gangwon province, and exchanged gunfire with him on Sunday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Lim, who was three months from the end of his compulsory military service, is accused of shooting and throwing a grenade at his fellow soldiers on Saturday at a base in a remote area near the heavily fortified border with North Korea.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>He had been categorized as a soldier in need of special attention, according to the Defense Ministry.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>In March 2013, he was classed in category A, for soldiers showing signs of possibly committing suicide or causing accidents.</content>
+        </sentence>
+        <sentence id="8">
+          <content>But he was later changed to category B, for soldiers who with the help of others can carry out normal military life.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>Pleas for surrender.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>Authorities said he used a K2, a semiautomatic rifle that is a standard South Korean army weapon.</content>
+        </sentence>
+        <sentence id="11">
+          <content>It is similar to the U.S. military&amp;apost;s standard weapon, the M16.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>The military had been in contact with Lim, repeatedly asking him to surrender, said Defense Ministry spokesman Kim Min-seok.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>On Monday morning, he spoke to his father on a phone provided to him by a military officer.</content>
+        </sentence>
+        <sentence id="14">
+          <content>His father and older brother later arrived at the scene of the standoff and continued efforts to persuade him to hand himself in, Kim said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="15">
+          <content>But Lim didn&amp;apost;t comply and shot himself with his rifle.</content>
+        </sentence>
+        <sentence id="16">
+          <content>He now faces investigation by military authorities.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="17">
+          <content>Lim left a note before his apparent suicide attempt, apologizing to the victims and their families, Kim said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="18">
+          <content>There have been previous cases of South Korean military service members going on shooting rampages, in 2005 and 2011.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="19">
+          <content>The base where he was serving is in an isolated area and carries out around-the-clock surveillance for any movements by North Korea, said Park Soo-geun, a former South Korean military intelligence official.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

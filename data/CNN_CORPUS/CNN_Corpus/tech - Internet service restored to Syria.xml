@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1613" link="http://www.cnn.com/2013/05/08/tech/syria-internet-outage/index.html" date_published="2013-05-08 09:47:38" category="tech" author="Catherine E. Shoichet and Hamdi Alkhshali, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Internet service restored to Syria</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">NEW: Internet access in Syria was restored Wednesday after a widespread outage.</sentence>
+      <sentence id="2" ids_article_sentences="5">The Syrian government had vowed to repair the problem .</sentence>
+      <sentence id="3" ids_article_sentences="18">U.S. official: Syria has shut down its Internet in the past .</sentence>
+      <sentence id="4" ids_article_sentences="22">Technology has become a key weapon used by both sides of Syria&amp;apost;s civil war.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-25 08:35:58" annotation_time="27.938">
+      <sentence id="1" ids_highlights="1">Internet access in Syria was restored Wednesday after a widespread outage that lasted more than 19 hours.</sentence>
+      <sentence id="5" ids_highlights="2">The Syrian government had said earlier it was working to repair the outage -- something opposition activists suspected could be an ominous sign.</sentence>
+      <sentence id="18" ids_highlights="3">After a similar situation in November, U.S. Ambassador to Syria Robert Ford said Syria had shut down the Internet in the past.</sentence>
+      <sentence id="22" ids_highlights="4">Technology has become a key weapon used by both sides of Syria&amp;apost;s civil war to fight for their cause, with opposition activists using social media to report violence and a group of pro-Syrian government hackers known as the Syrian Electronic Army targeting major news organizations and activists.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Internet access in Syria was restored Wednesday after a widespread outage that lasted more than 19 hours.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Renesys, an Internet-monitoring company, updated a blog post Wednesday saying that Web service was back in the war-torn country.</content>
+        </sentence>
+        <sentence id="3">
+          <content>Other Web-monitoring groups said the same thing Wednesday, including Google, whose Transparency Report documents Internet accessibility around the world.</content>
+        </sentence>
+        <sentence id="4">
+          <content>Google removed Syria from its list of countries where service disruptions were ongoing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>The Syrian government had said earlier it was working to repair the outage -- something opposition activists suspected could be an ominous sign.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>Internet connections across Syria went down Tuesday night, according to several global monitoring sites.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>On Wednesday, the state-run Syrian Arab News Agency said an optic-cable malfunction caused the outage.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>A repair was under way to restore services &amp;quot;as soon as possible,&amp;quot; SANA said, citing communications official Bakr Bakr.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>Google reported that its services became inaccessible in Syria around 9:45 p.m. (2:45 p.m. ET) Tuesday.</content>
+        </sentence>
+        <sentence id="10">
+          <content>The Renesys, Akamai and BGPmon Internet tracking companies also reported the loss of Syrian Internet connectivity at that time.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;It seems Syria has largely disappeared from the Internet,&amp;quot; Dan Hubbard, chief technology officer for Umbrella Security Labs, wrote in a blog post about the apparent outage.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>For a while, the website for Syria&amp;apost;s state-run news agency and several government websites were not accessible.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>At one hotel in the capital, employees said the Internet was down &amp;quot;in the hotel and all of Damascus.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>Opposition activists said the communications cutoff could be an ominous sign.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>The Local Coordination Committees of Syria said the activist network would put &amp;quot;all responsibility on regime forces for any violation or massacres against civilians.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="16">
+          <content>Hubbard said Syria has a history of Internet outages.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;Although we can&amp;apost;t yet comment on what caused this outage, past incidents were linked to both government-ordered shutdowns and damage to the infrastructure, which included fiber cuts and power outages,&amp;quot; Hubbard wrote.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="18">
+          <content>After a similar situation in November, U.S. Ambassador to Syria Robert Ford said Syria had shut down the Internet in the past.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;The Syrian government has been monitoring (the Internet) for years,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="20">
+          <content>&amp;quot;They have been using the Internet with Iranian assistance to track opposition activists, arrest and kill them.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="21">
+          <content>&amp;quot;That is the reason why our nonlethal assistance to the Syrian opposition, we put a special emphasis on communications equipment precisely to help the Syrian people tell the world what is going on inside Syria,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="22">
+          <content>Technology has become a key weapon used by both sides of Syria&amp;apost;s civil war to fight for their cause, with opposition activists using social media to report violence and a group of pro-Syrian government hackers known as the Syrian Electronic Army targeting major news organizations and activists.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

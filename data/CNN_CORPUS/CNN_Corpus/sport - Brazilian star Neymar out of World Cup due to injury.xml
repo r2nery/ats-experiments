@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1434" link="http://edition.cnn.com/2014/07/04/sport/football/brazil-neymar-injured/index.html" date_published="2014-07-05 00:51:39" category="sport" author="Greg Botelho, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Brazilian star Neymar out of World Cup due to injury</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="23">NEW: Argentinian star Lionel Messi says: &amp;quot;I hope you recover very soon, friend!&amp;quot; .</sentence>
+      <sentence id="2" ids_article_sentences="3">Neymar fractured a vertebra during Brazil&amp;apost;s World Cup win, team doctor says.</sentence>
+      <sentence id="3" ids_article_sentences="17">He is out for World Cup semifinal and, if Brazil beats Germany, the final.</sentence>
+      <sentence id="4" ids_article_sentences="9">One Brazilian fan says, &amp;quot;It&amp;apost;s like we have lost today&amp;quot; .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-08 23:42:33" annotation_time="145.30766" mapping_time_divergence="36.326916">
+      <sentence id="3" ids_highlights="2">Neymar fractured his vertebra Friday night during his team&amp;apost;s World Cup quarterfinal win over Colombia and will miss the remainder of the football tournament, team doctor Rodrigo Lasmar told reporters after the game.</sentence>
+      <sentence id="9" ids_highlights="4">As one woman dressed in a Brazilian national team jersey told CNN on Friday night in Rio de Janeiro, &amp;quot;It&amp;apost;s like we have lost today.&amp;quot;</sentence>
+      <sentence id="17" ids_highlights="3">Neymar is not the only one unavailable for the semifinal: Thiago Silva, the squad&amp;apost;s captain, will also miss the game after getting his second yellow card on Friday -- which automatically rules him out of his next game.</sentence>
+      <sentence id="23" ids_highlights="1">The legendary Argentinian posted Friday night on his Facebook page: &amp;quot;Neymar, I hope you recover very soon, friend!&amp;quot;</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Brazil is into the World Cup semifinals.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>But its brightest star is out.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Neymar fractured his vertebra Friday night during his team&amp;apost;s World Cup quarterfinal win over Colombia and will miss the remainder of the football tournament, team doctor Rodrigo Lasmar told reporters after the game.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>The 22-year-old got kneed in the back during a second-half collision with a Colombian player.</content>
+        </sentence>
+        <sentence id="5">
+          <content>He rolled on the ground afterward, then cried in apparent pain while being taken off the field on a stretcher.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;It&amp;apost;s not serious in the sense that it doesn&amp;apost;t need surgery, but he&amp;apost;ll need to immobilize it to recover,&amp;quot; said Lasmar, according to a story on the official website of FIFA, which runs the World Cup.</content>
+        </sentence>
+        <sentence id="7">
+          <content>&amp;quot;Unfortunately, he&amp;apost;s not going to be able to play.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>His loss is a huge blow for Brazil, which entered the World Cup with steep expectations given its traditional excellence in the sport -- it has won more championships than any other country -- and the fact it is hosting the tourney for the first time since 1950.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>As one woman dressed in a Brazilian national team jersey told CNN on Friday night in Rio de Janeiro, &amp;quot;It&amp;apost;s like we have lost today.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;It&amp;apost;s terrible, terrible.</content>
+        </sentence>
+        <sentence id="11">
+          <content>I&amp;apost;m so sad,&amp;quot; she added regarding Neymar&amp;apost;s injury.</content>
+        </sentence>
+        <sentence id="12">
+          <content>&amp;quot;But let&amp;apost;s go on.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>Many in Brazil still have a bitter taste from that World Cup decades ago, when the host lost in the finals to Uruguay.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>It&amp;apost;s not like the next game would have been easy regardless.</content>
+        </sentence>
+        <sentence id="15">
+          <content>In the semifinal Tuesday, Brazil will face Germany, which is undefeated in the tournament and handily toppled France earlier Friday.</content>
+        </sentence>
+        <sentence id="16">
+          <content>The final game will take place July 13.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="17">
+          <content>Neymar is not the only one unavailable for the semifinal: Thiago Silva, the squad&amp;apost;s captain, will also miss the game after getting his second yellow card on Friday -- which automatically rules him out of his next game.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="18">
+          <content>Neymar has been the face of his team in his native Brazil and around the world.</content>
+        </sentence>
+        <sentence id="19">
+          <content>He has scored four goals, more than anyone else on his team and anyone in the tournament besides Colombia&amp;apost;s James Rodriguez.</content>
+        </sentence>
+        <sentence id="20">
+          <content>(Argentina&amp;apost;s Lionel Messi and Germany&amp;apost;s Thomas Mueller also have four goals, like Neymar.).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="21">
+          <content>A standout with the Brazilian club Santos, Neymar moved last summer to one of the world&amp;apost;s richest, most successful clubs in FC Barcelona.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="22">
+          <content>Messi, his teammate there, was among those who offered their regrets that Neymar is out of the World Cup and their best wishes for a speedy recovery.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="23">
+          <content>The legendary Argentinian posted Friday night on his Facebook page: &amp;quot;Neymar, I hope you recover very soon, friend!&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

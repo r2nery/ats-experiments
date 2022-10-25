@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="171" link="http://edition.cnn.com/2011/12/30/health/bacteria-infants-formula/index.html" date_published="2011-12-31 01:48:51" category="health" author="the CNN Wire Staff" highlights_mapped="true" mapping_error="false">
+  <title>Agencies: No need for baby formula recall</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">&amp;quot;There is no need for a recall of infant formula,&amp;quot; federal health officials say.</sentence>
+      <sentence id="2" ids_article_sentences="7">DNA fingerprinting finds the Missouri and Illinois bacteria are different, suggesting they&amp;apost;re not related.</sentence>
+      <sentence id="3" ids_article_sentences="20">CDC recommends breastfeeding whenever possible.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-06 07:44:36" annotation_time="17.445">
+      <sentence id="2" ids_highlights="1">&amp;quot;Based on test results to date, there is no need for a recall of infant formula and parents may continue to use powdered infant formula, following the manufacturer&amp;apost;s directions on the printed label,&amp;quot; the Centers for Disease Control and Prevention and the Food and Drug Administration said in a joint update.</sentence>
+      <sentence id="7" ids_highlights="2">But DNA fingerprinting of the bacteria from the Missouri and Illinois cases found the bacteria differed, suggesting they were not related, the agencies said.</sentence>
+      <sentence id="20" ids_highlights="3">The bacteria can be found in the environment and can multiply in powdered infant formula once it is mixed with water, said the CDC, which recommends breastfeeding whenever possible.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>A fourth infant has been discovered to have been infected with a rare, sometimes fatal form of bacteria that can come from baby formula, but there is no evidence the cases are related, federal health authorities said Friday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>&amp;quot;Based on test results to date, there is no need for a recall of infant formula and parents may continue to use powdered infant formula, following the manufacturer&amp;apost;s directions on the printed label,&amp;quot; the Centers for Disease Control and Prevention and the Food and Drug Administration said in a joint update.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The latest case of Cronobacter infection occurred in Florida, the update said.</content>
+        </sentence>
+        <sentence id="4">
+          <content>After cases occurred in Missouri and Illinois, authorities looked for other cases, and found an Oklahoma case and the one in Florida.</content>
+        </sentence>
+        <sentence id="5">
+          <content>The Florida and Missouri infants died this month of their infections.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>The Missouri case prompted retail giant Wal-Mart to pull all cans of the same size and lot number of baby formula from its shelves.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>But DNA fingerprinting of the bacteria from the Missouri and Illinois cases found the bacteria differed, suggesting they were not related, the agencies said.</content>
+        </sentence>
+        <sentence id="8">
+          <content>Bacteria from the other two cases were not available for testing, they said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>In the Missouri case, Cronobacter bacteria were found in an opened bottle of nursery water and prepared infant formula, but it was not clear how they became contaminated, the update said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>Tests on factory-sealed containers of powdered infant formula and nursery water with the same lot numbers turned up no Cronobacter bacteria, it said, adding, &amp;quot;There is currently no evidence to conclude that the infant formula or nursery water was contaminated during manufacturing or shipping.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>Formula maker Mead Johnson Nutrition said the agencies&amp;apost; test results corroborated its own.</content>
+        </sentence>
+        <sentence id="12">
+          <content>&amp;quot;We&amp;apost;re pleased with the FDA and CDC testing, which should reassure consumers, health care professionals and retailers everywhere about the safety and quality of our products,&amp;quot; Tim Brown, senior vice president and general manager for North America, said in a statement.</content>
+        </sentence>
+        <sentence id="13">
+          <content>&amp;quot;These tests also reinforce the rigor of our quality processes throughout our operations.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>Cronobacter infection typically occurs during the first days or weeks of life.</content>
+        </sentence>
+        <sentence id="15">
+          <content>In a typical year, the CDC said, it learns of four to six such cases.</content>
+        </sentence>
+        <sentence id="16">
+          <content>This year, with increased awareness of the infection, it has tallied 12 cases.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="17">
+          <content>The bacteria can cause severe infection or inflammation of the membranes that cover the brain.</content>
+        </sentence>
+        <sentence id="18">
+          <content>Symptoms can start with fever, poor feeding, crying or listlessness.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;Any young infant with these symptoms should be in the care of a physician,&amp;quot; the update says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="20">
+          <content>The bacteria can be found in the environment and can multiply in powdered infant formula once it is mixed with water, said the CDC, which recommends breastfeeding whenever possible.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="21">
+          <content>Cronobacter is fatal in nearly 40% of cases, according to the CDC.</content>
+        </sentence>
+        <sentence id="22">
+          <content>Infection survivors can be left with severe neurological problems.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

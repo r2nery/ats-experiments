@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="284" link="http://www.cnn.com/2013/09/28/health/compassionate-drug-use/index.html" date_published="2013-09-28 13:21:26" category="health" author="William Hudson, CNN" highlights_mapped="true" mapping_error="false">
+  <title>In cancer drug battle, both sides appeal to ethics</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="19">Andrea Sloan, 45, has ovarian cancer.</sentence>
+      <sentence id="2" ids_article_sentences="49">She is seeking &amp;quot;compassionate use&amp;quot; of a new drug that&amp;apost;s not FDA-approved.</sentence>
+      <sentence id="3" ids_article_sentences="13">Sloan says she&amp;apost;s willing to accept the risks .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-24 21:48:45" annotation_time="60.358">
+      <sentence id="13" ids_highlights="3">But Sloan says she&amp;apost;s willing to accept the risks -- to roll the dice now that her doctors have tried everything else they can to save her life, including multiple rounds of surgery, chemotherapy, and radiation since she was first diagnosed with cancer in 2007.</sentence>
+      <sentence id="19" ids_highlights="1">&amp;quot;She has a hereditary form of ovarian cancer, so we believe she has a much better chance of responding to PARP inhibitors than patients with a nonhereditary type of ovarian cancer.&amp;quot;</sentence>
+      <sentence id="49" ids_highlights="2">If it&amp;apost;s going to be effective, she will need the new drug soon.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Andrea Sloan is dying of ovarian cancer.</content>
+        </sentence>
+        <sentence id="2">
+          <content>Having exhausted all standard treatment options, her doctors say her best hope now is a new class of cancer drugs called PARP inhibitors.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>The California pharmaceutical company BioMarin makes one version of these drugs called BMN 673.</content>
+        </sentence>
+        <sentence id="4">
+          <content>Earlier this year, the company presented very early data on this experimental drug at a large cancer conference.</content>
+        </sentence>
+        <sentence id="5">
+          <content>Initial results in women with breast and ovarian cancer were encouraging.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="6">
+          <content>Sloan says there are doses of BMN 673 sitting on shelves in the same hospital where she&amp;apost;s seeking treatment: M.D. Anderson Cancer Center.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>But she&amp;apost;s not getting the treatment because the company is refusing to give it to her.</content>
+        </sentence>
+        <sentence id="8">
+          <content>That&amp;apost;s because this drug she wants is still in clinical trials, and the company says hasn&amp;apost;t been proven effective.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="9">
+          <content>BioMarin points out that to date their drug has been tested in fewer than 30 patients with ovarian cancer like Sloan.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;It would be unethical and reckless to provide end-stage refractory ovarian cancer patients outside a clinical trial with BMN 673 at this early stage of development,&amp;quot; says company spokesperson Debra Charlesworth.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;If we did, we would be exposing an experimental drug to a large group without adequate testing.</content>
+        </sentence>
+        <sentence id="12">
+          <content>There have been previous circumstances where early access to large groups has resulted in adverse consequences that were worse than the course of the disease.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>But Sloan says she&amp;apost;s willing to accept the risks -- to roll the dice now that her doctors have tried everything else they can to save her life, including multiple rounds of surgery, chemotherapy, and radiation since she was first diagnosed with cancer in 2007.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>And her doctor supports her.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>She has the help of a PR firm, working pro bono, to bring attention to her case, and a change.org petition for her cause has collected more than 150,000 supporters.</content>
+        </sentence>
+        <sentence id="16">
+          <content>It will likely be years before BMN 673 is on the market, but Andrea says she does not have that long to wait.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="17">
+          <content>PARP inhibitors work by preventing DNA repair in cancer cells, and are thought to work especially well in patients with a particular gene mutation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;One of the reasons she&amp;apost;s such a great candidate for PARP inhibitors specifically is because she has a BRCA mutation,&amp;quot; says Dr. Charles Levenback, Sloan&amp;apost;s oncologist at M.D. Anderson Cancer Center.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;She has a hereditary form of ovarian cancer, so we believe she has a much better chance of responding to PARP inhibitors than patients with a nonhereditary type of ovarian cancer.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="20">
+          <content>Levenback says Sloan doesn&amp;apost;t meet the eligibility requirements for any open clinical trials to the best of his knowledge.</content>
+        </sentence>
+        <sentence id="21">
+          <content>If she did, he would not be seeking compassionate use for his patient in the first place, he says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="22">
+          <content>BioMarin is conducting more clinical trials, but in breast cancer only, not ovarian cancer.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="23">
+          <content>The standoff between Sloan and BioMarin raises the question: When should patients get access to experimental drugs?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="24">
+          <content>Under &amp;quot;Compassionate Use&amp;quot; or &amp;quot;Expanded Access&amp;quot;, the Food and Drug Administration allows an unapproved drug still in development to go to a patient with few alternatives remaining, also absolving the drug maker of liability should the drug not work or cause harm.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="25">
+          <content>The FDA has said Sloan qualifies to seek compassionate use of BMN 673, but BioMarin won&amp;apost;t provide it and they don&amp;apost;t have to.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="26">
+          <content>&amp;quot;You have the FDA saying, &amp;apost;Look we&amp;apost;ll approve compassionate care.&amp;apost;.</content>
+        </sentence>
+        <sentence id="27">
+          <content>You have the doctor who is the specialist saying: &amp;apost;This is the right thing to do.&amp;apost;.</content>
+        </sentence>
+        <sentence id="28">
+          <content>And you have a corporation protecting its wallet at the expense of Andrea possibly dying,&amp;quot; says Newt Gingrich, co-host of CNN&amp;apost;s &amp;quot;Crossfire,&amp;quot; who has been gathering support for Sloan&amp;apost;s case.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="29">
+          <content>&amp;quot;If you want to know why big companies often get bad names, it&amp;apost;s explaining that clerical support to fill out FDA paperwork is too difficult when you can save a life.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="30">
+          <content>BioMarin says it does provide &amp;quot;expanded access&amp;quot; to patients for another drug which is further along in the clinical trial process, and that the company expects to spend $50 million or approximately 10% of its revenue in 2013 on providing free drugs to patients.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="31">
+          <content>BioMarin also notes that other drug companies are developing PARP inhibitors too, so they&amp;apost;re not the only potential source for Sloan.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="32">
+          <content>The company points to an AstraZeneca clinical trial currently enrolling ovarian cancer patients, but Sloan&amp;apost;s doctor says she doesn&amp;apost;t qualify.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="33">
+          <content>&amp;quot;We&amp;apost;re focused on BioMarin because initially that is the one that one of my doctors had the most direct experience with and recommended,&amp;quot; says Sloan, whose doctors at M.D. Anderson also participate in BioMarin&amp;apost;s clinical testing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="34">
+          <content>&amp;quot;The compassionate use policy exists for exactly this situation, and this is how patients lose: I lose if BioMarin is able to say &amp;apost;Well you need to go ask for it from one of the other three&amp;apost;,&amp;quot; says Sloan.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="35">
+          <content>Art Caplan, professor of Bioethics at NYU Langone Medical Center, says the scatter-shot way in which individual patients are left to petitioning drug companies for access to experimental drugs creates an unfair process.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="36">
+          <content>&amp;quot;One problem in this country is we haven&amp;apost;t set up a system.</content>
+        </sentence>
+        <sentence id="37">
+          <content>Right now what we&amp;apost;ve got is a squeaky-wheel lottery; if you can figure out what your options are, if you know how to use social media, if you know how to have a bake sale, if you can hire a PR firm -- you can have a shot at an unapproved drug,&amp;quot; says Caplan.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="38">
+          <content>&amp;quot;But that&amp;apost;s all obviously inequitable relative to the number of people who might want to seek compassionate use.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="39">
+          <content>Caplan says that without more safety and efficacy data on BioMarin&amp;apost;s drug, it&amp;apost;s too early in the process for a compassionate use exception for a different form of cancer than the one BioMarin is targeting.</content>
+        </sentence>
+        <sentence id="40">
+          <content>There&amp;apost;s still a big risk that the drug could harm Sloan, speeding her death, as much as it helps her, he says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="41">
+          <content>Sloan&amp;apost;s doctor agrees the system needs changing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="42">
+          <content>&amp;quot;My own belief is that the drug companies, the manufacturers, the insurance companies, the providers like my hospital M.D. Anderson, the individual medical professionals, the investigators, the patients -- everybody wants the same things.</content>
+        </sentence>
+        <sentence id="43">
+          <content>Safe, effect, novel therapies for as many people as it&amp;apost;s appropriate for,&amp;quot; says Levenback.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="44">
+          <content>&amp;quot;Even BioMarin, I believe.</content>
+        </sentence>
+        <sentence id="45">
+          <content>I don&amp;apost;t think this is like &amp;apost;Let the masses eat cake.&amp;apost;.</content>
+        </sentence>
+        <sentence id="46">
+          <content>I think they&amp;apost;re on the same mission.</content>
+        </sentence>
+        <sentence id="47">
+          <content>But the whole system is giving this dysfunctional result.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="48">
+          <content>Levenback says the window for Sloan is closing.</content>
+        </sentence>
+        <sentence id="49">
+          <content>If it&amp;apost;s going to be effective, she will need the new drug soon.</content>
+        </sentence>
+        <sentence id="50">
+          <content>Knowledge of that fact has put Sloan on a mission, and she says she&amp;apost;s not giving up.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

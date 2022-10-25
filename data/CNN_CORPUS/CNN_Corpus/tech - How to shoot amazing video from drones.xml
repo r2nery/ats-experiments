@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1609" link="http://www.cnn.com/2014/05/22/tech/innovation/drone-uav-photography/index.html" date_published="2014-05-22 11:58:41" category="tech" author="Christina Zdanowicz, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>How to shoot amazing video from drones</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="8">Hobbyists are using small drones to shoot aerial photography.</sentence>
+      <sentence id="2" ids_article_sentences="5">With a few hundred dollars and practice, you can make breathtaking aerial videos.</sentence>
+      <sentence id="3" ids_article_sentences="18">Keep drones and other model aircraft less than 400 feet above the ground.</sentence>
+      <sentence id="4" ids_article_sentences="39">Learn to fly a cheap, toy drone, before adding a camera.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-05 14:04:29" annotation_time="59.621998" mapping_time_divergence="14.905499">
+      <sentence id="5" ids_highlights="2">And with a few hundred dollars and some practice, you can make breathtaking aerial videos, too.</sentence>
+      <sentence id="8" ids_highlights="1">The world of remote-control aircraft has been around for decades, but the growth and technological wizardry of UAVs have created a new wave of hobbyists trying their hand at aerial photography.</sentence>
+      <sentence id="18" ids_highlights="3">Keep drones and other model aircraft less than 400 feet above the ground and make sure you&amp;apost;re not within 3 miles of an airport or air traffic, per FAA guidelines.</sentence>
+      <sentence id="39" ids_highlights="4">Learn to fly a cheap toy drone before adding a camera.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>A bird&amp;apost;s eye camera sweeps over the green fields of Ireland, flies over the towering Cliffs of Moher and pans the ocean hundreds of feet below.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>It&amp;apost;s just like a scene in a movie.</content>
+        </sentence>
+        <sentence id="3">
+          <content>But this is not Hollywood magic.</content>
+        </sentence>
+        <sentence id="4">
+          <content>The spectacular footage was shot, not by a film crew in a helicopter, but with an inexpensive toy drone -- an unmanned aerial vehicle, or UAV, as hobbyists call them -- operated by Andreas Ostermann.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>And with a few hundred dollars and some practice, you can make breathtaking aerial videos, too.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;It is the closest thing to flying like a bird,&amp;quot; said Ostermann, an aerial-photography hobbyist who lives in Germany.</content>
+        </sentence>
+        <sentence id="7">
+          <content>&amp;quot;My inspiration is to show how beautiful these shots can be and that this hobby is not at all dangerous if you know what you do.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>The world of remote-control aircraft has been around for decades, but the growth and technological wizardry of UAVs have created a new wave of hobbyists trying their hand at aerial photography.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>From views of stunning vistas, waterfronts and landmarks to overhead shots of a house about to fall off an eroding cliff or a cheery scene of a fox trotting on ice, there are a lot of creative, fun ways people are using recreational drones for aerial videos.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;Originally it was just a bunch of guys tinkering and building things.</content>
+        </sentence>
+        <sentence id="11">
+          <content>Now people want to focus on the applications rather than the technology,&amp;quot; said Timothy Reuter, founder of the Washington, D.C. Area Drone User Group, the largest UAV club in the country.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>Instead of building drones from kits, Reuter and others like him are turning to off-the-shelf models that are ready to fly.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>&amp;quot;Recently some of the sophisticated capabilities have gotten cheap and easy to use,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="14">
+          <content>&amp;quot;The difference between the professional and hobbyist tools isn&amp;apost;t that big anymore -- that&amp;apost;s part of the revolution.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>Since the FAA&amp;apost;s 2007 warning not to use drones for commercial purposes, there&amp;apost;s been some debate and confusion in the hobbyist community about what you can and can&amp;apost;t do with aerial photography.</content>
+        </sentence>
+        <sentence id="16">
+          <content>So before you go out and strap a GoPro to a ready-made drone, here&amp;apost;s what you need to know:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="17">
+          <content>Learn the rules.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="18">
+          <content>Keep drones and other model aircraft less than 400 feet above the ground and make sure you&amp;apost;re not within 3 miles of an airport or air traffic, per FAA guidelines.</content>
+        </sentence>
+        <sentence id="19">
+          <content>Also check your state law, as some states are more strict with trespassing laws.</content>
+        </sentence>
+        <sentence id="20">
+          <content>Flying over someone&amp;apost;s land could be considered trespassing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="21">
+          <content>While it&amp;apost;s tempting to turn aerial drone photography into a business, beware that the FAA regulates commercial flights on a case-by-case basis.</content>
+        </sentence>
+        <sentence id="22">
+          <content>Only two commercial operations have been approved, and those are for exploratory flights in the Arctic.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="23">
+          <content>P.S. Before you take your drone to shoot footage on vacation, do your research first.</content>
+        </sentence>
+        <sentence id="24">
+          <content>UAV laws vary in each country.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="25">
+          <content>Join a club or find an instructor.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="26">
+          <content>It&amp;apost;s better to work with experienced flyers than to test the skies alone.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="27">
+          <content>&amp;quot;Find a community to learn with if you&amp;apost;re going to be serious, like a drone group or through the Academy of Model Aeronautics,&amp;quot; said Reuter.</content>
+        </sentence>
+        <sentence id="28">
+          <content>&amp;quot;They&amp;apost;ll teach you how to be safe and prevent any accidents.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="29">
+          <content>Study different models and what they can do.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="30">
+          <content>Toy drones, like the Blade Nano QX, are great introductory models for people learning how to fly, said Reuter.</content>
+        </sentence>
+        <sentence id="31">
+          <content>This model runs about $80 online.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="32">
+          <content>Moving up to mid-range models, consider UAVs that come fully assembled, such as 3D Robotics&amp;apost; Iris model, which runs $750.</content>
+        </sentence>
+        <sentence id="33">
+          <content>The company&amp;apost;s CEO, Chris Anderson, pioneered one of the first online drone forums, DIY Drones.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="34">
+          <content>One of the more popular mid-range UAVs is DJI&amp;apost;s Phantom series.</content>
+        </sentence>
+        <sentence id="35">
+          <content>This quadcopter, priced from $500 without a camera and $1,000 and up for a model with an attached GoPro, is geared toward folks interested in aerial photography.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="36">
+          <content>If you&amp;apost;re looking for something smaller than the Phantom, check out Reuter&amp;apost;s recent creation, the Pocket Drone.</content>
+        </sentence>
+        <sentence id="37">
+          <content>The multi-copter is lightweight and portable enough to fit in a backpack, he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="38">
+          <content>Start small.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="39">
+          <content>Learn to fly a cheap toy drone before adding a camera.</content>
+        </sentence>
+        <sentence id="40">
+          <content>Once you know how to operate that, you can fly a larger model, advises Patrick McKay, a Colorado hobbyist who&amp;apost;s been flying UAVs since 2011.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="41">
+          <content>&amp;quot;Don&amp;apost;t invest too much initially, since you will inevitably crash a lot while learning.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="42">
+          <content>Keep practicing until you&amp;apost;re comfortable.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="43">
+          <content>Canadian photographer Brent Foster encourages newcomers to learn how to fly in manual mode first.</content>
+        </sentence>
+        <sentence id="44">
+          <content>That way if your GPS goes out, &amp;quot;it&amp;apost;ll save you from a crash,&amp;quot; said the former LA Times photojournalist who got hooked on flying UAVs two years ago.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="45">
+          <content>Knowing your gear and its limitations will be valuable for when you fly in new, sometimes unpredictable situations, several UAV hobbyists said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="46">
+          <content>Put safety first.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="47">
+          <content>&amp;quot;Always think about what you might hit if your craft crashed on a given flight,&amp;quot; said McKay, a Colorado hobbyist.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="48">
+          <content>&amp;quot;Don&amp;apost;t fly over large crowds of people doing event photography unless you have a lot of experience and confidence in your equipment, and stay away from areas/altitudes where you could pose a collision risk to manned aircraft.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="49">
+          <content>Use online resources.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="50">
+          <content>Online forums and Facebook groups are great place to learn more about the hobby.</content>
+        </sentence>
+        <sentence id="51">
+          <content>DIY Drones is a pioneer forum that continues to be active.</content>
+        </sentence>
+        <sentence id="52">
+          <content>Other online resources include Multi-Rotor Forums, the DJI Phantom Users Group on Facebook and tons of local radio-controlled flyer group sites.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="34">
+      <sentences>
+        <sentence id="53">
+          <content>Have fun.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="35">
+      <sentences>
+        <sentence id="54">
+          <content>Once you have the rules, safety precautions and practice time under your belt, it&amp;apost;s time to have fun.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="36">
+      <sentences>
+        <sentence id="55">
+          <content>&amp;quot;I love flying in the mountains and zooming down mountainsides,&amp;quot; said McKay.</content>
+        </sentence>
+        <sentence id="56">
+          <content>&amp;quot;It allows me to experience all the thrills of flight in spectacular locations with my body never leaving the ground.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

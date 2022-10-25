@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="761" link="http://edition.cnn.com/2014/08/27/living/zara-pulls-sheriff-star-shirt/index.html?hpt=wo_mid" date_published="2014-08-27 16:26:25" category="living" author="Emanuella Grinberg, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Zara pulls shirt resembling &amp;apost;Star of David&amp;apost;</title>
+  <keywords>zara,star of david,apologizes</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Spanish fashion retailer Zara sorry for striped T-shirt bearing yellow star.</sentence>
+      <sentence id="2" ids_article_sentences="1">Item drew criticism for resemblance to uniforms worn by concentration camp inmates.</sentence>
+      <sentence id="3" ids_article_sentences="2">Zara parent company says shirt inspired by &amp;quot;sheriff&amp;apost;s stars&amp;quot; from Western films.</sentence>
+      <sentence id="4" ids_article_sentences="3">&amp;quot;We honestly apologize,&amp;quot; company says on Twitter.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-20 14:54:52" annotation_time="35.892666">
+      <sentence id="1" ids_highlights="1, 2">Spanish fashion retailer Zara has apologized for selling a striped T-shirt bearing a yellow star that drew criticism for its resemblance to uniforms worn by Jewish concentration camp inmates.</sentence>
+      <sentence id="2" ids_highlights="3">Zara said the garment, advertised online as a striped &amp;quot;sheriff&amp;quot; T-shirt, was inspired by &amp;quot;the sheriff&amp;apost;s stars from the Classic Western films.&amp;quot;</sentence>
+      <sentence id="3" ids_highlights="4">&amp;quot;We honestly apologize,&amp;quot; Zara said on Twitter in response to numerous outraged tweets.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Spanish fashion retailer Zara has apologized for selling a striped T-shirt bearing a yellow star that drew criticism for its resemblance to uniforms worn by Jewish concentration camp inmates.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Zara said the garment, advertised online as a striped &amp;quot;sheriff&amp;quot; T-shirt, was inspired by &amp;quot;the sheriff&amp;apost;s stars from the Classic Western films.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;We honestly apologize,&amp;quot; Zara said on Twitter in response to numerous outraged tweets.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>The offending item was removed from Zara stores and its website, according to a press release from Zara&amp;apost;s parent company, Inditex.</content>
+        </sentence>
+        <sentence id="5">
+          <content>It was on sale for just a few hours before the company pulled it &amp;quot;due to the potential similarity with the Star of David,&amp;quot; the company said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>Sales were &amp;quot;marginal&amp;quot; and the remaining products will be &amp;quot;destroyed.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;Inditex would like to reiterate its utmost respect for all cultures and religions.</content>
+        </sentence>
+        <sentence id="8">
+          <content>The Group is a Company where people from 180 nationalities work together representing all the cultures, races and religions of the modern world.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Inditex is proud of its cultural diversity.</content>
+        </sentence>
+        <sentence id="10">
+          <content>In addition, respect and dignity feature among the principles which guide and define its corporate values.</content>
+        </sentence>
+        <sentence id="11">
+          <content>The Group condemns and rejects any form of discrimination.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>It&amp;apost;s not the first time Zara has come under fire for using controversial imagery, according to the World Jewish Congress, one of many groups that called out the garment on social media.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>The fashion chain withdrew a line of handbags in 2007 from stores in Britain after some said the design featured Nazi swastikas.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;The bag had been produced in Asia, however, where the symbol also carries ancient cultural significance,&amp;quot; the World Jewish Congress said in a statement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>The Anti-Defamation League said it welcomed the removal of what it called the &amp;quot;deeply offensive&amp;quot; shirt.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;The shirt emblazoned with the yellow star is in poor taste and is deeply offensive to Jews and Holocaust survivors.</content>
+        </sentence>
+        <sentence id="17">
+          <content>To anyone who knows their history, this kind of imagery should be off-limits.</content>
+        </sentence>
+        <sentence id="18">
+          <content>We welcome Zara&amp;apost;s recognition of the shirt&amp;apost;s potentially offensive imagery and removal from sale,&amp;quot; the group said in a statement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;This is not the first time we have seen a retail clothing company making this same offensive mistake.</content>
+        </sentence>
+        <sentence id="20">
+          <content>The fact that this keeps happening shows that there is a serious need for education about the Holocaust and the history of anti-Semitism.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

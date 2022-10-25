@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2134" link="http://edition.cnn.com/2013/02/11/world/meast/syria-civil-war" date_published="2013-02-11 21:55:47" category="world" author="Frederik Pleitgen and Jomana Karadsheh, CNN" highlights_mapped="true" mapping_error="false">
+  <title>CNN exclusive: Fragile cease-fire holds in besieged town</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="19">The cease-fire was brokered with the help of a sheikh and a member of parliament .</sentence>
+      <sentence id="2" ids_article_sentences="23">&amp;quot;Compared to the past, this is a state of peace and security,&amp;quot; the sheikh says.</sentence>
+      <sentence id="3" ids_article_sentences="42">The parliamentarian says the cease-fire in Tal Kalakh could spread across the country.</sentence>
+      <sentence id="4" ids_article_sentences="47">But a rebel stands firm in his stance: &amp;quot;Our goal is to bring down the regime&amp;quot;.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-09-10 14:57:18" annotation_time="67.70267">
+      <sentence id="19" ids_highlights="1">The cease-fire is a first step of a private &amp;quot;reconciliation initiative&amp;quot; led by a sheikh and a member of Syria&amp;apost;s parliament.</sentence>
+      <sentence id="23" ids_highlights="2">&amp;quot;Compared to the past this is a state of peace and security.&amp;quot;</sentence>
+      <sentence id="42" ids_highlights="3">Sulaiman says the local cease-fire in Tal Kalakh might work elsewhere.</sentence>
+      <sentence id="47" ids_highlights="4">&amp;quot;Our goal is to bring down the regime,&amp;quot; Al Abbrash said.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Tal Kalakh, Syria In the western town of Tal Kalakh, rebel fighters stand their ground as government forces loom just yards away.</content>
+        </sentence>
+        <sentence id="2">
+          <content>But here, bullets aren&amp;apost;t flying.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>That&amp;apost;s because the two sides have agreed to something remarkable -- a cease-fire.</content>
+        </sentence>
+        <sentence id="4">
+          <content>While fragile, the agreement could be a blueprint for peace across more parts of the country, which has seen incessant bloodshed for 23 months.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>If the local cease-fire continues to hold, it would defy failures at the national and international levels to implement a meaningful halt in violence.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;We are for peace.</content>
+        </sentence>
+        <sentence id="7">
+          <content>We don&amp;apost;t want war.</content>
+        </sentence>
+        <sentence id="8">
+          <content>We are 100% committed to peace,&amp;quot; said a rebel leader who goes by the name Al Abrash.</content>
+        </sentence>
+        <sentence id="9">
+          <content>&amp;quot;But if they want a war, we are ready for that.</content>
+        </sentence>
+        <sentence id="10">
+          <content>We didn&amp;apost;t agree to the cease-fire out of weakness.</content>
+        </sentence>
+        <sentence id="11">
+          <content>We did it to protect the women and children.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="12">
+          <content>Tal Kalakh, near Syria&amp;apost;s border with Lebanon was one of the first cities to rebel against the regime of President Bashar al-Assad.</content>
+        </sentence>
+        <sentence id="13">
+          <content>It has seen heavy fighting since the uprising began.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="14">
+          <content>Many civilians were forced to flee as government and rebel fighters battled in the streets.</content>
+        </sentence>
+        <sentence id="15">
+          <content>Houses, pockmarked with signs of artillery fire, bear witness to the fierce clashes that raged here.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="16">
+          <content>The walls of buildings in the city center are still covered in revolutionary graffiti; &amp;quot;God is great!</content>
+        </sentence>
+        <sentence id="17">
+          <content>Freedom,&amp;quot; one read and &amp;quot;down with the thug,&amp;quot; reads another.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="18">
+          <content>But now Tal Kalakh has become a model project of sorts.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="19">
+          <content>The cease-fire is a first step of a private &amp;quot;reconciliation initiative&amp;quot; led by a sheikh and a member of Syria&amp;apost;s parliament.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="20">
+          <content>&amp;quot;Before the agreement we reached, there were intense battles here.</content>
+        </sentence>
+        <sentence id="21">
+          <content>Many civilians, militants and soldiers were killed, a lot of blood was spilled.</content>
+        </sentence>
+        <sentence id="22">
+          <content>After the agreement there have been some individual violations like a soldier opening fire... but those have been dealt with straight away,&amp;quot; Sheikh Habib al-Fandi said.</content>
+        </sentence>
+        <sentence id="23">
+          <content>&amp;quot;Compared to the past this is a state of peace and security.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="24">
+          <content>But many people in Tal Kalakh say make no mistake -- this town is still under siege.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="25">
+          <content>While the opposition Free Syrian Army controls Tal Kalakh, the town is surrounded by regime troops.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="26">
+          <content>Residents, surprised to see an international TV crew escorted by officials into their city, swarmed around the CNN team in the main square.</content>
+        </sentence>
+        <sentence id="27">
+          <content>More than a dozen people complained about harassment by government-backed militias known as &amp;quot;Shabeeha.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="28">
+          <content>One man with his three young children said he could not leave the city out of fear government forces would detain him.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="29">
+          <content>Another man said his two sons were among more than 400 Tal Kalakh residents detained since the uprising.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="30">
+          <content>Residents and fighters said they have had to create a makeshift graveyard close to the city center because regime troops have prevented them from reaching the main cemetery.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="31">
+          <content>Al-Abrash and some of his fighters gathered for prayers at the small garden where they recently buried their dead.</content>
+        </sentence>
+        <sentence id="32">
+          <content>He says three rebels have been killed since the cease-fire began.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="33">
+          <content>But signs of normalcy have sprouted amid the country&amp;apost;s prolonged civil war.</content>
+        </sentence>
+        <sentence id="34">
+          <content>Some shops have reopened and the town center has come back to life.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="35">
+          <content>The governor of Homs, where Tal Kalakh is located, described the city as once being &amp;quot;extremely dangerous and volatile,&amp;quot; but now he says he is able to visit and even meet with the militants.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="36">
+          <content>He says Tal Kalakh is an experiment.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="37">
+          <content>&amp;quot;If the media and military support of terrorism is stopped ... I am convinced Homs will go back to what it was like within four months,&amp;quot; Governor Ahmad Munir Mohammad said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="38">
+          <content>While rebel and government forces keep their positions around town, an unusual meeting takes place between a parliamentarian and rebels.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="39">
+          <content>The parliamentarian, Eyad Sulaiman, is an Alawite -- the same sect of Islam that President Bashar al-Assad belongs to.</content>
+        </sentence>
+        <sentence id="40">
+          <content>But he&amp;apost;s accepted by the mostly Sunni members of the Free Syrian Army.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="41">
+          <content>The men agree on almost everything: They don&amp;apost;t want a sectarian rift in Syria, they don&amp;apost;t want foreign jihadist fighters entering the country, and they say government thugs must be stopped from harassing the population here.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="42">
+          <content>Sulaiman says the local cease-fire in Tal Kalakh might work elsewhere.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="43">
+          <content>&amp;quot;We have already tried to apply this concept in areas of Damascus ... so this can be applied anywhere in Syria, as long as there is no interference by other countries,&amp;quot; the parliamentarian said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="44">
+          <content>Still, both sides acknowledge, the fighting could reignite anytime.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="45">
+          <content>Abu Udey a rebel commander who accuses regime troops of continued provocations, said: &amp;quot;We don&amp;apost;t kill people as a hobby ... the security forces in the area don&amp;apost;t want a truce.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="46">
+          <content>And there&amp;apost;s one fundamental mission the rebels will not back down from.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="47">
+          <content>&amp;quot;Our goal is to bring down the regime,&amp;quot; Al Abbrash said.</content>
+        </sentence>
+        <sentence id="48">
+          <content>&amp;quot;It&amp;apost;s impossible to change that -- impossible to back down from that goal.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="49">
+          <content>Abu Udey says the men in his city were forced to arm themselves after peaceful demonstrations were met by violence from regime forces.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="50">
+          <content>&amp;quot;If we achieve what we want -- [to] bring down the regime through peaceful means -- we are ready to lay down our arms for peace,&amp;quot; Abu Udey said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

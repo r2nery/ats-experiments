@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1861" link="http://www.cnn.com/2013/04/25/us/bush-center-dedication/index.html" date_published="2013-04-25 14:39:08" category="us" author="Mariano Castillo, CNN" highlights_mapped="true" mapping_error="false">
+  <title>5 presidents on hand for Bush Center dedication</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">NEW: Former Presidents Carter and Clinton praise Bush for his initiatives in Africa.</sentence>
+      <sentence id="2" ids_article_sentences="20">NEW: Bush says the country&amp;apost;s greatest days lie ahead.</sentence>
+      <sentence id="3" ids_article_sentences="3">NEW: The George W. Bush Presidential Center is dedicated.</sentence>
+      <sentence id="4" ids_article_sentences="25">Bush tells CNN he is aware it will rekindle debates about his legacy.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-03 04:53:44" annotation_time="17209.775">
+      <sentence id="2" ids_highlights="1">At Thursday&amp;apost;s event in Dallas, Democratic former Presidents Jimmy Carter and Bill Clinton praised Bush for his initiatives in Africa, and Bush defended his record.</sentence>
+      <sentence id="3" ids_highlights="3">&amp;quot;The political winds blow left and right, polls rise and fall, supporters come and go, but in the end, leaders are defined by the convictions they hold,&amp;quot; Bush said at the ceremony for the George W. Bush Presidential Center.</sentence>
+      <sentence id="20" ids_highlights="2">Bush became a little emotional as he closed his speech: &amp;quot;Whatever challenges come before us, I will always believe our nation&amp;apost;s best days lie ahead.&amp;quot;</sentence>
+      <sentence id="25" ids_highlights="4">In an interview with CNN&amp;apost;s John King, the former president said he knows that the center&amp;apost;s dedication will rekindle the debate about his presidency, and he conceded the library is in part an effort by him and supporters to influence history&amp;apost;s verdict.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Dallas Some may disagree whether George W. Bush was a &amp;quot;uniter, not a divider,&amp;quot; as he liked to say, but he did get all five living presidents together for the dedication of his presidential library.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>At Thursday&amp;apost;s event in Dallas, Democratic former Presidents Jimmy Carter and Bill Clinton praised Bush for his initiatives in Africa, and Bush defended his record.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;The political winds blow left and right, polls rise and fall, supporters come and go, but in the end, leaders are defined by the convictions they hold,&amp;quot; Bush said at the ceremony for the George W. Bush Presidential Center.</content>
+        </sentence>
+        <sentence id="4">
+          <content>&amp;quot;My deepest conviction, the guiding principle of the administration, is that the United States of America must strive to expand the reach of freedom.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Bush has said he is aware that the opening of his presidential library would reopen debates over the Iraq War and the policies he pursued after the September 11 terrorist attacks.</content>
+        </sentence>
+        <sentence id="6">
+          <content>History will show, he said at the dedication, that he always stuck by his convictions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;A free society thrives when neighbors help neighbors and the strong protect the weak and public policies promote private compassion,&amp;quot; Bush said.</content>
+        </sentence>
+        <sentence id="8">
+          <content>&amp;quot;As president, I tried to act on these principles every day.</content>
+        </sentence>
+        <sentence id="9">
+          <content>It wasn&amp;apost;t always easy and certainly wasn&amp;apost;t always popular ... but when future generations come to this library to study this administration, they&amp;apost;re going to find out that we stayed true to our convictions.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>Carter told a story of how he asked, on Bush&amp;apost;s inauguration day, for a meeting to talk about a civil war in Sudan that was entering its second decade.</content>
+        </sentence>
+        <sentence id="11">
+          <content>Bush kept his word and acted, Carter said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;In January of 2005, there was a peace treaty between north and south Sudan that ended a war that had been going on for 20 years,&amp;quot; Carter said.</content>
+        </sentence>
+        <sentence id="13">
+          <content>&amp;quot;George W. Bush is responsible for that.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="14">
+          <content>The last time the five living presidents were together was right before President Obama took office.</content>
+        </sentence>
+        <sentence id="15">
+          <content>It is a rare and special occurrence when the five gather, Obama said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;This is a Texas-sized party,&amp;quot; Obama said.</content>
+        </sentence>
+        <sentence id="17">
+          <content>&amp;quot;When all the former living presidents are all together, it is a special day for our democracy.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="18">
+          <content>The presidents on the stage definitely differed on many policy matters, but they all share one quality, Obama said: They did what they believe is right.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;That&amp;apost;s what President George W. Bush chose to do,&amp;quot; Obama said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="20">
+          <content>Bush became a little emotional as he closed his speech: &amp;quot;Whatever challenges come before us, I will always believe our nation&amp;apost;s best days lie ahead.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="21">
+          <content>The center&amp;apost;s library and museum take visitors through the turning points of Bush&amp;apost;s two terms.</content>
+        </sentence>
+        <sentence id="22">
+          <content>The first exhibits recall the 43rd president&amp;apost;s initial priorities on education, faith-based community initiatives and tax cuts.</content>
+        </sentence>
+        <sentence id="23">
+          <content>And they show how the September 11 terrorist attacks changed everything.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="24">
+          <content>At one exhibit, the bright red dress that first lady Laura Bush wore to her husband&amp;apost;s first state dinner, just six days before 9/11, stands in contrast to the next, most talked-about artifact in the museum: the twisted hulk of two beams from the World Trade Center.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="25">
+          <content>In an interview with CNN&amp;apost;s John King, the former president said he knows that the center&amp;apost;s dedication will rekindle the debate about his presidency, and he conceded the library is in part an effort by him and supporters to influence history&amp;apost;s verdict.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="26">
+          <content>But he predicted visitors would find it &amp;quot;more objective&amp;quot; than they might have imagined, and he showed little interest in revisiting flashpoints like Iraq, Hurricane Katrina or the 2008 financial crisis, or the scorn with which many look back at the Bush presidency.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="27">
+          <content>&amp;quot;You know, I&amp;apost;m really not that concerned about why people did what during my presidency,&amp;quot; he said.</content>
+        </sentence>
+        <sentence id="28">
+          <content>&amp;quot;I&amp;apost;m more concerned about being an effective person for the rest of my life.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="29">
+          <content>&amp;quot;I know this: that Laura and I gave the presidency eight years of our life.</content>
+        </sentence>
+        <sentence id="30">
+          <content>We gave it our all.</content>
+        </sentence>
+        <sentence id="31">
+          <content>Made the best judgment calls I could.</content>
+        </sentence>
+        <sentence id="32">
+          <content>I didn&amp;apost;t compromise my principles.</content>
+        </sentence>
+        <sentence id="33">
+          <content>And I&amp;apost;m a content man.</content>
+        </sentence>
+        <sentence id="34">
+          <content>And I am excited about what we&amp;apost;re going to do here.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="35">
+          <content>As the son of another former president, Bush said he wouldn&amp;apost;t mind seeing his brother Jeb Bush run for the highest office.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="36">
+          <content>If he could make the decision for Jeb, he would tell him to run for president, Bush said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="37">
+          <content>But in an interview Thursday on NBC&amp;apost;s &amp;quot;Today,&amp;quot; former first lady Barbara Bush said that while Jeb Bush is able to do the job, she would like to see other families in the White House.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="38">
+          <content>&amp;quot;There are other people out there that are very qualified, and we&amp;apost;ve had enough Bushes,&amp;quot; she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="39">
+          <content>In addition to the library and museum, the Presidential Center includes the George W. Bush Institute, a public policy institute.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

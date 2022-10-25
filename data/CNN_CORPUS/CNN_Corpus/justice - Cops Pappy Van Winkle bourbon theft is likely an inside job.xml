@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="488" link="http://www.cnn.com/2013/10/17/justice/kentucky-bourbon-theft" date_published="2013-10-18 01:49:06" category="justice" author="Kevin Conlon, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Cops: Pappy Van Winkle bourbon theft is likely an inside job</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">Buffalo Trace Distillery is missing some 20-year-old Pappy Van Winkle bourbon.</sentence>
+      <sentence id="2" ids_article_sentences="6">Nine cases of Pappy Van Winkle rye are also missing.</sentence>
+      <sentence id="3" ids_article_sentences="8">Sheriff: &amp;quot;The way this happened, it&amp;apost;s indicative of an inside job&amp;quot;.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-06 20:16:33" annotation_time="37.943333">
+      <sentence id="2" ids_highlights="1">The Buffalo Trace Distillery in Frankfort noticed this week that it was missing some of its 20-year-old Pappy Van Winkle, one of the rarest and most sought after bourbons in the world.</sentence>
+      <sentence id="6" ids_highlights="2">Nine cases of Pappy Van Winkle rye were also missing.</sentence>
+      <sentence id="8" ids_highlights="3">&amp;quot;Obviously, the way this happened, it&amp;apost;s indicative of an inside job.&amp;quot;</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>A bourbon heist at a high-end Kentucky distillery has left tongues wagging in elite whiskey circles and some small-town cops wondering whodunit.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The Buffalo Trace Distillery in Frankfort noticed this week that it was missing some of its 20-year-old Pappy Van Winkle, one of the rarest and most sought after bourbons in the world.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>&amp;quot;It&amp;apost;s highly coveted,&amp;quot; said Franklin County Sheriff Pat Melton, the man leading the investigation.</content>
+        </sentence>
+        <sentence id="4">
+          <content>&amp;quot;It&amp;apost;s the best of the best.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Melton said the distillery called him on Tuesday to report that 65 cases, or 195 bottles, of the high-end hard stuff were unaccounted for.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>Nine cases of Pappy Van Winkle rye were also missing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;We believe whoever did this took them out the back from the secured area over a period of two months&amp;quot; Melton said.</content>
+        </sentence>
+        <sentence id="8">
+          <content>&amp;quot;Obviously, the way this happened, it&amp;apost;s indicative of an inside job.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>Buffalo Trace did not respond to requests for comment, but Melton said the distillery employs about 50 people and operates two shifts.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>Just how coveted is Pappy Van Winkle?</content>
+        </sentence>
+        <sentence id="11">
+          <content>While the listed retail price is $130 per bottle, the bourbon is so rare that consumers usually end up paying much more to get a bottle, if they can find one, said Tom Fischer of bourbonblog.com.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;There is a lot of mystery around how to even get one,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>One place to get one is online retailer dukeofbourbon.com, where a bottle of 20-year-old Pappy Van Winkle costs $1,199.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;It&amp;apost;s the pinnacle of bourbon,&amp;quot; gushed Fischer.</content>
+        </sentence>
+        <sentence id="15">
+          <content>&amp;quot;If you&amp;apost;re around a bottle, it&amp;apost;s a special occasion.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="16">
+          <content>Melton said officials are in the early stages of the investigation, and will be on the lookout for any bottles popping up on the black market.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="17">
+          <content>But the thief might not be in any rush, Fischer said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="18">
+          <content>&amp;quot;If you keep bourbon in the right conditions, it will be good forever.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;You have to wonder what&amp;apost;s going to happen to the 195 stolen bottles,&amp;quot; said Kit Codik, CEO of the all-things cocktail website Liquor.com.</content>
+        </sentence>
+        <sentence id="20">
+          <content>&amp;quot;It&amp;apost;s like when a van Gogh goes missing: Where does that rare piece of art end up?</content>
+        </sentence>
+        <sentence id="21">
+          <content>I have no idea.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

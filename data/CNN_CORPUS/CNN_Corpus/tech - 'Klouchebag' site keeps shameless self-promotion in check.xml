@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1553" link="http://www.cnn.com/2012/05/31/tech/stout-twitter-klouchebag/index.html?iid=article_sidebar" date_published="2012-06-01 03:54:41" category="tech" author="Kristie Lu Stout, CNN" highlights_mapped="true" mapping_error="false">
+  <title>&amp;apost;Klouchebag&amp;apost; site keeps shameless self-promotion in check</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="38">CNN&amp;apost;s Kristie Lu Stout says there&amp;apost;s no shortage of douchebaggery on Twitter.</sentence>
+      <sentence id="2" ids_article_sentences="13">Klouchebag calculates Twitter users&amp;apost; douche score to see how they rank.</sentence>
+      <sentence id="3" ids_article_sentences="21">Recent survey finds only one third of a Twitter feed is actually valued by users.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-24 09:56:46" annotation_time="129.41032">
+      <sentence id="13" ids_highlights="2">The general douchebaggery across Twitter is so profound it&amp;apost;s prompted one user to launch &amp;quot;Klouchebag&amp;quot; -- a Klout-like site that generates your douche score.</sentence>
+      <sentence id="21" ids_highlights="3">According to a recent study by researchers at Carnegie Mellon, MIT and Georgia Tech, only around one third of a Twitter feed is actually valued by users.</sentence>
+      <sentence id="38" ids_highlights="1">Sometimes, we need a little douchebaggery in our lives to have a laugh at the self-centeredness of others and, thanks to downward comparison, feel better about ourselves.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Hong Kong In CNN&amp;apost;s Hong Kong newsroom, right next to my desk, there&amp;apost;s a &amp;quot;douche jar.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Inspired by the TV series &amp;quot;New Girl,&amp;quot; the &amp;quot;douche jar&amp;quot; was placed in our cubicle cluster to prevent general douchebaggery or acts of egregious self-promotion.</content>
+        </sentence>
+        <sentence id="3">
+          <content>It works like this -- if you say or do something like a douchebag, you put a fistful of local currency into the jar.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>In case you&amp;apost;re not familiar with the term, the Urban Dictionary offers up this definition.</content>
+        </sentence>
+        <sentence id="5">
+          <content>The douchebag &amp;quot;has an inflated sense of self-worth, compounded by a lack of social grace and self-awareness.</content>
+        </sentence>
+        <sentence id="6">
+          <content>He behaves inappropriately in public, yet is completely ignorant to how pathetic he appears to others.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>In the newsroom, the jar is usually low on cash.</content>
+        </sentence>
+        <sentence id="8">
+          <content>Most of its contributions are made in jest by a colleague out to channel a self-absorbed jerk.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="9">
+          <content>But on Twitter, the &amp;quot;douche jar&amp;quot; is always full.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>There are tweets that claim to be BREAKING NEWS, when they are not.</content>
+        </sentence>
+        <sentence id="11">
+          <content>There are tweets that overuse #hashtags.</content>
+        </sentence>
+        <sentence id="12">
+          <content>And tweets that are whiny and excessively personal.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="13">
+          <content>The general douchebaggery across Twitter is so profound it&amp;apost;s prompted one user to launch &amp;quot;Klouchebag&amp;quot; -- a Klout-like site that generates your douche score.</content>
+        </sentence>
+        <sentence id="14">
+          <content>For the uninitiated, Klout uses analytics to determine a user&amp;apost;s influence across social networks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="15">
+          <content>On Klouchebag, The ever-#winning Charlie Sheen registers as &amp;quot;a bit of a douchebag&amp;quot; with a score of 50.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="16">
+          <content>For the record, I registered a score of 46 or &amp;quot;quite noisy&amp;quot; on the KB scale.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="17">
+          <content>But instead of hanging my head in shame, I&amp;apost;ll blame the medium.</content>
+        </sentence>
+        <sentence id="18">
+          <content>Twitter is, after all, is the one-to-many platform where you can sound off on anything.</content>
+        </sentence>
+        <sentence id="19">
+          <content>A bit of pride and pretense are bound to spill forth.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="20">
+          <content>Well, maybe more than a bit.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="21">
+          <content>According to a recent study by researchers at Carnegie Mellon, MIT and Georgia Tech, only around one third of a Twitter feed is actually valued by users.</content>
+        </sentence>
+        <sentence id="22">
+          <content>In a survey based on 43,000 responses to find out what people like and loathe about microblog posts, they found that followers described only 36% of the rated tweets as &amp;quot;Worth Reading.&amp;quot;</content>
+        </sentence>
+        <sentence id="23">
+          <content>They thought 25% were &amp;quot;Not Worth Reading&amp;quot; and were neutral about the remainder.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="24">
+          <content>As for what works and doesn&amp;apost;t work on the microblog?</content>
+        </sentence>
+        <sentence id="25">
+          <content>According to the study, &amp;quot;informative&amp;quot; leads the reasons for liking a tweet.</content>
+        </sentence>
+        <sentence id="26">
+          <content>&amp;quot;Boring&amp;quot; dominates the reasons for disliking -- scoring higher than &amp;quot;arrogant&amp;quot; and &amp;quot;mean&amp;quot; combined.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="27">
+          <content>So on Twitter, it&amp;apost;s worse to be a bore than a douche.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="28">
+          <content>Perhaps that can explain the popularity of faux Twitter accounts that celebrate the self-love and pomposity of certain figures in popular culture.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="29">
+          <content>There&amp;apost;s &amp;quot;Death Star PR,&amp;quot; the official mouthpiece for the Galactic Empire.</content>
+        </sentence>
+        <sentence id="30">
+          <content>Sample tweet: &amp;quot;It&amp;apost;s a beautiful day to Force choke a few idiots.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="31">
+          <content>And &amp;quot;The Relevant Organs&amp;quot; -- a Twitter feed that satirizes a Chinese communist party official with gems like: &amp;quot;We&amp;apost;re confused.</content>
+        </sentence>
+        <sentence id="32">
+          <content>What part of intrusive policing, rabid anchormen, pandering websites and fenqing douchery isn&amp;apost;t soft power genius?&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="33">
+          <content>&amp;quot;Not Tilda Swinton&amp;quot; had been issuing regular missives to her &amp;quot;Tildren&amp;quot; on how to achieve the actress&amp;apost;s mysterious aura and oneness with nature with tweeted tales like: &amp;quot;I once waded the entire length of the Nile.</content>
+        </sentence>
+        <sentence id="34">
+          <content>I lost an arm to a hippo, but won it back in a game of Charades.</content>
+        </sentence>
+        <sentence id="35">
+          <content>I am stronger for it.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="36">
+          <content>Sadly, the fake Twitter account has been retired to keep the joke from getting stale.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="37">
+          <content>It&amp;apost;s a pity.</content>
+        </sentence>
+        <sentence id="38">
+          <content>Sometimes, we need a little douchebaggery in our lives to have a laugh at the self-centeredness of others and, thanks to downward comparison, feel better about ourselves.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="39">
+          <content>I went back to Klouchebag to see how I stacked up against Donald Trump on Twitter.</content>
+        </sentence>
+        <sentence id="40">
+          <content>I outscored him by a solid 32 points.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="41">
+          <content>And there&amp;apost;s another 20 bucks in the douche jar.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

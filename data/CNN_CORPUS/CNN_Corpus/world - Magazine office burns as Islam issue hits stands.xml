@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2403" link="http://www.cnn.com/2011/11/02/world/europe/france-magazine-burning/index.html" date_published="2011-11-02 09:18:11" category="world" author="the CNN Wire Staff" highlights_mapped="true" mapping_error="false">
+  <title>Magazine office burns as Islam issue hits stands</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="11">NEW: The mayor of Paris &amp;quot;strongly condemns&amp;quot; the &amp;quot;act of violence&amp;quot;.</sentence>
+      <sentence id="2" ids_article_sentences="22">Charlie Hebdo releases a special &amp;quot;Arab Spring&amp;quot; edition.</sentence>
+      <sentence id="3" ids_article_sentences="2">The cover features a bearded and turbaned cartoon figure of the Prophet Mohammed.</sentence>
+      <sentence id="4" ids_article_sentences="15">Police cannot confirm the fire was caused by arson.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-09-01 17:47:42" annotation_time="39.279">
+      <sentence id="2" ids_highlights="3">The cover has a bearded and turbaned cartoon figure of the Prophet Mohammed saying &amp;quot;100 lashes if you&amp;apost;re not dying of laughter.&amp;quot;</sentence>
+      <sentence id="11" ids_highlights="1">Bertrand Delanoe, the mayor of Paris, &amp;quot;strongly condemned this act of violence.&amp;quot;</sentence>
+      <sentence id="15" ids_highlights="4">They could not confirm that the fire was started by Molotov cocktails.</sentence>
+      <sentence id="22" ids_highlights="2">The French magazine received threats after it announced an edition guest-edited by the Prophet Mohammed and dedicated to the Arab Spring, Charb told BFM.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Paris The offices of the French satirical magazine Charlie Hebdo burned early Wednesday morning, the day it was due to publish an issue with a cover appearing to make fun of Islamic law.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The cover has a bearded and turbaned cartoon figure of the Prophet Mohammed saying &amp;quot;100 lashes if you&amp;apost;re not dying of laughter.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The magazine&amp;apost;s publication director said the fire was caused by a Molotov cocktail.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>The executive, identified on CNN affiliate BFM-TV as &amp;quot;Charb,&amp;quot; expressed outrage at the attack.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>&amp;quot;The arsonist didn&amp;apost;t read this magazine -- no one knows what&amp;apost;s in this magazine except for the ones who will buy it this morning,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;People acted violently over a magazine where they don&amp;apost;t even know the content.</content>
+        </sentence>
+        <sentence id="7">
+          <content>This is what is most deviant and dumb,&amp;quot; Charb said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>French Interior Minister Claude Gueant expressed the support of the nation for the magazine.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>&amp;quot;The freedom of the press is a sacred freedom for French people.</content>
+        </sentence>
+        <sentence id="10">
+          <content>Everything will be done to find the perpetrators of this attack,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>Bertrand Delanoe, the mayor of Paris, &amp;quot;strongly condemned this act of violence.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;We may not agree with this week&amp;apost;s edition of Charlie Hebdo, but we are in a society that needs freedom of expression, and any violence that undermines this freedom... is absolutely unacceptable,&amp;quot; he said on BFM-TV.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="13">
+          <content>He offered to help Charlie Hebdo find other offices &amp;quot;in order to support the newspaper and its freedom. &amp;quot;.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="14">
+          <content>Paris police confirmed that a fire started at the Charlie Hebdo building at 1 a.m. Wednesday and was extinguished about two hours later.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="15">
+          <content>They could not confirm that the fire was started by Molotov cocktails.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="16">
+          <content>An investigation is underway, they said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="17">
+          <content>France has been wracked by tensions over its rapidly growing Muslim minority.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="18">
+          <content>The country banned the wearing of Islamic veils and other face coverings earlier this year, claiming they were both degrading and a security risk.</content>
+        </sentence>
+        <sentence id="19">
+          <content>Belgium has passed similar legislation, and Switzerland banned the building of minarets, the tall spires which often stand next to mosques.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="20">
+          <content>Muslims around the world have demonstrated over cartoons of the Prophet Mohammed, and some of the cartoonists have been attacked or threatened.</content>
+        </sentence>
+        <sentence id="21">
+          <content>Islam generally bans depictions of its founder.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="22">
+          <content>The French magazine received threats after it announced an edition guest-edited by the Prophet Mohammed and dedicated to the Arab Spring, Charb told BFM.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="23">
+          <content>&amp;quot;I don&amp;apost;t think Islam is a taboo subject, I think we have the right to talk about anything,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="24">
+          <content>The issue is renamed &amp;quot;Charia Hebdo,&amp;quot; a reference to Islamic law, or sharia.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="25">
+          <content>The website of the magazine has also been hacked by &amp;quot;Cyber-Warrior TIM&amp;quot; claiming to be from Akincilar, &amp;quot;for Islam.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="26">
+          <content>The redirect page says, &amp;quot;You keep abusing Islam&amp;apost;s almighty Prophet with disgusting and disgraceful cartoons using excuses of freedom of speech.&amp;quot;</content>
+        </sentence>
+        <sentence id="27">
+          <content>It has messages in both English and Turkish.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="28">
+          <content>The hacking group does not claim to be responsible for the physical attacks on the building in its statement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

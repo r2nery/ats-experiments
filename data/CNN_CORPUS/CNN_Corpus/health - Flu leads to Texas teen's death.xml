@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="254" link="http://www.cnn.com/2013/01/10/health/texas-teen-killed-flu/index.html?iid=article_sidebar" date_published="2013-01-10 17:32:30" category="health" author="William Hudson, Elizabeth Cohen and John Bonifield, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Flu leads to Texas teen&amp;apost;s death</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="27">17-year-old Max Schwolert died on December 29.</sentence>
+      <sentence id="2" ids_article_sentences="16">Max had to be helicoptered to Regions Hospital in St. Paul, Minnesota.</sentence>
+      <sentence id="3" ids_article_sentences="26">Flu led to a staph bacterial infection that soon led to septic shock.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-06 07:46:10" annotation_time="19.374">
+      <sentence id="16" ids_highlights="2">Max had to be helicoptered to Regions Hospital in St. Paul, Minnesota, but there was no room on the flight for family.</sentence>
+      <sentence id="26" ids_highlights="3">A staph bacterial infection soon led to septic shock.</sentence>
+      <sentence id="27" ids_highlights="1">By December 29, Max was dead.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The common flu rarely kills the young and healthy, but the Schwolert family knows it can.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Their 17-year-old son Max felt ill on December 22 as the family drove to Wisconsin for Christmas vacation, beginning a series of ups and downs that would ultimately claim his life.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>At first, Max took Tylenol for his symptoms: a mild fever and nausea.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>He woke up the next morning feeling well enough to play in the snow with his two sisters.</content>
+        </sentence>
+        <sentence id="5">
+          <content>His family endearingly called him &amp;quot;Panda,&amp;quot; for his gentle nature and 6&amp;apost; 4&amp;quot; height.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>The next day, Christmas Eve, Max stayed home with a cough while his family attended church.</content>
+        </sentence>
+        <sentence id="7">
+          <content>The extra bed rest seemed to help.</content>
+        </sentence>
+        <sentence id="8">
+          <content>By Christmas day, Max felt better again, even participating in the family festivities.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>But later that night he took a turn for worse and never got better.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;He woke up very sick,&amp;quot; said Tom Schwolert, Max&amp;apost;s father.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;He had an excessive 104.9 fever, and we could not break it,&amp;quot; said Max&amp;apost;s mother Melanie.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>The Schwolerts took their son to the local hospital where he tested positive for the flu.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>&amp;quot;Within 30 minutes the doctor was like, &amp;apost;Something&amp;apost;s really wrong here.</content>
+        </sentence>
+        <sentence id="14">
+          <content>His kidneys are starting to fail.</content>
+        </sentence>
+        <sentence id="15">
+          <content>His blood pressure is really low,&amp;apost; &amp;quot; Tom remembered.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>Max had to be helicoptered to Regions Hospital in St. Paul, Minnesota, but there was no room on the flight for family.</content>
+        </sentence>
+        <sentence id="17">
+          <content>Max&amp;apost;s mother had to say good-bye to her sick son and drive separately.</content>
+        </sentence>
+        <sentence id="18">
+          <content>That &amp;quot;broke my heart,&amp;quot; she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;He looked at me and there were some tears rolling down his face.</content>
+        </sentence>
+        <sentence id="20">
+          <content>He said &amp;apost;Mom, I&amp;apost;m scared.&amp;apost;.</content>
+        </sentence>
+        <sentence id="21">
+          <content>I said, &amp;apost;I know buddy, I am too.&amp;apost;.</content>
+        </sentence>
+        <sentence id="22">
+          <content>And then he saw me crying.</content>
+        </sentence>
+        <sentence id="23">
+          <content>He said, &amp;apost;Mom it&amp;apost;s going to be OK, you&amp;apost;re going to be OK, I love you.</content>
+        </sentence>
+        <sentence id="24">
+          <content>And that&amp;apost;s really the last coherent thing he said to me.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="25">
+          <content>Max spent four days intubated in the intensive care unit at Regions.</content>
+        </sentence>
+        <sentence id="26">
+          <content>A staph bacterial infection soon led to septic shock.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="27">
+          <content>By December 29, Max was dead.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="28">
+          <content>When the Schwolert family returned home from Minnesota, the college acceptance letter Max had been hoping for had finally been delivered.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

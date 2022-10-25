@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="212" link="http://edition.cnn.com/2012/02/04/health/new-york-mystery/index.html" date_published="2012-02-04 22:09:49" category="health" author="Jim Spellman, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Contentious meeting reflects N.Y. community divided by medical mystery</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">More than a dozen students have developed tic-like symptoms.</sentence>
+      <sentence id="2" ids_article_sentences="3">Doctors have diagnosed most of the cases as &amp;quot;conversion disorder&amp;quot;.</sentence>
+      <sentence id="3" ids_article_sentences="14">But some parents want more environmental testing.</sentence>
+      <sentence id="4" ids_article_sentences="1">A community meeting Saturday reflected a divided community.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-10 23:06:30" annotation_time="36.413498">
+      <sentence id="1" ids_highlights="1, 4">A community meeting Saturday at a school where over a dozen children have developed tic-like symptoms quickly became contentious, further dividing an already-polarized community.</sentence>
+      <sentence id="3" ids_highlights="2">Doctors have diagnosed most of the children and one adult suffering from the symptoms with &amp;quot;conversion disorder,&amp;quot; a condition induced by stress.</sentence>
+      <sentence id="14" ids_highlights="3">Many parents want soil around the gas wells tested, something the school district does not immediately plan to do.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>A community meeting Saturday at a school where over a dozen children have developed tic-like symptoms quickly became contentious, further dividing an already-polarized community.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The meeting came after calls for more thorough environmental testing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Doctors have diagnosed most of the children and one adult suffering from the symptoms with &amp;quot;conversion disorder,&amp;quot; a condition induced by stress.</content>
+        </sentence>
+        <sentence id="4">
+          <content>When occurring in clusters the condition is sometimes called &amp;quot;mass hysteria.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>But some environmental activists have suggested that some sort of toxin may be causing the condition in the western New York state community.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>In 1970 a train derailment a few miles from the school site dumped toxic chemicals into the ground, and there are several natural gas wells on school property, where a controversial hydraulic fracturing drilling technique called fracking was used.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>The derailment area is a federal Superfund site.</content>
+        </sentence>
+        <sentence id="8">
+          <content>This week contractors for the Environmental Protection Agency were seen at the Superfund site preparing to remove barrels from the site.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>Tests conducted by the school, the students&amp;apost; doctors and the New York Health Department have all shown no environmental link.</content>
+        </sentence>
+        <sentence id="10">
+          <content>At Saturday&amp;apost;s meeting, the school announced that it had hired a private firm to conduct even more thorough testing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>Superintendent Kim Cox told the crowd the school is safe.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;What I have to do as the superintendent is take what the experts are telling me, and what the experts are telling me and what the data is showing me is that there is no environment case here linked to this condition,&amp;quot; she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>Judging by applause, about half of the crowd of several hundred people were supportive of the school administration, while the other half that included several families of affected children felt the school has yet to go far enough.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>Many parents want soil around the gas wells tested, something the school district does not immediately plan to do.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="15">
+          <content>Melissa Cianci has children in the school district and runs a day care center about a mile form the Superfund site.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;I&amp;apost;m done listening to you, you guys need to do something,&amp;quot; Cianci declared.</content>
+        </sentence>
+        <sentence id="17">
+          <content>&amp;quot;You need to show us it is safe to put our children in this school -- as a community we need to come together, we need to pull our children out.</content>
+        </sentence>
+        <sentence id="18">
+          <content>There are other places we can put them to get the education they need.</content>
+        </sentence>
+        <sentence id="19">
+          <content>You are not doing your jobs!&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="20">
+          <content>She continued: &amp;quot;You are not doing your job at all -- we need to stand up as parents and fight for the rights of our children!&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="21">
+          <content>She stormed out of the meeting, vowing to remove her children from the school.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="22">
+          <content>After a 30-minute question-and-answer session,school officials ended the meeting.</content>
+        </sentence>
+        <sentence id="23">
+          <content>Many in attendance still had questions they wanted answered and said they were leaving frustrated that they weren&amp;apost;t able to have more time.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="24">
+          <content>Last weekend, Bob Bowcock, an associate of environmental activist Erin Brockovich came to Le Roy to take soil, air and water samples from the Superfund site and the school grounds, but was barred from entering school grounds, angering many parents who have been in contact with Brockovich and Bowcock.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="25">
+          <content>Beth Miller&amp;apost;s daughter is suffering from the symptoms.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="26">
+          <content>&amp;quot;They say they are for the kids, for the kids, for the kids -- well, let&amp;apost;s show them that you are for the kids and start letting these independent people do the testing,&amp;quot; Miller said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="27">
+          <content>&amp;quot;Why does it have to be someone hired by the school and why do our taxes have to be increased because someone is being hired -- and Erin Brockovich&amp;apost;s team will come in here, do a great job and do it for free and ... they are going to say what it is,&amp;quot; she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="177" link="http://www.cnn.com/2014/03/27/health/cdc-autism/index.html" date_published="2014-03-27 17:05:19" category="health" author="Miriam Falco, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Autism rates now 1 in 68 U.S. children: CDC</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">The new number is a 30% increase from two years ago.</sentence>
+      <sentence id="2" ids_article_sentences="5">Autism remains more common in boys than in girls.</sentence>
+      <sentence id="3" ids_article_sentences="12">The report doesn&amp;apost;t say why the incidence of autism is rising.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-26 10:31:34" annotation_time="1555.981">
+      <sentence id="1" ids_highlights="1">One in 68 U.S. children has an autism spectrum disorder (ASD), a 30% increase from 1 in 88 two years ago, according to a new report released Thursday by the Centers for Disease Control and Prevention.</sentence>
+      <sentence id="5" ids_highlights="2">According to the new report, the CDC estimates 1 in 42 boys has autism, 4.5 times as many as girls (1 in 189).</sentence>
+      <sentence id="12" ids_highlights="3">The report is not designed to say why more children are being diagnosed with autism, Boyle says.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>One in 68 U.S. children has an autism spectrum disorder (ASD), a 30% increase from 1 in 88 two years ago, according to a new report released Thursday by the Centers for Disease Control and Prevention.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>This newest estimate is based on the CDC&amp;apost;s evaluation of health and educational records of all 8-year-old children in 11 states: Alabama, Wisconsin, Colorado, Missouri, Georgia, Arkansas, Arizona, Maryland, North Carolina, Utah and New Jersey.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The incidence of autism ranged from a low of 1 in 175 children in Alabama to a high of 1 in 45 in New Jersey, according to the CDC.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>Children with autism continue to be overwhelmingly male.</content>
+        </sentence>
+        <sentence id="5">
+          <content>According to the new report, the CDC estimates 1 in 42 boys has autism, 4.5 times as many as girls (1 in 189).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;We look at all of the characteristics of autism,&amp;quot; says Coleen Boyle, the director of the CDC&amp;apost;s National Center on Birth Defects and Developmental Disabilities.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;So we look at the age in which they&amp;apost;re identified.</content>
+        </sentence>
+        <sentence id="8">
+          <content>We look at their earliest diagnosis.</content>
+        </sentence>
+        <sentence id="9">
+          <content>We look at co-occuring conditions that these children might have, other developmental disabilities, whether or not they have intellectual disability, so essentially their IQ.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>The largest increase was seen in children who have average or above-average intellectual ability, according to the CDC.</content>
+        </sentence>
+        <sentence id="11">
+          <content>The study found nearly half of children with an autism spectrum disorder have average or above-average intellectual ability -- an IQ above 85 -- compared with one-third of children a decade ago.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>The report is not designed to say why more children are being diagnosed with autism, Boyle says.</content>
+        </sentence>
+        <sentence id="13">
+          <content>But she believes increased awareness in identifying and diagnosing children contributes to the higher numbers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>More than 5,300 children are represented in the data contained in the new report, she says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>&amp;quot;We comb through records.</content>
+        </sentence>
+        <sentence id="16">
+          <content>We accumulate all that information and then each one of those records is reviewed by a specialist to make sure that that child meets our autism case definition,&amp;quot; says Boyle.</content>
+        </sentence>
+        <sentence id="17">
+          <content>The definition of autism is unchanged from the 2012 report.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="18">
+          <content>One thing that hasn&amp;apost;t changed over the years is that children are still being diagnosed late.</content>
+        </sentence>
+        <sentence id="19">
+          <content>According to the report, the average age of diagnosis is still over age 4, even though autism can be diagnosed by age 2.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="20">
+          <content>The earlier a child is diagnosed with autism, the better their chances of overcoming the difficulties that come with the disorder.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="21">
+          <content>&amp;quot;It&amp;apost;s not a cure, but it changes the trajectory,&amp;quot; says Dr. Gary Goldstein, president and CEO of the Kennedy Krieger Institute and professor of neurology at Johns Hopkins University.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;We need to continue our efforts to educate the health care community and general public to recognize the developmental problems associated with ASD and other developmental disorders at earliest age possible, so that intervention can be initiated, bad habits can be avoided and families will know what&amp;apost;s wrong with their child,&amp;quot; says Dr. Max Wiznitzer, a pediatric neurologist at Rainbow Babies and Children&amp;apost;s Hospital in Cleveland who diagnoses and treats children with autism.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="23">
+          <content>This new report is based on 2010 data, when the children were 8 years old (born in 2002).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="24">
+          <content>Since 2000, the CDC has based its autism estimates on surveillance reports from its Autism and Developmental Disabilities Monitoring Network.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="25">
+          <content>Every two years, researchers count how many 8-year-olds have autism in about a dozen communities across the nation.</content>
+        </sentence>
+        <sentence id="26">
+          <content>(The number of sites had ranged from six to 14 over the years, depending on the available funding in a given year.).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="27">
+          <content>In 2000 and 2002, the autism estimate was about 1 in 150 children.</content>
+        </sentence>
+        <sentence id="28">
+          <content>Two years later 1 in 125 8-year-olds was believed to have autism.</content>
+        </sentence>
+        <sentence id="29">
+          <content>In 2006, the number grew to 1 in 110, and then the number went up to 1 in 88 based on 2008 data.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="30">
+          <content>Boyle acknowledges these statistics are not necessarily representative of the entire United States because the information is drawn from 11 states, not a national cross-section.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="31">
+          <content>But she adds that the 11 areas represent 9% of all 8-year old children in the United States in 2010, which Boyle says gives the CDC a &amp;quot;good picture of what&amp;apost;s going on in those communities with regards to autism.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="32">
+          <content>However, experts such as Wiznitzer and Goldstein are concerned that the new CDC report is not describing the same autism that was present and diagnosed 20 years ago, when the numbers first shot up.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="33">
+          <content>&amp;quot;Twenty years ago we thought of autism with intellectual disability.</content>
+        </sentence>
+        <sentence id="34">
+          <content>We never looked at children who had normal intelligence&amp;quot; -- doctors never considered that high-functioning children had autism too, says Goldstein.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="35">
+          <content>Wiznitzer believes written reports can&amp;apost;t definitively determine whether a child has autism.</content>
+        </sentence>
+        <sentence id="36">
+          <content>You need to see the child to complete a diagnosis, which the CDC experts did not have the opportunity to do.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="37">
+          <content>&amp;quot;This report tells us that there&amp;apost;s a significant number of children in the states where they were assessed that have social differences and a pattern of behaviors that can be represented by ASD, but may also be due to other conditions that superficially can have similar features, such as social anxiety, ADHD with social immaturity and intelligence problems,&amp;quot; he says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="38">
+          <content>And while the CDC reports it is still seeing a higher prevalence of autism in white children relative to African-American and Hispanic children, &amp;quot;there&amp;apost;s a greater percentage of people of color and in females being diagnosed now,&amp;quot; says Scott Badesch, president and CEO of the Autism Society of America.</content>
+        </sentence>
+        <sentence id="39">
+          <content>&amp;quot;We&amp;apost;re also seeing a great increase of diagnosis above the age of 8 in girls.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="40">
+          <content>The new statistics raise significant concerns about access to care, because autism is a lifelong disorder and the need for services only begins at diagnosis, says Robert Ring, chief science officer for the advocacy group Autism Speaks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="41">
+          <content>&amp;quot;Behind these numbers are real people,&amp;quot; he says.</content>
+        </sentence>
+        <sentence id="42">
+          <content>&amp;quot;Every one of these numbers is a family that&amp;apost;s coming to terms with the implications of the diagnosis for the lifespan of their loved one.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="43">
+          <content>&amp;quot;We need a plan to respond to these numbers, a national strategy for autism, and leadership has to come from Washington,&amp;quot; because every congressional district is affected, says Ring.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="44">
+          <content>There are still disparities in awareness and access to care among minorities and poorer families, which can have a direct impact on a child&amp;apost;s outcome, he says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="45">
+          <content>In the end, it&amp;apost;s not so much about the final number.</content>
+        </sentence>
+        <sentence id="46">
+          <content>As Goldstein puts it, 1 in 68 or 1 in 70 doesn&amp;apost;t really matter.</content>
+        </sentence>
+        <sentence id="47">
+          <content>What matters, he says, is that we now know this is not a rare disorder, and it&amp;apost;s important that each individual gets the help they need to have the best quality of life.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="48">
+          <content>All agree that a comprehensive national strategy that includes the research community, policy makers, educators and caregivers is necessary to find solutions for people who live with autism.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="49">
+          <content>One of the biggest problems, in Goldstein&amp;apost;s eyes: &amp;quot;We don&amp;apost;t have enough trained professionals to do this.&amp;quot;</content>
+        </sentence>
+        <sentence id="50">
+          <content>He adds, &amp;quot;it&amp;apost;s hard to get paid to do this.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="51">
+          <content>In many cases, insurance does not pay, even in states that have passed laws requiring health insurance to cover autism, he says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="34">
+      <sentences>
+        <sentence id="52">
+          <content>When poorer parents are told their child has autism, Badesch says, they realize that to get services, they must get on a waiting list or get Medicaid.</content>
+        </sentence>
+        <sentence id="53">
+          <content>In many states, he says, Medicaid doesn&amp;apost;t cover autism therapy for young children during the most critical developmental period, which is essential to a better outcome.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="35">
+      <sentences>
+        <sentence id="54">
+          <content>Autism is definitely a &amp;quot;have and have-not&amp;quot; disorder, he says, and the new numbers show even more people will need services that are lacking.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

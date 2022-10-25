@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1677" link="http://www.cnn.com/2012/02/21/tech/mobile/cashmore-computer-like-phone/index.html" date_published="2012-02-21 12:56:26" category="tech" author="Pete Cashmore, Special to CNN" highlights_mapped="true" mapping_error="false">
+  <title>Why your computer is becoming more like your phone</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">Desktop operating systems will merge with mobile OS in the coming years.</sentence>
+      <sentence id="2" ids_article_sentences="6">Music, photos, calendars and emails now sync across your phone, tablet and Mac.</sentence>
+      <sentence id="3" ids_article_sentences="21">But simple systems are often less &amp;quot;open&amp;quot; and provide less freedom to try new things.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-14 15:26:29" annotation_time="18.216333">
+      <sentence id="2" ids_highlights="1">The trend is clear: The desktop operating system will merge with the mobile OS in the coming years.</sentence>
+      <sentence id="6" ids_highlights="2">That means your music, photos, calendars, contacts, emails and more can now stay in sync across your phone, tablet and Mac.</sentence>
+      <sentence id="21" ids_highlights="3">Simple systems are often less &amp;quot;open&amp;quot; and provide less freedom to try new things: Tasks are either easy to complete (because the developers thought of that use case) or not possible at all.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Apple released Mountain Lion to developers last week, a new operating system that will make your desktop computer work more like your phone than ever before.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The trend is clear: The desktop operating system will merge with the mobile OS in the coming years.</content>
+        </sentence>
+        <sentence id="3">
+          <content>The question is: Why?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Let&amp;apost;s start with the trend itself.</content>
+        </sentence>
+        <sentence id="5">
+          <content>First off, Apple is integrating cloud services much more deeply in Mountain Lion than any previous operating system.</content>
+        </sentence>
+        <sentence id="6">
+          <content>That means your music, photos, calendars, contacts, emails and more can now stay in sync across your phone, tablet and Mac.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>Apple has also unified your messages across your devices: The Message app (formerly iMessages) will replace iChat on the Mac.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>That&amp;apost;s not all: Mountain Lion also gets a notification center that works just like the notifications you receive on your phone.</content>
+        </sentence>
+        <sentence id="9">
+          <content>Games Center is coming to the Mac as well, allowing you to play games against your friends who own iPhones and iPads.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>Apps like Reminders, Notes and Contacts are also all getting desktop versions -- and of course these sync with your mobile devices so your data is always up to date.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>Most notable of all: Apple is now pushing software updates through the Mac App Store, hinting that the App Store may become the only way to get software on your Mac in the future.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>So what are the advantages of your desktop computer merging with your phone&amp;apost;s functionality?</content>
+        </sentence>
+        <sentence id="13">
+          <content>And are there any downsides?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>Simplicity.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>The main reason Apple wants to make Macs work like the iPhone and iPad is simple.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Or rather, simplicity.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="17">
+          <content>Despite decades of innovation and the invention of the graphical user interface, computers remain too confusing and complex for the majority of people.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="18">
+          <content>While more powerful software with complex functionality will continue to exist for highly technical users, most consumers want a device that&amp;apost;s easy to use and intuitive.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="19">
+          <content>The rise of the iPad and iPhone prove that there&amp;apost;s huge demand for such simplicity, and that desktops too will need to become more streamlined.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="20">
+          <content>The downside of simplicity?</content>
+        </sentence>
+        <sentence id="21">
+          <content>Simple systems are often less &amp;quot;open&amp;quot; and provide less freedom to try new things: Tasks are either easy to complete (because the developers thought of that use case) or not possible at all.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="22">
+          <content>Security.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="23">
+          <content>Mobile operating systems could potentially be more secure than their desktop counterparts.</content>
+        </sentence>
+        <sentence id="24">
+          <content>In particular, if Apple makes the App Store the only way to download apps to your Mac, it would become more difficult for users to install malware (since Apple manually approves every app in the store).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="25">
+          <content>What&amp;apost;s more, mobile features like tracking the location of your devices or wiping them remotely will make consumer desktops more secure.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="26">
+          <content>There are downsides to app stores, however.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="27">
+          <content>Not only would devices become less open -- the makers of operating systems become gatekeepers -- but you could argue that Apple and its rivals simply want to force the use of app stores so that they make more money for themselves.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="28">
+          <content>Syncing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="29">
+          <content>Perhaps the most obvious benefit of making desktops work more like phones is unity between all your devices.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="30">
+          <content>With a similar (or single) operating system on all your gadgets, syncing apps, contacts and calendars between them all becomes effortless.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="31">
+          <content>There&amp;apost;s a downside for users, however: Competing operating systems tend not to work well together, and using one operating system across all devices means uses are &amp;quot;locked in&amp;quot; more than ever before.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="32">
+          <content>So there you have it: Your desktop computer is becoming more and more like your phone -- and in fact the line between the two will one day disappear.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="33">
+          <content>If you think it&amp;apost;s just Apple&amp;apost;s devices that are headed toward a simpler operating system, however, you&amp;apost;d be mistaken -- Apple is merely in the news because Mountain Lion became available to developers last week.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="34">
+          <content>In fact, Microsoft&amp;apost;s Windows 8 takes its cues from Windows Phone, meaning that the two major desktop operating systems will mimic your mobile devices very soon.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

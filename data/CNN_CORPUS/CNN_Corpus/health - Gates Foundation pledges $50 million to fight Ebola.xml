@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="258" link="http://edition.cnn.com/2014/09/10/health/ebola-outbreak/index.html?hpt=iaf_c2" date_published="2014-09-10 18:45:03" category="health" author="Jacque Wilson and Jen Christensen, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Gates Foundation pledges $50 million to fight Ebola</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Bill and Melinda Gates Foundation joins fight of Ebola outbreak in West Africa.</sentence>
+      <sentence id="2" ids_article_sentences="2">More than 2,200 people have died in Guinea, Liberia and Sierra Leone.</sentence>
+      <sentence id="3" ids_article_sentences="4">Money will be used to purchase supplies and scale up emergency operations.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-27 16:40:42" annotation_time="13.013">
+      <sentence id="1" ids_highlights="1">The Bill and Melinda Gates Foundation announced Wednesday it will donate $50 million to help fight the Ebola outbreak in West Africa.</sentence>
+      <sentence id="2" ids_highlights="2">More than 2,200 people have died in Guinea, Liberia and Sierra Leone, where the outbreak has been concentrated.</sentence>
+      <sentence id="4" ids_highlights="3">The foundation says the money will be used to enable international aid organizations and national governments &amp;quot;to purchase badly needed supplies and scale up emergency operations in affected countries.&amp;quot;</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The Bill and Melinda Gates Foundation announced Wednesday it will donate $50 million to help fight the Ebola outbreak in West Africa.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>More than 2,200 people have died in Guinea, Liberia and Sierra Leone, where the outbreak has been concentrated.</content>
+        </sentence>
+        <sentence id="3">
+          <content>Cases have also been reported in nearby Nigeria and Senegal.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>The foundation says the money will be used to enable international aid organizations and national governments &amp;quot;to purchase badly needed supplies and scale up emergency operations in affected countries.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>It will also &amp;quot;work with public and private sector partners to accelerate the development of therapies, vaccines, and diagnostics that could be effective in treating patients and preventing further transmission of the disease.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>The first human trial of an experimental Ebola vaccine began last week at the National Institutes of Health.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>This is considered the deadliest Ebola outbreak in history.</content>
+        </sentence>
+        <sentence id="8">
+          <content>The World Health Organization said Monday the rapid spread of the virus in Liberia shows no sign of slowing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>&amp;quot;The number of new cases is increasing exponentially,&amp;quot; WHO said, calling the situation a &amp;quot;dire emergency with ... unprecedented dimensions of human suffering.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="10">
+          <content>Taxis packed with families who fear they&amp;apost;ve contracted the deadly virus criss-cross the Liberian capital, searching for a place where they can be treated, WHO said.</content>
+        </sentence>
+        <sentence id="11">
+          <content>But there are no available beds.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;As soon as a new Ebola treatment facility is opened, it immediately fills to overflowing with patients,&amp;quot; the U.N. group said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>To help ease some of the burden on West Africa&amp;apost;s already over-taxed medical system, the United States announced Tuesday it will send $10 million in additional funds.</content>
+        </sentence>
+        <sentence id="14">
+          <content>That&amp;apost;s in addition to the $100 million Washington has already sent to help fight the outbreak.</content>
+        </sentence>
+        <sentence id="15">
+          <content>USAID also announced it will make $75 million in extra funds available.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>The new funds will pay for transportation and support to send 100 more health care workers to help fight the epidemic.</content>
+        </sentence>
+        <sentence id="17">
+          <content>The WHO and several nonprofit agencies on the ground have repeatedly called for the international community to send additional trained help.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="18">
+          <content>USAID funding has already provided 130,000 sets of personal protective equipment, 50,000 hygiene kits, and 1,000 new beds.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="19">
+          <content>USAID has created a website where trained nurses, physician assistants or doctors who want to help can sign up.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="20">
+          <content>On Sunday, President Barack Obama said the Ebola outbreak needs to be a &amp;quot;national security priority.&amp;quot;</content>
+        </sentence>
+        <sentence id="21">
+          <content>Obama told NBC&amp;apost;s &amp;quot;Meet the Press&amp;quot; that the U.S. military could help set up isolation units and provide security for public health workers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="22">
+          <content>&amp;quot;If we don&amp;apost;t make that effort now, and this spreads not just through Africa but other parts of the world, there&amp;apost;s the prospect then that the virus mutates.</content>
+        </sentence>
+        <sentence id="23">
+          <content>It becomes more easily transmittable.</content>
+        </sentence>
+        <sentence id="24">
+          <content>And then it could be a serious danger to the United States,&amp;quot; he said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

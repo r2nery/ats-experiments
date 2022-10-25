@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1338" link="http://www.cnn.com/2013/11/17/showbiz/doris-lessing-obituary/index.html" date_published="2013-11-17 16:22:46" category="showbiz" author="Alan Duke, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Nobel Prize-winning author Doris Lessing dies; wrote &amp;apost;Golden Notebook&amp;apost;</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="31">NEW: HarperCollins UK CEO says Lessing had &amp;quot;a fierce intellect and a warm heart&amp;quot;.</sentence>
+      <sentence id="2" ids_article_sentences="3">Lessing &amp;quot;passed away peacefully&amp;quot; at her London home, publisher says.</sentence>
+      <sentence id="3" ids_article_sentences="5">&amp;quot;I was born to write,&amp;quot; Lessing said.</sentence>
+      <sentence id="4" ids_article_sentences="8">Lessing won the Nobel prize in literature at the age of 88.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-01 14:47:26" annotation_time="44.583004" mapping_time_divergence="11.145751">
+      <sentence id="3" ids_highlights="2">Lessing &amp;quot;passed away peacefully&amp;quot; at her London home early Sunday, according to HarperCollins spokeswoman Susanna Frayn.</sentence>
+      <sentence id="5" ids_highlights="3">&amp;quot;I was born to write, as other people are born to paint ... that&amp;apost;s all,&amp;quot; she said.</sentence>
+      <sentence id="8" ids_highlights="4">Lessing was awarded the Nobel prize in literature in 2007 at the age of 88.</sentence>
+      <sentence id="31" ids_highlights="1">&amp;quot;She was a compelling storyteller with a fierce intellect and a warm heart who was not afraid to fight for what she believed in.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Author Doris Lessing, who won a Nobel Prize for her life of literature, died Sunday at age 94, her publisher, HarperCollins, said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The British author was best known for &amp;quot;The Golden Notebook,&amp;quot; which is considered by many critics to be one of the most important feminist novels ever written.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Lessing &amp;quot;passed away peacefully&amp;quot; at her London home early Sunday, according to HarperCollins spokeswoman Susanna Frayn.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>Lessing began writing at 7, which she said was not the result of inspiration, but her innate capacity.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>&amp;quot;I was born to write, as other people are born to paint ... that&amp;apost;s all,&amp;quot; she said.</content>
+        </sentence>
+        <sentence id="6">
+          <content>&amp;quot;Writers tell stories.</content>
+        </sentence>
+        <sentence id="7">
+          <content>This is what we do.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>Lessing was awarded the Nobel prize in literature in 2007 at the age of 88.</content>
+        </sentence>
+        <sentence id="9">
+          <content>The Swedish academy called her &amp;quot;the epicist of the female experience&amp;quot; who had &amp;quot;subjected a divided civilisation to scrutiny.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;She is survived by her daughter Jean and granddaughters Anna and Susannah,&amp;quot; the publisher said.</content>
+        </sentence>
+        <sentence id="11">
+          <content>&amp;quot;Her family has asked for privacy at this time.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>Lessing was born to British parents in Persia (now Iran).</content>
+        </sentence>
+        <sentence id="13">
+          <content>Much of her fiction was based on her experiences growing up in Southern Rhodesia (now Zimbabwe), where she moved as a young child.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>Her mother raised her on storytelling, reading stories that Lessing gave her own spin when sharing them with her younger brother.</content>
+        </sentence>
+        <sentence id="15">
+          <content>These childhood stories evolved into the powerful fiction that made up her 50 books.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="16">
+          <content>Lessing, who dropped out of a school in the Rhodesian capital, Salisbury, when she was just 13, developed her writing skills by reading the works of Dickens, Tolstoy, D.H. Lawrence and Dostoevsky.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;I educated myself by reading,&amp;quot; she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="18">
+          <content>In her Nobel Prize acceptance speech, Lessing spoke of the desperate struggle for knowledge of people in some developing countries.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;Not long ago a friend who had been in Zimbabwe told me about a village where people had not eaten for three days, but they were still talking about books and how to get them, about education.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="20">
+          <content>She left home at 15 to work as a nursemaid but also started writing stories and later sold two of them to magazines in South Africa.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="21">
+          <content>Her first novel, &amp;quot;The Grass is Singing,&amp;quot; was in her suitcase when she moved to London in 1949, the HarperCollins statement said.</content>
+        </sentence>
+        <sentence id="22">
+          <content>Published in 1950, it examines the tension between oppressed black Africans and white colonials.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="23">
+          <content>Lessing &amp;quot;broke new ground&amp;quot; in 1962 with &amp;quot;The Golden Notebook,&amp;quot; the publisher said.</content>
+        </sentence>
+        <sentence id="24">
+          <content>HarperCollins editor Nicholas Pearson called it &amp;quot;a handbook to a whole generation.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="25">
+          <content>&amp;quot;But her many books have spoken to us in so many various ways,&amp;quot; Pearson said.</content>
+        </sentence>
+        <sentence id="26">
+          <content>&amp;quot;Doris has been called a visionary and, to be in her company, which was a privilege I had as her editor towards the end of her writing life, was to experience something of that.</content>
+        </sentence>
+        <sentence id="27">
+          <content>Even in very old age she was always intellectually restless, reinventing herself, curious about the changing world around us, always completely inspirational.</content>
+        </sentence>
+        <sentence id="28">
+          <content>We&amp;apost;ll miss her hugely.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="29">
+          <content>&amp;quot;She was a wonderful writer with a fascinating and original mind; it was a privilege to work for her and we shall miss her immensely,&amp;quot; longtime friend and agent Jonathan Clowes said Sunday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="30">
+          <content>&amp;quot;Doris Lessing was a one of the great writers of our age,&amp;quot; HarperCollins UK CEO Charlie Redmayne said.</content>
+        </sentence>
+        <sentence id="31">
+          <content>&amp;quot;She was a compelling storyteller with a fierce intellect and a warm heart who was not afraid to fight for what she believed in.</content>
+        </sentence>
+        <sentence id="32">
+          <content>It was an honor for HarperCollins to publish her.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

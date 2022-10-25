@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="426" link="http://edition.cnn.com/2014/10/06/health/american-ebola-patients/index.html?iid=article_sidebar" date_published="2014-10-06 15:38:20" category="health" author="Jacque Wilson, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Who are the American Ebola patients?</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">Ashoka Mukpo arrived at the Nebraska Medical Center on Monday.</sentence>
+      <sentence id="2" ids_article_sentences="1">Six American patients have been diagnosed with Ebola.</sentence>
+      <sentence id="3" ids_article_sentences="4">Five were treated in the United States; one died in Nigeria.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-06 07:48:21" annotation_time="42.111">
+      <sentence id="1" ids_highlights="2">As another American patient with Ebola arrives in the United States, here is a look at the American patients who have been diagnosed with this deadly virus.</sentence>
+      <sentence id="2" ids_highlights="1">Ashoka Mukpo arrived at the Nebraska Medical Center on Monday, where he will be treated in the same biocontainment unit that helped Dr. Rick Sacra.</sentence>
+      <sentence id="4" ids_highlights="3">The sixth known American patient was a man named Patrick Sawyer who died in Nigeria.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>As another American patient with Ebola arrives in the United States, here is a look at the American patients who have been diagnosed with this deadly virus.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Ashoka Mukpo arrived at the Nebraska Medical Center on Monday, where he will be treated in the same biocontainment unit that helped Dr. Rick Sacra.</content>
+        </sentence>
+        <sentence id="3">
+          <content>Three other Americans, Dr. Kent Brantly, Nancy Writebol and an unnamed patient, have been treated at Emory University Hospital in Atlanta.</content>
+        </sentence>
+        <sentence id="4">
+          <content>The sixth known American patient was a man named Patrick Sawyer who died in Nigeria.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>Name: Patrick Sawyer.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>Age: 40.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>Organization: Sawyer was a top official in the Liberian Ministry of Finance.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>Where he was infected: Sawyer was caring for his Ebola-stricken sister in Liberia before he flew to .</content>
+        </sentence>
+        <sentence id="9">
+          <content>He collapsed getting off the plane July 20 and was isolated at a local hospital.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>Current status: Five days after he arrived at the hospital, Sawyer became the first American -- and so far the only American -- to die in the current Ebola outbreak.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>Name: Dr. Kent Brantly.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>Age: 33.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>Organization: Samaritan&amp;apost;s Purse, a nondenominational evangelical Christian international relief organization based in North Carolina.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="14">
+          <content>Where he was infected: Brantly went to Liberia with his wife and two children last year to serve a two-year fellowship.</content>
+        </sentence>
+        <sentence id="15">
+          <content>He was there initially to practice general medicine, but when the Ebola outbreak began, he took on the role of medical director for the Samaritan&amp;apost;s Purse Ebola Consolidated Case Management Center in Monrovia, the capital city of Liberia.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="16">
+          <content>The CDC believes he contracted the virus from another health care worker at the hospital.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="17">
+          <content>Where he was treated: Brantly was flown to Dobbins Air Reserve Base in Georgia on August 2 and was taken by ambulance to Emory University Hospital in Atlanta.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="18">
+          <content>Treatment given: Brantly received one of the first doses of ZMapp, an experimental drug that had never been tested in humans.</content>
+        </sentence>
+        <sentence id="19">
+          <content>ZMapp was developed by the biotech firm Mapp Biopharmaceutical Inc., which is based in San Diego.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="20">
+          <content>Current status: Brantly was released from Emory on August 21, free of the virus.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="21">
+          <content>Name: Nancy Writebol.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="22">
+          <content>Age: 59.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="23">
+          <content>Organization: Serving in Mission, also known as SIM, an international mission organization.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="24">
+          <content>Where she was infected: Writebol and her husband, David, arrived in Monrovia in August 2013.</content>
+        </sentence>
+        <sentence id="25">
+          <content>Writebol guided missionaries and worked with nurses at ELWA hospital, where her husband was the technical services manager.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="26">
+          <content>Where she was treated: Writebol was flown to Atlanta shortly after Brantly and was treated at Emory University Hospital.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="27">
+          <content>Treatment given: Writebol also received the experimental drug ZMapp before leaving Liberia.</content>
+        </sentence>
+        <sentence id="28">
+          <content>She and Brantly also received what&amp;apost;s called supportive therapy at Emory, which means supporting the patient&amp;apost;s immune system as it tries to battle the infection.</content>
+        </sentence>
+        <sentence id="29">
+          <content>This usually involves intravenous fluids to prevent dehydration and shock, blood or platelet transfusions and oxygen therapy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="30">
+          <content>Current status: Writebol was released from Emory on August 19.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="31">
+          <content>Name: Dr. Rick Sacra.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="32">
+          <content>Age: 52.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="33">
+          <content>Organization: Serving in Mission.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="34">
+          <content>Where he was infected: Sacra had been to Liberia with SIM before and volunteered to go again after he heard that fellow missionaries Writebol and Brantly had contracted the virus, SIM USA President Bruce Johnson said.</content>
+        </sentence>
+        <sentence id="35">
+          <content>Sacra was delivering babies at a general hospital in Monrovia when he contracted the virus.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="36">
+          <content>Where he was treated: Sacra was flown to the Nebraska Medical Center in Omaha on September 5.</content>
+        </sentence>
+        <sentence id="37">
+          <content>The center houses one of just a few biocontainment units in the United States.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="38">
+          <content>Treatment given: Sacra was treated with aggressive supportive care, including electrolytes and IV fluids.</content>
+        </sentence>
+        <sentence id="39">
+          <content>He was also given a blood transfusion with plasma donated by Brantly, which doctors believe had antibodies that Sacra needed to help his immune system fight the Ebola virus.</content>
+        </sentence>
+        <sentence id="40">
+          <content>Sacra also received an experimental drug called TKM-Ebola, which the FDA recently approved for wider use.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="41">
+          <content>Current status: Sacra was released from the Nebraska Medical Center on September 25.</content>
+        </sentence>
+        <sentence id="42">
+          <content>Though he is free of the virus, his immune system was significantly weakened by the fight.</content>
+        </sentence>
+        <sentence id="43">
+          <content>He landed in a Massachusetts hospital with an upper respiratory infection over the weekend and was released Sunday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="44">
+          <content>Name: Unknown.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="45">
+          <content>Age: Unknown.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="46">
+          <content>Organization: The World Health Organization has said a doctor working for the agency tested positive for Ebola on September 8.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="47">
+          <content>Where he was infected: Sierra Leone.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="34">
+      <sentences>
+        <sentence id="48">
+          <content>Where he is being treated: The man arrived at Emory University Hospital in Atlanta on September 9.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="35">
+      <sentences>
+        <sentence id="49">
+          <content>Current status: &amp;quot;We are still treating the patient with Ebola virus disease at Emory University Hospital, but we do not have a condition update,&amp;quot; Emory representatives told CNN Monday.</content>
+        </sentence>
+        <sentence id="50">
+          <content>The HIPAA Privacy Rule prevents them from sharing any patient information without his permission.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="36">
+      <sentences>
+        <sentence id="51">
+          <content>Name: Ashoka Mukpo.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="37">
+      <sentences>
+        <sentence id="52">
+          <content>Age: 33.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="38">
+      <sentences>
+        <sentence id="53">
+          <content>Organization: Freelance camera operator for NBC News.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="39">
+      <sentences>
+        <sentence id="54">
+          <content>Where he was infected: Mukpo had been to Liberia before and had been in Monrovia for about two weeks before he started presenting with Ebola symptoms on October 1.</content>
+        </sentence>
+        <sentence id="55">
+          <content>In addition to working for NBC, he has worked for other international media, including Al Jazeera and Vice News.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="40">
+      <sentences>
+        <sentence id="56">
+          <content>Where he is being treated: Mukpo was flown to the United States on October 6 and isolated at the Nebraska Medical Center.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="41">
+      <sentences>
+        <sentence id="57">
+          <content>Current status: On Sunday, Mukpo&amp;apost;s father, Dr. Mitchell Levy, told NBC News that Mukpo was feeling &amp;quot;not that ill.&amp;quot;</content>
+        </sentence>
+        <sentence id="58">
+          <content>He was able to walk onto the plane with assistance.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

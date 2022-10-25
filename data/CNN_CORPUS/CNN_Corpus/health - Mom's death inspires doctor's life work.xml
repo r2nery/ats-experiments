@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="306" link="http://edition.cnn.com/2013/05/12/health/lifeswork-brann-perinatal/index.html?iid=article_sidebar" date_published="2013-05-12 12:01:37" category="health" author="Jacque Wilson, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Mom&amp;apost;s death inspires doctor&amp;apost;s life work</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="4">Dr. Alfred Brann is a pediatric neurologist who specializes in perinatal medicine .</sentence>
+      <sentence id="2" ids_article_sentences="10">Brann works to ensure both moms and their babies have the best chance of survival.</sentence>
+      <sentence id="3" ids_article_sentences="19">He believes a cesarean section may have saved his mom, who died during childbirth.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-11 00:34:23" annotation_time="81.29667">
+      <sentence id="4" ids_highlights="1">He&amp;apost;s a pediatric neurologist who specializes in perinatal medicine and reproductive health in the United States and developing countries.</sentence>
+      <sentence id="10" ids_highlights="2">Brann has worked his entire life to ensure that moms and their babies have the best chance of survival.</sentence>
+      <sentence id="19" ids_highlights="3">I think if there had been a cesarean section possibility, then my mother would have survived.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>&amp;quot;How much did you weigh when you were born?&amp;quot;</content>
+        </sentence>
+        <sentence id="2">
+          <content>Dr. Alfred Brann asks the first time we talk.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>It&amp;apost;s not a typical, get-to-know-you kind of question, but it seems almost normal coming from Brann.</content>
+        </sentence>
+        <sentence id="4">
+          <content>He&amp;apost;s a pediatric neurologist who specializes in perinatal medicine and reproductive health in the United States and developing countries.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>Each year, worldwide, nearly 1 million babies die on the day they are born, according to a new report from Save the Children.</content>
+        </sentence>
+        <sentence id="6">
+          <content>Giving birth is also risky for mothers; nearly 800 women die every day during pregnancy or childbirth.</content>
+        </sentence>
+        <sentence id="7">
+          <content>While we&amp;apost;ve made significant strides in reducing child and maternal mortality rates since the 1970s, there are still many lives to save.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;Almost all newborn deaths originate from preventable and treatable causes,&amp;quot; the report authors write.</content>
+        </sentence>
+        <sentence id="9">
+          <content>&amp;quot;We already have the tools available to save about three-quarters of the newborns who needlessly die each year.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="10">
+          <content>Brann has worked his entire life to ensure that moms and their babies have the best chance of survival.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="11">
+          <content>In 1983, he co-wrote the American Academy of Pediatrics&amp;apost; first official &amp;quot;Guidelines for Perinatal Care,&amp;quot; which is still being used by doctors to ensure pregnant women and their infants receive quality care.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>Now, as director of the Global Collaborating Center in Reproductive Health at Emory University in Atlanta, Brann&amp;apost;s primary focus is on preventing low birth weight by improving women&amp;apost;s health care.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="13">
+          <content>Brann recently spoke with CNN about his work and the personal loss that inspired his passion.</content>
+        </sentence>
+        <sentence id="14">
+          <content>The following is an edited version of that interview:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="15">
+          <content>CNN: Why are you so passionate about this issue?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="16">
+          <content>Dr. Alfred Brann: My mother died during my birth in 1934 in Arkansas.</content>
+        </sentence>
+        <sentence id="17">
+          <content>She was 30 when I was born.</content>
+        </sentence>
+        <sentence id="18">
+          <content>She was born in the 1900s and she went to college -- unusual for (women at that time).</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="19">
+          <content>I think if there had been a cesarean section possibility, then my mother would have survived.</content>
+        </sentence>
+        <sentence id="20">
+          <content>It was unclear whether she had an old rheumatic heart disease that may have affected a valve.</content>
+        </sentence>
+        <sentence id="21">
+          <content>Or ... there was a lot of malaria at the time.</content>
+        </sentence>
+        <sentence id="22">
+          <content>The possibility might have been that she had malarial heart disease and was really tired out and couldn&amp;apost;t make labor.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="23">
+          <content>They had to pull me out.</content>
+        </sentence>
+        <sentence id="24">
+          <content>My mother died shortly after that.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="25">
+          <content>CNN: What are the most common health issues associated with a low birthweight?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="26">
+          <content>Brann: A low-birthweight infant is at greater risk for respiratory distress, bacterial infections, gastrointestinal tract problems and the effects of jaundice.</content>
+        </sentence>
+        <sentence id="27">
+          <content>In surviving infants weighing less than 3.5 pounds, problems of neurodevelopmental disabilities include cerebral palsy, impaired mental development, blindness and hearing deficits.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="28">
+          <content>CNN: The center at Emory has developed what&amp;apost;s called a &amp;quot;systems approach&amp;quot; to reducing maternal and infant deaths.</content>
+        </sentence>
+        <sentence id="29">
+          <content>Why is that important?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="30">
+          <content>Brann: We have to treat the triad of the mother, the fetus and the newborn in a very special, continuous way.</content>
+        </sentence>
+        <sentence id="31">
+          <content>There has to be a systems approach to care.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="32">
+          <content>(Infant) mortality, you see, we don&amp;apost;t have a vaccine to prevent that.</content>
+        </sentence>
+        <sentence id="33">
+          <content>It&amp;apost;s not like polio; it&amp;apost;s not like smallpox.</content>
+        </sentence>
+        <sentence id="34">
+          <content>From the moment a little girl is born... all the things that influence her life, all the factors that influence her life, are extremely important.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="35">
+          <content>We clearly understand that the missing link in all (maternal and infant deaths) is the absence of women&amp;apost;s health.</content>
+        </sentence>
+        <sentence id="36">
+          <content>That&amp;apost;s not pregnant women&amp;apost;s health, you see.</content>
+        </sentence>
+        <sentence id="37">
+          <content>It&amp;apost;s women&amp;apost;s health.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="38">
+          <content>It&amp;apost;s critical that we change our whole view, that the woman is more than a vessel for making children.</content>
+        </sentence>
+        <sentence id="39">
+          <content>Her health is very vital.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="40">
+          <content>CNN: What&amp;apost;s the goal of the center?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="41">
+          <content>Brann: &amp;quot;The role in those in leadership must be to continuously reevaluate what is unacceptable.&amp;quot;</content>
+        </sentence>
+        <sentence id="42">
+          <content>That&amp;apost;s (a quote) from the doctor that eradicated smallpox.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="43">
+          <content>I&amp;apost;ve sort of moved from (saving) the high-risk, critical, intensive-care tiny babies to finally asking myself, &amp;quot;Where are all of these babies coming from, and can we have fewer?&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="44">
+          <content>Yes, we need continued research on finding out why things happen.</content>
+        </sentence>
+        <sentence id="45">
+          <content>But there is a moral imperative in implementing what we already know works.</content>
+        </sentence>
+        <sentence id="46">
+          <content>And the collaborating center has been about that mission.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="47">
+          <content>CNN: What have you&amp;apost;ve learned working in developing nations?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="48">
+          <content>Brann: We&amp;apost;ve probably ... worked in some 30 different countries.</content>
+        </sentence>
+        <sentence id="49">
+          <content>(We are) in active projects right now in Russia and in Mexico.</content>
+        </sentence>
+        <sentence id="50">
+          <content>We have been working in Cuba a number of years.</content>
+        </sentence>
+        <sentence id="51">
+          <content>Our center is working in places like Afghanistan, and the Central Asian republics, some in sub-Saharan Africa.</content>
+        </sentence>
+        <sentence id="52">
+          <content>I&amp;apost;ve worked in all those regions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="53">
+          <content>The message, I think, there is the fact that if you do not have malaria, then the issues surrounding women&amp;apost;s health and pregnancy outcomes -- whether it&amp;apost;s in the delta of Mississippi, in south Fulton County in Atlanta, Islamabad, in Beijing, in Havana, in Mexico City -- all around the world, the issues of women&amp;apost;s health are the same.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="54">
+          <content>CNN: What do you mean?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="55">
+          <content>Brann: Women in low-resource settings have difficulty controlling their lives.</content>
+        </sentence>
+        <sentence id="56">
+          <content>You didn&amp;apost;t choose your parents, and... you didn&amp;apost;t choose your color of your skin.</content>
+        </sentence>
+        <sentence id="57">
+          <content>You didn&amp;apost;t choose the country in which you&amp;apost;re born.</content>
+        </sentence>
+        <sentence id="58">
+          <content>If you think carefully, that probably influences 90% of our (health) outcomes.</content>
+        </sentence>
+        <sentence id="59">
+          <content>We have maybe 10% left.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="60">
+          <content>It&amp;apost;s just great to be involved in helping to improve a system of health care through which we never ask to come.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="61">
+          <content>We work within ministries of health, and also within universities, so that we can help design systems that influence all of the population.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="62">
+          <content>CNN: What is most crucial for a woman to have a healthy baby?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="63">
+          <content>Not too early, not too many, not too soon and not too late.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="64">
+          <content>The best outcome for a healthy pregnancy is to be wanted, planned and have access to prenatal care with appropriate nutrition and delivered by a skilled attendant ... followed by access to modern contraception for appropriate child spacing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

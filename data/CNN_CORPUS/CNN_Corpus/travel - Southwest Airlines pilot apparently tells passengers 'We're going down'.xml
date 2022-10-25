@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1826" link="http://www.cnn.com/2013/11/14/travel/southwest-flight-scare/index.html" date_published="2013-11-14 11:28:26" category="travel" author="Chuck Johnston and Kait Richmond, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Southwest Airlines pilot apparently tells passengers &amp;apost;We&amp;apost;re going down&amp;apost;</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="4">Passenger: &amp;quot;The panicked captain said, &amp;apost;We&amp;apost;re in trouble; we&amp;apost;re going down&amp;apost;&amp;quot;.</sentence>
+      <sentence id="2" ids_article_sentences="20">Airline says pilot inadvertently activated the PA system.</sentence>
+      <sentence id="3" ids_article_sentences="28">The FAA is investigating.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-07-26 16:29:09" annotation_time="34.689">
+      <sentence id="4" ids_highlights="1">&amp;quot;Seconds later, the panicked captain said, &amp;apost;We&amp;apost;re in trouble; we&amp;apost;re going down.&amp;apost;&amp;quot;</sentence>
+      <sentence id="20" ids_highlights="2">&amp;quot;As the captain was communicating his plan with the flight attendants, he inadvertently activated the PA system in the cabin,&amp;quot; the e-mail said.</sentence>
+      <sentence id="28" ids_highlights="3">The FAA says it is investigating the incident.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>As his plane made a rapid descent to normalize cabin pressure, a Southwest Airlines pilot went on the plane&amp;apost;s loudspeaker and apparently told passengers the aircraft was going down.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>&amp;quot;At first it sounded like someone was coming over the PA to talk.</content>
+        </sentence>
+        <sentence id="3">
+          <content>Then it sounded like shots through the cabin, twice, back to back,&amp;quot; passenger Grace Stroud told CNN.</content>
+        </sentence>
+        <sentence id="4">
+          <content>&amp;quot;Seconds later, the panicked captain said, &amp;apost;We&amp;apost;re in trouble; we&amp;apost;re going down.&amp;apost;&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>The flight attendants then began securing the bins, she told &amp;quot;CNN Newsroom&amp;quot; in a separate interview.</content>
+        </sentence>
+        <sentence id="6">
+          <content>One told the captain to deploy the oxygen masks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;I&amp;apost;m sure everybody went through their private moments,&amp;quot; Stroud said.</content>
+        </sentence>
+        <sentence id="8">
+          <content>&amp;quot;My moment was, &amp;apost;OK, so this is how I&amp;apost;m going to die,&amp;apost; and &amp;apost;At least it will be quick.&amp;apost;&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="9">
+          <content>Another passenger, Shelley Wills, told CNN affiliate WTVD that the pilot made the remarks as the plane went into a nosedive when it neared the Raleigh-Durham International Airport.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;He said, &amp;apost;We&amp;apost;re going down.&amp;apost;.</content>
+        </sentence>
+        <sentence id="11">
+          <content>And everyone is looking around like, &amp;apost;Is this a joke?</content>
+        </sentence>
+        <sentence id="12">
+          <content>Is he serious?&amp;apost;.</content>
+        </sentence>
+        <sentence id="13">
+          <content>And then you felt the nosedive.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="14">
+          <content>Soon after, the Boeing 737 leveled out and made an emergency landing at the Raleigh airport.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="15">
+          <content>Asked about the WTVD report, a Southwest spokeswoman said it was inaccurate.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;Our pilot said he was descending to 10,000 feet.</content>
+        </sentence>
+        <sentence id="17">
+          <content>The report was not accurate from this customer.</content>
+        </sentence>
+        <sentence id="18">
+          <content>We landed safely,&amp;quot; spokeswoman Whitney Eichinger told CNN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="19">
+          <content>But in an e-mail the airline sent Stroud, it acknowledged what Stroud suspected may have happened.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="20">
+          <content>&amp;quot;As the captain was communicating his plan with the flight attendants, he inadvertently activated the PA system in the cabin,&amp;quot; the e-mail said.</content>
+        </sentence>
+        <sentence id="21">
+          <content>&amp;quot;We sincerely regret any confusion caused by the relay of the information.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="22">
+          <content>Southwest Airlines Flight 3426 had taken off from Tampa, Florida, and was headed to Raleigh.</content>
+        </sentence>
+        <sentence id="23">
+          <content>As it approached its destination, the pilot noticed a loss of cabin pressure -- prompting him to make a earlier-than-usual descent.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="24">
+          <content>&amp;quot;As the checklist mandates when there is a pressurization issue, our captain did communicate with flight attendants over the PA that he was initiating a descent to a lower altitude,&amp;quot; Eichinger said.</content>
+        </sentence>
+        <sentence id="25">
+          <content>&amp;quot;The issue resolved itself, which is also not uncommon, and the aircraft landed normally at Raleigh-Durham.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="26">
+          <content>For her part, Stroud said, &amp;quot;I know what I heard.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="27">
+          <content>She said she talked to others seated around her, and they all agreed they heard the pilot say the same thing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="28">
+          <content>The FAA says it is investigating the incident.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="29">
+          <content>For the &amp;quot;uneasy feelings&amp;quot; the experience may have caused her, Stroud was offered a voucher good toward a future flight.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

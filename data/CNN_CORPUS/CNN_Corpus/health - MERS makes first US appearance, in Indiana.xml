@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="302" link="http://www.cnn.com/2014/05/02/health/indiana-mers/index.html" date_published="2014-05-02 19:12:05" category="health" author="Elizabeth Landau, CNN" highlights_mapped="true" mapping_error="false">
+  <title>MERS makes first U.S. appearance, in Indiana</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">The patient is a health care provider who traveled to Saudi Arabia.</sentence>
+      <sentence id="2" ids_article_sentences="15">MERS coronavirus was first reported in 2012 in the Middle East.</sentence>
+      <sentence id="3" ids_article_sentences="23">Saudi officials have noted a recent spike in cases.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-02 11:43:55" annotation_time="39.164333">
+      <sentence id="2" ids_highlights="1">The patient is a health-care provider who recently traveled to Saudi Arabia to provide health care, said Dr. Anne Schuchat, assistant surgeon general with the U.S. Public Health Service and director for the National Center for Immunization and Respiratory Diseases.</sentence>
+      <sentence id="15" ids_highlights="2">The coronavirus, known as MERS-CoV, was first reported in the Middle East -- specifically, the Arabian Peninsula -- in 2012.</sentence>
+      <sentence id="23" ids_highlights="3">Late last month, Saudi officials noted a spike in new cases.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The first U.S. case of Middle East Respiratory Syndrome (MERS) coronavirus has been reported in Indiana, the Centers for Disease Control and Prevention said Friday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The patient is a health-care provider who recently traveled to Saudi Arabia to provide health care, said Dr. Anne Schuchat, assistant surgeon general with the U.S. Public Health Service and director for the National Center for Immunization and Respiratory Diseases.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>The person, an American male, traveled on April 24 from Riyadh to London, then to Chicago, and took a bus to Indiana, officials said.</content>
+        </sentence>
+        <sentence id="4">
+          <content>He began experiencing shortness of breath, coughing, and fever on April 27, according to the Indiana State Department of Health.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>The patient was admitted to Community Hospital in Munster, Indiana, on April 28, the same day he visited the emergency department there, the health department said.</content>
+        </sentence>
+        <sentence id="6">
+          <content>He has been isolated and is in stable condition.</content>
+        </sentence>
+        <sentence id="7">
+          <content>He is receiving oxygen support, but does not require a ventilator, Schuchat said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>The virus poses a &amp;quot;very low risk to the broader general public,&amp;quot; Schuchat said, as it has not been shown to spread easily from person to person.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>The CDC and the Indiana State Department of Health are conducting a joint investigation into the case, according to a CDC statement.</content>
+        </sentence>
+        <sentence id="10">
+          <content>The CDC confirmed Indiana test results on Friday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="11">
+          <content>&amp;quot;The CDC, IDPH (Illinois Department of Public Health) and CDPH (Chicago Department of Public Health) do not consider passengers on the flight or bus to be close contacts of the patient and therefore are not at high risk,&amp;quot; said Dr. LaMar Hasbrouck, director of the IDPH.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="12">
+          <content>Passengers on the same plane and bus as the patient will be contacted by the CDC as a precautionary measure, starting Saturday, the Illinois statement said.</content>
+        </sentence>
+        <sentence id="13">
+          <content>If the CDC identifies ill individuals with possible MERS-CoV, it will notify health officials in Chicago and Indiana.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;There is no reason to suspect any current risk to travelers or employees at O&amp;apost;Hare Airport at this time,&amp;quot; said CDPH commissioner Bechara Choucair.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="15">
+          <content>The coronavirus, known as MERS-CoV, was first reported in the Middle East -- specifically, the Arabian Peninsula -- in 2012.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>Laboratory testing has confirmed 262 cases of the coronavirus in 12 countries, including the Indiana case, Schuchat said.</content>
+        </sentence>
+        <sentence id="17">
+          <content>Ninety-three people have died.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="18">
+          <content>So far, all MERS cases have been linked to six countries on or near the Arabian Peninsula, Schuchat said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="19">
+          <content>The Saudi Ministry of Health has reported 339 cases, and said nearly a third of those have died.</content>
+        </sentence>
+        <sentence id="20">
+          <content>Not all of the Saudi cases have been confirmed by the World Health Organization.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="21">
+          <content>&amp;quot;The MERS virus is of grave concern because of the virulence,&amp;quot; Schuchat said.</content>
+        </sentence>
+        <sentence id="22">
+          <content>But, she added, &amp;quot;We&amp;apost;re not yet aware of confirmed sustained community transmission.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="23">
+          <content>Late last month, Saudi officials noted a spike in new cases.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="24">
+          <content>The CDC has expected MERS to come to the United States, Schuchat said.</content>
+        </sentence>
+        <sentence id="25">
+          <content>&amp;quot;We have been preparing for this.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="26">
+          <content>However, &amp;quot;The introduction of MERS-CoV is another reminder that diseases are just a plane ride away,&amp;quot; she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="27">
+          <content>MERS-CoV comes from the same group of viruses as the common cold and attacks the respiratory system, according to the CDC.</content>
+        </sentence>
+        <sentence id="28">
+          <content>Symptoms, which include fever, cough and shortness of breath, can lead to pneumonia and kidney failure.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="29">
+          <content>The CDC has issued general precautions such as frequent hand-washing, avoiding close contact with infected people, avoiding touching your eyes, nose and mouth with unwashed hands, and disinfecting surfaces that are frequently touched.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="30">
+          <content>Pediatricians should ask about where young patients with high fever and respiratory symptoms have traveled, Schuchat said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="31">
+          <content>&amp;quot;Young children often have fever and respiratory symptoms, but the key here is: Was there a history of travel within the past 14 days to the Arabian Peninsula, or contact with someone?</content>
+        </sentence>
+        <sentence id="32">
+          <content>... They should alert their clinician about that travel or contact,&amp;quot; Schuchat said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="33">
+          <content>Currently, the CDC does not recommend changing travel plans because of the virus, Schuchat said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="34">
+          <content>No one knows exactly how this virus originated, but evidence is emerging implicating camels.</content>
+        </sentence>
+        <sentence id="35">
+          <content>In a recently published study in mBio, researchers said they isolated live MERS virus from two single-humped camels, known as dromedaries.</content>
+        </sentence>
+        <sentence id="36">
+          <content>They found multiple substrains in the camel viruses, including one that perfectly matches a substrain isolated from a human patient.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="37">
+          <content>The same group of researchers reported in February that nearly three-quarters of camels in Saudi Arabia tested positive for past exposure to the MERS coronavirus.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="38">
+          <content>Although many of the cases have occurred on the Arabian Peninsula, people have died of the infection elsewhere, including in European countries and Tunisia in North Africa.</content>
+        </sentence>
+        <sentence id="39">
+          <content>Egypt reported its first case on April 26, according to the WHO.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="40">
+          <content>Limited human-to-human transmission of the disease has also occurred in other countries -- meaning some people who traveled to the Middle East gave the virus to others.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="41">
+          <content>Officials are not aware of any other confirmed U.S. cases, Schuchat said, adding it&amp;apost;s too early to assume no one else is ill.</content>
+        </sentence>
+        <sentence id="42">
+          <content>An active investigation is underway.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

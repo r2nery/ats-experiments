@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1648" link="http://edition.cnn.com/2014/07/15/tech/innovation/space-weather-solar-flares/index.html?hpt=hp_c5" date_published="2014-07-15 09:52:31" category="tech" author="Earl Nurse, CNN" highlights_mapped="false" mapping_error="false">
+  <title>Space weather: Fine, with a chance of solar flares</title>
+  <keywords>solar flares,space weather,space weather prediction center,nasa</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="7">Space Weather Prediction Center watches skies for solar activity.</sentence>
+      <sentence id="2" ids_article_sentences="5">Coronal mass ejections can disrupt satellites and power grids.</sentence>
+      <sentence id="3" ids_article_sentences="14">The sun is at its &amp;quot;solar maximum&amp;quot; -- but its activity is described as &amp;quot;modest&amp;quot;.</sentence>
+    </highlights>
+    <gold_standard annotation_time="16.576666">
+      <sentence id="5" ids_highlights="2">Each burst of energy can have a disrupting effect on systems we rely on every day.</sentence>
+      <sentence id="7" ids_highlights="1">&amp;quot;The Space Weather Prediction Center (SWPC) essentially watches the sun, watches for activity on the sun originating from sun spots,&amp;quot; explains Bob Rutledge, Forecast Office lead.</sentence>
+      <sentence id="14" ids_highlights="3">The sun is currently at its &amp;quot;solar maximum&amp;quot; -- the point in its cycle where it is at peak activity -- but the SWPC says that activity is modest compared to recent cycles.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>From Earth, the sun appears as a constant circle of light, but when viewed in space a brilliant display of motion is revealed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Flares that light up the galaxy and eruptions that can be as large as 30 times the Earth&amp;apost;s surface occur regularly.</content>
+        </sentence>
+        <sentence id="3">
+          <content>During the peak of the 11-year solar cycle, these events can happen several times a day.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>The flares and eruptions are collectively known as space weather and although they create dazzling visuals in space, it isn&amp;apost;t just a harmless fireworks show for the galaxy.</content>
+        </sentence>
+        <sentence id="5">
+          <content>Each burst of energy can have a disrupting effect on systems we rely on every day.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>With their headquarters next to the Rocky Mountains in the state of Colorado, a team of forecasters aims to minimize that impact.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;The Space Weather Prediction Center (SWPC) essentially watches the sun, watches for activity on the sun originating from sun spots,&amp;quot; explains Bob Rutledge, Forecast Office lead.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;That&amp;apost;s really where the magnetic fields of the sun poke through the surface and kind of hold that part of the surface in place allowing it to cool -- that&amp;apost;s why it appears dark.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>Gas rolls up and down the sun&amp;apost;s outer layer, similar to the bubbles in boiling water.</content>
+        </sentence>
+        <sentence id="10">
+          <content>When the magnetic field around a sun spot breaks, magnetic energy explodes in the solar atmosphere like a pot boiling over.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>The size and position of sun spots can give forecasters a clue as to when or where a solar flare may bubble up.</content>
+        </sentence>
+        <sentence id="12">
+          <content>They produce daily forecasts that are important to the industries most vulnerable.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="13">
+          <content>&amp;quot;Space weather can have a variety of impacts across many different customer bases -- commercial aviation, precision GPS use, power grid operations -- all these are really critical,&amp;quot; says Rutledge.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="14">
+          <content>The sun is currently at its &amp;quot;solar maximum&amp;quot; -- the point in its cycle where it is at peak activity -- but the SWPC says that activity is modest compared to recent cycles.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="15">
+          <content>Nonetheless, last week the center reported that the sun had produced a &amp;quot;moderate-level&amp;quot; solar flare, which had &amp;quot;short-lived impacts to high frequency radio communications on the sunlit side of Earth.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="16">
+          <content>Solar flares can send blasts of radiation through space that can interfere with satellites and even harm astronauts during spacewalks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="17">
+          <content>&amp;quot;So when an eruption happens -- when we have that flash of light, those radio waves -- that takes eight minutes to get from the sun to the Earth.</content>
+        </sentence>
+        <sentence id="18">
+          <content>So as soon as we start the measurement, it&amp;apost;s already affecting the sunlit side of the Earth,&amp;quot; explains Rutledge.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="19">
+          <content>Innovations in spacecraft by NASA are showing us some of the best images of the sun we&amp;apost;ve ever seen -- giving us a clearer picture and hopefully a better understanding of space weather.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="20">
+          <content>But there is still much mystery to the 4.5 billion-year-old star and the emissions that are blasted through space, so scientists and forecasters will continue to watch every movement.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

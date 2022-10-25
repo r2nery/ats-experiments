@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="406" link="http://www.cnn.com/2013/03/13/health/adolescent-pool-safety/index.html" date_published="2013-03-13 22:44:32" category="health" author="Jacque Wilson, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Water safety expert: &amp;apost;Drowning doesn&amp;apost;t just happen&amp;apost;</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="4">Recent teen death in Florida has experts concerned about water safety .</sentence>
+      <sentence id="2" ids_article_sentences="9">Ten people die every day from unintentional drowning in the United States.</sentence>
+      <sentence id="3" ids_article_sentences="14">Approximately 35% of Americans know how to swim, expert says.</sentence>
+      <sentence id="4" ids_article_sentences="33">One of the most subtle forms of drowning is called &amp;quot;shallow water blackout&amp;quot; .</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-02 21:27:25" annotation_time="53.145">
+      <sentence id="4" ids_highlights="1">But the recent death of a 13-year-old at a pool in Florida has experts concerned about water safety for pre-teens and adolescents.</sentence>
+      <sentence id="9" ids_highlights="2">Ten people die every day from unintentional drowning in the United States, making it the fifth-leading cause of unintentional injury death, according to the Centers for Disease Control and Prevention.</sentence>
+      <sentence id="14" ids_highlights="3">Only about 35% of Americans know how to swim, and only 2% to 7% swim well, Osinski says.</sentence>
+      <sentence id="33" ids_highlights="4">Osinski says one of the most subtle forms of drowning is called &amp;quot;shallow water blackout.&amp;quot;</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>As adults we&amp;apost;re told time and again to keep a close eye on young children around water.</content>
+        </sentence>
+        <sentence id="2">
+          <content>Most kids who drown are under the age of 4 -- toddlers who accidentally fall into water too deep.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>They can drown in minutes in less than 2 inches of water.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>But the recent death of a 13-year-old at a pool in Florida has experts concerned about water safety for pre-teens and adolescents.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>Anthony Johnson had been playing in a pool at Disney&amp;apost;s Pop Century Resort on Sunday.</content>
+        </sentence>
+        <sentence id="6">
+          <content>Relatives told CNN affiliate WFTV that Anthony was jumping in and out with friends when they noticed him missing, and pulled him out of the water within minutes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>The boy died Tuesday morning, according to the Orange County Sheriff&amp;apost;s Office.</content>
+        </sentence>
+        <sentence id="8">
+          <content>Police are still investigating his death.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>Ten people die every day from unintentional drowning in the United States, making it the fifth-leading cause of unintentional injury death, according to the Centers for Disease Control and Prevention.</content>
+        </sentence>
+        <sentence id="10">
+          <content>About 20% are under the age of 14.</content>
+        </sentence>
+        <sentence id="11">
+          <content>Nearly 80% are male.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;The first thing to remember is that drowning doesn&amp;apost;t just happen,&amp;quot; says Alison Osinski, water safety expert and president of Aquatic Consulting Services.</content>
+        </sentence>
+        <sentence id="13">
+          <content>&amp;quot;Something always precipitates drowning.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="14">
+          <content>Only about 35% of Americans know how to swim, and only 2% to 7% swim well, Osinski says.</content>
+        </sentence>
+        <sentence id="15">
+          <content>Teens are particularly susceptible to peer pressure and often go past their limits.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Exhaustion or disorientation under water could cause a weak swimmer to panic.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="17">
+          <content>In this case, the swimmer would go through the stages of what lifeguards call an &amp;quot;active drowning,&amp;quot; Osinski says.</content>
+        </sentence>
+        <sentence id="18">
+          <content>The word &amp;quot;active&amp;quot; may be misleading, as active drowning is nothing like what you usually see on TV.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="19">
+          <content>In an active drowning, a swimmer is at or below eye level at the surface of the water for about 10 to 20 seconds.</content>
+        </sentence>
+        <sentence id="20">
+          <content>The head is tilted back to get air.</content>
+        </sentence>
+        <sentence id="21">
+          <content>The eyes are either wide open or tightly shut.</content>
+        </sentence>
+        <sentence id="22">
+          <content>The mouth is often in an &amp;quot;O&amp;quot; shape from shock.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="23">
+          <content>&amp;quot;You&amp;apost;re not drowning if you can call for help,&amp;quot; Osinski says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="24">
+          <content>After about 20 seconds, the swimmer will start to sink and will hold his breath underwater for anywhere from 30 to 90 seconds.</content>
+        </sentence>
+        <sentence id="25">
+          <content>If rescued during this time, the swimmer usually will be fine.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="26">
+          <content>After 90 seconds, Osinski says, a swimmer will black out.</content>
+        </sentence>
+        <sentence id="27">
+          <content>At this point, things get dicey.</content>
+        </sentence>
+        <sentence id="28">
+          <content>If a swimmer is resuscitated after the four-minute mark, there&amp;apost;s a high risk of brain damage.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="29">
+          <content>Drowning also can be caused by trauma or a medical condition, Osinski says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="30">
+          <content>Diving into shallow water could result in paralysis from a spinal injury.</content>
+        </sentence>
+        <sentence id="31">
+          <content>Experts also look for unknown heart issues in sudden drowning cases.</content>
+        </sentence>
+        <sentence id="32">
+          <content>People with epilepsy or seizure disorders are also at high-risk.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="33">
+          <content>Osinski says one of the most subtle forms of drowning is called &amp;quot;shallow water blackout.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="34">
+          <content>Typically, a person holding his breath will be triggered to breathe when his CO2 levels get high.</content>
+        </sentence>
+        <sentence id="35">
+          <content>But if a swimmer is holding his breath for a long time while exhaling underwater, or is going underwater repeatedly, his CO2 levels are lowered.</content>
+        </sentence>
+        <sentence id="36">
+          <content>When that happens, the brain&amp;apost;s built-in alarm to breathe doesn&amp;apost;t go off, despite a lack of oxygen.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="37">
+          <content>&amp;quot;You can&amp;apost;t tell when they go unconscious, until it&amp;apost;s too late,&amp;quot; Osinski says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="38">
+          <content>Osinski has videos of teens drowning that were recorded on their friends&amp;apost; phones.</content>
+        </sentence>
+        <sentence id="39">
+          <content>The most common phrase she hears from witnesses is: &amp;quot;I thought they were just fooling around.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="40">
+          <content>Connie Harvey, aquatics manager for the American Red Cross, says people of all ages need to understand the risks associated with water.</content>
+        </sentence>
+        <sentence id="41">
+          <content>&amp;quot;People need to know how to swim well, they need to know how to behave safely, and make good choices for where they swim.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="42">
+          <content>More than half of drowning deaths in people older than 15 occur outside of pools, according to the CDC.</content>
+        </sentence>
+        <sentence id="43">
+          <content>And alcohol is involved in 70% of cases.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="44">
+          <content>Parents should set expectations for teens around water ahead of time, Harvey says.</content>
+        </sentence>
+        <sentence id="45">
+          <content>No one should be allowed to swim alone, even if they are a strong swimmer.</content>
+        </sentence>
+        <sentence id="46">
+          <content>Following the rules of a pool is also key: no running, no horseplay, no diving into shallow water.</content>
+        </sentence>
+        <sentence id="47">
+          <content>And the Red Cross recommends against any type of breath-holding competition.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="48">
+          <content>Teens should know their own limits, Harvey says, and not follow stronger swimmers without help.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="49">
+          <content>&amp;quot;We talk about the dangerous TOOs -- too far, too long,&amp;quot; she says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="50">
+          <content>If teens are swimming in a natural body of water like a lake or river, they should use the rule &amp;quot;feet first, first time&amp;quot; to prevent spinal injuries.</content>
+        </sentence>
+        <sentence id="51">
+          <content>And when the sun stops shining, swimmers should stop swimming.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="52">
+          <content>Harvey&amp;apost;s final rule is the most important: learn how to swim.</content>
+        </sentence>
+        <sentence id="53">
+          <content>The Red Cross and many local swim organizations offer lessons for children as young as 6 months old and their parents.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="54">
+          <content>People should feel confident in whatever water environment they&amp;apost;re in, Harvey says, whether it&amp;apost;s a wave pool at a water park or a river with a strong current.</content>
+        </sentence>
+        <sentence id="55">
+          <content>No one should swim alone and, if possible, always swim under the watchful eye of a certified lifeguard.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="56">
+          <content>Last but not least, if you do get yourself or a friend in trouble, know how to get help.</content>
+        </sentence>
+        <sentence id="57">
+          <content>Learn CPR and get training on an automated external defibrillator, or AED.</content>
+        </sentence>
+        <sentence id="58">
+          <content>Be aware of reach poles or buoys that can be thrown to help a drowning swimmer, Harvey says, and call 911 at the first sign of an emergency.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

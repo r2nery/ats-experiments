@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1866" link="http://www.cnn.com/2014/02/27/us/aaron-hernandez-lawsuit/index.html" date_published="2014-02-28 00:33:47" category="us" author="Haimy Assefa and Chris Boyette, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Aaron Hernandez sued by families of 2012 fatal shooting victims</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="22, 1">The former NFL star is being held on first-degree murder charge in death of Odin Lloyd.</sentence>
+      <sentence id="2" ids_article_sentences="1">Families of two men gunned down in separate shootings file wrongful death lawsuits.</sentence>
+      <sentence id="3" ids_article_sentences="14">Meanwhile, Hernandez has been moved to a more restrictive jail unit after a fight.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-09 17:41:10" annotation_time="72.53199" mapping_time_divergence="24.17733">
+      <sentence id="1" ids_highlights="1, 2">The families of two men who were gunned down in Boston in 2012 have filed wrongful death lawsuits against former New England Patriots player Aaron Hernandez, according to court documents.</sentence>
+      <sentence id="14" ids_highlights="3">Meanwhile, Hernandez has been moved to a more restrictive jail unit while a fight with another inmate is investigated, Bristol County Sheriff Thomas Hodgson told CNN Thursday.</sentence>
+      <sentence id="22" ids_highlights="1">Hernandez is awaiting trial on murder charges in the 2013 shooting death of his friend Odin Lloyd.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>The families of two men who were gunned down in Boston in 2012 have filed wrongful death lawsuits against former New England Patriots player Aaron Hernandez, according to court documents.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The $6 million lawsuits were filed Wednesday on behalf of the families of Daniel Abreu and Safiro Furtado, according to court papers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Hernandez, who is being held on charges related to another slaying, has not been charged in connection with the deaths of Abreu and Furtado.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>The lawsuits claim that Hernandez &amp;quot;recklessly&amp;quot; and &amp;quot;maliciously&amp;quot; shot a firearm from his vehicle into a vehicle carrying Abreu and Furtado, killing them.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>The two men were shot and killed in Boston while riding in a 2003 BMW.</content>
+        </sentence>
+        <sentence id="6">
+          <content>Two others in the car survived.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>At a news conference Wednesday, Salvatore Furtado said his son, Safiro, &amp;quot;was a good boy, a hard worker, very intelligent,&amp;quot; according to a woman who interpreted his comments from his native Cape Verdean dialect.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>Daniel Abreu supported the family and worked two jobs, his father, Ernesto, said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>The prosecutor&amp;apost;s office of Suffolk County has not identified any suspects in this case, according to Jack Wark, a spokesman for Suffolk County District Attorney Daniel Conley.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="10">
+          <content>The investigation by the homicide unit of the Boston police and Suffolk County district attorney is ongoing and &amp;quot;very active,&amp;quot; Wark said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="11">
+          <content>Civil suits may be filed while a criminal investigation is ongoing, but the step is unusual, said CNN legal analyst Paul Callan.</content>
+        </sentence>
+        <sentence id="12">
+          <content>Civil and criminal cases, however, have different standards of proof.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="13">
+          <content>The loss of Abreu and Furtado should matter and there is no reason to wait, said attorney William T. Kennedy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="14">
+          <content>Meanwhile, Hernandez has been moved to a more restrictive jail unit while a fight with another inmate is investigated, Bristol County Sheriff Thomas Hodgson told CNN Thursday.</content>
+        </sentence>
+        <sentence id="15">
+          <content>Hodgson said the move wasn&amp;apost;t disciplinary but rather standard procedure.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="16">
+          <content>Hernandez has been placed in a higher-level security unit and is allowed out of his cell for one hour a day, the sheriff said.</content>
+        </sentence>
+        <sentence id="17">
+          <content>He will not interact with other prisoners and must wear handcuffs and leg shackles.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="18">
+          <content>In January, unsealed court documents revealed that police had directly suggested that the former tight end may have pulled the trigger in the unsolved double homicides.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="19">
+          <content>&amp;quot;There is ... probable cause to believe that Aaron Hernandez was operating the suspect vehicle used in the shooting homicides ... and may have been the shooter,&amp;quot; said a recently unsealed warrant from June 2013.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="20">
+          <content>The warrant was used to search a bag of clothes with Hernandez&amp;apost;s name on it and a Toyota 4Runner linked to him that, according to court documents, was seen at the scene of the crime by witnesses the night of the killings.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="21">
+          <content>CNN has reported that a grand jury has been looking into whether Hernandez played a role in the drive-by shooting, said law enforcement sources in January.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="22">
+          <content>Hernandez is awaiting trial on murder charges in the 2013 shooting death of his friend Odin Lloyd.</content>
+        </sentence>
+        <sentence id="23">
+          <content>He has pleaded not guilty.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="24">
+          <content>Lloyd&amp;apost;s family also filed a wrongful death suit against Hernandez in December, according to Kevin Phelan, the family&amp;apost;s attorney.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="25">
+          <content>Hernandez is also named in another civil suit.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="26">
+          <content>A man that sources have described as Hernandez&amp;apost;s &amp;quot;muscle man,&amp;quot; Alexander Bradley, has filed a civil lawsuit accusing Hernandez of shooting him in the face during an argument after they left a Florida strip club in February 2013.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="27">
+          <content>Bradley lost sight in one eye because of the shooting, according to the lawsuit.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="28">
+          <content>CNN&amp;apost;s attempts to reach Hernandez&amp;apost;s attorney were unsuccessful.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

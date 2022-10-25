@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="185" link="http://edition.cnn.com/2014/09/09/health/ebola-patient-emory-atlanta/index.html?hpt=iaf_c1" category="health" author="Jen Christensen, Josh Levs, and Debra Goldschmidt, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>American Ebola patient arrives at Emory in Atlanta</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">An American Ebola patient arrives at Emory University Hospital in Atlanta.</sentence>
+      <sentence id="2" ids_article_sentences="1">Patient is a U.S. citizen who got Ebola in Sierra Leone, State Department says.</sentence>
+      <sentence id="3" ids_article_sentences="3">An air ambulance transported the patient to Atlanta.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-10-27 16:39:32" annotation_time="50.464">
+      <sentence id="1" ids_highlights="1, 2">A male U.S. citizen who contracted the Ebola virus in Sierra Leone arrived Tuesday at Emory University Hospital in Atlanta.</sentence>
+      <sentence id="3" ids_highlights="3">The patient, whose name has not been released publicly, was taken from Africa in an air ambulance.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>A male U.S. citizen who contracted the Ebola virus in Sierra Leone arrived Tuesday at Emory University Hospital in Atlanta.</content>
+        </sentence>
+        <sentence id="2">
+          <content>The patient could be seen walking, apparently with some help from one person, into the facility.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>The patient, whose name has not been released publicly, was taken from Africa in an air ambulance.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>The State Department described the patient as a U.S. citizen.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>On Monday, the World Health Organization said a doctor working for the agency in an Ebola treatment center in Sierra Leone tested positive for the virus.</content>
+        </sentence>
+        <sentence id="6">
+          <content>WHO would not reveal the doctor&amp;apost;s nationality nor where he or she would be evacuated to for treatment.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>WHO officials would not say whether the doctor is the American Ebola patient, citing a confidentiality policy.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>Last month, two Americans infected with Ebola were flown to Atlanta after being given an experimental drug to fight the virus in Liberia.</content>
+        </sentence>
+        <sentence id="9">
+          <content>They were treated at the Emory hospital for several weeks before being released.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="10">
+          <content>Other American improves.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>Another American doctor infected with Ebola arrived in Nebraska for treatment last week.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>Doctors on Tuesday said that Dr. Rick Sacra&amp;apost;s condition continues to improve.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>&amp;quot;We are pleased with his progress,&amp;quot; said Phil Smith, medical director at the Biocontainment Unit at the Nebraska Medical Center.</content>
+        </sentence>
+        <sentence id="14">
+          <content>&amp;quot;His lab values are improving and he&amp;apost;s becoming more alert and interactive.</content>
+        </sentence>
+        <sentence id="15">
+          <content>We continue to be encouraged by what we&amp;apost;re seeing up to this point.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="16">
+          <content>Sacra&amp;apost;s family said more of his personality has emerged each day.</content>
+        </sentence>
+        <sentence id="17">
+          <content>They speak with him on a regular basis through video conferencing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="18">
+          <content>The Ebola virus causes viral hemorrhagic fever, which refers to virus types that affect multiple organ systems in the body and are often accompanied by bleeding.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="19">
+          <content>Humans contract Ebola through contact with the bodily fluids of infected animals or the bodily fluids of infected humans.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="20">
+          <content>No vaccine or medicine has been proved to cure the disease, but the first human trial of an experimental Ebola vaccine began last week.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="21">
+          <content>Ebola by the numbers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="22">
+          <content>More than 4,200 cases of Ebola have been reported since the first documented case in December, WHO has said (pdf) Tuesday.</content>
+        </sentence>
+        <sentence id="23">
+          <content>Of those cases, there have been more than 2,200 fatalities.</content>
+        </sentence>
+        <sentence id="24">
+          <content>The official numbers are believed to be dramatically under-reported.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="25">
+          <content>More than 40% of the cases have been diagnosed in the past three weeks, the agency said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="26">
+          <content>This is considered the deadliest Ebola outbreak in history.</content>
+        </sentence>
+        <sentence id="27">
+          <content>The bulk of the cases are in Guinea, Liberia, Sierra Leone.</content>
+        </sentence>
+        <sentence id="28">
+          <content>Infected people have also turned up in Nigeria and Senegal.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="29">
+          <content>WHO said Monday the rapid spread of the virus in Liberia shows no sign of slowing.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="30">
+          <content>&amp;quot;The number of new cases is increasing exponentially,&amp;quot; WHO said, calling the situation a &amp;quot;dire emergency with ... unprecedented dimensions of human suffering.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="31">
+          <content>It&amp;apost;s a crisis unlike any other during previous Ebola outbreaks, according to WHO.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="32">
+          <content>Taxis packed with families who fear they&amp;apost;ve contracted the deadly virus crisscross the Liberian capital, searching for a place where they can be treated, WHO said.</content>
+        </sentence>
+        <sentence id="33">
+          <content>But there are no free beds.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="34">
+          <content>&amp;quot;As soon as a new Ebola treatment facility is opened, it immediately fills to overflowing with patients,&amp;quot; the U.N. group said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="35">
+          <content>U.S. sending additional help.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="36">
+          <content>To help ease some of the burden on West Africa&amp;apost;s already over-taxed medical system, the U.S. announced Tuesday it will send $10 million additional funds.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="37">
+          <content>That&amp;apost;s in addition to the $100 million the U.S. has already sent to help fight the outbreak.</content>
+        </sentence>
+        <sentence id="38">
+          <content>USAID also announced it will make $75 million extra available.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="39">
+          <content>The new funds will pay for transportation and support to send 100 more health care workers to help fight the epidemic.</content>
+        </sentence>
+        <sentence id="40">
+          <content>The staff will run Ebola treatment units.</content>
+        </sentence>
+        <sentence id="41">
+          <content>The staff will be sent to Liberia, Nigeria, Guinea and Sierra Leone.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="42">
+          <content>The WHO and several nonprofit agencies on the ground have repeatedly called for the international community to send additional trained help.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="43">
+          <content>If you are a trained nurse, physician assistant or doctor who wants to help, USAID has created a website where people can sign up to help.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="44">
+          <content>USAID funding has already provided 130,000 sets of personal protective equipment, 50,000 hygiene kits, and 1,000 new beds.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

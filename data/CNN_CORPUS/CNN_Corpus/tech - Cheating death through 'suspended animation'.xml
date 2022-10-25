@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1580" link="http://www.cnn.com/2014/06/23/tech/innovation/suspended-animation-trials/index.html?iid=article_sidebar" date_published="2014-06-23 12:10:24" category="tech" author="Brandon Griggs, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Cheating death through &amp;apost;suspended animation&amp;apost;</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="6">Medical researchers are experimenting with a process called induced hypothermia.</sentence>
+      <sentence id="2" ids_article_sentences="6">They cool trauma patients&amp;apost; bodies down by pumping them with chilled saline solution.</sentence>
+      <sentence id="3" ids_article_sentences="6">This wards off the potential damage caused by loss of blood and oxygen.</sentence>
+      <sentence id="4" ids_article_sentences="20">It buys doctors more time to get patients into surgery.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-01 13:04:48" annotation_time="76.959335">
+      <sentence id="6" ids_highlights="1, 2, 3">He and his researchers are experimenting with something called induced hypothermia, or cooling trauma patients&amp;apost; bodies to ward off the potential damage caused by loss of blood and oxygen.</sentence>
+      <sentence id="20" ids_highlights="4">The induced hypothermia, or &amp;quot;suspended animation,&amp;quot; process is expected to buy doctors enough time -- at least 45 minutes -- to get patients into the operating room, hook them up to machines to restart their circulation, warm them up and then restore their blood.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>As fans of &amp;quot;Grey&amp;apost;s Anatomy,&amp;quot; &amp;quot;ER&amp;quot; and any other hospital-based show can tell you, emergency-room doctors are fighting against time.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>&amp;quot;When patients have bled so much that the heart stops, we know that we have very little chance of saving them,&amp;quot; said veteran trauma surgeon Samuel Tisherman.</content>
+        </sentence>
+        <sentence id="3">
+          <content>Even with breathing tubes, IVs and emergency chest surgery, fewer than one in 10 of such patients survive, he said.</content>
+        </sentence>
+        <sentence id="4">
+          <content>&amp;quot;The outcomes are pretty dismal.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="5">
+          <content>But Tisherman and a handful of other doctors may have found an innovative way to beat these grim odds.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>He and his researchers are experimenting with something called induced hypothermia, or cooling trauma patients&amp;apost; bodies to ward off the potential damage caused by loss of blood and oxygen.</content>
+        </sentence>
+        <sentence id="7">
+          <content>Because it causes the patient&amp;apost;s cell activity to shut down, this method essentially places the person in a sort of temporary limbo -- not dead, but not fully alive, either -- as a way of buying surgeons more time.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;Some people, including us early on ... have called this idea &amp;apost;suspended animation.&amp;apost;.</content>
+        </sentence>
+        <sentence id="9">
+          <content>And in some sense, that&amp;apost;s true,&amp;quot; said Tisherman, who is spearheading a new clinical trial at the UPMC Presbyterian Hospital in Pittsburgh, Pennsylvania.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;But it&amp;apost;s important to recognize that these patients are not dead.</content>
+        </sentence>
+        <sentence id="11">
+          <content>We&amp;apost;re trying to save them still,&amp;quot; added the doctor.</content>
+        </sentence>
+        <sentence id="12">
+          <content>&amp;quot;What we&amp;apost;re doing is using science to try to come up with a new way to save people who are dying in front of us.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="13">
+          <content>Tisherman will oversee the trial despite leaving UPMC recently for a similar post at the Maryland Shock Trauma Center in Baltimore.</content>
+        </sentence>
+        <sentence id="14">
+          <content>Asked to define what he does, he prefers the more precise but unwieldy term, &amp;quot;emergency preservation and resuscitation,&amp;quot; or EPR.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="15">
+          <content>The process works like this: Doctors insert a tube into the trauma patient&amp;apost;s aorta and pump in a large amount of ice-cold saline solution to cool the core of the body as quickly as possible to about 50 to 55 degrees.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="16">
+          <content>At normal body temperatures, cells need a regular oxygen supply.</content>
+        </sentence>
+        <sentence id="17">
+          <content>When the heart stops, blood no longer carries oxygen throughout the body, and the brain can only survive for a few minutes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="18">
+          <content>At these reduced temperatures, however, tissue cells need less oxygen because all chemical reactions slow down.</content>
+        </sentence>
+        <sentence id="19">
+          <content>It&amp;apost;s the same principle that has allowed some people to survive near-drownings in cold water, despite being submerged for a half-hour or more.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="20">
+          <content>The induced hypothermia, or &amp;quot;suspended animation,&amp;quot; process is expected to buy doctors enough time -- at least 45 minutes -- to get patients into the operating room, hook them up to machines to restart their circulation, warm them up and then restore their blood.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="21">
+          <content>The groundbreaking process has proven successful in animal trials involving pigs.</content>
+        </sentence>
+        <sentence id="22">
+          <content>Now Tisherman and his researchers plan to carry out a similar trial with humans, comparing 10 patients who get EPR with 10 who don&amp;apost;t.</content>
+        </sentence>
+        <sentence id="23">
+          <content>The patients will have suffered cardiac arrest after a traumatic injury and have little chance of survival under normal circumstances.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="24">
+          <content>The federal government is watching with interest.</content>
+        </sentence>
+        <sentence id="25">
+          <content>Tisherman said the Food and Drug Administration is overseeing the trial, and the Department of Defense, which sees potential for treating soldiers in the field, has contributed funding.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="26">
+          <content>It will take several years to complete the trial and crunch the data.</content>
+        </sentence>
+        <sentence id="27">
+          <content>Tisherman&amp;apost;s hope is to eventually prove the process works and help it spread to other trauma centers around the world.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="28">
+          <content>&amp;quot;As trauma surgeons, we&amp;apost;re always fighting against the clock.</content>
+        </sentence>
+        <sentence id="29">
+          <content>And we&amp;apost;ve all seen people who had injuries we could fix if we just had a few more minutes.</content>
+        </sentence>
+        <sentence id="30">
+          <content>It&amp;apost;s heartbreaking when these patients don&amp;apost;t make it,&amp;quot; he told CNN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="31">
+          <content>&amp;quot;We find it exciting that this might give us a way to save people that we otherwise can&amp;apost;t.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

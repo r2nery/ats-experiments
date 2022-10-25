@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1557" link="http://www.cnn.com/2014/05/02/tech/innovation/moon-jupiter-ganymede/index.html?iid=article_sidebar" date_published="2014-05-02 18:00:53" category="tech" author="Elizabeth Landau, CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>A &amp;apost;club sandwich&amp;apost; may support life on Jupiter&amp;apost;s moon</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="9">Ganymede&amp;apost;s oceans may have 25 times the volume of Earth&amp;apost;s.</sentence>
+      <sentence id="2" ids_article_sentences="5">Life may arise from chemical interactions between water and rock, scientists say.</sentence>
+      <sentence id="3" ids_article_sentences="3, 2">Ganymede is one of several moons in our solar system that may support life.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-09 17:27:05" annotation_time="57.979336" mapping_time_divergence="19.326445">
+      <sentence id="2" ids_highlights="3">NASA researchers, publishing in the journal Planetary and Space Science, have demonstrated that this &amp;quot;club sandwich&amp;quot; phenomenon may be happening on Ganymede, the largest moon in the solar system and a satellite of Jupiter.</sentence>
+      <sentence id="3" ids_highlights="3">This finding means that life could have even arisen on Ganymede.</sentence>
+      <sentence id="5" ids_highlights="2">Chemical interactions between rock and water could lead to the formation of life, scientists say.</sentence>
+      <sentence id="9" ids_highlights="1">The oceans of Ganymede may have 25 times the volume of Earth&amp;apost;s oceans, scientists said.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>At least one corner of the solar system may be serving up an ice-and-water sandwich, with the possibility of life on the rocks.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>NASA researchers, publishing in the journal Planetary and Space Science, have demonstrated that this &amp;quot;club sandwich&amp;quot; phenomenon may be happening on Ganymede, the largest moon in the solar system and a satellite of Jupiter.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>This finding means that life could have even arisen on Ganymede.</content>
+        </sentence>
+        <sentence id="4">
+          <content>The study suggests there may be a layer of salty water directly on top of Ganymede&amp;apost;s rocky core.</content>
+        </sentence>
+        <sentence id="5">
+          <content>Chemical interactions between rock and water could lead to the formation of life, scientists say.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;This is good news for Ganymede,&amp;quot; said lead study author Steve Vance of NASA&amp;apost;s Jet Propulsion Laboratory in a statement.</content>
+        </sentence>
+        <sentence id="7">
+          <content>&amp;quot;Its ocean is huge, with enormous pressures, so it was thought that dense ice had to form at the bottom of the ocean.</content>
+        </sentence>
+        <sentence id="8">
+          <content>When we added salts to our models, we came up with liquids dense enough to sink to the sea floor.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="9">
+          <content>The oceans of Ganymede may have 25 times the volume of Earth&amp;apost;s oceans, scientists said.</content>
+        </sentence>
+        <sentence id="10">
+          <content>But Ganymede is also smaller; it has an average radius of 1,634 miles, about 41% of Earth&amp;apost;s.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="11">
+          <content>There is only a handful of places in the solar system thought to have subsurface oceans.</content>
+        </sentence>
+        <sentence id="12">
+          <content>There is strong evidence that Europa, another moon of Jupiter&amp;apost;s, and Saturn&amp;apost;s moons Enceladus and Titan have oceans under ice as well.</content>
+        </sentence>
+        <sentence id="13">
+          <content>Jupiter&amp;apost;s moon Callisto is also a contender.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="14">
+          <content>Data from NASA&amp;apost;s Cassini spacecraft suggested last month that Enceladus has an ocean at least the size of Lake Superior under its ice layer.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="15">
+          <content>Vance and colleagues did not visit Ganymede, obviously, but they performed laboratory experiments here on Earth to simulate what would happen to ice and salty water on the Jupiter moon.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="16">
+          <content>They showed that the density of liquids goes up with the presence of salt under extreme conditions inside moons such as Ganymede.</content>
+        </sentence>
+        <sentence id="17">
+          <content>Because salt ions attract molecules of H2O, liquid water becomes denser when salt is added.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="18">
+          <content>There are many forms of ice, which makes modeling conditions on icy moons complex.</content>
+        </sentence>
+        <sentence id="19">
+          <content>You are probably most familiar with Ice I, the ice that floats in a soda fountain beverage because it is lighter than water.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="20">
+          <content>But ice molecules get packed together more tightly at high pressures, Vance said.</content>
+        </sentence>
+        <sentence id="21">
+          <content>In deep oceans, the dense ice would actually be heavier than water, plummeting to the ocean floor.</content>
+        </sentence>
+        <sentence id="22">
+          <content>Vance and colleagues use Ice VI to refer to the most dense and heavy ice that Ganymede may have.</content>
+        </sentence>
+        <sentence id="23">
+          <content>On this moon, however, scientists believe the saltiest liquid would be so dense that it would be at the very bottom, above the rock.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="24">
+          <content>Computer models taking all of that into account suggest that Ganymede has as many as three ice layers with liquid ocean between them.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="25">
+          <content>The models also suggest that ice could form in the seawater -- a process that leaves heavy salts to fall down and lighter ice to float up -- an upward snow effect.</content>
+        </sentence>
+        <sentence id="26">
+          <content>In the middle of the layers may be slush from that ice that then melts.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="27">
+          <content>Scientists don&amp;apost;t know if this model is correct, of course.</content>
+        </sentence>
+        <sentence id="28">
+          <content>Senior author Christophe Sotin, also of NASA&amp;apost;s JPL, said in a statement that the &amp;quot;sandwich&amp;quot; model reflects a stable state, but there are various reasons why the moon might not achieve this structure; it may even alternate between a &amp;quot;club sandwich&amp;quot; phase and a structure with fewer layers: light ice, ocean, high-pressure ice.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="29">
+          <content>Galileo Galilei discovered Ganymede as well as three other moons of Jupiter in 1610.</content>
+        </sentence>
+        <sentence id="30">
+          <content>These moons contributed to the knowledge that our sun and other planets in our solar system do not orbit the Earth, but rather the solar system revolves around the sun.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="31">
+          <content>We may learn more about Ganymede and other moons with the potential of life through a space mission called Jupiter Icy Moons Explorer, or JUICE.</content>
+        </sentence>
+        <sentence id="32">
+          <content>The mission, being developed by the European Space Agency, will visit Europa, Callisto and Ganymede.</content>
+        </sentence>
+        <sentence id="33">
+          <content>It is scheduled to launch in 2022.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

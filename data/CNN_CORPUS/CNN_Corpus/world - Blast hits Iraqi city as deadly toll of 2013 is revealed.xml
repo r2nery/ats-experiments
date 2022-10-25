@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2090" link="http://www.cnn.com/2014/01/01/world/meast/iraq-violence" date_published="2014-01-01 16:01:29" category="world" author="Mohammed Tawfeeq and Laura Smith-Spark, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Blast hits Iraqi city as deadly toll of 2013 is revealed</title>
+  <keywords>Iraq violence</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="2">NEW: Chaos reigns in Anbar province as Sunnis seize police stations; one death reported.</sentence>
+      <sentence id="2" ids_article_sentences="1">At least four people are killed and 14 injured in a car bomb blast in Mosul, police say.</sentence>
+      <sentence id="3" ids_article_sentences="4">The United Nations says 2013 was the deadliest year for Iraqi civilians since 2008.</sentence>
+      <sentence id="4" ids_article_sentences="6">U.N. representative for Iraq urges Iraqi leaders to take steps to curb violence.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-11 10:06:04" annotation_time="25.378332">
+      <sentence id="1" ids_highlights="2">At least four people were killed and 14 more injured when a car bomb exploded outside a popular restaurant in the northern Iraqi city of Mosul on Wednesday, police officials there said.</sentence>
+      <sentence id="2" ids_highlights="1">Meanwhile, the scene in Iraq&amp;apost;s restive Anbar province was chaotic Wednesday after Sunni tribes took over at least three police stations -- two in Ramadi and one in Falluja, police officials in Ramadi told CNN.</sentence>
+      <sentence id="4" ids_highlights="3">The latest violence came as the United Nations Assistance Mission for Iraq confirmed that last year was the deadliest for civilians in Iraq since 2008.</sentence>
+      <sentence id="6" ids_highlights="4">&amp;quot;This is a sad and terrible record which confirms once again the urgent need for the Iraqi authorities to address the roots of violence to curb this infernal circle,&amp;quot; said the U.N. special representative for Iraq, Nickolay Mladenov.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>At least four people were killed and 14 more injured when a car bomb exploded outside a popular restaurant in the northern Iraqi city of Mosul on Wednesday, police officials there said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>Meanwhile, the scene in Iraq&amp;apost;s restive Anbar province was chaotic Wednesday after Sunni tribes took over at least three police stations -- two in Ramadi and one in Falluja, police officials in Ramadi told CNN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>At least one person was killed and 12 others were wounded in clashes between the Iraqi army and Sunni tribes in al-Karma, about 60 kilometers (37 miles) west of Baghdad on Wednesday, police in Ramadi said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>The latest violence came as the United Nations Assistance Mission for Iraq confirmed that last year was the deadliest for civilians in Iraq since 2008.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>The total number of civilian casualties in 2013, including civilian police, was 7,818 killed and 17,981 injured, according to UNAMI figures released Wednesday, compared with 6,787 dead and 20,178 injured in 2008.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>&amp;quot;This is a sad and terrible record which confirms once again the urgent need for the Iraqi authorities to address the roots of violence to curb this infernal circle,&amp;quot; said the U.N. special representative for Iraq, Nickolay Mladenov.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>He urged Iraqi leaders to take steps to prevent &amp;quot;terrorist groups&amp;quot; from fueling sectarian tensions.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="8">
+          <content>Violence in the country has reached its worst levels since the height of the Iraq war, when sectarian fighting pushed the country to the brink of civil war.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="9">
+          <content>Anbar unrest.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="10">
+          <content>UNAMI said its 2013 figures don&amp;apost;t include casualties of the unrest in Sunni-dominated Anbar province in recent days.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="11">
+          <content>Police said Wednesday that dozens of fighters belonging to different Sunni tribes in Anbar province raided several police stations and confiscated weapons and vehicles from inside the buildings.</content>
+        </sentence>
+        <sentence id="12">
+          <content>They also released at least 100 detainees from inside a detention center within Falluja police headquarters, they said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="13">
+          <content>On Tuesday, Iraqi Prime Minister Nuri al-Maliki said the army would leave cities in the province after tensions between the Iraqi army and Sunni tribes reached new heights.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="14">
+          <content>Clashes Monday in Ramadi and Falluja left at least five people dead and 20 injured.</content>
+        </sentence>
+        <sentence id="15">
+          <content>The fighting broke out as Iraqi security forces moved in to dismantle tents at two protest camps, just days after the arrest of a prominent Sunni lawmaker in a deadly raid on his Ramadi home.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="16">
+          <content>In response to the unrest, Shiite tribes in the Shiite-dominated Nasriya province organized a demonstration near the governor&amp;apost;s office in which they asked to march on Anbar and fight the tribes there.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

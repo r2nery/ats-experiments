@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2436" link="http://edition.cnn.com/2013/12/04/world/americas/mexico-radioactive-theft" date_published="2013-12-04 09:43:39" category="world" author="Rafael Romo. Nick Parker and Mariano Castillo, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Mexico: Stolen radioactive material found</title>
+  <keywords>radioactive material stolen,Mexico truck theft</keywords>
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="6">There was less than 1.5 ounces of radioactive cobalt in the truck.</sentence>
+      <sentence id="2" ids_article_sentences="4">The suspected thieves are still on the loose and could be sick.</sentence>
+      <sentence id="3" ids_article_sentences="3">Authorities say they likely recovered all of the cobalt.</sentence>
+      <sentence id="4" ids_article_sentences="2">Experts say cobalt-60 can also be used to make a dirty bomb.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-09-18 10:55:20" annotation_time="43.239334">
+      <sentence id="2" ids_highlights="4">The stolen vehicle was carrying delicate cargo -- a radioactive element used for medical purposes that also can be used to make a so-called dirty bomb.</sentence>
+      <sentence id="3" ids_highlights="3">Mexican authorities said they found the stolen truck and recovered likely all of the radioactive cobalt Wednesday in a remote area about 40 km (25 miles) away from where it was taken.</sentence>
+      <sentence id="4" ids_highlights="2">The suspected thieves are still on the loose, though authorities expect they could turn up at a clinic suffering symptoms of radiation exposure.</sentence>
+      <sentence id="6" ids_highlights="1">There was less than 40 grams (1.4 ounces) of the hazardous material inside.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>A pair of thieves in Mexico may have stolen more than they bargained for when they targeted a truck this week.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>The stolen vehicle was carrying delicate cargo -- a radioactive element used for medical purposes that also can be used to make a so-called dirty bomb.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Mexican authorities said they found the stolen truck and recovered likely all of the radioactive cobalt Wednesday in a remote area about 40 km (25 miles) away from where it was taken.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>The suspected thieves are still on the loose, though authorities expect they could turn up at a clinic suffering symptoms of radiation exposure.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>The container holding cobalt was found about a kilometer away from the truck and had been opened, said Juan Eibenschutz Hartman, head of Mexico&amp;apost;s National Commission for Nuclear Security and Safeguards.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>There was less than 40 grams (1.4 ounces) of the hazardous material inside.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>Authorities are guarding the area and have set up a 500-meter perimeter around it, Eibenschutz said.</content>
+        </sentence>
+        <sentence id="8">
+          <content>They are evaluating whether any residents were exposed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>Cleaning up the area could take weeks, he said, because they don&amp;apost;t have robotic equipment they would need to quickly collect the dangerous cobalt.</content>
+        </sentence>
+        <sentence id="10">
+          <content>They&amp;apost;re coming up with a plan and considering asking for help from the International Atomic Energy Agency, the United States or Canada.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="11">
+          <content>The IAEA announced the theft on Wednesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="12">
+          <content>Mexican authorities told the IAEA that the truck, which was transporting cobalt-60 from a hospital in Tijuana to a radioactive waste storage center, was stolen Monday in Tepojaco, near Mexico City.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="13">
+          <content>An early theory is that the thieves were unaware of what exactly they had taken.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="14">
+          <content>&amp;quot;At the time the truck was stolen, the source was properly shielded,&amp;quot; the IAEA said.</content>
+        </sentence>
+        <sentence id="15">
+          <content>&amp;quot;However, the source could be extremely dangerous to a person if removed from the shielding, or if it was damaged.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="16">
+          <content>But Eibenschutz said the truck wasn&amp;apost;t properly set up to transport the radioactive material, since it didn&amp;apost;t have a GPS for tracking or other necessary equipment.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="17">
+          <content>Cobalt-60 is used in radiotherapy and in industrial tools such as leveling devices and thickness gauges.</content>
+        </sentence>
+        <sentence id="18">
+          <content>Large sources of cobalt-60 are used to sterilize certain foods, as the gamma rays kill bacteria but don&amp;apost;t damage the product, according to the U.S. Environmental Protection Agency.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="19">
+          <content>If released into the environment, the radioactive material can harm people.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="20">
+          <content>And experts consider cobalt-60 one of the &amp;quot;candidates&amp;quot; for making dirty bombs.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="21">
+          <content>Bombs made with cobalt-60 &amp;quot;pose a threat mainly because even a fraction of a gram emits a huge number of high-energy gamma rays; such material is harmful whether outside or inside the body,&amp;quot; according to a 2011 report by the Congressional Research Service.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="22">
+          <content>In a speech last year, the IAEA director warned that such a dirty bomb &amp;quot;detonated in a major city could cause mass panic, as well as serious economic and environmental consequences.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="23">
+          <content>Preliminary information suggests that the thieves did not know what the truck&amp;apost;s cargo was when they stole it, said Jaime Aguirre Gomez, deputy director of radiological security at the National Commission for Nuclear Security and Safeguards.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="24">
+          <content>The shielding that protects the cobalt-60 is designed so that the radioactive source is difficult to extract, Aguirre said.</content>
+        </sentence>
+        <sentence id="25">
+          <content>The casing is designed not to be opened or perforated easily.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="26">
+          <content>The truck and its cargo went missing early Monday after the driver of the white 2007 Volkswagen truck and an assistant had stopped to rest at a gas station, local prosecutor Marcos Morales told CNN.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="27">
+          <content>At around 1 a.m. Monday, a man armed with a handgun knocked on the passenger window.</content>
+        </sentence>
+        <sentence id="28">
+          <content>When the passenger rolled down his window, the gunman demanded the keys to the vehicle, Morales said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="29">
+          <content>Both the driver and his assistant were taken to an empty lot where they were bound and told not to move.</content>
+        </sentence>
+        <sentence id="30">
+          <content>They heard one of the assailants use a walkie-talkie type device or phone to tell someone, &amp;quot;It&amp;apost;s done,&amp;quot; Morales said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="31">
+          <content>Mexico alerted the IAEA to the theft, following international protocol, Aguirre said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="32">
+          <content>The U.S. Department of Homeland Security is assisting with the investigation into the stolen truck, Mexican authorities said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="33">
+          <content>The U.S. government has sensors at border crossings and sea ports to prevent radioactive materials from entering the country.</content>
+        </sentence>
+        <sentence id="34">
+          <content>This includes large stationary sensors designed to scan vehicles going through land border crossings as well as pager-size devices carried by agents.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="35">
+          <content>Some of this equipment is sensitive enough that it has been set off by people who had recently undergone radiation therapy, according to a U.S. law-enforcement source.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="36">
+          <content>According to the Congressional Research Service report, in Thailand in 2000, a disused cobalt-60 source was stored outdoors and bought by two scrap collectors, who took it to a junkyard where it was cut open.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="37">
+          <content>Some workers suffered burn-like injuries, and eventually three people died and seven others suffered radiation injuries, the report says.</content>
+        </sentence>
+        <sentence id="38">
+          <content>Nearly 2,000 others who lived nearby were exposed to radiation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

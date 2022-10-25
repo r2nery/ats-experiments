@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2068" link="http://edition.cnn.com/2014/08/20/world/africa/ebola-myths/index.html?iid=article_sidebar" date_published="2014-08-20 17:30:16" category="world" author="Bryony Jones and Nima Elbagir, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Are myths making the Ebola outbreak worse?</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Despite information campaigns, fear is spreading even more quickly than the Ebola virus itself.</sentence>
+      <sentence id="2" ids_article_sentences="7">People worry that they will be ostracized if they admit they are ill, says CNN&amp;apost;s Nima Elbagir.</sentence>
+      <sentence id="3" ids_article_sentences="33">Those working to counteract the spread of Ebola say better health education is needed.</sentence>
+      <sentence id="4" ids_article_sentences="29">The World Food Programme says it is working to provide food to one million people.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-12 17:20:02" annotation_time="36.642498">
+      <sentence id="1" ids_highlights="1">More than 1,200 people have died as the deadliest ever outbreak of Ebola takes hold in West Africa, but despite information campaigns, fear is spreading even more quickly than the virus itself.</sentence>
+      <sentence id="7" ids_highlights="2">&amp;quot;People worry that they will be ostracized by their community if they admit that they are ill or that their loved ones appear to have died of Ebola, so they delay reporting the symptoms, and we&amp;apost;ve heard anecdotes about secret burials,&amp;quot; Elbagir explains.</sentence>
+      <sentence id="29" ids_highlights="4">The World Food Programme says it is working to &amp;quot;provide food assistance to around one million people living in restricted access areas in the three affected countries&amp;quot; in an attempt to &amp;quot;stabilize affected communities by limiting unnecessary movement and enabling them to cope with lost livelihoods.&amp;quot;</sentence>
+      <sentence id="33" ids_highlights="3">Those working to counteract the spread of Ebola say better health education is needed, to raise awareness of the virus, explain how it is spread and what can be done about it.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>More than 1,200 people have died as the deadliest ever outbreak of Ebola takes hold in West Africa, but despite information campaigns, fear is spreading even more quickly than the virus itself.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>This week some Ebola patients in Liberia ran away when the healthcare facility they were being treated at was attacked by rioters frightened of the disease.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>As medical staff and authorities battle to contain Ebola, are rumors and superstition making the situation more difficult?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>Are myths making the Ebola outbreak worse?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>&amp;quot;Absolutely,&amp;quot; says CNN&amp;apost;s Nima Elbagir, adding that the Liberia clinic attack is just one sign of spiraling fear about the disease, which means that those who become sick are terrified of seeking help.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>The World Health Organization says the &amp;quot;scale, duration, and lethality of the Ebola outbreak have generated a high level of public anxiety&amp;quot; over the virus.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;People worry that they will be ostracized by their community if they admit that they are ill or that their loved ones appear to have died of Ebola, so they delay reporting the symptoms, and we&amp;apost;ve heard anecdotes about secret burials,&amp;quot; Elbagir explains.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="8">
+          <content>A lack of understanding about what causes Ebola and how it is passed on means the region is fertile ground for speculation and mistaken beliefs.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="9">
+          <content>And according to the WHO, the already difficult conditions are also being made tougher by public misunderstanding caused by &amp;quot;rumors on social media claiming that certain products or practices can prevent or cure Ebola virus disease.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="10">
+          <content>What sort of myths and rumors are involved?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="11">
+          <content>The WHO reports that at least two people died in Nigeria as a result of drinking salt water, after stories circulated that doing so would protect against Ebola.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="12">
+          <content>Other supposed &amp;quot;cures&amp;quot; for the disease include raw onions, coffee, condensed milk and holy water.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="13">
+          <content>While there are high hopes for experimental medicines and vaccines, the WHO points out there is, as yet, no known cure.</content>
+        </sentence>
+        <sentence id="14">
+          <content>&amp;quot;Decades of scientific research have failed to find a curative or preventive agent of proven safety and effectiveness in humans,&amp;quot; it says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="15">
+          <content>The organization has warned against paying heed to any old wives&amp;apost; tales about potential treatments:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="16">
+          <content>&amp;quot;A lot of rumours on social media claiming certain products, practices can prevent or cure #Ebola.</content>
+        </sentence>
+        <sentence id="17">
+          <content>They are false, their use can be dangerous,&amp;quot; it tweeted Tuesday.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="18">
+          <content>Earlier this year, at the start of the outbreak, a team from Medecins Sans Frontieres (MSF), also known as Doctors Without Borders, had to stop working in one isolation ward in Guinea because local residents mistakenly believed they had brought the virus with them.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="19">
+          <content>It&amp;apost;s a common misconception which makes the work of medical staff harder than it already is, MSF&amp;apost;s Dr. Marc Forget told CNN: &amp;quot;[When we decontaminate houses] they think we are spreading the disease, so some villages just shut down their access, they put trees on the roads.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="20">
+          <content>He says groups from MSF, the Red Cross and the Ministry of Health have also been pelted with rocks as they try to reach Ebola-hit areas.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="21">
+          <content>Elbagir says the region&amp;apost;s recent history of bloody civil war also feeds the rumor-mill, with some claiming that the fact the army has been deployed to stop people dumping bodies in the streets is a sign the government is deliberately infecting people in order to have an excuse to enforce martial law.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="22">
+          <content>Why are they proving so hard to dispel?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="23">
+          <content>According to Nima Elbagir widespread suspicion of authority, coupled with a lack of basic infrastructure mean that educating people about how to avoid infection is extremely difficult.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="24">
+          <content>&amp;quot;These are very remote places in countries still bearing the scars of war [in Liberia and Sierra Leone] - people are already traumatized and there is a lot of distrust to be overcome: when the government says something, people don&amp;apost;t necessarily believe it,&amp;quot; she says.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="25">
+          <content>&amp;quot;There aren&amp;apost;t enough doctors and healthcare workers - people just aren&amp;apost;t used to seeing them in their communities, and so they aren&amp;apost;t the figures of authority that they are elsewhere.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="26">
+          <content>Elbagir said the practise of quarantining whole areas &amp;quot;almost like the plague villages of the Middle Ages,&amp;quot; had also led to anger and mistrust as entire communities were cut off from vital supplies.</content>
+        </sentence>
+        <sentence id="27">
+          <content>&amp;quot;People say &amp;apost;We&amp;apost;re going to die of hunger before we die of Ebola!&amp;apost;&amp;quot;</content>
+        </sentence>
+        <sentence id="28">
+          <content>she said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="29">
+          <content>The World Food Programme says it is working to &amp;quot;provide food assistance to around one million people living in restricted access areas in the three affected countries&amp;quot; in an attempt to &amp;quot;stabilize affected communities by limiting unnecessary movement and enabling them to cope with lost livelihoods.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="30">
+          <content>&amp;quot;Emergency food aid is essential to enable people to follow strict quarantine rules, and to help people affected by the shock to recover socially and economically,&amp;quot; Elisabeth Faure, WFP Guinea&amp;apost;s country director said in a statement on the WFP&amp;apost;s website.</content>
+        </sentence>
+        <sentence id="31">
+          <content>&amp;quot;We are doing everything we can to continue delivering food to people in need in time.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="32">
+          <content>What can be done to counter the problem?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="33">
+          <content>Those working to counteract the spread of Ebola say better health education is needed, to raise awareness of the virus, explain how it is spread and what can be done about it.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="34">
+          <content>To do that, they desperately need more people on the ground in the remote regions of West Africa which have been hardest hit by the disease.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="35">
+          <content>Forget says the only way to be sure the information is getting through is to pass it on personally.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="36">
+          <content>&amp;quot;We need to go to the thousands of small villages and repeat the message on and on, because there are no radios, no TV there,&amp;quot; he explains.</content>
+        </sentence>
+        <sentence id="37">
+          <content>&amp;quot;It has to be one by one contact that needs to be done through the chiefs, the local authorities, the youth.</content>
+        </sentence>
+        <sentence id="38">
+          <content>It is time-consuming and very difficult.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="39">
+          <content>&amp;quot;We have about 250 community health workers going village by village to give the right message to the population,&amp;quot; says Anja Wolz, MSF&amp;apost;s emergency coordinator in Kailakun, Sierra Leone.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="40">
+          <content>&amp;quot;Because still we have unsafe burials, done without disinfection, still we have patients who are hiding themselves, still we have patients, or contacts of patients who are running away because they are afraid.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="34">
+      <sentences>
+        <sentence id="41">
+          <content>How do people react to Ebola survivors?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="35">
+      <sentences>
+        <sentence id="42">
+          <content>Elbagir says those &amp;quot;lucky&amp;quot; enough to survive the disease frequently find that the stigma attached to Ebola means they are ostracized once they recover.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="36">
+      <sentences>
+        <sentence id="43">
+          <content>&amp;quot;They find it very difficult to come back to their communities and be accepted, because people just don&amp;apost;t believe that they have been cured,&amp;quot; she explains.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="37">
+      <sentences>
+        <sentence id="44">
+          <content>&amp;quot;There&amp;apost;s a lot of superstition, a belief that Ebola is almost a &amp;apost;curse&amp;apost; and that makes it much more difficult to deal with.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="2688" link="http://cnn.com/2013/04/03/world/meast/saudi-arabia-paralysis-case" date_published="2013-04-03 10:30:27" category="world" author="Mohammed Jamjoom, CNN" highlights_mapped="true" mapping_error="false">
+  <title>Reported Saudi paralysis sentence &amp;apost;outrageous,&amp;apost; rights group says</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="5">A Saudi court has sentenced a man to be paralyzed if he can&amp;apost;t pay compensation, media say.</sentence>
+      <sentence id="2" ids_article_sentences="4">The man stabbed and paralyzed his friend 10 years ago, the Saudi Gazette says.</sentence>
+      <sentence id="3" ids_article_sentences="12">Amnesty International says the reported sentence would be torture if carried out.</sentence>
+      <sentence id="4" ids_article_sentences="11">The Saudi Justice Ministry has not responded to requests for comment on the case.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-12-16 00:25:44" annotation_time="63.854004">
+      <sentence id="4" ids_highlights="2">The Saudi Gazette, an English language daily paper, reported that Ali Al-Khawahir was 14 when he stabbed and paralyzed his best friend 10 years ago.</sentence>
+      <sentence id="5" ids_highlights="1">Al-Khawahir, who has been in prison ever since, has been sentenced to be paralyzed if he cannot come up with one million Saudi Riyals ($266,000) in compensation to be paid to the victim, the newspaper reported.</sentence>
+      <sentence id="11" ids_highlights="4">Despite repeated attempts, the Saudi Justice Ministry could not be reached for comment on the case.</sentence>
+      <sentence id="12" ids_highlights="3">&amp;quot;If implemented, the paralysis sentence would contravene the U.N. Convention against Torture to which Saudi Arabia is a state party and the Principles of Medical Ethics adopted by the UN General Assembly,&amp;quot; Amnesty International said.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Rights group Amnesty International has condemned a reported Saudi court ruling sentencing a man to be paralyzed as retribution for having paralyzed another man as &amp;quot;outrageous.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>In a statement issued Tuesday, the rights group called the punishment &amp;quot;torture,&amp;quot; adding that it &amp;quot;should on no account be carried out.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="3">
+          <content>Local media reports about the case surfaced over the weekend.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="4">
+          <content>The Saudi Gazette, an English language daily paper, reported that Ali Al-Khawahir was 14 when he stabbed and paralyzed his best friend 10 years ago.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="5">
+          <content>Al-Khawahir, who has been in prison ever since, has been sentenced to be paralyzed if he cannot come up with one million Saudi Riyals ($266,000) in compensation to be paid to the victim, the newspaper reported.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="6">
+          <content>CNN cannot independently verify the reports.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="7">
+          <content>&amp;quot;Paralyzing someone as punishment for a crime would be torture,&amp;quot; said Ann Harrison, Amnesty International&amp;apost;s Middle East and North Africa deputy director.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="8">
+          <content>&amp;quot;That such a punishment might be implemented is utterly shocking, even in a context where flogging is frequently imposed as a punishment for some offenses, as happens in Saudi Arabia.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="9">
+          <content>The rights group calls this an example of a &amp;quot;qisas,&amp;quot; or retribution, case, adding that &amp;quot;other sentences passed have included eye-gouging, tooth extraction, and death in cases of murder.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="10">
+          <content>&amp;quot;In such cases, the victim can demand the punishment be carried out, request financial compensation or grant a conditional or unconditional pardon.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="11">
+          <content>Despite repeated attempts, the Saudi Justice Ministry could not be reached for comment on the case.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="12">
+          <content>&amp;quot;If implemented, the paralysis sentence would contravene the U.N. Convention against Torture to which Saudi Arabia is a state party and the Principles of Medical Ethics adopted by the UN General Assembly,&amp;quot; Amnesty International said.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="13">
+          <content>This is not the first time a &amp;quot;paralysis as punishment&amp;quot; sentence has made headlines in Saudi Arabia.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="14">
+          <content>In 2010, local media reported the case of a 22-year-old man who was paralyzed in a fight, saying he had subsequently requested paralysis as punishment for the man he&amp;apost;d fought with.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="15">
+          <content>After the initial reports, the Saudi Ministry of Justice denied that paralysis had ever been considered as punishment in that case.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

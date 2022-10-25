@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="998" link="http://www.cnn.com/2012/12/21/politics/btn-guns-and-mental-health/index.html" date_published="2012-12-21 20:39:28" category="politics" author="Amy Roberts, CNN Library" highlights_mapped="true" mapping_error="false">
+  <title>By the numbers: Guns and mental health</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="3">Mental illness has been a common thread in past U.S. shootings.</sentence>
+      <sentence id="2" ids_article_sentences="5">There are 310 million non-military firearms in the U.S.</sentence>
+      <sentence id="3" ids_article_sentences="12">In 2009, 11,493 homicides were committed using a firearm in the U.S.</sentence>
+      <sentence id="4" ids_article_sentences="22">States can submit mental health records into a federal database used for background checks.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-08-26 18:37:18" annotation_time="155.00299">
+      <sentence id="3" ids_highlights="1">While CNN has not confirmed that Lanza was mentally ill, mental illness has been a common thread in many of the mass shootings in the last 60 years.</sentence>
+      <sentence id="5" ids_highlights="2">310 million - Total number of non-military firearms in the U.S. .</sentence>
+      <sentence id="12" ids_highlights="3">11,493 - Homicides by firearm in 2009.</sentence>
+      <sentence id="22" ids_highlights="4">23 - States (plus Washington, D.C.) that have submitted fewer than 100 mental health records to the National Instant Criminal Background Check System since it was created in 1999.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>A week after Adam Lanza opened fire on Sandy Hook Elementary school, murdering 20 children, six school employees and his own mother before taking his life, the nation is left asking, &amp;quot;Why?&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>On response is to explore Lanza&amp;apost;s mental health.</content>
+        </sentence>
+        <sentence id="3">
+          <content>While CNN has not confirmed that Lanza was mentally ill, mental illness has been a common thread in many of the mass shootings in the last 60 years.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Here&amp;apost;s a look -- by the numbers -- at guns and mental health:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="5">
+          <content>310 million - Total number of non-military firearms in the U.S. .</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="6">
+          <content>37 - Percentage of Americans who supported major restrictions on gun ownership according to a CNN/ORC poll from December 17.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="7">
+          <content>15 - Percentage of Americans who felt all guns should be illegal according to the same CNN poll.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="8">
+          <content>47 - Percentage of Americans who supported major restrictions or felt all guns should be illegal according to an earlier CNN poll from August.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="9">
+          <content>47 - Percentage of Americans who told Gallup in 2011 that they had at least one gun at home.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="10">
+          <content>At least $1,500 - Retail price of a &amp;quot;higher-end&amp;quot; shotgun or rifle.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="11">
+          <content>16,799 - Homicides in the United States in 2009.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="12">
+          <content>11,493 - Homicides by firearm in 2009.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="13">
+          <content>26.2 - Percent of adults in the U.S. who &amp;quot;suffer from a diagnosable mental disorder in a given year,&amp;quot; according to the National Institute of Mental Health.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="14">
+          <content>6 - Percent of U.S. adults who have a serious mental illness.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="15">
+          <content>3.4 - Percentage of non-institutionalized adults with &amp;quot;serious psychological distress&amp;quot; in the past month, according to the 2011 data from the CDC.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="16">
+          <content>62 - Mass shootings in the United States since 1982.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="17">
+          <content>49 - Cases where the shooter obtained the murder weapon legally.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="18">
+          <content>68 - Total of semiautomatic weapons used by the shooters, from of a total of 142 firearms.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="19">
+          <content>24 - Percentage of Americans who said in 2011 they felt that mass shootings could be prevented by stricter gun control laws.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="20">
+          <content>44 - States (plus District of Columbia) with laws regarding the ability of a mentally ill person to possess a firearm.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="21">
+          <content>15 - Percent of those who felt that a good preventative measure would be better mental health screenings.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="22">
+          <content>23 - States (plus Washington, D.C.) that have submitted fewer than 100 mental health records to the National Instant Criminal Background Check System since it was created in 1999.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="23">
+          <content>186,068 - Background checks conducted in Connecticut in 2011 using the NICS system.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="24">
+          <content>6,103 - Potential gun sales in 2010 rejected after a background check indicated mental health issues.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="25">
+          <content>58 - Percentage polled in 2011 after the shootings in Tucson, Arizona, that felt mass shootings were mainly isolated events carried out by &amp;quot;troubled individuals.&amp;quot;</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="26">
+          <content>44 - Percentage of those who felt that way after the Sandy Hook shootings.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

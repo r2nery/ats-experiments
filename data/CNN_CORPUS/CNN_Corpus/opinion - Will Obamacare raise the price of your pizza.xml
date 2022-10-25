@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="950" link="http://www.cnn.com/2012/08/09/opinion/carroll-health-care-act/index.html" date_published="2012-08-09 17:54:07" category="opinion" author="Aaron E. Carroll, Special to CNN" highlights_mapped="true" mapping_error="false" mapping_error_divergence_mapping="false">
+  <title>Will Obamacare raise the price of your pizza?</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="1">Papa John&amp;apost;s Pizza&amp;apost;s CEO said the Affordable Care Act will raise the cost of his pizza.</sentence>
+      <sentence id="2" ids_article_sentences="20">No one thinks government spending is free, says Dr. Aaron E. Carroll.</sentence>
+      <sentence id="3" ids_article_sentences="25">Even Americans who get their insurance from their employers pay for their care, he says.</sentence>
+      <sentence id="4" ids_article_sentences="64">Carroll: More expensive pizza is a tiny price to pay for the benefits of health care reform.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-19 10:25:27" annotation_time="178.86732" mapping_time_divergence="44.71683">
+      <sentence id="1" ids_highlights="1">Last week, John Schnatter, the founder and CEO of Papa John&amp;apost;s Pizza, announced that the Affordable Care Act will raise the cost of his pizza 11 to 14 cents each, or 15 to 20 cents per order.</sentence>
+      <sentence id="20" ids_highlights="2">No one thinks government spending is free.</sentence>
+      <sentence id="25" ids_highlights="3">Even Americans who get their insurance from their employers pay for their care.</sentence>
+      <sentence id="64" ids_highlights="4">If the downside of this is that my pizza costs 20 cents more, that seems a pretty small price to pay.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Last week, John Schnatter, the founder and CEO of Papa John&amp;apost;s Pizza, announced that the Affordable Care Act will raise the cost of his pizza 11 to 14 cents each, or 15 to 20 cents per order.</content>
+        </sentence>
+        <sentence id="2">
+          <content>This has caused some to gloat that Obamacare won&amp;apost;t be &amp;quot;free&amp;quot; after all but will be passed down to consumers in the form of higher prices.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="3">
+          <content>Well, duh.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>For the sake of this discussion, I&amp;apost;m going to ignore the fact that Schnatter is a supporter and fundraiser for Mitt Romney, and take him at his word.</content>
+        </sentence>
+        <sentence id="5">
+          <content>I&amp;apost;m also going to assume that his numbers are not inflated at all but represent an accurate representation of what will happen in 2014.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>Still -- this isn&amp;apost;t news.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>Let&amp;apost;s start with the idea, espoused by many who oppose the law, that there is some expectation from those that support the law that health care is &amp;quot;free.&amp;quot;</content>
+        </sentence>
+        <sentence id="8">
+          <content>It&amp;apost;s not, and no one I know defends it as such.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="9">
+          <content>It costs a lot of money to enact the law: The most recent estimate is well over a trillion dollars over the next decade.</content>
+        </sentence>
+        <sentence id="10">
+          <content>It is referred to as deficit-reducing, however, because it lowers spending in other areas or collects new revenue, such that its costs are more than paid for.</content>
+        </sentence>
+        <sentence id="11">
+          <content>But no one should think that it doesn&amp;apost;t cost money.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="12">
+          <content>Moreover, no one should think that individuals won&amp;apost;t pay for the law.</content>
+        </sentence>
+        <sentence id="13">
+          <content>Of course they will.</content>
+        </sentence>
+        <sentence id="14">
+          <content>Everything the government does is paid for by individual Americans, including the Affordable Care Act.</content>
+        </sentence>
+        <sentence id="15">
+          <content>That&amp;apost;s what taxes are for.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="16">
+          <content>Some may try to argue that more than half of Americans don&amp;apost;t pay any taxes, but they are referring only to federal income tax.</content>
+        </sentence>
+        <sentence id="17">
+          <content>Those people still pay payroll taxes, sales taxes, state income taxes, excise taxes and more.</content>
+        </sentence>
+        <sentence id="18">
+          <content>When you add all of those up, it turns out that nearly everyone pays taxes.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="19">
+          <content>We&amp;apost;re all paying for the Affordable Care Act, just as we all pay for defense spending, we all pay for Medicaid, and we all pay for Social Security.</content>
+        </sentence>
+        <sentence id="20">
+          <content>No one thinks government spending is free.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="21">
+          <content>Uninsured Americans who get private insurance in the exchanges are going to pay even more.</content>
+        </sentence>
+        <sentence id="22">
+          <content>Even those receiving the largest subsidies will still have to pay for some of their premiums, along with additional out-of-pocket costs.</content>
+        </sentence>
+        <sentence id="23">
+          <content>As people earn more, their share of health care spending goes up, too.</content>
+        </sentence>
+        <sentence id="24">
+          <content>They all pay.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="25">
+          <content>Even Americans who get their insurance from their employers pay for their care.</content>
+        </sentence>
+        <sentence id="26">
+          <content>No one should be under the illusion that their &amp;quot;bosses&amp;quot; are generously picking up the tab.</content>
+        </sentence>
+        <sentence id="27">
+          <content>There are many studies that show that premiums and wages offset one another.</content>
+        </sentence>
+        <sentence id="28">
+          <content>Employees (read: individuals) pay for their health insurance themselves through lower wages.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="29">
+          <content>So let&amp;apost;s stop attacking the Affordable Care Act because it will mean that we -- meaning individual Americans -- are paying for health care.</content>
+        </sentence>
+        <sentence id="30">
+          <content>We always do.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="31">
+          <content>Let&amp;apost;s circle back around to Papa John&amp;apost;s, though.</content>
+        </sentence>
+        <sentence id="32">
+          <content>Part of what the act does is mandate that companies start providing health insurance to their employees or pay a penalty.</content>
+        </sentence>
+        <sentence id="33">
+          <content>Since some don&amp;apost;t do that already, this will cost them money.</content>
+        </sentence>
+        <sentence id="34">
+          <content>They could take this out of profits or reduce the salaries of their executives, but they will probably do what every business does: They&amp;apost;ll pass it on to the consumer.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="35">
+          <content>This is as it should be.</content>
+        </sentence>
+        <sentence id="36">
+          <content>Some companies probably keep costs down by not providing comprehensive health benefits to their employees.</content>
+        </sentence>
+        <sentence id="37">
+          <content>Now, they will have to.</content>
+        </sentence>
+        <sentence id="38">
+          <content>I imagine some companies already do, which probably increases their costs, and now they will be on a more level playing field.</content>
+        </sentence>
+        <sentence id="39">
+          <content>Regardless, Papa John&amp;apost;s is telling you that people who order its pizza will now bear the cost of its employees&amp;apost; health insurance.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="40">
+          <content>Again -- as it should be!</content>
+        </sentence>
+        <sentence id="41">
+          <content>Should people who don&amp;apost;t order Papa John&amp;apost;s pizza have to pay for that insurance?</content>
+        </sentence>
+        <sentence id="42">
+          <content>That&amp;apost;s what&amp;apost;s happening now.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="43">
+          <content>In 2004, for instance, more than half of Wal-Mart employees (PDF) did not get health care coverage through their jobs.</content>
+        </sentence>
+        <sentence id="44">
+          <content>More than a quarter of children of Wal-Mart employees therefore got their insurance through Medicaid or SCHIP.</content>
+        </sentence>
+        <sentence id="45">
+          <content>That means Wal-Mart didn&amp;apost;t pay for their health insurance; taxpayers did.</content>
+        </sentence>
+        <sentence id="46">
+          <content>Moreover, every time an uninsured employee had to go to an emergency department and receive uncompensated care, who paid for that?</content>
+        </sentence>
+        <sentence id="47">
+          <content>The rest of us.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="48">
+          <content>Things got so bad that Maryland passed a law in 2006 that pretty much targeted Wal-Mart to demand that it spend 8% of payroll on health benefits or pay the difference to Medicaid.</content>
+        </sentence>
+        <sentence id="49">
+          <content>Yes, Wal-Mart might have had to raise its prices a bit to cover that.</content>
+        </sentence>
+        <sentence id="50">
+          <content>But doesn&amp;apost;t it make more sense for those who choose to shop at Wal-Mart to foot the bill, than for everyone, including those who don&amp;apost;t, to have to pay for its employees&amp;apost; health care?</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="51">
+          <content>You may believe that we, as a country, shouldn&amp;apost;t pay for care for the uninsured.</content>
+        </sentence>
+        <sentence id="52">
+          <content>But most of us are unwilling to let the sick, especially children, suffer.</content>
+        </sentence>
+        <sentence id="53">
+          <content>So we -- individual Americans -- have been paying for this health care, saving those companies money, regardless of whether we availed ourselves of their services.</content>
+        </sentence>
+        <sentence id="54">
+          <content>No longer.</content>
+        </sentence>
+        <sentence id="55">
+          <content>Under the Affordable Care Act, those costs will be the responsibility of those businesses and eventually their customers.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="56">
+          <content>One last point.</content>
+        </sentence>
+        <sentence id="57">
+          <content>My kids happen to love Papa John&amp;apost;s.</content>
+        </sentence>
+        <sentence id="58">
+          <content>Some Saturdays, when my wife and I go out, they will order pizza from there.</content>
+        </sentence>
+        <sentence id="59">
+          <content>The usual delivery runs about $20.</content>
+        </sentence>
+        <sentence id="60">
+          <content>According to Schnatter, the cost of health insurance to his employees might raise the price about 1%.</content>
+        </sentence>
+        <sentence id="61">
+          <content>If it had gone up twice that because of a pepperoni shortage, I doubt it would have made the news at all.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="62">
+          <content>More than 30 million Americans will get insurance under the Affordable Care Act.</content>
+        </sentence>
+        <sentence id="63">
+          <content>Tens of millions more will be protected from underinsurance, annual and lifetime limits, and unfair price increases.</content>
+        </sentence>
+        <sentence id="64">
+          <content>If the downside of this is that my pizza costs 20 cents more, that seems a pretty small price to pay.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="65">
+          <content>Follow us on Twitter @CNNOpinion.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="66">
+          <content>Join us on Facebook/CNNOpinion.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>

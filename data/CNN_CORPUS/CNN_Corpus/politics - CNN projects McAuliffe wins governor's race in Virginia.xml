@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="1030" link="http://www.cnn.com/2013/11/05/politics/election-2013/index.html" date_published="2013-11-05 08:23:30" category="politics" author="Paul Steinhauser, Ashley Killough and Dan Merica, CNN" highlights_mapped="true" mapping_error="false">
+  <title>CNN projects: McAuliffe wins governor&amp;apost;s race in Virginia</title>
+  <keywords />
+  <summaries>
+    <highlights>
+      <sentence id="1" ids_article_sentences="19">NEW: The establishment candidate beat the tea party candidate in Alabama primary runoff.</sentence>
+      <sentence id="2" ids_article_sentences="1">Democrat Terry McAuliffe defeats Ken Cuccinelli in race for Virginia governor, CNN projects.</sentence>
+      <sentence id="3" ids_article_sentences="8">Bill de Blasio heads toward becoming first Democrat to lead NYC in 20 years.</sentence>
+      <sentence id="4" ids_article_sentences="11">Chris Christie easily takes another term as New Jersey governor.</sentence>
+    </highlights>
+    <gold_standard annotation_date="2014-11-11 09:57:24" annotation_time="37.926666">
+      <sentence id="1" ids_highlights="2">Democrat Terry McAuliffe, buoyed by strong results from voters in Northern Virginia, has defeated Republican Attorney General Ken Cuccinelli in the race for Virginia&amp;apost;s governor, CNN projects.</sentence>
+      <sentence id="8" ids_highlights="3">Democrat Bill de Blasio has defeated Republican nominee Joe Lhota in the race for mayor of New York City, CNN projects, making the public advocate the first Democrat to lead the nation&amp;apost;s largest city in 20 years.</sentence>
+      <sentence id="11" ids_highlights="4">Earlier Tuesday night, in another long-predicted result, New Jersey Gov. Chris Christie won four more years leading the Garden State by defeating Democratic state Sen. Barbara Buono in the state&amp;apost;s gubernatorial race.</sentence>
+      <sentence id="19" ids_highlights="1">And as a more moderate Republican won in New Jersey and a conservative Republican lost in Virginia, the establishment candidate defeated the tea party candidate in a Republican primary runoff for a congressional seat from Alabama&amp;apost;s 1st district.</sentence>
+    </gold_standard>
+  </summaries>
+  <article>
+    <paragraph id="1">
+      <sentences>
+        <sentence id="1">
+          <content>Democrat Terry McAuliffe, buoyed by strong results from voters in Northern Virginia, has defeated Republican Attorney General Ken Cuccinelli in the race for Virginia&amp;apost;s governor, CNN projects.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="2">
+      <sentences>
+        <sentence id="2">
+          <content>While both campaigns took on national issues, such as the partial government shutdown earlier this year and the health care law&amp;apost;s flawed rollout, the race was nasty from the outset and devolved into incessant mudslinging and personal attacks.</content>
+        </sentence>
+        <sentence id="3">
+          <content>Voters throughout the commonwealth of Virginia were bombarded by negative ads.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="3">
+      <sentences>
+        <sentence id="4">
+          <content>Libertarian Robert Sarvis, a third-party candidate, has pulled in 7% of the vote with more than 90% of the vote counted.</content>
+        </sentence>
+        <sentence id="5">
+          <content>That&amp;apost;s a significant chunk when the Republican and Democratic candidates are so close.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="4">
+      <sentences>
+        <sentence id="6">
+          <content>McAuliffe will succeed Republican Gov. Bob McDonnell, who&amp;apost;s not running for re-election because Virginia governors cannot serve consecutive terms.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="5">
+      <sentences>
+        <sentence id="7">
+          <content>What might make results from Virginia -- along with races including a gubernatorial contest in New Jersey, a race for mayor in New York City and a primary battle for a U.S. House seat in Alabama -- most interesting is what they may tell us about 2014 midterms and the 2016 race for the White House.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="6">
+      <sentences>
+        <sentence id="8">
+          <content>Democrat Bill de Blasio has defeated Republican nominee Joe Lhota in the race for mayor of New York City, CNN projects, making the public advocate the first Democrat to lead the nation&amp;apost;s largest city in 20 years.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="7">
+      <sentences>
+        <sentence id="9">
+          <content>After de Blasio won the Democratic nomination in a crowded and circus-like field earlier this year, the liberal Democrat&amp;apost;s victory in the general election was never in question.</content>
+        </sentence>
+        <sentence id="10">
+          <content>All polls going into the election had de Blasio defeating Lhota in a landslide, with one released Monday indicating de Blasio was ahead of Lhota with likely voters by more than 40%.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="8">
+      <sentences>
+        <sentence id="11">
+          <content>Earlier Tuesday night, in another long-predicted result, New Jersey Gov. Chris Christie won four more years leading the Garden State by defeating Democratic state Sen. Barbara Buono in the state&amp;apost;s gubernatorial race.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="9">
+      <sentences>
+        <sentence id="12">
+          <content>Christie&amp;apost;s victory became a forgone conclusion long before polls closed in New Jersey, as public opinion polls for months have indicated the tough-talking Republican headliner was far ahead of his Democratic challenger.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="10">
+      <sentences>
+        <sentence id="13">
+          <content>There are national implications to the race, too.</content>
+        </sentence>
+        <sentence id="14">
+          <content>With Christie considering a run for the GOP presidential nomination in 2016, his re-election campaign is seen as a tuneup or stepping stone for that likely White House bid.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="11">
+      <sentences>
+        <sentence id="15">
+          <content>According to CNN exit polls of New Jersey voters, Christie performed well with groups that normally cast ballots for Democrats.</content>
+        </sentence>
+        <sentence id="16">
+          <content>Early exit polls indicate the GOP governor grabbing 56% of the female vote, and winning all age groups other than those 18-29.</content>
+        </sentence>
+        <sentence id="17">
+          <content>Christie also took a fifth of the African-American vote and 45% of Latinos, a much better performance than most Republicans in recent elections.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="12">
+      <sentences>
+        <sentence id="18">
+          <content>Virginia and New Jersey are the only two states that hold elections for governor in the year after a presidential contest.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="13">
+      <sentences>
+        <sentence id="19">
+          <content>And as a more moderate Republican won in New Jersey and a conservative Republican lost in Virginia, the establishment candidate defeated the tea party candidate in a Republican primary runoff for a congressional seat from Alabama&amp;apost;s 1st district.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="14">
+      <sentences>
+        <sentence id="20">
+          <content>Bradley Byrne, a former state senator, defeated businessman Dean Young in the race, according to CNN projections.</content>
+        </sentence>
+        <sentence id="21">
+          <content>The contest was seen as a precursor to more intraparty fights ahead in primary elections for the 2014 midterms and was the first time Republican voters could weigh in on which direction they want to take their party after the partial federal government shutdown in October.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="15">
+      <sentences>
+        <sentence id="22">
+          <content>Here&amp;apost;s a closer look at some of the night&amp;apost;s most interesting races and ballot measures:.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="16">
+      <sentences>
+        <sentence id="23">
+          <content>A nasty race in purple Virginia.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="17">
+      <sentences>
+        <sentence id="24">
+          <content>The McAuliffe and Cuccinelli campaigns engaged in nasty political warfare that took over the airwaves in Virginia.</content>
+        </sentence>
+        <sentence id="25">
+          <content>McAuliffe made sure women were aware of Cuccinelli&amp;apost;s support of &amp;quot;personhood&amp;quot; legislation that critics say restricts abortion and some forms of birth control, while Cuccinelli frequently highlighted federal investigations of an electric car company that McAuliffe co-founded.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="18">
+      <sentences>
+        <sentence id="26">
+          <content>Both sides also attempted to frame the race as a referendum on larger national issues.</content>
+        </sentence>
+        <sentence id="27">
+          <content>Cuccinelli&amp;apost;s supporters argued a vote against McAuliffe was a vote against Obamacare.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="19">
+      <sentences>
+        <sentence id="28">
+          <content>McAuliffe and Democrats pinned Cuccinelli as a tea party activist, linking him to conservative lawmakers in Washington who initiated a strategy that eventually led to last month&amp;apost;s government shutdown.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="20">
+      <sentences>
+        <sentence id="29">
+          <content>What Christie&amp;apost;s 2013 re-election bid tells us about 2016.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="21">
+      <sentences>
+        <sentence id="30">
+          <content>Christie performed well with groups that normally cast ballots for Democrats.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="22">
+      <sentences>
+        <sentence id="31">
+          <content>Early exit polls indicate the GOP governor grabbing 55% of the female vote, and winning all age groups other than those 18 to 29.</content>
+        </sentence>
+        <sentence id="32">
+          <content>Christie also took one fifth of the African-American vote and half of the Latino vote, a much better performance than most Republicans in recent elections.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="23">
+      <sentences>
+        <sentence id="33">
+          <content>NYC picks first Democratic mayor in a generation.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="24">
+      <sentences>
+        <sentence id="34">
+          <content>At the center of the race were disagreements over taxes and the city&amp;apost;s controversial &amp;quot;stop-and-frisk&amp;quot; program backed by incumbent Mayor Michael Bloomberg.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="25">
+      <sentences>
+        <sentence id="35">
+          <content>De Blasio campaigned on a promise to raise taxes on those earning more than $500,000 a year to pay for universal prekindergarten, an idea Lhota vehemently opposed.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="26">
+      <sentences>
+        <sentence id="36">
+          <content>While Lhota painted himself as a fiscal conservative, he sought distance from national Republicans on social issues by reiterating his support of abortion rights and same-sex marriage.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="27">
+      <sentences>
+        <sentence id="37">
+          <content>Deep-pocketed Republicans pick winner in Alabama.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="28">
+      <sentences>
+        <sentence id="38">
+          <content>Byrne, the establishment candidate, far outraised Young, the tea party candidate, thanks to major help from the business wing of the party, including the Chamber of Commerce.</content>
+        </sentence>
+        <sentence id="39">
+          <content>He also garnered endorsements from establishment figures, including several Republican House leaders.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="29">
+      <sentences>
+        <sentence id="40">
+          <content>In total, Byrne has raised nearly $700,000, with substantial donations from business community political action groups and individual business donors.</content>
+        </sentence>
+        <sentence id="41">
+          <content>Young, on the other hand, has raised $260,000 and has received donations from a political action committee run by former Nevada Republican Senate candidate Sharron Angle, a darling of the tea party movement, as well as endorsements from conservative talk show hosts Mark Levin and Erick Erickson.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="30">
+      <sentences>
+        <sentence id="42">
+          <content>However, despite that support for smaller tea party personalities, Young was largely ignored by the national tea party groups.</content>
+        </sentence>
+        <sentence id="43">
+          <content>Tea Party Express, Club For Growth and FreedomWorks -- three of the largest national tea party groups -- sat on the sidelines of the intra-party fight.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="31">
+      <sentences>
+        <sentence id="44">
+          <content>Also on the ballot.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="32">
+      <sentences>
+        <sentence id="45">
+          <content>New York is not the only major city holding a mayoral contest on Tuesday.</content>
+        </sentence>
+        <sentence id="46">
+          <content>Voters in Boston, Seattle, Detroit and Cleveland are also electing mayors.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+    <paragraph id="33">
+      <sentences>
+        <sentence id="47">
+          <content>And voters in six states will be weighing in on 31 ballot measures.</content>
+        </sentence>
+        <sentence id="48">
+          <content>Among the most interesting: genetically modified food labeling in Washington state, a proposed special marijuana tax in Colorado, secession in 11 Colorado counties and a push to raise New Jersey&amp;apost;s minimum wage to $8.25 per hour.</content>
+        </sentence>
+      </sentences>
+    </paragraph>
+  </article>
+</document>
