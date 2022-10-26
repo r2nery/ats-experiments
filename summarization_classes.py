@@ -19,7 +19,7 @@ import os
 import re
 import itertools as it
 import more_itertools as mit
-
+import nltk
 
 ROOT_DIR = os.path.dirname(os.path.abspath("__file__"))
 
@@ -114,7 +114,7 @@ class Data:
                 texts.append(" ".join(dataset[i]["article"].split()))
                 summaries.append(" ".join(dataset[i]["highlights"].split()))
                 bar()
-            self.data = pd.DataFrame(list(zip(texts, summaries)), columns=["text", "summary 0"])
+            self.data = pd.DataFrame(list(zip(texts, summaries)), columns=["text", "golden"])
             self.data = self.data.head(self.size)
             # self.data.to_csv(os.path.join(ROOT_DIR,"dataset_test.csv"), index=False)
 
@@ -122,9 +122,9 @@ class Data:
         with alive_bar(bar=None, monitor=False, stats=False, spinner="dots", title="Loading BIGPATENT..."):
             dataset = load_dataset("big_patent", "all", split="test", cache_dir=os.path.join(ROOT_DIR, "data"))
             self.data = dataset.to_pandas()
-            self.data = self.data.rename(columns={"description": "text", "abstract": "summary 0"})
+            self.data = self.data.rename(columns={"description": "text", "abstract": "golden"})
             self.data["text"] = self.data["text"].apply(lambda x: " ".join(self._clean_text(x).split()))
-            self.data["summary 0"] = self.data["summary 0"].apply(lambda x: " ".join(self._clean_text(x).split()))
+            self.data["golden"] = self.data["golden"].apply(lambda x: " ".join(self._clean_text(x).split()))
             self.data = self.data.head(self.size)
             # self.data.to_csv(os.path.join(ROOT_DIR,"dataset_test.csv"), index=False)
 
@@ -136,7 +136,7 @@ class Data:
                 texts.append(" ".join(dataset[i]["document"].split()))
                 summaries.append(" ".join(dataset[i]["summary"].split()))
                 bar()
-        self.data = pd.DataFrame(list(zip(texts, summaries)), columns=["text", "summary 0"])
+        self.data = pd.DataFrame(list(zip(texts, summaries)), columns=["text", "golden"])
         self.data = self.data.head(self.size)
         # self.data.to_csv(os.path.join(ROOT_DIR, "dataset_test.csv"), index=False)
 
@@ -153,7 +153,7 @@ class Data:
                 texts.append(" ".join(arxiv[i]["article"].split()))
                 summaries.append(" ".join(arxiv[i]["abstract"].split()))
                 bar()
-        self.data = pd.DataFrame(list(zip(texts, summaries)), columns=["text", "summary 0"])
+        self.data = pd.DataFrame(list(zip(texts, summaries)), columns=["text", "golden"])
         self.data = self.data.head(self.size)
         # self.data.to_csv(os.path.join(ROOT_DIR, "dataset_test.csv"), index=False)
 
@@ -165,7 +165,7 @@ class Data:
                 texts.append(" ".join(arxiv[i]["article"].split()))
                 summaries.append(" ".join(arxiv[i]["abstract"].split()))
                 bar()
-        self.data = pd.DataFrame(list(zip(texts, summaries)), columns=["text", "summary 0"])
+        self.data = pd.DataFrame(list(zip(texts, summaries)), columns=["text", "golden"])
         self.data = self.data.head(self.size)
         # self.data.to_csv(os.path.join(ROOT_DIR, "dataset_test.csv"), index=False)
 
@@ -177,7 +177,7 @@ class Data:
                 texts.append(" ".join(pubmed[i]["article"].split()))
                 summaries.append(" ".join(pubmed[i]["abstract"].split()))
                 bar()
-        self.data = pd.DataFrame(list(zip(texts, summaries)), columns=["text", "summary 0"])
+        self.data = pd.DataFrame(list(zip(texts, summaries)), columns=["text", "golden"])
         self.data = self.data.head(self.size)
         # self.data.to_csv(os.path.join(ROOT_DIR, "dataset_test.csv"), index=False)
 
@@ -203,7 +203,7 @@ class Data:
                         text = " ".join(text.replace(key, value).split())
                     bar()
                     texts_df = pd.concat([texts_df, pd.DataFrame({"text": [self._clean_text(text)]})], ignore_index=True)
-                    summaries_df = pd.concat([summaries_df, pd.DataFrame({"summary 0": [self._clean_text(abs_sum)]})], ignore_index=True)
+                    summaries_df = pd.concat([summaries_df, pd.DataFrame({"golden": [self._clean_text(abs_sum)]})], ignore_index=True)
                     self.data = pd.concat([texts_df, summaries_df], axis=1)
                     self.data.to_csv(os.path.join(processed_path, "CNN_Corpus_Abstractive.csv"), index=False)
                     self.data = self.data.head(self.size)
@@ -231,7 +231,7 @@ class Data:
                         text = " ".join(text.replace(key, value).split())
                     bar()
                     texts_df = pd.concat([texts_df, pd.DataFrame({"text": [self._clean_text(text)]})], ignore_index=True)
-                    summaries_df = pd.concat([summaries_df, pd.DataFrame({"summary 0": [self._clean_text(ext_sum)]})], ignore_index=True)
+                    summaries_df = pd.concat([summaries_df, pd.DataFrame({"golden": [self._clean_text(ext_sum)]})], ignore_index=True)
                     self.data = pd.concat([texts_df, summaries_df], axis=1)
                     self.data.to_csv(os.path.join(processed_path, "CNN_Corpus_Abstractive.csv"), index=False)
                     self.data = self.data.head(self.size)
@@ -243,9 +243,9 @@ class Data:
 class Method:
     def __init__(self, data_df, data_name):
         self.data_name = data_name
-        self.texts_df = data_df[["text"]].copy()
-        self.summaries_df = data_df.drop(columns=["text"])
-        self.examples_df = pd.DataFrame(columns=["method", "summary", "golden", "source"])
+        self.texts = data_df["text"].tolist()
+        self.golden_summaries = data_df["golden"].tolist()
+        self.results = pd.DataFrame(columns=["method", "summary", "golden", "source"])
         self.available_methods = [
             "SumyRandom",
             "SumyLuhn",
@@ -280,20 +280,15 @@ class Method:
             print(str(i) + ": " + method)
         print()
 
-    def save_summaries(self, name_of_file, texts_list, candidate_summaries_list):
-        dict_candidate_summaries = {"text": texts_list, "candidate summary": candidate_summaries_list}
-        candidate_summaries_df = pd.DataFrame(dict_candidate_summaries)
-        candidate_summaries_df.to_csv(name_of_file, sep=",")
-
-    def examples_to_csv(self):
+    def examples_to_csv(self, n=10000):
         if not os.path.exists(os.path.join(ROOT_DIR, "results")):
             os.makedirs(os.path.join(ROOT_DIR, "results"))
-            self.examples_df.to_csv(os.path.join(ROOT_DIR, "results", str(self.data_name) + "_examples.csv"), index=False)
+            self.results.head(n).to_csv(os.path.join(ROOT_DIR, "results", str(self.data_name) + "_examples.csv"), index=False)
         elif not os.path.exists(os.path.join(ROOT_DIR, "results", str(self.data_name) + "_examples.csv")):
-            self.examples_df.to_csv(os.path.join(ROOT_DIR, "results", str(self.data_name) + "_examples.csv"), index=False)
+            self.results.head(n).to_csv(os.path.join(ROOT_DIR, "results", str(self.data_name) + "_examples.csv"), index=False)
         else:
             old = pd.read_csv(os.path.join(ROOT_DIR, "results", str(self.data_name) + "_examples.csv"))
-            new = pd.concat([old, self.examples_df]).drop_duplicates()
+            new = pd.concat([old, self.results.head(n)]).drop_duplicates()
             new.to_csv(os.path.join(ROOT_DIR, "results", str(self.data_name) + "_examples.csv"), index=False)
 
     def run(self, the_method):
@@ -305,7 +300,7 @@ class Method:
         else:
             print("This method is not defined! Try another one.")
 
-        print(f"{len(self.candidate_summaries_list)} Summaries generated. \n")
+        print(f"{len(self.candidate_summaries)} Summaries generated. \n")
         return self.results
 
     def run_sumy(self):
@@ -322,70 +317,79 @@ class Method:
         from sumy.nlp.tokenizers import Tokenizer  # For Strings
         from sumy.parsers.html import HtmlParser
         from sumy.utils import get_stop_words
+        from nltk.tokenize import word_tokenize
+        from nltk.corpus import stopwords
+        from nltk.stem import WordNetLemmatizer
+        from collections import Counter
 
-        self.sumy_thread_count = 5000
+        nltk.download("wordnet")
+        nltk.download("omw-1.4")
+
+        def word_frequency(sentence):
+            sentence = " ".join(sentence)
+            tokens = [t.lower() for t in word_tokenize(sentence)]
+            tokens = [t for t in tokens if t not in stopwords.words("english")]
+            tokens = [t for t in tokens if t.isalpha()]
+            lemmatizer = WordNetLemmatizer()
+            tokens = [lemmatizer.lemmatize(t) for t in tokens]
+            counted = Counter(tokens)
+            word_freq = pd.DataFrame(counted.items(), columns=["word", "frequency"]).sort_values(by="frequency", ascending=False)
+            return word_freq  # ['word'][:20]
+
         the_method = self.the_method.replace("Sumy", "")
-        print(the_method) ####
-        print(get_stop_words("english")) #####
         the_summarizer = locals()[the_method + "Summarizer"]()
 
-        with alive_bar(len(self.texts_df), bar=None, spinner="dots", title="Running " + self.the_method + " Summarizer") as bar:
+        with alive_bar(len(self.texts), bar=None, spinner="dots", title="Running " + self.the_method + " Summarizer") as bar:
             summarizer_output_list = []
-            for index, row in self.texts_df.iterrows():
-                parser = PlaintextParser.from_string(row["text"], Tokenizer("english"))
-                if the_method != "EdmundsonSummarizer": #####
+            for text in self.texts:
+                parser = PlaintextParser.from_string(text, Tokenizer("english"))
+                if the_method != "Edmundson":  #####
                     summarizer_output_list.append(the_summarizer(parser.document, self.sentence_count))
                 else:
-                    the_summarizer.bonus_words=[]
-                    the_summarizer.stigma_words=[]
-                    the_summarizer.null_words=get_stop_words("english")
+                    the_summarizer.bonus_words = []
+                    the_summarizer.stigma_words = []
+                    the_summarizer.null_words = get_stop_words("english")
                     summarizer_output_list.append(the_summarizer(parser.document, self.sentence_count))
                 bar()
 
-        self.candidate_summaries_list = []
+        self.candidate_summaries = []
         for summarizer_output in summarizer_output_list:
             text_summary = ""
             for sentence in summarizer_output:
                 text_summary += str(sentence) + " "
 
-            self.candidate_summaries_list.append(text_summary)
+            self.candidate_summaries.append(text_summary)
 
-        for i in range(0, 5):
-            self.examples_df = pd.concat([self.examples_df, pd.DataFrame({"method": [self.the_method], "summary": [self.candidate_summaries_list[i]], "golden": [self.summaries_df.iloc[i, 0]], "source": [self.texts_df.iloc[i, 0]]})], ignore_index=True)
-
-        self.results = pd.concat([self.summaries_df, pd.DataFrame(self.candidate_summaries_list, columns=["candidate"])], axis=1).dropna()
+        self.results = pd.DataFrame({"summary": self.candidate_summaries, "golden": self.golden_summaries, "source": self.texts})
+        self.results.insert(0, "method", self.the_method)
 
     def run_transformers(self):
         from transformers import pipeline
         from nltk.tokenize import word_tokenize
 
         the_method = self.the_method.replace("Transformers-", "")
-        with alive_bar(len(self.texts_df), bar=None, spinner="dots", title="Running Transformers-" + the_method) as bar:
+        with alive_bar(len(self.texts), bar=None, spinner="dots", title="Running Transformers-" + the_method) as bar:
             summarizer = pipeline("summarization", model=the_method)
 
             self.aux_summaries_list = []
-            for index, row in self.texts_df.iterrows():
+            for text in self.texts:
                 length = 3000
-                while len(word_tokenize(row["text"][0:length])) > 450:
+                while len(word_tokenize(text[0:length])) > 450:
                     length -= 100
-                self.aux_summaries_list.append(summarizer(row["text"][0:length], min_length=(self.token_count - 5), max_length=(self.token_count + 5)))
+                self.aux_summaries_list.append(summarizer(text[0:length], min_length=(self.token_count - 5), max_length=(self.token_count + 5)))
                 bar()
 
-        self.candidate_summaries_list = [x[0]["summary_text"] for x in self.aux_summaries_list]
+        self.candidate_summaries = [x[0]["summary_text"] for x in self.aux_summaries_list]
 
-        for i in range(0, 5):
-            self.examples_df = pd.concat([self.examples_df, pd.DataFrame({"method": [self.the_method], "summary": [self.candidate_summaries_list[i]], "golden": [self.summaries_df.iloc[i, 0]], "source": [self.texts_df.iloc[i, 0]]})], ignore_index=True)
-
-        self.summaries_df["candidate"] = self.candidate_summaries_list
-        self.results = self.summaries_df.dropna().reset_index(drop=True)
-        print(self.results)
+        self.results = pd.DataFrame({"summary": self.candidate_summaries, "golden": self.golden_summaries, "source": self.texts})
+        self.results.insert(0, "method", self.the_method)
 
     def import_summaries(self, transformer, dataset):
         IMPORT_DIR = os.path.join(ROOT_DIR, "results", "import")
         if os.path.exists(IMPORT_DIR):
             data = pd.read_csv(os.path.join(IMPORT_DIR, dataset + "_examples.csv"))
             data = data.sort_values(by=["method"], ascending=True).reset_index(drop=True).drop("source", axis=1)
-            data = data.rename(columns={"summary": "candidate", "golden": "summary 0"})
+            # data = data.rename(columns={"summary": "candidate", "golden": "summary 0"})
             idx1 = data.method.eq("Transformers-facebook/bart-large-cnn").idxmax()
             # idx2 = data.method.eq("Transformers-google/pegasus-xsum").idxmax()
             data_t5, data_bart = data.iloc[:idx1].drop("method", axis=1), data.iloc[idx1:].drop("method", axis=1)
@@ -406,8 +410,8 @@ class Method:
 
 class Evaluator:
     def __init__(self, data_df, method, data_name):
-        self.summaries_df = data_df.drop(columns=["candidate"])
-        self.candidate_summaries_list = data_df["candidate"].to_list()
+        self.golden_summaries = data_df["golden"].tolist()
+        self.candidate_summaries = data_df["summary"].to_list()
         self.available_evaluators = ["rouge", "nltk", "gensim", "sklearn"]
         self.method = method
         self.data_name = data_name
@@ -457,18 +461,10 @@ class Evaluator:
         from rouge_metric import PyRouge
 
         def prepare_rouge():
-            number_reference_summaries_per_text = len(self.summaries_df.columns)
-            self.references, self.hypotheses = [], []
-
-            count = -1
-            for index, row in self.summaries_df.iterrows():
-                count = count + 1
-                self.hypotheses.append(self.candidate_summaries_list[count])
-                aux_references = []
-                for j in range(number_reference_summaries_per_text):
-                    if isinstance(row["summary " + str(j)], str):
-                        aux_references.append(row["summary " + str(j)])
-                self.references.append(aux_references)
+            self.references = []
+            self.hypotheses = self.candidate_summaries
+            for i in range(0, len(self.golden_summaries)):
+                self.references.append([self.golden_summaries[i]])
 
         def prepare_results_for_csv(data, method, aggregator, metric, p, r, f):
             return str(data), str(method), str(aggregator), str(metric), "{:5.2f}".format(100.0 * p), "{:5.2f}".format(100.0 * r), "{:5.2f}".format(100.0 * f)
@@ -534,21 +530,14 @@ class Evaluator:
         from nltk.metrics.scores import precision, recall, f_measure
 
         def prepare_nltk():
-            number_reference_summaries_per_text = len(self.summaries_df.columns)
             self.references, self.hypotheses = [], []
-            count = -1
-            for index, row in self.summaries_df.iterrows():
-                count = count + 1
+            for i in range(0, len(self.golden_summaries)):
                 hypothesis_split = []
-                for word in self.candidate_summaries_list[count].split():
+                for word in self.candidate_summaries[i].split():
                     hypothesis_split.append(word)
                 self.hypotheses.append(hypothesis_split)
-                full_reference = ""
                 reference_split = []
-                for j in range(number_reference_summaries_per_text):
-                    if isinstance(row["summary " + str(j)], str):
-                        full_reference += (row["summary " + str(j)]) + " "
-                for word in full_reference.split():
+                for word in self.golden_summaries[i].split():
                     reference_split.append(word)
                 self.references.append(reference_split)
 
@@ -564,7 +553,7 @@ class Evaluator:
             print()
 
         p, r, f = [], [], []
-        with alive_bar(len(self.candidate_summaries_list), title="Evaluation with NLTK...", bar=False, spinner="dots") as bar:
+        with alive_bar(len(self.candidate_summaries), title="Evaluation with NLTK...", bar=False, spinner="dots") as bar:
             prepare_nltk()
             for i in range(0, len(self.hypotheses)):
                 p.append(precision(set(self.references[i]), set(self.hypotheses[i])))
@@ -590,23 +579,14 @@ class Evaluator:
         self.gensim_thread_count = 10000
 
         def prepare_gensim():
-            number_reference_summaries_per_text = len(self.summaries_df.columns)
-            self.references = []
-            self.hypotheses = []
-
-            count = -1
-            for index, row in self.summaries_df.iterrows():
-                count = count + 1
+            self.references, self.hypotheses = [], []
+            for i in range(0, len(self.golden_summaries)):
                 hypothesis_split = []
-                for word in self.candidate_summaries_list[count].split():
+                for word in self.candidate_summaries[i].split():
                     hypothesis_split.append(word)
                 self.hypotheses.append(hypothesis_split)
-                full_reference = ""
                 reference_split = []
-                for j in range(number_reference_summaries_per_text):
-                    if isinstance(row["summary " + str(j)], str):
-                        full_reference += (row["summary " + str(j)]) + " "
-                for word in full_reference.split():
+                for word in self.golden_summaries[i].split():
                     reference_split.append(word)
                 self.references.append(reference_split)
 
@@ -625,7 +605,7 @@ class Evaluator:
             print()
 
         def run_threads():
-            with alive_bar(len(self.candidate_summaries_list), title="Evaluation with Gensim...", bar=False, spinner="dots") as bar:
+            with alive_bar(len(self.candidate_summaries), title="Evaluation with Gensim...", bar=False, spinner="dots") as bar:
 
                 def calculate_indexes(references, hypotheses, h_list, kld_list, j_list, index):
                     h, kld, j = [], [], []
@@ -684,19 +664,7 @@ class Evaluator:
         from sklearn.feature_extraction.text import TfidfVectorizer
 
         def prepare_sklearn():
-            number_reference_summaries_per_text = len(self.summaries_df.columns)
-            self.references = []
-            self.hypotheses = []
-
-            count = -1
-            for index, row in self.summaries_df.iterrows():
-                count = count + 1
-                self.hypotheses.append(self.candidate_summaries_list[count])
-                full_reference = ""
-                for j in range(number_reference_summaries_per_text):
-                    if isinstance(row["summary " + str(j)], str):
-                        full_reference += (row["summary " + str(j)]) + " "
-                self.references.append(full_reference)
+            self.references, self.hypotheses = self.golden_summaries[:], self.candidate_summaries[:]
 
         def prepare_results_for_csv(data, method, aggregator, metric, cosim):
             return str(data), str(method), str(aggregator), str(metric), "{:5.2f}".format(cosim)
@@ -710,7 +678,7 @@ class Evaluator:
             print()
 
         cosim = []
-        with alive_bar(len(self.candidate_summaries_list), title="Evaluation with Cosine Similarity...", bar=False, spinner="dots") as bar:
+        with alive_bar(len(self.candidate_summaries), title="Evaluation with Cosine Similarity...", bar=False, spinner="dots") as bar:
             prepare_sklearn()
             for i in range(0, len(self.hypotheses)):
                 Tfidf_vect = TfidfVectorizer()
@@ -728,12 +696,10 @@ class Evaluator:
 if __name__ == "__main__":
 
     corpora = [
-        "mcti_politicas"
-        # "opinosis",
-        # "cnn_dailymail",
+        "cnn_dailymail",
         # "big_patent",
         # "cnn_corpus_abstractive",
-        # "cnn_corpus_extractive",
+        "cnn_corpus_extractive",
         # "xsum",
         # "arxiv_pubmed",
         # "arxiv",
@@ -741,7 +707,7 @@ if __name__ == "__main__":
     ]
 
     summarizers = [
-        # "SumyRandom",
+        "SumyRandom",
         # "SumyLuhn",
         # "SumyLsa",
         # "SumyLexRank",
@@ -749,9 +715,10 @@ if __name__ == "__main__":
         # "SumySumBasic",
         # "SumyKL",
         # "SumyReduction",
-        "Transformers-facebook/bart-large-cnn",
+        # "SumyEdmundson"
+        # "Transformers-facebook/bart-large-cnn",
         # "Transformers-google/pegasus-xsum",
-        "Transformers-csebuetnlp/mT5_multilingual_XLSum",
+        # "Transformers-csebuetnlp/mT5_multilingual_XLSum",
     ]
 
     metrics = [
@@ -763,32 +730,18 @@ if __name__ == "__main__":
 
     ### Running methods and eval locally
 
-    # reader = Data()
-    # reader.show_available_databases()
-    # for corpus in corpora:
-    #     data = reader.read_data(corpus, 50)
-    #     method = Method(data, corpus)
-    #     method.show_methods()
-    #     for summarizer in summarizers:
-    #         df = method.run(summarizer)
-    #         method.examples_to_csv()
-    #         evaluator = Evaluator(df, summarizer, corpus)
-    #         for metric in metrics:
-    #             evaluator.run(metric)
-    #             evaluator.metrics_to_csv()
-    #         evaluator.join_all_results()
-
-    ### Importing summaries from COLAB data
-    # (generated summaries must be in /results/colab/)
-
     reader = Data()
-    data = reader.read_data("xsum", 5)
-    method = Method(data, "xsum")
+    reader.show_available_databases()
     for corpus in corpora:
+        data = reader.read_data(corpus, 50)
+        method = Method(data, corpus)
+        method.show_methods()
         for summarizer in summarizers:
-            df = method.import_summaries(summarizer, corpus)
+            df = method.run(summarizer)
+            method.examples_to_csv(10)
             evaluator = Evaluator(df, summarizer, corpus)
             for metric in metrics:
                 evaluator.run(metric)
                 evaluator.metrics_to_csv()
             evaluator.join_all_results()
+
