@@ -351,22 +351,20 @@ class Method:
 
             stigma_words = stigma_words["word"].tolist()[:n]
             bonus_words = sum_word_freq_descending["word"].tolist()[:n]
-            return bonus_words, stigma_words  # ['word'][:20]
+            return bonus_words, stigma_words 
 
         the_method = self.the_method.replace("Sumy", "")
         the_summarizer = locals()[the_method + "Summarizer"]()
 
         with alive_bar(len(self.texts), bar=None, spinner="dots", title="Running " + self.the_method + " Summarizer") as bar:
             summarizer_output_list = []
-            bonus_words, stigma_words = word_frequency(self.golden_summaries,self.texts, 0)
-            print(bonus_words)
-            print(stigma_words)
+            bonus_words, stigma_words = word_frequency(self.golden_summaries,self.texts, 10)
             for text in self.texts:
                 parser = PlaintextParser.from_string(text, Tokenizer("english"))
                 if the_method != "Edmundson":  #####
                     summarizer_output_list.append(the_summarizer(parser.document, self.sentence_count))
                 else:
-                    the_summarizer = EdmundsonSummarizer()
+                    the_summarizer = EdmundsonSummarizer(cue_weight=1, key_weight=1, title_weight=0, location_weight=0)
                     the_summarizer.bonus_words = bonus_words
                     the_summarizer.stigma_words = stigma_words
                     the_summarizer.null_words = stopwords.words("english")
