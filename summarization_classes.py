@@ -325,30 +325,51 @@ class Method:
         nltk.download("wordnet")
         nltk.download("omw-1.4")
 
-        def word_frequency(sentence):
-            sentence = " ".join(sentence)
-            tokens = [t.lower() for t in word_tokenize(sentence)]
-            tokens = [t for t in tokens if t not in stopwords.words("english")]
-            tokens = [t for t in tokens if t.isalpha()]
+        def word_frequency(summaries, texts, n=20):
             lemmatizer = WordNetLemmatizer()
-            tokens = [lemmatizer.lemmatize(t) for t in tokens]
-            counted = Counter(tokens)
-            word_freq = pd.DataFrame(counted.items(), columns=["word", "frequency"]).sort_values(by="frequency", ascending=False)
-            return word_freq  # ['word'][:20]
+            
+            summaries = " ".join(summaries)
+            sum_tokens = [t.lower() for t in word_tokenize(summaries)]
+            sum_tokens = [t for t in sum_tokens if t not in stopwords.words("english")]
+            sum_tokens = [t for t in sum_tokens if t.isalpha()]
+            # sum_tokens = [lemmatizer.lemmatize(t) for t in sum_tokens]
+            sum_counted = Counter(sum_tokens)
+            sum_word_freq_descending = pd.DataFrame(sum_counted.items(), columns=["word", "frequency sum"]).sort_values(by="frequency sum", ascending=False)
+
+            texts = " ".join(texts)
+            texts_tokens = [t.lower() for t in word_tokenize(texts)]
+            texts_tokens = [t for t in texts_tokens if t not in stopwords.words("english")]
+            texts_tokens = [t for t in texts_tokens if t.isalpha()]
+            # texts_tokens = [lemmatizer.lemmatize(t) for t in texts_tokens]
+            texts_counted = Counter(texts_tokens)
+            texts_word_freq_descending = pd.DataFrame(texts_counted.items(), columns=["word", "frequency text"]).sort_values(by="frequency text", ascending=False)
+
+            # DF_doc/DF_sum.
+            stigma_words = pd.merge(sum_word_freq_descending, texts_word_freq_descending, on ='word')
+            stigma_words["frequency"] = stigma_words["frequency text"]/stigma_words["frequency sum"]
+            stigma_words = stigma_words.sort_values(by="frequency", ascending=False)
+
+            stigma_words = stigma_words["word"].tolist()[:n]
+            bonus_words = sum_word_freq_descending["word"].tolist()[:n]
+            return bonus_words, stigma_words  # ['word'][:20]
 
         the_method = self.the_method.replace("Sumy", "")
         the_summarizer = locals()[the_method + "Summarizer"]()
 
         with alive_bar(len(self.texts), bar=None, spinner="dots", title="Running " + self.the_method + " Summarizer") as bar:
             summarizer_output_list = []
+            bonus_words, stigma_words = word_frequency(self.golden_summaries,self.texts, 0)
+            print(bonus_words)
+            print(stigma_words)
             for text in self.texts:
                 parser = PlaintextParser.from_string(text, Tokenizer("english"))
                 if the_method != "Edmundson":  #####
                     summarizer_output_list.append(the_summarizer(parser.document, self.sentence_count))
                 else:
-                    the_summarizer.bonus_words = []
-                    the_summarizer.stigma_words = []
-                    the_summarizer.null_words = get_stop_words("english")
+                    the_summarizer = EdmundsonSummarizer()
+                    the_summarizer.bonus_words = bonus_words
+                    the_summarizer.stigma_words = stigma_words
+                    the_summarizer.null_words = stopwords.words("english")
                     summarizer_output_list.append(the_summarizer(parser.document, self.sentence_count))
                 bar()
 
@@ -698,16 +719,16 @@ if __name__ == "__main__":
     corpora = [
         "cnn_dailymail",
         # "big_patent",
-        # "cnn_corpus_abstractive",
-        "cnn_corpus_extractive",
-        # "xsum",
-        # "arxiv_pubmed",
-        # "arxiv",
-        # "pubmed",
+        # # "cnn_corpus_abstractive",
+        # "cnn_corpus_extractive",
+        # # "xsum",
+        # # "arxiv_pubmed",
+        # # "arxiv",
+        # # "pubmed",
     ]
 
     summarizers = [
-        "SumyRandom",
+        # "SumyRandom",
         # "SumyLuhn",
         # "SumyLsa",
         # "SumyLexRank",
@@ -715,7 +736,7 @@ if __name__ == "__main__":
         # "SumySumBasic",
         # "SumyKL",
         # "SumyReduction",
-        # "SumyEdmundson"
+        "SumyEdmundson"
         # "Transformers-facebook/bart-large-cnn",
         # "Transformers-google/pegasus-xsum",
         # "Transformers-csebuetnlp/mT5_multilingual_XLSum",
@@ -738,7 +759,7 @@ if __name__ == "__main__":
         method.show_methods()
         for summarizer in summarizers:
             df = method.run(summarizer)
-            method.examples_to_csv(10)
+            method.examples_to_csv(5)
             evaluator = Evaluator(df, summarizer, corpus)
             for metric in metrics:
                 evaluator.run(metric)
