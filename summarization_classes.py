@@ -21,6 +21,9 @@ import itertools as it
 import more_itertools as mit
 import nltk
 
+nltk.download("wordnet")
+nltk.download("omw-1.4")
+
 ROOT_DIR = os.path.dirname(os.path.abspath("__file__"))
 
 
@@ -79,7 +82,7 @@ class Data:
         content = re.sub(r"[\u0027\u02B9\u02BB\u02BC\u02BE\u02C8\u02EE\u0301\u0313\u0315\u055A\u05F3\u07F4\u07F5\u1FBF\u2018\u2019\u2032\uA78C\uFF07]", "'", content)
         return content
 
-    def read_data(self, database_name, size):
+    def read_data(self, database_name, size=10000):
         self.database_name = database_name
         self.size = size
         self.the_data_reader = getattr(self, "read_" + database_name.lower())
@@ -193,7 +196,7 @@ class Data:
             os.makedirs(processed_path)
             with alive_bar(len(texts), title="Loading CNN Corpus (Abstractive)") as bar:
                 for file in texts:
-                    with open(os.path.join(text_path, file), "r") as f:
+                    with open(os.path.join(text_path, file), "r", encoding="utf8") as f:
                         soup = BeautifulSoup(f.read(), "xml")
                     cleanup = {"&quot;": '"', "&apost;": "'"}
                     abs_sum = soup.find("highlights").get_text()
@@ -221,7 +224,7 @@ class Data:
             os.makedirs(processed_path)
             with alive_bar(len(texts), title="Loading CNN Corpus (Extractive)") as bar:
                 for file in texts:
-                    with open(os.path.join(text_path, file), "r") as f:
+                    with open(os.path.join(text_path, file), "r", encoding="utf8") as f:
                         soup = BeautifulSoup(f.read(), "xml")
                     cleanup = {"&quot;": '"', "&apost;": "'"}
                     ext_sum = soup.find("gold_standard").get_text()
@@ -322,12 +325,9 @@ class Method:
         from nltk.stem import WordNetLemmatizer
         from collections import Counter
 
-        nltk.download("wordnet")
-        nltk.download("omw-1.4")
-
         def word_frequency(summaries, texts, n=20):
             lemmatizer = WordNetLemmatizer()
-            
+
             summaries = " ".join(summaries)
             sum_tokens = [t.lower() for t in word_tokenize(summaries)]
             sum_tokens = [t for t in sum_tokens if t not in stopwords.words("english")]
@@ -345,23 +345,24 @@ class Method:
             texts_word_freq_descending = pd.DataFrame(texts_counted.items(), columns=["word", "frequency text"]).sort_values(by="frequency text", ascending=False)
 
             # DF_doc/DF_sum.
-            stigma_words = pd.merge(sum_word_freq_descending, texts_word_freq_descending, on ='word')
-            stigma_words["frequency"] = stigma_words["frequency text"]/stigma_words["frequency sum"]
+            stigma_words = pd.merge(sum_word_freq_descending, texts_word_freq_descending, on="word")
+            stigma_words["frequency"] = stigma_words["frequency text"] / stigma_words["frequency sum"]
             stigma_words = stigma_words.sort_values(by="frequency", ascending=False)
 
             stigma_words = stigma_words["word"].tolist()[:n]
             bonus_words = sum_word_freq_descending["word"].tolist()[:n]
-            return bonus_words, stigma_words 
+            return bonus_words, stigma_words
 
         the_method = self.the_method.replace("Sumy", "")
         the_summarizer = locals()[the_method + "Summarizer"]()
 
         with alive_bar(len(self.texts), bar=None, spinner="dots", title="Running " + self.the_method + " Summarizer") as bar:
             summarizer_output_list = []
-            bonus_words, stigma_words = word_frequency(self.golden_summaries,self.texts, 10)
+            if the_method == "Edmundson":
+                bonus_words, stigma_words = word_frequency(self.golden_summaries[:200], self.texts[:200], 10)
             for text in self.texts:
                 parser = PlaintextParser.from_string(text, Tokenizer("english"))
-                if the_method != "Edmundson":  #####
+                if the_method != "Edmundson":
                     summarizer_output_list.append(the_summarizer(parser.document, self.sentence_count))
                 else:
                     the_summarizer = EdmundsonSummarizer(cue_weight=1, key_weight=1, title_weight=0, location_weight=0)
@@ -715,14 +716,14 @@ class Evaluator:
 if __name__ == "__main__":
 
     corpora = [
-        "cnn_dailymail",
+        # "cnn_dailymail",
         # "big_patent",
-        # # "cnn_corpus_abstractive",
-        # "cnn_corpus_extractive",
-        # # "xsum",
-        # # "arxiv_pubmed",
-        # # "arxiv",
-        # # "pubmed",
+        # "cnn_corpus_abstractive",
+        "cnn_corpus_extractive",
+        # "xsum",
+        # "arxiv_pubmed",
+        # "arxiv",
+        # "pubmed",
     ]
 
     summarizers = [
@@ -752,15 +753,14 @@ if __name__ == "__main__":
     reader = Data()
     reader.show_available_databases()
     for corpus in corpora:
-        data = reader.read_data(corpus, 50)
+        data = reader.read_data(corpus, 10000)
         method = Method(data, corpus)
         method.show_methods()
         for summarizer in summarizers:
             df = method.run(summarizer)
-            method.examples_to_csv(5)
+            method.examples_to_csv(2000)
             evaluator = Evaluator(df, summarizer, corpus)
             for metric in metrics:
                 evaluator.run(metric)
                 evaluator.metrics_to_csv()
             evaluator.join_all_results()
-
