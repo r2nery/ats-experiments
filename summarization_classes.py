@@ -419,7 +419,6 @@ class Method:
                 return data_bart
             elif transformer == "Transformers-google/pegasus-xsum":
                 return data_pegasus
-                pass
             else:
                 return data_t5
         else:
@@ -742,10 +741,10 @@ class Evaluator:
 if __name__ == "__main__":
 
     corpora = [
-        "cnn_dailymail",
+        # "cnn_dailymail",
         "big_patent",
-        "cnn_corpus_abstractive",
-        # "cnn_corpus_extractive",
+        # "cnn_corpus_abstractive",
+        "cnn_corpus_extractive",
         "xsum",
         "arxiv_pubmed",
         # "arxiv",
@@ -753,18 +752,18 @@ if __name__ == "__main__":
     ]
 
     summarizers = [
-        # "SumyRandom",
-        # "SumyLuhn",
+        "SumyRandom",
+        "SumyLuhn",
         # "SumyLsa",
         # "SumyLexRank",
         # "SumyTextRank",
-        # "SumySumBasic",
+        "SumySumBasic",
         # "SumyKL",
-        # "SumyReduction",
-        # "SumyEdmundson"
+        "SumyReduction",
+        "SumyEdmundson"
         # "Transformers-facebook/bart-large-cnn",
         # "Transformers-google/pegasus-xsum",
-        "Transformers-csebuetnlp/mT5_multilingual_XLSum",
+        # "Transformers-csebuetnlp/mT5_multilingual_XLSum",
     ]
 
     metrics = [
@@ -774,34 +773,34 @@ if __name__ == "__main__":
         # "sklearn",
     ]
 
-    ### Running methods and eval locally
-
-    # reader = Data()
-    # reader.show_available_databases()
-    # for corpus in corpora:
-    #     data = reader.read_data(corpus, 100)
-    #     method = Method(data, corpus)
-    #     method.show_methods()
-    #     for summarizer in summarizers:
-    #         df = method.run(summarizer)
-    #         method.examples_to_csv(0)
-    #         evaluator = Evaluator(df, summarizer, corpus)
-    #         for metric in metrics:
-    #             evaluator.run(metric)
-    #             evaluator.metrics_to_csv()
-    #         evaluator.join_all_results()
-
-    ### Importing summaries from COLAB data
-    # (generated summaries must be in /results/transformers/)
+    ## Running methods and eval locally
 
     reader = Data()
-    data = reader.read_data("xsum", 5)
-    method = Method(data, "xsum")
+    reader.show_available_databases()
     for corpus in corpora:
+        data = reader.read_data(corpus, 10000)
+        method = Method(data, corpus)
+        method.show_methods()
         for summarizer in summarizers:
-            df = method.import_summaries(summarizer, corpus)
+            df = method.run(summarizer)
+            method.examples_to_csv(0)
             evaluator = Evaluator(df, summarizer, corpus)
             for metric in metrics:
                 evaluator.run(metric)
                 evaluator.metrics_to_csv()
             evaluator.join_all_results()
+
+    # ### Importing summaries from COLAB data
+    # # (generated summaries must be in /results/transformers/)
+
+    # reader = Data()
+    # data = reader.read_data("xsum", 5)
+    # method = Method(data, "xsum")
+    # for corpus in corpora:
+    #     for summarizer in summarizers:
+    #         df = method.import_summaries(summarizer, corpus)
+    #         evaluator = Evaluator(df, summarizer, corpus)
+    #         for metric in metrics:
+    #             evaluator.run(metric)
+    #             evaluator.metrics_to_csv()
+    #         evaluator.join_all_results()
