@@ -28,13 +28,7 @@ cnn_corpus_abstractive,Transformers-csebuetnlp/mT5_multilingual_XLSum,Avg,rouge-
 cnn_corpus_abstractive,Transformers-csebuetnlp/mT5_multilingual_XLSum,Avg,rouge-w,16.5,5.93,8.58,,,,
 cnn_corpus_abstractive,Transformers-csebuetnlp/mT5_multilingual_XLSum,Avg,Gensim,,,,0.42,0.9,1.71,
 cnn_corpus_abstractive,Transformers-csebuetnlp/mT5_multilingual_XLSum,Avg,NLTK,24.14,18.73,24.14,,,,
-cnn_corpus_abstractive,Transformers-csebuetnlp/mT5_multilingual_XLSum,Avg,rouge-1,24.43,18.25,20.90,,,,
-cnn_corpus_abstractive,Transformers-csebuetnlp/mT5_multilingual_XLSum,Avg,rouge-2, 4.98, 3.65, 4.21,,,,
-cnn_corpus_abstractive,Transformers-csebuetnlp/mT5_multilingual_XLSum,Avg,rouge-3, 2.90, 2.13, 2.42,,,,
-cnn_corpus_abstractive,Transformers-csebuetnlp/mT5_multilingual_XLSum,Avg,rouge-4, 1.38, 1.00, 1.14,,,,
-cnn_corpus_abstractive,Transformers-csebuetnlp/mT5_multilingual_XLSum,Avg,rouge-l,16.32,12.25,14.00,,,,
-cnn_corpus_abstractive,Transformers-csebuetnlp/mT5_multilingual_XLSum,Avg,rouge-su4, 7.29, 5.31, 6.14,,,,
-cnn_corpus_abstractive,Transformers-csebuetnlp/mT5_multilingual_XLSum,Avg,rouge-w,16.50, 5.93, 8.58,,,,
-cnn_corpus_abstractive,Transformers-csebuetnlp/mT5_multilingual_XLSum,Avg,Gensim,,,, 0.42, 0.90, 1.71,
-cnn_corpus_abstractive,Transformers-csebuetnlp/mT5_multilingual_XLSum,Avg,NLTK,24.14,18.73,24.14,,,,
-cnn_corpus_abstractive,Transformers-csebuetnlp/mT5_multilingual_XLSum,Avg,SKLearn,,,,,,, 0.22
+cnn_corpus_abstractive,Transformers-csebuetnlp/mT5_multilingual_XLSum,Avg,SKLearn,,,,,,,0.22
+cnn_corpus_abstractive,Transformers-facebook/bart-large-cnn,Avg,Gensim,,,,0.6,0.83,0.19,
+cnn_corpus_abstractive,Transformers-google/pegasus-xsum,Avg,Gensim,,,,0.67,0.89,0.26,
+cnn_corpus_abstractive,Transformers-csebuetnlp/mT5_multilingual_XLSum,Avg,Gensim,,,, 0.62, 0.90, 0.22,

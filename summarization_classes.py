@@ -409,18 +409,16 @@ class Method:
         if os.path.exists(IMPORT_DIR):
             data = pd.read_csv(os.path.join(IMPORT_DIR, dataset + "_examples.csv"))
             data = data.sort_values(by=["method"], ascending=True).reset_index(drop=True).drop("source", axis=1)
-            # data = data.rename(columns={"summary": "candidate", "golden": "summary 0"})
             idx1 = data.method.eq("Transformers-facebook/bart-large-cnn").idxmax()
-            # idx2 = data.method.eq("Transformers-google/pegasus-xsum").idxmax()
-            data_t5, data_bart = data.iloc[:idx1].drop("method", axis=1), data.iloc[idx1:].drop("method", axis=1)
-            # data_t5, data_bart, data_pegasus = data.iloc[:idx1].drop("method", axis=1), data.iloc[idx1:idx2].drop("method", axis=1), data.iloc[idx2:].drop("method", axis=1)
+            idx2 = data.method.eq("Transformers-google/pegasus-xsum").idxmax()
+            data_t5, data_bart, data_pegasus = data.iloc[:idx1].drop("method", axis=1), data.iloc[idx1:idx2].drop("method", axis=1), data.iloc[idx2:].drop("method", axis=1)
             data_t5.head()
 
             print(f"\n{dataset}: Imported {transformer} summaries.\n")
             if transformer == "Transformers-facebook/bart-large-cnn":
                 return data_bart
             elif transformer == "Transformers-google/pegasus-xsum":
-                # return data_pegasus
+                return data_pegasus
                 pass
             else:
                 return data_t5
@@ -626,38 +624,37 @@ class Evaluator:
 
         def generate_freqdist(references, hypotheses):
             norm = NormModel()
-            ref_hyp = references[0]+hypotheses[0]
+            ref_hyp = references[0] + hypotheses[0]
             ref_hyp_dict = HashDictionary([ref_hyp])
-            ref_hyp_doc2bow = ref_hyp_dict.doc2bow(ref_hyp)
-            ref_hyp_doc2bow = [(i[0], 0) for i in ref_hyp_doc2bow]
-            ref_doc2bow_base = [ref_hyp_dict.doc2bow(text) for text in references][0]
-            hyp_doc2bow_base = [ref_hyp_dict.doc2bow(text) for text in hypotheses][0]
-            ref_doc2bow, hyp_doc2bow = [], []
-            ref_list = [i[0] for i in ref_doc2bow_base]
-            hyp_list = [i[0] for i in hyp_doc2bow_base]
+            ref_hyp_bow = ref_hyp_dict.doc2bow(ref_hyp)
+            ref_hyp_bow = [(i[0], 0) for i in ref_hyp_bow]
+            ref_bow_base = [ref_hyp_dict.doc2bow(text) for text in references][0]
+            hyp_bow_base = [ref_hyp_dict.doc2bow(text) for text in hypotheses][0]
+            ref_bow, hyp_bow = [], []
+            ref_list = [i[0] for i in ref_bow_base]
+            hyp_list = [i[0] for i in hyp_bow_base]
 
-            for base in ref_hyp_doc2bow:
+            for base in ref_hyp_bow:
                 if base[0] not in ref_list:
-                    ref_doc2bow.append((base[0],base[1]+1))
+                    ref_bow.append((base[0], base[1] + 1))
                 else:
-                    for ref in ref_doc2bow_base:
+                    for ref in ref_bow_base:
                         if ref[0] == base[0]:
-                            ref_doc2bow.append((ref[0],ref[1]+1))
+                            ref_bow.append((ref[0], ref[1] + 1))
 
-            for base in ref_hyp_doc2bow:
+            for base in ref_hyp_bow:
                 if base[0] not in hyp_list:
-                    hyp_doc2bow.append((base[0],base[1]+1))
+                    hyp_bow.append((base[0], base[1] + 1))
                 else:
-                    for hyp in hyp_doc2bow_base:
+                    for hyp in hyp_bow_base:
                         if hyp[0] == base[0]:
-                            hyp_doc2bow.append((hyp[0],hyp[1]+1))
+                            hyp_bow.append((hyp[0], hyp[1] + 1))
 
-            ref_doc2bow_norm = norm.normalize(ref_doc2bow)
-            hyp_doc2bow_norm = norm.normalize(hyp_doc2bow)
-            vec_ref = [i[1] for i in ref_doc2bow_norm]
-            vec_hyp = [i[1] for i in hyp_doc2bow_norm]
-            return vec_ref, vec_hyp
-    
+            ref_bow_norm = norm.normalize(ref_bow)
+            hyp_bow_norm = norm.normalize(hyp_bow)
+            vec_ref = [i[1] for i in ref_bow_norm]
+            vec_hyp = [i[1] for i in hyp_bow_norm]
+            return vec_ref, vec_hyp, ref_bow_base, hyp_bow_base
 
         def run_threads():
             with alive_bar(len(self.candidate_summaries), title="Evaluation with Gensim...", bar=False, spinner="dots") as bar:
@@ -665,24 +662,16 @@ class Evaluator:
                 def calculate_indexes(references, hypotheses, h_list, kld_list, j_list, index):
                     h, kld, j = [], [], []
                     for i in range(0, len(references)):
-                        corpus_dict = Dictionary(references + hypotheses)
-                        ref_doc2bow_norm, hyp_doc2bow_norm = generate_freqdist(references,hypotheses)
+                        (
+                            ref_bow_norm,
+                            hyp_bow_norm,
+                            ref_bow,
+                            hyp_bow,
+                        ) = generate_freqdist(references, hypotheses)
 
-                        ref_corpus = [corpus_dict.doc2bow(text) for text in references]
-                        reference = references[i]
-                        ref_model = ldamodel.LdaModel(ref_corpus, id2word=corpus_dict, num_topics=2, minimum_probability=1e-8)
-                        bow_reference = ref_model.id2word.doc2bow(reference)
-                        lda_bow_reference = ref_model[bow_reference]
-
-                        hyp_corpus = [corpus_dict.doc2bow(text) for text in hypotheses]
-                        hypothesis = hypotheses[i]
-                        hyp_model = ldamodel.LdaModel(hyp_corpus, id2word=corpus_dict, num_topics=2, minimum_probability=1e-8)
-                        bow_hypothesis = hyp_model.id2word.doc2bow(hypothesis)
-                        lda_bow_hypothesis = hyp_model[bow_hypothesis]
-
-                        h.append(hellinger(hyp_doc2bow_norm, ref_doc2bow_norm))
-                        kld.append(kullback_leibler(hyp_doc2bow_norm, ref_doc2bow_norm))
-                        j.append(jaccard(bow_hypothesis, bow_reference))
+                        h.append(hellinger(hyp_bow_norm, ref_bow_norm))
+                        kld.append(kullback_leibler(hyp_bow_norm, ref_bow_norm))
+                        j.append(jaccard(hyp_bow, ref_bow))
                         bar()
 
                     h_list[index] = h
@@ -753,12 +742,12 @@ class Evaluator:
 if __name__ == "__main__":
 
     corpora = [
-        # "cnn_dailymail",
-        # "big_patent",
-        # "cnn_corpus_abstractive",
-        "cnn_corpus_extractive",
-        # "xsum",
-        # "arxiv_pubmed",
+        "cnn_dailymail",
+        "big_patent",
+        "cnn_corpus_abstractive",
+        # "cnn_corpus_extractive",
+        "xsum",
+        "arxiv_pubmed",
         # "arxiv",
         # "pubmed",
     ]
@@ -772,30 +761,45 @@ if __name__ == "__main__":
         # "SumySumBasic",
         # "SumyKL",
         # "SumyReduction",
-        "SumyEdmundson"
+        # "SumyEdmundson"
         # "Transformers-facebook/bart-large-cnn",
         # "Transformers-google/pegasus-xsum",
-        # "Transformers-csebuetnlp/mT5_multilingual_XLSum",
+        "Transformers-csebuetnlp/mT5_multilingual_XLSum",
     ]
 
     metrics = [
-        "rouge",
+        # "rouge",
         "gensim",
-        "nltk",
-        "sklearn",
+        # "nltk",
+        # "sklearn",
     ]
 
     ### Running methods and eval locally
 
+    # reader = Data()
+    # reader.show_available_databases()
+    # for corpus in corpora:
+    #     data = reader.read_data(corpus, 100)
+    #     method = Method(data, corpus)
+    #     method.show_methods()
+    #     for summarizer in summarizers:
+    #         df = method.run(summarizer)
+    #         method.examples_to_csv(0)
+    #         evaluator = Evaluator(df, summarizer, corpus)
+    #         for metric in metrics:
+    #             evaluator.run(metric)
+    #             evaluator.metrics_to_csv()
+    #         evaluator.join_all_results()
+
+    ### Importing summaries from COLAB data
+    # (generated summaries must be in /results/transformers/)
+
     reader = Data()
-    reader.show_available_databases()
+    data = reader.read_data("xsum", 5)
+    method = Method(data, "xsum")
     for corpus in corpora:
-        data = reader.read_data(corpus, 100)
-        method = Method(data, corpus)
-        method.show_methods()
         for summarizer in summarizers:
-            df = method.run(summarizer)
-            method.examples_to_csv(0)
+            df = method.import_summaries(summarizer, corpus)
             evaluator = Evaluator(df, summarizer, corpus)
             for metric in metrics:
                 evaluator.run(metric)
