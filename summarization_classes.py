@@ -592,9 +592,9 @@ class Evaluator:
         self.results_df = results_concat("Avg", "NLTK", p_avg, r_avg, f_avg, self.results_df)
 
     def run_gensim_eval(self):
-        from gensim.matutils import kullback_leibler, hellinger, jaccard
-        from gensim.corpora import Dictionary
-        from gensim.models import ldamodel
+        from gensim.matutils import kullback_leibler, hellinger, jaccard, jensen_shannon
+        from gensim.corpora import Dictionary, HashDictionary
+        from gensim.models import ldamodel, NormModel
 
         self.gensim_thread_count = 10000
 
@@ -624,6 +624,41 @@ class Evaluator:
             print(f"\tAvg:\t\tH: {h:5.2f} \tJ: {j:5.2f} \tKLD: {kld:5.2f}\n\tBest:\t\tH: {h_b:5.2f} \tJ: {j_b:5.2f} \tKLD: {kld_b:5.2f}")
             print()
 
+        def generate_freqdist(references, hypotheses):
+            norm = NormModel()
+            ref_hyp = references[0]+hypotheses[0]
+            ref_hyp_dict = HashDictionary([ref_hyp])
+            ref_hyp_doc2bow = ref_hyp_dict.doc2bow(ref_hyp)
+            ref_hyp_doc2bow = [(i[0], 0) for i in ref_hyp_doc2bow]
+            ref_doc2bow_base = [ref_hyp_dict.doc2bow(text) for text in references][0]
+            hyp_doc2bow_base = [ref_hyp_dict.doc2bow(text) for text in hypotheses][0]
+            ref_doc2bow, hyp_doc2bow = [], []
+            ref_list = [i[0] for i in ref_doc2bow_base]
+            hyp_list = [i[0] for i in hyp_doc2bow_base]
+
+            for base in ref_hyp_doc2bow:
+                if base[0] not in ref_list:
+                    ref_doc2bow.append((base[0],base[1]+1))
+                else:
+                    for ref in ref_doc2bow_base:
+                        if ref[0] == base[0]:
+                            ref_doc2bow.append((ref[0],ref[1]+1))
+
+            for base in ref_hyp_doc2bow:
+                if base[0] not in hyp_list:
+                    hyp_doc2bow.append((base[0],base[1]+1))
+                else:
+                    for hyp in hyp_doc2bow_base:
+                        if hyp[0] == base[0]:
+                            hyp_doc2bow.append((hyp[0],hyp[1]+1))
+
+            ref_doc2bow_norm = norm.normalize(ref_doc2bow)
+            hyp_doc2bow_norm = norm.normalize(hyp_doc2bow)
+            vec_ref = [i[1] for i in ref_doc2bow_norm]
+            vec_hyp = [i[1] for i in hyp_doc2bow_norm]
+            return vec_ref, vec_hyp
+    
+
         def run_threads():
             with alive_bar(len(self.candidate_summaries), title="Evaluation with Gensim...", bar=False, spinner="dots") as bar:
 
@@ -631,6 +666,8 @@ class Evaluator:
                     h, kld, j = [], [], []
                     for i in range(0, len(references)):
                         corpus_dict = Dictionary(references + hypotheses)
+                        ref_doc2bow_norm, hyp_doc2bow_norm = generate_freqdist(references,hypotheses)
+
                         ref_corpus = [corpus_dict.doc2bow(text) for text in references]
                         reference = references[i]
                         ref_model = ldamodel.LdaModel(ref_corpus, id2word=corpus_dict, num_topics=2, minimum_probability=1e-8)
@@ -643,8 +680,8 @@ class Evaluator:
                         bow_hypothesis = hyp_model.id2word.doc2bow(hypothesis)
                         lda_bow_hypothesis = hyp_model[bow_hypothesis]
 
-                        h.append(hellinger(lda_bow_hypothesis, lda_bow_reference))
-                        kld.append(kullback_leibler(lda_bow_hypothesis, lda_bow_reference))
+                        h.append(hellinger(hyp_doc2bow_norm, ref_doc2bow_norm))
+                        kld.append(kullback_leibler(hyp_doc2bow_norm, ref_doc2bow_norm))
                         j.append(jaccard(bow_hypothesis, bow_reference))
                         bar()
 
@@ -753,12 +790,12 @@ if __name__ == "__main__":
     reader = Data()
     reader.show_available_databases()
     for corpus in corpora:
-        data = reader.read_data(corpus, 10000)
+        data = reader.read_data(corpus, 100)
         method = Method(data, corpus)
         method.show_methods()
         for summarizer in summarizers:
             df = method.run(summarizer)
-            method.examples_to_csv(2000)
+            method.examples_to_csv(0)
             evaluator = Evaluator(df, summarizer, corpus)
             for metric in metrics:
                 evaluator.run(metric)
