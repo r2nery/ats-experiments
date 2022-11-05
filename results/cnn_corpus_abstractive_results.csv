@@ -31,4 +31,7 @@ cnn_corpus_abstractive,Transformers-csebuetnlp/mT5_multilingual_XLSum,Avg,NLTK,2
 cnn_corpus_abstractive,Transformers-csebuetnlp/mT5_multilingual_XLSum,Avg,SKLearn,,,,,,,0.22
 cnn_corpus_abstractive,Transformers-facebook/bart-large-cnn,Avg,Gensim,,,,0.6,0.83,0.19,
 cnn_corpus_abstractive,Transformers-google/pegasus-xsum,Avg,Gensim,,,,0.67,0.89,0.26,
-cnn_corpus_abstractive,Transformers-csebuetnlp/mT5_multilingual_XLSum,Avg,Gensim,,,, 0.62, 0.90, 0.22,
+cnn_corpus_abstractive,Transformers-csebuetnlp/mT5_multilingual_XLSum,Avg,Gensim,,,,0.62,0.9,0.22,
+cnn_corpus_abstractive,Transformers-facebook/bart-large-cnn,Avg,Gensim,,,,0.22,0.83,0.19,
+cnn_corpus_abstractive,Transformers-google/pegasus-xsum,Avg,Gensim,,,,0.25,0.89,0.26,
+cnn_corpus_abstractive,Transformers-csebuetnlp/mT5_multilingual_XLSum,Avg,Gensim,,,, 0.23, 0.90, 0.22,

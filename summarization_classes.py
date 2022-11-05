@@ -622,7 +622,7 @@ class Evaluator:
             print()
 
         def generate_freqdist(references, hypotheses):
-            norm = NormModel()
+            
             ref_hyp = references[0] + hypotheses[0]
             ref_hyp_dict = HashDictionary([ref_hyp])
             ref_hyp_bow = ref_hyp_dict.doc2bow(ref_hyp)
@@ -649,10 +649,11 @@ class Evaluator:
                         if hyp[0] == base[0]:
                             hyp_bow.append((hyp[0], hyp[1] + 1))
 
-            ref_bow_norm = norm.normalize(ref_bow)
-            hyp_bow_norm = norm.normalize(hyp_bow)
-            vec_ref = [i[1] for i in ref_bow_norm]
-            vec_hyp = [i[1] for i in hyp_bow_norm]
+            sum_ref = sum([i[1] for i in ref_bow])
+            sum_hyp = sum([i[1] for i in ref_bow])
+            vec_ref = [i[1] / sum_ref for i in ref_bow]
+            vec_hyp = [i[1] / sum_hyp for i in hyp_bow]
+
             return vec_ref, vec_hyp, ref_bow_base, hyp_bow_base
 
         def run_threads():
@@ -661,12 +662,7 @@ class Evaluator:
                 def calculate_indexes(references, hypotheses, h_list, kld_list, j_list, index):
                     h, kld, j = [], [], []
                     for i in range(0, len(references)):
-                        (
-                            ref_bow_norm,
-                            hyp_bow_norm,
-                            ref_bow,
-                            hyp_bow,
-                        ) = generate_freqdist(references, hypotheses)
+                        ref_bow_norm, hyp_bow_norm, ref_bow, hyp_bow = generate_freqdist(references, hypotheses)
 
                         h.append(hellinger(hyp_bow_norm, ref_bow_norm))
                         kld.append(kullback_leibler(hyp_bow_norm, ref_bow_norm))
@@ -741,7 +737,7 @@ class Evaluator:
 if __name__ == "__main__":
 
     corpora = [
-        # "cnn_dailymail",
+        "cnn_dailymail",
         "big_patent",
         # "cnn_corpus_abstractive",
         "cnn_corpus_extractive",
@@ -754,11 +750,11 @@ if __name__ == "__main__":
     summarizers = [
         "SumyRandom",
         "SumyLuhn",
-        # "SumyLsa",
-        # "SumyLexRank",
-        # "SumyTextRank",
+        "SumyLsa",
+        "SumyLexRank",
+        "SumyTextRank",
         "SumySumBasic",
-        # "SumyKL",
+        "SumyKL",
         "SumyReduction",
         "SumyEdmundson"
         # "Transformers-facebook/bart-large-cnn",
@@ -778,7 +774,7 @@ if __name__ == "__main__":
     reader = Data()
     reader.show_available_databases()
     for corpus in corpora:
-        data = reader.read_data(corpus, 10000)
+        data = reader.read_data(corpus, 500)
         method = Method(data, corpus)
         method.show_methods()
         for summarizer in summarizers:
@@ -790,8 +786,8 @@ if __name__ == "__main__":
                 evaluator.metrics_to_csv()
             evaluator.join_all_results()
 
-    # ### Importing summaries from COLAB data
-    # # (generated summaries must be in /results/transformers/)
+    ### Importing summaries from COLAB data
+    # (generated summaries must be in /results/transformers/)
 
     # reader = Data()
     # data = reader.read_data("xsum", 5)
