@@ -15,3 +15,4 @@ more-itertools
 sentencepiece
 langdetect
 torch 
+gradio
