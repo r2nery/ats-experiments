@@ -20,42 +20,47 @@ def run(the_method, text, compression_ratio, use_golden=False, golden=None):
     elif the_method[0:13] == "Transformers-":
         return run_transformers(the_method, _clean_text(text), compression_ratio), run_eval(use_golden, _clean_text(text), run_transformers(the_method, _clean_text(text), compression_ratio), golden)
 
-def run_csv(the_method, csv_input, text_column, compression_ratio=1 / 8, use_golden=False):
+
+def run_csv(the_method, csv_input, text_column, n, golden_column=None, compression_ratio=1 / 8, use_golden=False):
     df_original = pd.read_csv(csv_input.name)
     text_series = df_original[text_column]
     text_series = text_series.apply(lambda x: _clean_text(x))
+    golden_series = []
+    if use_golden:
+        golden_series = df_original[golden_column]
 
     if the_method[0:4] == "Sumy":
         result = run_sumy_df(the_method, text_series, compression_ratio)
         the_method_dir = the_method[4:]
-        #run_eval(use_golden, df, run_sumy(the_method, df, compression_ratio))
     elif the_method[0:13] == "Transformers-":
-        the_method_dir = re.sub(r"[\/]","-",the_method[13:])
+        the_method_dir = re.sub(r"[\/]", "-", the_method[13:])
         result = run_transformers_df(the_method, text_series, compression_ratio)
-        #run_eval(use_golden, df, run_sumy(the_method, df, compression_ratio))
 
-    column_name = "summary_"+the_method_dir
+    evaluators = run_eval_df(use_golden, text_series, result["summary"], golden_series, n)
+
+    column_name = "summary_" + the_method_dir
     df_original[column_name] = result["summary"]
-    df_original.to_csv(the_method_dir+"_results.csv", index=False)
-    return str(the_method_dir+"_results.csv")
+    df_original.to_csv(the_method_dir + "_results.csv", index=False)
+    return str(the_method_dir + "_results.csv"), evaluators
 
 
-def run_df(the_method, df, compression_ratio=1 / 8, use_golden=False):
-    
-    text_series = df.iloc[:,0].apply(lambda x: _clean_text(x))
-    print(text_series)
+def run_df(the_method, df, n, compression_ratio=1 / 8, use_golden=False):
+
+    text_series = df.iloc[:, 0].apply(lambda x: _clean_text(x))
+    golden_series = df.iloc[:, 1].apply(lambda x: _clean_text(x))
 
     if the_method[0:4] == "Sumy":
         result = run_sumy_df(the_method, text_series, compression_ratio)
         the_method_dir = the_method[4:]
-        #run_eval(use_golden, df, run_sumy(the_method, df, compression_ratio))
     elif the_method[0:13] == "Transformers-":
-        the_method_dir = re.sub(r"[\/]","-",the_method[13:])
+        the_method_dir = re.sub(r"[\/]", "-", the_method[13:])
         result = run_transformers_df(the_method, text_series, compression_ratio)
-        #run_eval(use_golden, df, run_sumy(the_method, df, compression_ratio))
 
-    result.to_csv(the_method_dir+"_results.csv", index=False)
-    return str(the_method_dir+"_results.csv")
+    evaluators = run_eval_df(use_golden, text_series, result["summary"], golden_series, n)
+
+    result.to_csv(the_method_dir + "_results.csv", index=False)
+    return str(the_method_dir + "_results.csv"), evaluators
+
 
 def _clean_text(content):
     if isinstance(content, str):
@@ -128,7 +133,7 @@ def run_transformers(method, text, compression_ratio):
 
 
 def run_sumy_df(method, texts_series, compression_ratio):
-    
+
     from sumy.summarizers.random import RandomSummarizer
     from sumy.summarizers.luhn import LuhnSummarizer
     from sumy.summarizers.lsa import LsaSummarizer
@@ -169,6 +174,7 @@ def run_sumy_df(method, texts_series, compression_ratio):
     results = pd.DataFrame({"text": texts_series, "summary": candidate_summaries})
     return results
 
+
 def run_transformers_df(method, texts_series, compression_ratio):
     from transformers import pipeline
     from nltk.tokenize import word_tokenize
@@ -189,17 +195,73 @@ def run_transformers_df(method, texts_series, compression_ratio):
     results = pd.DataFrame({"text": texts_series, "summary": candidate_summaries})
     return results
 
+
 def run_eval(use_golden, text, summary, golden):
     if use_golden:
-        rouge = run_rouge_eval(summary, golden)
-        nltk = run_nltk_eval(summary, golden)
-        gensim = run_gensim_eval(summary, golden)
-        sklearn = run_sklearn_eval(summary, golden)
+        rouge, x = run_rouge_eval(summary, golden)
+        nltk, x = run_nltk_eval(summary, golden)
+        gensim, x = run_gensim_eval(summary, golden)
+        sklearn, x = run_sklearn_eval(summary, golden)
         return rouge + nltk + gensim + sklearn
     else:
-        gensim = run_gensim_eval(summary, text)
-        sklearn = run_sklearn_eval(summary, text)
+        gensim, x = run_gensim_eval(summary, text)
+        sklearn, x = run_sklearn_eval(summary, text)
         return gensim + sklearn
+
+
+def run_eval_df(use_golden, text, summary, golden, n):
+    if n > len(text):
+        n = len(text)
+    elif n == 0:
+        n = len(text)
+
+    def print_results_golden(rouge, nltk, gensim, sklearn):
+        rouge_names = ["ROUGE-1", "ROUGE-2", "ROUGE-3", "ROUGE-4", "ROUGE-L", "ROUGE-SU4", "ROUGE-W-1.2"]
+        rouge_str = ""
+        for i in range(0, 6):
+            rouge_str += str("{}:\t\t{}: {:5.2f} \t{}: {:5.2f} \t{}: {:5.2f}\n".format(str(rouge_names[i]).upper(), "P", 100.0 * rouge[i][0], "R", 100.0 * rouge[i][1], "F1", 100.0 * rouge[i][2]))
+        nltk_str = str(f"NLTK:\t\t\t\tP: {100*nltk[0]:5.2f} \tR: {100*nltk[1]:5.2f} \tF1: {100*nltk[2]:5.2f}\n")
+        sklearn_str = str(f"SKLearn:\t\t\tC: {sklearn:5.2f}\n")
+        gensim_str = str(f"Gensim:\t\t\tH: {gensim[0]:5.2f} \tJ: {gensim[1]:5.2f} \tKLD: {gensim[2]:5.2f}\n")
+        return rouge_str + nltk_str + gensim_str + sklearn_str
+
+    def print_results(gensim, sklearn):
+        sklearn_str = str(f"SKLearn:\t\t\tC: {sklearn:5.2f}\n")
+        gensim_str = str(f"Gensim:\t\t\tH: {gensim[0]:5.2f} \tJ: {gensim[1]:5.2f} \tKLD: {gensim[2]:5.2f}\n")
+        return gensim_str + sklearn_str
+
+    rouge_results, nltk_results, gensim_results, sklearn_results = [], [], [], []
+
+    if use_golden:
+        for i in range(0, n):
+            x, rouge = run_rouge_eval(summary[i], golden[i])
+            x, nltk = run_nltk_eval(summary[i], golden[i])
+            x, gensim = run_gensim_eval(summary[i], golden[i])
+            x, sklearn = run_sklearn_eval(summary[i], golden[i])
+            rouge_results.append(rouge)
+            nltk_results.append(nltk)
+            gensim_results.append(gensim)
+            sklearn_results.append(sklearn)
+
+        rouge_sort = [[[r[i][0] for r in rouge_results], [r[i][1] for r in rouge_results], [r[i][2] for r in rouge_results]] for i in range(0, len(rouge_results[0]))]
+        nltk_sort = [[r[0] for r in nltk_results], [r[1] for r in nltk_results], [r[2] for r in nltk_results]]
+        gensim_sort = [[r[0] for r in gensim_results], [r[1] for r in gensim_results], [r[2] for r in gensim_results]]
+        rouges_avgs = [[sum(i[0]) / len(i[0]), sum(i[1]) / len(i[1]), sum(i[2]) / len(i[2])] for i in rouge_sort]
+        nltk_avgs = [sum(i) / len(i) for i in nltk_sort]
+        gensim_avgs = [sum(i) / len(i) for i in gensim_sort]
+        sklearn_avgs = sum(sklearn_results) / len(sklearn_results)
+        return print_results_golden(rouges_avgs, nltk_avgs, gensim_avgs, sklearn_avgs)
+
+    if not use_golden:
+        for i in range(0, n):
+            x, gensim = run_gensim_eval(summary[i], text[i])
+            x, sklearn = run_sklearn_eval(summary[i], text[i])
+            gensim_results.append(gensim)
+            sklearn_results.append(sklearn)
+        gensim_sort = [[r[0] for r in gensim_results], [r[1] for r in gensim_results], [r[2] for r in gensim_results]]
+        gensim_avgs = [sum(i) / len(i) for i in gensim_sort]
+        sklearn_avgs = sum(sklearn_results) / len(sklearn_results)
+        return print_results(gensim_avgs, sklearn_avgs)
 
 
 def run_rouge_eval(text, golden):
@@ -235,12 +297,14 @@ def run_rouge_eval(text, golden):
     scores = evaluator_su.evaluate([text], [[golden]])
 
     rouge_strings = ""
+    rouge_results = []
     for m, results in sorted(scores.items()):
         p = results["p"]
         r = results["r"]
         f = results["f"]
+        rouge_results.append([p, r, f])
         rouge_strings += print_results(m, p, r, f)
-    return rouge_strings
+    return rouge_strings, rouge_results
 
 
 def run_nltk_eval(text, golden):
@@ -257,8 +321,9 @@ def run_nltk_eval(text, golden):
     p = precision(set(reference), set(hypothesis))
     r = recall(set(reference), set(hypothesis))
     f = f_measure(set(reference), set(hypothesis), alpha=0.5)
+    nltk_results = [p, r, f]
 
-    return print_results(p, r, f)
+    return print_results(p, r, f), nltk_results
 
 
 def run_gensim_eval(text, golden):
@@ -309,8 +374,9 @@ def run_gensim_eval(text, golden):
     h = hellinger(hyp_bow_norm, ref_bow_norm)
     kld = kullback_leibler(hyp_bow_norm, ref_bow_norm)
     j = jaccard(hyp_bow, ref_bow)
+    gensim_results = [h, j, kld]
 
-    return print_results(h, j, kld)
+    return print_results(h, j, kld), gensim_results
 
 
 def run_sklearn_eval(text, golden):
@@ -325,7 +391,7 @@ def run_sklearn_eval(text, golden):
     cosine_similarity_matrix = cosine_similarity(vector_matrix)
     cosim = cosine_similarity_matrix[0, 1]
 
-    return print_results(cosim)
+    return print_results(cosim), cosim
 
 
 if __name__ == "__main__":
@@ -380,15 +446,25 @@ if __name__ == "__main__":
                 with gr.Tab("CSV"):
                     with gr.Column(scale=1, min_width=300):
                         gr.Checkbox(
-                            label="Insira abaixo um arquivo CSV com uma coluna de textos a serem sumarizados. Caso opte por avaliar usando golden summaries, estes deverão estar presentes em uma coluna entitulada 'golden'.",
+                            label="Insira abaixo um arquivo CSV com uma coluna de textos a serem sumarizados. Caso opte por avaliar usando golden summaries, estes deverão estar presentes em outra coluna.",
                             value=False,
                             interactive=False,
                         )
                         with gr.Row():
                             with gr.Column(scale=1, min_width=300):
-                                text_column = gr.Textbox(label="Título da coluna a ser sumarizada", placeholder="text")
+                                with gr.Row():
+                                    text_column = gr.Textbox(label="Coluna a ser sumarizada", placeholder="text")
+                                    golden_column = gr.Textbox(label="Coluna de golden summaries, caso exista", placeholder="golden")
+                                n_csv = gr.Number(
+                                    label="Número de resumos gerados a serem avaliados (0 = Todos)",
+                                    precision=0,
+                                    value=30,
+                                    interactive=True,
+                                )
                                 csv_input = gr.File(label="Arquivo .csv de textos")
-                            csv_output = gr.Files(label="Arquivos .csv de resumos e avaliação")
+                            with gr.Column(scale=1, min_width=300):
+                                csv_output = gr.Files(label="Arquivo .csv de resumos")
+                                csv_evaluators = gr.Textbox(label="Avaliação dos resumos")
                         csv_button = gr.Button("Executar")
                 with gr.Tab("DataFrame"):
                     with gr.Column(scale=1, min_width=300):
@@ -398,12 +474,21 @@ if __name__ == "__main__":
                             interactive=False,
                         )
                         with gr.Row():
-                            df_input = gr.DataFrame(headers=["Texto","Golden Summary"],row_count=(1,"dynamic"),col_count=(2,"fixed"))
-                            df_output = gr.Files(label="Arquivos .csv de resumos e avaliação")
+                            with gr.Column(scale=1, min_width=300):
+                                n_df = gr.Number(
+                                    label="Número de resumos gerados a serem avaliados (0 = Todos)",
+                                    precision=0,
+                                    value=5,
+                                    interactive=True,
+                                )
+                                df_input = gr.DataFrame(headers=["Texto", "Golden Summary"], row_count=(1, "dynamic"), col_count=(2, "fixed"))
+                            with gr.Column(scale=1, min_width=300):
+                                df_output = gr.Files(label="Arquivo .csv de resumos")
+                                df_evaluators = gr.Textbox(label="Avaliação dos resumos")
                         df_button = gr.Button("Executar")
 
             text_button.click(run, inputs=[dropdown, text, compression_ratio, use_golden, golden], outputs=[generated_summary, evaluators])
-            csv_button.click(run_csv, inputs=[dropdown, csv_input, text_column, compression_ratio, use_golden], outputs=[csv_output])
-            df_button.click(run_df, inputs=[dropdown, df_input, compression_ratio, use_golden], outputs=[df_output])
+            csv_button.click(run_csv, inputs=[dropdown, csv_input, text_column, n_csv, golden_column, compression_ratio, use_golden], outputs=[csv_output, csv_evaluators])
+            df_button.click(run_df, inputs=[dropdown, df_input, n_df, compression_ratio, use_golden], outputs=[df_output, df_evaluators])
 
 demo.launch()
