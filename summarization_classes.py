@@ -236,10 +236,10 @@ class Data:
                     texts_df = pd.concat([texts_df, pd.DataFrame({"text": [self._clean_text(text)]})], ignore_index=True)
                     summaries_df = pd.concat([summaries_df, pd.DataFrame({"golden": [self._clean_text(ext_sum)]})], ignore_index=True)
                     self.data = pd.concat([texts_df, summaries_df], axis=1)
-                    self.data.to_csv(os.path.join(processed_path, "CNN_Corpus_Abstractive.csv"), index=False)
+                    self.data.to_csv(os.path.join(processed_path, "CNN_Corpus_Extractive.csv"), index=False)
                     self.data = self.data.head(self.size)
         else:
-            self.data = pd.read_csv(os.path.join(processed_path, "CNN_Corpus_Abstractive.csv"))
+            self.data = pd.read_csv(os.path.join(processed_path, "CNN_Corpus_Extractive.csv"))
             self.data = self.data.head(self.size)
 
 
@@ -622,7 +622,6 @@ class Evaluator:
             print()
 
         def generate_freqdist(references, hypotheses):
-            
             ref_hyp = references[0] + hypotheses[0]
             ref_hyp_dict = HashDictionary([ref_hyp])
             ref_hyp_bow = ref_hyp_dict.doc2bow(ref_hyp)
@@ -737,26 +736,26 @@ class Evaluator:
 if __name__ == "__main__":
 
     corpora = [
-        "cnn_dailymail",
-        "big_patent",
+        # "cnn_dailymail",
+        # "big_patent",
         # "cnn_corpus_abstractive",
         "cnn_corpus_extractive",
-        "xsum",
-        "arxiv_pubmed",
+        # "xsum",
+        # "arxiv_pubmed",
         # "arxiv",
         # "pubmed",
     ]
 
     summarizers = [
         "SumyRandom",
-        "SumyLuhn",
-        "SumyLsa",
-        "SumyLexRank",
-        "SumyTextRank",
-        "SumySumBasic",
-        "SumyKL",
-        "SumyReduction",
-        "SumyEdmundson"
+        # "SumyLuhn",
+        # "SumyLsa",
+        # "SumyLexRank",
+        # "SumyTextRank",
+        # "SumySumBasic",
+        # "SumyKL",
+        # "SumyReduction",
+        # "SumyEdmundson"
         # "Transformers-facebook/bart-large-cnn",
         # "Transformers-google/pegasus-xsum",
         # "Transformers-csebuetnlp/mT5_multilingual_XLSum",
@@ -764,7 +763,7 @@ if __name__ == "__main__":
 
     metrics = [
         # "rouge",
-        "gensim",
+        # "gensim",
         # "nltk",
         # "sklearn",
     ]
