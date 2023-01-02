@@ -14,54 +14,6 @@ nltk.download("omw-1.4")
 nltk.download("punkt")
 
 
-def run(the_method, text, compression_ratio, use_golden=False, golden=None):
-    if the_method[0:4] == "Sumy":
-        return run_sumy(the_method, _clean_text(text), compression_ratio), run_eval(use_golden, _clean_text(text), run_sumy(the_method, _clean_text(text), compression_ratio), golden)
-    elif the_method[0:13] == "Transformers-":
-        return run_transformers(the_method, _clean_text(text), compression_ratio), run_eval(use_golden, _clean_text(text), run_transformers(the_method, _clean_text(text), compression_ratio), golden)
-
-
-def run_csv(the_method, csv_input, text_column, n, golden_column=None, compression_ratio=1 / 8, use_golden=False):
-    df_original = pd.read_csv(csv_input.name)
-    text_series = df_original[text_column]
-    text_series = text_series.apply(lambda x: _clean_text(x))
-    golden_series = []
-    if use_golden:
-        golden_series = df_original[golden_column]
-
-    if the_method[0:4] == "Sumy":
-        result = run_sumy_df(the_method, text_series, compression_ratio)
-        the_method_dir = the_method[4:]
-    elif the_method[0:13] == "Transformers-":
-        the_method_dir = re.sub(r"[\/]", "-", the_method[13:])
-        result = run_transformers_df(the_method, text_series, compression_ratio)
-
-    evaluators = run_eval_df(use_golden, text_series, result["summary"], golden_series, n)
-
-    column_name = "summary_" + the_method_dir
-    df_original[column_name] = result["summary"]
-    df_original.to_csv(the_method_dir + "_results.csv", index=False)
-    return str(the_method_dir + "_results.csv"), evaluators
-
-
-def run_df(the_method, df, n, compression_ratio=1 / 8, use_golden=False):
-
-    text_series = df.iloc[:, 0].apply(lambda x: _clean_text(x))
-    golden_series = df.iloc[:, 1].apply(lambda x: _clean_text(x))
-
-    if the_method[0:4] == "Sumy":
-        result = run_sumy_df(the_method, text_series, compression_ratio)
-        the_method_dir = the_method[4:]
-    elif the_method[0:13] == "Transformers-":
-        the_method_dir = re.sub(r"[\/]", "-", the_method[13:])
-        result = run_transformers_df(the_method, text_series, compression_ratio)
-
-    evaluators = run_eval_df(use_golden, text_series, result["summary"], golden_series, n)
-
-    result.to_csv(the_method_dir + "_results.csv", index=False)
-    return str(the_method_dir + "_results.csv"), evaluators
-
-
 def _clean_text(content):
     if isinstance(content, str):
         pass
@@ -90,6 +42,54 @@ def _clean_text(content):
 
     content = " ".join(content.split())
     return content
+
+
+def run(the_method, text, compression_ratio, use_golden=False, golden=None):
+    if the_method[0:4] == "Sumy":
+        return run_sumy(the_method, _clean_text(text), compression_ratio), run_eval(use_golden, _clean_text(text), run_sumy(the_method, _clean_text(text), compression_ratio), golden)
+    elif the_method[0:13] == "Transformers-":
+        return run_transformers(the_method, _clean_text(text), compression_ratio), run_eval(use_golden, _clean_text(text), run_transformers(the_method, _clean_text(text), compression_ratio), golden)
+
+
+def run_csv(the_method, csv_input, text_column, n, golden_column=None, compression_ratio=1/8, use_golden=False):
+    df_original = pd.read_csv(csv_input.name)
+    text_series = df_original[text_column]
+    text_series = text_series.apply(lambda x: _clean_text(x))
+    golden_series = []
+    if use_golden:
+        golden_series = df_original[golden_column]
+
+    if the_method[0:4] == "Sumy":
+        result = run_sumy_df(the_method, text_series, compression_ratio)
+        the_method_dir = the_method[4:]
+    elif the_method[0:13] == "Transformers-":
+        the_method_dir = re.sub(r"[\/]", "-", the_method[13:])
+        result = run_transformers_df(the_method, text_series, compression_ratio)
+
+    evaluators = run_eval_df(use_golden, text_series, result["summary"], golden_series, n)
+
+    column_name = "summary_" + the_method_dir
+    df_original[column_name] = result["summary"]
+    df_original.to_csv(the_method_dir + "_results.csv", index=False)
+    return str(the_method_dir + "_results.csv"), evaluators
+
+
+def run_df(the_method, df, n, compression_ratio=1/8, use_golden=False):
+
+    text_series = df.iloc[:, 0].apply(lambda x: _clean_text(x))
+    golden_series = df.iloc[:, 1].apply(lambda x: _clean_text(x))
+
+    if the_method[0:4] == "Sumy":
+        result = run_sumy_df(the_method, text_series, compression_ratio)
+        the_method_dir = the_method[4:]
+    elif the_method[0:13] == "Transformers-":
+        the_method_dir = re.sub(r"[\/]", "-", the_method[13:])
+        result = run_transformers_df(the_method, text_series, compression_ratio)
+
+    evaluators = run_eval_df(use_golden, text_series, result["summary"], golden_series, n)
+
+    result.to_csv(the_method_dir + "_results.csv", index=False)
+    return str(the_method_dir + "_results.csv"), evaluators
 
 
 def run_sumy(method, text, compression_ratio):
