@@ -1,19 +1,22 @@
-# Metodologia de Síntese Automática de Textos
+# Automatic Text Summarization and Summary Evaluation Experiments
 
-## Objetivo
-Existem em Python várias bibliotecas com implementações dos métodos mais populares para a síntese automática de textos. Neste repositório, apresenta-se uma rotina em Python orientada ao download e leitura de uma seleção de *corpora* relevantes na literatura de Processamento de Linguagem Natural (NLP) e aplicação de uma série de métodos de sumarização estabelecidos, tal qual a avaliação dos resultados gerados.
+## Objective
+This repository presents Python scripts for downloading and wrangling a selection of relevant *corpora* from the literature of Automatic Text Summarization (ATS), as well as applying a variety of abstractive and extractive methods of summarization. The resulting summaries can then be evaluated using a selection of metrics from the literature. The scripts herein were developed with the processing of entire *corpora* in mind, making use of paralellization. However, single-document summarization and evaluation is also possible.
 
-### Bases de dados disponíveis:
+## MCTI Dataset + CNN Corpus download
+In addition to popular datasets from the literature on Natural Language Processing (NLP) available for download through the script itself, wrangling functions were implemented for the Research Project of Data Science Applied to the Financial Products Portfolio (PPF-MCTI) datasets, as well as the CNN Corpus dataset. These datasets must be downloaded externally and extracted to the root of the repository (in a folder named ./data) and are available here: [DOWNLOAD](https://zenodo.org/record/7262127)
+
+### Available Datasets:
 - ArXiv + PubMed
 - BIGPATENT
 - CNN + Daily Mail
 - XSum
 - CNN Corpus
-- MCTI (Notícias)
-- MCTI (Oportunidades)
-- MCTI (Políticas)
+- MCTI (News)
+- MCTI (Oportunities)
+- MCTI (Policies)
 
-### Métodos de sumarização extrativa disponíveis:
+### Available Extractive Summarization Methods:
 - Reduction Summarizer
 - LexRank Summarizer
 - LSA Summarizer
@@ -22,35 +25,35 @@ Existem em Python várias bibliotecas com implementações dos métodos mais pop
 - SumBasic Summarizer
 - TextRank Summarizer
 
-### Métodos de sumarização abstrativa disponíveis:
+### Available Abstractive Summarization Methods:
 - BART
 - T5
 - PEGASUS
 
-### Métodos de avaliação de sumários disponíveis:
+### Available Summary Evaluation Methods:
 - ROUGE
     - ROUGE-1,2,3,4
     - ROUGE-L
     - ROUGE-W
     - ROUGE-SU-4
 - Precision, Recall, F
-- Distâncias de Jaccard e Hellinger
-- Divergência de Kullback-Leibler
-- Similaridade por Cosseno
+- Jaccard and Hellinger Divergences
+- Kullback-Leibler Divergences
+- Cosine Similarity
 
-# Processos
-Os processos de importação de dados, sumarização e avaliação estão separados nas classes `Data`, `Method` e `Evaluator`, respectivamente. A função `main` sugerida no script executa e avalia todos os métodos de sumarização extrativa para todas as bases de dados da literatura disponíveis, com um corte de 50 entradas. Este parâmetro, que define o número de sumários $N$ a serem gerados a partir de um dado *corpus* pode ser modificado no método `Data.read_data(corpus, N)`. 
+# Classes and Methods
+The data importing, summarization and evaluation processes are defined in the `Data`, `Method` e `Evaluator` classes, respectively. The `main` function suggests the summarization and evaluation of 50 entries from all datasets available. The number of summaries to be generated $N$ can be modified in `Data.read_data(corpus, N)`. 
 
-Para a execução sem GPU, sugere-se que os métodos de sumarização sejam executados em baixo volume $(N<100)$, dados os altos tempos de execução, em especial para *transformers* abstrativos. Os resultados apresentados em relatório, gerados com $N=3000$, foram obtidos com a ajuda do Google Colab.
+For CPU workloads, we suggest a low number of summaries $(N<100)$, given the long computing times, especially for abstractive *transformer* models. The results presented on our reports, generated with $N=3000$, were obtained with the help of Google Colab and GPU computing.
 
-## Resultados
-As saídas para cada *corpus* em `.\results` são:
-- Todos os sumários gerados em um arquivo com terminação `_examples.csv`
-- Todos as métricas para os avaliadores escolhidos em um arquivo com terminação `_results.csv`
+## Results
+The outputs for each corpus *corpus* in `.\results` are:
+- All the summaries generated, in a file terminated by `_examples.csv`
+- All the chosen evaluators' results, in a file terminated by `_results.csv`
 
-Vale ressaltar que as bases da literatura são obtidas pelo pacote `datasets` do `huggingface`, e podem exigir grande espaço em disco.
+It should be mentioned that the literature datasets are downloaded using the `datasets` libarary, by huggingface, and may take a large amound of disk space.
 
-# Referências 
+# References 
 
 Baeza-Yates, R. and Ribeiro-Neto, B. (2008). Modern Information Retrieval, 2nd edn,
 Addison-Wesley Publishing Company, USA.
