@@ -1,10 +1,13 @@
 # Automatic Text Summarization and Summary Evaluation Experiments
 
+## Reference
+This repository is a refactored version of the reproduction package for [A comprehensive review of automatic text summarization techniques: method, data, evaluation and coding](https://doi.org/10.48550/arXiv.2301.03403). Please cite it accordingly.
+
 ## Objective
 This repository presents Python scripts for downloading and wrangling a selection of relevant *corpora* from the literature of Automatic Text Summarization (ATS), as well as applying a variety of abstractive and extractive methods of summarization. The resulting summaries can then be evaluated using a selection of metrics from the literature. The scripts herein were developed with the processing of entire *corpora* in mind, making use of paralellization. However, single-document summarization and evaluation is also possible.
 
-## MCTI Dataset + CNN Corpus download
-In addition to popular datasets from the literature on Natural Language Processing (NLP) available for download through the script itself, wrangling functions were implemented for the Research Project of Data Science Applied to the Financial Products Portfolio (PPF-MCTI) datasets, as well as the CNN Corpus dataset. These datasets must be downloaded externally and extracted to the root of the repository (in a folder named ./data) and are available here: [DOWNLOAD](https://zenodo.org/record/7262127)
+## CNN Corpus
+In addition to popular datasets from the literature on Natural Language Processing (NLP) available for download through the script itself, wrangling functions were implemented for the CNN Corpus dataset. This dataset in particular is included under /data. 
 
 ### Available Datasets:
 - ArXiv + PubMed
@@ -12,9 +15,6 @@ In addition to popular datasets from the literature on Natural Language Processi
 - CNN + Daily Mail
 - XSum
 - CNN Corpus
-- MCTI (News)
-- MCTI (Oportunities)
-- MCTI (Policies)
 
 ### Available Extractive Summarization Methods:
 - Reduction Summarizer
