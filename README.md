@@ -7,7 +7,7 @@ This repository is a refactored version of the reproduction package for [A compr
 This repository presents Python scripts for downloading and wrangling a selection of relevant *corpora* from the literature of Automatic Text Summarization (ATS), as well as applying a variety of abstractive and extractive methods of summarization. The resulting summaries can then be evaluated using a selection of metrics from the literature. The scripts herein were developed with the processing of entire *corpora* in mind, making use of paralellization. However, single-document summarization and evaluation is also possible.
 
 ## CNN Corpus
-In addition to popular datasets from the literature on Natural Language Processing (NLP) available for download through the script itself, wrangling functions were implemented for the CNN Corpus dataset, a novel dataset introduced by [Lins, RD et al. (2019](https://doi.org/10.1145/3342558.3345388) that presents both extractive and abstractive reference summaries for CNN News stories. This dataset in particular is included under `.\data`. 
+In addition to popular datasets from the literature on Natural Language Processing (NLP) available for download through the script itself, wrangling functions were implemented for the CNN Corpus dataset, a novel dataset introduced by [Lins, RD et al. (2019)](https://doi.org/10.1145/3342558.3345388) that presents both extractive and abstractive reference summaries for CNN News stories. This dataset in particular is included under `.\data`. 
 
 ### Available Datasets:
 - ArXiv + PubMed
