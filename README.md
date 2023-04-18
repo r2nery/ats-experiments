@@ -25,10 +25,10 @@ In addition to popular datasets from the literature on Natural Language Processi
 - SumBasic Summarizer
 - TextRank Summarizer
 
-### Available Abstractive Summarization Methods:
-- BART
-- T5
-- PEGASUS
+### Available Abstractive Summarization Methods/Checkpoint:
+- facebook/bart-large-cnn
+- google/pegasus-xsum
+- csebuetnlp/mT5_multilingual_XLSum
 
 ### Available Summary Evaluation Methods:
 - ROUGE
@@ -36,7 +36,7 @@ In addition to popular datasets from the literature on Natural Language Processi
     - ROUGE-L
     - ROUGE-W
     - ROUGE-SU-4
-- Precision, Recall, F
+- Precision, Recall, F1
 - Jaccard and Hellinger Divergences
 - Kullback-Leibler Divergences
 - Cosine Similarity
